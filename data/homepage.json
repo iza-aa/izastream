@@ -1,0 +1,4491 @@
+{
+  "above": [
+    {
+      "id": "2095c14e-0b3c-4539-ac77-861545adee27",
+      "type": "featured",
+      "title": "Featured",
+      "slug": "featured",
+      "description": null,
+      "sortOrder": 0,
+      "showAds": true,
+      "adIds": [
+        "a834efbf-7f50-41d2-9f52-f52570431919",
+        "787b67a7-8673-4ab4-8c4a-344030e99be8"
+      ],
+      "data": [
+        {
+          "id": "b6c5dad7-1ef3-448f-af52-4a7c30793561",
+          "contentType": "movie",
+          "content": {
+            "id": "3228fe29-12ed-445c-8df0-739dc91df598",
+            "tmdbId": 1283515,
+            "imdbId": "tt32261958",
+            "title": "Verity",
+            "slug": "verity-2026",
+            "originalTitle": "Verity",
+            "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+            "tagline": "There is no light where we're going.",
+            "posterPath": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+            "backdropPath": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+            "logoPath": "/8i9EzaVyRMtYW6WxcN7hK3RfDng.png",
+            "backdrops": [
+              "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+              "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+              "/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
+              "/u9y56d8ZjxV5axSN4GMRb1sKa2U.jpg",
+              "/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
+              "/ugwkKEXBlQAXxbBbbYeOLN0J20U.jpg",
+              "/2upfBtX4LgTcEuLI6bZuWlVv3U3.jpg",
+              "/sSPreWTXybWDgfNvKoL9E4sahqH.jpg",
+              "/odyuHRcXn5pwV4uaDUUrFR8p4PN.jpg",
+              "/oLTRdjWO2edGrXeH1rMFlXu0Yfj.jpg"
+            ],
+            "releaseDate": "2026-09-30",
+            "runtime": 114,
+            "voteAverage": "6.39",
+            "popularity": null,
+            "popularityScore": 7418,
+            "originalLanguage": "en",
+            "country": "US",
+            "status": "Released",
+            "trailerUrl": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
+            "quality": "WEB-DL",
+            "director": "Michael Showalter",
+            "directorTmdbId": 22215,
+            "directorProfilePath": "/AtX8Eli8Cg8g8HrcRJDBFnplyN0.jpg",
+            "productionCompanies": [
+              {
+                "id": 121708,
+                "name": "Eat the Cat",
+                "logo_path": "/vcryivUnATVk0rpr1TMYSulGt26.png"
+              },
+              {
+                "id": 112037,
+                "name": "Semi-Formal Productions",
+                "logo_path": "/tEjXfABMQ01K1T6YQienJMe0QRH.png"
+              },
+              {
+                "id": 176196,
+                "name": "Somewhere Pictures",
+                "logo_path": null
+              },
+              {
+                "id": 168415,
+                "name": "Shiny Penny Productions",
+                "logo_path": "/e4qwqDDcRj93DdglUK1MbdEofqy.png"
+              },
+              {
+                "id": 241073,
+                "name": "Heartbones Entertainment",
+                "logo_path": null
+              },
+              {
+                "id": 210099,
+                "name": "Amazon MGM Studios",
+                "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+              },
+              {
+                "id": 6831,
+                "name": "Big Indie Pictures",
+                "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 818,
+                "name": "based on novel or book"
+              },
+              {
+                "id": 12565,
+                "name": "psychological thriller"
+              },
+              {
+                "id": 155251,
+                "name": "novelist"
+              },
+              {
+                "id": 180724,
+                "name": "hidden truth"
+              },
+              {
+                "id": 207767,
+                "name": "erotic thriller"
+              },
+              {
+                "id": 210726,
+                "name": "ghost writer"
+              }
+            ],
+            "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+            "viewCount": 7616,
+            "watchlistCount": 145,
+            "favouriteCount": 30,
+            "shareCount": 7,
+            "isPublished": true,
+            "commentsDisabled": false,
+            "commentsDisabledBy": null,
+            "commentsDisabledByRole": null,
+            "commentsDisabledAt": null,
+            "createdAt": "2026-10-27T09:02:01.176Z",
+            "updatedAt": "2026-10-27T09:02:05.100Z",
+            "genres": [
+              {
+                "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+                "name": "Mystery",
+                "slug": "mystery"
+              },
+              {
+                "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+                "name": "Thriller",
+                "slug": "thriller"
+              }
+            ],
+            "hasVideo": true
+          },
+          "title": null,
+          "description": null,
+          "backdropOverride": null
+        },
+        {
+          "id": "208de5ea-834d-4166-9349-fb7e8609d40a",
+          "contentType": "movie",
+          "content": {
+            "id": "38640eb7-1276-4e07-8f76-f0b8cb296f64",
+            "tmdbId": 1465063,
+            "imdbId": "tt36583977",
+            "title": "Forgotten Island",
+            "slug": "forgotten-island-2026",
+            "originalTitle": "Forgotten Island",
+            "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+            "tagline": "No memory left behind.",
+            "posterPath": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+            "backdropPath": "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+            "logoPath": "/barJMlk3d6jiiMy3AbqjhBPH0Yw.png",
+            "backdrops": [
+              "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+              "/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
+              "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+              "/iU2RVy0G99XoDSUHvcQomtif5nP.jpg",
+              "/dhgYR0e9DwPZ7SvlrignZSlGHES.jpg",
+              "/8bRpAmoNdH7LKkrCiDOABSLxw8o.jpg",
+              "/9tC7T5JLOSENHj5EBoMOc4PiOt.jpg",
+              "/cLTGZgo0ndO6T8RqsQZU0ryno6u.jpg",
+              "/wCsNsAW67lN8GQ32oVzZVgzT0Li.jpg",
+              "/acJMSEaUdRgUCj26hk8VAZSFRNf.jpg"
+            ],
+            "releaseDate": "2026-09-10",
+            "runtime": 109,
+            "voteAverage": "7.64",
+            "popularity": null,
+            "popularityScore": 1623,
+            "originalLanguage": "en",
+            "country": "US",
+            "status": "Released",
+            "trailerUrl": "https://www.youtube.com/watch?v=PhgY8cOJiQA",
+            "quality": "WEB-DL",
+            "director": "Januel Mercado",
+            "directorTmdbId": 3012833,
+            "directorProfilePath": "/kRgA9405XoklQG9RbuzjOnoRp6x.jpg",
+            "productionCompanies": [
+              {
+                "id": 521,
+                "name": "DreamWorks Animation",
+                "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 6054,
+                "name": "friendship"
+              },
+              {
+                "id": 2041,
+                "name": "island"
+              },
+              {
+                "id": 2035,
+                "name": "mythology"
+              },
+              {
+                "id": 5248,
+                "name": "female friendship"
+              },
+              {
+                "id": 5457,
+                "name": "mythical creature"
+              },
+              {
+                "id": 6895,
+                "name": "philippines"
+              },
+              {
+                "id": 10683,
+                "name": "coming of age"
+              },
+              {
+                "id": 11469,
+                "name": "memory loss"
+              },
+              {
+                "id": 10937,
+                "name": "memory"
+              },
+              {
+                "id": 12392,
+                "name": "best friend"
+              },
+              {
+                "id": 15001,
+                "name": "demon"
+              },
+              {
+                "id": 210608,
+                "name": "1990s"
+              },
+              {
+                "id": 248927,
+                "name": "found family"
+              },
+              {
+                "id": 254167,
+                "name": "loving"
+              },
+              {
+                "id": 273297,
+                "name": "grandmother granddaughter relationship"
+              },
+              {
+                "id": 278823,
+                "name": "3d animation"
+              },
+              {
+                "id": 289920,
+                "name": "filipino"
+              },
+              {
+                "id": 320552,
+                "name": "filipino mythology"
+              },
+              {
+                "id": 325782,
+                "name": "cheerful"
+              },
+              {
+                "id": 325811,
+                "name": "excited"
+              },
+              {
+                "id": 325832,
+                "name": "joyful"
+              },
+              {
+                "id": 348340,
+                "name": "filipino culture"
+              },
+              {
+                "id": 372532,
+                "name": "magic portal"
+              },
+              {
+                "id": 381928,
+                "name": "art shift"
+              },
+              {
+                "id": 381930,
+                "name": "animesque"
+              }
+            ],
+            "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+            "viewCount": 1661,
+            "watchlistCount": 26,
+            "favouriteCount": 6,
+            "shareCount": 1,
+            "isPublished": true,
+            "commentsDisabled": false,
+            "commentsDisabledBy": null,
+            "commentsDisabledByRole": null,
+            "commentsDisabledAt": null,
+            "createdAt": "2026-10-27T09:01:37.545Z",
+            "updatedAt": "2026-10-27T09:03:17.214Z",
+            "genres": [
+              {
+                "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+                "name": "Family",
+                "slug": "family"
+              },
+              {
+                "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+                "name": "Animation",
+                "slug": "animation"
+              },
+              {
+                "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+                "name": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+                "name": "Comedy",
+                "slug": "comedy"
+              },
+              {
+                "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+                "name": "Fantasy",
+                "slug": "fantasy"
+              }
+            ],
+            "hasVideo": true
+          },
+          "title": null,
+          "description": null,
+          "backdropOverride": null
+        },
+        {
+          "id": "781cd016-678a-42ef-b312-098a6f33022c",
+          "contentType": "tv_series",
+          "content": {
+            "id": "c12f3da3-0071-468d-bbd2-0648c325d1f2",
+            "tmdbId": 105248,
+            "imdbId": "tt12590266",
+            "title": "Cyberpunk: Edgerunners",
+            "slug": "cyberpunk-edgerunners-2022",
+            "originalTitle": "サイバーパンク: エッジランナーズ",
+            "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+            "tagline": "Just keep running.",
+            "posterPath": "/tGwHJVf9dYJjHlvyOqbGq3Y1Wpc.jpg",
+            "backdropPath": "/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
+            "logoPath": "/2wgUnrYEGtbcpZCl83ta2hS8d6J.png",
+            "backdrops": [
+              "/obzl1uYiC8gevu2YZIifw42hRt5.jpg",
+              "/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+              "/w0lU7U89Fm4K8BQD4hJQpQthxu9.jpg",
+              "/9Mo7R35rv14LVYLHdU5Cq7dJuGv.jpg",
+              "/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
+              "/gLlemMoIN4vbKvZvOWInWGxeQNL.jpg",
+              "/bRE6zX4iOAejLOQCHryoV5WNu8G.jpg",
+              "/aQJW88GolybGrVqzIC2hI6coUr.jpg",
+              "/fbMDEQHvjHacEXfqKmHgCtKqf5G.jpg",
+              "/bknKZO7DWVYKeByuJMnGI46PFZg.jpg"
+            ],
+            "firstAirDate": "2022-09-13",
+            "numberOfSeasons": 2,
+            "numberOfEpisodes": 10,
+            "voteAverage": "8.47",
+            "popularity": "25.599",
+            "popularityScore": 134159,
+            "originalLanguage": "ja",
+            "country": "JP",
+            "trailerUrl": "https://www.youtube.com/watch?v=JtqIas3bYhg",
+            "status": "Returning Series",
+            "networks": [
+              {
+                "id": 213,
+                "name": "Netflix",
+                "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+                "origin_country": ""
+              }
+            ],
+            "productionCompanies": [
+              {
+                "id": 50908,
+                "name": "TRIGGER",
+                "logo_path": "/g96SufLc3lXtaU73tAvEbTbXymY.png"
+              },
+              {
+                "id": 117187,
+                "name": "CD PROJEKT RED",
+                "logo_path": "/9XnbaSeD1REQ04dJCQcJpBqSP8B.png"
+              },
+              {
+                "id": 185004,
+                "name": "Netflix",
+                "logo_path": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png"
+              },
+              {
+                "id": 178464,
+                "name": "Netflix",
+                "logo_path": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 1576,
+                "name": "technology"
+              },
+              {
+                "id": 3070,
+                "name": "mercenary"
+              },
+              {
+                "id": 4565,
+                "name": "dystopia"
+              },
+              {
+                "id": 9706,
+                "name": "anthology"
+              },
+              {
+                "id": 10410,
+                "name": "conspiracy"
+              },
+              {
+                "id": 12190,
+                "name": "cyberpunk"
+              },
+              {
+                "id": 41645,
+                "name": "based on video game"
+              },
+              {
+                "id": 192260,
+                "name": "futuristic society"
+              },
+              {
+                "id": 202371,
+                "name": "aggressive"
+              },
+              {
+                "id": 210024,
+                "name": "anime"
+              },
+              {
+                "id": 323096,
+                "name": "original net animation (ona)"
+              },
+              {
+                "id": 324886,
+                "name": "bitter"
+              },
+              {
+                "id": 325854,
+                "name": "tragic"
+              }
+            ],
+            "createdBy": [
+              {
+                "id": 3581622,
+                "name": "Rafał Jaki",
+                "gender": 2,
+                "credit_id": "62a13a03d2147c117cb82989",
+                "profile_path": "/tHZVhOPzQzzX0v5UuxI1X1qhNMa.jpg",
+                "original_name": "Rafał Jaki"
+              }
+            ],
+            "importedBy": "b07dbd00-847c-4b35-838a-56f4ed0ad1f4",
+            "viewCount": 195043,
+            "watchlistCount": 465,
+            "favouriteCount": 228,
+            "shareCount": 14,
+            "isPublished": true,
+            "commentsDisabled": false,
+            "commentsDisabledBy": null,
+            "commentsDisabledByRole": null,
+            "commentsDisabledAt": null,
+            "createdAt": "2026-04-02T16:58:41.524Z",
+            "updatedAt": "2026-10-20T11:43:17.471Z",
+            "genres": [
+              {
+                "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+                "name": "Action",
+                "slug": "action"
+              },
+              {
+                "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+                "name": "Drama",
+                "slug": "drama"
+              },
+              {
+                "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+                "name": "Animation",
+                "slug": "animation"
+              },
+              {
+                "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+                "name": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+                "name": "Fantasy",
+                "slug": "fantasy"
+              },
+              {
+                "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+                "name": "Science Fiction",
+                "slug": "science-fiction"
+              }
+            ]
+          },
+          "title": null,
+          "description": null,
+          "backdropOverride": null
+        },
+        {
+          "id": "0bfa22ea-1882-4e20-ad91-bc0ddb23f9a4",
+          "contentType": "tv_series",
+          "content": {
+            "id": "54624fe2-96f2-4fd9-aeaa-4f73f86fdcc7",
+            "tmdbId": 213375,
+            "imdbId": "tt23112594",
+            "title": "VisionQuest",
+            "slug": "visionquest-2026",
+            "originalTitle": "VisionQuest",
+            "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+            "tagline": null,
+            "posterPath": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+            "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+            "logoPath": "/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+            "backdrops": [
+              "/hzuvw1ypblYg2uJxVgz1dkeIvKd.jpg",
+              "/hWhB2V6HdOAX4UWrI3gwNWYc9WM.jpg",
+              "/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
+              "/v50p9hearMiu6BlYfp4O7FACmXl.jpg",
+              "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+              "/pirfaMg7IrpyO8z1tt6VPLqvFOH.jpg",
+              "/pMgAiQYQpVHNrcQBJNgWxAqMt2c.jpg",
+              "/hPEkMVlkEBki1o5j76oSigLXcMy.jpg",
+              "/hgo15B8eUnbEjszVV1qdV8sGz9S.jpg",
+              "/hJieOlQ4sFW8FkO0bc3hqy8SCPb.jpg"
+            ],
+            "firstAirDate": "2026-10-13",
+            "numberOfSeasons": 1,
+            "numberOfEpisodes": 2,
+            "voteAverage": "9.30",
+            "popularity": null,
+            "popularityScore": 195113,
+            "originalLanguage": "en",
+            "country": "US",
+            "trailerUrl": "https://www.youtube.com/watch?v=sXKnmgmbkoE",
+            "status": "Returning Series",
+            "networks": [
+              {
+                "id": 2739,
+                "name": "Disney+",
+                "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+                "origin_country": ""
+              }
+            ],
+            "productionCompanies": [
+              {
+                "id": 420,
+                "name": "Marvel Studios",
+                "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+              },
+              {
+                "id": 176762,
+                "name": "Kevin Feige Productions",
+                "logo_path": null
+              }
+            ],
+            "keywords": [
+              {
+                "id": 803,
+                "name": "android"
+              },
+              {
+                "id": 3394,
+                "name": "identity crisis"
+              },
+              {
+                "id": 9717,
+                "name": "based on comic"
+              },
+              {
+                "id": 10562,
+                "name": "on the run"
+              },
+              {
+                "id": 11162,
+                "name": "miniseries"
+              },
+              {
+                "id": 165601,
+                "name": "self identity"
+              },
+              {
+                "id": 180547,
+                "name": "marvel cinematic universe (mcu)"
+              },
+              {
+                "id": 240119,
+                "name": "father son relationship"
+              }
+            ],
+            "createdBy": [
+              {
+                "id": 1252001,
+                "name": "Terry Matalas",
+                "gender": 2,
+                "credit_id": "681929b5b50b5e2a1dc29f35",
+                "profile_path": "/4NDGDtltOwDSpy5pTHFFVuyEMmd.jpg",
+                "original_name": "Terry Matalas"
+              }
+            ],
+            "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+            "viewCount": 354664,
+            "watchlistCount": 1014,
+            "favouriteCount": 421,
+            "shareCount": 31,
+            "isPublished": true,
+            "commentsDisabled": false,
+            "commentsDisabledBy": null,
+            "commentsDisabledByRole": null,
+            "commentsDisabledAt": null,
+            "createdAt": "2026-10-14T04:53:36.682Z",
+            "updatedAt": "2026-10-21T05:16:06.150Z",
+            "genres": [
+              {
+                "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+                "name": "Drama",
+                "slug": "drama"
+              },
+              {
+                "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+                "name": "Fantasy",
+                "slug": "fantasy"
+              },
+              {
+                "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+                "name": "Science Fiction",
+                "slug": "science-fiction"
+              }
+            ]
+          },
+          "title": null,
+          "description": null,
+          "backdropOverride": null
+        },
+        {
+          "id": "512db60f-81ba-47d4-9fbc-e1613f29997f",
+          "contentType": "movie",
+          "content": {
+            "id": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+            "tmdbId": 1058424,
+            "imdbId": "tt27369017",
+            "title": "Hope",
+            "slug": "hope-2026",
+            "originalTitle": "호프",
+            "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+            "tagline": "Is this how it ends?",
+            "posterPath": "/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+            "backdropPath": "/3KvGTuNX47Pdqlg9ossua2TFKrZ.jpg",
+            "logoPath": "/hJG3cSi9z40smOi4Fac07xIlAqZ.png",
+            "backdrops": [
+              "/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+              "/xBcKnWJHodUpvzUVIWTuNMnvEwl.jpg",
+              "/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
+              "/eDDDL1Pc5FDJjdSCB63MsMp1r80.jpg",
+              "/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
+              "/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg",
+              "/i0lipAm0VHFA3EH0CPV0s5LJMIE.jpg",
+              "/5MGFVXDYdcxs4H59f3YgZfEsqq4.jpg",
+              "/fpauQYAbvyIbkQXQzlkrzj3YzTI.jpg",
+              "/5FJIrIJSFYe2M8hVVcrUoIGmDb0.jpg"
+            ],
+            "releaseDate": "2026-07-15",
+            "runtime": 157,
+            "voteAverage": "7.20",
+            "popularity": null,
+            "popularityScore": 79902,
+            "originalLanguage": "ko",
+            "country": "KR",
+            "status": "Released",
+            "trailerUrl": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
+            "quality": "WEB-DL",
+            "director": "Na Hong-jin",
+            "directorTmdbId": 75915,
+            "directorProfilePath": "/hgOX3rbIDfE2JOFlWzrAMsNzWke.jpg",
+            "productionCompanies": [
+              {
+                "id": 196800,
+                "name": "Forged Films",
+                "logo_path": "/gmh5oiXNSKI2WoEnyz8dqV9ikwr.png"
+              },
+              {
+                "id": 91505,
+                "name": "Plus M Entertainment",
+                "logo_path": "/c6ggS6OO4tyEcgBQ7sHs67LDfES.png"
+              },
+              {
+                "id": 168283,
+                "name": "Westworld Story",
+                "logo_path": "/tkoix7ykf4WORjI3PNo5P4an67B.png"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 2993,
+                "name": "police chief"
+              },
+              {
+                "id": 15090,
+                "name": "police officer"
+              },
+              {
+                "id": 181644,
+                "name": "hunted"
+              },
+              {
+                "id": 220235,
+                "name": "remote village"
+              },
+              {
+                "id": 273439,
+                "name": "aliens"
+              },
+              {
+                "id": 285398,
+                "name": "20th century"
+              },
+              {
+                "id": 291153,
+                "name": "grand"
+              },
+              {
+                "id": 325812,
+                "name": "exhilarated"
+              },
+              {
+                "id": 328072,
+                "name": "fight for survival"
+              },
+              {
+                "id": 363056,
+                "name": "unknown entity"
+              }
+            ],
+            "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+            "viewCount": 263674,
+            "watchlistCount": 1099,
+            "favouriteCount": 365,
+            "shareCount": 155,
+            "isPublished": true,
+            "commentsDisabled": false,
+            "commentsDisabledBy": null,
+            "commentsDisabledByRole": null,
+            "commentsDisabledAt": null,
+            "createdAt": "2026-10-13T11:32:35.748Z",
+            "updatedAt": "2026-10-13T11:34:54.358Z",
+            "genres": [
+              {
+                "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+                "name": "Action",
+                "slug": "action"
+              },
+              {
+                "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+                "name": "Mystery",
+                "slug": "mystery"
+              },
+              {
+                "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+                "name": "Science Fiction",
+                "slug": "science-fiction"
+              }
+            ],
+            "hasVideo": true
+          },
+          "title": null,
+          "description": null,
+          "backdropOverride": null
+        },
+        {
+          "id": "3f3961b4-cbe1-4d7b-8186-d10e138088de",
+          "contentType": "movie",
+          "content": {
+            "id": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+            "tmdbId": 1284186,
+            "imdbId": "tt32268992",
+            "title": "Sacrifice",
+            "slug": "sacrifice-2026",
+            "originalTitle": "Sacrifice",
+            "overview": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
+            "tagline": null,
+            "posterPath": "/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
+            "backdropPath": "/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
+            "logoPath": "/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
+            "backdrops": [
+              "/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+              "/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
+              "/3kYnfR6PN20bD4zshZfGza6jA6f.jpg",
+              "/m4M86RLri1Mp9xLEO6fDwBrgIOI.jpg",
+              "/2h8Uc4iU6k3pVBa1DJB6OqHLk26.jpg",
+              "/dkQ95ve1iEyt738io4AJOmQgijJ.jpg",
+              "/tazF0s7Dg4i9lOaHBdW94KWOvT2.jpg",
+              "/fhEThyWfuMJzX56QS9AWOD0W8oO.jpg",
+              "/tj4qYXnb2N9syX8JKtaujltPrYj.jpg",
+              "/wKAryvg3GersIJSDLnGnd4NgWzQ.jpg"
+            ],
+            "releaseDate": "2026-04-09",
+            "runtime": 103,
+            "voteAverage": "5.30",
+            "popularity": null,
+            "popularityScore": 3260,
+            "originalLanguage": "en",
+            "country": "GB",
+            "status": "Released",
+            "trailerUrl": "https://www.youtube.com/watch?v=u5qW1gMMSVI",
+            "quality": "WEB-DL",
+            "director": "Romain Gavras",
+            "directorTmdbId": 78207,
+            "directorProfilePath": "/fdYJW1NoKKrwa5l6RLEsbdnruKE.jpg",
+            "productionCompanies": [
+              {
+                "id": 227077,
+                "name": "Mid March Media",
+                "logo_path": "/9pSCW1pXlXsJ0B3fBiyHyzRSylD.png"
+              },
+              {
+                "id": 76888,
+                "name": "Heretic",
+                "logo_path": "/eQzzrPMtHbgAxKgQysFH73mHaHF.png"
+              },
+              {
+                "id": 246220,
+                "name": "Lady Killer Productions",
+                "logo_path": null
+              },
+              {
+                "id": 78780,
+                "name": "Iconoclast",
+                "logo_path": "/3niMKWcBpqOh4C1PHAG4FSubsgp.png"
+              },
+              {
+                "id": 6705,
+                "name": "Film4 Productions",
+                "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png"
+              },
+              {
+                "id": 118570,
+                "name": "GUCCI",
+                "logo_path": "/2LFzslIbEtan1ZazEilxJaPCBOs.png"
+              },
+              {
+                "id": 5056,
+                "name": "Head Gear Films",
+                "logo_path": "/ok7CQyn0RPEuI0upznPoo93YE6H.png"
+              },
+              {
+                "id": 25954,
+                "name": "Metrol Technology",
+                "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 476,
+                "name": "self-fulfilling prophecy"
+              },
+              {
+                "id": 8201,
+                "name": "satire"
+              },
+              {
+                "id": 18233,
+                "name": "hostage situation"
+              },
+              {
+                "id": 33643,
+                "name": "radical"
+              },
+              {
+                "id": 162262,
+                "name": "movie star"
+              },
+              {
+                "id": 163163,
+                "name": "disciples"
+              },
+              {
+                "id": 196682,
+                "name": "rich man"
+              },
+              {
+                "id": 205607,
+                "name": "unlucky"
+              },
+              {
+                "id": 309533,
+                "name": "charity benefit"
+              },
+              {
+                "id": 312677,
+                "name": "existential crisis"
+              },
+              {
+                "id": 332431,
+                "name": "gala"
+              },
+              {
+                "id": 365952,
+                "name": "morality & choices"
+              }
+            ],
+            "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+            "viewCount": 10746,
+            "watchlistCount": 153,
+            "favouriteCount": 29,
+            "shareCount": 2,
+            "isPublished": true,
+            "commentsDisabled": false,
+            "commentsDisabledBy": null,
+            "commentsDisabledByRole": null,
+            "commentsDisabledAt": null,
+            "createdAt": "2026-10-12T16:54:01.690Z",
+            "updatedAt": "2026-10-12T16:54:46.122Z",
+            "genres": [
+              {
+                "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+                "name": "Action",
+                "slug": "action"
+              },
+              {
+                "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+                "name": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+                "name": "Comedy",
+                "slug": "comedy"
+              }
+            ],
+            "hasVideo": true
+          },
+          "title": null,
+          "description": null,
+          "backdropOverride": null
+        },
+        {
+          "id": "93e061f6-2393-4190-8465-50905a43610b",
+          "contentType": "tv_series",
+          "content": {
+            "id": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+            "tmdbId": 284833,
+            "imdbId": "tt35854736",
+            "title": "Avatar: Seven Havens",
+            "slug": "avatar-seven-havens-2026",
+            "originalTitle": "Avatar: Seven Havens",
+            "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+            "tagline": "New legends will rise.",
+            "posterPath": "/9dZCAQTPHwgszqtqJVMt4eQ9YqK.jpg",
+            "backdropPath": "/pffbKZzIWKjA21XPKqECAKkSBEW.jpg",
+            "logoPath": "/3t6Yes1JJxr4e9Sk6Wl6WpAuY5d.png",
+            "backdrops": [
+              "/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+              "/z0Y4vjd0WhMdWYEySd6wooVQQaH.jpg",
+              "/pffbKZzIWKjA21XPKqECAKkSBEW.jpg",
+              "/ztxiwR10U7ezD16XBLn8xYryYYq.jpg",
+              "/jlzFfTo9Tw5WdAxUKTPdI3Fr0Yr.jpg",
+              "/3yf7MRPfL2Mt8AaBGv7SydUydKL.jpg",
+              "/hPnvN1HWAUlqdm6JlzmTY4Bxl7v.jpg",
+              "/iqzMFLy7EE1xS2vnoXT7Rh2Bvmk.jpg",
+              "/f4F9rmkR7I3HB2a1uw2pE7wK3V9.jpg",
+              "/xkhMAijqUxfECOD64E9wMBdYO9K.jpg"
+            ],
+            "firstAirDate": "2026-10-09",
+            "numberOfSeasons": 1,
+            "numberOfEpisodes": 6,
+            "voteAverage": "10.00",
+            "popularity": null,
+            "popularityScore": 58452,
+            "originalLanguage": "en",
+            "country": "US",
+            "trailerUrl": "https://www.youtube.com/watch?v=nhdh962_ee0",
+            "status": "Returning Series",
+            "networks": [
+              {
+                "id": 4330,
+                "name": "Paramount+",
+                "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+                "origin_country": "US"
+              }
+            ],
+            "productionCompanies": [
+              {
+                "id": 149943,
+                "name": "Avatar Studios",
+                "logo_path": "/1xacI0DXJAe5YWPP0dTJV48B9na.png"
+              },
+              {
+                "id": 4859,
+                "name": "Nickelodeon Animation Studio",
+                "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 779,
+                "name": "martial arts"
+              },
+              {
+                "id": 843,
+                "name": "cataclysm"
+              },
+              {
+                "id": 15016,
+                "name": "twins"
+              },
+              {
+                "id": 181644,
+                "name": "hunted"
+              },
+              {
+                "id": 327471,
+                "name": "anime inspired"
+              }
+            ],
+            "createdBy": [
+              {
+                "id": 1190517,
+                "name": "Michael Dante DiMartino",
+                "gender": 2,
+                "credit_id": "67b75287bc84d56cbeba08c6",
+                "profile_path": "/8ey06cRWYe5TlKl5tyYQf57kknw.jpg",
+                "original_name": "Michael Dante DiMartino"
+              },
+              {
+                "id": 1190518,
+                "name": "Bryan Konietzko",
+                "gender": 2,
+                "credit_id": "67b7528f21d4708b60eaf35b",
+                "profile_path": "/5lPnGvtATjmPakR96dqPW3v4u8q.jpg",
+                "original_name": "Bryan Konietzko"
+              }
+            ],
+            "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+            "viewCount": 167160,
+            "watchlistCount": 458,
+            "favouriteCount": 199,
+            "shareCount": 21,
+            "isPublished": true,
+            "commentsDisabled": false,
+            "commentsDisabledBy": null,
+            "commentsDisabledByRole": null,
+            "commentsDisabledAt": null,
+            "createdAt": "2026-10-09T09:01:25.033Z",
+            "updatedAt": "2026-10-23T15:46:01.470Z",
+            "genres": [
+              {
+                "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+                "name": "Action",
+                "slug": "action"
+              },
+              {
+                "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+                "name": "Family",
+                "slug": "family"
+              },
+              {
+                "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+                "name": "Animation",
+                "slug": "animation"
+              },
+              {
+                "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+                "name": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+                "name": "Fantasy",
+                "slug": "fantasy"
+              },
+              {
+                "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+                "name": "Science Fiction",
+                "slug": "science-fiction"
+              }
+            ]
+          },
+          "title": null,
+          "description": null,
+          "backdropOverride": null
+        },
+        {
+          "id": "aa35dcf7-0757-4f4c-b915-fce873c17bd6",
+          "contentType": "movie",
+          "content": {
+            "id": "76299c3d-7675-479c-9791-879446d3c191",
+            "tmdbId": 1491920,
+            "imdbId": "tt36103784",
+            "title": "Kung Fu Soccer",
+            "slug": "kung-fu-soccer-2026",
+            "originalTitle": "功夫女足",
+            "overview": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Soccer Team has been dealt a hellish script right from the start?! Their opponents are all highly skilled, and external pressure is mounting. The schemes on the field are one after another... Can they use their kung fu to turn the tide on the green field?",
+            "tagline": "One kick can ignite the world.",
+            "posterPath": "/6QgJQrClh9ej357yzLWgCxrjAmJ.jpg",
+            "backdropPath": "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
+            "logoPath": "/t6FfksdELAPDrULgnTQshEIPVP9.png",
+            "backdrops": [
+              "/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
+              "/yj6bku4UhatfkcV22Q4DY1ynj04.jpg",
+              "/nGU2cNmKfNk5MNgp7SmlCELvJMo.jpg",
+              "/wYDiJRbNdhYKtpcrymbS5kL1fFY.jpg"
+            ],
+            "releaseDate": "2026-07-11",
+            "runtime": 106,
+            "voteAverage": "6.00",
+            "popularity": null,
+            "popularityScore": 10832,
+            "originalLanguage": "zh",
+            "country": "CN",
+            "status": "Released",
+            "trailerUrl": "https://www.youtube.com/watch?v=hR6I5FaHpyI",
+            "quality": "WEB-DL",
+            "director": "Stephen Chow",
+            "directorTmdbId": 57607,
+            "directorProfilePath": "/j5DWs54BGZfp92G43c9OyHPvkNG.jpg",
+            "productionCompanies": [
+              {
+                "id": 218024,
+                "name": "Shanghai Maoyan Film 上海猫眼影业",
+                "logo_path": null
+              },
+              {
+                "id": 2270,
+                "name": "China Film Group Corporation",
+                "logo_path": "/7osqu50JpFIh0klZU0s1CrnNqcc.png"
+              },
+              {
+                "id": 164785,
+                "name": "深圳电影制片厂",
+                "logo_path": "/1sTuCk6nFvp9mUd5ERu1980HTR3.png"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 13042,
+                "name": "football (soccer)"
+              },
+              {
+                "id": 325761,
+                "name": "admiring"
+              },
+              {
+                "id": 325762,
+                "name": "adoring"
+              },
+              {
+                "id": 325811,
+                "name": "excited"
+              }
+            ],
+            "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+            "viewCount": 75964,
+            "watchlistCount": 329,
+            "favouriteCount": 118,
+            "shareCount": 49,
+            "isPublished": true,
+            "commentsDisabled": false,
+            "commentsDisabledBy": null,
+            "commentsDisabledByRole": null,
+            "commentsDisabledAt": null,
+            "createdAt": "2026-10-05T19:01:46.224Z",
+            "updatedAt": "2026-10-09T03:42:36.163Z",
+            "genres": [],
+            "hasVideo": true
+          },
+          "title": null,
+          "description": null,
+          "backdropOverride": null
+        },
+        {
+          "id": "b7acb9a4-9881-429b-b0ac-acff2b0120d1",
+          "contentType": "movie",
+          "content": {
+            "id": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+            "tmdbId": 1291595,
+            "imdbId": "tt32393988",
+            "title": "Insidious: Out of the Further",
+            "slug": "insidious-out-of-the-further-2026",
+            "originalTitle": "Insidious: Out of the Further",
+            "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+            "tagline": "Evil found a way out.",
+            "posterPath": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+            "backdropPath": "/w2xDGa1252imRPgCbiY48AbkRBn.jpg",
+            "logoPath": "/iGjbP4jYzzbINDtd9kScypQOlmw.png",
+            "backdrops": [
+              "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+              "/w2xDGa1252imRPgCbiY48AbkRBn.jpg",
+              "/prGSGD56ihQCaexXldXYpeESBeM.jpg",
+              "/wb5aN4g09LFfsIWj5xyjM5t8mQi.jpg",
+              "/juday8QWmjKAfIx7jbOEHzhAt4T.jpg",
+              "/xktdBsGfPQWl4DG3QLXpOB1Xd8u.jpg",
+              "/8ujQlfBsLwNDs1lHmGxDMYkUrRT.jpg",
+              "/yoBvGHXCSsgI93ozbcvYAg1LPiy.jpg",
+              "/9BcIcWgOA2z5wljNPL9VqtsoL6e.jpg",
+              "/eYPqH7vDCCfP4ozHYV8uuLxOzX2.jpg"
+            ],
+            "releaseDate": "2026-08-19",
+            "runtime": 106,
+            "voteAverage": "6.50",
+            "popularity": null,
+            "popularityScore": 37663,
+            "originalLanguage": "en",
+            "country": "US",
+            "status": "Released",
+            "trailerUrl": "https://www.youtube.com/watch?v=gXjurDkYnEM",
+            "quality": "WEB-DL",
+            "director": "Jacob Chase",
+            "directorTmdbId": 131873,
+            "directorProfilePath": "/fY8IuZAuH6mT7SivVD7XKmIkCYJ.jpg",
+            "productionCompanies": [
+              {
+                "id": 3172,
+                "name": "Blumhouse Productions",
+                "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png"
+              },
+              {
+                "id": 3287,
+                "name": "Screen Gems",
+                "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png"
+              },
+              {
+                "id": 11341,
+                "name": "Stage 6 Films",
+                "logo_path": "/eZuaGAonSPXsmXR44huTBXgPUSd.png"
+              },
+              {
+                "id": 76907,
+                "name": "Atomic Monster",
+                "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png"
+              },
+              {
+                "id": 22213,
+                "name": "TSG Entertainment",
+                "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 6152,
+                "name": "supernatural"
+              },
+              {
+                "id": 3335,
+                "name": "halloween"
+              },
+              {
+                "id": 3358,
+                "name": "haunted house"
+              },
+              {
+                "id": 6158,
+                "name": "cult"
+              },
+              {
+                "id": 9663,
+                "name": "sequel"
+              },
+              {
+                "id": 10114,
+                "name": "evil spirit"
+              },
+              {
+                "id": 15001,
+                "name": "demon"
+              },
+              {
+                "id": 33780,
+                "name": "dentist"
+              },
+              {
+                "id": 223914,
+                "name": "other dimension"
+              },
+              {
+                "id": 240315,
+                "name": "mother daughter relationship"
+              },
+              {
+                "id": 241161,
+                "name": "insidious"
+              },
+              {
+                "id": 256183,
+                "name": "supernatural horror"
+              },
+              {
+                "id": 315058,
+                "name": "horror"
+              }
+            ],
+            "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+            "viewCount": 276601,
+            "watchlistCount": 618,
+            "favouriteCount": 264,
+            "shareCount": 228,
+            "isPublished": true,
+            "commentsDisabled": false,
+            "commentsDisabledBy": null,
+            "commentsDisabledByRole": null,
+            "commentsDisabledAt": null,
+            "createdAt": "2026-10-05T17:53:02.588Z",
+            "updatedAt": "2026-10-05T17:54:04.251Z",
+            "genres": [
+              {
+                "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+                "name": "Thriller",
+                "slug": "thriller"
+              },
+              {
+                "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+                "name": "Horror",
+                "slug": "horror"
+              }
+            ],
+            "hasVideo": true
+          },
+          "title": null,
+          "description": null,
+          "backdropOverride": null
+        },
+        {
+          "id": "aaa07c61-a60d-4be7-a5da-19330c9de702",
+          "contentType": "movie",
+          "content": {
+            "id": "3d5344cb-82d8-44ad-bb54-1845878721c5",
+            "tmdbId": 969681,
+            "imdbId": "tt22084616",
+            "title": "Spider-Man: Brand New Day",
+            "slug": "spider-man-brand-new-day-2026",
+            "originalTitle": "Spider-Man: Brand New Day",
+            "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+            "tagline": "A brand new day starts now.",
+            "posterPath": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+            "backdropPath": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+            "logoPath": "/vbZcDHC5IFylYuRnp3eyOs5rTV1.png",
+            "backdrops": [
+              "/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+              "/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+              "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+              "/bPW6HcI0E1eklEle61LVQuD1Cwc.jpg",
+              "/sYsaVy047cfGTLMfcRihee3ShnM.jpg",
+              "/b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg",
+              "/tanwf7KOwQ6dxZzehKsXkffIJOd.jpg",
+              "/yHMJbIEBHnKYWh20XtxV16emwXT.jpg",
+              "/bdRJESuPbFVKiGnKTiPr4o1J9XP.jpg",
+              "/347Zz76hYatVf4J9Ak6OHZumEva.jpg"
+            ],
+            "releaseDate": "2026-07-29",
+            "runtime": 145,
+            "voteAverage": "7.88",
+            "popularity": null,
+            "popularityScore": 44665,
+            "originalLanguage": "en",
+            "country": "US",
+            "status": "Released",
+            "trailerUrl": "https://www.youtube.com/watch?v=P3uI5sLosKU",
+            "quality": "WEB-DL",
+            "director": "Destin Daniel Cretton",
+            "directorTmdbId": 1144604,
+            "directorProfilePath": "/wtA2EtkvCyxu4oWECzqAF7G8IZH.jpg",
+            "productionCompanies": [
+              {
+                "id": 420,
+                "name": "Marvel Studios",
+                "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+              },
+              {
+                "id": 5,
+                "name": "Columbia Pictures",
+                "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+              },
+              {
+                "id": 84041,
+                "name": "Pascal Pictures",
+                "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png"
+              },
+              {
+                "id": 22213,
+                "name": "TSG Entertainment",
+                "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+              }
+            ],
+            "keywords": [
+              {
+                "id": 9678,
+                "name": "mind control"
+              },
+              {
+                "id": 242,
+                "name": "new york city"
+              },
+              {
+                "id": 1701,
+                "name": "hero"
+              },
+              {
+                "id": 2766,
+                "name": "mutation"
+              },
+              {
+                "id": 1308,
+                "name": "secret identity"
+              },
+              {
+                "id": 9715,
+                "name": "superhero"
+              },
+              {
+                "id": 3986,
+                "name": "spider"
+              },
+              {
+                "id": 3289,
+                "name": "villain"
+              },
+              {
+                "id": 9717,
+                "name": "based on comic"
+              },
+              {
+                "id": 9663,
+                "name": "sequel"
+              },
+              {
+                "id": 12375,
+                "name": "transhumanism"
+              },
+              {
+                "id": 33637,
+                "name": "super power"
+              },
+              {
+                "id": 158456,
+                "name": "masked vigilante"
+              },
+              {
+                "id": 169909,
+                "name": "spider web"
+              },
+              {
+                "id": 179430,
+                "name": "aftercreditsstinger"
+              },
+              {
+                "id": 180547,
+                "name": "marvel cinematic universe (mcu)"
+              },
+              {
+                "id": 180734,
+                "name": "masked superhero"
+              },
+              {
+                "id": 193946,
+                "name": "fight for justice"
+              },
+              {
+                "id": 233300,
+                "name": "genetic mutation"
+              }
+            ],
+            "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+            "viewCount": 1409670,
+            "watchlistCount": 2071,
+            "favouriteCount": 1453,
+            "shareCount": 1779,
+            "isPublished": true,
+            "commentsDisabled": false,
+            "commentsDisabledBy": null,
+            "commentsDisabledByRole": null,
+            "commentsDisabledAt": null,
+            "createdAt": "2026-08-09T19:10:57.833Z",
+            "updatedAt": "2026-10-06T03:32:35.987Z",
+            "genres": [
+              {
+                "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+                "name": "Action",
+                "slug": "action"
+              },
+              {
+                "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+                "name": "Adventure",
+                "slug": "adventure"
+              },
+              {
+                "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+                "name": "Science Fiction",
+                "slug": "science-fiction"
+              }
+            ],
+            "hasVideo": true
+          },
+          "title": null,
+          "description": null,
+          "backdropOverride": null
+        }
+      ]
+    },
+    {
+      "id": "32bfdf11-e777-42eb-ab0a-a504b306ba68",
+      "type": "trending",
+      "title": "Trending Now",
+      "slug": "trending-now",
+      "description": null,
+      "sortOrder": 1,
+      "showAds": true,
+      "adIds": [
+        "f9bf7833-d67c-456a-b87b-390d64f09d35",
+        "9f3c9b34-26e8-428c-b573-f4d7873981d0"
+      ],
+      "data": [
+        {
+          "id": "397b6518-a62f-422e-958f-5aeb3fb2d3f4",
+          "title": "Doctor X: Mafia in White",
+          "slug": "doctor-x-mafia-in-white-2026",
+          "posterPath": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+          "backdropPath": "/gEIYUsH0V2tDUTwnA2NNCw1cD0f.jpg",
+          "logoPath": "/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+          "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+          "firstAirDate": "2026-10-09",
+          "voteAverage": "10.00",
+          "viewCount": 1334265,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 5,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=v6KNnhkLnnY",
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 156,
+              "name": "SBS",
+              "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "8433bf5e-9f47-40be-823f-411b68929818",
+              "name": "Crime"
+            },
+            {
+              "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+              "name": "Mystery"
+            }
+          ],
+          "commentCount": 96
+        },
+        {
+          "id": "6d232e0c-7f9b-43f6-a323-6e78ff6763f9",
+          "title": "The Mentalist",
+          "slug": "the-mentalist-2008",
+          "posterPath": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+          "backdropPath": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+          "logoPath": "/aB5jf4O14dykrksrPgtOlvVk0pi.svg",
+          "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+          "firstAirDate": "2008-09-23",
+          "voteAverage": "8.36",
+          "viewCount": 3290402,
+          "country": "US",
+          "numberOfSeasons": 7,
+          "numberOfEpisodes": 149,
+          "status": "Ended",
+          "trailerUrl": null,
+          "originalLanguage": "en",
+          "networks": [
+            {
+              "id": 16,
+              "name": "CBS",
+              "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+              "origin_country": "US"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "8433bf5e-9f47-40be-823f-411b68929818",
+              "name": "Crime"
+            },
+            {
+              "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+              "name": "Mystery"
+            }
+          ],
+          "commentCount": 76
+        },
+        {
+          "id": "3932672a-57da-4321-afbf-514f704f0ee6",
+          "title": "Black Clover",
+          "slug": "black-clover-2017",
+          "posterPath": "/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+          "backdropPath": "/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+          "logoPath": "/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
+          "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+          "firstAirDate": "2017-10-03",
+          "voteAverage": "8.50",
+          "viewCount": 652906,
+          "country": "JP",
+          "numberOfSeasons": 2,
+          "numberOfEpisodes": 174,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=QwNWY6z93O4",
+          "originalLanguage": "ja",
+          "networks": [
+            {
+              "id": 98,
+              "name": "TV Tokyo",
+              "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 252,
+              "name": "TV Aichi",
+              "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 822,
+              "name": "TVQ",
+              "logo_path": "/gOlBe3BMo5WJHeUlWBBfKawgdiO.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 824,
+              "name": "TV Osaka",
+              "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 938,
+              "name": "TVh",
+              "logo_path": "/f12LLqBVFnDVIY8HidhWEitI77c.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 2064,
+              "name": "TSC",
+              "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+              "origin_country": "JP"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+              "name": "Animation"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 50
+        },
+        {
+          "id": "af1a088f-fea1-4a51-a623-76790f66f611",
+          "title": "100 Days of Deception",
+          "slug": "100-days-of-deception-2026",
+          "posterPath": "/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+          "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+          "logoPath": "/diaeNWjfalIuCEv1Eca5q1Yc9kS.png",
+          "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+          "firstAirDate": "2026-10-10",
+          "voteAverage": "0.00",
+          "viewCount": 283055,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 5,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=P0ElxnFyfXY",
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 866,
+              "name": "tvN",
+              "logo_path": "/4iJILrndsUAvriueBVHe8u0nVqo.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            }
+          ],
+          "commentCount": 19
+        },
+        {
+          "id": "32b47770-fed5-4579-a89a-af13a98c92ac",
+          "title": "Take Charge of My Heart",
+          "slug": "take-charge-of-my-heart-2026",
+          "posterPath": "/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+          "backdropPath": "/cHO75BxLM6sz7NsiVyaBmkKnmgg.jpg",
+          "logoPath": "/gkBFyWEjj9iJgwLVGZkxZ7Lh2fu.png",
+          "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+          "firstAirDate": "2026-10-09",
+          "voteAverage": "0.00",
+          "viewCount": 819764,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 0,
+          "status": "Ended",
+          "trailerUrl": "https://www.youtube.com/watch?v=z_D5uXaDsVU",
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 213,
+              "name": "Netflix",
+              "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+              "origin_country": ""
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 31
+        },
+        {
+          "id": "495e5055-9f48-48ed-8b06-a9e002c92cb0",
+          "title": "A Love Other Than Yours",
+          "slug": "a-love-other-than-yours-2026",
+          "posterPath": "/jvNFIc9qy9ynCuKMar9YC258gJP.jpg",
+          "backdropPath": "/aamqCMt8yjcLqfSWvrJk7qApGyT.jpg",
+          "logoPath": "/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
+          "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+          "firstAirDate": "2026-09-12",
+          "voteAverage": "0.00",
+          "viewCount": 573871,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 11,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=zp62ID0bbQM",
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 342,
+              "name": "KBS2",
+              "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            }
+          ],
+          "commentCount": 17
+        },
+        {
+          "id": "54624fe2-96f2-4fd9-aeaa-4f73f86fdcc7",
+          "title": "VisionQuest",
+          "slug": "visionquest-2026",
+          "posterPath": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+          "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+          "logoPath": "/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+          "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+          "firstAirDate": "2026-10-13",
+          "voteAverage": "9.30",
+          "viewCount": 354664,
+          "country": "US",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 2,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=sXKnmgmbkoE",
+          "originalLanguage": "en",
+          "networks": [
+            {
+              "id": 2739,
+              "name": "Disney+",
+              "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+              "origin_country": ""
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 96
+        },
+        {
+          "id": "c12f3da3-0071-468d-bbd2-0648c325d1f2",
+          "title": "Cyberpunk: Edgerunners",
+          "slug": "cyberpunk-edgerunners-2022",
+          "posterPath": "/tGwHJVf9dYJjHlvyOqbGq3Y1Wpc.jpg",
+          "backdropPath": "/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
+          "logoPath": "/2wgUnrYEGtbcpZCl83ta2hS8d6J.png",
+          "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+          "firstAirDate": "2022-09-13",
+          "voteAverage": "8.47",
+          "viewCount": 195043,
+          "country": "JP",
+          "numberOfSeasons": 2,
+          "numberOfEpisodes": 10,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=JtqIas3bYhg",
+          "originalLanguage": "ja",
+          "networks": [
+            {
+              "id": 213,
+              "name": "Netflix",
+              "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+              "origin_country": ""
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+              "name": "Animation"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 30
+        },
+        {
+          "id": "9f88bd38-9e19-4711-a789-2b97fc954efe",
+          "title": "Love in Disguise",
+          "slug": "love-in-disguise-2026",
+          "posterPath": "/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+          "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+          "logoPath": "/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+          "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+          "firstAirDate": "2026-10-19",
+          "voteAverage": "0.00",
+          "viewCount": 45055,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 3,
+          "status": "Returning Series",
+          "trailerUrl": null,
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 866,
+              "name": "tvN",
+              "logo_path": "/4iJILrndsUAvriueBVHe8u0nVqo.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "8433bf5e-9f47-40be-823f-411b68929818",
+              "name": "Crime"
+            },
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            }
+          ],
+          "commentCount": 20
+        },
+        {
+          "id": "6a07d203-e8c5-4031-af8a-0a780cae9dd2",
+          "title": "Modern Family",
+          "slug": "modern-family-2009",
+          "posterPath": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+          "backdropPath": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+          "logoPath": "/rbKhglYrECjMZNYtT2QyihOQ5F.png",
+          "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+          "firstAirDate": "2009-09-23",
+          "voteAverage": "7.90",
+          "viewCount": 1117660,
+          "country": "US",
+          "numberOfSeasons": 11,
+          "numberOfEpisodes": 249,
+          "status": "Ended",
+          "trailerUrl": "https://www.youtube.com/watch?v=rbpTUPisA78",
+          "originalLanguage": "en",
+          "networks": [
+            {
+              "id": 2,
+              "name": "ABC",
+              "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+              "origin_country": "US"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            }
+          ],
+          "commentCount": 5
+        },
+        {
+          "id": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+          "title": "Friends Sex and Games",
+          "slug": "friends-sex-and-games-2026",
+          "posterPath": "/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg",
+          "backdropPath": "/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
+          "logoPath": "/7HY0PO2YDHuCFYkE7xjMQ4Hmfq3.png",
+          "overview": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
+          "firstAirDate": "2026-10-16",
+          "voteAverage": "10.00",
+          "viewCount": 176427,
+          "country": "DE",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 0,
+          "status": "Returning Series",
+          "trailerUrl": null,
+          "originalLanguage": "de",
+          "networks": [
+            {
+              "id": 1024,
+              "name": "Prime Video",
+              "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
+              "origin_country": ""
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            }
+          ],
+          "commentCount": 5
+        },
+        {
+          "id": "e96a9f19-cad1-443c-8700-e8e957e706b4",
+          "title": "Game of Thrones",
+          "slug": "game-of-thrones-2011",
+          "posterPath": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+          "backdropPath": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+          "logoPath": "/6pObznbCoxVpY1lPQwJxETd7Phe.png",
+          "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+          "firstAirDate": "2011-04-17",
+          "voteAverage": "8.50",
+          "viewCount": 2215934,
+          "country": "GB",
+          "numberOfSeasons": 8,
+          "numberOfEpisodes": 73,
+          "status": "Ended",
+          "trailerUrl": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+          "originalLanguage": "en",
+          "networks": [
+            {
+              "id": 49,
+              "name": "HBO",
+              "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+              "origin_country": "US"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 45
+        },
+        {
+          "id": "5e88de20-ad60-447c-8701-55c35d97f4c8",
+          "title": "Flex x Cop",
+          "slug": "flex-x-cop-2024",
+          "posterPath": "/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
+          "backdropPath": "/zKruyrpu45wgs1PNBmgASAMVMXe.jpg",
+          "logoPath": "/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
+          "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
+          "firstAirDate": "2024-01-26",
+          "voteAverage": "7.90",
+          "viewCount": 1702249,
+          "country": "KR",
+          "numberOfSeasons": 2,
+          "numberOfEpisodes": 29,
+          "status": "Returning Series",
+          "trailerUrl": null,
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 156,
+              "name": "SBS",
+              "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "8433bf5e-9f47-40be-823f-411b68929818",
+              "name": "Crime"
+            },
+            {
+              "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+              "name": "Mystery"
+            }
+          ],
+          "commentCount": 34
+        },
+        {
+          "id": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+          "title": "Hope",
+          "slug": "hope-2026",
+          "posterPath": "/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+          "backdropPath": "/3KvGTuNX47Pdqlg9ossua2TFKrZ.jpg",
+          "logoPath": "/hJG3cSi9z40smOi4Fac07xIlAqZ.png",
+          "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+          "releaseDate": "2026-07-15",
+          "voteAverage": "7.20",
+          "viewCount": 263674,
+          "quality": "WEB-DL",
+          "country": "KR",
+          "runtime": 157,
+          "trailerUrl": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
+          "originalLanguage": "ko",
+          "productionCompanies": [
+            {
+              "id": 196800,
+              "name": "Forged Films",
+              "logo_path": "/gmh5oiXNSKI2WoEnyz8dqV9ikwr.png"
+            },
+            {
+              "id": 91505,
+              "name": "Plus M Entertainment",
+              "logo_path": "/c6ggS6OO4tyEcgBQ7sHs67LDfES.png"
+            },
+            {
+              "id": 168283,
+              "name": "Westworld Story",
+              "logo_path": "/tkoix7ykf4WORjI3PNo5P4an67B.png"
+            }
+          ],
+          "contentType": "movie",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            },
+            {
+              "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+              "name": "Mystery"
+            }
+          ],
+          "commentCount": 222
+        },
+        {
+          "id": "52ed37c0-4683-44b2-a61b-af45bf62bc9c",
+          "title": "Between Steps",
+          "slug": "between-steps-2026",
+          "posterPath": "/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
+          "backdropPath": "/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
+          "logoPath": "/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
+          "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
+          "firstAirDate": "2026-10-05",
+          "voteAverage": "0.00",
+          "viewCount": 123898,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 7,
+          "status": "Returning Series",
+          "trailerUrl": null,
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 5841,
+              "name": "ENA",
+              "logo_path": "/mZf3Om1VVr2hyKbDEfdVM5Dgvh6.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            }
+          ],
+          "commentCount": 5
+        }
+      ],
+      "trendingPeriod": "24h",
+      "trendingLimit": 15
+    },
+    {
+      "id": "9c06c5ee-9648-49f5-adaf-5c657db5b42b",
+      "type": "trending",
+      "title": "Trending in Indonesia",
+      "slug": "trending-country",
+      "description": null,
+      "sortOrder": 2,
+      "showAds": true,
+      "adIds": [
+        "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+        "f918a74c-2287-4de2-8f1b-14b8cc2fb946"
+      ],
+      "data": [
+        {
+          "id": "397b6518-a62f-422e-958f-5aeb3fb2d3f4",
+          "title": "Doctor X: Mafia in White",
+          "slug": "doctor-x-mafia-in-white-2026",
+          "posterPath": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+          "backdropPath": "/gEIYUsH0V2tDUTwnA2NNCw1cD0f.jpg",
+          "logoPath": "/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+          "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+          "firstAirDate": "2026-10-09",
+          "voteAverage": "10.00",
+          "viewCount": 1334265,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 5,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=v6KNnhkLnnY",
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 156,
+              "name": "SBS",
+              "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "8433bf5e-9f47-40be-823f-411b68929818",
+              "name": "Crime"
+            },
+            {
+              "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+              "name": "Mystery"
+            }
+          ],
+          "commentCount": 96
+        },
+        {
+          "id": "6d232e0c-7f9b-43f6-a323-6e78ff6763f9",
+          "title": "The Mentalist",
+          "slug": "the-mentalist-2008",
+          "posterPath": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+          "backdropPath": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+          "logoPath": "/aB5jf4O14dykrksrPgtOlvVk0pi.svg",
+          "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+          "firstAirDate": "2008-09-23",
+          "voteAverage": "8.36",
+          "viewCount": 3290402,
+          "country": "US",
+          "numberOfSeasons": 7,
+          "numberOfEpisodes": 149,
+          "status": "Ended",
+          "trailerUrl": null,
+          "originalLanguage": "en",
+          "networks": [
+            {
+              "id": 16,
+              "name": "CBS",
+              "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+              "origin_country": "US"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "8433bf5e-9f47-40be-823f-411b68929818",
+              "name": "Crime"
+            },
+            {
+              "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+              "name": "Mystery"
+            }
+          ],
+          "commentCount": 76
+        },
+        {
+          "id": "af1a088f-fea1-4a51-a623-76790f66f611",
+          "title": "100 Days of Deception",
+          "slug": "100-days-of-deception-2026",
+          "posterPath": "/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+          "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+          "logoPath": "/diaeNWjfalIuCEv1Eca5q1Yc9kS.png",
+          "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+          "firstAirDate": "2026-10-10",
+          "voteAverage": "0.00",
+          "viewCount": 283055,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 5,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=P0ElxnFyfXY",
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 866,
+              "name": "tvN",
+              "logo_path": "/4iJILrndsUAvriueBVHe8u0nVqo.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            }
+          ],
+          "commentCount": 19
+        },
+        {
+          "id": "3932672a-57da-4321-afbf-514f704f0ee6",
+          "title": "Black Clover",
+          "slug": "black-clover-2017",
+          "posterPath": "/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+          "backdropPath": "/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+          "logoPath": "/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
+          "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+          "firstAirDate": "2017-10-03",
+          "voteAverage": "8.50",
+          "viewCount": 652906,
+          "country": "JP",
+          "numberOfSeasons": 2,
+          "numberOfEpisodes": 174,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=QwNWY6z93O4",
+          "originalLanguage": "ja",
+          "networks": [
+            {
+              "id": 98,
+              "name": "TV Tokyo",
+              "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 252,
+              "name": "TV Aichi",
+              "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 822,
+              "name": "TVQ",
+              "logo_path": "/gOlBe3BMo5WJHeUlWBBfKawgdiO.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 824,
+              "name": "TV Osaka",
+              "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 938,
+              "name": "TVh",
+              "logo_path": "/f12LLqBVFnDVIY8HidhWEitI77c.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 2064,
+              "name": "TSC",
+              "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+              "origin_country": "JP"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+              "name": "Animation"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 50
+        },
+        {
+          "id": "32b47770-fed5-4579-a89a-af13a98c92ac",
+          "title": "Take Charge of My Heart",
+          "slug": "take-charge-of-my-heart-2026",
+          "posterPath": "/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+          "backdropPath": "/cHO75BxLM6sz7NsiVyaBmkKnmgg.jpg",
+          "logoPath": "/gkBFyWEjj9iJgwLVGZkxZ7Lh2fu.png",
+          "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+          "firstAirDate": "2026-10-09",
+          "voteAverage": "0.00",
+          "viewCount": 819764,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 0,
+          "status": "Ended",
+          "trailerUrl": "https://www.youtube.com/watch?v=z_D5uXaDsVU",
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 213,
+              "name": "Netflix",
+              "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+              "origin_country": ""
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 31
+        },
+        {
+          "id": "495e5055-9f48-48ed-8b06-a9e002c92cb0",
+          "title": "A Love Other Than Yours",
+          "slug": "a-love-other-than-yours-2026",
+          "posterPath": "/jvNFIc9qy9ynCuKMar9YC258gJP.jpg",
+          "backdropPath": "/aamqCMt8yjcLqfSWvrJk7qApGyT.jpg",
+          "logoPath": "/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
+          "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+          "firstAirDate": "2026-09-12",
+          "voteAverage": "0.00",
+          "viewCount": 573871,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 11,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=zp62ID0bbQM",
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 342,
+              "name": "KBS2",
+              "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            }
+          ],
+          "commentCount": 17
+        },
+        {
+          "id": "54624fe2-96f2-4fd9-aeaa-4f73f86fdcc7",
+          "title": "VisionQuest",
+          "slug": "visionquest-2026",
+          "posterPath": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+          "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+          "logoPath": "/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+          "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+          "firstAirDate": "2026-10-13",
+          "voteAverage": "9.30",
+          "viewCount": 354664,
+          "country": "US",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 2,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=sXKnmgmbkoE",
+          "originalLanguage": "en",
+          "networks": [
+            {
+              "id": 2739,
+              "name": "Disney+",
+              "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+              "origin_country": ""
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 96
+        },
+        {
+          "id": "c12f3da3-0071-468d-bbd2-0648c325d1f2",
+          "title": "Cyberpunk: Edgerunners",
+          "slug": "cyberpunk-edgerunners-2022",
+          "posterPath": "/tGwHJVf9dYJjHlvyOqbGq3Y1Wpc.jpg",
+          "backdropPath": "/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
+          "logoPath": "/2wgUnrYEGtbcpZCl83ta2hS8d6J.png",
+          "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+          "firstAirDate": "2022-09-13",
+          "voteAverage": "8.47",
+          "viewCount": 195043,
+          "country": "JP",
+          "numberOfSeasons": 2,
+          "numberOfEpisodes": 10,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=JtqIas3bYhg",
+          "originalLanguage": "ja",
+          "networks": [
+            {
+              "id": 213,
+              "name": "Netflix",
+              "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+              "origin_country": ""
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+              "name": "Animation"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 30
+        },
+        {
+          "id": "9f88bd38-9e19-4711-a789-2b97fc954efe",
+          "title": "Love in Disguise",
+          "slug": "love-in-disguise-2026",
+          "posterPath": "/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+          "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+          "logoPath": "/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+          "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+          "firstAirDate": "2026-10-19",
+          "voteAverage": "0.00",
+          "viewCount": 45055,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 3,
+          "status": "Returning Series",
+          "trailerUrl": null,
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 866,
+              "name": "tvN",
+              "logo_path": "/4iJILrndsUAvriueBVHe8u0nVqo.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "8433bf5e-9f47-40be-823f-411b68929818",
+              "name": "Crime"
+            },
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            }
+          ],
+          "commentCount": 20
+        },
+        {
+          "id": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+          "title": "Friends Sex and Games",
+          "slug": "friends-sex-and-games-2026",
+          "posterPath": "/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg",
+          "backdropPath": "/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
+          "logoPath": "/7HY0PO2YDHuCFYkE7xjMQ4Hmfq3.png",
+          "overview": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
+          "firstAirDate": "2026-10-16",
+          "voteAverage": "10.00",
+          "viewCount": 176427,
+          "country": "DE",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 0,
+          "status": "Returning Series",
+          "trailerUrl": null,
+          "originalLanguage": "de",
+          "networks": [
+            {
+              "id": 1024,
+              "name": "Prime Video",
+              "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
+              "origin_country": ""
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            }
+          ],
+          "commentCount": 5
+        },
+        {
+          "id": "6a07d203-e8c5-4031-af8a-0a780cae9dd2",
+          "title": "Modern Family",
+          "slug": "modern-family-2009",
+          "posterPath": "/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",
+          "backdropPath": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+          "logoPath": "/rbKhglYrECjMZNYtT2QyihOQ5F.png",
+          "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+          "firstAirDate": "2009-09-23",
+          "voteAverage": "7.90",
+          "viewCount": 1117660,
+          "country": "US",
+          "numberOfSeasons": 11,
+          "numberOfEpisodes": 249,
+          "status": "Ended",
+          "trailerUrl": "https://www.youtube.com/watch?v=rbpTUPisA78",
+          "originalLanguage": "en",
+          "networks": [
+            {
+              "id": 2,
+              "name": "ABC",
+              "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+              "origin_country": "US"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            }
+          ],
+          "commentCount": 5
+        },
+        {
+          "id": "e96a9f19-cad1-443c-8700-e8e957e706b4",
+          "title": "Game of Thrones",
+          "slug": "game-of-thrones-2011",
+          "posterPath": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+          "backdropPath": "/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+          "logoPath": "/6pObznbCoxVpY1lPQwJxETd7Phe.png",
+          "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+          "firstAirDate": "2011-04-17",
+          "voteAverage": "8.50",
+          "viewCount": 2215934,
+          "country": "GB",
+          "numberOfSeasons": 8,
+          "numberOfEpisodes": 73,
+          "status": "Ended",
+          "trailerUrl": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+          "originalLanguage": "en",
+          "networks": [
+            {
+              "id": 49,
+              "name": "HBO",
+              "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+              "origin_country": "US"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 45
+        },
+        {
+          "id": "5e88de20-ad60-447c-8701-55c35d97f4c8",
+          "title": "Flex x Cop",
+          "slug": "flex-x-cop-2024",
+          "posterPath": "/2eWH2RDxpbIfEs17BpJTQhcOqRs.jpg",
+          "backdropPath": "/zKruyrpu45wgs1PNBmgASAMVMXe.jpg",
+          "logoPath": "/42Dzr3D1YEeCsFFE7OD2nm4dH1p.png",
+          "overview": "A chaebol cop joins forces with a gritty detective to take down criminals with a touch of wealth and a whole lot of wit.",
+          "firstAirDate": "2024-01-26",
+          "voteAverage": "7.90",
+          "viewCount": 1702249,
+          "country": "KR",
+          "numberOfSeasons": 2,
+          "numberOfEpisodes": 29,
+          "status": "Returning Series",
+          "trailerUrl": null,
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 156,
+              "name": "SBS",
+              "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "8433bf5e-9f47-40be-823f-411b68929818",
+              "name": "Crime"
+            },
+            {
+              "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+              "name": "Mystery"
+            }
+          ],
+          "commentCount": 34
+        },
+        {
+          "id": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+          "title": "Hope",
+          "slug": "hope-2026",
+          "posterPath": "/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+          "backdropPath": "/3KvGTuNX47Pdqlg9ossua2TFKrZ.jpg",
+          "logoPath": "/hJG3cSi9z40smOi4Fac07xIlAqZ.png",
+          "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+          "releaseDate": "2026-07-15",
+          "voteAverage": "7.20",
+          "viewCount": 263674,
+          "quality": "WEB-DL",
+          "country": "KR",
+          "runtime": 157,
+          "trailerUrl": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
+          "originalLanguage": "ko",
+          "productionCompanies": [
+            {
+              "id": 196800,
+              "name": "Forged Films",
+              "logo_path": "/gmh5oiXNSKI2WoEnyz8dqV9ikwr.png"
+            },
+            {
+              "id": 91505,
+              "name": "Plus M Entertainment",
+              "logo_path": "/c6ggS6OO4tyEcgBQ7sHs67LDfES.png"
+            },
+            {
+              "id": 168283,
+              "name": "Westworld Story",
+              "logo_path": "/tkoix7ykf4WORjI3PNo5P4an67B.png"
+            }
+          ],
+          "contentType": "movie",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            },
+            {
+              "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+              "name": "Mystery"
+            }
+          ],
+          "commentCount": 222
+        },
+        {
+          "id": "52ed37c0-4683-44b2-a61b-af45bf62bc9c",
+          "title": "Between Steps",
+          "slug": "between-steps-2026",
+          "posterPath": "/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
+          "backdropPath": "/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
+          "logoPath": "/7s3J50pv03FnB1wj6d3mdTOt1iw.png",
+          "overview": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
+          "firstAirDate": "2026-10-05",
+          "voteAverage": "0.00",
+          "viewCount": 123898,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 7,
+          "status": "Returning Series",
+          "trailerUrl": null,
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 5841,
+              "name": "ENA",
+              "logo_path": "/mZf3Om1VVr2hyKbDEfdVM5Dgvh6.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            }
+          ],
+          "commentCount": 5
+        }
+      ],
+      "trendingCountry": "ID",
+      "trendingCountryName": "Indonesia",
+      "trendingPeriod": "24h",
+      "trendingLimit": 15
+    }
+  ],
+  "below": [
+    {
+      "id": "23378b43-999c-4b31-ba1c-642d8fb3fa9a",
+      "type": "network",
+      "title": "Network Originals",
+      "slug": "network-originals",
+      "description": "Original series from top streaming networks",
+      "sortOrder": 3,
+      "showAds": false,
+      "adIds": [],
+      "data": [
+        {
+          "id": "a6e9814e-1f0b-46c6-8313-77aaebec8300",
+          "title": "Love Stuck",
+          "slug": "love-stuck-2024",
+          "posterPath": "/k6oOxZaIxV7IBFIh22WIr22zcug.jpg",
+          "backdropPath": "/6BPePwi75uczjEi8vR4TdqTFg5F.jpg",
+          "releaseDate": "2024-10-16",
+          "voteAverage": "6.80",
+          "viewCount": 1605,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 0
+        },
+        {
+          "id": "23824ce8-0b03-4f8f-bf00-b764f44f3130",
+          "title": "Deep Cover",
+          "slug": "deep-cover-2025",
+          "posterPath": "/yYfaChljpg6eo9ZlFyTmI81PMZC.jpg",
+          "backdropPath": "/lOje1iz4VYWELYWRkZAwI7oIJd0.jpg",
+          "releaseDate": "2025-06-12",
+          "voteAverage": "6.71",
+          "viewCount": 4418,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 3
+        },
+        {
+          "id": "6e43bc93-c4bb-4407-b168-f3a01e60dd4b",
+          "title": "Barreda",
+          "slug": "barreda-2026",
+          "posterPath": "/hnr0QkZSDLlrJTvU2ecco65wcHo.jpg",
+          "backdropPath": "/fLEnfHktKYknG2Lm3EMs0Sfnyx8.jpg",
+          "releaseDate": "2026-08-28",
+          "voteAverage": "7.39",
+          "viewCount": 2529,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 2
+        },
+        {
+          "id": "ac38de96-9fdd-48ed-8d4b-10e29f508168",
+          "title": "Jackpot!",
+          "slug": "jackpot-2024",
+          "posterPath": "/7vv0NTaQGOO7M5ZMerp1vMFJsby.jpg",
+          "backdropPath": "/7mQ13AV4qd6A43XxXfSoyYQMzhh.jpg",
+          "releaseDate": "2024-08-13",
+          "voteAverage": "6.38",
+          "viewCount": 1907,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 0
+        },
+        {
+          "id": "925399e9-7a15-4c9b-a576-0414ac08430b",
+          "title": "Air",
+          "slug": "air-2023",
+          "posterPath": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+          "backdropPath": "/aT3sRVqgpkyCo23fp9myVfKPWbA.jpg",
+          "releaseDate": "2023-04-05",
+          "voteAverage": "7.29",
+          "viewCount": 2251,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 1
+        },
+        {
+          "id": "1b6baa65-dce2-4156-acee-94212b6aaed8",
+          "title": "G20",
+          "slug": "g20-2025",
+          "posterPath": "/wv6oWAleCJZUk5htrGg413t3GCy.jpg",
+          "backdropPath": "/k32XKMjmXMGeydykD32jfER3BVI.jpg",
+          "releaseDate": "2025-04-10",
+          "voteAverage": "6.40",
+          "viewCount": 4993,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 0
+        },
+        {
+          "id": "7060d6a6-4664-409a-b86b-8636fa6893ce",
+          "title": "The Pickup",
+          "slug": "the-pickup-2025",
+          "posterPath": "/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg",
+          "backdropPath": "/y7tjLYcq2ZGy2DNG0ODhGX9Tm60.jpg",
+          "releaseDate": "2025-07-27",
+          "voteAverage": "6.43",
+          "viewCount": 2720,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 2
+        },
+        {
+          "id": "61184dd1-2955-4325-a77e-3609af7f5a0a",
+          "title": "Maintenance Required",
+          "slug": "maintenance-required-2025",
+          "posterPath": "/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg",
+          "backdropPath": "/uxRCrEMJlfCILQhkcDuDpadkQC9.jpg",
+          "releaseDate": "2025-10-07",
+          "voteAverage": "6.10",
+          "viewCount": 1521,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 0
+        },
+        {
+          "id": "a47a74c3-1e70-4f6e-a2be-3b01c0791c73",
+          "title": "Agent Zeta",
+          "slug": "agent-zeta-2026",
+          "posterPath": "/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
+          "backdropPath": "/ptcyGmBonW6mDQmrPhXbt6Rjrlp.jpg",
+          "releaseDate": "2026-03-20",
+          "voteAverage": "6.60",
+          "viewCount": 4038,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 0
+        },
+        {
+          "id": "440b5529-e288-44cb-900c-097173efec98",
+          "title": "Balls Up",
+          "slug": "balls-up-2026",
+          "posterPath": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+          "backdropPath": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+          "releaseDate": "2026-04-15",
+          "voteAverage": "6.10",
+          "viewCount": 11304,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 4
+        },
+        {
+          "id": "6827456f-0df7-484d-87fe-b1a3571249c4",
+          "title": "My Policeman",
+          "slug": "my-policeman-2022",
+          "posterPath": "/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg",
+          "backdropPath": "/s5MLcxbdFqvIzTLNLU5yQFFYALR.jpg",
+          "releaseDate": "2022-10-20",
+          "voteAverage": "7.62",
+          "viewCount": 1809,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 4
+        },
+        {
+          "id": "009c5fe3-5f06-4ca8-98a7-423f6b070722",
+          "title": "The Goldfinch",
+          "slug": "the-goldfinch-2019",
+          "posterPath": "/5Jx9VyVPiK9GQ7ouKLkTUYnZSQ4.jpg",
+          "backdropPath": "/lXSJETt0cbiemixfHuBpopAg8pT.jpg",
+          "releaseDate": "2019-09-12",
+          "voteAverage": "7.10",
+          "viewCount": 1467,
+          "quality": "BLU-RAY",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 1
+        },
+        {
+          "id": "b8a44cf4-ec79-46e8-854f-978346b2a23c",
+          "title": "The Boys in the Boat",
+          "slug": "the-boys-in-the-boat-2023",
+          "posterPath": "/ncJMztHprw3gLRAnDjNnnT23CIt.jpg",
+          "backdropPath": "/gub9e0qRZWmmzTV77A6T95HELIF.jpg",
+          "releaseDate": "2023-12-25",
+          "voteAverage": "7.24",
+          "viewCount": 1087,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 3
+        },
+        {
+          "id": "ff4250ef-a18b-4013-a406-db218495adb7",
+          "title": "A Million Miles Away",
+          "slug": "a-million-miles-away-2023",
+          "posterPath": "/kMI3tgxLAZbzGOVlorUBva0kriS.jpg",
+          "backdropPath": "/23HvwdsAQeL0MxN9fm3d8m1NaPw.jpg",
+          "releaseDate": "2023-09-08",
+          "voteAverage": "7.62",
+          "viewCount": 1430,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 1
+        },
+        {
+          "id": "46c22cc1-31ec-4f3e-98e8-ff470a514d9f",
+          "title": "The Wailing",
+          "slug": "the-wailing-2024",
+          "posterPath": "/wB5fVj1Se9TFt9q1CHAtoPiuMyZ.jpg",
+          "backdropPath": "/77kMh12hJtPI8pHQZfyn6TtzfSx.jpg",
+          "releaseDate": "2024-10-25",
+          "voteAverage": "6.00",
+          "viewCount": 2055,
+          "quality": "WEB-DL",
+          "contentType": "movie",
+          "networks": [
+            "Prime Video"
+          ],
+          "commentCount": 0
+        }
+      ],
+      "initialNetwork": "prime-video"
+    },
+    {
+      "id": "a3e1baed-9d60-47b2-9bf0-6f2070d516d8",
+      "type": "collection",
+      "title": "Collections",
+      "slug": "collections",
+      "description": null,
+      "sortOrder": 4,
+      "showAds": false,
+      "adIds": [],
+      "data": [
+        {
+          "id": "e863cb23-1ce0-4956-a88e-851ecf799630",
+          "title": "The Air",
+          "slug": "the-air-2026",
+          "posterPath": "/nvkFkBXCmaLS8N1S7IcSi2Oh9cB.jpg",
+          "backdropPath": "/AkMY5XIGiru36sp1ZTNz1l6X6pI.jpg",
+          "firstAirDate": "2026-05-16",
+          "voteAverage": "9.17",
+          "viewCount": 8845,
+          "country": "TH",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "41961659-166c-454e-a94e-c0457f67f92e",
+          "title": "Not Friends",
+          "slug": "not-friends-2023",
+          "posterPath": "/i3uTKXGNRrRCeCNIFvmpmDCmo5b.jpg",
+          "backdropPath": "/fvUWuX1S9CPd3ojPj2TvY371ln9.jpg",
+          "releaseDate": "2023-10-26",
+          "voteAverage": "7.30",
+          "viewCount": 4483,
+          "quality": "WEB-DL",
+          "country": "TH",
+          "runtime": 129,
+          "contentType": "movie",
+          "commentCount": 5
+        },
+        {
+          "id": "a5d16e08-ef38-4076-b4de-5999d152b8cc",
+          "title": "ThamePo: Heart That Skips A Beat",
+          "slug": "thamepo-heart-that-skips-a-beat-2024",
+          "posterPath": "/f3TaaVz2EdWXqfAa5RAkk5U8AJV.jpg",
+          "backdropPath": "/aJW0iLaT7OkOVZoxfdTagIAy2Z2.jpg",
+          "firstAirDate": "2024-12-13",
+          "voteAverage": "9.10",
+          "viewCount": 6696,
+          "country": "TH",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "00d7a240-4f65-4481-b290-5a6f2d79ac65",
+          "title": "Unlucky Bae",
+          "slug": "unlucky-bae-2026",
+          "posterPath": "/1jPxJWwPIEy6wmFt3444RjqSz6X.jpg",
+          "backdropPath": "/opFWidR2ITRQv6fjukb7hJk7xsi.jpg",
+          "firstAirDate": "2026-08-06",
+          "voteAverage": "7.20",
+          "viewCount": 1342,
+          "country": "TH",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "d6249af3-064c-4b97-826e-a77e307ea470",
+          "title": "Flat Girls",
+          "slug": "flat-girls-2025",
+          "posterPath": "/8J1XOJ5vfYhRx48VjhyhzDPbCwL.jpg",
+          "backdropPath": "/wQ9Kq7ylrU6swEjB5A7VcETRZq0.jpg",
+          "releaseDate": "2025-02-06",
+          "voteAverage": "7.14",
+          "viewCount": 9570,
+          "quality": "WEB-DL",
+          "country": "TH",
+          "runtime": 130,
+          "contentType": "movie",
+          "commentCount": 6
+        },
+        {
+          "id": "43898a82-a50c-446e-8a09-b75728eddf28",
+          "title": "The Believers",
+          "slug": "the-believers-2024",
+          "posterPath": "/o1vLAHKRBk5KVJYCvezpEJHT2Nu.jpg",
+          "backdropPath": "/4s9lGIpvvZ2K6rHsXQEt1KXlSky.jpg",
+          "firstAirDate": "2024-03-27",
+          "voteAverage": "7.40",
+          "viewCount": 7938,
+          "country": "TH",
+          "numberOfSeasons": 2,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "12100bf2-f086-4bab-8144-d1ffcc5a85ad",
+          "title": "Bangkok Love Stories: Plead",
+          "slug": "bangkok-love-stories-plead-2019",
+          "posterPath": "/At1EN42bI4Odyzu1ZYrxBQBoKc.jpg",
+          "backdropPath": "/kfwP9X8dMCPqCMFvlT3HO7Y746Y.jpg",
+          "firstAirDate": "2019-02-13",
+          "voteAverage": "6.70",
+          "viewCount": 6851,
+          "country": "TH",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "0ac4e68b-44cb-4e96-ad98-6d36dc2bfbfc",
+          "title": "The Red Line",
+          "slug": "the-red-line-2026",
+          "posterPath": "/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
+          "backdropPath": "/qbbx3NDw6FrtQSrKdxn9n72xJzO.jpg",
+          "releaseDate": "2026-03-22",
+          "voteAverage": "6.70",
+          "viewCount": 10624,
+          "quality": "WEB-DL",
+          "country": "TH",
+          "runtime": 135,
+          "contentType": "movie",
+          "commentCount": 1
+        },
+        {
+          "id": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+          "title": "Only Friends: Dream On",
+          "slug": "only-friends-dream-on-2026",
+          "posterPath": "/whdV8pnBqNL03MHRGAyQuODAWmh.jpg",
+          "backdropPath": "/sUSvn1dlj9zrHQKgvdsurxGILdA.jpg",
+          "firstAirDate": "2026-02-27",
+          "voteAverage": "7.75",
+          "viewCount": 5321,
+          "country": "TH",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 1
+        },
+        {
+          "id": "2b8a891d-4857-4c2e-8227-7df09f6d41c6",
+          "title": "Goddess Bless You from Death",
+          "slug": "goddess-bless-you-from-death-2025",
+          "posterPath": "/6oJfgHENTx0WOoXrzfOvIJDpwpd.jpg",
+          "backdropPath": "/ex8tr0HjFIsOWf968DuJwTKAZjg.jpg",
+          "firstAirDate": "2025-10-31",
+          "voteAverage": "8.30",
+          "viewCount": 8955,
+          "country": "TH",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+          "title": "Pit Babe",
+          "slug": "pit-babe-2023",
+          "posterPath": "/xuLSkVlXXf3OpTwoUWN5c9ubLVC.jpg",
+          "backdropPath": "/tgPkYUUcOWUpocPkt8KIfJMvEbf.jpg",
+          "firstAirDate": "2023-11-17",
+          "voteAverage": "7.85",
+          "viewCount": 8080,
+          "country": "TH",
+          "numberOfSeasons": 2,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "e7236fa2-fc28-4784-aa99-fdd8e771f91a",
+          "title": "One Day",
+          "slug": "one-day-2016",
+          "posterPath": "/fbYj8XuzuXTDkM26KMYeOk4mNga.jpg",
+          "backdropPath": "/7BfNIGev5vAZApDNiQA2h9sBCUf.jpg",
+          "releaseDate": "2016-09-01",
+          "voteAverage": "7.70",
+          "viewCount": 7581,
+          "quality": "WEB-DL",
+          "country": "TH",
+          "runtime": 134,
+          "contentType": "movie",
+          "commentCount": 10
+        },
+        {
+          "id": "c28dff18-3de7-482a-bd33-095960ee230a",
+          "title": "My Safe Zone",
+          "slug": "my-safe-zone-2025",
+          "posterPath": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
+          "backdropPath": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
+          "firstAirDate": "2025-10-24",
+          "voteAverage": "6.20",
+          "viewCount": 12602,
+          "country": "TH",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 1
+        },
+        {
+          "id": "18482345-896c-4e64-9a9b-225d861300c9",
+          "title": "The Billionaire",
+          "slug": "the-billionaire-2011",
+          "posterPath": "/gjolEycpddEirN0Tui92Zglprhb.jpg",
+          "backdropPath": "/cU0Te9W4YkElPKzeozMtY7U3EQX.jpg",
+          "releaseDate": "2011-10-20",
+          "voteAverage": "7.30",
+          "viewCount": 5555,
+          "quality": "HD",
+          "country": "TH",
+          "runtime": 124,
+          "contentType": "movie",
+          "commentCount": 1
+        },
+        {
+          "id": "5c51418e-a3ab-41e1-868d-e2b2c562b350",
+          "title": "The Empress of Ayodhaya",
+          "slug": "the-empress-of-ayodhaya-2024",
+          "posterPath": "/6OXz9evo4edDYPAP6WsRhXnmP6H.jpg",
+          "backdropPath": "/ljwo7GMEVv8jxdQC7eISEWZpcvv.jpg",
+          "firstAirDate": "2024-10-24",
+          "voteAverage": "9.00",
+          "viewCount": 3761,
+          "country": "TH",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        }
+      ],
+      "initialCollection": "thai-drama"
+    },
+    {
+      "id": "f924e937-05da-4c54-b5b0-4a867cb84497",
+      "type": "latest_movies",
+      "title": "Recently Added Movies",
+      "slug": "latest-movies",
+      "description": null,
+      "sortOrder": 5,
+      "showAds": false,
+      "adIds": [],
+      "data": [
+        {
+          "id": "3228fe29-12ed-445c-8df0-739dc91df598",
+          "title": "Verity",
+          "slug": "verity-2026",
+          "posterPath": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+          "backdropPath": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+          "releaseDate": "2026-09-30",
+          "voteAverage": "6.39",
+          "viewCount": 7616,
+          "quality": "WEB-DL",
+          "country": "US",
+          "runtime": 114,
+          "contentType": "movie",
+          "commentCount": 9
+        },
+        {
+          "id": "38640eb7-1276-4e07-8f76-f0b8cb296f64",
+          "title": "Forgotten Island",
+          "slug": "forgotten-island-2026",
+          "posterPath": "/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+          "backdropPath": "/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+          "releaseDate": "2026-09-10",
+          "voteAverage": "7.64",
+          "viewCount": 1661,
+          "quality": "WEB-DL",
+          "country": "US",
+          "runtime": 109,
+          "contentType": "movie",
+          "commentCount": 4
+        },
+        {
+          "id": "13b6a79f-a497-4410-83bf-a54443b8fc0e",
+          "title": "The Lost Ones",
+          "slug": "the-lost-ones-2026",
+          "posterPath": "/vJgnRh06pvQUOW2s455CsiJE3bN.jpg",
+          "backdropPath": null,
+          "releaseDate": "2026-10-27",
+          "voteAverage": "0.00",
+          "viewCount": 255,
+          "quality": "WEB-DL",
+          "country": "GB",
+          "runtime": null,
+          "contentType": "movie",
+          "commentCount": 0
+        },
+        {
+          "id": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+          "title": "The Stunt Driver",
+          "slug": "the-stunt-driver-2026",
+          "posterPath": "/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+          "backdropPath": "/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
+          "releaseDate": "2026-09-25",
+          "voteAverage": "5.00",
+          "viewCount": 117,
+          "quality": "WEB-DL",
+          "country": "CA",
+          "runtime": 99,
+          "contentType": "movie",
+          "commentCount": 0
+        },
+        {
+          "id": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+          "title": "Sense and Sensibility",
+          "slug": "sense-and-sensibility-2026",
+          "posterPath": "/5bmH9lyNVEW6DXBf4rYx9Os7Fuo.jpg",
+          "backdropPath": "/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+          "releaseDate": "2026-09-23",
+          "voteAverage": "7.18",
+          "viewCount": 2238,
+          "quality": "WEB-DL",
+          "country": "GB",
+          "runtime": 132,
+          "contentType": "movie",
+          "commentCount": 6
+        },
+        {
+          "id": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+          "title": "The Dog Stars",
+          "slug": "the-dog-stars-2026",
+          "posterPath": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
+          "backdropPath": "/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+          "releaseDate": "2026-08-26",
+          "voteAverage": "6.60",
+          "viewCount": 5670,
+          "quality": "WEB-DL",
+          "country": "US",
+          "runtime": 119,
+          "contentType": "movie",
+          "commentCount": 12
+        },
+        {
+          "id": "d87215b3-492d-44d8-b370-7cca3b9424d9",
+          "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+          "slug": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
+          "posterPath": "/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+          "backdropPath": "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+          "releaseDate": "2026-09-17",
+          "voteAverage": "7.41",
+          "viewCount": 5732,
+          "quality": "WEB-DL",
+          "country": "GB",
+          "runtime": 81,
+          "contentType": "movie",
+          "commentCount": 4
+        },
+        {
+          "id": "b3906878-595c-44f4-90fc-860584675964",
+          "title": "Love Language",
+          "slug": "love-language-2026",
+          "posterPath": "/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
+          "backdropPath": "/snrOynVdMOZVA8aCxOAK9kBRQLm.jpg",
+          "releaseDate": "2026-10-23",
+          "voteAverage": "9.50",
+          "viewCount": 3017,
+          "quality": "WEB-DL",
+          "country": "US",
+          "runtime": 104,
+          "contentType": "movie",
+          "commentCount": 2
+        },
+        {
+          "id": "0faf918e-51f6-4184-bd38-fa58510d6739",
+          "title": "The Cycle",
+          "slug": "the-cycle-2026",
+          "posterPath": "/rHCbyKrFNcec8h7RAW0h1eUgcat.jpg",
+          "backdropPath": "/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+          "releaseDate": "2026-09-24",
+          "voteAverage": "7.59",
+          "viewCount": 3425,
+          "quality": "WEB-DL",
+          "country": "GB",
+          "runtime": 111,
+          "contentType": "movie",
+          "commentCount": 8
+        },
+        {
+          "id": "adc6b922-6249-4df3-a04f-9f905ea9a8d9",
+          "title": "The 3 Killer Pigs",
+          "slug": "the-3-killer-pigs-2026",
+          "posterPath": "/mfNvQfGDRVp4NWofAtxNaZsLJDq.jpg",
+          "backdropPath": "/bM5eaVQlbrT0V1ZpU8pod8GNJdK.jpg",
+          "releaseDate": "2026-10-23",
+          "voteAverage": "10.00",
+          "viewCount": 3593,
+          "quality": "WEB-DL",
+          "country": "US",
+          "runtime": null,
+          "contentType": "movie",
+          "commentCount": 4
+        },
+        {
+          "id": "847c4edb-fcae-4d41-bb92-0266b2b9d2b1",
+          "title": "The Exit State",
+          "slug": "the-exit-state-2026",
+          "posterPath": "/80oQCwA8SJrjBiFarxzkEXZxxDT.jpg",
+          "backdropPath": "/9mRvuRKCmF4af1JlaN8vOvV8wzb.jpg",
+          "releaseDate": "2026-10-13",
+          "voteAverage": "4.50",
+          "viewCount": 886,
+          "quality": "WEB-DL",
+          "country": "US",
+          "runtime": 92,
+          "contentType": "movie",
+          "commentCount": 1
+        },
+        {
+          "id": "e4365d96-182e-4b19-a965-f6c9cad4dffe",
+          "title": "Surviving Hurricane Otis",
+          "slug": "surviving-hurricane-otis-2026",
+          "posterPath": "/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+          "backdropPath": "/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+          "releaseDate": "2026-10-23",
+          "voteAverage": "5.40",
+          "viewCount": 1905,
+          "quality": "WEB-DL",
+          "country": "MX",
+          "runtime": 97,
+          "contentType": "movie",
+          "commentCount": 1
+        },
+        {
+          "id": "4bc63cbc-c804-4cb8-87d6-ed8e976d5c1f",
+          "title": "Romantic Killer",
+          "slug": "romantic-killer-2025",
+          "posterPath": "/8v37oFeAveM0Y3WSgIyHphWpW5x.jpg",
+          "backdropPath": "/2X6c7ReEDmC1guQHColocmcughI.jpg",
+          "releaseDate": "2025-12-12",
+          "voteAverage": "4.70",
+          "viewCount": 529,
+          "quality": "BLU-RAY",
+          "country": "JP",
+          "runtime": null,
+          "contentType": "movie",
+          "commentCount": 0
+        },
+        {
+          "id": "ce3d5b09-5b4d-48ac-90ad-ca1afde0b116",
+          "title": "Totto-chan: The Little Girl at the Window",
+          "slug": "totto-chan-the-little-girl-at-the-window-2023",
+          "posterPath": "/irzCGOpy1iohurWfPKk2tTkfPG2.jpg",
+          "backdropPath": "/yh0FK319pKiy12aSD2dEO2xekfX.jpg",
+          "releaseDate": "2023-12-08",
+          "voteAverage": "7.40",
+          "viewCount": 1117,
+          "quality": "BLU-RAY",
+          "country": "JP",
+          "runtime": 114,
+          "contentType": "movie",
+          "commentCount": 0
+        },
+        {
+          "id": "264d3af3-b089-4b3e-9d5f-801f68837a4c",
+          "title": "The Little Prince",
+          "slug": "the-little-prince-2015",
+          "posterPath": "/33Oc7gTFbEZgMcNmWjuMvmEEIKv.jpg",
+          "backdropPath": "/ackk6QMSECnqWC2H73lKXs8J5iY.jpg",
+          "releaseDate": "2015-07-29",
+          "voteAverage": "7.60",
+          "viewCount": 388,
+          "quality": "BLU-RAY",
+          "country": "FR",
+          "runtime": 106,
+          "contentType": "movie",
+          "commentCount": 0
+        }
+      ]
+    },
+    {
+      "id": "0b5a5bf6-9684-476b-a1ac-357841df41d3",
+      "type": "latest_series",
+      "title": "Recently Added Series",
+      "slug": "latest-series",
+      "description": null,
+      "sortOrder": 6,
+      "showAds": false,
+      "adIds": [],
+      "data": [
+        {
+          "id": "82748229-0bc3-49b6-aac6-8041871d34fc",
+          "title": "Minimum Wage",
+          "slug": "minimum-wage-2026",
+          "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+          "backdropPath": "/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+          "firstAirDate": "2026-10-26",
+          "voteAverage": "10.00",
+          "viewCount": 237,
+          "country": "US",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "12fb59ae-1e9f-4185-bf14-6232dcf552bb",
+          "title": "The One About Matthew Perry",
+          "slug": "the-one-about-matthew-perry-2026",
+          "posterPath": "/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+          "backdropPath": "/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+          "firstAirDate": "2026-10-27",
+          "voteAverage": "0.00",
+          "viewCount": 34,
+          "country": "US",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "2cabb94f-b9f2-4bac-9aba-652fa7cb3a86",
+          "title": "Little Krishna",
+          "slug": "little-krishna-2009",
+          "posterPath": "/pCrB6WALVxDbpZ7MoPGuq9UNdk5.jpg",
+          "backdropPath": "/idDwGeqYtvMDD4yLQGK28j95eoH.jpg",
+          "firstAirDate": "2009-05-11",
+          "voteAverage": "5.70",
+          "viewCount": 1867,
+          "country": "IN",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 3
+        },
+        {
+          "id": "dec0d3ad-8eb4-4cf0-9b5f-a9eeafb38f1e",
+          "title": "Star Detective Precure!",
+          "slug": "star-detective-precure-2026",
+          "posterPath": "/hvCZ64xKMJvFQDgW3RypLnzzS32.jpg",
+          "backdropPath": "/bOgsRcvQcetWXtVnPgKtYYf9aSV.jpg",
+          "firstAirDate": "2026-02-01",
+          "voteAverage": "7.30",
+          "viewCount": 176,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+          "title": "Magic Repo Man: Dumped by My Party, I'll Cash In with a Cute Support Fairy to Become the Strongest!",
+          "slug": "magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-2026",
+          "posterPath": "/jPItUZ3PnbkGii2JS0QCeyNgLxt.jpg",
+          "backdropPath": "/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
+          "firstAirDate": "2026-10-04",
+          "voteAverage": "7.50",
+          "viewCount": 266,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "6423251f-3a9e-4718-9a55-20afb2218f02",
+          "title": "HORROR COLLECTOR",
+          "slug": "horror-collector-2026",
+          "posterPath": "/pDVlDfr5RxSltpU2RMKV1ugAQRk.jpg",
+          "backdropPath": "/9SR35fCLp6VmuPPxRjfPQLucyU5.jpg",
+          "firstAirDate": "2026-10-10",
+          "voteAverage": "8.00",
+          "viewCount": 244,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+          "title": "Magical Explorer",
+          "slug": "magical-explorer-2026",
+          "posterPath": "/1mcErCeGi77UmV50E81fwvftdp2.jpg",
+          "backdropPath": "/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
+          "firstAirDate": "2026-10-04",
+          "voteAverage": "10.00",
+          "viewCount": 437,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+          "title": "VERTEX FORCE",
+          "slug": "vertex-force-2026",
+          "posterPath": "/zWFF0Fu10qjcoBf9Akm0ytC0o8z.jpg",
+          "backdropPath": "/wNjJs2OronJm8jK4Y35R6kjH3sy.jpg",
+          "firstAirDate": "2026-10-03",
+          "voteAverage": "0.00",
+          "viewCount": 157,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+          "title": "#I'm Looking for Zombie",
+          "slug": "im-looking-for-zombie-2026",
+          "posterPath": "/c26lzZbNEJTX5zxhlLSYEZerS3V.jpg",
+          "backdropPath": "/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+          "firstAirDate": "2026-10-03",
+          "voteAverage": "8.00",
+          "viewCount": 138,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "e125364c-e069-40aa-99ea-0dde83dce4af",
+          "title": "A Tale of the Secret Saint",
+          "slug": "a-tale-of-the-secret-saint-2026",
+          "posterPath": "/1ETsQwBbwtaPN9SeczbQzg2mo0n.jpg",
+          "backdropPath": "/wpNi39uaat5A1VhaVpdcQlKuMB5.jpg",
+          "firstAirDate": "2026-10-03",
+          "voteAverage": "7.70",
+          "viewCount": 129,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+          "title": "Romelia War Chronicle",
+          "slug": "romelia-war-chronicle-2026",
+          "posterPath": "/xOhx5KpSAlrEbqsu9TaCdmdIb72.jpg",
+          "backdropPath": "/6LeBjYSPULKwSv5R6sX6Iovwoad.jpg",
+          "firstAirDate": "2026-10-05",
+          "voteAverage": "9.50",
+          "viewCount": 281,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "a8590387-8f91-44a7-a7c3-d8da48a30171",
+          "title": "The Vermilion Mask",
+          "slug": "the-vermilion-mask-2026",
+          "posterPath": "/jIQ8cnTs7sCMzEfBviyyD4eXMiY.jpg",
+          "backdropPath": "/d63e5W3rWWuMIDcrUgmZTauMbna.jpg",
+          "firstAirDate": "2026-10-10",
+          "voteAverage": "9.20",
+          "viewCount": 476,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "6ce90d2e-effa-46fa-8228-6a05b2014e15",
+          "title": "KERORO☆",
+          "slug": "keroro-2026",
+          "posterPath": "/4DgnIZfEERgyrFwgPNwdgsvf3N2.jpg",
+          "backdropPath": "/qPJ7HP6w73k3FzsYsvnKHMfil8M.jpg",
+          "firstAirDate": "2026-10-03",
+          "voteAverage": "9.67",
+          "viewCount": 180,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        },
+        {
+          "id": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+          "title": "GET JIRO",
+          "slug": "get-jiro-2026",
+          "posterPath": "/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+          "backdropPath": "/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
+          "firstAirDate": "2026-10-04",
+          "voteAverage": "9.10",
+          "viewCount": 1499,
+          "country": "US",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 2
+        },
+        {
+          "id": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+          "title": "The Insipid Prince's Furtive Grab for the Throne",
+          "slug": "the-insipid-princes-furtive-grab-for-the-throne-2026",
+          "posterPath": "/1h0g4w6Vh0RenRga2bmtNXT08R0.jpg",
+          "backdropPath": "/rbxKqzKkw9zrO9lKgqvXHOo4sZo.jpg",
+          "firstAirDate": "2026-07-06",
+          "voteAverage": "6.55",
+          "viewCount": 1476,
+          "country": "JP",
+          "numberOfSeasons": 1,
+          "contentType": "tv_series",
+          "commentCount": 0
+        }
+      ]
+    },
+    {
+      "id": "6d24a2be-8f22-41e1-a008-f71c97d0075a",
+      "type": "tmdb_trending",
+      "title": "",
+      "slug": "tmdb-trending",
+      "description": null,
+      "sortOrder": 7,
+      "showAds": false,
+      "adIds": [],
+      "data": [
+        {
+          "id": "397b6518-a62f-422e-958f-5aeb3fb2d3f4",
+          "title": "Doctor X: Mafia in White",
+          "slug": "doctor-x-mafia-in-white-2026",
+          "posterPath": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+          "backdropPath": "/gEIYUsH0V2tDUTwnA2NNCw1cD0f.jpg",
+          "logoPath": "/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+          "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+          "firstAirDate": "2026-10-09",
+          "voteAverage": "10.00",
+          "viewCount": 1334265,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 5,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=v6KNnhkLnnY",
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 156,
+              "name": "SBS",
+              "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+              "origin_country": "KR"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "8433bf5e-9f47-40be-823f-411b68929818",
+              "name": "Crime"
+            },
+            {
+              "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+              "name": "Mystery"
+            }
+          ],
+          "commentCount": 96
+        },
+        {
+          "id": "6d232e0c-7f9b-43f6-a323-6e78ff6763f9",
+          "title": "The Mentalist",
+          "slug": "the-mentalist-2008",
+          "posterPath": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+          "backdropPath": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+          "logoPath": "/aB5jf4O14dykrksrPgtOlvVk0pi.svg",
+          "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+          "firstAirDate": "2008-09-23",
+          "voteAverage": "8.36",
+          "viewCount": 3290402,
+          "country": "US",
+          "numberOfSeasons": 7,
+          "numberOfEpisodes": 149,
+          "status": "Ended",
+          "trailerUrl": null,
+          "originalLanguage": "en",
+          "networks": [
+            {
+              "id": 16,
+              "name": "CBS",
+              "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+              "origin_country": "US"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "8433bf5e-9f47-40be-823f-411b68929818",
+              "name": "Crime"
+            },
+            {
+              "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+              "name": "Mystery"
+            }
+          ],
+          "commentCount": 76
+        },
+        {
+          "id": "32b47770-fed5-4579-a89a-af13a98c92ac",
+          "title": "Take Charge of My Heart",
+          "slug": "take-charge-of-my-heart-2026",
+          "posterPath": "/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+          "backdropPath": "/cHO75BxLM6sz7NsiVyaBmkKnmgg.jpg",
+          "logoPath": "/gkBFyWEjj9iJgwLVGZkxZ7Lh2fu.png",
+          "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+          "firstAirDate": "2026-10-09",
+          "voteAverage": "0.00",
+          "viewCount": 819764,
+          "country": "KR",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 0,
+          "status": "Ended",
+          "trailerUrl": "https://www.youtube.com/watch?v=z_D5uXaDsVU",
+          "originalLanguage": "ko",
+          "networks": [
+            {
+              "id": 213,
+              "name": "Netflix",
+              "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+              "origin_country": ""
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+              "name": "Comedy"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 31
+        },
+        {
+          "id": "3932672a-57da-4321-afbf-514f704f0ee6",
+          "title": "Black Clover",
+          "slug": "black-clover-2017",
+          "posterPath": "/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg",
+          "backdropPath": "/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+          "logoPath": "/j9ZZ7WV5pwLLXbbebyGdMUxbqrc.png",
+          "overview": "Asta and Yuno are two orphans who want the same thing: to become the Wizard King. Locked in a friendly rivalry, they work hard towards their goal. While Yuno excels at magic, Asta has a problem uncommon in this world: he has no powers! But, on the day they receive their grimoires, they surprise everyone. To reach their goal, they’ll each find their own path to greatness—with or without magic.",
+          "firstAirDate": "2017-10-03",
+          "voteAverage": "8.50",
+          "viewCount": 652906,
+          "country": "JP",
+          "numberOfSeasons": 2,
+          "numberOfEpisodes": 174,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=QwNWY6z93O4",
+          "originalLanguage": "ja",
+          "networks": [
+            {
+              "id": 98,
+              "name": "TV Tokyo",
+              "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 252,
+              "name": "TV Aichi",
+              "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 822,
+              "name": "TVQ",
+              "logo_path": "/gOlBe3BMo5WJHeUlWBBfKawgdiO.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 824,
+              "name": "TV Osaka",
+              "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 938,
+              "name": "TVh",
+              "logo_path": "/f12LLqBVFnDVIY8HidhWEitI77c.png",
+              "origin_country": "JP"
+            },
+            {
+              "id": 2064,
+              "name": "TSC",
+              "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+              "origin_country": "JP"
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+              "name": "Action"
+            },
+            {
+              "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+              "name": "Animation"
+            },
+            {
+              "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+              "name": "Adventure"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 50
+        },
+        {
+          "id": "54624fe2-96f2-4fd9-aeaa-4f73f86fdcc7",
+          "title": "VisionQuest",
+          "slug": "visionquest-2026",
+          "posterPath": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+          "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+          "logoPath": "/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+          "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+          "firstAirDate": "2026-10-13",
+          "voteAverage": "9.30",
+          "viewCount": 354664,
+          "country": "US",
+          "numberOfSeasons": 1,
+          "numberOfEpisodes": 2,
+          "status": "Returning Series",
+          "trailerUrl": "https://www.youtube.com/watch?v=sXKnmgmbkoE",
+          "originalLanguage": "en",
+          "networks": [
+            {
+              "id": 2739,
+              "name": "Disney+",
+              "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+              "origin_country": ""
+            }
+          ],
+          "contentType": "tv_series",
+          "genres": [
+            {
+              "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+              "name": "Drama"
+            },
+            {
+              "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+              "name": "Fantasy"
+            },
+            {
+              "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+              "name": "Science Fiction"
+            }
+          ],
+          "commentCount": 96
+        }
+      ]
+    },
+    {
+      "id": "75241795-6dc6-4fd9-811f-2449a716aebb",
+      "type": "latest_episodes",
+      "title": "Recently Added Episodes",
+      "slug": "latest-episodes",
+      "description": null,
+      "sortOrder": 8,
+      "showAds": false,
+      "adIds": [],
+      "data": [
+        {
+          "id": "69e7d131-efc2-4ede-a654-578fead7e7d6",
+          "name": "Episode 8",
+          "episodeNumber": 8,
+          "stillPath": "/5XFPLrI2ritxisEuvVQpEZ6JoRX.jpg",
+          "voteAverage": "10.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Between Steps",
+            "slug": "between-steps-2026",
+            "posterPath": "/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
+            "firstAirDate": "2026-10-05"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "b3cfebe2-9ceb-40cd-85b6-5cfe66f7ac6a",
+          "name": "Episode 4",
+          "episodeNumber": 4,
+          "stillPath": "/cKrQHvI27Xsxr4jEDr62Ed7LHNh.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Love in Disguise",
+            "slug": "love-in-disguise-2026",
+            "posterPath": "/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+            "firstAirDate": "2026-10-19"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "e2a9e597-bff1-4183-ac9e-e6354905e13e",
+          "name": "Reverse Cuckoo Situation",
+          "episodeNumber": 3,
+          "stillPath": "/d7FRLt0FwRPvcgreNmK0KbBM9J2.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Phony",
+            "slug": "phony-2026",
+            "posterPath": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+            "firstAirDate": "2026-10-20"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "c1a9714a-fb2d-4aee-b1aa-82eec4ca0105",
+          "name": "Black Tie Optional",
+          "episodeNumber": 4,
+          "stillPath": "/mUZ7T9qpS9sgTnZvn6ExFwSreKr.jpg",
+          "voteAverage": "8.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 2
+          },
+          "series": {
+            "title": "CIA",
+            "slug": "cia-2026",
+            "posterPath": "/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+            "firstAirDate": "2026-02-23"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "ff95fe67-3312-4ac1-8485-dc30d5d45e7f",
+          "name": "New Year's Eve",
+          "episodeNumber": 14,
+          "stillPath": "/yaSWvUM52WZ17BwM8RUf0PJnmPl.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "aa42b4b5-c7c0-4eae-a41b-8af7fcbc96b4",
+          "name": "Teachers at Work",
+          "episodeNumber": 13,
+          "stillPath": "/n38cPftnVKfMTJAHc8LwsVEPoAs.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "916d4b1e-b661-42df-9f33-34ea5fee95ab",
+          "name": "Commercial",
+          "episodeNumber": 12,
+          "stillPath": "/fM0ESXnzdRIZEhfHukEjiqNSSvW.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "93041c94-7541-4811-aa97-4ad6e4843299",
+          "name": "New Girl",
+          "episodeNumber": 11,
+          "stillPath": "/42gFGHYwr61XZHZwYINOcmxtJaM.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "c6189f23-449c-450f-99b4-1eee7168d506",
+          "name": "Prank Call",
+          "episodeNumber": 10,
+          "stillPath": "/8qdLJf4CtOhxB2wgjXvKVfSQDjQ.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "6ee895e2-609b-4375-95c6-0e995fe72c5b",
+          "name": "Sleepover",
+          "episodeNumber": 9,
+          "stillPath": "/r8I2HEe50NnLm3TgUHUIyngbyrP.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "d090c6c7-fc78-4104-9836-1e80d47a551d",
+          "name": "Restaurant Rules",
+          "episodeNumber": 8,
+          "stillPath": "/3VbHN9QUrvT4gR5Up6Ee8Hcnpw2.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "4eb0424f-26ca-4b41-a3a9-5652105992ff",
+          "name": "Scouts of America",
+          "episodeNumber": 7,
+          "stillPath": "/sCstz18eWng2cwu5uBbQgRN0wQb.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "fcf3da39-6f57-4700-ae7e-0c5916977cc1",
+          "name": "Lottery Tickets",
+          "episodeNumber": 6,
+          "stillPath": "/47He4oueLSUhdoRiLMqtNi7EtbB.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "34bbf54f-b7fb-40af-b4c8-4b821ab271d1",
+          "name": "No Phones",
+          "episodeNumber": 5,
+          "stillPath": "/hdC6CVjs4AyhB8i0MrOabGa4rXL.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        },
+        {
+          "id": "e041c97a-d971-4a4b-84a2-8f30e91cec21",
+          "name": "Birthday Cake",
+          "episodeNumber": 4,
+          "stillPath": "/71PW2ty2ipb8t3sNBrYqoYW8i6e.jpg",
+          "voteAverage": "0.00",
+          "viewCount": 0,
+          "quality": null,
+          "season": {
+            "seasonNumber": 1
+          },
+          "series": {
+            "title": "Minimum Wage",
+            "slug": "minimum-wage-2026",
+            "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+            "firstAirDate": "2026-10-26"
+          },
+          "contentType": "episode",
+          "commentCount": 0
+        }
+      ]
+    }
+  ],
+  "ads": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://rebrand.ly/qq724idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://rebrand.ly/qq101idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://rebrand.ly/qq828idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://rebrand.ly/qq888betidlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://rebrand.ly/qq801idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://rebrand.ly/qq882idlxx",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": []
+}

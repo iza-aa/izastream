@@ -1,0 +1,502 @@
+{
+  "hope-2026": {
+    "slug": "hope-2026",
+    "kind": "movie",
+    "playType": "movie",
+    "contentId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+    "title": "Hope.2026.1080p.AMZN.WEB-DL.DDP5.1.H.264-KyoGo.mkv",
+    "videoId": "5lWwHx-xaSRY",
+    "playlistUrl": "https://e2e.majorplay.net/v/z5/5lWwHx-xaSRY/config-946730.json?t=c2_4/v/z5/5lWwHx-xaSRY/.1793171605-15AlfF0o2zq5MYP6hfIs7pKdqhkJECsEibFqjPLT_dI&pm=browser",
+    "token": "c2_4/v/z5/5lWwHx-xaSRY/.1793171605-15AlfF0o2zq5MYP6hfIs7pKdqhkJECsEibFqjPLT_dI",
+    "expiresAt": 1793171605,
+    "claimExpiresAt": 1793178301,
+    "renewalToken": "eyJ2IjoxLCJjdCI6Im1vdmllIiwiY2lkIjoiODU5YjAwMDAtN2U1My00YmZjLTlkYzUtYTQ1ZDg5NDBhZGJkIiwidmlkIjoiNWxXd0h4LXhhU1JZIiwiY2giOiJfd2hZSk5VdjRuX0cycTRjN2YycmQwUHMxQl80ZXhHbzZ0MUEzZWFyeDhJIiwiaWF0IjoxNzkzMTY4MDA0LCJleHAiOjE3OTMyMTQ4MDQsInNhdCI6MTc5MzE2ODAwNH0.6SZmWxCtIqXrUY3od0krGde9bMEu0MXSQfb6xj0kEhk",
+    "subtitles": [
+      {
+        "lang": "en",
+        "label": "English",
+        "path": "https://e2e.majorplay.net/v/z5/5lWwHx-xaSRY/i18n/en/379a673d2cb0eac7.vtt"
+      },
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z5/5lWwHx-xaSRY/i18n/id/c91a8afe00a65450.vtt"
+      }
+    ],
+    "savedAt": "2026-10-28T06:13:25.380Z"
+  },
+  "bad-apples-2026": {
+    "slug": "bad-apples-2026",
+    "kind": "movie",
+    "playType": "movie",
+    "contentId": "7c9c013a-9f22-4283-960f-e10293e74c1b",
+    "title": "Bad.Apples.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-CHORTLE.mkv",
+    "videoId": "5Wf4ENh-HTTh",
+    "playlistUrl": "https://e2e.majorplay.net/v/z4/5Wf4ENh-HTTh/config-635517.json?t=c2_3/v/z4/5Wf4ENh-HTTh/.1792858792-x1qkM1qaHfD5Sx6cF8YZjhmdVIHndyNSRlMivmhUXAY&pm=browser",
+    "token": "c2_3/v/z4/5Wf4ENh-HTTh/.1792858792-x1qkM1qaHfD5Sx6cF8YZjhmdVIHndyNSRlMivmhUXAY",
+    "expiresAt": 1792858792,
+    "claimExpiresAt": 1792868426,
+    "renewalToken": "eyJ2IjoxLCJjdCI6Im1vdmllIiwiY2lkIjoiN2M5YzAxM2EtOWYyMi00MjgzLTk2MGYtZTEwMjkzZTc0YzFiIiwidmlkIjoiNVdmNEVOaC1IVFRoIiwiY2giOiI2cHdfVzFYcVlVRk4xV2NVUHdyVHpjVXcwUWxTVklsU3I2MUUtRGtYY3lJIiwiaWF0IjoxNzkyODU1MTgzLCJleHAiOjE3OTI5MDE5ODMsInNhdCI6MTc5Mjg1NTE4M30.rX2izmGGpTjlj8zu6lvzbJtrw6zXZgj90unJPBRWOjM",
+    "subtitles": [
+      {
+        "lang": "en",
+        "label": "English",
+        "path": "https://e2e.majorplay.net/v/z4/5Wf4ENh-HTTh/i18n/en/db6db4fe440bd22a.vtt"
+      },
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z4/5Wf4ENh-HTTh/i18n/id/d1078e2b7154c110.vtt"
+      }
+    ],
+    "savedAt": "2026-10-24T15:19:52.815Z"
+  },
+  "cyberpunk-edgerunners-2022": {
+    "slug": "cyberpunk-edgerunners-2022",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "c6cda841-c11e-4b1a-ae62-b108ae73ae27",
+    "title": "Cyberpunk.Edgerunners.S01E05.All.Eyez.On.Me.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-SMURF",
+    "videoId": "62fb55ef2bfd3427d8408d2f11f5fd9e",
+    "playlistUrl": "https://e2e.majorplay.net/v/62fb55ef2bfd3427d8408d2f11f5fd9e/config-886875.json?t=c2_4/v/62fb55ef2bfd3427d8408d2f11f5fd9e/.1793174582-H0_rXJIOeVxmGftpNV2vrT87REuBmHZrDo74We3YJ4c&pm=browser",
+    "token": "c2_4/v/62fb55ef2bfd3427d8408d2f11f5fd9e/.1793174582-H0_rXJIOeVxmGftpNV2vrT87REuBmHZrDo74We3YJ4c",
+    "expiresAt": 1793174582,
+    "claimExpiresAt": 1793173543,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiJjNmNkYTg0MS1jMTFlLTRiMWEtYWU2Mi1iMTA4YWU3M2FlMjciLCJ2aWQiOiI2MmZiNTVlZjJiZmQzNDI3ZDg0MDhkMmYxMWY1ZmQ5ZSIsImNoIjoiNHNhXzN3SmZ1UkVhbzJGaDVVSTFLbnFSN0QtRC1QaVBuaVZEOXNfSHVKSSIsImlhdCI6MTc5MzE3MDk4MiwiZXhwIjoxNzkzMjE3NzgyLCJzYXQiOjE3OTMxNzA5ODJ9.xli2j-lbU38bYmd5ibgAydHbCvW_cU6Z6eXw2MdXYgQ",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/62fb55ef2bfd3427d8408d2f11f5fd9e/subs-legacy/62c483fe5da6d7d837e1f271f4db2fbb.vtt"
+      },
+      {
+        "lang": "en",
+        "label": "English",
+        "path": "https://e2e.majorplay.net/v/62fb55ef2bfd3427d8408d2f11f5fd9e/subs-legacy/f1c85dce897416627aa1ae92fbc8b64e.vtt"
+      }
+    ],
+    "episodeId": "c6cda841-c11e-4b1a-ae62-b108ae73ae27",
+    "episodeNumber": 5,
+    "seasonNumber": 1,
+    "seriesSlug": "cyberpunk-edgerunners-2022",
+    "savedAt": "2026-10-28T07:03:02.777Z"
+  },
+  "the-hunt-2012": {
+    "slug": "the-hunt-2012",
+    "kind": "movie",
+    "playType": "movie",
+    "contentId": "da3dbd26-dde3-410e-b255-b66d7bd9f406",
+    "title": "The.Hunt.2012.1080p.BluRay.x264-[YTS.AM]",
+    "videoId": "J0_4w5EwQK7S",
+    "playlistUrl": "https://e2e.majorplay.net/v/z6/J0_4w5EwQK7S/config-561850.json?t=c2_3/v/z6/J0_4w5EwQK7S/.1792908700-z-d3lwNri_O84rucrr4Kjrwtj2Tj1zfXW4GMC3rmmb4&pm=browser",
+    "token": "c2_3/v/z6/J0_4w5EwQK7S/.1792908700-z-d3lwNri_O84rucrr4Kjrwtj2Tj1zfXW4GMC3rmmb4",
+    "expiresAt": 1792908700,
+    "claimExpiresAt": 1792918738,
+    "renewalToken": "eyJ2IjoxLCJjdCI6Im1vdmllIiwiY2lkIjoiZGEzZGJkMjYtZGRlMy00MTBlLWIyNTUtYjY2ZDdiZDlmNDA2IiwidmlkIjoiSjBfNHc1RXdRSzdTIiwiY2giOiJ5anlSMWN5c2FraG1ELWtkRkQzX2FKc29qUkVObHVfWGRrb1luTEV0VkI4IiwiaWF0IjoxNzkyOTA1MDk5LCJleHAiOjE3OTI5NTE4OTksInNhdCI6MTc5MjkwNTA5OX0.kVHupltL1zuDnKGepiCFlVI_0cn7UTzjwQ5UhNcATcM",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z6/J0_4w5EwQK7S/i18n/id/9ba6767d35d5451a.vtt"
+      }
+    ],
+    "savedAt": "2026-10-25T05:11:40.198Z"
+  },
+  "the-djinns-curse-2-2026": {
+    "slug": "the-djinns-curse-2-2026",
+    "kind": "movie",
+    "playType": "movie",
+    "contentId": "c60abc0b-da5f-4dea-ac03-b719b2051069",
+    "title": "The.Djinns.Curse.2.2026.1080p.NF.WEB-DL.DDP5.1.H.264-ATMOS",
+    "videoId": "w-ukRkj4gm6c",
+    "playlistUrl": "https://e2e.majorplay.net/v/z7/w-ukRkj4gm6c/config-355869.json?t=c2_3/v/z7/w-ukRkj4gm6c/.1792908747-_jAyuzrqjRVwVhkSeIIFce6jQsArviFVfiVrCVuCiNc&pm=browser",
+    "token": "c2_3/v/z7/w-ukRkj4gm6c/.1792908747-_jAyuzrqjRVwVhkSeIIFce6jQsArviFVfiVrCVuCiNc",
+    "expiresAt": 1792908747,
+    "claimExpiresAt": 1792906190,
+    "renewalToken": "eyJ2IjoxLCJjdCI6Im1vdmllIiwiY2lkIjoiYzYwYWJjMGItZGE1Zi00ZGVhLWFjMDMtYjcxOWIyMDUxMDY5IiwidmlkIjoidy11a1JrajRnbTZjIiwiY2giOiJXczNXbWJvdHU4Tm5xT05IM0Z2dTJXQmQweUxHVDNUZlhUZGsxdFUyS3lnIiwiaWF0IjoxNzkyOTA1MTQ2LCJleHAiOjE3OTI5NTE5NDYsInNhdCI6MTc5MjkwNTE0Nn0.2uLKJGDYyeWq0jz9RMDqSnG7kISavSt99SBuxym4AYw",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z7/w-ukRkj4gm6c/i18n/id/ce4d51315fe439b1.vtt"
+      }
+    ],
+    "savedAt": "2026-10-25T05:12:27.407Z"
+  },
+  "the-wire-2002": {
+    "slug": "the-wire-2002",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "b3a9174c-5d48-4279-9577-9bff18ca71a7",
+    "title": "The Wire (2002) - S01E01 - The Target (1080p BluRay x265 Silence).mkv",
+    "videoId": "a4f32d3183be54c56a76dbfc8b992eb3",
+    "playlistUrl": "https://e2e.majorplay.net/v/a4f32d3183be54c56a76dbfc8b992eb3/config-895945.json?t=c2_3/v/a4f32d3183be54c56a76dbfc8b992eb3/.1792908806-dk7WaF4fX-yDT7DFSdIe1hSGOq25SMuX_7mOZKA4gWc&pm=browser",
+    "token": "c2_3/v/a4f32d3183be54c56a76dbfc8b992eb3/.1792908806-dk7WaF4fX-yDT7DFSdIe1hSGOq25SMuX_7mOZKA4gWc",
+    "expiresAt": 1792908806,
+    "claimExpiresAt": 1792910820,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiJiM2E5MTc0Yy01ZDQ4LTQyNzktOTU3Ny05YmZmMThjYTcxYTciLCJ2aWQiOiJhNGYzMmQzMTgzYmU1NGM1NmE3NmRiZmM4Yjk5MmViMyIsImNoIjoiVTNrY19xWnBYSU9XRktpa0wyNGx3SFdlQjZOM0wzU21PRHhyaHF1bUlRbyIsImlhdCI6MTc5MjkwNTIwNSwiZXhwIjoxNzkyOTUyMDA1LCJzYXQiOjE3OTI5MDUyMDV9.pthKm9rOEjyhyn8vv53Dj66Uo9IJuwBtUjjQcPBsHvs",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/a4f32d3183be54c56a76dbfc8b992eb3/subs-legacy/930792f2cc8fff08862dea20571679ca.vtt"
+      }
+    ],
+    "episodeId": "b3a9174c-5d48-4279-9577-9bff18ca71a7",
+    "episodeNumber": 1,
+    "seasonNumber": 1,
+    "seriesSlug": "the-wire-2002",
+    "savedAt": "2026-10-25T05:13:26.550Z"
+  },
+  "a-love-other-than-yours-2026": {
+    "slug": "a-love-other-than-yours-2026",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "c7902fff-0e32-4064-a3bb-0744b386b994",
+    "title": "A.Love.Other.Than.Yours.S01E12.Who.Do.We.Love.the.Most.1080p.AMZN.WEB-DL.DDP2.0.H.264-EQRTZ",
+    "videoId": "sPzBvhXvNngm",
+    "playlistUrl": "https://e2e.majorplay.net/v/z3/sPzBvhXvNngm/config-633626.json?t=c2_4/v/z3/sPzBvhXvNngm/.1793007844-vPqz0-MpHPI8Wqi2KUAHlJacyX5kmHQdtumh3SNPTxo&pm=browser",
+    "token": "c2_4/v/z3/sPzBvhXvNngm/.1793007844-vPqz0-MpHPI8Wqi2KUAHlJacyX5kmHQdtumh3SNPTxo",
+    "expiresAt": 1793007844,
+    "claimExpiresAt": 1793018377,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiJjNzkwMmZmZi0wZTMyLTQwNjQtYTNiYi0wNzQ0YjM4NmI5OTQiLCJ2aWQiOiJzUHpCdmhYdk5uZ20iLCJjaCI6IjFBU0RDVHhubjU3bDM2VEFEeS1jM3lndE5HVzViYjhOaXM0N3NWaWFQZnMiLCJpYXQiOjE3OTMwMDQyNDMsImV4cCI6MTc5MzA1MTA0Mywic2F0IjoxNzkzMDA0MjQzfQ.Nd3pdbDAqNYTsJJIAHsGruR_wa3ZnlQm1GcnQhmKxDQ",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z3/sPzBvhXvNngm/i18n/id/0b0d6f54f50a4819.vtt"
+      }
+    ],
+    "episodeId": "c7902fff-0e32-4064-a3bb-0744b386b994",
+    "episodeNumber": 12,
+    "seasonNumber": 1,
+    "seriesSlug": "a-love-other-than-yours-2026",
+    "savedAt": "2026-10-26T08:44:04.259Z"
+  },
+  "black-clover-2017": {
+    "slug": "black-clover-2017",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "d594e9ec-37c4-4416-b7c4-dd65f6ffcdd3",
+    "title": "[Kusonime] Black Clover BD - 05",
+    "videoId": "2_8_x5lrtR22",
+    "playlistUrl": "https://e2e.majorplay.net/v/z1/2_8_x5lrtR22/config-396036.json?t=c2_4/v/z1/2_8_x5lrtR22/.1793173771-elUOO2jDnVnwRn6orkt2xPjPnl-6XGbzuYh0NyQz8es&pm=browser",
+    "token": "c2_4/v/z1/2_8_x5lrtR22/.1793173771-elUOO2jDnVnwRn6orkt2xPjPnl-6XGbzuYh0NyQz8es",
+    "expiresAt": 1793173771,
+    "claimExpiresAt": 1793182120,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiJkNTk0ZTllYy0zN2M0LTQ0MTYtYjdjNC1kZDY1ZjZmZmNkZDMiLCJ2aWQiOiIyXzhfeDVscnRSMjIiLCJjaCI6IllOU05UNm1INmlxSGpFS2NfdXdFZV9zOFRxcXg0NmFHc2c2ZEZnMERMRkEiLCJpYXQiOjE3OTMxNzAxNzEsImV4cCI6MTc5MzIxNjk3MSwic2F0IjoxNzkzMTcwMTcxfQ.YTQAZwUQsdkwU64fir7cDh9lM5ywIg0fSShM902saqU",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z1/2_8_x5lrtR22/i18n/id/fb114c94104327ba.vtt"
+      }
+    ],
+    "episodeId": "d594e9ec-37c4-4416-b7c4-dd65f6ffcdd3",
+    "episodeNumber": 5,
+    "seasonNumber": 1,
+    "seriesSlug": "black-clover-2017",
+    "savedAt": "2026-10-28T06:49:32.075Z"
+  },
+  "sex-and-the-city-1998": {
+    "slug": "sex-and-the-city-1998",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "6421c787-9fef-4674-bebb-44c0462cc421",
+    "title": "Sex.and.the.City.S01E01.Sex.and.the.City.1080p.NF.WEB-DL.DDP5.1.H.264-EQRTZ.mkv",
+    "videoId": "f90503d430452da9236bffac39001e1a",
+    "playlistUrl": "https://e2e.majorplay.net/v/f90503d430452da9236bffac39001e1a/config-602183.json?t=c2_4/v/f90503d430452da9236bffac39001e1a/.1793011362-Ui9AnwO5rRitLgjIe22_wQvr7lurRpOPc2EWTrgUIY8&pm=browser",
+    "token": "c2_4/v/f90503d430452da9236bffac39001e1a/.1793011362-Ui9AnwO5rRitLgjIe22_wQvr7lurRpOPc2EWTrgUIY8",
+    "expiresAt": 1793011362,
+    "claimExpiresAt": 1793020833,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiI2NDIxYzc4Ny05ZmVmLTQ2NzQtYmViYi00NGMwNDYyY2M0MjEiLCJ2aWQiOiJmOTA1MDNkNDMwNDUyZGE5MjM2YmZmYWMzOTAwMWUxYSIsImNoIjoiSnFyQS1sVERUOG91dmpvVjR3SlJjNEc5VEdrVDg2QXA4TGpmZm1hNW1FVSIsImlhdCI6MTc5MzAwNzc2MiwiZXhwIjoxNzkzMDU0NTYyLCJzYXQiOjE3OTMwMDc3NjJ9.OheeWoaGq_9Xekwf-_GuZBpOfvnz-YvV0AT7RdOWtMw",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/f90503d430452da9236bffac39001e1a/subs-legacy/c837567bc883a83e707ff23633e846f1.vtt"
+      }
+    ],
+    "episodeId": "6421c787-9fef-4674-bebb-44c0462cc421",
+    "episodeNumber": 1,
+    "seasonNumber": 1,
+    "seriesSlug": "sex-and-the-city-1998",
+    "savedAt": "2026-10-26T09:42:43.072Z"
+  },
+  "blue-box-2024": {
+    "slug": "blue-box-2024",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "39249149-362d-4c3b-8e32-07e1d8e6f943",
+    "title": "Blue.Box.S02E04.Love.Is.the.Most.Powerful.Feeling.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264.MSubs-ToonsHub",
+    "videoId": "rEudWysfNjnB",
+    "playlistUrl": "https://e2e.majorplay.net/v/z2/rEudWysfNjnB/config-216392.json?t=c2_4/v/z2/rEudWysfNjnB/.1793012487-dSX48c_w-NzQRSsQyXQJksC9UJnObutQPRt4Riz-JiE&pm=browser",
+    "token": "c2_4/v/z2/rEudWysfNjnB/.1793012487-dSX48c_w-NzQRSsQyXQJksC9UJnObutQPRt4Riz-JiE",
+    "expiresAt": 1793012487,
+    "claimExpiresAt": 1793015679,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiIzOTI0OTE0OS0zNjJkLTRjM2ItOGUzMi0wN2UxZDhlNmY5NDMiLCJ2aWQiOiJyRXVkV3lzZk5qbkIiLCJjaCI6IjFRcGphYmFEX3N2RGRNMTlEdHN1VmhPaFBHRm9vNWJWRTc5VWdSSkdGb0UiLCJpYXQiOjE3OTMwMDg4ODcsImV4cCI6MTc5MzA1NTY4Nywic2F0IjoxNzkzMDA4ODg3fQ.HotxlAHH6cFFoBdvhbvFyg5tyiYwETBXcB6WG2iqRaA",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z2/rEudWysfNjnB/i18n/id/2076b3d84840fbf5.vtt"
+      }
+    ],
+    "episodeId": "39249149-362d-4c3b-8e32-07e1d8e6f943",
+    "episodeNumber": 29,
+    "seasonNumber": 1,
+    "seriesSlug": "blue-box-2024",
+    "savedAt": "2026-10-26T10:01:27.782Z"
+  },
+  "the-zone-survival-mission-2022": {
+    "slug": "the-zone-survival-mission-2022",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "47420992-9ff5-46ad-9712-ff9df4937bc9",
+    "title": "The.Zone.Survival.Mission.S01E05.5th.Zone.1080p.DSNP.WEB-DL.DDP5.1.H.264-ECLiPSE",
+    "videoId": "2ea3ff45d620f62b6669490c57394f3c",
+    "playlistUrl": "https://e2e.majorplay.net/v/2ea3ff45d620f62b6669490c57394f3c/config-673208.json?t=c2_4/v/2ea3ff45d620f62b6669490c57394f3c/.1793174136-liNHXazdjSjXLGoFw-edr5stxUG4hJA2zuXvmhOL6H0&pm=browser",
+    "token": "c2_4/v/2ea3ff45d620f62b6669490c57394f3c/.1793174136-liNHXazdjSjXLGoFw-edr5stxUG4hJA2zuXvmhOL6H0",
+    "expiresAt": 1793174136,
+    "claimExpiresAt": 1793184936,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiI0NzQyMDk5Mi05ZmY1LTQ2YWQtOTcxMi1mZjlkZjQ5MzdiYzkiLCJ2aWQiOiIyZWEzZmY0NWQ2MjBmNjJiNjY2OTQ5MGM1NzM5NGYzYyIsImNoIjoieU5FRGpmVXFQaEg1ck1DbXo0elpnS2l5TVV2MEFxSzlwV3VrdEdScHlFYyIsImlhdCI6MTc5MzE3MDUzNiwiZXhwIjoxNzkzMjE3MzM2LCJzYXQiOjE3OTMxNzA1MzZ9.BZQHpOMSr-VMnl5i7eK_YTzXhIKkKCoy6m9xNsMmcYw",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/2ea3ff45d620f62b6669490c57394f3c/subs-legacy/6d84a2fee3bc06c1af915f48a0081c04.vtt"
+      }
+    ],
+    "episodeId": "47420992-9ff5-46ad-9712-ff9df4937bc9",
+    "episodeNumber": 5,
+    "seasonNumber": 1,
+    "seriesSlug": "the-zone-survival-mission-2022",
+    "savedAt": "2026-10-28T06:55:36.844Z"
+  },
+  "wreck-it-ralph-2012": {
+    "slug": "wreck-it-ralph-2012",
+    "kind": "movie",
+    "playType": "movie",
+    "contentId": "47435958-3ec0-4e30-8eba-eab0df571267",
+    "title": "Wreck-It.Ralph.2012.1080p.BluRay.H264.AAC-RARBG.mp4",
+    "videoId": "9bcdf808bb0a2d6d454e46770885da04",
+    "playlistUrl": "https://e2e.majorplay.net/v/9bcdf808bb0a2d6d454e46770885da04/config-194268.json?t=c2_4/v/9bcdf808bb0a2d6d454e46770885da04/.1793018315-Cj2acnfokzMu22QNCE_bcRyMlolvPqAlHtDDbMiBvxc&pm=browser",
+    "token": "c2_4/v/9bcdf808bb0a2d6d454e46770885da04/.1793018315-Cj2acnfokzMu22QNCE_bcRyMlolvPqAlHtDDbMiBvxc",
+    "expiresAt": 1793018315,
+    "claimExpiresAt": 1793029115,
+    "renewalToken": "eyJ2IjoxLCJjdCI6Im1vdmllIiwiY2lkIjoiNDc0MzU5NTgtM2VjMC00ZTMwLThlYmEtZWFiMGRmNTcxMjY3IiwidmlkIjoiOWJjZGY4MDhiYjBhMmQ2ZDQ1NGU0Njc3MDg4NWRhMDQiLCJjaCI6IlJvMlhGcEI4UE9ya05ScFpjX29YcFJxMWJHTEphLU9NZFlCQVg3VXRoNlEiLCJpYXQiOjE3OTMwMTQ3MTUsImV4cCI6MTc5MzA2MTUxNSwic2F0IjoxNzkzMDE0NzE1fQ.iD8plcURZlEL-4nFIKCq7L5vuOaWr_TeQE2zLggV-Mo",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/9bcdf808bb0a2d6d454e46770885da04/subs-legacy/e83114a9bf4ef56a86032b7b6a208b3d.vtt"
+      }
+    ],
+    "savedAt": "2026-10-26T11:38:36.105Z"
+  },
+  "visionquest-2026": {
+    "slug": "visionquest-2026",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "ddd5f08b-fe32-418f-b244-98006ea3f355",
+    "title": "VisionQuest.S01E01.No.Strings.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+    "videoId": "okBdfcsU7T8L",
+    "playlistUrl": "https://e2e.majorplay.net/v/z7/okBdfcsU7T8L/config-169799.json?t=c2_4/v/z7/okBdfcsU7T8L/.1793164532-PHG9iw6fwW8ThjDl5Uyf5pgvLG6GGlg3cCi5qNSlGMk&pm=browser",
+    "token": "c2_4/v/z7/okBdfcsU7T8L/.1793164532-PHG9iw6fwW8ThjDl5Uyf5pgvLG6GGlg3cCi5qNSlGMk",
+    "expiresAt": 1793164532,
+    "claimExpiresAt": 1793174351,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiJkZGQ1ZjA4Yi1mZTMyLTQxOGYtYjI0NC05ODAwNmVhM2YzNTUiLCJ2aWQiOiJva0JkZmNzVTdUOEwiLCJjaCI6IlFka3Q2Ui1JRDVsaXJ3c2VaWnBPbmtmaEk0cUVwTkk0VGQwYnVpT1dWWTgiLCJpYXQiOjE3OTMxNjA5MzIsImV4cCI6MTc5MzIwNzczMiwic2F0IjoxNzkzMTYwOTMyfQ.dRgwho9yDhv5dsEgfp0ZptNvvVKkz9jfPIEr2eakW44",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z7/okBdfcsU7T8L/i18n/id/d74ed82d5105a5a3.vtt"
+      }
+    ],
+    "episodeId": "ddd5f08b-fe32-418f-b244-98006ea3f355",
+    "episodeNumber": 1,
+    "seasonNumber": 1,
+    "seriesSlug": "visionquest-2026",
+    "savedAt": "2026-10-28T04:15:32.894Z"
+  },
+  "the-one-about-matthew-perry-2026": {
+    "slug": "the-one-about-matthew-perry-2026",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "d9a70f4d-b662-4d03-892a-159a76045588",
+    "title": "The.One.About.Matthew.Perry.S01E01.Part.I.1080p.NF.WEB-DL.DDP5.1.H.264-EQRTZ",
+    "videoId": "_lijvbfV8nG6",
+    "playlistUrl": "https://e2e.majorplay.net/v/z4/_lijvbfV8nG6/config-166046.json?t=c2_4/v/z4/_lijvbfV8nG6/.1793171204-KDsfnCExf8hNywmREKopI8dgy5-ooIEGSjEGGxB3CHQ&pm=browser",
+    "token": "c2_4/v/z4/_lijvbfV8nG6/.1793171204-KDsfnCExf8hNywmREKopI8dgy5-ooIEGSjEGGxB3CHQ",
+    "expiresAt": 1793171204,
+    "claimExpiresAt": 1793173266,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiJkOWE3MGY0ZC1iNjYyLTRkMDMtODkyYS0xNTlhNzYwNDU1ODgiLCJ2aWQiOiJfbGlqdmJmVjhuRzYiLCJjaCI6IlFkVm1zN0lzWElrWjBkS0pHT0xxek4yWHgzRUw3OHp2YmVJZ0NLN2ZKLVUiLCJpYXQiOjE3OTMxNjc2MDQsImV4cCI6MTc5MzIxNDQwNCwic2F0IjoxNzkzMTY3NjA0fQ.MoVwwz2DPspMyp8SM1GFeogqxbFwAoqTaWiS03twLj8",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z4/_lijvbfV8nG6/i18n/id/3bc4059cd4790a3c.vtt"
+      }
+    ],
+    "episodeId": "d9a70f4d-b662-4d03-892a-159a76045588",
+    "episodeNumber": 1,
+    "seasonNumber": 1,
+    "seriesSlug": "the-one-about-matthew-perry-2026",
+    "savedAt": "2026-10-28T06:06:45.109Z"
+  },
+  "mr-mikamis-classroom-2025": {
+    "slug": "mr-mikamis-classroom-2025",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "d5f788f9-3624-4498-aa44-cec160dc1155",
+    "title": "Mr.Mikamis.Classroom.S01E01.Destruction.1080p.HMAX.WEB-DL.DDP2.0.H.264-EQRTZ",
+    "videoId": "d2aa4eee0958c3ac35c7fd849d14eeca",
+    "playlistUrl": "https://e2e.majorplay.net/v/d2aa4eee0958c3ac35c7fd849d14eeca/config-913026.json?t=c2_4/v/d2aa4eee0958c3ac35c7fd849d14eeca/.1793171514-p1K91BjKAAvRaB05Cop0_x04e_BHc_YBRou_fbC4Zr8&pm=browser",
+    "token": "c2_4/v/d2aa4eee0958c3ac35c7fd849d14eeca/.1793171514-p1K91BjKAAvRaB05Cop0_x04e_BHc_YBRou_fbC4Zr8",
+    "expiresAt": 1793171514,
+    "claimExpiresAt": 1793182314,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiJkNWY3ODhmOS0zNjI0LTQ0OTgtYWE0NC1jZWMxNjBkYzExNTUiLCJ2aWQiOiJkMmFhNGVlZTA5NThjM2FjMzVjN2ZkODQ5ZDE0ZWVjYSIsImNoIjoiUGJrc1JNcVJoZ1lOdHhLQTlCT3Vvb0FaS2VoU1ZZRXRENUJpUEYwSDZjNCIsImlhdCI6MTc5MzE2NzkxNCwiZXhwIjoxNzkzMjE0NzE0LCJzYXQiOjE3OTMxNjc5MTR9.x8UemB9oisRfl-dj6gY0AP2n_Q4u5lyobAJs9bNdCdQ",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/d2aa4eee0958c3ac35c7fd849d14eeca/subs-legacy/287123805ae66e9724df18bf6fc4c959.vtt"
+      }
+    ],
+    "episodeId": "d5f788f9-3624-4498-aa44-cec160dc1155",
+    "episodeNumber": 1,
+    "seasonNumber": 1,
+    "seriesSlug": "mr-mikamis-classroom-2025",
+    "savedAt": "2026-10-28T06:11:55.150Z"
+  },
+  "the-beauty-2026": {
+    "slug": "the-beauty-2026",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "7b0397e7-e6e0-431c-981d-b5abedb45132",
+    "title": "The Beauty S01E01 Beautiful Pilot 1080p DSNP WEB-DL DDP5 1 H 264-FLUX[EZTVx.to].mkv",
+    "videoId": "4ba3dcec447cb39460a176c95534f3ac",
+    "playlistUrl": "https://e2e.majorplay.net/v/4ba3dcec447cb39460a176c95534f3ac/config-358111.json?t=c2_4/v/4ba3dcec447cb39460a176c95534f3ac/.1793171564-voJjqEneHzGFJzNf43F6lBScIfXcAbWMwkU1yewFbrE&pm=browser",
+    "token": "c2_4/v/4ba3dcec447cb39460a176c95534f3ac/.1793171564-voJjqEneHzGFJzNf43F6lBScIfXcAbWMwkU1yewFbrE",
+    "expiresAt": 1793171564,
+    "claimExpiresAt": 1793182363,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiI3YjAzOTdlNy1lNmUwLTQzMWMtOTgxZC1iNWFiZWRiNDUxMzIiLCJ2aWQiOiI0YmEzZGNlYzQ0N2NiMzk0NjBhMTc2Yzk1NTM0ZjNhYyIsImNoIjoieEZlZmhxcEM5M1R5TTcxaWFyZno1Nm9zS2ZqSGlmbHNDSkNreG12bnVkdyIsImlhdCI6MTc5MzE2Nzk2MywiZXhwIjoxNzkzMjE0NzYzLCJzYXQiOjE3OTMxNjc5NjN9.Rw_FJNJIzV2pQV5NEUQroWJnhfjMBQbpIO3nUh409nk",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/4ba3dcec447cb39460a176c95534f3ac/subs-legacy/cb9f110c20279fd3b08f8e38c999ffa7.vtt"
+      },
+      {
+        "lang": "en",
+        "label": "English",
+        "path": "https://e2e.majorplay.net/v/4ba3dcec447cb39460a176c95534f3ac/subs-legacy/7ded9601d66ad9ceb728cd0f88cb5008.vtt"
+      }
+    ],
+    "episodeId": "7b0397e7-e6e0-431c-981d-b5abedb45132",
+    "episodeNumber": 1,
+    "seasonNumber": 1,
+    "seriesSlug": "the-beauty-2026",
+    "savedAt": "2026-10-28T06:12:44.257Z"
+  },
+  "love-in-disguise-2026": {
+    "slug": "love-in-disguise-2026",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "2bde19e9-9c5b-48b2-b955-7716aef1ea2e",
+    "title": "Love.in.Disguise.S01E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-Marco.mkv",
+    "videoId": "znDT1QLqfN9L",
+    "playlistUrl": "https://e2e.majorplay.net/v/z4/znDT1QLqfN9L/config-511279.json?t=c2_4/v/z4/znDT1QLqfN9L/.1793173028-x4jCw2dprAHmfDB5NC1hL18ERNvSjUWbRdypoE_ZQ3Q&pm=browser",
+    "token": "c2_4/v/z4/znDT1QLqfN9L/.1793173028-x4jCw2dprAHmfDB5NC1hL18ERNvSjUWbRdypoE_ZQ3Q",
+    "expiresAt": 1793173028,
+    "claimExpiresAt": 1793183482,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiIyYmRlMTllOS05YzViLTQ4YjItYjk1NS03NzE2YWVmMWVhMmUiLCJ2aWQiOiJ6bkRUMVFMcWZOOUwiLCJjaCI6Im5jSWVVdkZBVGpRVFMyUmJ6eGFtR1hXbXZNSFN2TS1tV2tBQmlvUkh3c3ciLCJpYXQiOjE3OTMxNjk0MjcsImV4cCI6MTc5MzIxNjIyNywic2F0IjoxNzkzMTY5NDI3fQ.XTab3cmEwJ9I2MZnr1k5J1-1z2511c1nTwZIGC7qMAM",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z4/znDT1QLqfN9L/i18n/id/386e7ada262f52f5.vtt"
+      }
+    ],
+    "episodeId": "2bde19e9-9c5b-48b2-b955-7716aef1ea2e",
+    "episodeNumber": 2,
+    "seasonNumber": 1,
+    "seriesSlug": "love-in-disguise-2026",
+    "savedAt": "2026-10-28T06:37:08.807Z"
+  },
+  "tell-me-lies-2022": {
+    "slug": "tell-me-lies-2022",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "d749f1a3-f9c4-4462-a27b-0ad2c478102d",
+    "title": "Tell.Me.Lies.S01E01.1080p.DSNP.WEB-DL.DDP5.1.H.264-KiNGS.mkv",
+    "videoId": "30bdcdc2959ac39949e5113ad431d11f",
+    "playlistUrl": "https://e2e.majorplay.net/v/30bdcdc2959ac39949e5113ad431d11f/config-160199.json?t=c2_4/v/30bdcdc2959ac39949e5113ad431d11f/.1793174609-JCUUoGN5RIxk7OToBFmrjc8AroNrZS1gSsXYq94yzHE&pm=browser",
+    "token": "c2_4/v/30bdcdc2959ac39949e5113ad431d11f/.1793174609-JCUUoGN5RIxk7OToBFmrjc8AroNrZS1gSsXYq94yzHE",
+    "expiresAt": 1793174609,
+    "claimExpiresAt": 1793185409,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiJkNzQ5ZjFhMy1mOWM0LTQ0NjItYTI3Yi0wYWQyYzQ3ODEwMmQiLCJ2aWQiOiIzMGJkY2RjMjk1OWFjMzk5NDllNTExM2FkNDMxZDExZiIsImNoIjoiQ1BmVVU1Y3NGVEpWejUwMXpRX3pHZEs4SGttanlmcGpwX2hHOVY2NjlodyIsImlhdCI6MTc5MzE3MTAwOSwiZXhwIjoxNzkzMjE3ODA5LCJzYXQiOjE3OTMxNzEwMDl9.QBnd7UAKZLb8EU_5z9-JtHdhMENg-m9yL7swHG_1ozI",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/30bdcdc2959ac39949e5113ad431d11f/subs-legacy/cf9523e47ee73b9fa795ab60e5a799c5.vtt"
+      }
+    ],
+    "episodeId": "d749f1a3-f9c4-4462-a27b-0ad2c478102d",
+    "episodeNumber": 1,
+    "seasonNumber": 1,
+    "seriesSlug": "tell-me-lies-2022",
+    "savedAt": "2026-10-28T07:03:29.679Z"
+  },
+  "the-impossible-heir-2024": {
+    "slug": "the-impossible-heir-2024",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "a7263376-5adb-4e91-8af2-9ef6087b46a9",
+    "title": "The.Impossible.Heir.S01E04.1080p.DSNP.WEB-DL.DDP5.1.H.264-APEX [DRAMADAY.me].mkv",
+    "videoId": "2bc0b21360eab4a6023b09e4b3ec2f52",
+    "playlistUrl": "https://e2e.majorplay.net/v/2bc0b21360eab4a6023b09e4b3ec2f52/config-566482.json?t=c2_4/v/2bc0b21360eab4a6023b09e4b3ec2f52/.1793179269-SUOsje95SP5bxg2SAcGtEz9Ny51LkV_YH8GpAqqAx0w&pm=browser",
+    "token": "c2_4/v/2bc0b21360eab4a6023b09e4b3ec2f52/.1793179269-SUOsje95SP5bxg2SAcGtEz9Ny51LkV_YH8GpAqqAx0w",
+    "expiresAt": 1793179269,
+    "claimExpiresAt": 1793190069,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiJhNzI2MzM3Ni01YWRiLTRlOTEtOGFmMi05ZWY2MDg3YjQ2YTkiLCJ2aWQiOiIyYmMwYjIxMzYwZWFiNGE2MDIzYjA5ZTRiM2VjMmY1MiIsImNoIjoiS1VaT1JaZVZ5d3NoRUNwMWUyenM0M015YlQ3cTZfRUVHT0ZCSndEUUc2YyIsImlhdCI6MTc5MzE3NTY2OSwiZXhwIjoxNzkzMjIyNDY5LCJzYXQiOjE3OTMxNzU2Njl9.BDbeQXsZWMJRAJRR8iMvGFSITJx6NF3SZx47I0s6AUU",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/2bc0b21360eab4a6023b09e4b3ec2f52/subs-legacy/d539aaafc8f0f32c5abc76f3d5bf0da8.vtt"
+      }
+    ],
+    "episodeId": "a7263376-5adb-4e91-8af2-9ef6087b46a9",
+    "episodeNumber": 4,
+    "seasonNumber": 1,
+    "seriesSlug": "the-impossible-heir-2024",
+    "savedAt": "2026-10-28T08:21:09.687Z"
+  },
+  "100-days-of-deception-2026": {
+    "slug": "100-days-of-deception-2026",
+    "kind": "tv_series",
+    "playType": "episode",
+    "contentId": "4cee2dcd-9610-4a80-a798-57c374e0a413",
+    "title": "100.Days.of.Deception.S01E02.1080p.NF.WEB-DL.AAC2.0.H.264-MrHulk [DRAMADAY.me].mkv",
+    "videoId": "IG3M8YCoom0k",
+    "playlistUrl": "https://e2e.majorplay.net/v/z2/IG3M8YCoom0k/config-159171.json?t=c2_4/v/z2/IG3M8YCoom0k/.1793179721-E86IDpbLqehs1CX2BTciUBoUJZEKA2RT-wZkuOIfJ4s&pm=browser",
+    "token": "c2_4/v/z2/IG3M8YCoom0k/.1793179721-E86IDpbLqehs1CX2BTciUBoUJZEKA2RT-wZkuOIfJ4s",
+    "expiresAt": 1793179721,
+    "claimExpiresAt": 1793185850,
+    "renewalToken": "eyJ2IjoxLCJjdCI6ImVwaXNvZGUiLCJjaWQiOiI0Y2VlMmRjZC05NjEwLTRhODAtYTc5OC01N2MzNzRlMGE0MTMiLCJ2aWQiOiJJRzNNOFlDb29tMGsiLCJjaCI6IlQwclFpWjUtS04ydXItT1ZyX3hsNVMyeTNCNXBjNi1Gc0Joai02QTdZZVkiLCJpYXQiOjE3OTMxNzYxMjAsImV4cCI6MTc5MzIyMjkyMCwic2F0IjoxNzkzMTc2MTIwfQ.RJaWLatz7MKcFQ0WXQJu41wj9G-I9g3wvkTWRrvM8Gw",
+    "subtitles": [
+      {
+        "lang": "id",
+        "label": "Indonesian",
+        "path": "https://e2e.majorplay.net/v/z2/IG3M8YCoom0k/i18n/id/af32e3f26786c500.vtt"
+      }
+    ],
+    "episodeId": "4cee2dcd-9610-4a80-a798-57c374e0a413",
+    "episodeNumber": 2,
+    "seasonNumber": 1,
+    "seriesSlug": "100-days-of-deception-2026",
+    "savedAt": "2026-10-28T08:28:41.225Z"
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "slug": "visionquest-2026",
+  "id": "54624fe2-96f2-4fd9-aeaa-4f73f86fdcc7",
+  "title": "VisionQuest",
+  "originalTitle": "VisionQuest",
+  "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+  "tagline": null,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "createdBy": [
+    {
+      "id": 1252001,
+      "name": "Terry Matalas",
+      "gender": 2,
+      "credit_id": "681929b5b50b5e2a1dc29f35",
+      "profile_path": "/4NDGDtltOwDSpy5pTHFFVuyEMmd.jpg",
+      "original_name": "Terry Matalas"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 420,
+      "name": "Marvel Studios",
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+      "id": 176762,
+      "name": "Kevin Feige Productions",
+      "logo_path": null
+    }
+  ],
+  "logoPath": "/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+  "posterPath": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+  "backdropPath": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 4,
+  "firstAirDate": "2026-10-13",
+  "status": "Returning Series",
+  "watchlistCount": 1023,
+  "favouriteCount": 427,
+  "shareCount": 31,
+  "country": "US",
+  "originalLanguage": "en",
+  "voteAverage": "9.30",
+  "trailerUrl": "https://www.youtube.com/watch?v=sXKnmgmbkoE",
+  "seasons": [
+    {
+      "id": "e8405a1c-1fe0-4b82-ad8d-b529b9bf4900",
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "episodeCount": 8
+    }
+  ],
+  "cast": [
+    {
+      "id": "e3e17032-cef9-426f-a36b-ebe614bb93b2",
+      "name": "Paul Bettany",
+      "character": "Vision",
+      "profilePath": "/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg",
+      "order": 0
+    },
+    {
+      "id": "7103ad9d-c5c8-4b2d-a8eb-f62215485a86",
+      "name": "James Spader",
+      "character": "Ultron",
+      "profilePath": "/3gurW3OgDOD4hcqDfgcqUnoNg34.jpg",
+      "order": 1
+    },
+    {
+      "id": "1bcfd439-7800-476c-a1f9-6e45ca2abc58",
+      "name": "Ruaridh Mollica",
+      "character": "Thomas Shepard",
+      "profilePath": "/wiSim6nG9TSY4AO8KOwsaaPJ0EH.jpg",
+      "order": 2
+    },
+    {
+      "id": "3103a2c1-c7e3-4f04-b82f-116668dda7da",
+      "name": "Todd Stashwick",
+      "character": "Paladin",
+      "profilePath": "/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg",
+      "order": 3
+    },
+    {
+      "id": "9a91353d-1d42-4863-b97c-e3c07bc9c801",
+      "name": "T'Nia Miller",
+      "character": "Jocasta",
+      "profilePath": "/rNsPJGkQz2yMbqcrWQCdGxq7t20.jpg",
+      "order": 4
+    },
+    {
+      "id": "1c5b6f2f-ec5f-40d9-95a6-f9bb8568ac08",
+      "name": "Lauren Morais",
+      "character": "Lisa Molinari",
+      "profilePath": "/7Eur3EddzlvXTYzKAGkRmo87xcS.jpg",
+      "order": 5
+    },
+    {
+      "id": "02aa9ecb-9909-4c75-8439-fcceac03f4f5",
+      "name": "Orla Brady",
+      "character": "F.R.I.D.A.Y.",
+      "profilePath": "/wjo8xposTE0HenFopy6KELCWoD0.jpg",
+      "order": 6
+    },
+    {
+      "id": "a8fe3234-b13c-41dc-b799-0bd0eee4c0ae",
+      "name": "Diane Morgan",
+      "character": "Handler",
+      "profilePath": "/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg",
+      "order": 7
+    },
+    {
+      "id": "87e3a9ad-1146-40ac-bf0b-407b99a97241",
+      "name": "Polly Frame",
+      "character": "Fiona Guthrie",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "128434d2-1db1-4f93-ae15-fbb00977c96f",
+      "name": "Henry Lewis",
+      "character": "D.U.M.-E",
+      "profilePath": "/sMDsMyLYhmI1N1amPPmd6Lrh7UK.jpg",
+      "order": 9
+    },
+    {
+      "id": "9968d4a3-e02c-4107-a09b-c14879fe3138",
+      "name": "Jonathan Sayer",
+      "character": "U",
+      "profilePath": "/cfF9sJMiJyxkYATv47H2qRabCVB.jpg",
+      "order": 10
+    },
+    {
+      "id": "067dcd48-4ebd-41ea-8a5e-554e98a1a974",
+      "name": "Emily Hampshire",
+      "character": "E.D.I.T.H.",
+      "profilePath": "/cw5F0VKKSVzRvQB4CMRXhs6WxoH.jpg",
+      "order": 11
+    },
+    {
+      "id": "7ec2d975-6be1-4090-abd7-d07994ece836",
+      "name": "James D'Arcy",
+      "character": "J.A.R.V.I.S.",
+      "profilePath": "/6CInTvBeLwXLx2id9TgaULaVEO4.jpg",
+      "order": 12
+    }
+  ],
+  "episodes": [
+    {
+      "id": "ddd5f08b-fe32-418f-b244-98006ea3f355",
+      "seasonId": "e8405a1c-1fe0-4b82-ad8d-b529b9bf4900",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "No Strings",
+      "overview": "Vision embarks on a journey of self-discovery and finds himself haunted by a deadly force.",
+      "runtime": 56,
+      "stillPath": "/zNV1OOF71fzTYand5duFx3uaWlE.jpg",
+      "airDate": "2026-10-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "a2308f58-5f70-4338-8b32-746cb606eda7",
+      "seasonId": "e8405a1c-1fe0-4b82-ad8d-b529b9bf4900",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Theseus",
+      "overview": "Vision comes face to face with his assailant while investigating whether Tommy Shepherd is his son.",
+      "runtime": 48,
+      "stillPath": "/sPFlMWA0YzOfuwys7BumrOJP5HR.jpg",
+      "airDate": "2026-10-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "18260d54-8401-4176-80a1-8f26a89a94ad",
+      "seasonId": "e8405a1c-1fe0-4b82-ad8d-b529b9bf4900",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Reboot",
+      "overview": "Vision and Tommy Shepherd join forces in order to survive while a terrifying killer strikes again.",
+      "runtime": 54,
+      "stillPath": "/u2YwlI82Nm6pM3jFijt00lxY2Be.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "e3c47141-603b-4d59-b33b-c75a7b9c5ad9",
+      "seasonId": "e8405a1c-1fe0-4b82-ad8d-b529b9bf4900",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Malware",
+      "overview": "As Vision confronts a new enemy, Ultron and Tommy Shepherd come face to face.",
+      "runtime": 51,
+      "stillPath": "/6eVHqUOPEe1CIbvg4Dx6H4awFBR.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "cb0ca65b-a7db-4931-8349-3cf67815a539",
+      "seasonId": "e8405a1c-1fe0-4b82-ad8d-b529b9bf4900",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Firewall",
+      "overview": "Ultron and Jocasta join forces. Lisa comes to Vision's aid to help him evade capture.",
+      "runtime": 48,
+      "stillPath": "/aV5shTLgl6FJvLlt45MPmhOtvM3.jpg",
+      "airDate": "2026-10-27",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "4e75fd6e-8606-4d23-b2d7-a6818cfb3545",
+      "seasonId": "e8405a1c-1fe0-4b82-ad8d-b529b9bf4900",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Deadlock",
+      "overview": "Vision and Paladin form an uneasy alliance as Thomas finally learns the truth about his past.",
+      "runtime": 57,
+      "stillPath": "/6R8uiUzWH4ht7EFhDgwH4u0wZxc.jpg",
+      "airDate": "2026-10-27",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-28T04:15:15.177Z"
+}

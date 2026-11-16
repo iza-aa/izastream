@@ -1,0 +1,92 @@
+{
+  "endpoint": "/api/search/trending",
+  "status": 200,
+  "content_type": "application/json",
+  "error": null,
+  "body": {
+    "trending": [
+      "doctor x",
+      "avatar",
+      "spiderman",
+      "harry potter",
+      "horor",
+      "resident evil",
+      "merry",
+      "love",
+      "jojo",
+      "black"
+    ],
+    "trendingDetails": [
+      {
+        "query": "doctor x",
+        "rank": 1,
+        "delta": "same",
+        "previousRank": 1,
+        "comparisonAvailable": true
+      },
+      {
+        "query": "avatar",
+        "rank": 2,
+        "delta": "same",
+        "previousRank": 2,
+        "comparisonAvailable": true
+      },
+      {
+        "query": "spiderman",
+        "rank": 3,
+        "delta": "same",
+        "previousRank": 3,
+        "comparisonAvailable": true
+      },
+      {
+        "query": "harry potter",
+        "rank": 4,
+        "delta": "same",
+        "previousRank": 4,
+        "comparisonAvailable": true
+      },
+      {
+        "query": "horor",
+        "rank": 5,
+        "delta": "same",
+        "previousRank": 5,
+        "comparisonAvailable": true
+      },
+      {
+        "query": "resident evil",
+        "rank": 6,
+        "delta": "same",
+        "previousRank": 6,
+        "comparisonAvailable": true
+      },
+      {
+        "query": "merry",
+        "rank": 7,
+        "delta": "same",
+        "previousRank": 7,
+        "comparisonAvailable": true
+      },
+      {
+        "query": "love",
+        "rank": 8,
+        "delta": "up",
+        "previousRank": 9,
+        "comparisonAvailable": true
+      },
+      {
+        "query": "jojo",
+        "rank": 9,
+        "delta": "down",
+        "previousRank": 8,
+        "comparisonAvailable": true
+      },
+      {
+        "query": "black",
+        "rank": 10,
+        "delta": "same",
+        "previousRank": 10,
+        "comparisonAvailable": true
+      }
+    ]
+  }
+}

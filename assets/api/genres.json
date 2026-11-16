@@ -1,0 +1,171 @@
+{
+  "endpoint": "/api/genres",
+  "status": 200,
+  "content_type": "application/json",
+  "error": null,
+  "body": {
+    "data": [
+      {
+        "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+        "tmdbId": 28,
+        "name": "Action",
+        "slug": "action",
+        "createdAt": "2026-04-02T13:49:02.560Z"
+      },
+      {
+        "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+        "tmdbId": 12,
+        "name": "Adventure",
+        "slug": "adventure",
+        "createdAt": "2026-04-02T13:49:02.560Z"
+      },
+      {
+        "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+        "tmdbId": 16,
+        "name": "Animation",
+        "slug": "animation",
+        "createdAt": "2026-04-02T13:49:02.920Z"
+      },
+      {
+        "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+        "tmdbId": 35,
+        "name": "Comedy",
+        "slug": "comedy",
+        "createdAt": "2026-04-02T13:49:04.843Z"
+      },
+      {
+        "id": "8433bf5e-9f47-40be-823f-411b68929818",
+        "tmdbId": 80,
+        "name": "Crime",
+        "slug": "crime",
+        "createdAt": "2026-04-02T13:49:03.966Z"
+      },
+      {
+        "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+        "tmdbId": 99,
+        "name": "Documentary",
+        "slug": "documentary",
+        "createdAt": "2026-04-02T13:53:46.408Z"
+      },
+      {
+        "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+        "tmdbId": 18,
+        "name": "Drama",
+        "slug": "drama",
+        "createdAt": "2026-04-02T13:49:03.324Z"
+      },
+      {
+        "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+        "tmdbId": 10751,
+        "name": "Family",
+        "slug": "family",
+        "createdAt": "2026-04-02T13:49:02.920Z"
+      },
+      {
+        "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+        "tmdbId": 14,
+        "name": "Fantasy",
+        "slug": "fantasy",
+        "createdAt": "2026-04-02T13:49:03.635Z"
+      },
+      {
+        "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+        "tmdbId": 36,
+        "name": "History",
+        "slug": "history",
+        "createdAt": "2026-04-02T13:49:17.126Z"
+      },
+      {
+        "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+        "tmdbId": 27,
+        "name": "Horror",
+        "slug": "horror",
+        "createdAt": "2026-04-02T13:49:16.217Z"
+      },
+      {
+        "id": "efd8c60d-d42f-4a91-8d99-6dbe8aec41f2",
+        "tmdbId": 10762,
+        "name": "Kids",
+        "slug": "kids",
+        "createdAt": "2026-04-02T16:37:02.488Z"
+      },
+      {
+        "id": "c47fe226-dcf1-40b9-a67f-9436f9d5c4d0",
+        "tmdbId": 10402,
+        "name": "Music",
+        "slug": "music",
+        "createdAt": "2026-04-02T13:49:06.045Z"
+      },
+      {
+        "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+        "tmdbId": 9648,
+        "name": "Mystery",
+        "slug": "mystery",
+        "createdAt": "2026-04-02T13:49:05.757Z"
+      },
+      {
+        "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+        "tmdbId": 10764,
+        "name": "Reality",
+        "slug": "reality",
+        "createdAt": "2026-04-02T16:40:30.807Z"
+      },
+      {
+        "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+        "tmdbId": 10749,
+        "name": "Romance",
+        "slug": "romance",
+        "createdAt": "2026-04-02T13:49:05.132Z"
+      },
+      {
+        "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+        "tmdbId": 878,
+        "name": "Science Fiction",
+        "slug": "science-fiction",
+        "createdAt": "2026-04-02T13:49:02.560Z"
+      },
+      {
+        "id": "907c3b0c-3a08-4978-ac15-a090e21b59e9",
+        "tmdbId": 10766,
+        "name": "Soap",
+        "slug": "soap",
+        "createdAt": "2026-04-02T16:39:43.397Z"
+      },
+      {
+        "id": "1975a672-7f79-4a44-be9b-5ea96fbaaf48",
+        "tmdbId": 10767,
+        "name": "Talk",
+        "slug": "talk",
+        "createdAt": "2026-04-02T16:40:30.807Z"
+      },
+      {
+        "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+        "tmdbId": 53,
+        "name": "Thriller",
+        "slug": "thriller",
+        "createdAt": "2026-04-02T13:49:06.935Z"
+      },
+      {
+        "id": "1c2d786d-320e-4cad-83bb-132b219ff7ff",
+        "tmdbId": 10770,
+        "name": "TV Movie",
+        "slug": "tv-movie",
+        "createdAt": "2026-04-02T13:51:04.105Z"
+      },
+      {
+        "id": "1de0078f-f038-4fba-87f2-c36e7584a1cb",
+        "tmdbId": 10752,
+        "name": "War",
+        "slug": "war",
+        "createdAt": "2026-04-02T13:49:04.263Z"
+      },
+      {
+        "id": "15dfe354-c6cb-4e71-a6e9-f0190d30d0d4",
+        "tmdbId": 37,
+        "name": "Western",
+        "slug": "western",
+        "createdAt": "2026-04-02T13:49:04.555Z"
+      }
+    ]
+  }
+}

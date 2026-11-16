@@ -1,0 +1,286 @@
+{
+  "slug": "love-in-disguise-2026",
+  "id": "9f88bd38-9e19-4711-a789-2b97fc954efe",
+  "title": "Love in Disguise",
+  "originalTitle": "나의 유죄인간",
+  "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+  "tagline": "Trickery is a game two can play.",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "createdBy": [
+    {
+      "id": 6060703,
+      "name": "Moon Soo-jeong",
+      "gender": 1,
+      "credit_id": "69af931753127301b2c1ebb1",
+      "profile_path": null,
+      "original_name": "문수정"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 199265,
+      "name": "CJ ENM Studios",
+      "logo_path": "/mv2yDqAgT1ea1eTXZMDr89zX95M.png"
+    },
+    {
+      "id": 192583,
+      "name": "피타팻스튜디오",
+      "logo_path": null
+    }
+  ],
+  "logoPath": "/e4PFz0r4GlFX4WOhFm0RpI9CgdM.png",
+  "posterPath": "/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+  "backdropPath": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 3,
+  "firstAirDate": "2026-10-19",
+  "status": "Returning Series",
+  "watchlistCount": 482,
+  "favouriteCount": 184,
+  "shareCount": 5,
+  "country": "KR",
+  "originalLanguage": "ko",
+  "voteAverage": "0.00",
+  "trailerUrl": null,
+  "seasons": [
+    {
+      "id": "87f6ec66-d152-423a-a824-78a57d9b7906",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 12
+    }
+  ],
+  "cast": [
+    {
+      "id": "3f23f2b2-d1f1-4268-9461-08aa41cd29c8",
+      "name": "Yim Si-wan",
+      "character": "Yoon Yi-jun",
+      "profilePath": "/xhItkYqo5DnFunTLBe65npwi0Me.jpg",
+      "order": 0
+    },
+    {
+      "id": "5f01c0d7-57c6-46a3-9bb3-6e7169a4adf0",
+      "name": "Seorina",
+      "character": "Kang Jae-hee",
+      "profilePath": "/nfHLot4nBfqWQKwcXykeol4Owjb.jpg",
+      "order": 1
+    },
+    {
+      "id": "1c65a919-8f12-4c78-bd91-d6e7f6a5b0e2",
+      "name": "Kim Jung-hyun",
+      "character": "Kim Si-hyeon",
+      "profilePath": "/hSv3ihM8sK6aGPirXq6j758m05P.jpg",
+      "order": 2
+    },
+    {
+      "id": "f6fa261b-21fc-415b-a2d5-61bbd990c192",
+      "name": "Yeon Woo",
+      "character": "Lee Hye-jung",
+      "profilePath": "/tn2g5D33zqea9eKTpwVFFneyr2s.jpg",
+      "order": 3
+    },
+    {
+      "id": "0444a396-40a5-4376-b424-77fb65fc222b",
+      "name": "Ryu Seung-soo",
+      "character": "Kang Seok-goo",
+      "profilePath": "/x9XcfwqcXNpk2hIrP6qeR0DDkOs.jpg",
+      "order": 4
+    },
+    {
+      "id": "72a6fce2-301e-4e58-b369-6669d7acbd09",
+      "name": "Park Jun-myun",
+      "character": "Jo Sook-ja",
+      "profilePath": "/gz5080pQXOKm9TKJEWXRrR1JTui.jpg",
+      "order": 5
+    },
+    {
+      "id": "46ae52ce-6478-4080-816a-0d809e8a35d9",
+      "name": "Jeong Han-seol",
+      "character": "Assistant Jeong Da-woon",
+      "profilePath": "/7KDxMPlyzT8Ck9RYIoOpHmMc5wy.jpg",
+      "order": 6
+    },
+    {
+      "id": "ff96f7b5-72bf-4d59-8243-d0a11debe9fe",
+      "name": "Kim Do-yoon",
+      "character": "Park Min-hwan",
+      "profilePath": "/aj6K7PfdgmZN6SyQBFFvMeewGyf.jpg",
+      "order": 7
+    },
+    {
+      "id": "9d405a04-614f-4b49-bbe4-6963a09e20b7",
+      "name": "Jung Yoo-min",
+      "character": "Han Eun-yeong",
+      "profilePath": "/r6WwKqdjhwarud4ArwcD1yO9xYn.jpg",
+      "order": 8
+    },
+    {
+      "id": "21e77eae-4465-4e1e-b0dc-5e2610a4c169",
+      "name": "Kim In-kwon",
+      "character": "Park Bong",
+      "profilePath": "/vMPHVFE0FhItp2uMMgGRYq5z5Bj.jpg",
+      "order": 9
+    },
+    {
+      "id": "ab313753-3ec3-4042-b6a0-4d79db063e3c",
+      "name": "Kim Ki-bang",
+      "character": "Jeong Wan-gu",
+      "profilePath": "/h2ZfveXzLXL72mN8MkGxUnUWpvg.jpg",
+      "order": 10
+    },
+    {
+      "id": "02d8fbe2-9d94-4212-ba99-5f16f1153a88",
+      "name": "Nam Hae-jun",
+      "character": "Kim Seok-jin",
+      "profilePath": "/wpnFfQsFIfwfXpmWBPAn1X2obLj.jpg",
+      "order": 11
+    },
+    {
+      "id": "e6f0388f-0c1a-486f-bdfb-f09d880274b4",
+      "name": "Ahn Sang-woo",
+      "character": "Ma Hee-do",
+      "profilePath": "/dHjTMijiOfJ9TH5QfdtwoC5d3PQ.jpg",
+      "order": 12
+    },
+    {
+      "id": "fd7af0dd-c2fe-412c-ae4b-912bb2ff0cf4",
+      "name": "Choi Jin-ho",
+      "character": "Yoon Tae-sik",
+      "profilePath": "/pl5qsHEGH9beFQwNUXMLYGgn17J.jpg",
+      "order": 13
+    },
+    {
+      "id": "b9d7db22-3858-4ca8-93fe-f8abde67251d",
+      "name": "Hong Eun-hee",
+      "character": "Yoon Mi-jin",
+      "profilePath": "/r6ZSTldUMUSmkUiaUEysHVpTHAp.jpg",
+      "order": 14
+    },
+    {
+      "id": "3e356bea-ab50-4f71-8b63-e8e4be89e887",
+      "name": "Park Ah-in",
+      "character": "Yoon Na-jeong",
+      "profilePath": "/ox6FlVKrHHp0Ndr7SAADtEYySEC.jpg",
+      "order": 15
+    },
+    {
+      "id": "e9e0ac8f-ce81-4a23-a8eb-d72cb060d479",
+      "name": "Cho Seung-yeon",
+      "character": "Na Man-seok",
+      "profilePath": "/7giNY3F4YG5n8HUsICdcTu0Ftkz.jpg",
+      "order": 16
+    },
+    {
+      "id": "0716a812-9248-4412-9836-b5afad914e97",
+      "name": "Lee Young-jun",
+      "character": "Moon Joon-hyeon",
+      "profilePath": "/1BYc0ofvfsMD7qatMM5EDBAE8Km.jpg",
+      "order": 17
+    },
+    {
+      "id": "cf5406b0-7960-4a11-ae56-5c2769bcb287",
+      "name": "Choi Hee-jin",
+      "character": "Lee Si-ah",
+      "profilePath": "/fTLpXn6LbNIv4A8f7JpLsVDugvG.jpg",
+      "order": 18
+    },
+    {
+      "id": "653ec9c7-b714-4b59-a111-4d5e48acc626",
+      "name": "Jeon Yeong",
+      "character": "Choi Myeong-sook",
+      "profilePath": "/pGbpvdY11IjUCXnDj7FZI6uCZ6a.jpg",
+      "order": 19
+    }
+  ],
+  "episodes": [
+    {
+      "id": "9e4d8546-a11a-4a45-a286-4eab9e070297",
+      "seasonId": "87f6ec66-d152-423a-a824-78a57d9b7906",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Episode 1",
+      "overview": "Taekang Group's successor, Yoon Yi-jun, is suspected of murdering his secretary, but the group's power and lack of evidence impede the investigation. To find key evidence, special forces-turned-detective Kang Jae-hee applies to be his secretary, not as a woman but as a man! She manages to get the job, but Yi-jun doesn't let his guard down. Jae-hee risks getting exposed on her first day at work.",
+      "runtime": 64,
+      "stillPath": "/8OxlrBcwSwmRF64OydvV1Acun5e.jpg",
+      "airDate": "2026-10-19",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "2bde19e9-9c5b-48b2-b955-7716aef1ea2e",
+      "seasonId": "87f6ec66-d152-423a-a824-78a57d9b7906",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Episode 2",
+      "overview": "Kang Jae-hee's double life begins. She's Yoon Yi-jun's secretary by day and a detective by night. Yi-jun keeps testing her, but Jae-hee relentlessly keeps an eye on him and searches for the missing phone. She plans to infiltrate the room that's banned from entering, but Yi-jun doesn't let his guard down easily. Their relationship takes a strange turn through unexpected physical contact.",
+      "runtime": 64,
+      "stillPath": "/7kKgUbLttXSDrM6uVccHQua9W9w.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "de211dc7-c917-4cdb-b5a1-3c8c75db9b9f",
+      "seasonId": "87f6ec66-d152-423a-a824-78a57d9b7906",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Episode 3",
+      "overview": "Yi-jun stays prickly but starts trusting Jae-hee. Jae-hee notices something suspicious about the milk Yi-jun was drinking and realizes he is being threatened. The investigating team thinks the perpetrator could be someone else. Jae-hee finally gets the chance to enter the room that's been banned from entering. She searches for the missing phone in the room but immediately faces danger.",
+      "runtime": 61,
+      "stillPath": "/8a4Cx86mD4r8ZamPIECSsvNq0D3.jpg",
+      "airDate": "2026-10-26",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "b3cfebe2-9ceb-40cd-85b6-5cfe66f7ac6a",
+      "seasonId": "87f6ec66-d152-423a-a824-78a57d9b7906",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Episode 4",
+      "overview": "The investigating team finds traces of herbicide in the milk and suspects that someone is after Yi-jun. Jae-hee keeps an eye on Yoon Na-jung, the ambitious second daughter of Taekang, and follows Yi-jun to the family dinner, which is full of tension. Chairman Yoon makes an unexpected decision, causing a stir. Jae-hee joins Yi-jun for a drink and her drinking habit starts coming out.",
+      "runtime": 65,
+      "stillPath": "/cKrQHvI27Xsxr4jEDr62Ed7LHNh.jpg",
+      "airDate": "2026-10-27",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-28T06:36:52.208Z"
+}

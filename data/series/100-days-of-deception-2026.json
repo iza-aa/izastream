@@ -1,0 +1,307 @@
+{
+  "slug": "100-days-of-deception-2026",
+  "id": "af1a088f-fea1-4a51-a623-76790f66f611",
+  "title": "100 Days of Deception",
+  "originalTitle": "100일의 거짓말",
+  "overview": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+  "tagline": "Hide who you are, hide how you feel.",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "createdBy": [
+    {
+      "id": 2625518,
+      "name": "Ryu Bo-ri",
+      "gender": 0,
+      "credit_id": "6996d58e30d735c844863870",
+      "profile_path": null,
+      "original_name": "류보리"
+    },
+    {
+      "id": 1920791,
+      "name": "Yoo In-sik",
+      "gender": 2,
+      "credit_id": "6a85d4d69740a5a05c9a4eca",
+      "profile_path": "/6zbLpK1wRWySvpNx0KimiH1KNN6.jpg",
+      "original_name": "유인식"
+    },
+    {
+      "id": 3289706,
+      "name": "Kim Yoon-jin",
+      "gender": 2,
+      "credit_id": "6ab9987310a495291ad88842",
+      "profile_path": null,
+      "original_name": "김윤진"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 86418,
+      "name": "Studio Dragon",
+      "logo_path": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png"
+    },
+    {
+      "id": 128404,
+      "name": "CJ ENM",
+      "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png"
+    }
+  ],
+  "logoPath": "/diaeNWjfalIuCEv1Eca5q1Yc9kS.png",
+  "posterPath": "/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+  "backdropPath": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "firstAirDate": "2026-10-10",
+  "status": "Returning Series",
+  "watchlistCount": 1236,
+  "favouriteCount": 463,
+  "shareCount": 28,
+  "country": "KR",
+  "originalLanguage": "ko",
+  "voteAverage": "0.00",
+  "trailerUrl": "https://www.youtube.com/watch?v=P0ElxnFyfXY",
+  "seasons": [
+    {
+      "id": "ccea70cc-6fb9-4997-b814-e6714d7e7bc2",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 16
+    }
+  ],
+  "cast": [
+    {
+      "id": "f3f8f1a4-5c68-453f-9d4e-0340d24c466e",
+      "name": "Kim You-jung",
+      "character": "Lee Ga-kyeong",
+      "profilePath": "/eFcMTDIgzSGLHZYXcsf1M42cvFt.jpg",
+      "order": 0
+    },
+    {
+      "id": "721f0af7-62de-4ead-9149-7f4d78ad3e88",
+      "name": "Jinyoung",
+      "character": "Kim Tae-woong / Hideo Sato",
+      "profilePath": "/e2U4M1vkwvFjwj834ttERQva61E.jpg",
+      "order": 1
+    },
+    {
+      "id": "1d17effe-f444-4009-a9e7-0431c38b492a",
+      "name": "Kim Hyun-joo",
+      "character": "Yu So-ran",
+      "profilePath": "/AeYZSlVauG1BMJdzfyaw3u5jcyA.jpg",
+      "order": 2
+    },
+    {
+      "id": "4ee0df92-40ce-45db-bde2-91feeb18fe75",
+      "name": "Lee Mu-saeng",
+      "character": "Yu Philip",
+      "profilePath": "/xokzuuLDfVzassk0bmje2fvdMcM.jpg",
+      "order": 3
+    },
+    {
+      "id": "33835c87-bea2-4b0e-8af2-46e8df0adc5e",
+      "name": "Jin Sun-kyu",
+      "character": "Shinichi Sato",
+      "profilePath": "/toFCyPac5rSpN58p0fsZ7lbogYc.jpg",
+      "order": 4
+    },
+    {
+      "id": "c20e48fb-f83d-4e34-8124-9b057771d04a",
+      "name": "Seo Jeong-yeon",
+      "character": "Ryu Gwan-sil / Yanagi",
+      "profilePath": "/za1tTtSULKsZPN0u1oTs2Iival0.jpg",
+      "order": 5
+    },
+    {
+      "id": "73501e3a-0430-4ad0-bc14-ba2f261110d0",
+      "name": "Kiko Oi",
+      "character": "Hanako Sato",
+      "profilePath": "/pphIEXHZ0U0KagY0o69BzQ0rTsk.jpg",
+      "order": 6
+    },
+    {
+      "id": "7e5ba0be-8650-4d0d-a7f9-119cf6f451c5",
+      "name": "Park Jung-yeon",
+      "character": "Kim Myeong-nam",
+      "profilePath": "/oOhehakBlkUMCP5xBpFWf5yIVxf.jpg",
+      "order": 7
+    },
+    {
+      "id": "98e10959-05c3-489d-9950-15d77e3759f2",
+      "name": "Lee Sun",
+      "character": "Lee Young-bok",
+      "profilePath": "/4o4ePbPt0t56MF5SudnsBC8IQdM.jpg",
+      "order": 8
+    },
+    {
+      "id": "6451115a-d9c3-455d-a71b-259048eb4f86",
+      "name": "Kim In-kwon",
+      "character": "Han Cheol-ryong",
+      "profilePath": "/vMPHVFE0FhItp2uMMgGRYq5z5Bj.jpg",
+      "order": 9
+    },
+    {
+      "id": "31560e65-a7e6-41d1-98f1-3b2b325663c1",
+      "name": "Choi Deok-moon",
+      "character": "Kwak Woon-hak",
+      "profilePath": "/2yNTH3Dm1tmN795ExtNsIE1IaNA.jpg",
+      "order": 10
+    },
+    {
+      "id": "d7b28ace-31d5-4c09-ad20-e44ed449ac63",
+      "name": "Lee Do-goon",
+      "character": "Jang Jeong-yeop",
+      "profilePath": "/TuvzdByUb7cXUMPlr8dvvjkHJv.jpg",
+      "order": 11
+    },
+    {
+      "id": "0bf150d4-5982-4327-a531-fcad15096fc9",
+      "name": "Jeon Seok-chan",
+      "character": "Chi-geon",
+      "profilePath": "/6YqV8BsP4TcoVuBiNpa9XOaOfIs.jpg",
+      "order": 12
+    },
+    {
+      "id": "1b12a5f8-5512-4c75-bcef-9d17a8ee3dbb",
+      "name": "Ko Se-bin",
+      "character": "Hwang Gyu-young",
+      "profilePath": "/oV5pvZvhswkcZLlV3MjrzjDmZUB.jpg",
+      "order": 13
+    },
+    {
+      "id": "a9d3ddcb-1f6e-4b4b-88e6-33fa61b9a2c3",
+      "name": "Kim Joong-hee",
+      "character": "Fukuda",
+      "profilePath": "/dAx8wsECyBXcorIZHJdHnnfZBE8.jpg",
+      "order": 14
+    },
+    {
+      "id": "7f7f449b-d19d-4148-9ea7-907e9e1f4ba3",
+      "name": "Kim Do-hyun",
+      "character": "Suzuki",
+      "profilePath": "/9PriP4FSr3EDYzLXINi93OVcXce.jpg",
+      "order": 15
+    },
+    {
+      "id": "d6bf66db-80fd-4d74-a219-b9a7613bfa01",
+      "name": "Yuka Kouri",
+      "character": "Yamada",
+      "profilePath": "/uTKvkl3BYeiIPUvKfdL3QDaeM5.jpg",
+      "order": 16
+    },
+    {
+      "id": "7142d9a4-af24-4e0e-aed5-eb6e35978244",
+      "name": "Hong Xa-bin",
+      "character": "Lee No-ma",
+      "profilePath": "/hzO698e9NsyBQ8x1KjuSUjEY58b.jpg",
+      "order": 17
+    },
+    {
+      "id": "e7180d70-9dc1-4b88-ac3e-de1375a8e12b",
+      "name": "Kim Ra-hee",
+      "character": "Bang Kkot-nim",
+      "profilePath": "/jOL80lRjmTzbgYeJp4xEGFX5N9U.jpg",
+      "order": 18
+    },
+    {
+      "id": "db54250f-7b77-402e-864b-59af4f130603",
+      "name": "Lee Suk",
+      "character": "Ma Mun-mak",
+      "profilePath": "/4fI1KLQI1A2A7gOseFjqshMYPMB.jpg",
+      "order": 19
+    }
+  ],
+  "episodes": [
+    {
+      "id": "fb30ed81-869f-4f28-b86b-28fa6fcb8e53",
+      "seasonId": "ccea70cc-6fb9-4997-b814-e6714d7e7bc2",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Episode 1",
+      "overview": "Pickpocket Lee Ga-gyeong has just one goal — to flee colonial Joseon. But she soon ends up unexpectedly entangled with the Korean independence movement.",
+      "runtime": 74,
+      "stillPath": "/2HIrsHCOktTwKqg1DvtPTWxVSjn.jpg",
+      "airDate": "2026-10-10",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "4cee2dcd-9610-4a80-a798-57c374e0a413",
+      "seasonId": "ccea70cc-6fb9-4997-b814-e6714d7e7bc2",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Episode 2",
+      "overview": "Ga-gyeong's language skills shock Yoo Philip and Yoo So-ran. Meanwhile, Kim Tae-ung's insistence that Ga-gyeong return his wallet raises her suspicions.",
+      "runtime": 69,
+      "stillPath": "/njBM0KY8iHG4CPs5DX5BE5LU7vY.jpg",
+      "airDate": "2026-10-11",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "3c65c423-2bf8-4d5e-8658-6655a16790e1",
+      "seasonId": "ccea70cc-6fb9-4997-b814-e6714d7e7bc2",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Episode 3",
+      "overview": "Despite Ga-kyung's initial reservations about So-ran, the two join hands. On her first day at work undercover, Ga-kyung meets a familiar face.",
+      "runtime": 65,
+      "stillPath": "/uaZcrkEshgXlxmi8fJM6StOUFaV.jpg",
+      "airDate": "2026-10-17",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "859df056-7a6c-44f1-986d-390ab8c80b88",
+      "seasonId": "ccea70cc-6fb9-4997-b814-e6714d7e7bc2",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Episode 4",
+      "overview": "Tae-ung remains suspicious of Ga-kyung, but also strangely captivated — or even charmed? Meanwhile, the Gugukdan start making big plans.",
+      "runtime": 67,
+      "stillPath": "/ejGJzQ0sa5OVVMcQWwGqLa4cYid.jpg",
+      "airDate": "2026-10-18",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "35c24d3c-14ec-41d8-9ba7-893f31c6f79e",
+      "seasonId": "ccea70cc-6fb9-4997-b814-e6714d7e7bc2",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Episode 5",
+      "overview": "Asked to translate for an interrogation, Ga-kyung struggles when she recognizes the man being questioned. Tae-ung's feelings grow increasingly conflicted.",
+      "runtime": 72,
+      "stillPath": "/nqDyN1uW42GWTFBJkSREmO9LdN5.jpg",
+      "airDate": "2026-10-24",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "4e1dd61a-e813-437d-8f7e-51f2b19d7424",
+      "seasonId": "ccea70cc-6fb9-4997-b814-e6714d7e7bc2",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Episode 6",
+      "overview": "Sato Shinichi confronts his past. As the interrogation escalates, so do Ga-kyung's fears — leading her to find unexpected solace in Tae-ung.",
+      "runtime": 64,
+      "stillPath": "/mnPfSNV9AMLzJD0BSswComZ0stv.jpg",
+      "airDate": "2026-10-25",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-28T08:28:24.913Z"
+}

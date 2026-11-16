@@ -1,0 +1,98 @@
+{
+  "slug": "the-one-about-matthew-perry-2026",
+  "id": "12fb59ae-1e9f-4185-bf14-6232dcf552bb",
+  "title": "The One About Matthew Perry",
+  "originalTitle": "The One About Matthew Perry",
+  "overview": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry—generous, funny, vulnerable, larger than life—and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
+  "tagline": "All great stories have both comedy and tragedy.",
+  "genres": [
+    {
+      "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+      "tmdbId": 99,
+      "name": "Documentary",
+      "slug": "documentary",
+      "createdAt": "2026-04-02T13:53:46.408Z"
+    }
+  ],
+  "createdBy": [],
+  "productionCompanies": [
+    {
+      "id": 213956,
+      "name": "Maxine Productions",
+      "logo_path": "/6N8lxyqlPjjsdJoROAk0JxmXlwF.png"
+    }
+  ],
+  "logoPath": null,
+  "posterPath": "/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+  "backdropPath": "/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "firstAirDate": "2026-10-27",
+  "status": "Returning Series",
+  "watchlistCount": 0,
+  "favouriteCount": 0,
+  "shareCount": 0,
+  "country": "US",
+  "originalLanguage": "en",
+  "voteAverage": "0.00",
+  "trailerUrl": "https://www.youtube.com/watch?v=_iM1AOFxoDI",
+  "seasons": [
+    {
+      "id": "5ff016ff-0be0-4f3c-869a-b7ebed14b086",
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "episodeCount": 3
+    }
+  ],
+  "cast": [
+    {
+      "id": "8e13e523-c164-45c8-9350-69ff65846b51",
+      "name": "Matthew Perry",
+      "character": "",
+      "profilePath": "/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg",
+      "order": 0
+    }
+  ],
+  "episodes": [
+    {
+      "id": "d9a70f4d-b662-4d03-892a-159a76045588",
+      "seasonId": "5ff016ff-0be0-4f3c-869a-b7ebed14b086",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Part I",
+      "overview": "Matthew goes from class clown to aspiring actor hoping to make it big. When he's cast on a new sitcom called \"Friends,\" his life changes forever.",
+      "runtime": 59,
+      "stillPath": "/7aHCknL4JJmLiw7xU1e4VlF6L4r.jpg",
+      "airDate": "2026-10-27",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "387b94c4-53a1-4aa6-a48f-36ec3dc3bb03",
+      "seasonId": "5ff016ff-0be0-4f3c-869a-b7ebed14b086",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Part II",
+      "overview": "As his battle with addiction becomes more public, Matthew struggles to balance his career with a worsening cycle of rehab and relapse.",
+      "runtime": 61,
+      "stillPath": "/hbFp4YyLX7kl37k6T0amiyYlb6j.jpg",
+      "airDate": "2026-10-27",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "39b38c68-d381-41ed-838d-38a8c90cc759",
+      "seasonId": "5ff016ff-0be0-4f3c-869a-b7ebed14b086",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Part III",
+      "overview": "After surviving a harrowing medical scare, Matthew hopes a promising new drug treatment will aid his recovery, but it spirals instead to a fatal tragedy.",
+      "runtime": 63,
+      "stillPath": "/7dFJex9h13jn2u6NutcqU2DjLjx.jpg",
+      "airDate": "2026-10-27",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-28T06:06:29.100Z"
+}

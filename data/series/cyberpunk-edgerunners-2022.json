@@ -1,0 +1,517 @@
+{
+  "slug": "cyberpunk-edgerunners-2022",
+  "id": "c12f3da3-0071-468d-bbd2-0648c325d1f2",
+  "title": "Cyberpunk: Edgerunners",
+  "originalTitle": "サイバーパンク: エッジランナーズ",
+  "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+  "tagline": "Just keep running.",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "createdBy": [
+    {
+      "id": 3581622,
+      "name": "Rafał Jaki",
+      "gender": 2,
+      "credit_id": "62a13a03d2147c117cb82989",
+      "profile_path": "/tHZVhOPzQzzX0v5UuxI1X1qhNMa.jpg",
+      "original_name": "Rafał Jaki"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 50908,
+      "name": "TRIGGER",
+      "logo_path": "/g96SufLc3lXtaU73tAvEbTbXymY.png"
+    },
+    {
+      "id": 117187,
+      "name": "CD PROJEKT RED",
+      "logo_path": "/9XnbaSeD1REQ04dJCQcJpBqSP8B.png"
+    },
+    {
+      "id": 185004,
+      "name": "Netflix",
+      "logo_path": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png"
+    },
+    {
+      "id": 178464,
+      "name": "Netflix",
+      "logo_path": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png"
+    }
+  ],
+  "logoPath": "/2wgUnrYEGtbcpZCl83ta2hS8d6J.png",
+  "posterPath": "/tGwHJVf9dYJjHlvyOqbGq3Y1Wpc.jpg",
+  "backdropPath": "/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 10,
+  "firstAirDate": "2022-09-13",
+  "status": "Returning Series",
+  "watchlistCount": 468,
+  "favouriteCount": 231,
+  "shareCount": 14,
+  "country": "JP",
+  "originalLanguage": "ja",
+  "voteAverage": "8.47",
+  "trailerUrl": "https://www.youtube.com/watch?v=JtqIas3bYhg",
+  "seasons": [
+    {
+      "id": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "name": "Cyberpunk: Edgerunners",
+      "episodeCount": 10
+    },
+    {
+      "id": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "name": "Cyberpunk: Edgerunners 2",
+      "episodeCount": 10
+    }
+  ],
+  "cast": [
+    {
+      "id": "b93d4cc1-8b21-4c20-9a26-3c441e5319f5",
+      "name": "KENN",
+      "character": "David Martinez (voice)",
+      "profilePath": "/y7Gtn1PchXJ1MxmUxU9jtt138EO.jpg",
+      "order": 0
+    },
+    {
+      "id": "9fcbe7ab-4e18-424b-9949-9cdd2fcaa7ce",
+      "name": "Kaito Ishikawa",
+      "character": "Katsuo (voice)",
+      "profilePath": "/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg",
+      "order": 500
+    },
+    {
+      "id": "6864c446-ba90-4e44-b456-bd1abe488f74",
+      "name": "Hidenari Ugaki",
+      "character": "The Principal (voice)",
+      "profilePath": "/iYdRY5LY5B0M1UsEpCQb3x83DJr.jpg",
+      "order": 501
+    },
+    {
+      "id": "04982204-48eb-4e5f-aaed-4dfe699fe167",
+      "name": "Atsuko Sakuraoka",
+      "character": "The AI Teacher (voice)",
+      "profilePath": "/6Y21DWE8PWgHSLgZbFcWNBlA0Ek.jpg",
+      "order": 502
+    },
+    {
+      "id": "43b0f937-31f2-47ce-975b-2686815d55d5",
+      "name": "Yohei Matsuoka",
+      "character": "Katsuo's Goon (voice)",
+      "profilePath": "/wdVpaRTaj8zmPGSCUOiJDWJuQba.jpg",
+      "order": 505
+    },
+    {
+      "id": "d35c56c5-004c-4274-a5e1-ef6da3668c36",
+      "name": "Emiko Takeuchi",
+      "character": "The Laundry Machine AI (voice)",
+      "profilePath": "/gZAtnuuHvQOltimOP3jPo5PKjb1.jpg",
+      "order": 514
+    },
+    {
+      "id": "e8760eac-7926-4b14-8d31-8e3639dbfd7b",
+      "name": "Takeshi Hirabayashi",
+      "character": "Animal (voice)",
+      "profilePath": "/fVTu3G9tyauzKY7Rh0emg8DB06c.jpg",
+      "order": 518
+    },
+    {
+      "id": "6ca8a175-e7bd-4eee-b0b5-1a8827fc366a",
+      "name": "Kento Shiraishi",
+      "character": "NCPD Officer (voice)",
+      "profilePath": "/kQheInTNjl06xWak4kGQjPGzr4h.jpg",
+      "order": 538
+    },
+    {
+      "id": "0f5314e3-2e27-4f1d-9f1d-1788c1139056",
+      "name": "Tomoko Shiota",
+      "character": "Kate (voice)",
+      "profilePath": "/rlb56hjnoYYmip5OeIRdrTMWK8p.jpg",
+      "order": 542
+    },
+    {
+      "id": "167d46a0-7df7-44cc-a304-efd0e2c6481e",
+      "name": "Hiroshi Yanaka",
+      "character": "Douglas (voice)",
+      "profilePath": "/eoqG5eX6TmTzaQLgl2MUkek6Jl.jpg",
+      "order": 543
+    },
+    {
+      "id": "6b1d3a64-aab6-4e53-bd1e-adc3a676e56b",
+      "name": "Kenjiro Tsuda",
+      "character": "Ripperdoc (voice)",
+      "profilePath": "/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg",
+      "order": 568
+    },
+    {
+      "id": "77d5d469-5283-48ae-b1e3-b0c2b076eed6",
+      "name": "Tetsuo Komura",
+      "character": "Tanaka (voice)",
+      "profilePath": "/3nn56SaGg7STOCfelekHcyxqw3o.jpg",
+      "order": 570
+    },
+    {
+      "id": "c68c42d9-f52a-4e98-a81b-33b0c337451d",
+      "name": "Aoi Yuuki",
+      "character": "Lucy (voice)",
+      "profilePath": "/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg",
+      "order": 571
+    },
+    {
+      "id": "fb5bb55d-759e-47a1-83e8-dd7809cfd9cf",
+      "name": "Hiroki Touchi",
+      "character": "Maine (voice)",
+      "profilePath": "/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg",
+      "order": 572
+    },
+    {
+      "id": "6a709607-d72b-46ea-b3ff-b14ec728aebf",
+      "name": "Kazuhiko Inoue",
+      "character": "Faraday (voice)",
+      "profilePath": "/3BpYtYRiLAmTNbCm2LXlXnkMRit.jpg",
+      "order": 573
+    },
+    {
+      "id": "d0f6e57b-2a52-43a3-bbe7-5f4652997def",
+      "name": "Tomoyo Kurosawa",
+      "character": "Rebecca (voice)",
+      "profilePath": "/eSRnva88YVcUXlDHdVrhier2SGU.jpg",
+      "order": 574
+    },
+    {
+      "id": "27c3a1a4-41a3-4471-b42b-e64b39bf124c",
+      "name": "Takako Honda",
+      "character": "Kiwi (voice)",
+      "profilePath": "/LekbnCX6TcabG3EjSOKOgIGrvJ.jpg",
+      "order": 575
+    },
+    {
+      "id": "ea795736-c0d4-4475-9e49-0cddf23f3bcb",
+      "name": "Wataru Takagi",
+      "character": "Pilar (voice)",
+      "profilePath": "/amccLvyTl5JP7T9F05BojgQedNw.jpg",
+      "order": 576
+    },
+    {
+      "id": "37a5dedb-16f5-43f5-912e-ab61de88789d",
+      "name": "Michiko Kaiden",
+      "character": "Dorio (voice)",
+      "profilePath": "/5pMv2yB63AknOXpEBntywYDPoOh.jpg",
+      "order": 577
+    },
+    {
+      "id": "a78b749a-0da1-43ed-8963-d5f8ad77e94f",
+      "name": "Yasuyuki Kase",
+      "character": "Falco (voice)",
+      "profilePath": "/sERtaipUjauSd4WgP9RQwHoAamO.jpg",
+      "order": 578
+    }
+  ],
+  "episodes": [
+    {
+      "id": "3ae456c1-9d93-470d-a673-710bd896dcaf",
+      "seasonId": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Let You Down",
+      "overview": "After a night of streaming illegal braindance, David wakes up to reality: a rundown apartment with a broken washing machine and an overworked mother.",
+      "runtime": 26,
+      "stillPath": "/egBHU73t79tMg2qrqj3aJof1ibS.jpg",
+      "airDate": "2022-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "32050e32-76f6-4e53-9730-35ffa5459a9c",
+      "seasonId": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Like a Boy",
+      "overview": "With his newly enhanced body, David heads to the Academy seeking revenge on his bully. Later, he meets a mysterious woman who wants to recruit him.",
+      "runtime": 26,
+      "stillPath": "/gLlemMoIN4vbKvZvOWInWGxeQNL.jpg",
+      "airDate": "2022-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "eb21cf4a-63d8-4fec-836c-e22d946558f9",
+      "seasonId": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Smooth Criminal",
+      "overview": "Surrounded by a group of rowdy edgerunners, David makes a plea to join their team. Meanwhile, sinister forces plot to lure him back to Arasaka Academy.",
+      "runtime": 26,
+      "stillPath": "/bfqnjIZal7sgnjnI3rQzC6GpoIL.jpg",
+      "airDate": "2022-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "d86e0617-e1c8-4113-aa78-b914a8c4b17d",
+      "seasonId": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Lucky You",
+      "overview": "Eager to learn the edgerunner ropes, David pesters Maine for another mission. Instead, Maine tasks Lucy with training him.",
+      "runtime": 26,
+      "stillPath": "/evdHgmavUPJOJyfKh4PEclugUmn.jpg",
+      "airDate": "2022-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "c6cda841-c11e-4b1a-ae62-b108ae73ae27",
+      "seasonId": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "All Eyez on Me",
+      "overview": "David makes a clever suggestion when the team strategizes for their next mission. However, he soon learns that their target can't be underestimated.",
+      "runtime": 25,
+      "stillPath": "/Ar2jz0uKUrUVKC3r9KEaonTzOFr.jpg",
+      "airDate": "2022-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "0fac94fb-7c6e-4379-a21a-51f27cc87d6e",
+      "seasonId": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Girl on Fire",
+      "overview": "Maine doesn't seem to be himself. But the team has bigger fish to fry: They must race against time to extract vital information from their prisoner.",
+      "runtime": 28,
+      "stillPath": "/hZW2QGWUYN0LxtFxbn6YGAxsGHY.jpg",
+      "airDate": "2022-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "f81d0410-490a-41bb-a7a0-12d07b6c0c7b",
+      "seasonId": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "name": "Stronger",
+      "overview": "Now an all-star edgerunner enhanced with more cybernetics, David leads his team into a new mission. An old contact reaches out to him for a big job.",
+      "runtime": 26,
+      "stillPath": "/dBU8l0esjACL5ESSdsHbQNuAmnq.jpg",
+      "airDate": "2022-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "0f6008b9-3bfc-45fb-847c-801e5bf35db0",
+      "seasonId": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "name": "Stay",
+      "overview": "Faraday finds himself stuck between Arasaka and Militech. Lucy and Rebecca confront David about his change in behavior, but he refuses to listen.",
+      "runtime": 26,
+      "stillPath": "/83LC8gPjcmg4gMeVkvKOegjA8gf.jpg",
+      "airDate": "2022-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "980b7b45-2c2d-4e86-97d1-1158fc9dc270",
+      "seasonId": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "name": "Humanity",
+      "overview": "Lucy's captors learn about her secret mission and dark past. David and his team head out to complete Faraday's job but realize that something is off.",
+      "runtime": 27,
+      "stillPath": "/wIyh7jtDRWctOwe9kKXDr4mSwgP.jpg",
+      "airDate": "2022-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "e2d5a215-2eaf-461f-a6da-9cbfba750bb0",
+      "seasonId": "6873a886-6355-481d-9a5c-106f2da89f9f",
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "name": "My Moon My Man",
+      "overview": "On the edge of cyberpsychosis but determined to save Lucy, David storms into Night City as Arasaka plots to deploy their ultimate lethal weapon.",
+      "runtime": 29,
+      "stillPath": "/6cPT6Rm7BmqNRAn2mbnPM9VALbJ.jpg",
+      "airDate": "2022-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "d63884b4-4100-454b-ae84-63563a236d6c",
+      "seasonId": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "name": "Last Chance for a Slow Dance",
+      "overview": "A former edgerunner slipping into cyberpsychosis and a lonely survivor with a fractured past start their stories at opposite ends of Night City.",
+      "runtime": 28,
+      "stillPath": "/pqW2ftDPhhrqqy71OFTFyfHXLqL.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "ecd363dc-0ac4-4241-a12d-abccf552b3d0",
+      "seasonId": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "name": "Give Me Another Day",
+      "overview": "A desperate call drags Weak back into danger to save a rebellious teen. As D bonds with a young cinephile, painful flashbacks fuel his thirst for revenge.",
+      "runtime": 27,
+      "stillPath": "/pqW2ftDPhhrqqy71OFTFyfHXLqL.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "6d38ce80-5a95-4b25-bbfb-c0a21b87f61d",
+      "seasonId": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "name": "0 + 2 = 1",
+      "overview": "Weak tries to rescue Talia from a dangerous surgery, but the confrontation ends in disaster. D and Roman discover a chaotic chip that sparks mayhem.",
+      "runtime": 28,
+      "stillPath": "/pqW2ftDPhhrqqy71OFTFyfHXLqL.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "00269374-de09-4bd6-81ae-96467abcb9dc",
+      "seasonId": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "name": "Someone that I Used to Know",
+      "overview": "Armed with abilities he doesn't fully understand, D uses Capri's power to infiltrate an Arasaka research facility. Talia and Weak find common ground.",
+      "runtime": 28,
+      "stillPath": "/pqW2ftDPhhrqqy71OFTFyfHXLqL.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "026ea1d7-29db-4d14-af91-0c1acf463da5",
+      "seasonId": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "name": "Fades (Pass the Distance)",
+      "overview": "An impulsive act sends Talia into a terrifying spiral. D's obsession with revenge reaches an unsettling new level of violence.",
+      "runtime": 26,
+      "stillPath": "/pqW2ftDPhhrqqy71OFTFyfHXLqL.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "4e6eb3ae-238f-45d5-bbd4-d4207c4fc9aa",
+      "seasonId": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "name": "Everything Hate",
+      "overview": "D becomes an anti-corporate vigilante and asks Roman to film his every move. Weak looks into rumors of tech that can transfer digitized consciousness.",
+      "runtime": 28,
+      "stillPath": "/pqW2ftDPhhrqqy71OFTFyfHXLqL.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "7f017450-fdfe-44f4-b2ce-9ba351e93d5b",
+      "seasonId": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "name": "To the Depths with You",
+      "overview": "Talia's condition takes a startling turn under Capri's watch. D reconnects with an old friend. Weak and Avida chase a miracle cure.",
+      "runtime": 28,
+      "stillPath": "/pqW2ftDPhhrqqy71OFTFyfHXLqL.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "f590027e-9ea8-4d90-8bd1-a8997e669ad6",
+      "seasonId": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "name": "Serce",
+      "overview": "A riot ignites on the streets as D digs deeper into Project Capricorn's dark past. With time running out, Avida and Weak fight for Talia's future.",
+      "runtime": 27,
+      "stillPath": "/pqW2ftDPhhrqqy71OFTFyfHXLqL.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "6d8a9081-d759-4025-b527-384d325aa2dc",
+      "seasonId": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "name": "Strictly Reserved for You",
+      "overview": "Omi and D go off the grid, and Kiril takes Talia into custody. Kyoko pushes Project Capricorn forward with frightening results.",
+      "runtime": 29,
+      "stillPath": "/pqW2ftDPhhrqqy71OFTFyfHXLqL.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "ce204496-d03b-4a56-890b-4bfb7e1d25b9",
+      "seasonId": "40e07571-1564-4474-86a9-495bfa6d833e",
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "name": "Then Everyone Went Home",
+      "overview": "A chilling transformation turns the city into a war zone, erupting in an explosive confrontation.",
+      "runtime": 30,
+      "stillPath": "/pqW2ftDPhhrqqy71OFTFyfHXLqL.jpg",
+      "airDate": "2026-10-20",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-28T07:02:46.687Z"
+}

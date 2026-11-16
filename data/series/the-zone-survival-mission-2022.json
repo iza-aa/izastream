@@ -1,0 +1,537 @@
+{
+  "slug": "the-zone-survival-mission-2022",
+  "id": "ec5b20ec-98b8-477e-b66d-1b7bffc254b8",
+  "title": "The Zone: Survival Mission",
+  "originalTitle": "더 존: 버텨야 산다",
+  "overview": "This brand new mystery variety show that has only one rule: \"Survive, no matter what\". For each mission, cast members will enter an unknown, virtual reality space through a secret door. No matter what reality they face through the door, they must endure and survive.",
+  "tagline": "",
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "createdBy": [
+    {
+      "id": 2299803,
+      "name": "Jo Hyo-jin",
+      "gender": 2,
+      "credit_id": "6220cf909f1be7006b88ded6",
+      "profile_path": "/sQHP38J5VwZwY4A6tuGC9Dem2Y8.jpg",
+      "original_name": "Jo Hyo-jin"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 128080,
+      "name": "Company Sang Sang",
+      "logo_path": "/q5SCl7Uf0px1rObPcx0bMJnV26z.png"
+    },
+    {
+      "id": 213749,
+      "name": "Studio Gaon",
+      "logo_path": "/yukVaD4eBCusmV5kCh1yEgohH59.png"
+    }
+  ],
+  "logoPath": "/yVMVG5tUWnGchBZHXux6tz9zjh7.png",
+  "posterPath": "/Aw0Q24yjlWFcIM7yd8Q9G0c0QHB.jpg",
+  "backdropPath": "/ymu6yKlox2JNFwZt2syOuFq823b.jpg",
+  "numberOfSeasons": 3,
+  "numberOfEpisodes": 24,
+  "firstAirDate": "2022-09-08",
+  "status": "Returning Series",
+  "watchlistCount": 29,
+  "favouriteCount": 11,
+  "shareCount": 1,
+  "country": "KR",
+  "originalLanguage": "ko",
+  "voteAverage": "7.10",
+  "trailerUrl": null,
+  "seasons": [
+    {
+      "id": "22cb2d97-4b21-4f1d-9176-08776a781b26",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 8
+    },
+    {
+      "id": "fceb9fde-1733-42de-93e6-8568ba9863fc",
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "episodeCount": 8
+    },
+    {
+      "id": "d0bea275-b2f7-4e30-bce9-87564686a002",
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "episodeCount": 8
+    }
+  ],
+  "cast": [
+    {
+      "id": "30fc35a7-d490-4e24-bb67-903beb295550",
+      "name": "Yoo Jae-suk",
+      "character": "Self",
+      "profilePath": "/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg",
+      "order": 0
+    },
+    {
+      "id": "a39cb75a-7126-47d9-9eb5-1b3194bfc95a",
+      "name": "Lee Kwang-soo",
+      "character": "Self",
+      "profilePath": "/eqjZXCV4EutnoVxZwOveK6Nl5W9.jpg",
+      "order": 1
+    },
+    {
+      "id": "a67e451f-9463-4fe4-8faa-f95af16379ea",
+      "name": "Kwon Yu-ri",
+      "character": "Self",
+      "profilePath": "/1Bz2sLQKHhFQMwIKCqxGXpEgodj.jpg",
+      "order": 2
+    },
+    {
+      "id": "6edc47fb-4654-4782-9a85-2dc5de0ca4e4",
+      "name": "You Hee-yeol",
+      "character": "AI U (voice)",
+      "profilePath": "/yG6W3e81Q5gFgIzZut0ic2H1tIO.jpg",
+      "order": 3
+    },
+    {
+      "id": "a870d236-84a0-4d7e-b5be-92fbcf0c35a4",
+      "name": "Dex",
+      "character": "Self",
+      "profilePath": "/WH81boD2vDEW6RvahjDHVH7vJh.jpg",
+      "order": 4
+    },
+    {
+      "id": "5556d2bb-e609-4d1d-a72c-92e6f21e227b",
+      "name": "Kim Dong-hyun",
+      "character": "Self",
+      "profilePath": "/jDq3sZAtOczM09AG1NvCrXSsK7s.jpg",
+      "order": 5
+    },
+    {
+      "id": "56b311c2-dbc2-4754-b850-11712463a677",
+      "name": "Lee Yi-kyung",
+      "character": "Self",
+      "profilePath": "/arIQjEhzxihRJvkOJjIksPA5EZM.jpg",
+      "order": 500
+    },
+    {
+      "id": "6379c170-f73a-400e-8858-313b818f734a",
+      "name": "Yoo Min-sang",
+      "character": "Self",
+      "profilePath": "/81eBwFAaVpNxwmdtFVIoT2a9YcL.jpg",
+      "order": 501
+    },
+    {
+      "id": "24d5034a-2481-4b22-832c-293225bbd5e5",
+      "name": "Tae Hang-ho",
+      "character": "Self",
+      "profilePath": "/zJxfpQqO6Vk6Yargxfj3NJtTjVF.jpg",
+      "order": 502
+    },
+    {
+      "id": "683086f9-490e-4ab8-9999-6d099e4ab29c",
+      "name": "Koo Jun-yup",
+      "character": "Self",
+      "profilePath": "/5pkaPM3EU4wIvOI8Nz9ipUsdnJV.jpg",
+      "order": 503
+    },
+    {
+      "id": "e871778f-9c50-411d-afbc-0af6ae96ef4e",
+      "name": "Aiki",
+      "character": "Self",
+      "profilePath": "/bSJzW1USGFQcTVgTBSNMqrXxowE.jpg",
+      "order": 504
+    },
+    {
+      "id": "514ec33d-8056-4b6f-8a94-9171b75ea4ca",
+      "name": "Gabee",
+      "character": "Self",
+      "profilePath": "/9Gafnfn0K8L4Xda4hEQg2hdZ3Ni.jpg",
+      "order": 505
+    },
+    {
+      "id": "6b3c34ed-14b4-48fa-a0f2-b3eb84ff0821",
+      "name": "Rian",
+      "character": "Self",
+      "profilePath": "/1Tl5LYFkT18nzZwKzzIoh0Ti6pF.jpg",
+      "order": 506
+    },
+    {
+      "id": "1329e651-3258-42c6-b6e2-9b570c41cf88",
+      "name": "Simeez",
+      "character": "Self",
+      "profilePath": "/29Gmw3QfoJIfx7I4UVGUOLBzKRd.jpg",
+      "order": 507
+    },
+    {
+      "id": "9e214ab5-ceb4-44a2-8729-a987125d4fc8",
+      "name": "Kim Jong-min",
+      "character": "[AI Mini]",
+      "profilePath": "/bKnGJpF0t1uUlMG9v7Ju0lM51j4.jpg",
+      "order": 508
+    },
+    {
+      "id": "a014007a-ceca-431f-b1d3-1ae487490db1",
+      "name": "Kim Hyun-sook",
+      "character": "Jin Bun Hong",
+      "profilePath": "/7m4Hr4M1VpjK3AHoYoNfQW1fWu3.jpg",
+      "order": 509
+    },
+    {
+      "id": "bcb1473b-db41-4314-99f0-87dd73ee8be2",
+      "name": "Park Kwang-jae",
+      "character": "Dol Soe",
+      "profilePath": "/u0WRkqqiHMEt6xAn6tcnlb5OEUE.jpg",
+      "order": 510
+    },
+    {
+      "id": "eda1ac28-1164-4631-a9f6-d07bc4c34dd9",
+      "name": "CNU",
+      "character": "Shin Woo",
+      "profilePath": "/zZSEz1084YVVZN6xQtF3cD5py1T.jpg",
+      "order": 511
+    },
+    {
+      "id": "fe1addac-6e0e-4c67-92ea-7d23ef653f3e",
+      "name": "Park Jun-gyu",
+      "character": "Sim Gab Soo",
+      "profilePath": "/8iPGYbSFtLqZhaR8u4lgRoh5hwu.jpg",
+      "order": 512
+    },
+    {
+      "id": "cf400261-7318-4870-8536-d0958f8e1288",
+      "name": "Uhm Hyun-kyung",
+      "character": "Jin Dal Rae",
+      "profilePath": "/ekBPnpmP8nN2XMpujoC3A4SU6IJ.jpg",
+      "order": 513
+    }
+  ],
+  "episodes": [
+    {
+      "id": "9e193213-dbb2-4155-8159-f4d6b3a85afa",
+      "seasonId": "22cb2d97-4b21-4f1d-9176-08776a781b26",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Eye Zone",
+      "overview": "The first simulation starts in a dreary space. Hang in there, and do not stand out!",
+      "runtime": 55,
+      "stillPath": "/drfPDvov3xBnjGO3JtPh52eeaQC.jpg",
+      "airDate": "2022-09-08",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "d086e0e0-a6c8-45a5-8d81-2f294bcc0e2c",
+      "seasonId": "22cb2d97-4b21-4f1d-9176-08776a781b26",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Water Zone",
+      "overview": "The members relax in a warm sauna. However, that is not what makes them sweat!",
+      "runtime": 56,
+      "stillPath": "/sb6i31pxVaeAR2by0CZuI67CZxD.jpg",
+      "airDate": "2022-09-08",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "f3fd3b40-d4c1-45b7-81b2-c4c2d31101c6",
+      "seasonId": "22cb2d97-4b21-4f1d-9176-08776a781b26",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Virus Zone",
+      "overview": "The members find themselves in an old Korean village that is swarming with evil spirits!",
+      "runtime": 58,
+      "stillPath": "/kU4Z2wNDpGyQT8Y54hlBrC1TLLZ.jpg",
+      "airDate": "2022-09-08",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "ddb7f4d0-fa22-41b9-8958-a12f12655b1c",
+      "seasonId": "22cb2d97-4b21-4f1d-9176-08776a781b26",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Safety Zone",
+      "overview": "The members quarantine in a house. If they break the rules, they will pay a price.",
+      "runtime": 55,
+      "stillPath": "/3Vv5Sgo9N9WGYu01A6KnAJq4GjD.jpg",
+      "airDate": "2022-09-15",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "47420992-9ff5-46ad-9712-ff9df4937bc9",
+      "seasonId": "22cb2d97-4b21-4f1d-9176-08776a781b26",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Brain Zone",
+      "overview": "When the members begin to enjoy their feast, the room begins to shake!",
+      "runtime": 58,
+      "stillPath": "/iapLnoIkjyCjNc2RD0gE01aQj4S.jpg",
+      "airDate": "2022-09-22",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "df0a80bd-71cc-41d9-8107-cbe979f7d143",
+      "seasonId": "22cb2d97-4b21-4f1d-9176-08776a781b26",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Money Zone",
+      "overview": "The members are given 100 million won to use and enjoy as much as they please!",
+      "runtime": 64,
+      "stillPath": "/nxbxwFNltC1L2sZBtducVrVpPbC.jpg",
+      "airDate": "2022-09-29",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "f859c215-51d0-4dcc-b21b-8c634611bf06",
+      "seasonId": "22cb2d97-4b21-4f1d-9176-08776a781b26",
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "name": "Fire Zone",
+      "overview": "There is no simpler rule than this: Protect the flame!",
+      "runtime": 56,
+      "stillPath": "/p3qSXQRmIAF9aTBLCZqheFgwUx.jpg",
+      "airDate": "2022-10-06",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "bc1235e0-3a4f-4560-b123-99d1a6154577",
+      "seasonId": "22cb2d97-4b21-4f1d-9176-08776a781b26",
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "name": "War Zone",
+      "overview": "The members are welcomed by the worst disaster of mankind: war.",
+      "runtime": 63,
+      "stillPath": "/8EIXIDzysSVSHb9ZrImestnEW2a.jpg",
+      "airDate": "2022-10-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "236e1b79-7131-448d-8870-895fe3b6b13d",
+      "seasonId": "fceb9fde-1733-42de-93e6-8568ba9863fc",
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "name": "Stress Zone",
+      "overview": "The first mission is to stay healthy. However, enemies are lurking around.",
+      "runtime": 62,
+      "stillPath": "/h3f0hD5mcdLW7XXLqy2KEsgIALb.jpg",
+      "airDate": "2023-06-14",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "d73f89ba-e285-4bb4-a641-2f6c2e5a4866",
+      "seasonId": "fceb9fde-1733-42de-93e6-8568ba9863fc",
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "name": "Save Zone",
+      "overview": "The members enjoy a peaceful space of healing which soon turns into disaster.",
+      "runtime": 62,
+      "stillPath": "/rmxEmHqjWPyNLi9O2TI6Hi5zJkF.jpg",
+      "airDate": "2023-06-14",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "72ec353f-704e-4022-9773-d44f43830923",
+      "seasonId": "fceb9fde-1733-42de-93e6-8568ba9863fc",
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "name": "Automatic Zone",
+      "overview": "The members go on an adventure in a cosy AI bed. However, the machine goes haywire.",
+      "runtime": 60,
+      "stillPath": "/ch9qvOFHUOBZXhaG90bFZ5AJNup.jpg",
+      "airDate": "2023-06-14",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "d5ea53bd-db93-4b05-ae47-7eab5f171309",
+      "seasonId": "fceb9fde-1733-42de-93e6-8568ba9863fc",
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "name": "Virus Zone II",
+      "overview": "An unidentified presence appears before the members who have returned as lifeguards.",
+      "runtime": 63,
+      "stillPath": "/vHgAd0V7OXcdrTH6WUEDcVoJe3O.jpg",
+      "airDate": "2023-06-21",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "405220b2-f24d-4aea-ba7b-bc6f4d05f74b",
+      "seasonId": "fceb9fde-1733-42de-93e6-8568ba9863fc",
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "name": "Mystery Zone",
+      "overview": "The members enter the lively Hwayang Village. However, mysterious events continue to follow them.",
+      "runtime": 66,
+      "stillPath": "/iCNSn9H3n5YpaNv3kGS1xmXqFEy.jpg",
+      "airDate": "2023-06-28",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "5b3905cc-5188-430c-9786-c58307fcc533",
+      "seasonId": "fceb9fde-1733-42de-93e6-8568ba9863fc",
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "name": "Play Zone",
+      "overview": "A PLAY ZONE is created for the members who have been through a lot. A lot of memorable childhood games are gathered in a questionable area. If they cannot avoid it, they might as well enjoy it. The spin-chilling fun of holding out begins!",
+      "runtime": 71,
+      "stillPath": "/zWjJzgoqx3Mcd2Ssn49u5IVw0eg.jpg",
+      "airDate": "2023-07-05",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "880503d3-7fae-4354-ba68-b70c3e254564",
+      "seasonId": "fceb9fde-1733-42de-93e6-8568ba9863fc",
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "name": "Analog Zone",
+      "overview": "The members have to survive alone in an underground bunker with no forms of communication.",
+      "runtime": 65,
+      "stillPath": "/6KYdtiHehIBU4vvaCR3GoZs6VH.jpg",
+      "airDate": "2023-07-12",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "431d3991-b798-4bc6-96a9-a00ab8a56cd3",
+      "seasonId": "fceb9fde-1733-42de-93e6-8568ba9863fc",
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "name": "Battle Zone",
+      "overview": "The members must destroy the enemy's base through a battle.",
+      "runtime": 66,
+      "stillPath": "/iXoPfpWAxodZDx17ackzCyf5Npt.jpg",
+      "airDate": "2023-07-19",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "9ba0e622-faf4-41d4-91ae-97f09ef90346",
+      "seasonId": "d0bea275-b2f7-4e30-bce9-87564686a002",
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "name": "AI Zone",
+      "overview": "Survive for four hours in a world filled with robots that look just like Yoo Jae-suk!",
+      "runtime": 60,
+      "stillPath": "/cyM96dZIThfldcisV0ptfi0enou.jpg",
+      "airDate": "2024-08-07",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "cb0a0014-e55e-4fc5-9e3f-7ea1d0fce052",
+      "seasonId": "d0bea275-b2f7-4e30-bce9-87564686a002",
+      "seasonNumber": 3,
+      "episodeNumber": 2,
+      "name": "Break Zone",
+      "overview": "Survive for four hours while repaying the massive loan in a collapsing paper house!",
+      "runtime": 59,
+      "stillPath": "/w1DyInocH9kIWmmgHTnGlW85uZ1.jpg",
+      "airDate": "2024-08-07",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "fd21bef5-e653-4b01-ab30-061ef65bed4f",
+      "seasonId": "d0bea275-b2f7-4e30-bce9-87564686a002",
+      "seasonNumber": 3,
+      "episodeNumber": 3,
+      "name": "Fact Check Zone",
+      "overview": "Survive for four hours while fact-checking in an abandoned resort filled with strange phenomena!",
+      "runtime": 74,
+      "stillPath": "/tGi7UBM6BkUggblwgG8h2Du89iv.jpg",
+      "airDate": "2024-08-07",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "38323df5-a70c-4572-9d1e-d094b7532483",
+      "seasonId": "d0bea275-b2f7-4e30-bce9-87564686a002",
+      "seasonNumber": 3,
+      "episodeNumber": 4,
+      "name": "Bug Zone",
+      "overview": "",
+      "runtime": 76,
+      "stillPath": "/v9XbhyRPUa0nLQGCETAPdwiRTkE.jpg",
+      "airDate": "2024-08-14",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "278830bf-0dd6-42b5-96b9-ec5797f68f88",
+      "seasonId": "d0bea275-b2f7-4e30-bce9-87564686a002",
+      "seasonNumber": 3,
+      "episodeNumber": 5,
+      "name": "4Minutes Zone",
+      "overview": "",
+      "runtime": 59,
+      "stillPath": "/yikTl80SKURHVqTbuBhuaEJd4id.jpg",
+      "airDate": "2024-08-21",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "5a792f0d-424d-464e-a3a5-a90977facb88",
+      "seasonId": "d0bea275-b2f7-4e30-bce9-87564686a002",
+      "seasonNumber": 3,
+      "episodeNumber": 6,
+      "name": "Line Zone",
+      "overview": "",
+      "runtime": 70,
+      "stillPath": "/7G9uTs4Ybdw6ljLCJDHAqV2MJMH.jpg",
+      "airDate": "2024-08-28",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "1b9a3f95-cf00-431a-ac43-0575b72aaff9",
+      "seasonId": "d0bea275-b2f7-4e30-bce9-87564686a002",
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "name": "Memorize Zone",
+      "overview": "",
+      "runtime": 66,
+      "stillPath": "/iMwsE1ZhZiDs89MlgblJWzSmQmc.jpg",
+      "airDate": "2024-09-04",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "321257e3-edea-4b03-8c41-3c39f43a84fb",
+      "seasonId": "d0bea275-b2f7-4e30-bce9-87564686a002",
+      "seasonNumber": 3,
+      "episodeNumber": 8,
+      "name": "Hunter Zone",
+      "overview": "",
+      "runtime": 65,
+      "stillPath": "/lwkufbE8CvjEp9twFAh0yMRmQiN.jpg",
+      "airDate": "2024-09-11",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-28T06:55:20.579Z"
+}

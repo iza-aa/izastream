@@ -1,0 +1,1222 @@
+{
+  "disney-plus": {
+    "data": [
+      {
+        "id": "efc0e3fb-ab48-40bb-bba4-264494c0a282",
+        "title": "Are You Sure?!",
+        "slug": "are-you-sure-2024",
+        "posterPath": "/5NZzvgSnCBBxdDRmYJHRfBXVs43.jpg",
+        "backdropPath": "/vMRFXG4nBH5d6n0diWNWfgQTIS3.jpg",
+        "firstAirDate": "2024-08-08",
+        "numberOfSeasons": 2,
+        "voteAverage": "9.52",
+        "viewCount": 34583,
+        "networks": [
+          "Disney+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "99f9e382-bd96-4144-a7af-4548be0a76f4",
+        "title": "Tell Me Lies",
+        "slug": "tell-me-lies-2022",
+        "posterPath": "/hhWpEUZINrago2YgKDyv5Hb8yrU.jpg",
+        "backdropPath": "/uVe8fWCLMqIhgMTI9maIUncfZAP.jpg",
+        "firstAirDate": "2022-09-07",
+        "numberOfSeasons": 3,
+        "voteAverage": "7.50",
+        "viewCount": 33039,
+        "networks": [
+          "Disney+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "ec5b20ec-98b8-477e-b66d-1b7bffc254b8",
+        "title": "The Zone: Survival Mission",
+        "slug": "the-zone-survival-mission-2022",
+        "posterPath": "/Aw0Q24yjlWFcIM7yd8Q9G0c0QHB.jpg",
+        "backdropPath": "/ymu6yKlox2JNFwZt2syOuFq823b.jpg",
+        "firstAirDate": "2022-09-08",
+        "numberOfSeasons": 3,
+        "voteAverage": "7.10",
+        "viewCount": 14281,
+        "networks": [
+          "Disney+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "47435958-3ec0-4e30-8eba-eab0df571267",
+        "title": "Wreck-It Ralph",
+        "slug": "wreck-it-ralph-2012",
+        "posterPath": "/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
+        "backdropPath": "/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
+        "releaseDate": "2012-11-01",
+        "voteAverage": "7.36",
+        "viewCount": 15004,
+        "quality": "BLU-RAY",
+        "contentType": "movie",
+        "networks": [
+          "Disney+"
+        ],
+        "commentCount": 6
+      },
+      {
+        "id": "bb47211f-ea02-493c-b4df-249455d561e6",
+        "title": "Alice in Wonderland",
+        "slug": "alice-in-wonderland-2010",
+        "posterPath": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+        "backdropPath": "/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
+        "releaseDate": "2010-03-03",
+        "voteAverage": "6.64",
+        "viewCount": 22930,
+        "quality": "BLU-RAY",
+        "contentType": "movie",
+        "networks": [
+          "Disney+"
+        ],
+        "commentCount": 3
+      },
+      {
+        "id": "222505c9-25d8-48c0-9559-a9d1e1f299b4",
+        "title": "The Beauty",
+        "slug": "the-beauty-2026",
+        "posterPath": "/l6mtso50nTSvhYc3tc7xB7cYHmg.jpg",
+        "backdropPath": "/cX6dzeKsBTTXHoG3uQUuhQbqyvq.jpg",
+        "firstAirDate": "2026-01-21",
+        "numberOfSeasons": 1,
+        "voteAverage": "6.32",
+        "viewCount": 58496,
+        "networks": [
+          "Disney+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "062e038a-6c51-4a2b-8adf-5f9ea13638d4",
+        "title": "The Impossible Heir",
+        "slug": "the-impossible-heir-2024",
+        "posterPath": "/ksIQrUoJERXBnVcxAxkMQDpzx3l.jpg",
+        "backdropPath": "/sXT9JVUznUwwVy3LsYeD4kCwGgv.jpg",
+        "firstAirDate": "2024-02-28",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.60",
+        "viewCount": 22452,
+        "networks": [
+          "Disney+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 2
+      },
+      {
+        "id": "67812da3-25ff-4532-8c47-e560428b4d0b",
+        "title": "The Shards",
+        "slug": "the-shards-2026",
+        "posterPath": "/aMGHNXWcExdR7rA8uTM3hbzGn1Z.jpg",
+        "backdropPath": "/3DQywpq8hzHOkGNgDVL96QKrvF9.jpg",
+        "firstAirDate": "2026-08-05",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.20",
+        "viewCount": 20437,
+        "networks": [
+          "Disney+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 4
+      },
+      {
+        "id": "b5a97473-0867-4d3a-896c-7de6177f31f7",
+        "title": "Love Story",
+        "slug": "love-story-2026",
+        "posterPath": "/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
+        "backdropPath": "/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
+        "firstAirDate": "2026-02-12",
+        "numberOfSeasons": 1,
+        "voteAverage": "8.43",
+        "viewCount": 52554,
+        "networks": [
+          "Disney+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 2
+      },
+      {
+        "id": "7ae752d2-123f-44cf-8a67-011ee3b25aa8",
+        "title": "Zootopia",
+        "slug": "zootopia-2016",
+        "posterPath": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+        "backdropPath": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+        "releaseDate": "2016-02-11",
+        "voteAverage": "7.76",
+        "viewCount": 41230,
+        "quality": "BLU-RAY",
+        "contentType": "movie",
+        "networks": [
+          "Disney+"
+        ],
+        "commentCount": 11
+      },
+      {
+        "id": "4a7779eb-d89c-436b-8a30-a43bf6c552ef",
+        "title": "The Great",
+        "slug": "the-great-2020",
+        "posterPath": "/tpz9UQ3hUwYufNcKWVW00FCjWyc.jpg",
+        "backdropPath": "/2K84O2cr0jRH7ROeeHJ3zbTR8Uf.jpg",
+        "firstAirDate": "2020-05-15",
+        "numberOfSeasons": 3,
+        "voteAverage": "8.08",
+        "viewCount": 39132,
+        "networks": [
+          "Disney+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 1
+      },
+      {
+        "id": "6f2c233c-9add-4638-8344-ecdd5c0e03e7",
+        "title": "Moana",
+        "slug": "moana-2016",
+        "posterPath": "/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg",
+        "backdropPath": "/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg",
+        "releaseDate": "2016-10-13",
+        "voteAverage": "7.56",
+        "viewCount": 47830,
+        "quality": "BLU-RAY",
+        "contentType": "movie",
+        "networks": [
+          "Disney+"
+        ],
+        "commentCount": 10
+      },
+      {
+        "id": "97c772e8-f8a9-43b5-a78a-cbb7ed7eba12",
+        "title": "Cinderella",
+        "slug": "cinderella-2015",
+        "posterPath": "/j91LJmcWo16CArFOoapsz84bwxb.jpg",
+        "backdropPath": "/q7vmCCmyiHnuKGMzHZlr0fD44b9.jpg",
+        "releaseDate": "2015-03-06",
+        "voteAverage": "6.82",
+        "viewCount": 24637,
+        "quality": "BLU-RAY",
+        "contentType": "movie",
+        "networks": [
+          "Disney+"
+        ],
+        "commentCount": 6
+      },
+      {
+        "id": "554812fc-a5c5-4464-b424-952a9485f6b8",
+        "title": "Ironheart",
+        "slug": "ironheart-2025",
+        "posterPath": "/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg",
+        "backdropPath": "/kiOEVg5BkzLE0pWoPKecXd7wZ2Q.jpg",
+        "firstAirDate": "2025-06-24",
+        "numberOfSeasons": 1,
+        "voteAverage": "5.30",
+        "viewCount": 12161,
+        "networks": [
+          "Disney+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 2
+      },
+      {
+        "id": "6afa8fa0-51e1-4676-8122-781ee4da42e9",
+        "title": "The Parent Trap",
+        "slug": "the-parent-trap-1998",
+        "posterPath": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+        "backdropPath": "/y3zUOMWRoI2vC4ck2GBJyFWhzyA.jpg",
+        "releaseDate": "1998-07-28",
+        "voteAverage": "7.20",
+        "viewCount": 23639,
+        "quality": "BLU-RAY",
+        "contentType": "movie",
+        "networks": [
+          "Disney+"
+        ],
+        "commentCount": 16
+      }
+    ]
+  },
+  "netflix": {
+    "data": [
+      {
+        "id": "ad9bfc7d-c76b-4736-a6d0-4ba0ac895408",
+        "title": "ONE PIECE",
+        "slug": "one-piece-2023",
+        "posterPath": "/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+        "backdropPath": "/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+        "firstAirDate": "2023-08-31",
+        "numberOfSeasons": 2,
+        "voteAverage": "8.10",
+        "viewCount": 158690,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 9
+      },
+      {
+        "id": "11a4c8ed-c10a-4546-8131-6089976b6d9f",
+        "title": "Bullet Train Explosion",
+        "slug": "bullet-train-explosion-2025",
+        "posterPath": "/jmzxlDBwgvRbpPJzNQwizyn9UEn.jpg",
+        "backdropPath": "/zHP9pMtYuMZBluNZNBP9i5fX2US.jpg",
+        "releaseDate": "2025-04-23",
+        "voteAverage": "6.83",
+        "viewCount": 20668,
+        "quality": "WEB-DL",
+        "contentType": "movie",
+        "networks": [
+          "Netflix"
+        ],
+        "commentCount": 6
+      },
+      {
+        "id": "b84a264c-7d5a-430a-b309-7200859023a4",
+        "title": "If Wishes Could Kill",
+        "slug": "if-wishes-could-kill-2026",
+        "posterPath": "/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+        "backdropPath": "/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+        "firstAirDate": "2026-04-24",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.90",
+        "viewCount": 636001,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 43
+      },
+      {
+        "id": "e59fcfac-67a1-43be-8414-c3926e86556d",
+        "title": "The Queen's Gambit",
+        "slug": "the-queens-gambit-2020",
+        "posterPath": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "backdropPath": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+        "firstAirDate": "2020-10-23",
+        "numberOfSeasons": 1,
+        "voteAverage": "8.44",
+        "viewCount": 30688,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 3
+      },
+      {
+        "id": "3fd44212-33dd-4ff3-b1b8-0782a8b53484",
+        "title": "Emily in Paris",
+        "slug": "emily-in-paris-2020",
+        "posterPath": "/c0bkO416OU7YGdOFktk45H8REgL.jpg",
+        "backdropPath": "/jXTZaHarR9TZiMoQwiQWsGYXqnS.jpg",
+        "firstAirDate": "2020-10-02",
+        "numberOfSeasons": 5,
+        "voteAverage": "7.60",
+        "viewCount": 68184,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 4
+      },
+      {
+        "id": "321cc7ab-f018-4ae5-8a3b-9a129b52f4e9",
+        "title": "Manifest",
+        "slug": "manifest-2018",
+        "posterPath": "/eTemCphrglLKrXOsNRhYezHA7H9.jpg",
+        "backdropPath": "/iZu83GB1IM7VXL2X90m7iLHYUHU.jpg",
+        "firstAirDate": "2018-09-24",
+        "numberOfSeasons": 4,
+        "voteAverage": "7.63",
+        "viewCount": 59207,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 2
+      },
+      {
+        "id": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+        "title": "East of Eden",
+        "slug": "east-of-eden-2026",
+        "posterPath": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+        "backdropPath": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+        "firstAirDate": "2026-10-01",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.93",
+        "viewCount": 12895,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 5
+      },
+      {
+        "id": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+        "title": "Minerva Academy",
+        "slug": "minerva-academy-2026",
+        "posterPath": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+        "backdropPath": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+        "firstAirDate": "2026-09-22",
+        "numberOfSeasons": 1,
+        "voteAverage": "0.00",
+        "viewCount": 27916,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 1
+      },
+      {
+        "id": "c3be152c-26ed-4cc1-9f34-90317af5bab4",
+        "title": "Sex Education",
+        "slug": "sex-education-2019",
+        "posterPath": "/bc3bmTdnoKcRuO9xdQKgAbB7Y9Z.jpg",
+        "backdropPath": "/u23G9KZregWHs1use6ir1fX27gl.jpg",
+        "firstAirDate": "2019-01-11",
+        "numberOfSeasons": 4,
+        "voteAverage": "8.20",
+        "viewCount": 125379,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 1
+      },
+      {
+        "id": "1684fb42-cc7d-4702-8d1d-ab97b3bcd3d3",
+        "title": "Boyfriend on Demand",
+        "slug": "boyfriend-on-demand-2026",
+        "posterPath": "/1WSuH8eK44KDavNggmWhKS5zUCF.jpg",
+        "backdropPath": "/3ZfyrJoxPffyIprG0FiqZfpEQde.jpg",
+        "firstAirDate": "2026-03-06",
+        "numberOfSeasons": 1,
+        "voteAverage": "8.41",
+        "viewCount": 120755,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 7
+      },
+      {
+        "id": "86122575-3d9d-45e5-a8bb-4b7d09bf1d13",
+        "title": "My Life with the Walter Boys",
+        "slug": "my-life-with-the-walter-boys-2023",
+        "posterPath": "/bBn0MfZn244v0xpitOpwmIUSIeo.jpg",
+        "backdropPath": "/9H970lIoYgnJIUT89H9t8wHau6C.jpg",
+        "firstAirDate": "2023-12-07",
+        "numberOfSeasons": 3,
+        "voteAverage": "7.74",
+        "viewCount": 70938,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 3
+      },
+      {
+        "id": "afe7c9cf-a682-4890-a5a5-1583f8bc1d9a",
+        "title": "Bet",
+        "slug": "bet-2025",
+        "posterPath": "/e3ENTAEDEO949khpVkJWgcWnwGG.jpg",
+        "backdropPath": "/vx4UhH0RKQOG5etc2qVikStLFqG.jpg",
+        "firstAirDate": "2025-05-15",
+        "numberOfSeasons": 1,
+        "voteAverage": "6.70",
+        "viewCount": 32978,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 1
+      },
+      {
+        "id": "0fbba209-4e08-4ef2-80e8-71f2c9d64f6b",
+        "title": "The Crown",
+        "slug": "the-crown-2016",
+        "posterPath": "/1M876KPjulVwppEpldhdc8V4o68.jpg",
+        "backdropPath": "/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
+        "firstAirDate": "2016-11-04",
+        "numberOfSeasons": 6,
+        "voteAverage": "8.19",
+        "viewCount": 41111,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "faa9a600-c5fe-4045-a6b0-75058aa9fc70",
+        "title": "Formula 1: Drive to Survive",
+        "slug": "formula-1-drive-to-survive-2019",
+        "posterPath": "/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg",
+        "backdropPath": "/xefmNmSGCApfRPaqhIRTaAjFlpo.jpg",
+        "firstAirDate": "2019-03-08",
+        "numberOfSeasons": 8,
+        "voteAverage": "8.20",
+        "viewCount": 50945,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "13525f34-d982-45ed-8d58-6ddd575ea69e",
+        "title": "Haunted Hotel",
+        "slug": "haunted-hotel-2025",
+        "posterPath": "/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
+        "backdropPath": "/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
+        "firstAirDate": "2025-09-19",
+        "numberOfSeasons": 2,
+        "voteAverage": "7.90",
+        "viewCount": 11006,
+        "networks": [
+          "Netflix"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 4
+      }
+    ]
+  },
+  "hbo": {
+    "data": [
+      {
+        "id": "13d6bbfe-ba37-4a67-a014-ed45539cce5f",
+        "title": "Hung",
+        "slug": "hung-2009",
+        "posterPath": "/v3ki6W3BGsh3PGDjtHdi6W2v8nQ.jpg",
+        "backdropPath": "/m0vXVA5jhyseAeXdLXqVwu9vchR.jpg",
+        "firstAirDate": "2009-06-28",
+        "numberOfSeasons": 3,
+        "voteAverage": "6.60",
+        "viewCount": 5914,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "29e2a013-d30b-4d81-a00e-5e30c1082ab4",
+        "title": "Hacks",
+        "slug": "hacks-2021",
+        "posterPath": "/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+        "backdropPath": "/fbA2hjjtyt0Q840yfHuGMM8efU.jpg",
+        "firstAirDate": "2021-05-13",
+        "numberOfSeasons": 5,
+        "voteAverage": "7.40",
+        "viewCount": 9014,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 1
+      },
+      {
+        "id": "e371d0e3-c6f9-47f9-9da8-c2c65d0b4a11",
+        "title": "Youth",
+        "slug": "youth-2026",
+        "posterPath": "/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+        "backdropPath": "/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
+        "firstAirDate": "2026-09-21",
+        "numberOfSeasons": 1,
+        "voteAverage": "5.50",
+        "viewCount": 1917,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 1
+      },
+      {
+        "id": "f4eea6f9-75d6-4b9f-a914-93fea06293c6",
+        "title": "Sex and the City 2",
+        "slug": "sex-and-the-city-2-2010",
+        "posterPath": "/iHSRxhZsPaVuLCivvV6WEkMVGWU.jpg",
+        "backdropPath": "/gPqqEBBpSl7E4Fz8uMBqoBLxcTP.jpg",
+        "releaseDate": "2010-05-26",
+        "voteAverage": "6.10",
+        "viewCount": 18603,
+        "quality": "BLU-RAY",
+        "contentType": "movie",
+        "networks": [
+          "HBO"
+        ],
+        "commentCount": 1
+      },
+      {
+        "id": "d5454541-fc7e-4d74-aeeb-db0ed7fb7d82",
+        "title": "Big Little Lies",
+        "slug": "big-little-lies-2017",
+        "posterPath": "/b4HNJOc2N6SGyEhf2RagdpAKBK6.jpg",
+        "backdropPath": "/8Wo2Pqjxn7Xmd7p2dxRMIJtyMV7.jpg",
+        "firstAirDate": "2017-02-19",
+        "numberOfSeasons": 2,
+        "voteAverage": "7.88",
+        "viewCount": 5833,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "ba296ad8-3cbc-4adf-9153-e5807e82d943",
+        "title": "Adventure Time: Fionna and Cake",
+        "slug": "adventure-time-fionna-and-cake-2023",
+        "posterPath": "/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+        "backdropPath": "/vRAM2el4bAygzUWfwXdt34E71Ee.jpg",
+        "firstAirDate": "2023-08-31",
+        "numberOfSeasons": 2,
+        "voteAverage": "8.70",
+        "viewCount": 10215,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "f270759c-c8ca-4258-b50d-cfbed8ce285d",
+        "title": "Entourage",
+        "slug": "entourage-2004",
+        "posterPath": "/kLKP8zrArBtBboGz3qJOuMGC7rL.jpg",
+        "backdropPath": "/22uQSlECwD3tcdqiFwo3K3qlCtY.jpg",
+        "firstAirDate": "2004-07-18",
+        "numberOfSeasons": 8,
+        "voteAverage": "7.38",
+        "viewCount": 9471,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "009e1683-897f-4460-813c-959f1cc48329",
+        "title": "Love & Death",
+        "slug": "love-and-death-2023",
+        "posterPath": "/8WchbT0UPQeo3PZ6G01fhccYaQB.jpg",
+        "backdropPath": "/A1kULtnwc9v4gaYqIGyMu4YDOFu.jpg",
+        "firstAirDate": "2023-04-27",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.81",
+        "viewCount": 6046,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "ffa9df04-e9cf-4c87-b235-e37e95dfe9ab",
+        "title": "Pretty Little Liars: Original Sin",
+        "slug": "pretty-little-liars-original-sin-2022",
+        "posterPath": "/igmLgglembi9mZ2RYQRaGKigbvq.jpg",
+        "backdropPath": "/2WZCkqtPz5R2Dd2gMc1rTI1dMle.jpg",
+        "firstAirDate": "2022-07-28",
+        "numberOfSeasons": 2,
+        "voteAverage": "7.85",
+        "viewCount": 6588,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "28661e26-3a2d-4134-b114-4bffd3024e65",
+        "title": "Boardwalk Empire",
+        "slug": "boardwalk-empire-2010",
+        "posterPath": "/kL6SqlVPpfAof2nQbh1VxkUuXBQ.jpg",
+        "backdropPath": "/7Yj4QbECkH3JavlZxw4NWReoN7B.jpg",
+        "firstAirDate": "2010-09-19",
+        "numberOfSeasons": 5,
+        "voteAverage": "8.01",
+        "viewCount": 8125,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 3
+      },
+      {
+        "id": "db002b32-b479-4696-b292-10c402441cf6",
+        "title": "Adventure Time: Distant Lands",
+        "slug": "adventure-time-distant-lands-2020",
+        "posterPath": "/qoxFg9236pkpkBuUbqudPTIHlnW.jpg",
+        "backdropPath": "/vgQnqlVgtlH8dpjX54ChjYZUjE.jpg",
+        "firstAirDate": "2020-06-25",
+        "numberOfSeasons": 1,
+        "voteAverage": "8.16",
+        "viewCount": 5988,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 2
+      },
+      {
+        "id": "f1a8497a-1c51-4d54-9e34-c2092a784423",
+        "title": "Barry",
+        "slug": "barry-2018",
+        "posterPath": "/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+        "backdropPath": "/cj0zZiJfFj3xn9p0K3kx8qHSyng.jpg",
+        "firstAirDate": "2018-03-25",
+        "numberOfSeasons": 4,
+        "voteAverage": "7.90",
+        "viewCount": 7787,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "b7d07cb7-4b45-4990-b8d7-90faac141a44",
+        "title": "Silicon Valley",
+        "slug": "silicon-valley-2014",
+        "posterPath": "/4ptpmWBVD9HY9hMh8Cbs6SMiy7p.jpg",
+        "backdropPath": "/4pfXAnWxOfEJsUgDPW0zqzs5UWv.jpg",
+        "firstAirDate": "2014-04-06",
+        "numberOfSeasons": 6,
+        "voteAverage": "8.14",
+        "viewCount": 7620,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 2
+      },
+      {
+        "id": "1cb37b51-31c3-4a6e-8749-12b9af5e56f5",
+        "title": "Like Water for Chocolate",
+        "slug": "like-water-for-chocolate-2024",
+        "posterPath": "/pXNcd4z8eBihLO9I7bIVoK4mtQt.jpg",
+        "backdropPath": "/yykLaIafqnJ4wTiSaIUwMtSEQov.jpg",
+        "firstAirDate": "2024-11-03",
+        "numberOfSeasons": 2,
+        "voteAverage": "8.27",
+        "viewCount": 4028,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 1
+      },
+      {
+        "id": "554656d1-6e28-4956-be99-47ca65ad1d1e",
+        "title": "The Night Of",
+        "slug": "the-night-of-2016",
+        "posterPath": "/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
+        "backdropPath": "/szxeyhCWt7C4hTdq60QYbrslGXn.jpg",
+        "firstAirDate": "2016-07-10",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.97",
+        "viewCount": 6763,
+        "networks": [
+          "HBO"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      }
+    ]
+  },
+  "prime-video": {
+    "data": [
+      {
+        "id": "3ceffacd-2940-47ee-bb00-841570157c21",
+        "title": "Steal",
+        "slug": "steal-2026",
+        "posterPath": "/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+        "backdropPath": "/tSFndbpoEctuYviiSRJHjyC31V9.jpg",
+        "firstAirDate": "2026-01-21",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.46",
+        "viewCount": 12335,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "0aaa7631-7891-4362-aaf0-9e43552facbc",
+        "title": "Citadel",
+        "slug": "citadel-2023",
+        "posterPath": "/AcrDB32TqpAGwvQFbICALGxSzn3.jpg",
+        "backdropPath": "/3cgRI0hOq3dYyezSYrsfdmqxtMw.jpg",
+        "firstAirDate": "2023-04-27",
+        "numberOfSeasons": 2,
+        "voteAverage": "6.82",
+        "viewCount": 18526,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "61f8eeef-207b-492b-ae15-76e0cab0a6a5",
+        "title": "Challengers",
+        "slug": "challengers-2024",
+        "posterPath": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+        "backdropPath": "/4CcUgdiGe83MeqJW1NyJVmZqRrF.jpg",
+        "releaseDate": "2024-04-18",
+        "voteAverage": "6.90",
+        "viewCount": 14887,
+        "quality": "WEB-DL",
+        "contentType": "movie",
+        "networks": [
+          "Prime Video"
+        ],
+        "commentCount": 4
+      },
+      {
+        "id": "74d14677-1a48-4495-a039-cc7ac3805fda",
+        "title": "Cross",
+        "slug": "cross-2024",
+        "posterPath": "/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
+        "backdropPath": "/w4HqCpNojW3kbgtj4qHCnf5G7bf.jpg",
+        "firstAirDate": "2024-11-14",
+        "numberOfSeasons": 2,
+        "voteAverage": "7.00",
+        "viewCount": 8844,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "16e95399-5c62-421d-abb9-4f948668a075",
+        "title": "I Would Rather Die",
+        "slug": "i-would-rather-die-2026",
+        "posterPath": "/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg",
+        "backdropPath": "/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+        "firstAirDate": "2026-10-02",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.90",
+        "viewCount": 2009,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "5f1fb829-99f6-410d-a7dd-01cb30d94916",
+        "title": "Beast Games",
+        "slug": "beast-games-2024",
+        "posterPath": "/6Zww0KyC518xni9m12dA3qB392D.jpg",
+        "backdropPath": "/p1rQJ5bljPSk3LoCo5UKRkpsiSd.jpg",
+        "firstAirDate": "2024-12-19",
+        "numberOfSeasons": 2,
+        "voteAverage": "7.40",
+        "viewCount": 9892,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 2
+      },
+      {
+        "id": "419c4db3-f36b-4351-a35f-b008a6d8707b",
+        "title": "My Lady Jane",
+        "slug": "my-lady-jane-2024",
+        "posterPath": "/qX68uGVJwxQ0B0sPZBEGikWRmA6.jpg",
+        "backdropPath": "/oRxMRPh7MEV7blqBDq07sQWG0bY.jpg",
+        "firstAirDate": "2024-06-27",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.50",
+        "viewCount": 12759,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "a055a9f6-b7b9-48be-b396-cfd0186329bd",
+        "title": "S.O.Z: Soldiers or Zombies",
+        "slug": "soz-soldiers-or-zombies-2021",
+        "posterPath": "/arYdHX708nDq6oWNOSjw6NczWc5.jpg",
+        "backdropPath": "/ki2V3d7DrQ79mYWvnXjTPLCgBdW.jpg",
+        "firstAirDate": "2021-08-06",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.10",
+        "viewCount": 5060,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "dc9c1765-5dd7-45ec-a31a-f0cb1855a568",
+        "title": "The Grand Tour",
+        "slug": "the-grand-tour-2016",
+        "posterPath": "/3Pcqu6QliBWJ8vsOVClVLddPnZw.jpg",
+        "backdropPath": "/hmsIbV8GyMBZNUVraU4hrcp4oYo.jpg",
+        "firstAirDate": "2016-11-17",
+        "numberOfSeasons": 6,
+        "voteAverage": "8.02",
+        "viewCount": 11090,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "0033f53e-d5cc-4e3c-b96e-bd90c5bb3edc",
+        "title": "Masters of the Universe",
+        "slug": "masters-of-the-universe-2026",
+        "posterPath": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+        "backdropPath": "/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+        "releaseDate": "2026-06-03",
+        "voteAverage": "6.94",
+        "viewCount": 34885,
+        "quality": "WEB-DL",
+        "contentType": "movie",
+        "networks": [
+          "Prime Video"
+        ],
+        "commentCount": 19
+      },
+      {
+        "id": "49321b5f-25cd-4e70-b37e-17236f3eb088",
+        "title": "We Were Liars",
+        "slug": "we-were-liars-2025",
+        "posterPath": "/3RQoNwSkJkh92KL2TwpMlHP5FkT.jpg",
+        "backdropPath": "/trSbjzHQlCxykhGfnS0JMgsGbCC.jpg",
+        "firstAirDate": "2025-06-18",
+        "numberOfSeasons": 2,
+        "voteAverage": "7.24",
+        "viewCount": 7644,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 1
+      },
+      {
+        "id": "6fb3566c-70ae-40a8-bbb8-40e3c767dbcd",
+        "title": "The Man in the High Castle",
+        "slug": "the-man-in-the-high-castle-2015",
+        "posterPath": "/xhoDZbMNeyCA0BGPZQsdIiO43Dp.jpg",
+        "backdropPath": "/pLio7Lod6YoNMM7ybFVjIJjwIxe.jpg",
+        "firstAirDate": "2015-01-15",
+        "numberOfSeasons": 4,
+        "voteAverage": "7.52",
+        "viewCount": 14696,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "089cf1e6-d011-440b-ad50-9d6553199dd5",
+        "title": "The Wrecking Crew",
+        "slug": "the-wrecking-crew-2026",
+        "posterPath": "/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+        "backdropPath": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+        "releaseDate": "2026-01-28",
+        "voteAverage": "6.90",
+        "viewCount": 32659,
+        "quality": "WEB-DL",
+        "contentType": "movie",
+        "networks": [
+          "Prime Video"
+        ],
+        "commentCount": 14
+      },
+      {
+        "id": "4db296a1-f6d7-424a-b377-bfa83c510c94",
+        "title": "Voltaire High",
+        "slug": "voltaire-high-2021",
+        "posterPath": "/tFHRyhFJ6hfeogSISSms3DotMj9.jpg",
+        "backdropPath": "/wmxCkfKjPkkQna7UGR9lBym1kAX.jpg",
+        "firstAirDate": "2021-06-14",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.90",
+        "viewCount": 5039,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "eb9df9b5-b79f-4074-ae8d-270fdc8b38ed",
+        "title": "Takopi's Original Sin",
+        "slug": "takopis-original-sin-2025",
+        "posterPath": "/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+        "backdropPath": "/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
+        "firstAirDate": "2025-06-28",
+        "numberOfSeasons": 1,
+        "voteAverage": "8.86",
+        "viewCount": 12585,
+        "networks": [
+          "Prime Video"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 6
+      }
+    ]
+  },
+  "apple-tv-plus": {
+    "data": [
+      {
+        "id": "db5df5d2-a932-43f2-9fc7-e5d6a480d08e",
+        "title": "Monarch: Legacy of Monsters",
+        "slug": "monarch-legacy-of-monsters-2023",
+        "posterPath": "/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+        "backdropPath": "/n5FGEUmId87nZAdFiOFmCKXynmT.jpg",
+        "firstAirDate": "2023-11-16",
+        "numberOfSeasons": 2,
+        "voteAverage": "7.70",
+        "viewCount": 222713,
+        "networks": [
+          "Apple TV+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 18
+      },
+      {
+        "id": "b296f649-c00e-4ca4-8d62-f4ae82503823",
+        "title": "Silo",
+        "slug": "silo-2023",
+        "posterPath": "/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg",
+        "backdropPath": "/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+        "firstAirDate": "2023-05-04",
+        "numberOfSeasons": 3,
+        "voteAverage": "8.12",
+        "viewCount": 216609,
+        "networks": [
+          "Apple TV+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 26
+      },
+      {
+        "id": "b89577ef-735a-47a0-af7f-53eefe8bc3f4",
+        "title": "Blitz",
+        "slug": "blitz-2024",
+        "posterPath": "/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
+        "backdropPath": "/qRSMoh9EMlQ9uywMpLulWBkIma9.jpg",
+        "releaseDate": "2024-11-01",
+        "voteAverage": "5.98",
+        "viewCount": 1249,
+        "quality": "WEB-DL",
+        "contentType": "movie",
+        "networks": [
+          "Apple TV+"
+        ],
+        "commentCount": 0
+      },
+      {
+        "id": "67c80543-ca72-4caa-8a31-42ecbcc923e8",
+        "title": "Imperfect Women",
+        "slug": "imperfect-women-2026",
+        "posterPath": "/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+        "backdropPath": "/1RejXo8s6ot7ZbrgR8J16DVaaTi.jpg",
+        "firstAirDate": "2026-03-17",
+        "numberOfSeasons": 1,
+        "voteAverage": "5.68",
+        "viewCount": 4260,
+        "networks": [
+          "Apple TV+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 1
+      },
+      {
+        "id": "1f9ffa55-6abc-4a91-805b-c3ebf9b499d8",
+        "title": "Ted Lasso",
+        "slug": "ted-lasso-2020",
+        "posterPath": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+        "backdropPath": "/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
+        "firstAirDate": "2020-08-14",
+        "numberOfSeasons": 4,
+        "voteAverage": "8.35",
+        "viewCount": 292052,
+        "networks": [
+          "Apple TV+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 23
+      },
+      {
+        "id": "115fe54d-3944-443b-b331-21ed45060b32",
+        "title": "The Beanie Bubble",
+        "slug": "the-beanie-bubble-2023",
+        "posterPath": "/9YDW8dCrQyRpppK5985hKY1Mc8X.jpg",
+        "backdropPath": "/zzbEAP5d1Ci0QKitpaA8PykHIj4.jpg",
+        "releaseDate": "2023-07-21",
+        "voteAverage": "6.40",
+        "viewCount": 690,
+        "quality": "WEB-DL",
+        "contentType": "movie",
+        "networks": [
+          "Apple TV+"
+        ],
+        "commentCount": 0
+      },
+      {
+        "id": "cfb2cfe0-6e97-4620-8d3f-0d6609294232",
+        "title": "Spirited",
+        "slug": "spirited-2022",
+        "posterPath": "/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg",
+        "backdropPath": "/fHDvGGPFry65ou79WLi6JsjCZrM.jpg",
+        "releaseDate": "2022-11-10",
+        "voteAverage": "6.86",
+        "viewCount": 1408,
+        "quality": "WEB-DL",
+        "contentType": "movie",
+        "networks": [
+          "Apple TV+"
+        ],
+        "commentCount": 0
+      },
+      {
+        "id": "52981de8-1a28-4ad6-a549-a158ae89e4d5",
+        "title": "F1",
+        "slug": "f1-2025",
+        "posterPath": "/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",
+        "backdropPath": "/rZWkXnIyTLzUJpHSUpOb7vgB0BL.jpg",
+        "releaseDate": "2025-06-25",
+        "voteAverage": "7.75",
+        "viewCount": 53016,
+        "quality": "WEB-DL",
+        "contentType": "movie",
+        "networks": [
+          "Apple TV+"
+        ],
+        "commentCount": 13
+      },
+      {
+        "id": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+        "title": "Tenzing",
+        "slug": "tenzing-2026",
+        "posterPath": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+        "backdropPath": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+        "releaseDate": "2026-10-09",
+        "voteAverage": "8.00",
+        "viewCount": 10891,
+        "quality": "WEB-DL",
+        "contentType": "movie",
+        "networks": [
+          "Apple TV+"
+        ],
+        "commentCount": 29
+      },
+      {
+        "id": "743ad714-622e-4624-80cd-9be774cc87a9",
+        "title": "Raymond & Ray",
+        "slug": "raymond-and-ray-2022",
+        "posterPath": "/fdKZmSQHD17JjGUYkluhpttgJRi.jpg",
+        "backdropPath": "/mifoXrO18fyEBPYn9UqNduunod9.jpg",
+        "releaseDate": "2022-10-14",
+        "voteAverage": "6.20",
+        "viewCount": 558,
+        "quality": "WEB-DL",
+        "contentType": "movie",
+        "networks": [
+          "Apple TV+"
+        ],
+        "commentCount": 0
+      },
+      {
+        "id": "e5f7aa20-e508-45a4-99df-b80eff569abe",
+        "title": "Slow Horses",
+        "slug": "slow-horses-2022",
+        "posterPath": "/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+        "backdropPath": "/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+        "firstAirDate": "2022-04-01",
+        "numberOfSeasons": 6,
+        "voteAverage": "8.00",
+        "viewCount": 29015,
+        "networks": [
+          "Apple TV+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 2
+      },
+      {
+        "id": "a176bcae-963b-4847-9b98-73ca6d1f7f79",
+        "title": "Schmigadoon!",
+        "slug": "schmigadoon-2021",
+        "posterPath": "/s2Z5Rm7H0DFHX8cF0CQjIFOd6Am.jpg",
+        "backdropPath": "/oFIM75OU39RUBEK2I1jD8PPRbUm.jpg",
+        "firstAirDate": "2021-07-16",
+        "numberOfSeasons": 2,
+        "voteAverage": "6.90",
+        "viewCount": 3268,
+        "networks": [
+          "Apple TV+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 0
+      },
+      {
+        "id": "edfef0d4-4563-450e-bc33-e2acb60184fc",
+        "title": "Star City",
+        "slug": "star-city-2026",
+        "posterPath": "/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
+        "backdropPath": "/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg",
+        "firstAirDate": "2026-05-28",
+        "numberOfSeasons": 1,
+        "voteAverage": "7.30",
+        "viewCount": 2924,
+        "networks": [
+          "Apple TV+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 2
+      },
+      {
+        "id": "898c1505-956e-465b-ba15-aba83bb88279",
+        "title": "Lucky",
+        "slug": "lucky-2026",
+        "posterPath": "/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+        "backdropPath": "/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+        "firstAirDate": "2026-07-14",
+        "numberOfSeasons": 1,
+        "voteAverage": "9.50",
+        "viewCount": 58691,
+        "networks": [
+          "Apple TV+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 8
+      },
+      {
+        "id": "099b317e-043d-4a65-9118-0f844fbe0dbd",
+        "title": "Dark Matter",
+        "slug": "dark-matter-2024",
+        "posterPath": "/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+        "backdropPath": "/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
+        "firstAirDate": "2024-05-07",
+        "numberOfSeasons": 2,
+        "voteAverage": "7.76",
+        "viewCount": 17985,
+        "networks": [
+          "Apple TV+"
+        ],
+        "contentType": "tv_series",
+        "commentCount": 3
+      }
+    ]
+  }
+}

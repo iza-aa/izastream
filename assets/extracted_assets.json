@@ -1,0 +1,312 @@
+{
+  "source_capture": "/tmp/target_web_capture.json",
+  "evidence_id": "ev_0f9aa1ab8189c3cef3609097380ca55226222b176ac107d34c404efe4a774f7d",
+  "assets": [
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/0h_i6nwrt9qg6.css?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/css/0h_i6nwrt9qg6.css",
+      "resource_type": "stylesheet",
+      "status": null,
+      "bytes": 418,
+      "media_type": "text/css",
+      "sha256": "db9f5927a77a055d34c8ad8476b6cce80d912109aa76fc001b00244f8310615c"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/0njbx8eq33yge.css?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/css/0njbx8eq33yge.css",
+      "resource_type": "stylesheet",
+      "status": null,
+      "bytes": 429169,
+      "media_type": "text/css",
+      "sha256": "3f028ad737b53b33ad9c4ebacf158e1eec1e4415d21ae16a542f6fca50e0b158"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/0nurhv_fjp0nf.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/0nurhv_fjp0nf.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 8045,
+      "media_type": "application/javascript",
+      "sha256": "3dd4ce022ae0946a33e5cf33ff997f725d4f28f6589c5eb7c35bdc04f6a29cb4"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/0xatrv-r7vx8u.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/0xatrv-r7vx8u.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 30644,
+      "media_type": "application/javascript",
+      "sha256": "eb7542cbb5457c32b43a2f3061b697a1789bc857d0aae4c426733b46f285d53a"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/063al_q720fkj.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/063al_q720fkj.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 235044,
+      "media_type": "application/javascript",
+      "sha256": "132af14ae137b73ad574d73ddc85352705b70b3bbca2666c4be2f5a9d9adb057"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/turbopack-3-ry682tkyiqk.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/turbopack-3-ry682tkyiqk.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 10030,
+      "media_type": "application/javascript",
+      "sha256": "8bbb58cbfd4633c1d828c6bc37bc32abc768a149c01b1dfc4f5131fd81274551"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/14hn8foryo1_t.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/14hn8foryo1_t.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 14506,
+      "media_type": "application/javascript",
+      "sha256": "0b653502d444ccf3d0dd7e9a1c683576e6405cbf494107df654c98fe02233821"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/0v2azvilwavbo.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/0v2azvilwavbo.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 158637,
+      "media_type": "application/javascript",
+      "sha256": "8fae32f3c21b4fc727d61a343374cec08d8a02f39caba4130ba2dc159ab6bc5e"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/2m5pov3edxr__.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/2m5pov3edxr__.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 31980,
+      "media_type": "application/javascript",
+      "sha256": "3dcaf3235ebaa182a0b5ac43d33611da1d97627534faf01875d0da804c27104f"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/29ark34ddftx3.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/29ark34ddftx3.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 57386,
+      "media_type": "application/javascript",
+      "sha256": "223f2ab850f4ab08b7f8e2d9ffd935c2721177920f71183e9420da5dba4e40a8"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/1kl6wiycurhc9.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/1kl6wiycurhc9.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 35793,
+      "media_type": "application/javascript",
+      "sha256": "1fdd14745be85836b68e5755993cdc6a4000011305c0f7846964734f2a1ad2f4"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/2b2bonud39zw7.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/2b2bonud39zw7.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 54998,
+      "media_type": "application/javascript",
+      "sha256": "8cef019b4a88f0e37e441e87566ffda0de10b36c222dec4ba3d7a3b435edbe8e"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/3mxokipg-ac0h.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/3mxokipg-ac0h.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 60171,
+      "media_type": "application/javascript",
+      "sha256": "a14a3547d0e4207175a4dabcf373d4fd5074b577c1d075ada436ce0f4124b7b4"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/1ujymmvi92fs9.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/1ujymmvi92fs9.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 176188,
+      "media_type": "application/javascript",
+      "sha256": "2fb73ab9b391879886a9cb49092c9d3339a59fd2b032e80285735b3ddfeee5e6"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/2r8ab1h3v6k7l.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/2r8ab1h3v6k7l.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 72044,
+      "media_type": "application/javascript",
+      "sha256": "5c02a71dac114ea26a18f4c82f46f91cf3a766deb3546488f225aa1bfe679bbe"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/2wbmr5xhesvac.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/2wbmr5xhesvac.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 215,
+      "media_type": "application/javascript",
+      "sha256": "88d9ca7958c2fe1ab29f7f47a62999746f32a1ee0a0e43f3ce61411ac9b46858"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/2ih78q9gpj8_3.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/2ih78q9gpj8_3.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 32916,
+      "media_type": "application/javascript",
+      "sha256": "6518e39bd15a5bf7e9f63b688a3988c6308716d60a6510ec0606f6f4817c046c"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/41oeub4z3p7gu.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/41oeub4z3p7gu.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 24537,
+      "media_type": "application/javascript",
+      "sha256": "4f6440a4e11fca4c87e74ab84f8873982a2542f51202f370d39e529279e47057"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/33t919xca9ik7.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/33t919xca9ik7.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 11825,
+      "media_type": "application/javascript",
+      "sha256": "404374f3780464b23ef61d28a801432d14910ca265f1986a6b6933e5aff5fce1"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/13z43uogt7dmt.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/13z43uogt7dmt.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 34850,
+      "media_type": "application/javascript",
+      "sha256": "8e22db10f9cfe2ea23b393067a629bdcbe64890bc772c349349198f916e1f156"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/38tk2-vq_db5l.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/38tk2-vq_db5l.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 7881,
+      "media_type": "application/javascript",
+      "sha256": "4c7d5d8a44273ec094a071d2ffb4fe03c88ec2582b74f189d4504a51990c3c7d"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-EY0V76TSLQ",
+      "rel": "assets/js/js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 515364,
+      "media_type": "application/javascript; charset=UTF-8",
+      "sha256": "de34413ef1befc2a39e7126fc608b43786fefa179c5c5164cec38b808e590938"
+    },
+    {
+      "url": "https://z2.idlixku.com/",
+      "rel": "assets/html/index.html",
+      "resource_type": "document",
+      "status": null,
+      "bytes": 128833,
+      "media_type": "text/html; charset=utf-8",
+      "sha256": "41a4bb9b1eb292c5a0e39cf2212208616ce6c430e41633d70aa3a035a768c615"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/0ubf-p_o7zsft.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/0ubf-p_o7zsft.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 158976,
+      "media_type": "application/javascript",
+      "sha256": "d9105cb3d6e61c722b2b7a49c7a406a3b35f711e4170f754c0d1dea1c9b0c60b"
+    },
+    {
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "rel": "assets/js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 31853,
+      "media_type": "text/javascript;charset=UTF-8",
+      "sha256": "637381256384554e1cc3309a62fb238a51b83e7f10b2a56d8ba15dbc73ca762e"
+    },
+    {
+      "url": "https://z2.idlixku.com/cdn-cgi/challenge-platform/h/b/scripts/precursor/d2d3316b729e/main.js?",
+      "rel": "assets/js/main.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 44565,
+      "media_type": "application/javascript; charset=UTF-8",
+      "sha256": "c7d7188ce3a3d3530a27cee7aeeb1e84318ee8649c827d70245fc9d228f5c2bb"
+    },
+    {
+      "url": "https://z2.idlixku.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+      "rel": "assets/js/main.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 44565,
+      "media_type": "application/javascript; charset=UTF-8",
+      "sha256": "c7d7188ce3a3d3530a27cee7aeeb1e84318ee8649c827d70245fc9d228f5c2bb"
+    },
+    {
+      "url": "https://z2.idlixku.com/api/me/signals/public",
+      "rel": "assets/api/public.json",
+      "resource_type": "fetch",
+      "status": null,
+      "bytes": 69,
+      "media_type": "application/json",
+      "sha256": "d812982eec59cbfc231abfa81e3ff157096834fe585bac101acbb9de3b88deb0"
+    },
+    {
+      "url": "https://z2.idlixku.com/api/homepage",
+      "rel": "assets/api/homepage.json",
+      "resource_type": "fetch",
+      "status": null,
+      "bytes": 100774,
+      "media_type": "application/json",
+      "sha256": "1ddf51139e0785c7d619d4c7209e71e77b6191f17e741ce6cb905cb224ddd287"
+    },
+    {
+      "url": "https://z2.idlixku.com/_next/static/chunks/3i28t6c_34gyr.js?dpl=20261023074432-cdf81940ac32",
+      "rel": "assets/js/3i28t6c_34gyr.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 3964,
+      "media_type": "application/javascript",
+      "sha256": "6b8f33df7da2d30022d2f2b4213b9aa1b42c79e1779d90884b81845adc36b99e"
+    },
+    {
+      "url": "https://z2.idlixku.com/cdn-cgi/rum?",
+      "rel": "assets/api/rum.txt",
+      "resource_type": "xhr",
+      "status": null,
+      "bytes": 0,
+      "media_type": "text/plain",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "url": "https://z2.idlixku.com/cdn-cgi/challenge-platform/h/b/precursor/d2d3316b729e/0.9680895879926679:1792847411:8pQ-vo5zr1A9vmmIvL1G2qwHIE3lQgNPjVPpN6NvtvI/a4f9986a3d2b7894",
+      "rel": "assets/api/a4f9986a3d2b7894.json",
+      "resource_type": "xhr",
+      "status": null,
+      "bytes": 18,
+      "media_type": "application/json; charset=UTF-8",
+      "sha256": "5a8e29530407c443d6633c1a3e9013cee3d314b604c9cc03179f56a5a6a59a7a"
+    },
+    {
+      "url": "https://xyzchat.net/widget/widget.js",
+      "rel": "assets/js/widget.js",
+      "resource_type": "script",
+      "status": null,
+      "bytes": 200494,
+      "media_type": "application/javascript",
+      "sha256": "25f008ec8abfdfe28580b2f09c219dbc1b54d6c1386990ec9b3c05663a9835dc"
+    },
+    {
+      "url": "https://xyzchat.net/v1/customer/widget?organization_id=1066&url=https%3A%2F%2Fz2.idlixku.com%2F",
+      "rel": "assets/api/widget.json",
+      "resource_type": "fetch",
+      "status": null,
+      "bytes": 1449,
+      "media_type": "application/json",
+      "sha256": "ecd646001f385463e642ac0c889da675cf68595d2914f1b2b04f0889ca697f95"
+    }
+  ]
+}

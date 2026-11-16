@@ -1,0 +1,607 @@
+{
+  "slug": "blue-box-2024",
+  "id": "5ead400a-ad34-4d38-b673-ba3514085f2d",
+  "title": "Blue Box",
+  "originalTitle": "アオのハコ",
+  "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
+  "posterPath": "/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg",
+  "backdropPath": "/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 28,
+  "firstAirDate": "2024-10-03",
+  "status": "Returning Series",
+  "seasons": [
+    {
+      "id": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 37
+    }
+  ],
+  "episodes": [
+    {
+      "id": "8c97bdf3-f182-4f3c-8b87-48327db9a5ab",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Chinatsu Senpai",
+      "overview": "Despite a few heart-fluttering encounters, Taiki doubts his crush Chinatsu even knows his name. Later, shocking news forces him to make a bold move.",
+      "runtime": 24,
+      "stillPath": "/iP1wh8pjHPOP7S7DewTa4KDDgVO.jpg",
+      "airDate": "2024-10-03",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "24d7192a-0276-40ea-a475-30e3b2e0e370",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "You Have to Go to Nationals",
+      "overview": "Taiki's new housemate quickly makes herself at home. As they grow closer, his attempts to keep the situation a secret cause a misunderstanding.",
+      "runtime": 24,
+      "stillPath": "/654vPnrKqjJufJj53Zg5uCV7jpE.jpg",
+      "airDate": "2024-10-10",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "77185fa9-2e38-4494-955a-4104aafbe0e0",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Chii",
+      "overview": "Taiki overhears Haryu calling Chinatsu by a special nickname and gets flustered. Will it affect his upcoming match against the upperclassman?",
+      "runtime": 24,
+      "stillPath": "/1PYnJ1W53ZPRyEYpp25EZbvrlJw.jpg",
+      "airDate": "2024-10-17",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "3204f9c4-4e14-46a7-a74c-19e92e2daa20",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "If He Wins",
+      "overview": "A gym uniform mix-up leads to a heart-pounding exchange. Later, Haryu raises the stakes for Taiki’s match, while Kyo makes a secret request to Chinatsu.",
+      "runtime": 24,
+      "stillPath": "/tpNkGMMFxVaaHSUr0xi8WtxWtEs.jpg",
+      "airDate": "2024-10-24",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "37a4dcb1-7637-4bfb-84e1-fcf56f23208b",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Aquarium",
+      "overview": "With both players going neck and neck on the court, will Taiki win his match against Kishi — and will Chinatsu invite him to the aquarium?",
+      "runtime": 24,
+      "stillPath": "/9DT2lF6SHysuBkd5vgCXK460WEk.jpg",
+      "airDate": "2024-10-31",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "2c94cc9b-7859-4274-bce0-402aaaefe1b1",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Wish Me Luck",
+      "overview": "On her way to return Chinatsu's mobile phone, Hina makes a shocking discovery. The gymnast faces mounting pressure while struggling with her new feelings.",
+      "runtime": 24,
+      "stillPath": "/pyIWyOKZMnWBk6jAIrbnDOc0bP1.jpg",
+      "airDate": "2024-11-07",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "5d33ec29-26b2-4e71-93d0-c1865f577750",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "name": "Can I Have One?",
+      "overview": "Chinatsu overhears rival players speak poorly about her recent game. Later, Hina playfully steals a bite from Taiki — and Chinatsu notices from afar.",
+      "runtime": 24,
+      "stillPath": "/sxrKwe2e9gWOVURsyHrciPXCh1k.jpg",
+      "airDate": "2024-11-14",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "10dcebdd-9945-44f2-bdd4-9904c17406b2",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "name": "Score!",
+      "overview": "As Taiki strives to make it to the nationals, Chinatsu gives him a word of encouragement. Later, Haryu and Taiki face top players in the doubles match.",
+      "runtime": 24,
+      "stillPath": "/hzvtE1H7wPCom0pHwrrlKwgrOn2.jpg",
+      "airDate": "2024-11-21",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "2c7af140-3ef6-4985-a1ce-3d0c198df29c",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "name": "I'll Be Rooting for You",
+      "overview": "Frustrated with his loss to Sajikawa High, Taiki overworks himself studying for midterms and falls ill, when Chinatsu suddenly appears in his room.",
+      "runtime": 24,
+      "stillPath": "/sMA1jXiKf31WxEmtY2OTs7vGpUw.jpg",
+      "airDate": "2024-11-28",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "b7f4d6d1-8f3a-4596-b0a7-c33b27b433f1",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "name": "It's Not a Good Thing",
+      "overview": "After a sleepless night, Taiki asks Haryu for relationship advice. Later, Chinatsu realizes her recent behavior might hinder her dream and trouble others.",
+      "runtime": 24,
+      "stillPath": "/cUOPnuBTWz7i7jomwRR8XzMkbCd.jpg",
+      "airDate": "2024-12-05",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "996730e9-06cc-46a7-86bc-e925d7b6647e",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "name": "Uncool!",
+      "overview": "With the annual fireworks festival approaching, Hina musters the courage to invite Taiki, who's been avoiding Chinatsu since their awkward conversation.",
+      "runtime": 24,
+      "stillPath": "/rz3xzgykJRv90rk03gzq0PnKPRO.jpg",
+      "airDate": "2024-12-12",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "9edc8841-26e8-4a8f-8030-35a831cdb382",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "name": "Girls...",
+      "overview": "Taiki attends the fireworks festival with Hina and is surprised by her new look and shyness. Later, he unexpectedly bumps into Chinatsu with a lost child.",
+      "runtime": 24,
+      "stillPath": "/5fBnYivRNHmPUMvVRfWgdPfWKVT.jpg",
+      "airDate": "2024-12-19",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "15c515bd-10af-4763-818c-d4945954014a",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 13,
+      "name": "I Want a Back-and-Forth Rally",
+      "overview": "Taiki worries about a potential misunderstanding after Chinatsu departs. At the badminton nationals, he learns more about Karen and Haryu's relationship.",
+      "runtime": 24,
+      "stillPath": "/ihS0QGr6HL8P7L6y7OYSPiwCDR4.jpg",
+      "airDate": "2025-01-02",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "2e0f72de-5e42-4c40-a9b4-7086aae82b3d",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "name": "What's the Connection?",
+      "overview": "While Chinatsu faces immense pressure at the nationals, Hina cheers up a worried Taiki with a game where the loser shares an embarrassing secret.",
+      "runtime": 24,
+      "stillPath": "/34khq5ncoySUYA9VzauvfgTj6rm.jpg",
+      "airDate": "2025-01-09",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "8718e78e-fda9-4d4c-9608-48f9a31858f5",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 15,
+      "name": "August 26",
+      "overview": "Despite it being her birthday, Chinatsu still seems a little down. Taiki takes her somewhere special — but the weather might have other plans.",
+      "runtime": 24,
+      "stillPath": "/jlXKcCW9TW8PGGjxMoGy1WsPoWt.jpg",
+      "airDate": "2025-01-16",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "9e84a801-cae9-4d5c-b0ec-718cbb0dd82e",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "name": "Unfair Woman",
+      "overview": "As a new school term begins, the school buzzes with preparations for the upcoming festival. Chinatsu reflects on her restless feelings towards Taiki.",
+      "runtime": 24,
+      "stillPath": "/4lZji1ZM6IBykmLYxgyuDfFerzm.jpg",
+      "airDate": "2025-01-23",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "46b445dc-8aea-4089-a53b-3b50331d1c86",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 17,
+      "name": "Of Course I Want to See It",
+      "overview": "Upon learning of an upcoming practice match with Sajikawa High, Taiki worries about facing Yusa gain. Chinatsu and Hina promise their support.",
+      "runtime": 24,
+      "stillPath": "/r84lf3xXptHTKevjyUJXVqktesr.jpg",
+      "airDate": "2025-01-30",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "7a1a6da6-32a8-435f-82d3-7361883cbd91",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "name": "I Know",
+      "overview": "Sajikawa High arrives for the much-anticipated practice match. As Chinatsu watches from the sidelines, she thinks about how far Taiki has come.",
+      "runtime": 24,
+      "stillPath": "/8gPCl2ceXGssrAydbuKQCG5xGoB.jpg",
+      "airDate": "2025-02-06",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "df9c7ef7-2668-4bc3-9f31-7002449ab545",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 19,
+      "name": "I've Got Plans",
+      "overview": "Just before the school festival starts, Taiki goes for his usual morning jog and finds Chinatsu practicing nearby. She extends a surprising invitation.",
+      "runtime": 24,
+      "stillPath": "/vEyVb21mXP7uCk1RgPk0YdNrliD.jpg",
+      "airDate": "2025-02-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "03f7c7c8-7744-480c-b3e7-95b904c32865",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 20,
+      "name": "As One of Her Closest Friends",
+      "overview": "After a blissful time with Chinatsu, Nishida's ominous fortune comes true! His classmate playing the prince can't perform, so Taiki must take on the role.",
+      "runtime": 24,
+      "stillPath": "/24bKMeaaNypMAqmO3itHxRXsXU.jpg",
+      "airDate": "2025-02-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "947e2733-4ad0-4d1f-b17a-e3dadfe17cdd",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 21,
+      "name": "A Chance to Blossom",
+      "overview": "While rumors swirl around Taiki and Hina, Chinatsu seems unfazed. However, while spending the night at Karen's, the basketballer shares her true thoughts.",
+      "runtime": 24,
+      "stillPath": "/svItHgAc20VnY829RgeHzg3Hc4W.jpg",
+      "airDate": "2025-02-27",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "d75d5a6c-fa4d-403a-b580-7010c4bb3b3d",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 22,
+      "name": "Inota!",
+      "overview": "After learning about Hina's unrequited feelings for Taiki, Ayame decides to help — and the perfect chance arises at the upcoming autumn training camp!",
+      "runtime": 24,
+      "stillPath": "/sVmrm0n8LqRIgQuORsUj1EoKsRd.jpg",
+      "airDate": "2025-03-06",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "9079965e-21b6-417e-a8a3-40bac9610779",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "name": "Spinning",
+      "overview": "An exciting card game with friends leaves Taiki's head spinning. He mulls over his feelings for Chinatsu and Hina as the training camp continues.",
+      "runtime": 24,
+      "stillPath": "/rf35oTeibEneOyZBM4YcccS62Qy.jpg",
+      "airDate": "2025-03-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "80581d61-1905-4115-8e0f-ee799d5901bb",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "name": "A Roller Coaster",
+      "overview": "Hina experiences a roller coaster of emotions over her affection for Taiki and, thanks to Ayame, gets a chance to be alone with him on the last night.",
+      "runtime": 24,
+      "stillPath": "/sLQeOfkntkwEWpjoUa5lEMI8HrK.jpg",
+      "airDate": "2025-03-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "bad4ea85-ddc0-4b3e-8ba9-34e75848a6ec",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 25,
+      "name": "Even So",
+      "overview": "Ayame faces the consequences of her meddling and tries all sorts of ways to console Hina. Meanwhile, Taiki strengthens his resolve and asks Chinatsu out.",
+      "runtime": 24,
+      "stillPath": "/ctkW1CquYlv2DF2z9rpHFqll0VV.jpg",
+      "airDate": "2025-03-27",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "7567cbcc-59d4-47ad-a865-f394947dea04",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 26,
+      "name": "Déjà Vu",
+      "overview": "Taiki and Chinatsu's outing kicks off at a sports shop. But when an uninvited guest crashes their cafe plans, Taiki hears a name he won't soon forget.",
+      "runtime": 24,
+      "stillPath": "/f5Do1KBLiKSvnHf1lgkMnYDVJyQ.jpg",
+      "airDate": "2026-10-04",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "51f416e7-d365-4041-a279-aa585cdfd77b",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 27,
+      "name": "Admiration",
+      "overview": "After a tense run-in with Yumeka, Chinatsu opens up about their past on the train ride home. Taiki sets out to learn what tore apart their friendship.",
+      "runtime": 24,
+      "stillPath": "/wUj3loUPXJildFYOeF1jdRZ6mxf.jpg",
+      "airDate": "2026-10-11",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "88e84130-f4db-4d3b-bd22-4dd1b8c153f4",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 28,
+      "name": "They're One and the Same",
+      "overview": "Yumeka snaps at Taiki for overstepping while a teammate's harsh words stir up old memories for Chinatsu. Later, a chance encounter catches her off guard.",
+      "runtime": 24,
+      "stillPath": "/y7awaFrsTC419Yp5bSOQVaOTK8z.jpg",
+      "airDate": "2026-10-18",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "39249149-362d-4c3b-8e32-07e1d8e6f943",
+      "seasonId": "e0df2e59-8f5c-44b6-a363-f423d726bf4a",
+      "seasonNumber": 1,
+      "episodeNumber": 29,
+      "name": "Love Is the Most Powerful Feeling",
+      "overview": "Chinatsu walks away, leaving Yumeka to confront her true feelings. Middle school memories come flooding back, revealing how her love for basketball faded.",
+      "runtime": 24,
+      "stillPath": "/7CjZYtAnNIRfarJhDdnlJB1JJIX.jpg",
+      "airDate": "2026-10-25",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-26T10:01:10.198Z",
+  "cast": [
+    {
+      "id": "93d508ec-a7f0-4c1f-bd01-ce5411509a89",
+      "name": "Shoya Chiba",
+      "character": "Taiki Inomata (voice)",
+      "profilePath": "/pF2urY77wuCYd9Fxh7dTirFYKSF.jpg",
+      "order": 0
+    },
+    {
+      "id": "3e1d5e94-0da0-4b21-ab26-b41fe21fa9cd",
+      "name": "Reina Ueda",
+      "character": "Chinatsu Kano (voice)",
+      "profilePath": "/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg",
+      "order": 1
+    },
+    {
+      "id": "da8803af-5f5c-4267-b7ee-286b25c57024",
+      "name": "Akari Kito",
+      "character": "Hina Chono (voice)",
+      "profilePath": "/AoRQOZRC0yINB0WeKnM569rV1wF.jpg",
+      "order": 2
+    },
+    {
+      "id": "799d8f3b-b7f5-421a-979f-9f27710c72dc",
+      "name": "Chiaki Kobayashi",
+      "character": "Kyo Kasahara (voice)",
+      "profilePath": "/o0XZFXc50z28ICUpvfZ1QcTL2Yt.jpg",
+      "order": 3
+    },
+    {
+      "id": "8a7c290d-9a69-4dd4-8e1c-5bbdca7b4b7a",
+      "name": "Yuma Uchida",
+      "character": "Kengo Haryu (voice)",
+      "profilePath": "/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg",
+      "order": 4
+    },
+    {
+      "id": "9b286524-1097-4c69-b0c0-34cfee23aae9",
+      "name": "Shogo Sakata",
+      "character": "Ryosuke Nishida (voice)",
+      "profilePath": "/fRRPNBz3OCNRdmLdUTdpq7dGqxM.jpg",
+      "order": 5
+    },
+    {
+      "id": "9dc12fc7-b092-4b10-a41b-9585d23bb776",
+      "name": "Kana Ichinose",
+      "character": "Ayame Moriya (voice)",
+      "profilePath": "/hBJx5tpLA2vkXqfkPZosGjW4e8C.jpg",
+      "order": 6
+    },
+    {
+      "id": "ad46791a-5532-4fea-9788-61357d0a4b75",
+      "name": "Haruka Shiraishi",
+      "character": "Karen Moriya (voice)",
+      "profilePath": "/hrQxTVNGLi3jXC7v4kETArpA0dV.jpg",
+      "order": 500
+    },
+    {
+      "id": "1d8b31f3-2c1c-49c5-8a0c-20089eb1afe3",
+      "name": "Anna Nagase",
+      "character": "Nagisa Funami (voice)",
+      "profilePath": "/gFKRUlUlqTD7jGdysg5IWIvgoCH.jpg",
+      "order": 505
+    },
+    {
+      "id": "c349572b-2cf3-4193-a61f-282cf9c9c77f",
+      "name": "Asaki Yuikawa",
+      "character": "Niina Shimazaki (voice)",
+      "profilePath": "/4zztRbF68s06PZnsUAiXFNYv6mO.jpg",
+      "order": 506
+    },
+    {
+      "id": "22556731-fb2f-4cf6-a569-72ad27e8085c",
+      "name": "Ryoka Yuzuki",
+      "character": "Taiki's Mother (voice)",
+      "profilePath": "/kRiagleTO13MWYXl77xGDBDerxM.jpg",
+      "order": 508
+    },
+    {
+      "id": "c976d5e1-7cb8-4233-a931-700e6f18cba4",
+      "name": "Kenta Sasa",
+      "character": "Coach Yuasa (voice)",
+      "profilePath": "/dHrcUF7xOl0OWPXdXUeCAM1cBAe.jpg",
+      "order": 512
+    },
+    {
+      "id": "86c059ef-842d-436c-82fd-f2bf7b0e7d1c",
+      "name": "Katsunori Okai",
+      "character": "Club Member (voice)",
+      "profilePath": "/lHjKzFxvYIT0p01f4MpFBRwBZCD.jpg",
+      "order": 535
+    },
+    {
+      "id": "97594d3e-32fc-49e8-9d84-c1db1cb38a09",
+      "name": "Satoshi Miyazaki",
+      "character": "Taiki's Grandfather (voice)",
+      "profilePath": "/1IIfWmTsezhDguN96ifZEP4i4OR.jpg",
+      "order": 542
+    },
+    {
+      "id": "69477ea7-fcc7-4f35-b40a-71fcf8c38505",
+      "name": "Sho Fujisawa",
+      "character": "Club Member (voice)",
+      "profilePath": "/Am3zZBPIF4hk6ApJ5gvGaaAQsEf.jpg",
+      "order": 544
+    },
+    {
+      "id": "f32d4eac-a617-4e05-a1a5-5d2ce61f7461",
+      "name": "Kousuke Kiminarita",
+      "character": "Club Member (voice)",
+      "profilePath": "/6E1SSi2sl280BkEb00L5moQq9AQ.jpg",
+      "order": 546
+    },
+    {
+      "id": "7a210c70-4b2b-4790-b3f2-83b965614926",
+      "name": "Hiroki Maeda",
+      "character": "Taiki's Father (voice)",
+      "profilePath": "/zmyLh0hNM7M9wijX608MKiVtSAZ.jpg",
+      "order": 546
+    },
+    {
+      "id": "bd24f3a5-40ff-4958-8017-0fc3160d5f6e",
+      "name": "Reo Osanai",
+      "character": "Club Member (voice)",
+      "profilePath": "/zJGla8vIZX6paOG45YNhtVjf8jh.jpg",
+      "order": 551
+    },
+    {
+      "id": "3dd4b7f4-d40d-41d9-9fa4-9b64a4b2f8c3",
+      "name": "Yudai Mino",
+      "character": "Club Member (voice)",
+      "profilePath": "/ndM2zeVSLsb80JUBRCMF1BOUgai.jpg",
+      "order": 563
+    },
+    {
+      "id": "e2db3415-f32c-4817-bbac-d84802813d84",
+      "name": "Koki Arai",
+      "character": "Club Member (voice)",
+      "profilePath": "/4Ybm74LChIKPleucxSH6RPSAl4K.jpg",
+      "order": 564
+    }
+  ],
+  "tagline": "Do these sports-crossed lovers have a chance?",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "createdBy": [],
+  "productionCompanies": [
+    {
+      "id": 20868,
+      "name": "Telecom Animation Film",
+      "logo_path": "/jhJGtYghSVawQJygEnJymQAqAb2.png"
+    },
+    {
+      "id": 172244,
+      "name": "UNLIMITED PRODUCE by TMS",
+      "logo_path": "/lz8CdepJJMQiZZ9Cf192IZkGNAG.png"
+    },
+    {
+      "id": 293708,
+      "name": "ELECTRIC CIRCUS",
+      "logo_path": "/de78naMtzO6I94cbgfUnG3VFONx.png"
+    },
+    {
+      "id": 1393,
+      "name": "TBS",
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png"
+    },
+    {
+      "id": 7164,
+      "name": "TMS Entertainment",
+      "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png"
+    },
+    {
+      "id": 882,
+      "name": "TOHO",
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png"
+    }
+  ],
+  "logoPath": "/ubw6k78dv5SU9y9JoHRkBW8pGuN.png",
+  "watchlistCount": 66,
+  "favouriteCount": 25,
+  "shareCount": 1,
+  "country": "JP",
+  "originalLanguage": "ja",
+  "trailerUrl": "https://www.youtube.com/watch?v=tcK9Eghsfq8"
+}

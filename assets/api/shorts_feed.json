@@ -1,0 +1,101 @@
+{
+  "endpoint": "/api/shorts/feed?limit=2",
+  "status": 200,
+  "content_type": "application/json",
+  "error": null,
+  "body": {
+    "data": [
+      {
+        "id": "2ac62e35-4ac5-4771-9025-a9106355809f",
+        "title": "3 profesi bersatu",
+        "src": "/uploads/shorts/2026/09/e855a921-4b93-4c68-92d0-e3e4bd485b34.mp4",
+        "poster": "/uploads/shorts/2026/09/e855a921-4b93-4c68-92d0-e3e4bd485b34.webp",
+        "durationSec": 23,
+        "width": 1024,
+        "height": 576,
+        "seasonId": null,
+        "isSpoiler": false,
+        "publishedAt": "2026-09-19T04:54:07.880Z",
+        "viewCount": 4844,
+        "likeCount": 20,
+        "commentCount": 3,
+        "shareCount": 2,
+        "author": {
+          "username": "renebaebae",
+          "displayName": "rinbb",
+          "avatar": "/uploads/avatar/aa20c193-b52b-42ed-874d-315c09347f4a-41f06dfe.webp",
+          "role": "user",
+          "points": 707,
+          "planId": null,
+          "eventBadges": [
+            {
+              "category": "worldcup2026",
+              "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+              "finalRank": 283,
+              "totalPicks": 44,
+              "correctCount": 24
+            }
+          ]
+        },
+        "tags": [
+          {
+            "type": "tv_series",
+            "id": "2acd7c8f-b5f4-4068-a40f-7f64a5b9b0ec",
+            "title": "The First Responders",
+            "slug": "the-first-responders-2022",
+            "posterPath": "/ccEYx9NoZvDJRw8Ji2E7yJYLXwt.jpg",
+            "year": "2022",
+            "season": null
+          }
+        ],
+        "viewerLiked": false
+      },
+      {
+        "id": "98144bbf-f4f2-45c1-baf2-46e8aed7d404",
+        "title": "First rule ☕",
+        "src": "/uploads/shorts/2026/09/b081f480-d6cc-4c29-8df6-098607a0b394.mp4",
+        "poster": "/uploads/shorts/2026/09/b081f480-d6cc-4c29-8df6-098607a0b394.webp",
+        "durationSec": 42,
+        "width": 880,
+        "height": 720,
+        "seasonId": null,
+        "isSpoiler": false,
+        "publishedAt": "2026-09-29T05:58:04.247Z",
+        "viewCount": 2956,
+        "likeCount": 11,
+        "commentCount": 0,
+        "shareCount": 0,
+        "author": {
+          "username": "limitless99",
+          "displayName": "Limitless",
+          "avatar": "/uploads/avatar/271a994f-940f-49fa-85ac-4a8fcf5da790-7ea8d5a1.webp",
+          "role": "user",
+          "points": 66,
+          "planId": null,
+          "eventBadges": [
+            {
+              "category": "worldcup2026",
+              "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+              "finalRank": 18353,
+              "totalPicks": 1,
+              "correctCount": 1
+            }
+          ]
+        },
+        "tags": [
+          {
+            "type": "movie",
+            "id": "31c9069b-b312-4a88-824e-903e30e72fe1",
+            "title": "Fight Club",
+            "slug": "fight-club-1999",
+            "posterPath": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+            "year": "1999",
+            "season": null
+          }
+        ],
+        "viewerLiked": false
+      }
+    ],
+    "nextCursor": "eyJ2IjozLCJzIjoiOF9TNDlsaXo0ZUY3VDRubkk2UjlrdyIsIm8iOjJ9"
+  }
+}

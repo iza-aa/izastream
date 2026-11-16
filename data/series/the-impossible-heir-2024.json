@@ -1,0 +1,290 @@
+{
+  "slug": "the-impossible-heir-2024",
+  "id": "062e038a-6c51-4a2b-8adf-5f9ea13638d4",
+  "title": "The Impossible Heir",
+  "originalTitle": "로얄로더",
+  "overview": "An ambitious boy grows up and joins an intense war of desires to become a star of his own.",
+  "tagline": "I want it, I need it, I'll take it.",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "createdBy": [],
+  "productionCompanies": [
+    {
+      "id": 95314,
+      "name": "Neo Entertainment",
+      "logo_path": "/tAWHQdhAzdMWqyw789zW0eNleMK.png"
+    },
+    {
+      "id": 179959,
+      "name": "Slingshot Studios",
+      "logo_path": "/1joVL5srfsiIzDrJ9mGSJBFdcXK.png"
+    }
+  ],
+  "logoPath": "/efuoQMiEsqWSL3AuxRSRVzRNfCb.png",
+  "posterPath": "/ksIQrUoJERXBnVcxAxkMQDpzx3l.jpg",
+  "backdropPath": "/sXT9JVUznUwwVy3LsYeD4kCwGgv.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "firstAirDate": "2024-02-28",
+  "status": "Ended",
+  "watchlistCount": 144,
+  "favouriteCount": 48,
+  "shareCount": 4,
+  "country": "KR",
+  "originalLanguage": "ko",
+  "voteAverage": "7.60",
+  "trailerUrl": "https://www.youtube.com/watch?v=DnGwXa3BrXo",
+  "seasons": [
+    {
+      "id": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 12
+    }
+  ],
+  "cast": [
+    {
+      "id": "57b0661d-013a-4563-af7e-2bf2b655f90d",
+      "name": "Lee Jae-wook",
+      "character": "Han Tae-oh",
+      "profilePath": "/9dsWM2kiXO4utrg4GctdXDvhOKD.jpg",
+      "order": 0
+    },
+    {
+      "id": "242d45f9-72ea-4e65-b1dc-5f1f8a592457",
+      "name": "Lee Jun-young",
+      "character": "Kang In-ha",
+      "profilePath": "/zH8kiGox6n3FD82MKEhUq79X6gj.jpg",
+      "order": 1
+    },
+    {
+      "id": "f248814b-e697-4fd5-b073-6eac0f5b0280",
+      "name": "Hong Su-zu",
+      "character": "Na Hye-won",
+      "profilePath": "/kOa4BfMsGWkl5jVbKFJjDwWKpnu.jpg",
+      "order": 2
+    },
+    {
+      "id": "cb9c7bf5-b709-4d4d-b4d4-e119ff8605ae",
+      "name": "Choi Hee-jin",
+      "character": "Kang Hui-ju",
+      "profilePath": "/fTLpXn6LbNIv4A8f7JpLsVDugvG.jpg",
+      "order": 3
+    },
+    {
+      "id": "02b5be89-2ce1-46b4-8df3-9ea10bf3468c",
+      "name": "Han Sang-jin",
+      "character": "",
+      "profilePath": "/kDqrOgTUtjehAC5WJSqLPNX10tK.jpg",
+      "order": 4
+    },
+    {
+      "id": "1cf58e7c-0552-4b1f-950c-c2a1e5e9f3ab",
+      "name": "Lee Ji-hoon",
+      "character": "",
+      "profilePath": "/pVFDjFb6prVah1wHtkUiVLEb2VG.jpg",
+      "order": 5
+    },
+    {
+      "id": "55a4847b-0f8f-47a7-b13a-20a07dcab06e",
+      "name": "Lee Hwang-eui",
+      "character": "",
+      "profilePath": "/pSaJLX77gJS8rx54LQhd314J7tr.jpg",
+      "order": 6
+    },
+    {
+      "id": "e50fe3e3-80b4-4e75-84aa-337b4337465d",
+      "name": "Kim Young-ju",
+      "character": "Yoon Hyang-mi",
+      "profilePath": "/oWA6d8Nystcedzyvu6weg7OBAB.jpg",
+      "order": 7
+    },
+    {
+      "id": "3c8eb343-a8f1-4fda-a901-74c7d33c3077",
+      "name": "Heo Nam-jun",
+      "character": "Ha Myung Jin",
+      "profilePath": "/zPF0zzfLjQBpEIbrbNpLDiwnimB.jpg",
+      "order": 8
+    },
+    {
+      "id": "1a572211-6381-4dcc-9dff-e808d1bafda8",
+      "name": "Kim Ji-na",
+      "character": "Host Club Manager",
+      "profilePath": "/vsTTR66Easbg3A4tKcmqWSnOXLv.jpg",
+      "order": 9
+    },
+    {
+      "id": "095c6ee3-9f6a-4ba4-9d97-ba5b9ef41324",
+      "name": "Woo Hyeon",
+      "character": "Village chief",
+      "profilePath": "/aehiya292g9c9T9FmCJ6kz5smSU.jpg",
+      "order": 500
+    }
+  ],
+  "episodes": [
+    {
+      "id": "9898c44a-8943-43a2-9599-22852b2260d0",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Fate",
+      "overview": "Taeoh, Inha, and Hyewon run towards the same desire. They are drawn to one another by fate.",
+      "runtime": 63,
+      "stillPath": "/rgtnHrT16CO7JARVer97nh0qkzY.jpg",
+      "airDate": "2024-02-28",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "c2c465aa-fe0c-4108-9078-512c64fc620f",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Beginning",
+      "overview": "An ambitious boy grows up and joins an intense war of desires to become a star of his own",
+      "runtime": 60,
+      "stillPath": "/b947X2jn4sEabd3kZ65pebT7sNi.jpg",
+      "airDate": "2024-02-28",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "2aa66f71-3612-48ba-91b9-228cb871691b",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Desirers",
+      "overview": "Taeoh ousts Seongju from the Co-prosperity Cooperation Center and Chairman Kang collapses.",
+      "runtime": 63,
+      "stillPath": "/s5kyQ5bJ6ERv5ZIpekyQfSoo5f6.jpg",
+      "airDate": "2024-03-06",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "a7263376-5adb-4e91-8af2-9ef6087b46a9",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Thrill",
+      "overview": "Taeoh begins a dangerous game to make Inha's presence known to the world.",
+      "runtime": 61,
+      "stillPath": "/omtHsLkkdwR2FIl2RtWURKJ0vCi.jpg",
+      "airDate": "2024-03-06",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "c7e0e269-b3c4-4650-b097-64e0d524e740",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Monster",
+      "overview": "The difference between Tae Oh and In Ha is revealed, and a fatal blow is aimed at Tae Oh.",
+      "runtime": 63,
+      "stillPath": "/81JjWvVymztg8buQn5gPTFkaK7Q.jpg",
+      "airDate": "2024-03-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "a0c4b233-ca62-4dbc-b1ba-e5bb7618e617",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Weakness",
+      "overview": "Tae Oh chases the culprit who tried to kill him and faces impending doom.",
+      "runtime": 66,
+      "stillPath": "/k8BErghXCHj5SHCRBe3J0JknrE7.jpg",
+      "airDate": "2024-03-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "6482f427-1d93-4870-afcb-2d87ec17f487",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "name": "Reality",
+      "overview": "Tae Oh is arrested as a murder suspect. Dark shadows lurk around him with his memories missing.",
+      "runtime": 56,
+      "stillPath": "/9L7DOR4ZFSimRU9IZc5xeXzDR8e.jpg",
+      "airDate": "2024-03-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "c529f726-ac70-4b9f-b863-2d0be1d3ac13",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "name": "Scream",
+      "overview": "Tae Oh has been sentenced to death but he does not stop seeking the truth to prove his innocence. The heinous nature hidden within a particular person shocks everyone.",
+      "runtime": 55,
+      "stillPath": "/74W3YXqNVNDQ8WgGNQWNBx9ZLLo.jpg",
+      "airDate": "2024-03-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "753be895-65ec-47bf-97a1-ec234a69cf62",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "name": "Truth",
+      "overview": "Taeoh's lost memories come back one by one and he can confirm the face of his culprit with them.",
+      "runtime": 54,
+      "stillPath": "/kXvFXh5qFMA4kLRY4TUHquX5CPl.jpg",
+      "airDate": "2024-03-27",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "af9c5993-1dcb-4cd3-baa6-79616a7a3bc0",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "name": "Trigger",
+      "overview": "The murder culprit is revealed, but he is just a bait thrown by Taeoh to catch the real villain.",
+      "runtime": 52,
+      "stillPath": "/umQSZGwmFUa0z75iEcv7Lw3y0Tm.jpg",
+      "airDate": "2024-03-27",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "e140bcf7-cb04-4aa6-9532-bac414c88b30",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "name": "Malice",
+      "overview": "Taeoh awaits for \"that moment.\" Will he protect his people and achieve his dreams?",
+      "runtime": 55,
+      "stillPath": "/t74oTJoUYB5Pw5ytwFUX5bcmHY6.jpg",
+      "airDate": "2024-04-03",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "7d73e80b-ac91-4b35-869d-b4f10ff73732",
+      "seasonId": "bd793785-3008-4791-b540-3f9ac4cbd90a",
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "name": "Choice",
+      "overview": "In fulfilling his desires, Taeoh does not choose anger or forgiveness. His choice is salvation.",
+      "runtime": 59,
+      "stillPath": "/6STNhKoz6vmTqC8uGHK1K39vh92.jpg",
+      "airDate": "2024-04-03",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-28T08:20:53.229Z"
+}

@@ -1,0 +1,311 @@
+{
+  "slug": "doctor-x-mafia-in-white-2026",
+  "id": "397b6518-a62f-422e-958f-5aeb3fb2d3f4",
+  "title": "Doctor X: Mafia in White",
+  "originalTitle": "닥터X: 하얀 마피아의 시대",
+  "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+  "tagline": "I don't fail. I don't compromise.",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "createdBy": [
+    {
+      "id": 3722125,
+      "name": "Lee Jeong-lim",
+      "gender": 1,
+      "credit_id": "6ab9966f56b8df4efe1b6df8",
+      "profile_path": "/vECGxw0lUSviNUqEiiuNHIhg3rZ.jpg",
+      "original_name": "이정림"
+    },
+    {
+      "id": 6509738,
+      "name": "Pyeon Seong-geun",
+      "gender": 2,
+      "credit_id": "6ab9995a7492a192f1f2a679",
+      "profile_path": null,
+      "original_name": "편성근"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 86418,
+      "name": "Studio Dragon",
+      "logo_path": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png"
+    },
+    {
+      "id": 83914,
+      "name": "Studio S",
+      "logo_path": "/nFcR2kd7vl5O3TITQs6x39BNo6Y.png"
+    },
+    {
+      "id": 139166,
+      "name": "HighZium Studio",
+      "logo_path": "/yBd9hNUQmh7LPMyM1RVazM3C9ki.png"
+    }
+  ],
+  "logoPath": "/sU3HlqW8J1rtLigitz2rBiTLTUC.png",
+  "posterPath": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+  "backdropPath": "/gEIYUsH0V2tDUTwnA2NNCw1cD0f.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "firstAirDate": "2026-10-09",
+  "status": "Returning Series",
+  "watchlistCount": 2580,
+  "favouriteCount": 1169,
+  "shareCount": 98,
+  "country": "KR",
+  "originalLanguage": "ko",
+  "voteAverage": "10.00",
+  "trailerUrl": "https://www.youtube.com/watch?v=v6KNnhkLnnY",
+  "seasons": [
+    {
+      "id": "dc53c659-a717-439f-9752-5c7be8ec703f",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 12
+    }
+  ],
+  "cast": [
+    {
+      "id": "731f44ed-db86-40eb-852e-59429894072d",
+      "name": "Kim Ji-won",
+      "character": "Gye Su-jeong",
+      "profilePath": "/lX7W1j9kg4jV6XNn5XEE3rKsd3x.jpg",
+      "order": 0
+    },
+    {
+      "id": "44606379-8b77-4848-bbda-f1dc8efd130c",
+      "name": "Lee Jung-eun",
+      "character": "Jeong Hee-sook",
+      "profilePath": "/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg",
+      "order": 1
+    },
+    {
+      "id": "46ddf31a-e2d3-4fd6-8c10-5d8db0f2e64b",
+      "name": "Son Hyun-joo",
+      "character": "Bu Seung-gwon",
+      "profilePath": "/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg",
+      "order": 2
+    },
+    {
+      "id": "ac950bc1-0237-4c4f-8b21-1196af5f420e",
+      "name": "Kim Woo-seok",
+      "character": "Park Tae-Kyeong",
+      "profilePath": "/pjuqZJRCw5BgAZf5CtjXNAmOAmd.jpg",
+      "order": 3
+    },
+    {
+      "id": "a697aa13-e72d-4141-90b2-ea96a5c07637",
+      "name": "Lee Jin-hee",
+      "character": "Jo Won-jin",
+      "profilePath": "/ejdN4VmStDyyhi7sN5Nox5VVh5x.jpg",
+      "order": 4
+    },
+    {
+      "id": "67aa2469-169e-4576-af4c-e4d83eded4fd",
+      "name": "Kim Young-min",
+      "character": "Do Yoon-sik",
+      "profilePath": "/xXbY65ATWU0VGd59Ry16o3mnxps.jpg",
+      "order": 5
+    },
+    {
+      "id": "2903d211-45b4-4793-b522-ca12a9776b07",
+      "name": "Lee Sung-wook",
+      "character": "Bae Heung-gon",
+      "profilePath": "/erpOUfjadjH2duXd6XWDsa2kNfw.jpg",
+      "order": 6
+    },
+    {
+      "id": "e44fe7ae-c024-4806-872c-77444c628786",
+      "name": "Kwon Seung-woo",
+      "character": "Ma Seong-gyoo",
+      "profilePath": "/9XwjdLbetDegQdolJA91Wykkqdy.jpg",
+      "order": 7
+    },
+    {
+      "id": "6bd4d947-b12a-42b9-b013-bf81e1b7017c",
+      "name": "Heo Joon-seok",
+      "character": "Kim Seong-jin",
+      "profilePath": "/7UFyGXrKPDeAICdUUcmJaApyy9h.jpg",
+      "order": 8
+    },
+    {
+      "id": "125f3de5-a480-43a8-a3cb-affddf590f0e",
+      "name": "Kim Young-ah",
+      "character": "Lee Seon-ae",
+      "profilePath": "/g21Pa5GKMHL99wYSFQqhJX9lMUl.jpg",
+      "order": 9
+    },
+    {
+      "id": "7d00973b-db0d-4348-9a78-4e84ed1c65e3",
+      "name": "Choi Deok-moon",
+      "character": "Yang Eung-goo",
+      "profilePath": "/2yNTH3Dm1tmN795ExtNsIE1IaNA.jpg",
+      "order": 10
+    },
+    {
+      "id": "dc26990f-eba3-491d-b446-a1d8088e8d8a",
+      "name": "Kim Jung-young",
+      "character": "Yoo Mi-kyeong",
+      "profilePath": "/sJVUh3dzF1dgItQDPbWsZAsnfzL.jpg",
+      "order": 11
+    },
+    {
+      "id": "60e3183b-f75b-457f-af94-16fcdd701652",
+      "name": "Choi Gwang-il",
+      "character": "Goo Bon-pyeong",
+      "profilePath": "/6vkA8s4XDPwZBRzNhN9xSLzb3II.jpg",
+      "order": 12
+    },
+    {
+      "id": "2718b7db-2555-42cd-add9-bdbf75acf31c",
+      "name": "Jeong Seok-yong",
+      "character": "Kim Chang-soo",
+      "profilePath": "/tyTSdGaVKotPmJXGNtz6fXoj8Tc.jpg",
+      "order": 13
+    },
+    {
+      "id": "01202e38-15f1-4eca-a836-98ea11ab3cad",
+      "name": "Choi Yeon-hwa",
+      "character": "Patient",
+      "profilePath": "/rMtNKqLgs5qauBXYdwPFgFDRaoF.jpg",
+      "order": 14
+    },
+    {
+      "id": "8b2964a4-ceaa-4bb8-b3a5-8472a13b3720",
+      "name": "Kim Gyeong-min",
+      "character": "Im Ho-seok",
+      "profilePath": "/7d88xPM0traynfzvpqXo93SkYyP.jpg",
+      "order": 15
+    },
+    {
+      "id": "f20e8bef-e49f-4ec4-8f8f-7f47078789f5",
+      "name": "Kim Jong-goo",
+      "character": "Kim Myeong-seop",
+      "profilePath": "/t5CnFB7boQEoNofUmch5wcUn2w3.jpg",
+      "order": 16
+    },
+    {
+      "id": "4ddef387-afdc-498c-8dca-431d59eb000e",
+      "name": "Jang Seung-jo",
+      "character": "Special appearance",
+      "profilePath": "/3HWGHh4Zazo4rEjQNz1B7KEJ9Cd.jpg",
+      "order": 17
+    },
+    {
+      "id": "73efabb1-8df6-4e37-9984-8d4a26436bb4",
+      "name": "Kim Hak-Soo",
+      "character": "Professor Hwang",
+      "profilePath": "/yKWBfPkDOHRgmlAwbdq2BRiuWxj.jpg",
+      "order": 18
+    },
+    {
+      "id": "d042f588-8fe7-4fbe-9786-f13c647d862e",
+      "name": "Jang Myung-jin",
+      "character": "Police",
+      "profilePath": "/5wCvmFqBjzKD2VNoaWTHPp4u91d.jpg",
+      "order": 19
+    }
+  ],
+  "episodes": [
+    {
+      "id": "1512721b-df88-4a7e-a34f-2c2fdd9c7fb3",
+      "seasonId": "dc53c659-a717-439f-9752-5c7be8ec703f",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Episode 1",
+      "overview": "On her first day at the hospital, Gye Su-jeong quickly ruffles feathers when she weighs in on an upcoming surgery — only to jump in when a crisis arises.",
+      "runtime": 66,
+      "stillPath": "/3SBnUDLb5Uwds7iWUcGurVdRbwb.jpg",
+      "airDate": "2026-10-09",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "cadb26d6-ce73-4d83-aac9-551494f0ad36",
+      "seasonId": "dc53c659-a717-439f-9752-5c7be8ec703f",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Episode 2",
+      "overview": "Faced with two pancreatic cancer patients — a wealthy chairman and a teenager — hospital staff clash over who to prioritize. But Su-jeong wastes no time.",
+      "runtime": 64,
+      "stillPath": "/9rLahEmO8kFUzHb5dVyEGtDbsqh.jpg",
+      "airDate": "2026-10-10",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "7840240b-53d4-4c29-b2b1-5c185da83197",
+      "seasonId": "dc53c659-a717-439f-9752-5c7be8ec703f",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Episode 3",
+      "overview": "The hospital staff grow suspicious of Su-jeong's past. When a cleaner suddenly collapses, Su-jeong must make a decision as no surgeon is available.",
+      "runtime": 63,
+      "stillPath": "/hLK8IvLmYDUI4Tt8xQK30N21Tl5.jpg",
+      "airDate": "2026-10-16",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "c26116dd-38e8-432c-9102-c542a1bbfcfe",
+      "seasonId": "dc53c659-a717-439f-9752-5c7be8ec703f",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Episode 4",
+      "overview": "After a new surgeon arrives at the hospital, Jang Hui-suk and Su-jeong keep a close eye on him. Meanwhile, a pharmaceutical rep suffers an emergency.",
+      "runtime": 61,
+      "stillPath": "/vCNYcpaJHHrEKTCtRtpRjlkBNRq.jpg",
+      "airDate": "2026-10-17",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "2d9c691e-9c48-4aac-878f-7331512d7884",
+      "seasonId": "dc53c659-a717-439f-9752-5c7be8ec703f",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Episode 5",
+      "overview": "-jeong makes a disturbing discovery about Na Dae-il and a patient. As her colleagues debate their next move, she gets a chance to make him pay.",
+      "runtime": 64,
+      "stillPath": "/5G13IhiXd5Lc7R4h9PghV41q3oh.jpg",
+      "airDate": "2026-10-23",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "32f0953f-5a8d-4104-aef8-48ab39adf3ed",
+      "seasonId": "dc53c659-a717-439f-9752-5c7be8ec703f",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Episode 6",
+      "overview": "A patient struggling with trauma from an old brain injury refuses surgery, pushing Su-jeong and her team to convince him to undergo treatment.",
+      "runtime": 61,
+      "stillPath": "/r836vmrabCtAK6edlvjOnH1JRhX.jpg",
+      "airDate": "2026-10-24",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-27T17:39:36.395Z"
+}

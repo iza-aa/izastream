@@ -1,0 +1,233 @@
+{
+  "endpoint": "/api/plans",
+  "status": 200,
+  "content_type": "application/json",
+  "error": null,
+  "body": {
+    "data": [
+      {
+        "id": "6f6c0c79-cba3-4a3d-97ff-07f6b18c9116",
+        "name": "Regular",
+        "slug": "regular",
+        "type": "free",
+        "price": "0.00",
+        "currency": "IDR",
+        "discountPercent": 0,
+        "durationDays": 99999,
+        "maxStreams": 1,
+        "quality": "1080p",
+        "adsEnabled": true,
+        "features": [
+          "1080p streaming",
+          "Unlimited devices",
+          "Includes advertisements"
+        ],
+        "isActive": true,
+        "isInternal": false,
+        "sortOrder": 0,
+        "createdAt": "2026-04-02T13:26:10.725Z",
+        "updatedAt": "2026-04-04T10:42:07.531Z",
+        "limits": {
+          "watchlist": 100,
+          "favourites": 100,
+          "activity": 100,
+          "continueWatching": 20,
+          "authoredCollections": 0,
+          "authoredCollectionItems": 0
+        },
+        "maxResolution": 1080,
+        "pricing": null,
+        "watchParty": {
+          "enabled": true,
+          "maxParticipants": 20
+        }
+      },
+      {
+        "id": "a4c8dccd-4629-43d4-ad16-1f50506f63dc",
+        "name": "IDLIX+ 30 Days",
+        "slug": "idlix-plus-30d",
+        "type": "premium",
+        "price": "29000.00",
+        "currency": "IDR",
+        "discountPercent": 0,
+        "durationDays": 30,
+        "maxStreams": 4,
+        "quality": "1080p",
+        "adsEnabled": false,
+        "features": [
+          "1080p streaming",
+          "Unlimited devices",
+          "No advertisements",
+          "Profile badge",
+          "Support the platform"
+        ],
+        "isActive": true,
+        "isInternal": false,
+        "sortOrder": 0,
+        "createdAt": "2026-04-04T17:32:55.732Z",
+        "updatedAt": "2026-05-14T06:30:35.809Z",
+        "limits": {
+          "watchlist": 200,
+          "favourites": 200,
+          "activity": 200,
+          "continueWatching": 40,
+          "authoredCollections": 10,
+          "authoredCollectionItems": 30
+        },
+        "maxResolution": 2160,
+        "pricing": {
+          "basePrice": 29000,
+          "effectivePrice": 29000,
+          "currency": "IDR",
+          "discount": null
+        },
+        "watchParty": {
+          "enabled": true,
+          "maxParticipants": 60
+        }
+      },
+      {
+        "id": "2ee96b81-1365-4554-ad3a-7e6f33a62321",
+        "name": "IDLIX+ 90 Days",
+        "slug": "idlix-plus-90d",
+        "type": "premium",
+        "price": "87000.00",
+        "currency": "IDR",
+        "discountPercent": 0,
+        "durationDays": 90,
+        "maxStreams": 4,
+        "quality": "1080p",
+        "adsEnabled": false,
+        "features": [
+          "1080p streaming",
+          "Unlimited devices",
+          "No advertisements",
+          "Profile badge",
+          "Support the platform"
+        ],
+        "isActive": true,
+        "isInternal": false,
+        "sortOrder": 1,
+        "createdAt": "2026-04-04T17:32:55.771Z",
+        "updatedAt": "2026-05-14T06:30:35.809Z",
+        "limits": {
+          "watchlist": 200,
+          "favourites": 200,
+          "activity": 200,
+          "continueWatching": 40,
+          "authoredCollections": 10,
+          "authoredCollectionItems": 30
+        },
+        "maxResolution": 2160,
+        "pricing": {
+          "basePrice": 87000,
+          "effectivePrice": 87000,
+          "currency": "IDR",
+          "discount": null
+        },
+        "watchParty": {
+          "enabled": true,
+          "maxParticipants": 60
+        }
+      },
+      {
+        "id": "d57fbbf6-08bf-4c1b-9526-85f9a0ad629f",
+        "name": "IDLIX+ 180 Days",
+        "slug": "idlix-plus-180d",
+        "type": "premium",
+        "price": "169000.00",
+        "currency": "IDR",
+        "discountPercent": 0,
+        "durationDays": 180,
+        "maxStreams": 4,
+        "quality": "1080p",
+        "adsEnabled": false,
+        "features": [
+          "1080p streaming",
+          "Unlimited devices",
+          "No advertisements",
+          "Profile badge",
+          "Support the platform"
+        ],
+        "isActive": true,
+        "isInternal": false,
+        "sortOrder": 2,
+        "createdAt": "2026-04-04T17:32:55.809Z",
+        "updatedAt": "2026-05-14T06:30:35.809Z",
+        "limits": {
+          "watchlist": 200,
+          "favourites": 200,
+          "activity": 200,
+          "continueWatching": 40,
+          "authoredCollections": 10,
+          "authoredCollectionItems": 30
+        },
+        "maxResolution": 2160,
+        "pricing": {
+          "basePrice": 169000,
+          "effectivePrice": 169000,
+          "currency": "IDR",
+          "discount": null
+        },
+        "watchParty": {
+          "enabled": true,
+          "maxParticipants": 60
+        }
+      },
+      {
+        "id": "d1d4556e-0729-4551-a57c-803c881995e2",
+        "name": "IDLIX+ 365 Days",
+        "slug": "idlix-plus-365d",
+        "type": "premium",
+        "price": "299000.00",
+        "currency": "IDR",
+        "discountPercent": 0,
+        "durationDays": 365,
+        "maxStreams": 4,
+        "quality": "1080p",
+        "adsEnabled": false,
+        "features": [
+          "1080p streaming",
+          "Unlimited devices",
+          "No advertisements",
+          "Profile badge",
+          "Support the platform"
+        ],
+        "isActive": true,
+        "isInternal": false,
+        "sortOrder": 3,
+        "createdAt": "2026-04-04T17:32:55.852Z",
+        "updatedAt": "2026-05-14T06:30:35.809Z",
+        "limits": {
+          "watchlist": 200,
+          "favourites": 200,
+          "activity": 200,
+          "continueWatching": 40,
+          "authoredCollections": 10,
+          "authoredCollectionItems": 30
+        },
+        "maxResolution": 2160,
+        "pricing": {
+          "basePrice": 299000,
+          "effectivePrice": 299000,
+          "currency": "IDR",
+          "discount": null
+        },
+        "watchParty": {
+          "enabled": true,
+          "maxParticipants": 60
+        }
+      }
+    ],
+    "availability": {
+      "fourK": {
+        "movies": 2,
+        "series": 0
+      }
+    },
+    "paymentGateway": {
+      "enabled": true,
+      "channel": "QRIS"
+    }
+  }
+}

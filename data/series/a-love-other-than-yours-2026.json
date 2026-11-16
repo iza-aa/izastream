@@ -1,0 +1,307 @@
+{
+  "slug": "a-love-other-than-yours-2026",
+  "id": "495e5055-9f48-48ed-8b06-a9e002c92cb0",
+  "title": "A Love Other Than Yours",
+  "originalTitle": "너 말고 다른 연애",
+  "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+  "posterPath": "/jvNFIc9qy9ynCuKMar9YC258gJP.jpg",
+  "backdropPath": "/aamqCMt8yjcLqfSWvrJk7qApGyT.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 11,
+  "firstAirDate": "2026-09-12",
+  "status": "Returning Series",
+  "seasons": [
+    {
+      "id": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 14
+    }
+  ],
+  "episodes": [
+    {
+      "id": "d0ba3270-d0bd-4a4f-aac6-a49071e27f94",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Will Ten Years Together End in Marriage or a Breakup?",
+      "overview": "Namgung and Mi-do first met at the age of seven and began dating at twenty-six. Now in their tenth year together, the love they once believed would last forever begins to buckle under the weight of time. As their relationship changes, they are forced to confront the realities of love and life.",
+      "runtime": 63,
+      "stillPath": "/pfpNCf0WE6pJinEckPLq29ORVTp.jpg",
+      "airDate": "2026-09-12",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "701929e3-a8ed-4eac-ae5a-8427a2649218",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Can We Ever Be Strangers?",
+      "overview": "After ten years together, Mi-do and Namgung are struggling with their break up. Not even a romantic couples event can rekindle the spark between them, yet memories of the love they once shared keep pulling them back.",
+      "runtime": 64,
+      "stillPath": "/qWtT60airNqOlz0EVXYCzIXt0RY.jpg",
+      "airDate": "2026-09-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "28eed8f5-dcc5-4937-9f25-54b8fb73859b",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Can We Feel That Spark Again?",
+      "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+      "runtime": 64,
+      "stillPath": "/tpwpJVqwxHZ3kd1aWkNKBdPzh5f.jpg",
+      "airDate": "2026-09-19",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "ff017a27-50f5-434b-9981-d2d7802dc096",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Are We Dreaming the Same Dream?",
+      "overview": "A realistic, emotionally resonant romance about a couple in their tenth year together whose comfortable relationship is tested by unexpected feelings.",
+      "runtime": 64,
+      "stillPath": "/13po7WkGFhVi9oKR6vACtDenDwd.jpg",
+      "airDate": "2026-09-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "8c1454f6-4ef6-4ed2-b311-249ba43e2ac5",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Are There Any Untold Stories Between Us?",
+      "overview": "Mi-do is shocked after waking up at Tae-seung's office. Meanwhile, Namgung notices a mysterious caller on Mi-do's phone and becomes uneasy. As always, the two pretend everything is fine for each other's sake. But the more they try to protect the relationship, the deeper their secrets become.",
+      "runtime": 64,
+      "stillPath": "/PplhtbTq4P9CdYW9PMyHsVWrZs.jpg",
+      "airDate": "2026-10-03",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "a819adf1-dc90-45a1-abd1-1b45c40941ee",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Who Is Our Best Hero?",
+      "overview": "Mi-do deeply regrets what happened that day. Meanwhile, Namgung plans something to cheer her up. But unexpected visitors at his workplace push things in an unforeseen direction.",
+      "runtime": 64,
+      "stillPath": "/eodQnUSFN85htbvmUVZOELdt14b.jpg",
+      "airDate": "2026-10-04",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "bae7c71b-6037-4b37-a3d5-942c6a00a2be",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "name": "Are We Allies or Enemies?",
+      "overview": "Namgung learns the truth about what happened that day, and the deep trust between the couple begins to unravel. Meanwhile, pressured by Ju-hyeok, Tae-seung makes an unexpected decision as his feelings for Mi-do deepen. At the same time, Su-a relentlessly pursues Namgung while investigating the sweet potato corruption scandal.",
+      "runtime": 64,
+      "stillPath": "/6Mx8R8xFrOE5GDO2punWB6UnPSx.jpg",
+      "airDate": "2026-10-10",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "69d93b6c-bbc4-4ce1-b06e-02c6fd661ee3",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "name": "What Remains of Our Passionate Love?",
+      "overview": "Namgung and Mi-do confront emotions they have long suppressed for each other's sake. As their pain pulls them in different directions, they come up with a bold proposal that could upend their relationship.",
+      "runtime": 64,
+      "stillPath": "/590yb3B0vR1DSudqEbQTHW7nQmq.jpg",
+      "airDate": "2026-10-11",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "ce42d17f-128a-4595-94dc-3b731cc898dd",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "name": "Do You Remember When We Fell in Love?",
+      "overview": "Mi-do tells her family she is quitting directing. Meanwhile, she and Namgung begin dating other people. As soon as they do, Su-a makes a bold move while Tae-seung takes a provocative step.",
+      "runtime": 64,
+      "stillPath": "/a9Al3JSOvWqbhJu9HxdKlOIQd46.jpg",
+      "airDate": "2026-10-17",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "261852d0-7913-4804-b6da-6006291380b8",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "name": "What Do Our Scars Look Like?",
+      "overview": "Namgung and Mi-do keep up the pretense of being a couple in front of their families. Sol's arrival stirs Namgung's past, while Mi-do confides a long-held secret to Tae-seung.",
+      "runtime": 64,
+      "stillPath": "/o9FKX1HU7A5xNsOLf4MBQOsegSy.jpg",
+      "airDate": "2026-10-18",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "d6314080-2c19-49d7-b1eb-0bc0939acd6c",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "name": "How Do We Love, How Do We Live?",
+      "overview": "The three come face-to-face at Namgung's place. They sit down for breakfast, pretending everything is fine, but soon find themselves caught in a swirl of complicated emotions. Meanwhile, Tae-seung notices Mi-do's wavering heart and plans a special day just for her.",
+      "runtime": 64,
+      "stillPath": "/k3waLMkXV84CEgB1Yl6HyE25ZmF.jpg",
+      "airDate": "2026-10-24",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "c7902fff-0e32-4064-a3bb-0744b386b994",
+      "seasonId": "ed5b18a9-cb0d-4e89-a94a-a06d5577c0f5",
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "name": "Who Do We Love the Most?",
+      "overview": "Namgung tries to stop Su-a from putting herself at risk, but the conflict between them deepens as neither is willing to back down. Meanwhile, under pressure from Ju-hyeok, Tae-seung heads to a rural village, where he encounters someone unexpected.",
+      "runtime": 64,
+      "stillPath": "/rjoJr8ZfwB46AW1Z7aViZ7xOEEt.jpg",
+      "airDate": "2026-10-25",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-26T08:43:45.754Z",
+  "cast": [
+    {
+      "id": "74c01ec8-e99d-4093-acdb-f9f852a0dd1f",
+      "name": "Seo Kang-joon",
+      "character": "Namgung Ho",
+      "profilePath": "/a73St97D7GmJteo3s3rNKxQWk7a.jpg",
+      "order": 0
+    },
+    {
+      "id": "6e549bb0-4406-4cb9-8f4c-11dbeb934276",
+      "name": "Ahn Eun-jin",
+      "character": "Lee Mi-do",
+      "profilePath": "/cZDp8Qim5tmUN9gQxPkBOE5MS8w.jpg",
+      "order": 1
+    },
+    {
+      "id": "0ca81ecb-c3a9-4f71-b19f-5778fd377343",
+      "name": "Lee Joo-ahn",
+      "character": "Han Tae-seung",
+      "profilePath": "/bTRF3R85bd2u68W4VInNtXz2Avw.jpg",
+      "order": 2
+    },
+    {
+      "id": "c5d3e996-961d-4e0b-ace0-7b518beb3aa2",
+      "name": "Jo A-ram",
+      "character": "Park Soo-ah",
+      "profilePath": "/vcJF048TtTA7uiOGKkzTLp3MdeB.jpg",
+      "order": 3
+    },
+    {
+      "id": "275db095-7a6d-478d-bb12-343a97414ca0",
+      "name": "Lee Min-jae",
+      "character": "Lee Wan-do",
+      "profilePath": "/o1mZIKQuXIj8nGUWxUp4c2z7VoG.jpg",
+      "order": 4
+    },
+    {
+      "id": "400603ec-eb17-4e93-b3c6-24dcd0cab48b",
+      "name": "Kim Nam-hee",
+      "character": "Lee Young-do",
+      "profilePath": "/isgY8huXgnoW7AD97vKYlhJwAyI.jpg",
+      "order": 5
+    },
+    {
+      "id": "1bef04e2-c4eb-4ca5-bbbf-7f525b7e8fc1",
+      "name": "Kim Mi-kyeong",
+      "character": "Ma Suk-hee",
+      "profilePath": "/bJLkarteB2O0duu5ABvM5QFRuax.jpg",
+      "order": 6
+    },
+    {
+      "id": "69cdb671-9bf9-46ee-a46c-b1df59cfe1c9",
+      "name": "Kwak Si-yang",
+      "character": "Seo Joo-hyuk",
+      "profilePath": "/8fHGivHyjPxWjLFNlFratxey0To.jpg",
+      "order": 7
+    },
+    {
+      "id": "962fbbba-b3f7-47a4-a7a4-34171578fb41",
+      "name": "Heo Ji-na",
+      "character": "Ko Moon-young",
+      "profilePath": "/qAlevBKYdXjwiijFdhm0gduguaC.jpg",
+      "order": 8
+    },
+    {
+      "id": "a3908e89-9d88-4991-a6ec-6af7c3f521cd",
+      "name": "Lee Jun-hyeok",
+      "character": "Eom Ho-sik",
+      "profilePath": "/bgZrYipsty7yTMHEy4cmVmfWJzQ.jpg",
+      "order": 9
+    },
+    {
+      "id": "c97df215-6462-4495-9ecd-943ba1e8002a",
+      "name": "Cheon Yi-seul",
+      "character": "Oh Yeon-ju",
+      "profilePath": "/gaYMpVnVaAc86z8uNw0wvTAVYix.jpg",
+      "order": 10
+    },
+    {
+      "id": "652a79f8-eceb-4e57-a526-7b040452f2a7",
+      "name": "Song Ji-woo",
+      "character": "Song Hae-na",
+      "profilePath": "/oZ5mIHFptomfG7HiG1IUM2Yepo3.jpg",
+      "order": 11
+    }
+  ],
+  "tagline": "When love becomes familiar, is staying together enough?",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "createdBy": [
+    {
+      "id": 3605747,
+      "name": "Yoo Soo-ji",
+      "gender": 0,
+      "credit_id": "69a801c60bec12709166310a",
+      "profile_path": null,
+      "original_name": "Yoo Soo-ji"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 224146,
+      "name": "STUDIO Bom",
+      "logo_path": null
+    }
+  ],
+  "logoPath": "/rxCkzjbWlVnclpLDSsr69rVTBQE.png",
+  "watchlistCount": 1537,
+  "favouriteCount": 502,
+  "shareCount": 41,
+  "country": "KR",
+  "originalLanguage": "ko",
+  "trailerUrl": "https://www.youtube.com/watch?v=zp62ID0bbQM"
+}

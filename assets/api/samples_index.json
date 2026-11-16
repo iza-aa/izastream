@@ -1,0 +1,120 @@
+{
+  "source": "live CDP fetch on cleared Chrome session",
+  "captured_at": "2026-10-24T14:23:13.637Z",
+  "samples": [
+    {
+      "name": "movies",
+      "url": "/api/movies?page=1&limit=2",
+      "status": 200,
+      "bytes": 1362,
+      "top_level": [
+        "data",
+        "pagination"
+      ]
+    },
+    {
+      "name": "series",
+      "url": "/api/series?page=1&limit=2",
+      "status": 200,
+      "bytes": 1489,
+      "top_level": [
+        "data",
+        "pagination"
+      ]
+    },
+    {
+      "name": "genres",
+      "url": "/api/genres",
+      "status": 200,
+      "bytes": 3043,
+      "top_level": [
+        "data"
+      ]
+    },
+    {
+      "name": "plans",
+      "url": "/api/plans",
+      "status": 200,
+      "bytes": 3832,
+      "top_level": [
+        "data",
+        "availability",
+        "paymentGateway"
+      ]
+    },
+    {
+      "name": "browse_years",
+      "url": "/api/browse/years",
+      "status": 200,
+      "bytes": 514,
+      "top_level": [
+        "data"
+      ]
+    },
+    {
+      "name": "browse_countries",
+      "url": "/api/browse/countries",
+      "status": 200,
+      "bytes": 2469,
+      "top_level": [
+        "data"
+      ]
+    },
+    {
+      "name": "search_trending",
+      "url": "/api/search/trending",
+      "status": 200,
+      "bytes": 1016,
+      "top_level": [
+        "trending",
+        "trendingDetails"
+      ]
+    },
+    {
+      "name": "auth_me_unauth",
+      "url": "/api/auth/me",
+      "status": 401,
+      "bytes": 24,
+      "top_level": [
+        "error"
+      ]
+    },
+    {
+      "name": "homepage_modules",
+      "url": "/api/homepage/modules",
+      "status": 401,
+      "bytes": 24,
+      "top_level": [
+        "error"
+      ]
+    },
+    {
+      "name": "shorts_feed",
+      "url": "/api/shorts/feed?limit=2",
+      "status": 200,
+      "bytes": 1972,
+      "top_level": [
+        "data",
+        "nextCursor"
+      ]
+    },
+    {
+      "name": "plans_me",
+      "url": "/api/plans/me/subscription",
+      "status": 401,
+      "bytes": 24,
+      "top_level": [
+        "error"
+      ]
+    },
+    {
+      "name": "coins_balance",
+      "url": "/api/coins/balance",
+      "status": 401,
+      "bytes": 24,
+      "top_level": [
+        "error"
+      ]
+    }
+  ]
+}

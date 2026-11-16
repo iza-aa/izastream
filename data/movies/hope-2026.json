@@ -1,0 +1,403 @@
+{
+  "slug": "hope-2026",
+  "id": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+  "tmdbId": 1058424,
+  "imdbId": "tt27369017",
+  "title": "Hope",
+  "originalTitle": "호프",
+  "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+  "tagline": "Is this how it ends?",
+  "posterPath": "/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
+  "backdropPath": "/3KvGTuNX47Pdqlg9ossua2TFKrZ.jpg",
+  "logoPath": "/hJG3cSi9z40smOi4Fac07xIlAqZ.png",
+  "backdrops": [
+    "/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+    "/xBcKnWJHodUpvzUVIWTuNMnvEwl.jpg",
+    "/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
+    "/eDDDL1Pc5FDJjdSCB63MsMp1r80.jpg",
+    "/o1UvmHqE2fh0Z62wls5bdrNtBN2.jpg",
+    "/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg",
+    "/i0lipAm0VHFA3EH0CPV0s5LJMIE.jpg",
+    "/5MGFVXDYdcxs4H59f3YgZfEsqq4.jpg",
+    "/fpauQYAbvyIbkQXQzlkrzj3YzTI.jpg",
+    "/5FJIrIJSFYe2M8hVVcrUoIGmDb0.jpg"
+  ],
+  "releaseDate": "2026-07-15",
+  "runtime": 157,
+  "voteAverage": "7.20",
+  "popularity": null,
+  "popularityScore": 77495,
+  "originalLanguage": "ko",
+  "country": "KR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
+  "quality": "WEB-DL",
+  "director": "Na Hong-jin",
+  "directorTmdbId": 75915,
+  "directorProfilePath": "/hgOX3rbIDfE2JOFlWzrAMsNzWke.jpg",
+  "productionCompanies": [
+    {
+      "id": 196800,
+      "name": "Forged Films",
+      "logo_path": "/gmh5oiXNSKI2WoEnyz8dqV9ikwr.png"
+    },
+    {
+      "id": 91505,
+      "name": "Plus M Entertainment",
+      "logo_path": "/c6ggS6OO4tyEcgBQ7sHs67LDfES.png"
+    },
+    {
+      "id": 168283,
+      "name": "Westworld Story",
+      "logo_path": "/tkoix7ykf4WORjI3PNo5P4an67B.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2993,
+      "name": "police chief"
+    },
+    {
+      "id": 15090,
+      "name": "police officer"
+    },
+    {
+      "id": 181644,
+      "name": "hunted"
+    },
+    {
+      "id": 220235,
+      "name": "remote village"
+    },
+    {
+      "id": 273439,
+      "name": "aliens"
+    },
+    {
+      "id": 285398,
+      "name": "20th century"
+    },
+    {
+      "id": 291153,
+      "name": "grand"
+    },
+    {
+      "id": 325812,
+      "name": "exhilarated"
+    },
+    {
+      "id": 328072,
+      "name": "fight for survival"
+    },
+    {
+      "id": 363056,
+      "name": "unknown entity"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 266118,
+  "watchlistCount": 1109,
+  "favouriteCount": 365,
+  "shareCount": 157,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-13T11:32:35.748Z",
+  "updatedAt": "2026-10-13T11:34:54.358Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c0930f2f-2918-48c8-975e-fccdd4594ad8",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 68903,
+      "name": "Hwang Jung-min",
+      "character": "Go Bum-seok",
+      "profilePath": "/hKF1uh0iEfuZlBE79CXPw415qyn.jpg",
+      "order": 0
+    },
+    {
+      "id": "f33c3a83-0a15-45e5-9d68-1cf77850c950",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 127564,
+      "name": "Zo In-sung",
+      "character": "Go Sung-ki",
+      "profilePath": "/69gbyFI0ET0l0dyjKChlx1Zx269.jpg",
+      "order": 1
+    },
+    {
+      "id": "4c8225a2-1185-43f1-9e20-70478694208e",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 3194501,
+      "name": "Hoyeon",
+      "character": "Lim Sung-ae",
+      "profilePath": "/AfQFFyGeG9xOQnEJb1Ash1RomkP.jpg",
+      "order": 2
+    },
+    {
+      "id": "c117fc66-a326-4b79-89db-ce51974ebdc4",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 227454,
+      "name": "Alicia Vikander",
+      "character": "J'aur",
+      "profilePath": "/lZu8qiTwiQIN96cuptgqMCCaUtg.jpg",
+      "order": 3
+    },
+    {
+      "id": "cc013e6e-8855-43c1-a37d-03c55ec8e762",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 17288,
+      "name": "Michael Fassbender",
+      "character": "Ma'veyyo",
+      "profilePath": "/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg",
+      "order": 4
+    },
+    {
+      "id": "8b87d47d-e030-4e1c-a675-2de51b2d237f",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 1353827,
+      "name": "Taylor Russell",
+      "character": "Ai'dovor",
+      "profilePath": "/3kW1SvpzyOPPZHxbz7cgR7ilmtQ.jpg",
+      "order": 5
+    },
+    {
+      "id": "457332a8-599a-4a87-93ab-b6dd7de61eb8",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 1286537,
+      "name": "Cameron Britton",
+      "character": "Va'migere",
+      "profilePath": "/9HFxi8ZnBiby3AQ7tBOPDxXFkCT.jpg",
+      "order": 6
+    },
+    {
+      "id": "2fad9af0-7262-452e-8ced-f21f92c15955",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 564847,
+      "name": "Lee Sang-hee",
+      "character": "Nak-yeon",
+      "profilePath": "/wOYFSg20yGe48VFALqGAlrLjFHV.jpg",
+      "order": 7
+    },
+    {
+      "id": "88ddc61e-ecfb-4de4-8588-294039548924",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 2370779,
+      "name": "Um Mun-suk",
+      "character": "Yang-bae",
+      "profilePath": "/niV5OXu1cgKnlIU1Iamp1BVeCdT.jpg",
+      "order": 8
+    },
+    {
+      "id": "e65898d4-19c1-425c-a854-17e72e2ba3bb",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 1305674,
+      "name": "Im Hyun-sik",
+      "character": "Hae-sul",
+      "profilePath": "/syQMfT7qchOwKDMXc3vQB57v1ZL.jpg",
+      "order": 9
+    },
+    {
+      "id": "a556212c-0291-49f4-81ca-f9dd6e2d65b8",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 1731537,
+      "name": "Hwang Seok-jeong",
+      "character": "Head of Health Center",
+      "profilePath": "/MEhgvZBDS890lfCSeUwHxWL3Xh.jpg",
+      "order": 10
+    },
+    {
+      "id": "f0440b7e-0194-4d7b-80af-5c343b5c423a",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 3214227,
+      "name": "Han Woo-yeol",
+      "character": "Wan-seob",
+      "profilePath": "/xFZ7vSyvxcHDSuhg6G0MXpNsjcT.jpg",
+      "order": 11
+    },
+    {
+      "id": "01ac50eb-8c93-4f10-835b-a0d585ec9585",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 3963649,
+      "name": "Chyu Kwang-hyun",
+      "character": "Byeong-jun",
+      "profilePath": "/9wyb07dlA5IEGcmvHy61OLLvWuI.jpg",
+      "order": 12
+    },
+    {
+      "id": "994db321-667d-47f5-b491-3e11697b9771",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 6353520,
+      "name": "Oh Doo-won",
+      "character": "Heung-sik",
+      "profilePath": "/sF19as2CTDbmU64oUAbILH5KRn4.jpg",
+      "order": 13
+    },
+    {
+      "id": "c9d08ee3-aa9b-4507-a263-5ba947c08b0d",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 6353522,
+      "name": "Yoo Jun-hong",
+      "character": "Cheong-san",
+      "profilePath": "/n4EhRXDStUHZcShb97XmL36g9wA.jpg",
+      "order": 14
+    },
+    {
+      "id": "29cdbeac-c294-4edf-9cea-102d89098305",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 1497220,
+      "name": "Seo Beom-sik",
+      "character": "Hyun-ho",
+      "profilePath": "/48iqXOCqTXAI3ukXGqBURWqpW0v.jpg",
+      "order": 15
+    },
+    {
+      "id": "67a1c1f6-55f4-4c0d-b72a-0e934b52ed59",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 1953628,
+      "name": "Baek Seung-chul",
+      "character": "Gi-young",
+      "profilePath": "/6Juim4Wh5SPmyKd0bI1M4RUefEw.jpg",
+      "order": 16
+    },
+    {
+      "id": "77c9f781-4c5a-41a2-955d-938ed8eb7c7f",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 6370393,
+      "name": "Cho Ji-hoon",
+      "character": "Fisher",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "04f1f0ac-2920-493c-a146-211704ca3038",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 6370394,
+      "name": "Kwon Joong",
+      "character": "Fisher",
+      "profilePath": "/rIUCFp16MEx2M4spQvItO1lOhjn.jpg",
+      "order": 18
+    },
+    {
+      "id": "50a6d0bd-655c-4e5b-aaea-7e384b9f64e7",
+      "movieId": "859b0000-7e53-4bfc-9dc5-a45d8940adbd",
+      "tmdbPersonId": 1444366,
+      "name": "Kim Ki-cheon",
+      "character": "Gi-cheon",
+      "profilePath": "/34MkMMCXwN3GxQGBjmqmYUuXBpo.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://rebrand.ly/z8vmrk8/ID18",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://rebrand.ly/phwija/ID1X2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://rebrand.ly/ff3px2/ID808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://rebrand.ly/qq8889idlx",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://rebrand.ly/qq724idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://rebrand.ly/qq101idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://rebrand.ly/qq828idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://rebrand.ly/qq888betidlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://rebrand.ly/qq801idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://rebrand.ly/qq882idlxx",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": [],
+  "savedAt": "2026-10-28T06:13:09.454Z"
+}

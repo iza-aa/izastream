@@ -1,0 +1,344 @@
+{
+  "slug": "mr-mikamis-classroom-2025",
+  "id": "e5f68825-281d-43e4-95d8-c6aaf661fc77",
+  "title": "Mr. Mikami's Classroom",
+  "originalTitle": "御上先生",
+  "overview": "Takashi Mikami, a University of Tokyo graduate, joins the Ministry of Education to reform Japan's education but is disillusioned by its reality. Transferred to a private high school, he takes a stand against the authorities, using his role as a teacher to push for change.",
+  "tagline": "",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "createdBy": [
+    {
+      "id": 2717415,
+      "name": "Yohei Miyazaki",
+      "gender": 0,
+      "credit_id": "6773c1086234c1b46f616dc6",
+      "profile_path": null,
+      "original_name": "宮崎陽平"
+    },
+    {
+      "id": 3646896,
+      "name": "Sakura Komaki",
+      "gender": 2,
+      "credit_id": "6773c1145b8f422b6012a555",
+      "profile_path": null,
+      "original_name": "Sakura Komaki"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 1393,
+      "name": "TBS",
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png"
+    },
+    {
+      "id": 255389,
+      "name": "TBS ACT",
+      "logo_path": null
+    }
+  ],
+  "logoPath": null,
+  "posterPath": "/w4DL1npho9wGUQV2EsISW7GufaN.jpg",
+  "backdropPath": "/iEJWrB9RNJnfulm42gO1TnOEBMM.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 10,
+  "firstAirDate": "2025-01-19",
+  "status": "Ended",
+  "watchlistCount": 71,
+  "favouriteCount": 19,
+  "shareCount": 1,
+  "country": "JP",
+  "originalLanguage": "ja",
+  "voteAverage": "9.70",
+  "trailerUrl": null,
+  "seasons": [
+    {
+      "id": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 10
+    }
+  ],
+  "cast": [
+    {
+      "id": "6e3e6dc8-ed1d-47bd-b60b-e899c5e32cd6",
+      "name": "Tori Matsuzaka",
+      "character": "Takashi Mikami",
+      "profilePath": "/8JcMm3al3gySuay2EiW3CI19Apj.jpg",
+      "order": 0
+    },
+    {
+      "id": "4623f64b-4361-4777-a22f-afdcc3b48d17",
+      "name": "Riho Yoshioka",
+      "character": "Fumika Koreeda",
+      "profilePath": "/juQdzNvEVelHY2Su1Dznx1Ismq9.jpg",
+      "order": 1
+    },
+    {
+      "id": "f7627be9-5a95-4c01-a8ab-b02226c3bda5",
+      "name": "Masaki Okada",
+      "character": "Kyosuke Makino",
+      "profilePath": "/5pc3TDWVI4tDmpAo6tnnBKui6Kp.jpg",
+      "order": 2
+    },
+    {
+      "id": "c3c7e39e-2962-41f2-96e3-14329a73bf8d",
+      "name": "Aju Makita",
+      "character": "Aoi Tominaga",
+      "profilePath": "/1ytWQPDRZZVb8enAc0Kp4mRkbJL.jpg",
+      "order": 3
+    },
+    {
+      "id": "64a2e140-e546-4ba0-8945-c528615eb165",
+      "name": "Daiken Okudaira",
+      "character": "Takuto Kanzaki",
+      "profilePath": "/5hfyR0uNGFrzI1c2y2dpj6x7QwF.jpg",
+      "order": 4
+    },
+    {
+      "id": "13a5f109-7395-4481-a94e-775951b50aaa",
+      "name": "Airu Kubozuka",
+      "character": "Kenta Tugimoto",
+      "profilePath": "/fz5Ch43WxXPprYQ5PKaLsrus7O4.jpg",
+      "order": 5
+    },
+    {
+      "id": "b0f94eef-3597-4556-9da6-520cc9159133",
+      "name": "Sakura Kiryu",
+      "character": "Haruno Shiiba",
+      "profilePath": "/jS96RwYZLaPPhlvxKzJmb8ItURN.jpg",
+      "order": 6
+    },
+    {
+      "id": "d4b92026-ffca-4b75-976b-ab5f080bb6f3",
+      "name": "Yudai Toyoda",
+      "character": "Ryo Miyazaki",
+      "profilePath": "/1YEmSzVoYSNOwa0uP83gzNRLbDm.jpg",
+      "order": 7
+    },
+    {
+      "id": "173adeff-6b3f-41d5-bbc8-7228f6823318",
+      "name": "Juri Kosaka",
+      "character": "Tazune Shinonome",
+      "profilePath": "/cKed6XiulhXjWrNnKHfNdIE6MXm.jpg",
+      "order": 8
+    },
+    {
+      "id": "79fe0cf9-a239-40e5-99c9-63320182a400",
+      "name": "Akari Takaishi",
+      "character": "Haruka Chigira",
+      "profilePath": "/qQURz3QiOVFHOo2azpL5cQOJg3a.jpg",
+      "order": 9
+    },
+    {
+      "id": "1a4d6b8f-f17f-4b6b-8a93-02d14770cc4d",
+      "name": "Rintaro Hachimura",
+      "character": "Jin Tokumori",
+      "profilePath": "/mROU3bRZOjiBQwiCJKOg3LrEzon.jpg",
+      "order": 10
+    },
+    {
+      "id": "09dfa9a6-07e8-4480-8ae6-4a5dd24db0e5",
+      "name": "Coki Yamashita",
+      "character": "Ryuichiro Fuyuki",
+      "profilePath": "/j7C9n4VQo5hooPxjUssduvSCbcm.jpg",
+      "order": 11
+    },
+    {
+      "id": "1518d254-6774-4bf7-a2b9-657986baf788",
+      "name": "Omi Natsuki",
+      "character": "Kakeru Wakui",
+      "profilePath": "/VlV7HllueDvQv4Wkr8FNfTE3H0.jpg",
+      "order": 12
+    },
+    {
+      "id": "ec4f3d69-f0cf-4465-8f41-fe4a8e10710f",
+      "name": "Yuka Kageyama",
+      "character": "Yume Kurayoshi",
+      "profilePath": "/2MNMuoN6mkfiNawpaKU6vf0K7jL.jpg",
+      "order": 13
+    },
+    {
+      "id": "d21186fb-e17e-44c3-9b2b-1062c19ddcbf",
+      "name": "Riko Nagase",
+      "character": "Michiru Sakurai",
+      "profilePath": "/2s5maMFEVhjuQfHDucgjNmZwCiy.jpg",
+      "order": 14
+    },
+    {
+      "id": "4b9e1698-27ef-4baf-b450-20d8c06b3c4c",
+      "name": "Shoot Mori",
+      "character": "Junpei Anzai",
+      "profilePath": "/xI8glOtpHh62wevI7gV3a5xS5yb.jpg",
+      "order": 15
+    },
+    {
+      "id": "52f9768c-6a5e-4bfe-ba81-4c9d2bcfd0b9",
+      "name": "Seira Anzai",
+      "character": "Amane Oguri",
+      "profilePath": "/e6MEyetgKkNVtBrHvH6n1pSt3iv.jpg",
+      "order": 16
+    },
+    {
+      "id": "d4d3b99f-67ec-40b1-b049-60cb28da8a4e",
+      "name": "Nako Yabuki",
+      "character": "Nao Hareyama",
+      "profilePath": "/6RXdYxoSSxTmwVmDONyFf1JFOY0.jpg",
+      "order": 17
+    },
+    {
+      "id": "edfb3c31-cb58-428f-8553-4de8e5e3ddf8",
+      "name": "Shuto Imai",
+      "character": "Daiki Kagawa",
+      "profilePath": "/spvmBUaFMFXz58RHDVysvRHYfM2.jpg",
+      "order": 18
+    },
+    {
+      "id": "ce3f6c2f-aca3-425d-82ba-b1818018020b",
+      "name": "Marin Nishimoto",
+      "character": "Sakura Enomoto",
+      "profilePath": "/SJ7huHEZLsSqNMqV9ZKSNA2a35.jpg",
+      "order": 19
+    }
+  ],
+  "episodes": [
+    {
+      "id": "d5f788f9-3624-4498-aa44-cec160dc1155",
+      "seasonId": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Destruction",
+      "overview": "Bureaucrat Takashi Mikami takes over Class 3-2, challenging 29 students with a single question that sparks curiosity, conflict, and unexpected change…",
+      "runtime": 68,
+      "stillPath": "/A8OIAKwK9hnaspLxj6Xfi4KMi8B.jpg",
+      "airDate": "2025-01-19",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "1453f3bf-7cbb-4479-84bd-c127ae0fc722",
+      "seasonId": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Awareness",
+      "overview": "Kanzaki probes a murder linked to his old exposé while Mikami sparks student debate. Meanwhile, ministry plots and dark connections start to surface…",
+      "runtime": 59,
+      "stillPath": "/buCfMdsAmFnQ4ReGLcLiGQNDMdM.jpg",
+      "airDate": "2025-01-26",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "d104b582-3776-4d3c-87db-621b37f093bf",
+      "seasonId": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Beginning",
+      "overview": "While Mikami visits the murderer Yuzuru, Kanzaki digs for the truth. Mikami's past resurfaces with the arrival of a mysterious young man…",
+      "runtime": 46,
+      "stillPath": "/ysCoEQylido0RIRlq63PAAAscTm.jpg",
+      "airDate": "2025-02-02",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "aa3dbeff-fe1e-493a-ad5f-83cf525aeec8",
+      "seasonId": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Fate",
+      "overview": "As Saejima's link to the murder goes public, Kanzaki struggles with guilt. Students debate while cryptic faxes from Yamato Takeru stir tension.",
+      "runtime": 46,
+      "stillPath": "/mS19oRYRTnwKIWhZeUTqSiuV0iP.jpg",
+      "airDate": "2025-02-09",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "65e92ee4-381c-44eb-8498-a54439b6656a",
+      "seasonId": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Confidence",
+      "overview": "Kanzaki and Mikami meet Yuzuru and learn her painful past. Meanwhile, the class takes on a rigged business contest, defying authority with bold ideas.",
+      "runtime": 46,
+      "stillPath": "/dKDUvKHijWSSbKlQliM0acnOtwQ.jpg",
+      "airDate": "2025-02-16",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "86e32e2f-d0dc-4239-a138-c6a0e9de43f1",
+      "seasonId": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Confession",
+      "overview": "A tabloid exposes Mikami's brother, Kota. Pressed by students, Mikami finally opens up, with guidance from a colleague and the ghost of his brother.",
+      "runtime": 46,
+      "stillPath": "/rbaZsdgCDnQjNhyj2pnyWXUTqVI.jpg",
+      "airDate": "2025-02-23",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "4fdee9f4-6c7c-4f95-9f18-e9ab7fc9e89b",
+      "seasonId": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "name": "Delusion",
+      "overview": "A third Yamato Takeru fax shakes the school and ministry. Haruno's expulsion sparks debate as Mikami links her case to larger societal issues.",
+      "runtime": 46,
+      "stillPath": "/ryWH6b8k7aE3DQUI39fBZSi3ovX.jpg",
+      "airDate": "2025-03-02",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "aab39a6b-a5c0-4f92-b5eb-ce95065a5a3e",
+      "seasonId": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "name": "Strategy",
+      "overview": "Mikami is ordered back to the ministry, but students defend him. Investigations reveal a secret leaker, prompting a showdown with entrenched power.",
+      "runtime": 46,
+      "stillPath": "/yQxiZE34qfzxbnLC0qvuhFqJgdx.jpg",
+      "airDate": "2025-03-09",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "2f40861e-5702-4503-a13e-432b1b2c238c",
+      "seasonId": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "name": "Joker",
+      "overview": "Aoi Tominaga's hidden suffering emerges. As Kanzaki uncovers school corruption and special admissions, Yamato Takeru appears—but is he ally or enemy?",
+      "runtime": 46,
+      "stillPath": "/rEKoe6WkRjiHttlodP2DPI3cSai.jpg",
+      "airDate": "2025-03-16",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "98bec234-ddef-442e-958f-8037f0601265",
+      "seasonId": "583b74b7-903b-4f0f-8b84-326f6f92b25e",
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "name": "Puppets Can't Control You",
+      "overview": "Collusion between the school, politicians, and bureaucracy is exposed. Mikami and students fight to reclaim education as graduation draws near…",
+      "runtime": 67,
+      "stillPath": "/tkpumOwEtCnUEqSIoI2HCnU5CDV.jpg",
+      "airDate": "2025-03-23",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-28T06:11:38.907Z"
+}

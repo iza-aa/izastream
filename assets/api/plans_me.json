@@ -1,0 +1,9 @@
+{
+  "endpoint": "/api/plans/me/subscription",
+  "status": 401,
+  "content_type": "application/json",
+  "error": null,
+  "body": {
+    "error": "Unauthorized"
+  }
+}

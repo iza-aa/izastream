@@ -1,0 +1,371 @@
+{
+  "slug": "the-beauty-2026",
+  "id": "222505c9-25d8-48c0-9559-a9d1e1f299b4",
+  "title": "The Beauty",
+  "originalTitle": "The Beauty",
+  "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
+  "tagline": "One shot makes you hot.",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "createdBy": [
+    {
+      "id": 2183999,
+      "name": "Matthew Hodgson",
+      "gender": 0,
+      "credit_id": "66fade3ac59a2db32dd0217b",
+      "profile_path": null,
+      "original_name": "Matthew Hodgson"
+    },
+    {
+      "id": 52779,
+      "name": "Ryan Murphy",
+      "gender": 2,
+      "credit_id": "66fade49703e24dc7c1344d9",
+      "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg",
+      "original_name": "Ryan Murphy"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 236166,
+      "name": "20th Television",
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png"
+    },
+    {
+      "id": 19328,
+      "name": "Ryan Murphy Television",
+      "logo_path": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png"
+    }
+  ],
+  "logoPath": "/judIvuvOY18JAmtQ8MfFYvh93hl.png",
+  "posterPath": "/l6mtso50nTSvhYc3tc7xB7cYHmg.jpg",
+  "backdropPath": "/cX6dzeKsBTTXHoG3uQUuhQbqyvq.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 11,
+  "firstAirDate": "2026-01-21",
+  "status": "Returning Series",
+  "watchlistCount": 154,
+  "favouriteCount": 37,
+  "shareCount": 6,
+  "country": "US",
+  "originalLanguage": "en",
+  "voteAverage": "6.32",
+  "trailerUrl": "https://www.youtube.com/watch?v=5bDmmK15CNY",
+  "seasons": [
+    {
+      "id": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 11
+    }
+  ],
+  "cast": [
+    {
+      "id": "608a88aa-b6c4-4031-b791-da2fbaca3e42",
+      "name": "Evan Peters",
+      "character": "Cooper Madsen",
+      "profilePath": "/m9okq20ca2Md38i2ekJeKs3vTwa.jpg",
+      "order": 0
+    },
+    {
+      "id": "803b48ea-53a5-47dd-a21f-adc4982449ea",
+      "name": "Anthony Ramos",
+      "character": "Antonio / The Assassin",
+      "profilePath": "/gCeRfH3aetIpZwKxe8Wl4ZYcQg5.jpg",
+      "order": 1
+    },
+    {
+      "id": "4adf33ea-9ec6-44aa-ab52-57ac682d6ebd",
+      "name": "Jeremy Pope",
+      "character": "Jeremy",
+      "profilePath": "/9tPaJjP1EDu5eRAqCo2Ozlj3sHh.jpg",
+      "order": 2
+    },
+    {
+      "id": "de8eeb8f-1a6e-4a64-8078-2d38377ecd39",
+      "name": "Ashton Kutcher",
+      "character": "Byron Forst / The Corporation",
+      "profilePath": "/qJlM29jTncF9GpmE0PPVwbp5iPB.jpg",
+      "order": 3
+    },
+    {
+      "id": "6f8eb602-0a5e-4b9f-a794-d71e6a46e857",
+      "name": "Céline Menville",
+      "character": "Vincent Seraphine",
+      "profilePath": "/aZYWdBE0V6U3FwyKXcYtfxDiPEu.jpg",
+      "order": 501
+    },
+    {
+      "id": "8618fbf2-55c2-4fb2-9067-1d6daaa8300f",
+      "name": "John Carroll Lynch",
+      "character": "Meyer Williams",
+      "profilePath": "/lXlHxLK91U2l3yb77Tw32yEHJyT.jpg",
+      "order": 502
+    },
+    {
+      "id": "c6ac0ed3-3cee-47b7-b5ac-dda726a61527",
+      "name": "Jon Jon Briones",
+      "character": "Dr. Guy",
+      "profilePath": "/rMLbpS7OgWcrDMKcJxrfk54Lm56.jpg",
+      "order": 504
+    },
+    {
+      "id": "6937f6cd-5dea-4f8f-85e9-4a0101f62499",
+      "name": "Joey Pollari",
+      "character": "Mike (Post Beauty)",
+      "profilePath": "/vr5e0bM95A0zQ9FnQ3CS0wUPQlV.jpg",
+      "order": 518
+    },
+    {
+      "id": "d387e730-1560-46cd-97c5-83c99b594b80",
+      "name": "Ben Platt",
+      "character": "Manny",
+      "profilePath": "/bGZDEzMWopuLdAiHTUjKZ2HDNgY.jpg",
+      "order": 521
+    },
+    {
+      "id": "f91a0c0a-a824-4e02-9547-54c6d41d9c5f",
+      "name": "Isabella Rossellini",
+      "character": "Franny Forst",
+      "profilePath": "/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg",
+      "order": 527
+    },
+    {
+      "id": "5342fc5f-9d45-4d41-9a71-6f85ea992989",
+      "name": "Jessica Alexander",
+      "character": "Jordan Bennett (Post Beauty)",
+      "profilePath": "/5PsoZ9aN2cTXkWyhIALluBrbiWy.jpg",
+      "order": 533
+    },
+    {
+      "id": "dd95102d-d1f4-4b13-9161-da38be8d9478",
+      "name": "Rob Yang",
+      "character": "Ray",
+      "profilePath": "/rijNHjy45mhXw6TIhLesuDs4BY4.jpg",
+      "order": 535
+    },
+    {
+      "id": "e4a4403f-c3f9-487e-8672-d1dc14e0fea9",
+      "name": "Robert Harrington",
+      "character": "Jefferson",
+      "profilePath": "/LiduEIzeOXepkGv52Z91CE92mf.jpg",
+      "order": 558
+    },
+    {
+      "id": "213949c3-4e78-4949-a695-0727fed064ce",
+      "name": "Rebecca Hall",
+      "character": "Jordan Bennett",
+      "profilePath": "/coC58ANiDbqRIyle5zEl9QDektf.jpg",
+      "order": 561
+    },
+    {
+      "id": "ebc1fe42-7617-45d5-a712-a8ad1854b7f7",
+      "name": "Isaac Powell",
+      "character": "Manny (Post Beauty)",
+      "profilePath": "/mMxfFBjVe23LF7vaFUN7Cp1L5fG.jpg",
+      "order": 562
+    },
+    {
+      "id": "2f8d628b-7628-4ae9-be7a-35cc9c80f10b",
+      "name": "Patrick Luwis",
+      "character": "Meyer Williams (Post Beauty)",
+      "profilePath": "/cV3yJpQcVi7SPjUv2pNSkqRI0Lk.jpg",
+      "order": 565
+    },
+    {
+      "id": "7a7c7190-6693-46d5-8f4c-cbfa92a5f601",
+      "name": "Ari Graynor",
+      "character": "Dr. Diana Starling",
+      "profilePath": "/7qJNAda6uPPwIruMBmQ0u2PCkp9.jpg",
+      "order": 573
+    },
+    {
+      "id": "e53e0f08-aeaf-4832-ba74-f2ff3a0fd97f",
+      "name": "Brandon Gillard",
+      "character": "Gunther Forst (Post Beauty)",
+      "profilePath": "/6NlAJSUwKna1v4qapHVxBJ6aMiX.jpg",
+      "order": 575
+    },
+    {
+      "id": "27900f88-6e36-49de-b71a-70d42877ec77",
+      "name": "Hudson Barry",
+      "character": "Cooper Madsen (Post Beauty)",
+      "profilePath": "/kejhxylVNeCYmqt5Ns4O3GPx5Qg.jpg",
+      "order": 589
+    },
+    {
+      "id": "db12a466-f6d9-4395-a46e-8b5af340e432",
+      "name": "Chanel Stewart",
+      "character": "Claire",
+      "profilePath": "/niN84eEYhPVYP55Q2eE6vGXvfft.jpg",
+      "order": 601
+    }
+  ],
+  "episodes": [
+    {
+      "id": "7b0397e7-e6e0-431c-981d-b5abedb45132",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Beautiful Pilot",
+      "overview": "FBI agents Cooper Madsen and Jordan Bennett are assigned to investigate a shocking incident at a fashion show in Paris.",
+      "runtime": 46,
+      "stillPath": "/dQmY61WL1ql6Ecq8bzexkZTP8kR.jpg",
+      "airDate": "2026-01-21",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "5f838ca7-11fd-4356-a24e-f545d05bb3b1",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Beautiful Jordan",
+      "overview": "The discovery of a gruesome crime scene sends Cooper and Jordan to Venice, Italy.",
+      "runtime": 25,
+      "stillPath": "/xiG1THNuVP4Dk3I3RUJ4fdCXCNa.jpg",
+      "airDate": "2026-01-21",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "77537467-3872-4340-819d-488535a74959",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Beautiful Christopher Cross",
+      "overview": "An unlikely partnership is formed after The Assassin is sent to clean up a messy situation.",
+      "runtime": 44,
+      "stillPath": "/yVb3oftdZ1QcX5jlmpdlbUhLuuV.jpg",
+      "airDate": "2026-01-21",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "d0c66b55-3d8d-4501-901d-edddbc9bcbf9",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Beautiful Chimp Face",
+      "overview": "Cooper interviews an assistant editor following a disturbing event at the offices of a fashion magazine in New York City.",
+      "runtime": 38,
+      "stillPath": "/8ArL3RGvrOHpgsayOGipS4Qt18E.jpg",
+      "airDate": "2026-01-28",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "d4951f18-3d26-43c1-8ce4-a93bccd69367",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Beautiful Billionaires",
+      "overview": "A group of billionaires gather to make history.",
+      "runtime": 46,
+      "stillPath": "/cb7yagjevLu45SSqUz2wUrMuuC4.jpg",
+      "airDate": "2026-02-04",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "8659921a-2f26-446a-a38d-8ba4dbca4f24",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Beautiful Patient Zero",
+      "overview": "A team of scientists stumble upon a life-changing secret.",
+      "runtime": 52,
+      "stillPath": "/9JU0g7gyS6W1LZOvm3fjE1xZEoV.jpg",
+      "airDate": "2026-02-11",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "378a4ac1-ee43-4df7-aeba-572fe4deeaa1",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "name": "Beautiful Living Rooms",
+      "overview": "A desperate family is forced to make a difficult decision.",
+      "runtime": 44,
+      "stillPath": "/ggiLtS4E53D026ZrqCBKuDIJt4t.jpg",
+      "airDate": "2026-02-19",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "5f9e2d33-363b-45ad-abb3-b2aa37a2b986",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "name": "Beautiful Brothers",
+      "overview": "The Corporation's master plan intensifies.",
+      "runtime": 35,
+      "stillPath": "/u28gYOXcLegDMkhnjNyRQwj7Nng.jpg",
+      "airDate": "2026-02-25",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "c6ca1576-2a98-449f-975f-9e3d46c73e97",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "name": "Beautiful Evolution",
+      "overview": "Cooper and Jordan form an alliance with a mysterious person.",
+      "runtime": 28,
+      "stillPath": "/dV47VlMH2XdkvHMGjt5HdH67Zgo.jpg",
+      "airDate": "2026-02-25",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "e539fbb8-095e-47c4-b7fe-f620f02cb6e3",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "name": "Beautiful Beauty Day",
+      "overview": "A hot new trend goes viral.",
+      "runtime": 31,
+      "stillPath": "/1i9HQMkKHMwUoVgbwTwyJ8tPcXw.jpg",
+      "airDate": "2026-03-04",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "cef64740-f0dd-419f-abe5-257511e4a7ef",
+      "seasonId": "13ce43f2-a862-49fb-a738-5638d30320ba",
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "name": "Beautiful Betrayal",
+      "overview": "Beauty has a price.",
+      "runtime": 39,
+      "stillPath": "/8ZYpjtv6aQZbxAgDa3hq2OMWVzA.jpg",
+      "airDate": "2026-03-04",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-28T06:12:27.651Z"
+}

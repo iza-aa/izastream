@@ -1,0 +1,104 @@
+{
+  "slug": "little-krishna-2009",
+  "id": "2cabb94f-b9f2-4bac-9aba-652fa7cb3a86",
+  "title": "Little Krishna",
+  "originalTitle": "Little Krishna",
+  "overview": "Little Krishna, the darling of Vrindavan, defends the land of peace and tranquility from the evil king Kamsa. Kamsa sends ferocious demons to end Krishna, but Krishna is born to be a savoir and crushes them with heroic poise.",
+  "tagline": null,
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "efd8c60d-d42f-4a91-8d99-6dbe8aec41f2",
+      "tmdbId": 10762,
+      "name": "Kids",
+      "slug": "kids",
+      "createdAt": "2026-04-02T16:37:02.488Z"
+    }
+  ],
+  "createdBy": [],
+  "productionCompanies": [
+    {
+      "id": 7294,
+      "name": "Reliance Entertainment",
+      "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png"
+    }
+  ],
+  "logoPath": "/ujHcXYTUeqmLVo6eKWFByGtOoSE.png",
+  "posterPath": "/pCrB6WALVxDbpZ7MoPGuq9UNdk5.jpg",
+  "backdropPath": "/idDwGeqYtvMDD4yLQGK28j95eoH.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "firstAirDate": "2009-05-11",
+  "status": "Ended",
+  "watchlistCount": 12,
+  "favouriteCount": 5,
+  "shareCount": 0,
+  "country": "IN",
+  "originalLanguage": "hi",
+  "voteAverage": "5.70",
+  "trailerUrl": "https://www.youtube.com/watch?v=S64j0o9qB6w",
+  "seasons": [
+    {
+      "id": "b9301cff-515c-4102-88bc-8302141ddf37",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 3
+    }
+  ],
+  "cast": [],
+  "episodes": [
+    {
+      "id": "11e1c457-620a-43cf-a76d-71033f8ac877",
+      "seasonId": "b9301cff-515c-4102-88bc-8302141ddf37",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "The Darling Of Vrindavan",
+      "overview": "Little Krishna, the darling of Vrindavan, grew up as the naughty prankster. But he was also the bravest of all, crushing mighty demons like Putana & Trinavarta sent by Kamsa. Indra's false pride got shattered when Little Krishna lifted the entire Govardhan hill. Showcasing breathtaking underwater fight sequences, Krishna won over Kaliya in an epic battle emerging as the true savior of Vrindavan.",
+      "runtime": 84,
+      "stillPath": "/uCv5mNBiM6wmmYzoGjBUlj7hnew.jpg",
+      "airDate": "2009-05-11",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "9684b088-0695-41e4-bf29-c0187167165a",
+      "seasonId": "b9301cff-515c-4102-88bc-8302141ddf37",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "The Legendary Warrior",
+      "overview": "Vrindavan is constantly threatened by the malice of evil king Kamsa who, in order to eliminate Little Krishna, kept sending ferocious demons, like the giant Pralambasura, scorching Fire demon, powerful Aristasura and mighty Bakasura. Little Krishna while engaging in mischief and pranks with Radha also emerged as the legendary warrior, conquering all the demons in epic heroic combats.",
+      "runtime": 80,
+      "stillPath": "/uibg90Qq36gJaIbnahfpqfXv2UX.jpg",
+      "airDate": "2009-05-12",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "7cd6a3bc-e0ee-47b5-a0e3-2a2fbd5db959",
+      "seasonId": "b9301cff-515c-4102-88bc-8302141ddf37",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "The Wondrous Feats",
+      "overview": "The threat was not over for Vrindavan as Kamsa, kept sending his demons in the shape of poisonous Aghasura, dreadful Vatsasura, wicked Vyomasura & the cruel Dhenukasura to get rid of Little Krishna, but they all had to face defeat against the gallant valor. Little Krishna finally displayed himself as the reincarnation of Lord Vishnu, the controller of the entire universe.",
+      "runtime": 94,
+      "stillPath": "/1c2wAXv3TAJpnocjjymoezCVJLH.jpg",
+      "airDate": "2009-05-13",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-27T17:34:41.127Z"
+}

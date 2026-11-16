@@ -1,0 +1,16 @@
+services:
+  idlix-web:
+    build: .
+    container_name: idlix-web
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+      - HEADLESS=1
+      # Kredensial akun master (otomatis dinikmati oleh seluruh penonton tanpa login):
+      - IDLIX_MASTER_USER=${IDLIX_MASTER_USER:-}
+      - IDLIX_MASTER_PASS=${IDLIX_MASTER_PASS:-}
+    volumes:
+      - ./data:/app/data

@@ -1,0 +1,583 @@
+{
+  "slug": "tell-me-lies-2022",
+  "id": "99f9e382-bd96-4144-a7af-4548be0a76f4",
+  "title": "Tell Me Lies",
+  "originalTitle": "Tell Me Lies",
+  "overview": "When Lucy Albright and Stephen DeMarco meet at college, they are at that formative age when seemingly mundane choices lead the way to irrevocable consequences. They quickly fall into an addictive entanglement that will permanently alter not only their lives, but the lives of everyone around them.",
+  "tagline": "You never forget your worst.",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "createdBy": [
+    {
+      "id": 1023389,
+      "name": "Meaghan Oppenheimer",
+      "gender": 1,
+      "credit_id": "66b27641305a6e1056e53a62",
+      "profile_path": "/b5jt0M5eIS271Vnb0fA7XTuycry.jpg",
+      "original_name": "Meaghan Oppenheimer"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 141895,
+      "name": "Belletrist Productions",
+      "logo_path": null
+    },
+    {
+      "id": 136004,
+      "name": "Rebelle Media",
+      "logo_path": "/lrPjWcHsVrJr2CkjSNHnAxnIQg2.png"
+    },
+    {
+      "id": 97177,
+      "name": "Refinery29",
+      "logo_path": "/wynYTLsUa2LZeDIxRWHn0aMvFjA.png"
+    },
+    {
+      "id": 236166,
+      "name": "20th Television",
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png"
+    },
+    {
+      "id": 286139,
+      "name": "Mega Mix",
+      "logo_path": null
+    },
+    {
+      "id": 286142,
+      "name": "Moppy Productions",
+      "logo_path": null
+    }
+  ],
+  "logoPath": "/6kBhF019Z371LLnwOPNEPmwauOp.png",
+  "posterPath": "/hhWpEUZINrago2YgKDyv5Hb8yrU.jpg",
+  "backdropPath": "/uVe8fWCLMqIhgMTI9maIUncfZAP.jpg",
+  "numberOfSeasons": 3,
+  "numberOfEpisodes": 26,
+  "firstAirDate": "2022-09-07",
+  "status": "Ended",
+  "watchlistCount": 82,
+  "favouriteCount": 24,
+  "shareCount": 0,
+  "country": "US",
+  "originalLanguage": "en",
+  "voteAverage": "7.50",
+  "trailerUrl": "https://www.youtube.com/watch?v=NDTn-G9Ys1M",
+  "seasons": [
+    {
+      "id": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 10
+    },
+    {
+      "id": "3c95fba4-3a18-4676-8fb1-c64b3b2ecacc",
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "episodeCount": 8
+    },
+    {
+      "id": "c0da8780-645b-4b01-acfc-00119eface80",
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "episodeCount": 8
+    }
+  ],
+  "cast": [
+    {
+      "id": "c6ac14e2-b9cd-4763-b260-cb51d32e4583",
+      "name": "Grace Van Patten",
+      "character": "Lucy Albright",
+      "profilePath": "/2I5bXUYmjX10OzIqTpYhUrBwNkg.jpg",
+      "order": 0
+    },
+    {
+      "id": "302d86c0-21d0-4b4d-919a-13ed73ade2b4",
+      "name": "Jackson White",
+      "character": "Stephen DeMarco",
+      "profilePath": "/dXTJFTkti0mpssgsYvMa00W59jB.jpg",
+      "order": 1
+    },
+    {
+      "id": "0455aa6f-bd51-4436-97e1-f04ca2ed400f",
+      "name": "Catherine Missal",
+      "character": "Bree",
+      "profilePath": "/1ZTS2f5CELHKPBeUlX7KnSLiPyC.jpg",
+      "order": 2
+    },
+    {
+      "id": "8370b43c-977c-404d-8a8a-f3a96f3bed3a",
+      "name": "Alicia Crowder",
+      "character": "Diana",
+      "profilePath": "/e6CWcuzhi9LZeMYfm3XyIeAKk6N.jpg",
+      "order": 3
+    },
+    {
+      "id": "a1dcfd52-a5db-406d-8dfa-2bbc8baade83",
+      "name": "Tom Ellis",
+      "character": "Oliver",
+      "profilePath": "/zhjIyqpk5bsYgxsh5bSeS6VZtHm.jpg",
+      "order": 4
+    },
+    {
+      "id": "3f359c44-29ae-450e-b6df-6bdcc5eaeeee",
+      "name": "Sonia Mena",
+      "character": "Pippa",
+      "profilePath": "/5CV4KB1crGMLmhNUIvpFz3yExtp.jpg",
+      "order": 5
+    },
+    {
+      "id": "4376a201-c1b4-42be-8729-2df2db569f4a",
+      "name": "Branden Cook",
+      "character": "Evan",
+      "profilePath": "/xnjgiv2KQjcBQX6lkDTr88L00XO.jpg",
+      "order": 6
+    },
+    {
+      "id": "94977514-4e53-47a4-8b24-b66eb44b68e4",
+      "name": "Benjamin Wadsworth",
+      "character": "Drew",
+      "profilePath": "/smNGeAw59reyB1btRIQOaxgbLZ4.jpg",
+      "order": 7
+    },
+    {
+      "id": "61533bb5-62b5-4505-8d40-ca2df05c9adf",
+      "name": "Spencer House",
+      "character": "Wrigley",
+      "profilePath": "/h7MvmWQgQsaYicZ0gdTzbgnvblO.jpg",
+      "order": 8
+    },
+    {
+      "id": "c13d6a00-e403-4aa4-8fa8-98f229ec231e",
+      "name": "Lily McInerny",
+      "character": "Macy",
+      "profilePath": "/sVRD6yp1E4g2QLYKtZLbSxRSDXI.jpg",
+      "order": 500
+    },
+    {
+      "id": "c24e7d09-2500-4be3-946d-08fb8475a8c3",
+      "name": "Stephen Jared",
+      "character": "Daniel DeMarco",
+      "profilePath": "/fRbhA8HbCBhsPhu4OLB7QJfUDm6.jpg",
+      "order": 501
+    },
+    {
+      "id": "2c008338-0539-411d-880f-ef513701c890",
+      "name": "Savanna Gann",
+      "character": "Susie",
+      "profilePath": "/blu3hhK2fV0XOjcm4Lq7d7LsG0Z.jpg",
+      "order": 502
+    },
+    {
+      "id": "d4259d59-d80e-4eeb-8abb-21f23763e373",
+      "name": "Kennedy McMann",
+      "character": "Georgia",
+      "profilePath": "/scGCUwEaIMdDWJuLRydcRbjDQmi.jpg",
+      "order": 503
+    },
+    {
+      "id": "9cdd4fbd-77b0-4dbf-bd61-b75d0a9c427f",
+      "name": "Eric Jepson",
+      "character": "Guy",
+      "profilePath": "/odKwJwAeJiFBuZiuTeCNPR9bLpE.jpg",
+      "order": 504
+    },
+    {
+      "id": "0953b3a6-4080-4533-a5a8-84384a99a218",
+      "name": "Tyriq Withers",
+      "character": "Tim",
+      "profilePath": "/mAKuI4myaqzM0y8rPNItWXCDo3h.jpg",
+      "order": 505
+    },
+    {
+      "id": "fde0fb23-4aff-4cd3-9650-2d9fd337027e",
+      "name": "Taia Sophia",
+      "character": "Caitie",
+      "profilePath": "/n2ZebR9inYQRIjqqpvUDq4VGl2e.jpg",
+      "order": 506
+    },
+    {
+      "id": "c6a13698-803c-4397-878b-b3e653b59a4a",
+      "name": "Natalee Linez",
+      "character": "Lydia Montgomery",
+      "profilePath": "/5Lw6AR9zglwbbkMMPeJtayxWM5H.jpg",
+      "order": 507
+    },
+    {
+      "id": "241fe5d9-c034-4399-a492-996b2fb8f922",
+      "name": "Thomas Doherty",
+      "character": "Leo",
+      "profilePath": "/z3vAK2Z2W4hh3QZRGyGcz9g2TaQ.jpg",
+      "order": 508
+    },
+    {
+      "id": "05e14163-5c4b-42fc-bf9a-1ab3f7853306",
+      "name": "Sarah Kopkin",
+      "character": "Sorority Girl (uncredited)",
+      "profilePath": "/msu3hDv9832H2cO44XfcKOOWEyV.jpg",
+      "order": 509
+    },
+    {
+      "id": "9063e945-0899-42b8-aab0-13861c4695bf",
+      "name": "Jessica Capshaw",
+      "character": "CJ Albright",
+      "profilePath": "/ePpM2GPe5OXjtyesq06J3S1WCB.jpg",
+      "order": 510
+    }
+  ],
+  "episodes": [
+    {
+      "id": "d749f1a3-f9c4-4462-a27b-0ad2c478102d",
+      "seasonId": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Lightning Strikes",
+      "overview": "Lucy starts her freshman year at Baird College, where an unexpected turn of events during Welcome Week flips her life upside down.",
+      "runtime": 51,
+      "stillPath": "/ugRy0VreoZkvkZ6EhJttaLaNJkR.jpg",
+      "airDate": "2022-09-07",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "011bb2ac-4625-47fb-9414-05e8e86ba56b",
+      "seasonId": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Hot-Blooded",
+      "overview": "Lucy struggles with the aftermath of Welcome Week and goes on her first date with Stephen.",
+      "runtime": 46,
+      "stillPath": "/lFDCM9dwujNiIsPrpYyh1y4c3N3.jpg",
+      "airDate": "2022-09-07",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "ff0ccaae-5798-4f86-aea6-0ee322f4b346",
+      "seasonId": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "We Don't Touch, We Collide",
+      "overview": "Pressure on Wrigley intensifies, bleeding into his relationship with Pippa. Lucy and Stephen discuss exclusivity.",
+      "runtime": 53,
+      "stillPath": "/4UShJjwokQnV1u7rRpd2BGG3EfZ.jpg",
+      "airDate": "2022-09-07",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "b2f5bfdd-1e63-47a1-870f-c1aca7da1b21",
+      "seasonId": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Take Off Your Pants and Jacket",
+      "overview": "Bree attempts to lose her virginity. Stephen goes to New York City for the weekend, while Lucy tries to figure out where their relationship stands.",
+      "runtime": 54,
+      "stillPath": "/pq1sofKRPJsw7J4ondPyIwH3mU.jpg",
+      "airDate": "2022-09-14",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "8ba1307d-8391-4856-ab0c-81d7fa3c12da",
+      "seasonId": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Merry F*cking Christmas",
+      "overview": "Lucy and Stephen go home for winter break and deal with family tension. Meanwhile, Lucy uncovers a secret.",
+      "runtime": 51,
+      "stillPath": "/c1XoZoQq9IrenpkX9zgUSRvMlZG.jpg",
+      "airDate": "2022-09-21",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "6b007349-9037-4731-a2e3-86fcf3d80757",
+      "seasonId": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "And I'm Sorry If I Dissed You",
+      "overview": "Lucy confronts Stephen about what she found at Macy's memorial.",
+      "runtime": 49,
+      "stillPath": "/fEYnFd7WQTJ1ovUIPysReoSd6h2.jpg",
+      "airDate": "2022-09-28",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "b3cd4e44-be9f-432a-b373-08768dabc8c4",
+      "seasonId": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "name": "Castle on a Cloud",
+      "overview": "The group goes to Evan's lake house to celebrate his 21st birthday.",
+      "runtime": 49,
+      "stillPath": "/7UaNYmTNYBxSga75gij7QGhrgIG.jpg",
+      "airDate": "2022-10-05",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "afd46356-db98-4cb4-80f8-59d587200d52",
+      "seasonId": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "name": "Don't Go Wasting Your Emotion",
+      "overview": "Pippa has complicated feelings after Wrigley meets her dad. Lucy makes a decision to protect Stephen.",
+      "runtime": 50,
+      "stillPath": "/6Q3FX7Ye4E6zE1yELGKMUvZs0nS.jpg",
+      "airDate": "2022-10-12",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "fe39186f-fd8f-4f80-8b83-82ef99b4756c",
+      "seasonId": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "name": "Sugar, We're Going Down Swinging",
+      "overview": "Things between Wrigley and Drew come to a head. Lucy is forced to confront her past.",
+      "runtime": 47,
+      "stillPath": "/7ZwvbqZb5XGpfogy2r0TuPH2ZdD.jpg",
+      "airDate": "2022-10-19",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "16697766-52e5-4181-b663-ebb83ecbe027",
+      "seasonId": "9461cc71-4a42-4e13-b11c-f2e2afb1edd0",
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "name": "Bedrooms of Our Friends",
+      "overview": "Lucy and Stephen go to the final party of the semester and everything changes.",
+      "runtime": 54,
+      "stillPath": "/21N3QojigtDSn1TtIxqlcibLzqK.jpg",
+      "airDate": "2022-10-26",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "f1369831-155c-48c7-8ddf-6459a75c3bf7",
+      "seasonId": "3c95fba4-3a18-4676-8fb1-c64b3b2ecacc",
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "name": "You Got a Reaction, Didn't You?",
+      "overview": "Lucy's back at Baird College for sophomore year, ready to start fresh and leave past mistakes behind her.",
+      "runtime": 52,
+      "stillPath": "/fJ0MHr2VlK0fIHyJYAGRXazvORL.jpg",
+      "airDate": "2024-09-04",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "daeb1124-4042-4b88-9582-7ed68dfe0bc5",
+      "seasonId": "3c95fba4-3a18-4676-8fb1-c64b3b2ecacc",
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "name": "I Shall Now Perform a 180 Flip-Flop",
+      "overview": "Bree's birthday takes an unexpected turn. Lucy's excited to focus on someone new.",
+      "runtime": 50,
+      "stillPath": "/x9kVm7H9pAXcxHwJoJHhlTdb7aa.jpg",
+      "airDate": "2024-09-04",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "a65e186e-2e97-4f26-aa9c-e0cf067092fb",
+      "seasonId": "3c95fba4-3a18-4676-8fb1-c64b3b2ecacc",
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "name": "I Can See Right Through Myself",
+      "overview": "Stephen baits Lucy as she attempts to rid herself of him once and for all. Wrigley and Pippa finally talk.",
+      "runtime": 50,
+      "stillPath": "/7J32pdH6iRLDpJShL3yWcG8Xftj.jpg",
+      "airDate": "2024-09-11",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "f7201c9f-d1eb-4ba7-a40e-ddd20e29aa76",
+      "seasonId": "3c95fba4-3a18-4676-8fb1-c64b3b2ecacc",
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "name": "Just Stable Children",
+      "overview": "As the LSAT looms, Stephen's anxiety grows. Wrigley and Evan have a guy's night out.",
+      "runtime": 56,
+      "stillPath": "/y27gtIdD87L0HwKZ5L69zfgj7uw.jpg",
+      "airDate": "2024-09-18",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "c175c2b9-55cf-484e-b6b5-32796111ca9b",
+      "seasonId": "3c95fba4-3a18-4676-8fb1-c64b3b2ecacc",
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "name": "Evil, Ornery, Scandalous, and Evil",
+      "overview": "Lydia and Stephen's sister, Sadie, both visit campus for Halloween. Lucy and Pippa learn something unsettling.",
+      "runtime": 53,
+      "stillPath": "/4L6vrPYz7HYcbbmXgSIrOyk0ThP.jpg",
+      "airDate": "2024-09-25",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "33c3d1c9-1ba0-4ee6-8d11-6bae4720df2c",
+      "seasonId": "3c95fba4-3a18-4676-8fb1-c64b3b2ecacc",
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "name": "Do Your Dirty Words Come Out to Play?",
+      "overview": "When a snowed-in campus forces everyone to Evan's for Thanksgiving, tensions run high.",
+      "runtime": 56,
+      "stillPath": "/tnPFhfZi4Oq7iThxj2o9Lq3CIw2.jpg",
+      "airDate": "2024-10-02",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "9b92c5b8-6eee-4f5c-a5fc-3182d08a871b",
+      "seasonId": "3c95fba4-3a18-4676-8fb1-c64b3b2ecacc",
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "name": "I'm Not Drowning Fast Enough",
+      "overview": "Lucy and Bree attend a professor's Christmas party. Lucy makes a rash decision that affects Pippa.",
+      "runtime": 59,
+      "stillPath": "/yfK8IxKK4sNFYajcQz1EHXo8bNl.jpg",
+      "airDate": "2024-10-09",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "c1424312-79d8-4a46-98aa-f33397a5e1b8",
+      "seasonId": "3c95fba4-3a18-4676-8fb1-c64b3b2ecacc",
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "name": "Don't Struggle Like That, or I Will Only Love You More",
+      "overview": "End of semester Christmas celebrations change everything for everyone – again.",
+      "runtime": 65,
+      "stillPath": "/n9AzxHOqSx6FFC5P2k3iYCKyrdX.jpg",
+      "airDate": "2024-10-16",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "c7ec356f-d2a7-4e34-b01c-61c80b5b2bec",
+      "seasonId": "c0da8780-645b-4b01-acfc-00119eface80",
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "name": "You F*cked It, Friend",
+      "overview": "Back at Baird College for spring semester, Lucy and Stephen promise things will be different this time.",
+      "runtime": 59,
+      "stillPath": "/4m6y3N0RdVJof8pKETrzziQOBpg.jpg",
+      "airDate": "2026-01-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "84f61d08-6d66-4fb3-928d-9bd96c906129",
+      "seasonId": "c0da8780-645b-4b01-acfc-00119eface80",
+      "seasonNumber": 3,
+      "episodeNumber": 2,
+      "name": "We Can't Help It If We Are a Problem",
+      "overview": "Bree encounters an unexpected reunion. Stephen gives Lucy an ultimatum.",
+      "runtime": 48,
+      "stillPath": "/mmXvR0u3bWksfh5oxNjC2puCs5T.jpg",
+      "airDate": "2026-01-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "99f31454-a58f-40ea-9f32-2bc7481fd006",
+      "seasonId": "c0da8780-645b-4b01-acfc-00119eface80",
+      "seasonNumber": 3,
+      "episodeNumber": 3,
+      "name": "Repent",
+      "overview": "The Puswas attend an Apres-Ski frat party. Lucy tries to switch her focus away from Stephen.",
+      "runtime": 47,
+      "stillPath": "/gYrg05WYdkhZsMH6bNSVIKVQhpr.jpg",
+      "airDate": "2026-01-13",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "77c44e86-4dfc-4ef3-bab2-85a82aacef34",
+      "seasonId": "c0da8780-645b-4b01-acfc-00119eface80",
+      "seasonNumber": 3,
+      "episodeNumber": 4,
+      "name": "Fix Me Up, Girl",
+      "overview": "A surprising setback sends Diana back into Stephen's orbit. Lucy seeks advice from an unlikely person.",
+      "runtime": 53,
+      "stillPath": "/4s4QWCZBCNl6qKhBla867tMgUG5.jpg",
+      "airDate": "2026-01-20",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "7461d502-6a09-4524-a67c-bf0c32804bdc",
+      "seasonId": "c0da8780-645b-4b01-acfc-00119eface80",
+      "seasonNumber": 3,
+      "episodeNumber": 5,
+      "name": "I'd Like to Hold Her Head Under Water",
+      "overview": "Gossip spirals around Lucy at a pool party. Bree seeks answers from her childhood.",
+      "runtime": 55,
+      "stillPath": "/AhAJw8PdmU18qf6hwwi5vXQaICF.jpg",
+      "airDate": "2026-01-27",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "3085cb78-ce16-4ec3-a4af-3394f7036550",
+      "seasonId": "c0da8780-645b-4b01-acfc-00119eface80",
+      "seasonNumber": 3,
+      "episodeNumber": 6,
+      "name": "I Don't Cry When I'm Sad Anymore",
+      "overview": "Everyone goes goth for Valentine’s Day. Stephen introduces a new friend.",
+      "runtime": 54,
+      "stillPath": "/9SIJ9MXeFeBpETw0zRDrlO6uAQn.jpg",
+      "airDate": "2026-02-03",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "9d4b9532-975e-4359-b32f-ecc92a3b6d4f",
+      "seasonId": "c0da8780-645b-4b01-acfc-00119eface80",
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "name": "I Will Promise Not to Sting",
+      "overview": "Relationships are tested at Bree's photography exhibition. Lucy devises a plan to finally put rumors to rest.",
+      "runtime": 61,
+      "stillPath": "/aVasAvM6MJyw5SZrPV4R3J3OZpq.jpg",
+      "airDate": "2026-02-10",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "a90a21bb-9d51-4bcb-bae1-83021f179c9a",
+      "seasonId": "c0da8780-645b-4b01-acfc-00119eface80",
+      "seasonNumber": 3,
+      "episodeNumber": 8,
+      "name": "Are You Happy Now, That I'm on My Knees?",
+      "overview": "A scandal erupts at Baird College. When shocking truths come to light, consequences follow for everyone.",
+      "runtime": 67,
+      "stillPath": "/sBFSqLaqHYYqViCzqtPinP12fFF.jpg",
+      "airDate": "2026-02-17",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-28T07:03:13.456Z"
+}

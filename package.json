@@ -1,0 +1,33 @@
+{
+  "name": "izastream",
+  "version": "1.0.0",
+  "private": true,
+  "description": "izastream — Streaming film dan serial TV HD subtitle bahasa Indonesia",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "playback:refresh": "node scripts/refresh-playback.mjs",
+    "sync": "node scripts/sync-catalog.mjs"
+  },
+  "dependencies": {
+    "hls.js": "^1.7.3",
+    "moment": "^2.30.1",
+    "next": "16.4.2",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.9.0"
+  },
+  "_reconstruction": {
+    "next": "16.4.2 (observed: window.next.version)",
+    "react": "19.3.0 (observed literal in vendor chunks; inferred React runtime)",
+    "tailwindcss": "^4.1.0 (compiled utility CSS captured; not required to build this demo)",
+    "moment": "^2.30.1 (detected by symbol/string frequency; exact version not observable in production bundle)",
+    "note": "Only Next.js and React versions were directly observable in the captured bytes. Other versions are conservative estimates."
+  }
+}

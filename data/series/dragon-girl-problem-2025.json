@@ -1,0 +1,238 @@
+{
+  "slug": "dragon-girl-problem-2025",
+  "id": "6d31e2d6-0960-4995-b3c6-0a6c05f32b60",
+  "title": "Dragon Girl Problem",
+  "originalTitle": "용한소녀",
+  "overview": "Kim Yongman, the daughter of the Dragon King, escapes from the Dragon Palace and flees to the human world to avoid an arranged marriage. Determined to succeed, she enrolls in high school with one clear goal: to become the top student in her class. But the current number-one student, Shim Haesu—who happens to sit right next to her—doesn’t seem too happy about the arrival of a new rival… Even though they’re both far too busy focusing on their studies, the two somehow keep getting tangled up with each other!",
+  "tagline": null,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "createdBy": [],
+  "productionCompanies": [
+    {
+      "id": 157809,
+      "name": "LAFTEL",
+      "logo_path": "/grdqGRW2xdneaU9oi9rFkg6rRtC.png"
+    }
+  ],
+  "logoPath": "/7sSpWSBRRcuworHLW9uUHwGFupl.png",
+  "posterPath": "/8n3G0bOC5rg5eRrxYXEHhxxPDEM.jpg",
+  "backdropPath": "/v3JRZ8ETqRnKVE0fNKyUskVgFYA.jpg",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 10,
+  "firstAirDate": "2025-10-03",
+  "status": "Ended",
+  "watchlistCount": 20,
+  "favouriteCount": 15,
+  "shareCount": 0,
+  "country": "KR",
+  "originalLanguage": "ko",
+  "voteAverage": "7.00",
+  "trailerUrl": null,
+  "seasons": [
+    {
+      "id": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "episodeCount": 10
+    }
+  ],
+  "cast": [
+    {
+      "id": "1cdfb5d0-465c-429d-a3bd-ad9e5c4b3a1c",
+      "name": "Yeo Min-jeong",
+      "character": "Kim Yong-man (voice)",
+      "profilePath": "/z0md4YTeDz89BzCk2Kamko3Ak2x.jpg",
+      "order": 0
+    },
+    {
+      "id": "be38374f-bdf3-4b14-a0ab-f0277073cf4d",
+      "name": "Kim Min-ju",
+      "character": "Shim Haesoo (voice)",
+      "profilePath": "/e2Xfk09GaRE73U8oozf7aQaLkZY.jpg",
+      "order": 1
+    },
+    {
+      "id": "cdf6d7f3-8893-4879-b95f-6b8cd293e43e",
+      "name": "Hwang Dong-hyun",
+      "character": "Na Moo-jin (voice)",
+      "profilePath": "/7ifojJaTW1KSeiRF9YaAyh162vx.jpg",
+      "order": 2
+    },
+    {
+      "id": "a90a2bda-3d92-4f3a-a567-fb52d3b7bc7f",
+      "name": "Hwang Chang-yung",
+      "character": "Min Moon-oh (voice)",
+      "profilePath": "/6SlUgdqSGTfbvoesJIFOHOePR4V.jpg",
+      "order": 3
+    },
+    {
+      "id": "d27efe22-5891-448e-b728-d64683471eb6",
+      "name": "Jang Ye-na",
+      "character": "Song Jin-woo (voice)",
+      "profilePath": "/5M7mDAgNFdAdMI8iJV0IyJI1wUl.jpg",
+      "order": 4
+    }
+  ],
+  "episodes": [
+    {
+      "id": "3e2fea5a-ae76-4d39-b82c-8d7ca08db82d",
+      "seasonId": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "name": "Episode 1",
+      "overview": null,
+      "runtime": 15,
+      "stillPath": "/dsLOspSfzdIgmK1iOiiWirX4j8s.jpg",
+      "airDate": "2025-10-03",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "688bd7be-2e1c-49bb-ad74-3b0934f459ae",
+      "seasonId": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "name": "Episode 2",
+      "overview": null,
+      "runtime": 15,
+      "stillPath": "/dsLOspSfzdIgmK1iOiiWirX4j8s.jpg",
+      "airDate": "2025-10-03",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "75aeabde-358d-429a-85fb-b479764e4d72",
+      "seasonId": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "name": "Episode 3",
+      "overview": null,
+      "runtime": 14,
+      "stillPath": "/dsLOspSfzdIgmK1iOiiWirX4j8s.jpg",
+      "airDate": "2025-10-03",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "da6a6f54-a80d-4d43-b9fc-5fda7ed32497",
+      "seasonId": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "episodeNumber": 4,
+      "name": "Episode 4",
+      "overview": null,
+      "runtime": 17,
+      "stillPath": "/dsLOspSfzdIgmK1iOiiWirX4j8s.jpg",
+      "airDate": "2025-10-10",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "f4585f11-0599-46d1-be8e-88ab5ed57209",
+      "seasonId": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "episodeNumber": 5,
+      "name": "Episode 5",
+      "overview": null,
+      "runtime": 16,
+      "stillPath": "/dsLOspSfzdIgmK1iOiiWirX4j8s.jpg",
+      "airDate": "2025-10-17",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "3f5e792a-4d3d-4fcf-b1bc-0beb7a083273",
+      "seasonId": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "name": "Episode 6",
+      "overview": null,
+      "runtime": 14,
+      "stillPath": "/dsLOspSfzdIgmK1iOiiWirX4j8s.jpg",
+      "airDate": "2025-10-24",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "8762c838-d794-4f1f-bc75-d8621b77b439",
+      "seasonId": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "name": "Episode 7",
+      "overview": null,
+      "runtime": 13,
+      "stillPath": "/dsLOspSfzdIgmK1iOiiWirX4j8s.jpg",
+      "airDate": "2025-10-31",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "558924d4-a382-4b1c-9845-a7b75556db22",
+      "seasonId": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "name": "Episode 8",
+      "overview": null,
+      "runtime": 13,
+      "stillPath": "/dsLOspSfzdIgmK1iOiiWirX4j8s.jpg",
+      "airDate": "2025-11-07",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "78e18c63-aa8a-4b3d-8e86-83125df3852e",
+      "seasonId": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "episodeNumber": 9,
+      "name": "Episode 9",
+      "overview": null,
+      "runtime": 12,
+      "stillPath": "/dsLOspSfzdIgmK1iOiiWirX4j8s.jpg",
+      "airDate": "2025-11-14",
+      "hasVideo": true,
+      "isPublished": true
+    },
+    {
+      "id": "dd7c27f3-7b09-4740-a58e-2a9b3c641bd6",
+      "seasonId": "63852a13-7bd3-414b-9531-15e6a47f5599",
+      "seasonNumber": 1,
+      "episodeNumber": 10,
+      "name": "Episode 10",
+      "overview": null,
+      "runtime": 15,
+      "stillPath": "/dsLOspSfzdIgmK1iOiiWirX4j8s.jpg",
+      "airDate": "2025-11-21",
+      "hasVideo": true,
+      "isPublished": true
+    }
+  ],
+  "savedAt": "2026-10-27T17:42:47.896Z"
+}

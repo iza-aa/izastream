@@ -1,0 +1,460 @@
+{
+  "slug": "wreck-it-ralph-2012",
+  "id": "47435958-3ec0-4e30-8eba-eab0df571267",
+  "tmdbId": 82690,
+  "imdbId": "tt1772341",
+  "title": "Wreck-It Ralph",
+  "originalTitle": "Wreck-It Ralph",
+  "overview": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope von Schweetz who has learned that her game is faced with a dire threat that could affect the entire arcade, and one that Ralph may have inadvertently started.",
+  "tagline": "When the game is over, the fun begins.",
+  "posterPath": "/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
+  "backdropPath": "/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
+  "logoPath": "/7MJtrxiALfZ46QnJZSC8Aap7CFW.png",
+  "backdrops": [
+    "/stBOYHepvs3Rn4ZBGPNhyX5taAu.jpg",
+    "/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg",
+    "/mSTKBEz1saXIUVDrAaU1YX6IBn7.jpg",
+    "/riKyo85CmJU48ZaSMLpuDNTZHuE.jpg",
+    "/ziC23LkMYj8gToQQYQGWSGJCLNF.jpg",
+    "/1DnN37Vorg52G5TH2Azp9WsG9xe.jpg",
+    "/akcCRTGbU6udq5Xp0ERgpT7R56X.jpg",
+    "/5mcLqrEqJmwuZqOoVUqgnzu4Rcs.jpg",
+    "/qRHmoykCrkmZjWrayuuToKMsUh7.jpg",
+    "/qcMXyDpnNHN7hxPPEjAKR7CoAtb.jpg"
+  ],
+  "releaseDate": "2012-11-01",
+  "runtime": 101,
+  "voteAverage": "7.36",
+  "popularity": "16.522",
+  "popularityScore": 926,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=IFIbQSjTopM",
+  "quality": "BLU-RAY",
+  "director": "Rich Moore",
+  "directorTmdbId": 165787,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 6125,
+      "name": "Walt Disney Animation Studios",
+      "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 282,
+      "name": "video game"
+    },
+    {
+      "id": 825,
+      "name": "support group"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 6733,
+      "name": "bullying"
+    },
+    {
+      "id": 11124,
+      "name": "medal"
+    },
+    {
+      "id": 3977,
+      "name": "product placement"
+    },
+    {
+      "id": 9890,
+      "name": "jail"
+    },
+    {
+      "id": 10039,
+      "name": "racing"
+    },
+    {
+      "id": 10547,
+      "name": "arcade"
+    },
+    {
+      "id": 155023,
+      "name": "self esteem"
+    },
+    {
+      "id": 158023,
+      "name": "curiosity"
+    },
+    {
+      "id": 162936,
+      "name": "precocious child"
+    },
+    {
+      "id": 179430,
+      "name": "aftercreditsstinger"
+    },
+    {
+      "id": 179431,
+      "name": "duringcreditsstinger"
+    },
+    {
+      "id": 185859,
+      "name": "first person shooter"
+    },
+    {
+      "id": 185861,
+      "name": "glitch"
+    },
+    {
+      "id": 185863,
+      "name": "carefree"
+    },
+    {
+      "id": 185876,
+      "name": "interrupted wedding"
+    },
+    {
+      "id": 185880,
+      "name": "social reject"
+    },
+    {
+      "id": 186356,
+      "name": "escape from jail"
+    },
+    {
+      "id": 226370,
+      "name": "hoverboard"
+    },
+    {
+      "id": 278823,
+      "name": "3d animation"
+    },
+    {
+      "id": 281585,
+      "name": "inspirational"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325832,
+      "name": "joyful"
+    }
+  ],
+  "importedBy": "b07dbd00-847c-4b35-838a-56f4ed0ad1f4",
+  "viewCount": 14987,
+  "watchlistCount": 55,
+  "favouriteCount": 42,
+  "shareCount": 10,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-04-02T13:55:50.978Z",
+  "updatedAt": "2026-04-02T13:55:50.978Z",
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6d56c381-e394-490a-a22c-f1566c0e0411",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 4764,
+      "name": "John C. Reilly",
+      "character": "Wreck-It Ralph (voice)",
+      "profilePath": "/t5JQHmEKrMuusfgLaOEAwjOookT.jpg",
+      "order": 0
+    },
+    {
+      "id": "0ecda5e1-db85-4a57-a4ae-fea376ba1dfb",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 7404,
+      "name": "Sarah Silverman",
+      "character": "Vanellope von Schweetz (voice)",
+      "profilePath": "/g5G711XyVokJm2RoItpkaHa8mkQ.jpg",
+      "order": 1
+    },
+    {
+      "id": "7e0bf486-7601-46aa-8576-154ca2ab9162",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 58737,
+      "name": "Jack McBrayer",
+      "character": "Fix-It Felix Jr. (voice)",
+      "profilePath": "/cbr26xDPEiOuYQxggtCPbu5xhDU.jpg",
+      "order": 2
+    },
+    {
+      "id": "69d2e3c1-ce67-42b1-9aad-1a0ca1b13d25",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 43775,
+      "name": "Jane Lynch",
+      "character": "Sergeant Tamora Jean Calhoun (voice)",
+      "profilePath": "/nye6D17ZfCHQzr9faYZYyz1CPsZ.jpg",
+      "order": 3
+    },
+    {
+      "id": "61aab614-d37f-48e4-a4d1-23f75e60530c",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 21088,
+      "name": "Alan Tudyk",
+      "character": "King Candy / Turbo (voice)",
+      "profilePath": "/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg",
+      "order": 4
+    },
+    {
+      "id": "7a6dd8de-3576-492b-a34c-b5576964ebb0",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 165787,
+      "name": "Rich Moore",
+      "character": "Sour Bill / Zangief (voice)",
+      "profilePath": "/oIAmkZf9LuJuMqR8zSchoD3FJT8.jpg",
+      "order": 5
+    },
+    {
+      "id": "d021a8a5-4845-4f0c-a68d-029683a39c41",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 1223658,
+      "name": "Raymond S. Persi",
+      "character": "Gene / Zombie (voice)",
+      "profilePath": "/37HnYfTAHhtAmWdl4NlVAOR7vCW.jpg",
+      "order": 6
+    },
+    {
+      "id": "655a5332-9cd4-4025-a3f1-4bde94c548c0",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 125167,
+      "name": "Mindy Kaling",
+      "character": "Taffyta Muttonfudge (voice)",
+      "profilePath": "/m4veWEp9TEDallTZRobb7MLkd9K.jpg",
+      "order": 7
+    },
+    {
+      "id": "6b30ccac-64d4-45c3-9cad-c69e3b7e4f38",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 95002,
+      "name": "Jamie Elman",
+      "character": "Rancis Fluggerbutter (voice)",
+      "profilePath": "/4Hk6F52hG8cHpHXn8dGctCEU80i.jpg",
+      "order": 8
+    },
+    {
+      "id": "0c95eafa-1848-40df-a7a6-4a735e219469",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 76245,
+      "name": "Adam Carolla",
+      "character": "Wynnchel (voice)",
+      "profilePath": "/47k9w6HRLnGeU0gVtMeTPJs3ief.jpg",
+      "order": 9
+    },
+    {
+      "id": "212220fa-845e-4f46-b08a-4b8a65fe6929",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 52117,
+      "name": "Horatio Sanz",
+      "character": "Duncan (voice)",
+      "profilePath": "/ckz64bpwFOhF1tMu1klDk5AT9Ck.jpg",
+      "order": 10
+    },
+    {
+      "id": "48a47f7c-69c1-4b4c-9d3b-5a79e9d21cbe",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 108253,
+      "name": "Katie Lowes",
+      "character": "Candlehead (voice)",
+      "profilePath": "/5IqYIFfcZu7V4wrbzZKVtpkmuSw.jpg",
+      "order": 11
+    },
+    {
+      "id": "df6c4296-afaf-464e-99c9-40912682e602",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 137194,
+      "name": "Kevin Deters",
+      "character": "Clyde (voice)",
+      "profilePath": "/jqckHYZdIFneYyjYdNrYgC3xJLj.jpg",
+      "order": 12
+    },
+    {
+      "id": "92e62c9b-00ee-4b8c-8298-bc37a62b497f",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 18977,
+      "name": "Ed O'Neill",
+      "character": "Mr. Litwak (voice)",
+      "profilePath": "/4RrxSno3UEtGWuMm4yJoaFzckpL.jpg",
+      "order": 13
+    },
+    {
+      "id": "efb1bed8-0684-4bb9-ad25-8d87644d0ea6",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 567562,
+      "name": "Phil Johnston",
+      "character": "Surge Protector (voice)",
+      "profilePath": "/vJyBKru0qi8YKiTPSxaZj08mkOS.jpg",
+      "order": 14
+    },
+    {
+      "id": "fc14640c-598f-43c1-af3e-2b5417d5bc03",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 75038,
+      "name": "Roger Craig Smith",
+      "character": "Sonic the Hedgehog (voice)",
+      "profilePath": "/6oE356GbRHAf91Llw7LDpvsAf5L.jpg",
+      "order": 15
+    },
+    {
+      "id": "b5fb0450-061d-41a9-a415-8bf4e24d3b02",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 352,
+      "name": "Dennis Haysbert",
+      "character": "General Hologram (voice)",
+      "profilePath": "/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg",
+      "order": 16
+    },
+    {
+      "id": "3ebf669a-db4e-4b65-aa35-bc6302cbce6d",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 3202,
+      "name": "Edie McClurg",
+      "character": "Mary (voice)",
+      "profilePath": "/vU5y4hZe1WhqDAPP5jEfrWv4Iaq.jpg",
+      "order": 17
+    },
+    {
+      "id": "b57e29a9-f9aa-4172-b3b7-dc0673ec42d6",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 84495,
+      "name": "Jess Harnell",
+      "character": "Don (voice)",
+      "profilePath": "/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg",
+      "order": 18
+    },
+    {
+      "id": "0c2dd2d8-bf6b-42e2-b1e3-2de3c4e5c4d0",
+      "movieId": "47435958-3ec0-4e30-8eba-eab0df571267",
+      "tmdbPersonId": 21131,
+      "name": "Joe Lo Truglio",
+      "character": "Markowski (voice)",
+      "profilePath": "/lHqOK2LJWGtHACUOqhApFrs38eV.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://rebrand.ly/z8vmrk8/ID18",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://rebrand.ly/phwija/ID1X2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://rebrand.ly/ff3px2/ID808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://rebrand.ly/qq8889idlx",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://rebrand.ly/qq724idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://rebrand.ly/qq101idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://rebrand.ly/qq828idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://rebrand.ly/qq888betidlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://rebrand.ly/qq801idlxx",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://rebrand.ly/qq882idlxx",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": [],
+  "savedAt": "2026-10-26T11:38:18.672Z"
+}

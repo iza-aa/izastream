@@ -1,0 +1,517 @@
+[
+  {
+    "id": "bd23b45f-7222-4b02-8dff-66be9369d655",
+    "title": null,
+    "src": "/uploads/shorts/2026/09/3bc16a01-94ee-4c7c-a2a7-a1eb16d8dc91.mp4",
+    "poster": "/uploads/shorts/2026/09/3bc16a01-94ee-4c7c-a2a7-a1eb16d8dc91.webp",
+    "durationSec": 15,
+    "width": 1080,
+    "height": 1920,
+    "seasonId": null,
+    "isSpoiler": false,
+    "publishedAt": "2026-09-05T02:58:19.254Z",
+    "viewCount": 2216,
+    "likeCount": 14,
+    "commentCount": 0,
+    "shareCount": 2,
+    "author": {
+      "username": "jakiro",
+      "displayName": "jakiro",
+      "avatar": "/uploads/avatar/b07dbd00-847c-4b35-838a-56f4ed0ad1f4-69e55117.webp",
+      "role": "admin",
+      "points": 309,
+      "planId": "d1d4556e-0729-4551-a57c-803c881995e2",
+      "eventBadges": [
+        {
+          "category": "worldcup2026",
+          "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+          "finalRank": 456,
+          "totalPicks": 42,
+          "correctCount": 23
+        }
+      ]
+    },
+    "tags": [
+      {
+        "type": "tv_series",
+        "id": "e96a9f19-cad1-443c-8700-e8e957e706b4",
+        "title": "Game of Thrones",
+        "slug": "game-of-thrones-2011",
+        "posterPath": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "year": "2011",
+        "season": {
+          "id": "bce3dd72-5322-4621-a806-7172a4e6cd19",
+          "seasonNumber": 4,
+          "name": "Season 4"
+        }
+      },
+      {
+        "type": "tv_series",
+        "id": "040cb92f-b5cf-4979-b583-d2b540d91866",
+        "title": "A Knight of the Seven Kingdoms",
+        "slug": "a-knight-of-the-seven-kingdoms-2026",
+        "posterPath": "/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+        "year": "2026",
+        "season": {
+          "id": "e2587780-eb0e-4394-8798-bd7ef64ea993",
+          "seasonNumber": 1,
+          "name": "Season 1"
+        }
+      }
+    ],
+    "viewerLiked": false
+  },
+  {
+    "id": "7c168062-2870-4b16-bfa2-a05eb6094574",
+    "title": null,
+    "src": "/uploads/shorts/2026/09/428bb4e4-c81b-4aae-83f0-d4d8abf552e6.mp4",
+    "poster": "/uploads/shorts/2026/09/428bb4e4-c81b-4aae-83f0-d4d8abf552e6.webp",
+    "durationSec": 26,
+    "width": 1080,
+    "height": 1440,
+    "seasonId": null,
+    "isSpoiler": false,
+    "publishedAt": "2026-09-06T10:13:38.274Z",
+    "viewCount": 2007,
+    "likeCount": 8,
+    "commentCount": 0,
+    "shareCount": 0,
+    "author": {
+      "username": "jakiro",
+      "displayName": "jakiro",
+      "avatar": "/uploads/avatar/b07dbd00-847c-4b35-838a-56f4ed0ad1f4-69e55117.webp",
+      "role": "admin",
+      "points": 309,
+      "planId": "d1d4556e-0729-4551-a57c-803c881995e2",
+      "eventBadges": [
+        {
+          "category": "worldcup2026",
+          "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+          "finalRank": 456,
+          "totalPicks": 42,
+          "correctCount": 23
+        }
+      ]
+    },
+    "tags": [
+      {
+        "type": "tv_series",
+        "id": "f81870b1-426a-4a39-afc5-0e1fb7cd4bbd",
+        "title": "Breaking Bad",
+        "slug": "breaking-bad-2008",
+        "posterPath": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+        "year": "2008",
+        "season": {
+          "id": "d417d469-d4f2-489d-8981-bc7a33ddc56f",
+          "seasonNumber": 4,
+          "name": "Season 4"
+        }
+      }
+    ],
+    "viewerLiked": false
+  },
+  {
+    "id": "a8737178-a271-4709-a422-23df92237ba0",
+    "title": "Fist Bump 👎",
+    "src": "/uploads/shorts/2026/09/6fa8886a-2dea-4196-874e-5a459e625ec4.mp4",
+    "poster": "/uploads/shorts/2026/09/6fa8886a-2dea-4196-874e-5a459e625ec4.webp",
+    "durationSec": 55,
+    "width": 1280,
+    "height": 720,
+    "seasonId": null,
+    "isSpoiler": false,
+    "publishedAt": "2026-09-29T16:56:45.249Z",
+    "viewCount": 2337,
+    "likeCount": 22,
+    "commentCount": 0,
+    "shareCount": 3,
+    "author": {
+      "username": "devandraarvano",
+      "displayName": "Vannooo",
+      "avatar": "/uploads/avatar/e260217f-0d2f-45fb-ad83-a857305ecba1-e9dbd17e-b6a8-48f8-8079-954bb8f2c489.webp",
+      "role": "user",
+      "points": 2,
+      "planId": null,
+      "eventBadges": [
+        {
+          "category": "worldcup2026",
+          "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+          "finalRank": 2942,
+          "totalPicks": 30,
+          "correctCount": 17
+        }
+      ]
+    },
+    "tags": [
+      {
+        "type": "movie",
+        "id": "1dbfe41d-7400-44a1-a125-b36b5a4657c5",
+        "title": "Project Hail Mary",
+        "slug": "project-hail-mary-2026",
+        "posterPath": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "year": "2026",
+        "season": null
+      }
+    ],
+    "viewerLiked": false
+  },
+  {
+    "id": "d9df6fc1-683d-4fb4-95ef-87e810f9b5b0",
+    "title": null,
+    "src": "/uploads/shorts/2026/09/fb0f3661-1ef3-425f-bce7-ffcb972aecc0.mp4",
+    "poster": "/uploads/shorts/2026/09/fb0f3661-1ef3-425f-bce7-ffcb972aecc0.webp",
+    "durationSec": 19,
+    "width": 1024,
+    "height": 576,
+    "seasonId": null,
+    "isSpoiler": false,
+    "publishedAt": "2026-09-13T07:23:52.486Z",
+    "viewCount": 2494,
+    "likeCount": 8,
+    "commentCount": 0,
+    "shareCount": 1,
+    "author": {
+      "username": "devandraarvano",
+      "displayName": "Vannooo",
+      "avatar": "/uploads/avatar/e260217f-0d2f-45fb-ad83-a857305ecba1-e9dbd17e-b6a8-48f8-8079-954bb8f2c489.webp",
+      "role": "user",
+      "points": 2,
+      "planId": null,
+      "eventBadges": [
+        {
+          "category": "worldcup2026",
+          "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+          "finalRank": 2942,
+          "totalPicks": 30,
+          "correctCount": 17
+        }
+      ]
+    },
+    "tags": [
+      {
+        "type": "tv_series",
+        "id": "9f3f9346-d6bc-41b0-9568-136f71c1b34c",
+        "title": "Obi-Wan Kenobi",
+        "slug": "obi-wan-kenobi-2022",
+        "posterPath": "/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg",
+        "year": "2022",
+        "season": null
+      }
+    ],
+    "viewerLiked": false
+  },
+  {
+    "id": "0d76c8a1-2ca1-4b5b-91da-03078e53af3e",
+    "title": null,
+    "src": "/uploads/shorts/2026/09/c251989b-7f7e-4aa9-b20f-23c03a130e2f.mp4",
+    "poster": "/uploads/shorts/2026/09/c251989b-7f7e-4aa9-b20f-23c03a130e2f.webp",
+    "durationSec": 60,
+    "width": 1080,
+    "height": 1920,
+    "seasonId": null,
+    "isSpoiler": false,
+    "publishedAt": "2026-09-07T07:26:15.462Z",
+    "viewCount": 1758,
+    "likeCount": 9,
+    "commentCount": 0,
+    "shareCount": 2,
+    "author": {
+      "username": "jakiro",
+      "displayName": "jakiro",
+      "avatar": "/uploads/avatar/b07dbd00-847c-4b35-838a-56f4ed0ad1f4-69e55117.webp",
+      "role": "admin",
+      "points": 309,
+      "planId": "d1d4556e-0729-4551-a57c-803c881995e2",
+      "eventBadges": [
+        {
+          "category": "worldcup2026",
+          "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+          "finalRank": 456,
+          "totalPicks": 42,
+          "correctCount": 23
+        }
+      ]
+    },
+    "tags": [
+      {
+        "type": "tv_series",
+        "id": "e96a9f19-cad1-443c-8700-e8e957e706b4",
+        "title": "Game of Thrones",
+        "slug": "game-of-thrones-2011",
+        "posterPath": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "year": "2011",
+        "season": {
+          "id": "b43eb31c-a09b-4643-8dcd-55743786026a",
+          "seasonNumber": 1,
+          "name": "Season 1"
+        }
+      }
+    ],
+    "viewerLiked": false
+  },
+  {
+    "id": "4b8df55c-83cf-4b15-93b6-b00788bc8c1c",
+    "title": null,
+    "src": "/uploads/shorts/2026/09/a3a2ee3d-fb86-415e-b193-98b92daa908c.mp4",
+    "poster": "/uploads/shorts/2026/09/a3a2ee3d-fb86-415e-b193-98b92daa908c.webp",
+    "durationSec": 57,
+    "width": 1080,
+    "height": 1920,
+    "seasonId": null,
+    "isSpoiler": false,
+    "publishedAt": "2026-09-10T09:04:56.850Z",
+    "viewCount": 1905,
+    "likeCount": 6,
+    "commentCount": 0,
+    "shareCount": 2,
+    "author": {
+      "username": "jakiro",
+      "displayName": "jakiro",
+      "avatar": "/uploads/avatar/b07dbd00-847c-4b35-838a-56f4ed0ad1f4-69e55117.webp",
+      "role": "admin",
+      "points": 309,
+      "planId": "d1d4556e-0729-4551-a57c-803c881995e2",
+      "eventBadges": [
+        {
+          "category": "worldcup2026",
+          "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+          "finalRank": 456,
+          "totalPicks": 42,
+          "correctCount": 23
+        }
+      ]
+    },
+    "tags": [
+      {
+        "type": "movie",
+        "id": "f6d14c7f-0821-493e-9c55-50b5bbdccbc9",
+        "title": "John Wick: Chapter 3 - Parabellum",
+        "slug": "john-wick-chapter-3-parabellum-2019",
+        "posterPath": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+        "year": "2019",
+        "season": null
+      }
+    ],
+    "viewerLiked": false
+  },
+  {
+    "id": "adfd21fc-4b6e-4a49-9215-8a0751102963",
+    "title": null,
+    "src": "/uploads/shorts/2026/09/980678d6-6eb9-4f94-8310-76087d7d276c.mp4",
+    "poster": "/uploads/shorts/2026/09/980678d6-6eb9-4f94-8310-76087d7d276c.webp",
+    "durationSec": 13,
+    "width": 1462,
+    "height": 720,
+    "seasonId": null,
+    "isSpoiler": false,
+    "publishedAt": "2026-09-29T16:56:42.885Z",
+    "viewCount": 1048,
+    "likeCount": 2,
+    "commentCount": 0,
+    "shareCount": 0,
+    "author": {
+      "username": "devandraarvano",
+      "displayName": "Vannooo",
+      "avatar": "/uploads/avatar/e260217f-0d2f-45fb-ad83-a857305ecba1-e9dbd17e-b6a8-48f8-8079-954bb8f2c489.webp",
+      "role": "user",
+      "points": 2,
+      "planId": null,
+      "eventBadges": [
+        {
+          "category": "worldcup2026",
+          "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+          "finalRank": 2942,
+          "totalPicks": 30,
+          "correctCount": 17
+        }
+      ]
+    },
+    "tags": [
+      {
+        "type": "movie",
+        "id": "8c6df1d5-f136-4e0b-b8c7-915b5c472ae1",
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "slug": "star-wars-episode-iii-revenge-of-the-sith-2005",
+        "posterPath": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+        "year": "2005",
+        "season": null
+      },
+      {
+        "type": "tv_series",
+        "id": "9f3f9346-d6bc-41b0-9568-136f71c1b34c",
+        "title": "Obi-Wan Kenobi",
+        "slug": "obi-wan-kenobi-2022",
+        "posterPath": "/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg",
+        "year": "2022",
+        "season": null
+      }
+    ],
+    "viewerLiked": false
+  },
+  {
+    "id": "d7391520-97af-4af9-b1cd-3f1481a9fde1",
+    "title": "I'm The Only One Who Knows That",
+    "src": "/uploads/shorts/2026/09/1d788050-4f67-4b24-b08a-b24d67897aca.mp4",
+    "poster": "/uploads/shorts/2026/09/1d788050-4f67-4b24-b08a-b24d67897aca.webp",
+    "durationSec": 59,
+    "width": 576,
+    "height": 1024,
+    "seasonId": null,
+    "isSpoiler": false,
+    "publishedAt": "2026-09-30T14:59:38.595Z",
+    "viewCount": 2983,
+    "likeCount": 10,
+    "commentCount": 1,
+    "shareCount": 0,
+    "author": {
+      "username": "devandraarvano",
+      "displayName": "Vannooo",
+      "avatar": "/uploads/avatar/e260217f-0d2f-45fb-ad83-a857305ecba1-e9dbd17e-b6a8-48f8-8079-954bb8f2c489.webp",
+      "role": "user",
+      "points": 2,
+      "planId": null,
+      "eventBadges": [
+        {
+          "category": "worldcup2026",
+          "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+          "finalRank": 2942,
+          "totalPicks": 30,
+          "correctCount": 17
+        }
+      ]
+    },
+    "tags": [
+      {
+        "type": "movie",
+        "id": "67e8fa1d-19a9-49e8-8f41-a5bab9bd7211",
+        "title": "Avengers: Infinity War",
+        "slug": "avengers-infinity-war-2018",
+        "posterPath": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "year": "2018",
+        "season": null
+      },
+      {
+        "type": "movie",
+        "id": "f82f4ef3-18b2-4d08-826a-264e38af4570",
+        "title": "Avengers: Endgame",
+        "slug": "avengers-endgame-2019",
+        "posterPath": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+        "year": "2019",
+        "season": null
+      },
+      {
+        "type": "movie",
+        "id": "edbd5a92-5ccf-460c-828c-f5c82b440473",
+        "title": "Eternals",
+        "slug": "eternals-2021",
+        "posterPath": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+        "year": "2021",
+        "season": null
+      }
+    ],
+    "viewerLiked": false
+  },
+  {
+    "id": "ba9f1cde-4428-4d14-b45f-8652c0286ec4",
+    "title": null,
+    "src": "/uploads/shorts/2026/09/e279ed13-debf-489e-a758-070be20c6fc8.mp4",
+    "poster": "/uploads/shorts/2026/09/e279ed13-debf-489e-a758-070be20c6fc8.webp",
+    "durationSec": 25,
+    "width": 960,
+    "height": 720,
+    "seasonId": null,
+    "isSpoiler": false,
+    "publishedAt": "2026-09-11T11:45:55.249Z",
+    "viewCount": 3583,
+    "likeCount": 15,
+    "commentCount": 2,
+    "shareCount": 1,
+    "author": {
+      "username": "renebaebae",
+      "displayName": "rinbb",
+      "avatar": "/uploads/avatar/aa20c193-b52b-42ed-874d-315c09347f4a-41f06dfe.webp",
+      "role": "user",
+      "points": 738,
+      "planId": null,
+      "eventBadges": [
+        {
+          "category": "worldcup2026",
+          "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+          "finalRank": 283,
+          "totalPicks": 44,
+          "correctCount": 24
+        }
+      ]
+    },
+    "tags": [
+      {
+        "type": "tv_series",
+        "id": "f77d8def-6432-4aca-9e55-194ab87c2137",
+        "title": "Prison Break",
+        "slug": "prison-break-2005",
+        "posterPath": "/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg",
+        "year": "2005",
+        "season": {
+          "id": "8af0dacd-ee52-4fba-89f4-47acd47e353a",
+          "seasonNumber": 1,
+          "name": "Season 1"
+        }
+      }
+    ],
+    "viewerLiked": false
+  },
+  {
+    "id": "6178cc9c-46ee-430b-9c6d-c3fb8f7c033e",
+    "title": "Then You're Lost! Anakin.",
+    "src": "/uploads/shorts/2026/09/65cd922d-db15-40c4-ae30-7dd9acfcc5e8.mp4",
+    "poster": "/uploads/shorts/2026/09/65cd922d-db15-40c4-ae30-7dd9acfcc5e8.webp",
+    "durationSec": 41,
+    "width": 1268,
+    "height": 718,
+    "seasonId": null,
+    "isSpoiler": false,
+    "publishedAt": "2026-09-29T16:56:40.161Z",
+    "viewCount": 1234,
+    "likeCount": 5,
+    "commentCount": 0,
+    "shareCount": 0,
+    "author": {
+      "username": "devandraarvano",
+      "displayName": "Vannooo",
+      "avatar": "/uploads/avatar/e260217f-0d2f-45fb-ad83-a857305ecba1-e9dbd17e-b6a8-48f8-8079-954bb8f2c489.webp",
+      "role": "user",
+      "points": 2,
+      "planId": null,
+      "eventBadges": [
+        {
+          "category": "worldcup2026",
+          "awardedAt": "2026-07-20T15:03:44.91447+07:00",
+          "finalRank": 2942,
+          "totalPicks": 30,
+          "correctCount": 17
+        }
+      ]
+    },
+    "tags": [
+      {
+        "type": "movie",
+        "id": "8c6df1d5-f136-4e0b-b8c7-915b5c472ae1",
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "slug": "star-wars-episode-iii-revenge-of-the-sith-2005",
+        "posterPath": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+        "year": "2005",
+        "season": null
+      },
+      {
+        "type": "tv_series",
+        "id": "9f3f9346-d6bc-41b0-9568-136f71c1b34c",
+        "title": "Obi-Wan Kenobi",
+        "slug": "obi-wan-kenobi-2022",
+        "posterPath": "/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg",
+        "year": "2022",
+        "season": null
+      }
+    ],
+    "viewerLiked": false
+  }
+]
