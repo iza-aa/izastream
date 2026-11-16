@@ -1,0 +1,364 @@
+{
+  "slug": "barbie-and-the-diamond-castle-2008",
+  "id": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+  "tmdbId": 13004,
+  "imdbId": "tt1294138",
+  "title": "Barbie and the Diamond Castle",
+  "originalTitle": "Barbie and the Diamond Castle",
+  "overview": "Liana and Alexa are best friends who share everything, including their love of singing. Upon meeting a girl inside a mirror, the duo embark on a journey that will put their friendship to the ultimate test.",
+  "tagline": "Join best friends in a musical fairy tale.",
+  "posterPath": "/qewfjmkNpggNuXQtrUjMl8hvHoM.jpg",
+  "backdropPath": "/qhc9m6lg6ia8fKk7Y1mxFntjYYv.jpg",
+  "logoPath": "/nDY3iO7F6nMFuWxUSsvkU6kvdCl.png",
+  "backdrops": [
+    "/qhc9m6lg6ia8fKk7Y1mxFntjYYv.jpg",
+    "/mtZh7DHYcwiE8lQ2XrcaMd78CId.jpg",
+    "/tU6238WO0LZe3ikdWBV4UWOwoNF.jpg",
+    "/hwLJDpZLGujb6tj6eRW8Za7zAzv.jpg",
+    "/imQajFg5FfkHoKjXTpCHCZx8xDH.jpg",
+    "/3hCi7rJKIEQnme335kSbrq24Ecx.jpg",
+    "/a2NcJ0MeorfvZJgM60nuSEXa8EM.jpg",
+    "/xh1uL3NuovMElJa9B7f5FvwvGHi.jpg",
+    "/d8UtFSUEOMUXHf0WoR4SpoGaHfK.jpg",
+    "/y76v8EYSNaU2HEST0piOJHrpRG.jpg"
+  ],
+  "releaseDate": "2008-09-03",
+  "runtime": 78,
+  "voteAverage": "7.45",
+  "popularity": null,
+  "popularityScore": 1089,
+  "originalLanguage": "en",
+  "country": "CA",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=qX68HEHhht8",
+  "quality": "WEB-DL",
+  "director": "Gino Nichele",
+  "directorTmdbId": 85435,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 6220,
+      "name": "Mattel",
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png"
+    },
+    {
+      "id": 102897,
+      "name": "Rainmaker Entertainment",
+      "logo_path": "/ackYRJXIse2uoLDawNVs1HzEJgm.png"
+    },
+    {
+      "id": 49983,
+      "name": "Mattel Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 299272,
+      "name": "Universal Studios Home Entertainment",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 5248,
+      "name": "female friendship"
+    },
+    {
+      "id": 10542,
+      "name": "based on toy"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 278823,
+      "name": "3d animation"
+    },
+    {
+      "id": 283297,
+      "name": "music"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 8703,
+  "watchlistCount": 40,
+  "favouriteCount": 37,
+  "shareCount": 3,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-15T19:23:40.834Z",
+  "updatedAt": "2026-10-15T19:24:56.358Z",
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f6c43f92-1a83-43e3-808f-c570d46d46d5",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 74358,
+      "name": "Kelly Sheridan",
+      "character": "Barbie Roberts / Liana (voice)",
+      "profilePath": "/sxg2oRxwAEWd2Y8baJarjwC1XPA.jpg",
+      "order": 0
+    },
+    {
+      "id": "4169a5f9-a977-4014-a6b8-a5c82566c776",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 85429,
+      "name": "Melissa Lyons",
+      "character": "Barbie Roberts / Liana (singing voice)",
+      "profilePath": "/a5SG08rWuvBGdbUQVFZJ1Fb2SLU.jpg",
+      "order": 1
+    },
+    {
+      "id": "74bd2ead-3822-4a0f-8cf5-d35b178bf851",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 85432,
+      "name": "Maryke Hendrikse",
+      "character": "Melody (voice)",
+      "profilePath": "/9iMFnpg5VmZvNWJ7Lo9AlvemoMb.jpg",
+      "order": 2
+    },
+    {
+      "id": "e488b969-8709-4d80-9a9f-ba31bdddb0d7",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 85430,
+      "name": "Cassidy Ladden",
+      "character": "Teresa Rivera / Alexa (voice)",
+      "profilePath": "/6TM324ImnxQAimM915tAQcwowfN.jpg",
+      "order": 3
+    },
+    {
+      "id": "8e1c4d18-b86f-469f-befc-c9f2a0411032",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 74370,
+      "name": "Nicole Oliver",
+      "character": "Dori / Maid (voice)",
+      "profilePath": "/plAsVfhTrYaU78JrZbJSQ4uXpX1.jpg",
+      "order": 4
+    },
+    {
+      "id": "671a7934-e0df-4855-acbf-071c1a2aed49",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 85431,
+      "name": "Chantal Strand",
+      "character": "Stacie Roberts (voice)",
+      "profilePath": "/4YAzGdCDiLPS7Imz2D0MF1AGnI5.jpg",
+      "order": 5
+    },
+    {
+      "id": "4d4c4c2b-70c7-4d0a-b7ff-3c9c016bf08a",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 45923,
+      "name": "Kathleen Barr",
+      "character": "Lydia (voice)",
+      "profilePath": "/l7dk7Lki6dLfKVcPGrTq9aYWZj.jpg",
+      "order": 6
+    },
+    {
+      "id": "762ba3f2-522f-4ef7-8598-52af329db9ef",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 63563,
+      "name": "Veena Sood",
+      "character": "Sparkles / Lily (voice)",
+      "profilePath": "/yze2fvd4rvzovqyjtKbCpFaw1UM.jpg",
+      "order": 7
+    },
+    {
+      "id": "1aad5136-75d1-4867-bfec-a9fcc3404e7b",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 85433,
+      "name": "Lara Janine",
+      "character": "Melody (singing voice)",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "1a82c6c8-2f87-4877-bcf8-3ce44761563d",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 83423,
+      "name": "Heather Doerksen",
+      "character": "Phaedra / Waitress (voice)",
+      "profilePath": "/jf5agJ6xYVQ4Ozr7zXf0Ov9AOVj.jpg",
+      "order": 9
+    },
+    {
+      "id": "e8e56d51-0c17-4c87-a908-714577ca27a8",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 32751,
+      "name": "Mark Acheson",
+      "character": "Slyder (voice)",
+      "profilePath": "/gY6VEIa7BoLjzMCaO3slSnocuah.jpg",
+      "order": 10
+    },
+    {
+      "id": "08003127-cb61-49d0-87d1-7a8502483515",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 74363,
+      "name": "Scott McNeil",
+      "character": "Troll (voice)",
+      "profilePath": "/rjiHH4krrSdipdSUdSUjvODKJM2.jpg",
+      "order": 11
+    },
+    {
+      "id": "ae8ac2dd-7dc6-4c63-8c30-a07dccf80ab1",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 2327296,
+      "name": "Jeremy From",
+      "character": "Jeremy (voice)",
+      "profilePath": "/wIAx1D9v5XJWXPyk0Doub4nsVR1.jpg",
+      "order": 12
+    },
+    {
+      "id": "529c0775-2c80-4b69-8c1c-8d4c9d13d0e2",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 1457250,
+      "name": "Noel Johansen",
+      "character": "Ian (voice)",
+      "profilePath": "/6KFImoiyLhSF3RxvjRPCRlBp4xQ.jpg",
+      "order": 13
+    },
+    {
+      "id": "1c242c57-15ff-42c5-a34b-338b8793e783",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 74362,
+      "name": "Michael Dobson",
+      "character": "Innkeeper (voice)",
+      "profilePath": "/AjzZvcIWkq6mUC5dIxgGsPCv8bk.jpg",
+      "order": 14
+    },
+    {
+      "id": "0d16ae38-8735-4de5-97f6-10c05e456e9e",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 27130,
+      "name": "Ron Halder",
+      "character": "Butler (voice)",
+      "profilePath": "/pewaMyMPCUsB8ki1JDUhcGeE3hO.jpg",
+      "order": 15
+    },
+    {
+      "id": "24aa1c9e-f257-4c02-8891-d326431333f4",
+      "movieId": "35b7dedf-7073-4f97-a8b9-811dcb0a99cf",
+      "tmdbPersonId": 1087584,
+      "name": "Linda Sorensen",
+      "character": "Old Woman (voice)",
+      "profilePath": null,
+      "order": 16
+    }
+  ],
+  "requestedBy": {
+    "username": "arir",
+    "displayName": "Arir"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

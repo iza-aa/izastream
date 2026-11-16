@@ -1,0 +1,132 @@
+{
+  "slug": "the-villager-of-level-999-2026",
+  "id": "d8f3c362-683d-45f7-a246-4e66e3f526c9",
+  "title": "The Villager of Level 999",
+  "overview": "In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Koji Kagami, who is Level...999?! On a monster hunt, he meets Alice, the Demon King's daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.",
+  "tagline": null,
+  "posterPath": "/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
+  "backdropPath": "/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
+  "logoPath": "/fvAZt4gE2U5VUV7WUqEj0GYGB9k.png",
+  "firstAirDate": "2026-07-02",
+  "voteAverage": "6.60",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "30c2413e-66dd-42ad-a7bd-c19b2c795b2c",
+      "tvSeriesId": "d8f3c362-683d-45f7-a246-4e66e3f526c9",
+      "tmdbPersonId": 2572592,
+      "name": "Satoshi Inomata",
+      "character": "Kouji Kagami (voice)",
+      "profilePath": "/hAoRLGuberMhFY1f6ULJGiIu1e.jpg",
+      "order": 0
+    },
+    {
+      "id": "46f198d5-eabf-4c64-b32e-7361dbd879cb",
+      "tvSeriesId": "d8f3c362-683d-45f7-a246-4e66e3f526c9",
+      "tmdbPersonId": 1168909,
+      "name": "Nao Toyama",
+      "character": "Alice (voice)",
+      "profilePath": "/6WJDd1z946yFfZBgpC7dWi0FyQw.jpg",
+      "order": 1
+    },
+    {
+      "id": "b6cfe15c-b359-472f-a186-ffb0c0174ca0",
+      "tvSeriesId": "d8f3c362-683d-45f7-a246-4e66e3f526c9",
+      "tmdbPersonId": 3257807,
+      "name": "Hiroya Egashira",
+      "character": "Takako Bilda (voice)",
+      "profilePath": "/fgcbBLbYNqy4JfVZ5MX8AKrJJl7.jpg",
+      "order": 2
+    },
+    {
+      "id": "9cc5d82f-74d2-41c1-baa4-19019a88506a",
+      "tvSeriesId": "d8f3c362-683d-45f7-a246-4e66e3f526c9",
+      "tmdbPersonId": 1835721,
+      "name": "Manaka Iwami",
+      "character": "Krull Hekisaldoria (voice)",
+      "profilePath": "/leKMaCBswXG8u4mfQNQ7J3y6Xow.jpg",
+      "order": 3
+    },
+    {
+      "id": "e178677e-584d-4f7a-976a-437b22a91976",
+      "tvSeriesId": "d8f3c362-683d-45f7-a246-4e66e3f526c9",
+      "tmdbPersonId": 1210634,
+      "name": "Nobunaga Shimazaki",
+      "character": "Rex (voice)",
+      "profilePath": "/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg",
+      "order": 4
+    },
+    {
+      "id": "719ea448-c400-443c-8682-39973331a96b",
+      "tvSeriesId": "d8f3c362-683d-45f7-a246-4e66e3f526c9",
+      "tmdbPersonId": 2251986,
+      "name": "Aoi Koga",
+      "character": "Tina (voice)",
+      "profilePath": "/uVpwheVV4aPROyY1toYv3v5HSPD.jpg",
+      "order": 5
+    },
+    {
+      "id": "22a7dc15-2ded-435d-a2f0-7fa46b876adf",
+      "tvSeriesId": "d8f3c362-683d-45f7-a246-4e66e3f526c9",
+      "tmdbPersonId": 1691384,
+      "name": "Lynn",
+      "character": "Paruna (voice)",
+      "profilePath": "/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d4e4da26-7178-4b76-a4c2-5c87dd765c48",
+      "tvSeriesId": "d8f3c362-683d-45f7-a246-4e66e3f526c9",
+      "tmdbId": 471250,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
+      "airDate": "2026-07-02",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-07T03:25:11.419Z",
+      "updatedAt": "2026-10-07T03:26:49.061Z"
+    }
+  ]
+}

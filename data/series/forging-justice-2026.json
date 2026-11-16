@@ -1,0 +1,95 @@
+{
+  "slug": "forging-justice-2026",
+  "id": "a8170ce6-517f-415d-9663-213944664585",
+  "title": "Forging Justice",
+  "overview": "In the early years of China's reform and opening-up, five law school graduates—Chen Yizhong, Yu Gaoyuan, Lu Zeming, Xia Yingjie, and Zhang Lihui—embarked on diverse careers within the judicial system.",
+  "tagline": null,
+  "posterPath": "/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
+  "backdropPath": "/elfvJ7Quc5ffx1SK59UFEa5dRkQ.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-08-10",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a4406d8f-7e84-4d32-88fa-9788771d6d06",
+      "tvSeriesId": "a8170ce6-517f-415d-9663-213944664585",
+      "tmdbPersonId": 1816461,
+      "name": "Johnny Huang",
+      "character": "Chen Yizhong",
+      "profilePath": "/mc7HlXJU0Sr5WkodEHS3csaxi6E.jpg",
+      "order": 0
+    },
+    {
+      "id": "9615f88a-ccc4-4e80-8953-38eedddb31ea",
+      "tvSeriesId": "a8170ce6-517f-415d-9663-213944664585",
+      "tmdbPersonId": 3863054,
+      "name": "Jiang Qiming",
+      "character": "Yu Gaoyuan",
+      "profilePath": "/6OWIhJwjwiMWKBHcUTn7pglXEFx.jpg",
+      "order": 1
+    },
+    {
+      "id": "d5e3e1cc-aebc-41b6-9dbb-dc1329a52391",
+      "tvSeriesId": "a8170ce6-517f-415d-9663-213944664585",
+      "tmdbPersonId": 1829558,
+      "name": "Karlina Zhang",
+      "character": "Zhang Lihui",
+      "profilePath": "/hEOl3OdG16uag7xMznk3X9FRCH0.jpg",
+      "order": 2
+    },
+    {
+      "id": "8975f075-24e6-4099-be5d-090b2e7708e6",
+      "tvSeriesId": "a8170ce6-517f-415d-9663-213944664585",
+      "tmdbPersonId": 1897341,
+      "name": "Jiang Peiyao",
+      "character": "Xia Yingjie",
+      "profilePath": "/dPXXxRNpU8r1V0vpFpEmdIspkPU.jpg",
+      "order": 3
+    },
+    {
+      "id": "e4815af1-6160-46f8-996f-4b852805304c",
+      "tvSeriesId": "a8170ce6-517f-415d-9663-213944664585",
+      "tmdbPersonId": 3567884,
+      "name": "Yan Peilun",
+      "character": "Lu Zeming",
+      "profilePath": "/djiIoMHzXKaSZ7wcAzcN50HJs8s.jpg",
+      "order": 4
+    },
+    {
+      "id": "a8516453-29ca-4402-851a-05e76a285a5f",
+      "tvSeriesId": "a8170ce6-517f-415d-9663-213944664585",
+      "tmdbPersonId": 1344903,
+      "name": "Yu Hewei",
+      "character": "Yuan Yifang",
+      "profilePath": "/rtHbXVr0NUWYkV1vqCCdhgyyNXG.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "100a38cf-91bf-4c50-a7d5-11ff89c8fbae",
+      "tvSeriesId": "a8170ce6-517f-415d-9663-213944664585",
+      "tmdbId": 457200,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/muB7WRTcLjtXrCmIX5IoNJZR1by.jpg",
+      "airDate": "2026-08-10",
+      "episodeCount": 33,
+      "isPublished": true,
+      "createdAt": "2026-08-27T16:10:27.930Z",
+      "updatedAt": "2026-08-27T16:16:06.838Z"
+    }
+  ]
+}

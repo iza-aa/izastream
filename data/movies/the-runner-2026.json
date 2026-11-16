@@ -1,0 +1,385 @@
+{
+  "slug": "the-runner-2026",
+  "id": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+  "tmdbId": 1386315,
+  "imdbId": "tt34564059",
+  "title": "The Runner",
+  "originalTitle": "The Runner",
+  "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
+  "tagline": "One hour. One chance to save her son.",
+  "posterPath": "/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+  "backdropPath": "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+  "logoPath": "/L3ZBm0slDHruUcZ4dgkvWHh0rq.png",
+  "backdrops": [
+    "/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+    "/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+    "/uIoARHk8zc76lp93zKtKAwGnLuD.jpg",
+    "/3MHeqsDjo9d5AAbhdvyUB32kwGK.jpg",
+    "/1KohYajglCHxTgj2NY2WTI7gn9v.jpg",
+    "/8Zk4n3aEKor7q9e1j6xu1Awc6Zu.jpg",
+    "/6D2VpU0LrbVvtempoGTN909Ua7i.jpg",
+    "/uEIo9KDaQnfxR6UKPsxVFI1jF9N.jpg",
+    "/zFE7iFwVEBrjh7gU1VRy8Zo4QQi.jpg"
+  ],
+  "releaseDate": "2026-09-17",
+  "runtime": 86,
+  "voteAverage": "0.00",
+  "popularity": null,
+  "popularityScore": 390,
+  "originalLanguage": "en",
+  "country": "GB",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=zz4rsZLcauY",
+  "quality": "WEB-DL",
+  "director": "Kevin Macdonald",
+  "directorTmdbId": 17350,
+  "directorProfilePath": "/40P6puNsdMx2ov6bQnZUZ867O3j.jpg",
+  "productionCompanies": [
+    {
+      "id": 210099,
+      "name": "Amazon MGM Studios",
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+      "id": 244481,
+      "name": "Rockwood Pictures",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 456,
+      "name": "mother"
+    },
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 5153,
+      "name": "son"
+    },
+    {
+      "id": 170865,
+      "name": "child kidnapping"
+    },
+    {
+      "id": 235261,
+      "name": "abduction"
+    },
+    {
+      "id": 240237,
+      "name": "mother son relationship"
+    },
+    {
+      "id": 300847,
+      "name": "attorney"
+    },
+    {
+      "id": 302132,
+      "name": "action thriller"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 34536,
+  "watchlistCount": 160,
+  "favouriteCount": 61,
+  "shareCount": 16,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-02T19:49:07.522Z",
+  "updatedAt": "2026-09-02T19:49:16.533Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b5c0f9fe-69d9-4bdc-b5c1-6859134fc971",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 90633,
+      "name": "Gal Gadot",
+      "character": "Maia",
+      "profilePath": "/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg",
+      "order": 0
+    },
+    {
+      "id": "743710f2-8fff-4617-a74f-6511d60fa270",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 20186,
+      "name": "Damian Lewis",
+      "character": "The Caller",
+      "profilePath": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg",
+      "order": 1
+    },
+    {
+      "id": "8e945b0f-9a87-4b17-8e67-a3696345b9ca",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 5018970,
+      "name": "Rory Wilmot",
+      "character": "Noah",
+      "profilePath": "/qi56VP9tSU0F0VJ59Aq0yU4nIR9.jpg",
+      "order": 2
+    },
+    {
+      "id": "b8e6b1a2-534a-4163-b544-19052200db21",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 234923,
+      "name": "Alfred Enoch",
+      "character": "Ted",
+      "profilePath": "/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg",
+      "order": 3
+    },
+    {
+      "id": "86212cc3-a919-4173-a899-57e546c8528d",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 2967026,
+      "name": "Phoenix Di Sebastiani",
+      "character": "Tafa",
+      "profilePath": "/mBkkZ5irQZPsxdcCIPLCvNv5iT8.jpg",
+      "order": 4
+    },
+    {
+      "id": "1f6c866a-0be8-45cc-a353-62bfcbeb73d8",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 3907201,
+      "name": "Nathan Kirby",
+      "character": "Wiry Dude",
+      "profilePath": "/5bnrS0ZncCFaL1DCm7n7Z6qHBlL.jpg",
+      "order": 5
+    },
+    {
+      "id": "3e4484f2-d463-4b5a-9600-dcd3b5c56058",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 3951796,
+      "name": "Hélder Fernandes",
+      "character": "Buddy",
+      "profilePath": "/rt8Cp421KbfANb6b6AmMGlVz8wR.jpg",
+      "order": 6
+    },
+    {
+      "id": "e1bd6ee2-8fae-417f-ad27-b96f7b3c31cc",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 2465566,
+      "name": "Will Austin",
+      "character": "NCA Officer 1",
+      "profilePath": "/hwlsIMEImnpOc046cROxtVyJ2Ao.jpg",
+      "order": 7
+    },
+    {
+      "id": "21cfe276-d1ce-4ecb-8b89-8aa9f0dab00d",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 2838016,
+      "name": "Mark Hampton",
+      "character": "NCA Officer 2",
+      "profilePath": "/1QU9wjU4fxzYmJALQREMJYSVzS8.jpg",
+      "order": 8
+    },
+    {
+      "id": "ec8175a7-1aa1-44a0-9185-1f56e9c096ec",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 4103339,
+      "name": "Stevie Binns",
+      "character": "NCA Officer 3",
+      "profilePath": "/8z91lF6y3CFTT55YVC3qcBHLO1L.jpg",
+      "order": 9
+    },
+    {
+      "id": "cf5cdea5-b7d9-41bf-80cb-24c2401985b0",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 3122050,
+      "name": "John Leader",
+      "character": "Forensics Officer",
+      "profilePath": "/861Sr9u3AhZX0UIeOj3UnTm3gcF.jpg",
+      "order": 10
+    },
+    {
+      "id": "be8571e6-a66b-4714-be85-f3189bff9e49",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 3587491,
+      "name": "Kenton Lloyd Morgan",
+      "character": "Boat Captain",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "13c52e00-9896-4fa2-a625-13bd564b1f73",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 1269642,
+      "name": "Simon Nader",
+      "character": "Hotel Security",
+      "profilePath": "/14fZw63UwG4NA5pbg3EJNiiYUkb.jpg",
+      "order": 12
+    },
+    {
+      "id": "9decd635-7724-4de4-b229-e3bff17da3f0",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 234924,
+      "name": "Jessie Cave",
+      "character": "Alice (School Mum)",
+      "profilePath": "/bo1zUtdS878MzOVrPV6hnIN90CT.jpg",
+      "order": 13
+    },
+    {
+      "id": "083a06f3-9481-4445-850d-bd39ba3a0acc",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 2461282,
+      "name": "Michael Raymond Fox",
+      "character": "Waterloo Bridge Police Officer",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "5ab5a6bd-91f4-4bc7-ace5-a29ccd14a923",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 1278583,
+      "name": "Simon Shorten",
+      "character": "Ulysses Suite Police Officer 1",
+      "profilePath": "/r1fAL4L4SpFeKxHQByVf7s3uVtv.jpg",
+      "order": 15
+    },
+    {
+      "id": "5cf76de1-c879-4108-af80-a68f375f5a06",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 2056332,
+      "name": "Miles Mitchell",
+      "character": "Ulysses Suite Police Officer 2",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "1ad8804f-1c84-406e-88a7-c2b32fddb188",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 4549019,
+      "name": "Raquel Appiah",
+      "character": "Canal Mum",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "2c886d65-6b08-437a-b3b1-4db355a44d8d",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 3165325,
+      "name": "Lorenzo Martelli",
+      "character": "Business Man",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "da47e240-0381-4881-9802-e2ac3b418248",
+      "movieId": "71be4f68-1dd4-418e-89ec-a0572eda55fc",
+      "tmdbPersonId": 1763862,
+      "name": "Clive Kneller",
+      "character": "Old Man at Canal",
+      "profilePath": "/fnDPEcGkhTHm6MozkziQb3WsuI9.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

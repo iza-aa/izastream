@@ -1,0 +1,131 @@
+{
+  "slug": "thicha-2024",
+  "id": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+  "title": "Thicha",
+  "overview": "A young girl flees from her homeland to start over with her mother. But when a crime ring ruins her life, she adopts a new identity to take revenge.",
+  "tagline": "",
+  "posterPath": "/6X333N7zjPnp0pjJnpQZg0XIuN0.jpg",
+  "backdropPath": "/gALlOSBjAqtWBiKvrbpPXhKIchQ.jpg",
+  "logoPath": null,
+  "firstAirDate": "2024-11-25",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "81b9b5e1-ba4c-499a-bd04-86853ebf6aba",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbPersonId": 127449,
+      "name": "Pimchanok Luevisadpaibul",
+      "character": "Ticha",
+      "profilePath": "/1dAa0G7gG3KbeF66HOof4DPXrpX.jpg",
+      "order": 0
+    },
+    {
+      "id": "f239cd20-f1bd-4402-9cca-3f8c017d9b26",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbPersonId": 931444,
+      "name": "Pachara Chirathivat",
+      "character": "Phatchai",
+      "profilePath": "/xmHjL8pN5DN0drMADVfSHBp1zy8.jpg",
+      "order": 1
+    },
+    {
+      "id": "ce797c38-6e75-4f58-9109-bd20316811ae",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbPersonId": 126800,
+      "name": "Metinee Kingpayome",
+      "character": "Bussara",
+      "profilePath": "/j4JG4GtpHOAx0tVRs4u7qKclSJI.jpg",
+      "order": 2
+    },
+    {
+      "id": "0e155457-19da-42b4-a10c-2faf1f795460",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbPersonId": 1256326,
+      "name": "Penpak Sirikul",
+      "character": "Warin",
+      "profilePath": "/vYlfd46BnGK1JYOgXrYsDQNCVrp.jpg",
+      "order": 3
+    },
+    {
+      "id": "a2f04316-140d-4228-95ea-458357e2901a",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbPersonId": 3273931,
+      "name": "Kullanat Preeyawat",
+      "character": "Yeoh",
+      "profilePath": "/yrzRhwM8oFdD8gUJQiGmpGkfH36.jpg",
+      "order": 4
+    },
+    {
+      "id": "9258de91-deb6-405a-a658-2fe5493b64f0",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbPersonId": 3300000,
+      "name": "Pornsroung Rouyruen",
+      "character": "Phu",
+      "profilePath": "/bDZYPiNSuQTTTCUEghc4pYHAEmr.jpg",
+      "order": 5
+    },
+    {
+      "id": "1d3ca766-cbd5-4c33-8830-4b4cc6994dc2",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbPersonId": 3406040,
+      "name": "Akarat Nimitchai",
+      "character": "Methi",
+      "profilePath": "/jVAgnLdf4HHMbMEVmjUl7cYNoFT.jpg",
+      "order": 6
+    },
+    {
+      "id": "7906d345-6028-4fc3-bbe9-2012697ef8a5",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbPersonId": 145720,
+      "name": "Anuchit Sapanpong",
+      "character": "Nitikorn",
+      "profilePath": "/5WGUzoXBRw7CijfoMXOcoErkbM6.jpg",
+      "order": 7
+    },
+    {
+      "id": "bb5e047c-8d71-4f2b-b1e0-f9df81a98992",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbPersonId": 3712753,
+      "name": "Lerwith Sangsith",
+      "character": "Warot",
+      "profilePath": "/m3cKABryGMZpgdVwXN0vJk7qfF0.jpg",
+      "order": 8
+    },
+    {
+      "id": "43fd6389-7bcf-48a5-b9bf-15b78066cd36",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbPersonId": 3289930,
+      "name": "Machida Sutthikulphanich",
+      "character": "Wu Yi",
+      "profilePath": "/AnIHEAjmwPxlEFBVlOq0wWYFRS7.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "47c4aba4-c5c4-4e67-aba9-3840f9e7549c",
+      "tvSeriesId": "d46a9e18-da04-4d5d-9031-741fe5c1c433",
+      "tmdbId": 430523,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/96A7uoC9Wkm1VkMOcoeYm4bteSJ.jpg",
+      "airDate": "2024-11-25",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:39:14.446Z",
+      "updatedAt": "2026-04-02T17:39:14.446Z"
+    }
+  ]
+}

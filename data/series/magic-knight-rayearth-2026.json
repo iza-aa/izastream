@@ -1,0 +1,159 @@
+{
+  "slug": "magic-knight-rayearth-2026",
+  "id": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+  "title": "Magic Knight Rayearth",
+  "overview": "A school trip to Tokyo Tower turns into a battle for another world when Hikaru, Umi, and Fuu are summoned to Cefiro! With Princess Emeraude captured, the magical world teeters on the brink of collapse. To save her, the three girls must awaken their powers, become the Legendary Magic Knights, and face deadly enemies before Cefiro is lost forever!",
+  "tagline": null,
+  "posterPath": "/evpXDaPMlXgudEIMe1Lxdql3Jmu.jpg",
+  "backdropPath": "/f6MmtdKyrmUt2iHfhEKO6DgrL4a.jpg",
+  "logoPath": "/fSLEbO1IZWzUvNn8Z3k4XdPMOb.png",
+  "firstAirDate": "2026-10-07",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "41bec67f-9154-4c77-9bb9-d71edb28d0d1",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbPersonId": 992869,
+      "name": "Ayane Sakura",
+      "character": "Hikaru Shidou (voice)",
+      "profilePath": "/yPbTmntASE9psPIMhNGU5oo6vIH.jpg",
+      "order": 0
+    },
+    {
+      "id": "446fc506-7ed1-4612-8bf2-8499b0287ace",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbPersonId": 1256913,
+      "name": "Rumi Okubo",
+      "character": "Umi Ryuuzaki (voice)",
+      "profilePath": "/cf4cnFMllu1yO3X0gCGGDdl8GXW.jpg",
+      "order": 1
+    },
+    {
+      "id": "3de8aaf1-b05c-42d2-a6cd-d0d9bf09dbd9",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbPersonId": 1492982,
+      "name": "Rie Takahashi",
+      "character": "Fuu Hououji (voice)",
+      "profilePath": "/aeB7z0cBTASdjKOjQriBAO6hYq4.jpg",
+      "order": 2
+    },
+    {
+      "id": "528bb2f2-c4ba-499c-bf40-8094431868fc",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbPersonId": 221773,
+      "name": "Saori Hayami",
+      "character": "Emeraude (voice)",
+      "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg",
+      "order": 3
+    },
+    {
+      "id": "d2a46760-68c2-445f-a7b8-6a232a8dedd5",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbPersonId": 1206317,
+      "name": "Yuki Ono",
+      "character": "Zagato (voice)",
+      "profilePath": "/oEx13CbNLsHzURdYafkFJYXDjfm.jpg",
+      "order": 4
+    },
+    {
+      "id": "28a7fb77-cd02-4a7d-9d1b-1faa25d15903",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbPersonId": 1251426,
+      "name": "Mika Kikuchi",
+      "character": "Mokona (voice)",
+      "profilePath": "/qhdhwNa3MMLtT7vtUXb339hRUN9.jpg",
+      "order": 5
+    },
+    {
+      "id": "d8c0bd5b-6343-493a-8606-fade0205d44e",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbPersonId": 149894,
+      "name": "Yuki Kaji",
+      "character": "Clef (voice)",
+      "profilePath": "/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg",
+      "order": 6
+    },
+    {
+      "id": "4132ebc5-bd1d-41d3-bee0-ed35be0561d0",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbPersonId": 1157126,
+      "name": "Emiri Kato",
+      "character": "Presea (voice)",
+      "profilePath": "/m0zqjeg65sEe5TTy4mKqgwXVipI.jpg",
+      "order": 7
+    },
+    {
+      "id": "5621aa41-d126-4557-a0d2-b9c667bcee76",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbPersonId": 233590,
+      "name": "Yoshitsugu Matsuoka",
+      "character": "Ferio (voice)",
+      "profilePath": "/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg",
+      "order": 8
+    },
+    {
+      "id": "4fbccc65-a0ac-4539-b9c4-7dbd932e49f3",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbPersonId": 89903,
+      "name": "Mamiko Noto",
+      "character": "Alcione (voice)",
+      "profilePath": "/wCSD7Umgzc66p8VGXrrMZtSLSuS.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "c11233b0-4fc5-428a-9541-4be3c32b2826",
+      "tvSeriesId": "d95055b7-b1a9-49c3-a5d2-19cd821e219c",
+      "tmdbId": 480464,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/evpXDaPMlXgudEIMe1Lxdql3Jmu.jpg",
+      "airDate": "2026-10-07",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-10-25T05:44:30.840Z",
+      "updatedAt": "2026-11-14T05:29:42.240Z"
+    }
+  ]
+}

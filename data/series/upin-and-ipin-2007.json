@@ -1,0 +1,194 @@
+{
+  "slug": "upin-and-ipin-2007",
+  "id": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+  "title": "Upin & Ipin",
+  "overview": "“Upin & Ipin” is a 3D animated series produced by Les’ Copaque Production Sdn. Bhd. and is currently one of the most popular animated series in Malaysia receiving excellent reviews and steadfastly averaging around 800, 000 viewers per episode. The series is actually a spin-off of the company’s debut feature film “Geng: Pengembaraan Bermula”.\n\nThe series centres on a pair of 5-year-old twin boys, the titular Upin and Ipin, who tell stories of their everyday lives through fun and amusing actions with their friends while also learning new things during their day to day activities. Like every other children, Upin and Ipin are very mischievous and often find themselves getting into trouble, most of the time with their teenage sister Ros.",
+  "tagline": null,
+  "posterPath": "/nLN1FeKf57M6dU2fHVVusOmIH3O.jpg",
+  "backdropPath": "/5FAkX1btyAsvEGXZDn6CA6sfCBS.jpg",
+  "logoPath": "/o4OYyoJiBuDTUa0ITk31UakPiqn.png",
+  "firstAirDate": "2007-09-14",
+  "voteAverage": "6.60",
+  "numberOfSeasons": 4,
+  "numberOfEpisodes": 60,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "18f81007-3104-4c4e-847a-e3da60195496",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbPersonId": 1241063,
+      "name": "Asyiela Putri",
+      "character": "Voice of Upin & Ipin",
+      "profilePath": "/vG72wpGrBE5hpni6p87XAhpDa0d.jpg",
+      "order": 1
+    },
+    {
+      "id": "d4f9aebf-87c9-4e7f-a7fc-813711df8539",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbPersonId": 1241065,
+      "name": "Ida Shaheera",
+      "character": "Voice of Kak Ros",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "1bc51693-e861-4e5e-9755-b60faeb961e7",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbPersonId": 3130261,
+      "name": "Siti Khairunnisa",
+      "character": "Voice of Kak Ros",
+      "profilePath": "/ceCkUsMFkMpTZfHYjjuhAhRzWON.jpg",
+      "order": 3
+    },
+    {
+      "id": "faf8c01a-40ce-453b-b9ed-7cf39b27cafc",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbPersonId": 1746893,
+      "name": "Hajah Ainon Ariff",
+      "character": "Voice of Opah",
+      "profilePath": "/hkJAzPqixeK7kuBMA61hvWjMXnQ.jpg",
+      "order": 4
+    },
+    {
+      "id": "c4b3197d-529a-458f-8cad-3ed2e5613ec4",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbPersonId": 3130263,
+      "name": "Burhanuddin Radzi",
+      "character": "Voice of Tok Dalang",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "794137bf-88ac-4782-8a01-7149ba670fbb",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbPersonId": 1241066,
+      "name": "Ida Rahayu Yusoff",
+      "character": "Voice of Fizi",
+      "profilePath": "/l2nabFIXWBnqV7Nifjvfz6datTm.jpg",
+      "order": 8
+    },
+    {
+      "id": "386b510e-1e35-4e29-8ba4-b533c1b847fb",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbPersonId": 3130253,
+      "name": "Tang Ying Sowk",
+      "character": "Voice of Mei Mei",
+      "profilePath": "/wtFWCrCEiRA9IxPqmfloGJs8saA.jpg",
+      "order": 9
+    },
+    {
+      "id": "00529b98-dcc4-4ca8-9707-dcaca3488efb",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbPersonId": 3130252,
+      "name": "Muhammad Hafiz Hassan",
+      "character": "Voice of Jarjit Singh",
+      "profilePath": "/wnZeSUUgavqz0Cc4w4DKnGuOK1j.jpg",
+      "order": 10
+    },
+    {
+      "id": "6031c3ec-8ae8-4f5c-a385-290969d3a3e9",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbPersonId": 3130250,
+      "name": "Muhammad Fareez Daniel",
+      "character": "Voice of Ehsan",
+      "profilePath": "/wj5bjNfMSxDgraZxamFFl416mDf.jpg",
+      "order": 11
+    },
+    {
+      "id": "62308962-b614-4d97-9641-460da000aa77",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbPersonId": 3837287,
+      "name": "Muhd Arifin Ismail Isa",
+      "character": "Voice of Mail",
+      "profilePath": null,
+      "order": 13
+    }
+  ],
+  "seasons": [
+    {
+      "id": "3c31a8b9-b244-4f21-835e-e50b504068d1",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbId": 18096,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "The first season of Upin & Ipin was published specifically to celebrate Ramadhan 2007 to educate children about the meaning and importance of the holy month. The great response to this short series prompted Les' Copaque to publish another season in connection with the next month of Ramadan. The first season of Upin & Ipin won the Best Animation award at the 2007 Kuala Lumpur International Film Festival.",
+      "posterPath": "/kkgYLIMguWhncw40rwd2TfHiLGb.jpg",
+      "airDate": "2007-09-14",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-10-22T06:26:17.008Z",
+      "updatedAt": "2026-10-22T06:28:28.426Z"
+    },
+    {
+      "id": "74cd491f-bacf-4765-9bbf-40a4fc286634",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbId": 18097,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "The second season, titled Upin & Ipin: A Year Later, airs at 7.00pm each episode. This season consists of 12 episodes, the first half of which is broadcast on Fridays, Saturdays and Sundays throughout the month of Ramadan (the first showing in the first half of the month, repeats in the last half of the month) and the other half in conjunction with Hari Raya Aidilfitri from 1 to 6 Syawal. This season is sponsored by Colgate-Palmolive Malaysia which promotes the release of Colgate Kayu Sugi toothpaste.",
+      "posterPath": "/d3oKuG2TYRMc4gnqQzwQYQT59rw.jpg",
+      "airDate": "2008-09-05",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-22T06:26:19.845Z",
+      "updatedAt": "2026-10-22T06:28:29.403Z"
+    },
+    {
+      "id": "c17b3739-ce68-4fec-b629-7b0488c6b366",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbId": 18098,
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "overview": "The third season of Upin & Ipin, which carries the full title Upin & Ipin and Kawan-Kawan, began on February 2, 2009. From mid-May, three episodes are shown (including reruns) every week from Monday to Saturday, at 7pm, followed by broadcast three-in-one on Sundays, from 7.00 to 19.30.\n\nFrom May 14, Upin & Ipin show hours are limited to weekends, Friday to Sunday, at 17.30. In addition, TM was announced as the main sponsor of the Upin & Ipin and Kawan-Kawan series until now.\n\nIn September, the broadcast of Upin & Ipin is shown again every Monday to Sunday with new episodes in connection with the month of fasting and the end of the school year holidays. The third season ended with \"Treasure Island Adventure (part 8)\" released on December 30, 2009, making it 18 episodes in total.",
+      "posterPath": "/wr6OASo1VSWQkyo6PIIVKb3va5r.jpg",
+      "airDate": "2009-02-02",
+      "episodeCount": 42,
+      "isPublished": true,
+      "createdAt": "2026-10-24T12:51:20.764Z",
+      "updatedAt": "2026-10-24T13:02:52.737Z"
+    },
+    {
+      "id": "9ba311c1-4454-4fd4-8a9a-373234b58bae",
+      "tvSeriesId": "bc69738e-f01a-445a-ac41-c9a7d0ea7a0f",
+      "tmdbId": 18099,
+      "seasonNumber": 4,
+      "name": "Season 4",
+      "overview": "The fourth season of Upin & Ipin and Kawan-Kawan started on March 15, 2010 with the episode \"Juara Kampung (Part 1)\", in addition to the introduction of a new brand with title cards in the form of colored pencils in the exercise book. Asyiela Putri replaced Fathiah as Upin & Ipin's voice changer. This season is also sponsored by the TM company. Previously, Asyiela translated the third season of the series Upin & Ipin in English for Disney Channel Asia. The first nine episodes of the fourth season were filmed during the two school holidays in 2010 in connection with the Thomas Cup and the World Cup. Reruns of last season's episodes are also broadcast on Saturdays and Sundays, at 17.30 until August. During the Ramadan season (August - September), the Upin & Ipin time slot moves to every day, at 7pm, with a new episode. This concludes with a one-hour marathon filled with six new episodes titled \"Menjelang Syawal\" and \"Bila Besar Nanti\".",
+      "posterPath": "/mfQAuidiQa2VJwyvMibaIcLjpwC.jpg",
+      "airDate": "2010-03-15",
+      "episodeCount": 42,
+      "isPublished": true,
+      "createdAt": "2026-10-26T11:53:45.701Z",
+      "updatedAt": "2026-10-26T12:02:04.165Z"
+    }
+  ]
+}

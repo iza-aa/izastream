@@ -1,0 +1,316 @@
+{
+  "slug": "idiot-girls-and-school-ghost-school-anniversary-2024",
+  "id": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+  "tmdbId": 1244810,
+  "imdbId": "tt34136712",
+  "title": "Idiot Girls and School Ghost: School Anniversary",
+  "originalTitle": "아메바 소녀들과 학교괴담: 개교기념일",
+  "overview": "The high school senior girls discovered a 'Ghost Hide and Seek' tape recorded by their seniors in the broadcasting club. Through the tape, the girls learned about a rumor that if they win in the ghost hide and seek game on the upcoming school anniversary, they can receive a perfect score on the college entrance exam. The girls decided to recruit Min-joo, a second year student from the religious club, as a mercenary and made a decision to participate together in the ghost hide and seek.",
+  "tagline": "Let's Go!",
+  "posterPath": "/9EmEZe7VYg3HEpst9EDyv39sgS6.jpg",
+  "backdropPath": "/f6uIhC04AztdceS7gn6dvxNkKW3.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/f6uIhC04AztdceS7gn6dvxNkKW3.jpg",
+    "/5J2L3jSnBG5nsptJjRXK1zlzovh.jpg",
+    "/kjIftck0lZTGPjs71pF3knL0xY2.jpg",
+    "/ixcwjQA4rz0QWVC64BkSz3iAm4L.jpg"
+  ],
+  "releaseDate": "2024-11-06",
+  "runtime": 91,
+  "voteAverage": "6.71",
+  "popularity": null,
+  "popularityScore": 88,
+  "originalLanguage": "ko",
+  "country": "KR",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "WEB-DL",
+  "director": "Kim Min-ha",
+  "directorTmdbId": 3592496,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 97992,
+      "name": "26 Company",
+      "logo_path": "/o1yPUFePlaFj9iJjm7CHm6Hjyh2.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 347138,
+      "name": "school horror"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5932,
+  "watchlistCount": 56,
+  "favouriteCount": 17,
+  "shareCount": 3,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-02T19:49:22.081Z",
+  "updatedAt": "2026-09-02T19:49:31.703Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b95b2d50-db90-47f7-9897-7251338031ca",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 1875647,
+      "name": "Kim Do-yeon",
+      "character": "Ji-yeon",
+      "profilePath": "/hZ5McUC21Bv0q4NoewkeXExrlAi.jpg",
+      "order": 0
+    },
+    {
+      "id": "f63b8410-217b-4acc-be13-d5f3a4e39282",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 1988516,
+      "name": "Son Ju-yeon",
+      "character": "Eun-byeol",
+      "profilePath": "/jlWBojNAvQS9QApNErbaeQAlL3c.jpg",
+      "order": 1
+    },
+    {
+      "id": "a750a640-a1c7-41a0-b127-4b10a87193ae",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 1576059,
+      "name": "Jeong Ha-dam",
+      "character": "Min-joo",
+      "profilePath": "/xLYqt1GQqA0UzRmNH6Xo7EIz7mH.jpg",
+      "order": 2
+    },
+    {
+      "id": "0fd68a8b-a006-4d26-b684-feb46540432b",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 4535845,
+      "name": "Kang Shin-hee",
+      "character": "Hyun-jung",
+      "profilePath": "/xcikJPTSU9PfF02dg00CvkF08Bu.jpg",
+      "order": 3
+    },
+    {
+      "id": "b361c55b-63dd-44b9-9687-0fe7c4f58621",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 5629028,
+      "name": "Ha Seo-yul",
+      "character": "Willy Minky",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "f88c0f65-da91-4860-b3ed-6e225b242155",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 126351,
+      "name": "Jeon So-min",
+      "character": "homeroom teacher",
+      "profilePath": "/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg",
+      "order": 5
+    },
+    {
+      "id": "ea7aa8bc-8461-46e6-97d8-4b837399e15b",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 566372,
+      "name": "Lee Jun-hyeok",
+      "character": "school nurse",
+      "profilePath": "/bgZrYipsty7yTMHEy4cmVmfWJzQ.jpg",
+      "order": 6
+    },
+    {
+      "id": "4347f08a-6b2d-4757-896d-e49a410df1bb",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 1574622,
+      "name": "Ko Kyu-pil",
+      "character": "science teacher",
+      "profilePath": "/uP18ldneBx5WcmHmvwoyGVSBArY.jpg",
+      "order": 7
+    },
+    {
+      "id": "8d6159ae-7cfb-416a-ae9a-e2f12cac4631",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 4089517,
+      "name": "Yang Chi-seung",
+      "character": "self-study supervisor teacher",
+      "profilePath": "/vXP0db12BqzszxZ4c8i9HzHKmEN.jpg",
+      "order": 8
+    },
+    {
+      "id": "b1299ec9-fb5c-40f0-832a-6228bb456b1e",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 3741093,
+      "name": "Lee Eun-hee",
+      "character": "Buddhist nun",
+      "profilePath": "/flLmF9iPbSVHXpCqbUloEGJqpb8.jpg",
+      "order": 9
+    },
+    {
+      "id": "b69fc628-9e44-4bd9-8ccc-6b808dfa38b7",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 4853036,
+      "name": "Kim Gang-hee",
+      "character": "Gyeong-hee",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "a083a53c-1105-4b04-93f9-b41534a14f45",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 6265570,
+      "name": "Lee Ye-jin",
+      "character": "Soo-gyeong",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "8fdf50dd-a9a4-4721-9ef0-5bde04a1cce4",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 6265571,
+      "name": "Joo Ye-ji",
+      "character": "Yeon-ji",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "bf43a6de-bb39-4d2a-b88a-f9069e277c77",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 5308480,
+      "name": "Lee Hwa-won",
+      "character": "Dga",
+      "profilePath": "/9L7Rx3sLajYGbJ1q6uGrwAbDx5x.jpg",
+      "order": 13
+    },
+    {
+      "id": "b7a726a0-6e2d-454e-acae-d924ae1b4cb8",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 6265574,
+      "name": "Lee Won-wook",
+      "character": "Guard",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "6af0fde8-b9a7-4db2-98ec-dc03c420bf96",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 4610491,
+      "name": "Hwang Jae-feel",
+      "character": "Police",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "105ac797-ebd1-406c-b95c-45b84d7430ef",
+      "movieId": "fbe69bed-2b9e-4041-8df3-73b43706cfb8",
+      "tmdbPersonId": 4105571,
+      "name": "Jung Woo-young",
+      "character": "Police",
+      "profilePath": "/pINMDzoaOe9lLKJnTOST6pIFuds.jpg",
+      "order": 16
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

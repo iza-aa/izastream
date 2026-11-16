@@ -1,0 +1,519 @@
+{
+  "slug": "possession-1981",
+  "id": "89f9aed2-9064-454a-ba27-785cae2225cc",
+  "tmdbId": 21484,
+  "imdbId": "tt0082933",
+  "title": "Possession",
+  "originalTitle": "Possession",
+  "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
+  "tagline": "Inhuman ecstasy fulfilled.",
+  "posterPath": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
+  "backdropPath": "/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
+  "logoPath": "/wHWbLpO4ugMaeGapuPZWBk5zpBy.png",
+  "backdrops": [
+    "/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
+    "/dHvNDVe4gdyp3QxAzX5yaWnoaEB.jpg",
+    "/oWEgWU4EyHfY6q2npQIkATY2n9H.jpg",
+    "/2V7DF9Z56HzN4YPBJLnKffXsVuU.jpg",
+    "/i5I1iHsbhlvXuxyEZtKTBcN7DoA.jpg",
+    "/cTIN2fu6SzMO5VkE60CqbZuP7HX.jpg",
+    "/dUxzJQfpd1NtM2l8MHH2ndHbIuc.jpg",
+    "/bkT3JrZgrJtLa8lTjIJKKNCBm9b.jpg",
+    "/aFa4CqIYcl6Nmf79CzqKB9L9tfg.jpg",
+    "/uBs4WpoZ1calORLHtpheGj1EPJF.jpg"
+  ],
+  "releaseDate": "1981-05-27",
+  "runtime": 124,
+  "voteAverage": "7.32",
+  "popularity": null,
+  "popularityScore": 1998,
+  "originalLanguage": "en",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=aLXW-oVbTxE",
+  "quality": "BLU-RAY",
+  "director": "Andrzej Żuławski",
+  "directorTmdbId": 32082,
+  "directorProfilePath": "/A9OzmL6AJmqGfqEyGo1pvG3o8Fo.jpg",
+  "productionCompanies": [
+    {
+      "id": 9,
+      "name": "Gaumont",
+      "logo_path": "/h4zSRszvKHr1tjqEp8voJVahuza.png"
+    },
+    {
+      "id": 1060,
+      "name": "Oliane Productions",
+      "logo_path": null
+    },
+    {
+      "id": 1497,
+      "name": "Marianne Productions",
+      "logo_path": null
+    },
+    {
+      "id": 199200,
+      "name": "Soma Film Produktion",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 596,
+      "name": "adultery"
+    },
+    {
+      "id": 220,
+      "name": "berlin, germany"
+    },
+    {
+      "id": 1299,
+      "name": "monster"
+    },
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 5809,
+      "name": "marriage crisis"
+    },
+    {
+      "id": 74,
+      "name": "germany"
+    },
+    {
+      "id": 292,
+      "name": "berlin wall"
+    },
+    {
+      "id": 1523,
+      "name": "obsession"
+    },
+    {
+      "id": 1501,
+      "name": "allegory"
+    },
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 9712,
+      "name": "possession"
+    },
+    {
+      "id": 10292,
+      "name": "gore"
+    },
+    {
+      "id": 5083,
+      "name": "hysteria"
+    },
+    {
+      "id": 7059,
+      "name": "anti-communism"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10303,
+      "name": "domestic abuse"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 11925,
+      "name": "domestic violence"
+    },
+    {
+      "id": 14735,
+      "name": "motorcycle"
+    },
+    {
+      "id": 14991,
+      "name": "tentacle"
+    },
+    {
+      "id": 17986,
+      "name": "miscarriage"
+    },
+    {
+      "id": 18013,
+      "name": "separation"
+    },
+    {
+      "id": 34094,
+      "name": "extramarital affair"
+    },
+    {
+      "id": 41329,
+      "name": "mental illness"
+    },
+    {
+      "id": 155790,
+      "name": "private detective"
+    },
+    {
+      "id": 155811,
+      "name": "spiral staircase"
+    },
+    {
+      "id": 157701,
+      "name": "psychotic"
+    },
+    {
+      "id": 161891,
+      "name": "doppelgänger"
+    },
+    {
+      "id": 163129,
+      "name": "dual role"
+    },
+    {
+      "id": 171848,
+      "name": "marital separation"
+    },
+    {
+      "id": 189921,
+      "name": "video nasty"
+    },
+    {
+      "id": 191815,
+      "name": "breakdown"
+    },
+    {
+      "id": 199524,
+      "name": "disturbed"
+    },
+    {
+      "id": 237105,
+      "name": "downward spiral"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 311315,
+      "name": "dramatic"
+    },
+    {
+      "id": 312949,
+      "name": "impending divorce"
+    },
+    {
+      "id": 322255,
+      "name": "sinister"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    },
+    {
+      "id": 325777,
+      "name": "bewildered"
+    },
+    {
+      "id": 325787,
+      "name": "complicated"
+    },
+    {
+      "id": 325835,
+      "name": "melodramatic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 17350,
+  "watchlistCount": 103,
+  "favouriteCount": 16,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-19T13:07:59.308Z",
+  "updatedAt": "2026-10-19T13:25:16.133Z",
+  "genres": [
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "547e65d0-7594-4170-bf4e-58e91d85664f",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 6553,
+      "name": "Isabelle Adjani",
+      "character": "Anna / Helen",
+      "profilePath": "/enki8q6xq7U3UVJdJ6A3xFU7lC1.jpg",
+      "order": 0
+    },
+    {
+      "id": "f6909d7e-434e-459d-8d88-bb5de31cb6e4",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 4783,
+      "name": "Sam Neill",
+      "character": "Mark",
+      "profilePath": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg",
+      "order": 1
+    },
+    {
+      "id": "efea47bc-2f14-4d40-a7ae-8ba41fbab2d8",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 20017,
+      "name": "Margit Carstensen",
+      "character": "Margit Gluckmeister",
+      "profilePath": "/hSCBZ1eoJpJaDg2pBRWxHmqSeKQ.jpg",
+      "order": 2
+    },
+    {
+      "id": "c8956c65-97c3-4439-83ca-f80eaff954dd",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 10263,
+      "name": "Heinz Bennent",
+      "character": "Heinrich",
+      "profilePath": "/4T3avFG7FItSWzAcvyUzjjGCHgl.jpg",
+      "order": 3
+    },
+    {
+      "id": "05445731-c531-496a-805f-d095d88ffad9",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 94324,
+      "name": "Johanna Hofer",
+      "character": "Heinrich's Mother",
+      "profilePath": "/pIUQbxkpBl69Ix1YtOGxLvA1uB9.jpg",
+      "order": 4
+    },
+    {
+      "id": "3c93337a-48ce-4875-aa21-0f59409b0f38",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 2272,
+      "name": "Carl Duering",
+      "character": "Private Detective",
+      "profilePath": "/idrRJuQErZ2cj8F8II1LikeTgb1.jpg",
+      "order": 5
+    },
+    {
+      "id": "d5520d70-ea24-49b8-9176-6bf723db479e",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 987260,
+      "name": "Shaun Lawton",
+      "character": "Zimmermann",
+      "profilePath": "/jzt29nds729YhN4UDabmEo70Rcp.jpg",
+      "order": 6
+    },
+    {
+      "id": "d82c36ce-c58f-4a49-9038-7be9aa3e7697",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 1063549,
+      "name": "Michael Hogben",
+      "character": "Bob",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "031ee9ce-d4a6-4684-9915-219c28c277d5",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 24141,
+      "name": "Maximilian Rüthlein",
+      "character": "Man with Pink Socks",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "acb3668d-dde2-4bdb-ad03-4f6c60537f3c",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 1830229,
+      "name": "Thomas Frey",
+      "character": "Pink Sock's Acolyte",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "1fe18bf4-cc1a-443b-99c3-470f940ea8ec",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 68368,
+      "name": "Leslie Malton",
+      "character": "Sara",
+      "profilePath": "/sC8tgPm1jF73u2eeK2ZiZ9uI3MA.jpg",
+      "order": 10
+    },
+    {
+      "id": "05a8030e-710d-481d-9742-a859e7905014",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 5788599,
+      "name": "Gerd Neubert",
+      "character": "Subway Drunk",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "30e03f04-2057-4833-bcb7-d43fa487f347",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 584144,
+      "name": "Ilse Bahrs",
+      "character": "",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "83e15152-9696-437d-a899-441810c86ca2",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 4361620,
+      "name": "Karin Mumm",
+      "character": "",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "d938fc2a-cb78-4750-a13a-8a5d857020fc",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 1446277,
+      "name": "Herbert Chwoika",
+      "character": "",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "e5b9eb01-17e8-4ea1-aa70-0bd63741a722",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 13540,
+      "name": "Barbara Stanek",
+      "character": "",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "df4e7ac7-c398-4ec4-98ae-7f88976bd5d0",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 1063719,
+      "name": "Ilse Trautschold",
+      "character": "",
+      "profilePath": "/aKelKumEVVHZP2vbBxHLOoJXPuK.jpg",
+      "order": 16
+    },
+    {
+      "id": "c2cbcfab-8368-4add-a00b-9332aacce07a",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 37531,
+      "name": "Harry Riebauer",
+      "character": "Man at the Conference",
+      "profilePath": "/zpp3jvg0TmRCExsupDhw7JTSIns.jpg",
+      "order": 17
+    },
+    {
+      "id": "e1fcbad8-14d1-420d-b0bf-b882eef3d6ca",
+      "movieId": "89f9aed2-9064-454a-ba27-785cae2225cc",
+      "tmdbPersonId": 556090,
+      "name": "Dragomir Stanojević",
+      "character": "Taxi Driver",
+      "profilePath": "/AnkYSAwE6kDsipSdVnykPWiuI7d.jpg",
+      "order": 18
+    }
+  ],
+  "requestedBy": {
+    "username": "richierees",
+    "displayName": "richie"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

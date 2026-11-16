@@ -1,0 +1,131 @@
+{
+  "slug": "minimum-security-2026",
+  "id": "874b63c8-5bcd-405b-bf35-338703673a85",
+  "title": "Minimum Security",
+  "overview": "Corinne runs Chénoise prison with her unlikely team: By-the-book Jeff, JP who's always been closer to inmates than colleagues, and rookie Stéphanie.",
+  "tagline": "A show about the only people who choose to spend their lives in prison, the guards.",
+  "posterPath": "/c0vJ8YFq7mUwdA8z16OtW9peTWd.jpg",
+  "backdropPath": "/aAWDj71XRCHhSrE0dnU6YrquMMY.jpg",
+  "logoPath": "/79qQpBeCHH7riCansYg9z4tLUoL.png",
+  "firstAirDate": "2026-09-16",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d365f4c4-cbce-41e8-853e-16f3c7aa8400",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbPersonId": 130664,
+      "name": "Audrey Lamy",
+      "character": "Corinne Maillard",
+      "profilePath": "/zRyuaPykapMI71yH6cPunGY5Ywz.jpg",
+      "order": 0
+    },
+    {
+      "id": "61eac382-acfd-452b-8140-d9a73cf51970",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbPersonId": 1496508,
+      "name": "Jean-Pascal Zadi",
+      "character": "JP",
+      "profilePath": "/wkI3RmKxNMtxNBOfSpgMgQsR53K.jpg",
+      "order": 1
+    },
+    {
+      "id": "a6c4837b-75b9-472e-a599-e33bb9e4512b",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbPersonId": 1764065,
+      "name": "Benjamin Tranié",
+      "character": "Jeff",
+      "profilePath": "/4Kqw4DXtq8y7sygGhDSqRSH9Nso.jpg",
+      "order": 2
+    },
+    {
+      "id": "3ff11387-72e7-4dc4-a78b-0d21d9fb0cc5",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbPersonId": 3265607,
+      "name": "Eva Huault",
+      "character": "Stéphanie",
+      "profilePath": "/4Ovo0oNkV6KLphyhgT30tY6UH0.jpg",
+      "order": 3
+    },
+    {
+      "id": "b0958612-d55b-46ab-974a-c1b615d9f84c",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbPersonId": 2843264,
+      "name": "Jérémy Nadeau",
+      "character": "",
+      "profilePath": "/1RtA6OuUZaI2JVFNzZC1mniUleP.jpg",
+      "order": 4
+    },
+    {
+      "id": "29167aff-100f-4945-8874-14addddfe44e",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbPersonId": 1636467,
+      "name": "David Ayala",
+      "character": "",
+      "profilePath": "/g1FlhpnXANAvr80osb0rpazI5V6.jpg",
+      "order": 5
+    },
+    {
+      "id": "818fa07e-f734-4ecf-a70a-74d0847af42a",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbPersonId": 4346542,
+      "name": "Logan Lefèbvre",
+      "character": "",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "4c3974e9-7cf0-4bb4-b5df-9c5793623f8d",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbPersonId": 67714,
+      "name": "Ramzy Bedia",
+      "character": "",
+      "profilePath": "/fzGqj63WW6NFAK43oVjtYzVy75y.jpg",
+      "order": 7
+    },
+    {
+      "id": "b353c6ad-f518-4bc3-bc15-07eba5969007",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbPersonId": 2355192,
+      "name": "Hakim Jemili",
+      "character": "",
+      "profilePath": "/w7Cn5MNRdzeUl41LuEJAg1ldeTM.jpg",
+      "order": 8
+    },
+    {
+      "id": "b4956ab3-be6f-409c-ac13-89da7c2d4ab0",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbPersonId": 71930,
+      "name": "Gustave Kervern",
+      "character": "",
+      "profilePath": "/kDBq8wmIxXl7NgiC3ilR0qCwrgX.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "7ec99330-d0a6-4763-a1f5-f2d69f57ed49",
+      "tvSeriesId": "874b63c8-5bcd-405b-bf35-338703673a85",
+      "tmdbId": 471782,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/c0vJ8YFq7mUwdA8z16OtW9peTWd.jpg",
+      "airDate": "2026-09-16",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-17T08:08:07.636Z",
+      "updatedAt": "2026-09-17T08:09:16.187Z"
+    }
+  ]
+}

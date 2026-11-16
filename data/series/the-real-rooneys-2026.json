@@ -1,0 +1,66 @@
+{
+  "slug": "the-real-rooneys-2026",
+  "id": "cffc7e7e-2e79-4856-bbc2-005910d66f53",
+  "title": "The Real Rooneys",
+  "overview": "A candid glimpse into the Rooneys' world as soccer legend Wayne juggles dad duties and former England captain's wife Coleen balances motherhood with business ambitions.",
+  "tagline": "New roles. New goals.",
+  "posterPath": "/yIu8AuGmtUKQRdKGGCq6SgLYvl2.jpg",
+  "backdropPath": "/uUMK43Cj0ZvwwD67TiIn8JIiBmp.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-09-24",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    },
+    {
+      "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+      "tmdbId": 99,
+      "name": "Documentary",
+      "slug": "documentary",
+      "createdAt": "2026-04-02T13:53:46.408Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1d286666-6c71-4902-805b-5e3c85d4d41a",
+      "tvSeriesId": "cffc7e7e-2e79-4856-bbc2-005910d66f53",
+      "tmdbPersonId": 2630135,
+      "name": "Coleen Rooney",
+      "character": "Self",
+      "profilePath": "/wv12ZEmrObCJkRJTj9mrY8RUs95.jpg",
+      "order": 0
+    },
+    {
+      "id": "9c9687d5-62da-4e50-abb7-6ff9ad7c4341",
+      "tvSeriesId": "cffc7e7e-2e79-4856-bbc2-005910d66f53",
+      "tmdbPersonId": 928562,
+      "name": "Wayne Rooney",
+      "character": "Self",
+      "profilePath": "/pIUmu6SkoZpF5wT96mx0cEtyv2N.jpg",
+      "order": 1
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4de52d94-df4b-45f9-8665-b956ec24cb5b",
+      "tvSeriesId": "cffc7e7e-2e79-4856-bbc2-005910d66f53",
+      "tmdbId": 544544,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-09-24",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-06T20:27:10.324Z",
+      "updatedAt": "2026-10-06T20:38:27.429Z"
+    }
+  ]
+}

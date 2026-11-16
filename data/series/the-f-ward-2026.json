@@ -1,0 +1,86 @@
+{
+  "slug": "the-f-ward-2026",
+  "id": "14d4b473-f4a1-47f0-a535-2abeb085bc9c",
+  "title": "The F Ward",
+  "overview": "Failed medical interns get their last shot at Sydney’s underfunded Pines Hospital, where they battle to overcome personal shortcomings and past mistakes in the hope of finally becoming doctors.",
+  "tagline": null,
+  "posterPath": "/fxAGqcJMyN5vy9dINUtRDQxPKdU.jpg",
+  "backdropPath": "/jldm5aI2QHjDXAuDVoGw1TCVAqt.jpg",
+  "logoPath": "/Aae0cHQNX4RZ33swzpAtA5zPrHx.png",
+  "firstAirDate": "2026-07-17",
+  "voteAverage": "4.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1be0c6ee-fc5c-42fe-aeaf-4d2c1d1c91ce",
+      "tvSeriesId": "14d4b473-f4a1-47f0-a535-2abeb085bc9c",
+      "tmdbPersonId": 58016,
+      "name": "Anna Friel",
+      "character": "Dr Gloria Wall",
+      "profilePath": "/uY9ugiMtyvNp8cN7jvNZfin7sud.jpg",
+      "order": 0
+    },
+    {
+      "id": "67eb9d64-47df-4d4a-a759-d4ae8e8941b1",
+      "tvSeriesId": "14d4b473-f4a1-47f0-a535-2abeb085bc9c",
+      "tmdbPersonId": 2917826,
+      "name": "Ioane Sa'ula",
+      "character": "Jimmy Seufale",
+      "profilePath": "/bW1Uf7t2JlMbmTk2NPm3KsLdQzQ.jpg",
+      "order": 1
+    },
+    {
+      "id": "17af3978-5e11-4ee1-8467-1287ad5f1426",
+      "tvSeriesId": "14d4b473-f4a1-47f0-a535-2abeb085bc9c",
+      "tmdbPersonId": 1856780,
+      "name": "Alex Fitzalan",
+      "character": "Josh Wilson",
+      "profilePath": "/yw9V4qCQr8V4aF2DJIbR5Ui7c43.jpg",
+      "order": 2
+    },
+    {
+      "id": "6245a75f-4a78-4375-bf04-fc7b785c2f08",
+      "tvSeriesId": "14d4b473-f4a1-47f0-a535-2abeb085bc9c",
+      "tmdbPersonId": 3062,
+      "name": "Dan Wyllie",
+      "character": "Dr Curtis Parker",
+      "profilePath": "/87jbUjYxj1hoTAIZOLz0VpXs81A.jpg",
+      "order": 3
+    },
+    {
+      "id": "158e272f-e5a4-4d25-9d0a-518e56b0c895",
+      "tvSeriesId": "14d4b473-f4a1-47f0-a535-2abeb085bc9c",
+      "tmdbPersonId": 3832290,
+      "name": "Lola Bond",
+      "character": "Ellie O'Neill",
+      "profilePath": null,
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "fd63b8a8-4bb8-43c5-9d17-ae25eea721ac",
+      "tvSeriesId": "14d4b473-f4a1-47f0-a535-2abeb085bc9c",
+      "tmdbId": 522644,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/7OGSrmR4U1cRwj9rNYVac8qVg5C.jpg",
+      "airDate": "2026-07-17",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-08-17T03:58:09.578Z",
+      "updatedAt": "2026-08-17T04:12:13.680Z"
+    }
+  ]
+}

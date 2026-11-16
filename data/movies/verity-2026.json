@@ -1,0 +1,399 @@
+{
+  "slug": "verity-2026",
+  "id": "3228fe29-12ed-445c-8df0-739dc91df598",
+  "tmdbId": 1283515,
+  "imdbId": "tt32261958",
+  "title": "Verity",
+  "originalTitle": "Verity",
+  "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
+  "tagline": "There is no light where we're going.",
+  "posterPath": "/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+  "backdropPath": "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+  "logoPath": "/8i9EzaVyRMtYW6WxcN7hK3RfDng.png",
+  "backdrops": [
+    "/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+    "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+    "/b1y7n7PwuxlVaLrDBESrAqdRehx.jpg",
+    "/u9y56d8ZjxV5axSN4GMRb1sKa2U.jpg",
+    "/zrGI2Lm89fgR5ntysKLmEPgNrdV.jpg",
+    "/ugwkKEXBlQAXxbBbbYeOLN0J20U.jpg",
+    "/2upfBtX4LgTcEuLI6bZuWlVv3U3.jpg",
+    "/sSPreWTXybWDgfNvKoL9E4sahqH.jpg",
+    "/odyuHRcXn5pwV4uaDUUrFR8p4PN.jpg",
+    "/oLTRdjWO2edGrXeH1rMFlXu0Yfj.jpg"
+  ],
+  "releaseDate": "2026-09-30",
+  "runtime": 114,
+  "voteAverage": "6.39",
+  "popularity": null,
+  "popularityScore": 11125,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
+  "quality": "WEB-DL",
+  "director": "Michael Showalter",
+  "directorTmdbId": 22215,
+  "directorProfilePath": "/AtX8Eli8Cg8g8HrcRJDBFnplyN0.jpg",
+  "productionCompanies": [
+    {
+      "id": 121708,
+      "name": "Eat the Cat",
+      "logo_path": "/vcryivUnATVk0rpr1TMYSulGt26.png"
+    },
+    {
+      "id": 112037,
+      "name": "Semi-Formal Productions",
+      "logo_path": "/tEjXfABMQ01K1T6YQienJMe0QRH.png"
+    },
+    {
+      "id": 176196,
+      "name": "Somewhere Pictures",
+      "logo_path": null
+    },
+    {
+      "id": 168415,
+      "name": "Shiny Penny Productions",
+      "logo_path": "/e4qwqDDcRj93DdglUK1MbdEofqy.png"
+    },
+    {
+      "id": 241073,
+      "name": "Heartbones Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 210099,
+      "name": "Amazon MGM Studios",
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+      "id": 6831,
+      "name": "Big Indie Pictures",
+      "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 12565,
+      "name": "psychological thriller"
+    },
+    {
+      "id": 155251,
+      "name": "novelist"
+    },
+    {
+      "id": 180724,
+      "name": "hidden truth"
+    },
+    {
+      "id": 207767,
+      "name": "erotic thriller"
+    },
+    {
+      "id": 210726,
+      "name": "ghost writer"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 95526,
+  "watchlistCount": 687,
+  "favouriteCount": 189,
+  "shareCount": 56,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-27T09:02:01.176Z",
+  "updatedAt": "2026-10-27T09:02:05.100Z",
+  "genres": [
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ccac93c1-69c7-49df-b2eb-1fd1981cc7e4",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 1813,
+      "name": "Anne Hathaway",
+      "character": "Verity Crawford",
+      "profilePath": "/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg",
+      "order": 0
+    },
+    {
+      "id": "f067fd6b-bd83-4dcd-967b-b46213ace7a8",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 118545,
+      "name": "Dakota Johnson",
+      "character": "Lowen Ashleigh",
+      "profilePath": "/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg",
+      "order": 1
+    },
+    {
+      "id": "beb7165f-afa9-4c9a-b3f9-2b0bd2b89618",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 2299,
+      "name": "Josh Hartnett",
+      "character": "Jeremy Crawford",
+      "profilePath": "/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg",
+      "order": 2
+    },
+    {
+      "id": "8ff9944f-fa8d-4736-8826-8c851a504e0b",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 5269231,
+      "name": "Brady Wagner",
+      "character": "Crew Crawford",
+      "profilePath": "/9zwYF2aPqotnCknqXktEbZ9wdg7.jpg",
+      "order": 3
+    },
+    {
+      "id": "d2d4d29a-848f-489f-81bc-5e0fbe5c1760",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 1100144,
+      "name": "Ismael Cruz Cordova",
+      "character": "Corey",
+      "profilePath": "/oXcrsQGndk60iFkNB8qFnMHlNzL.jpg",
+      "order": 4
+    },
+    {
+      "id": "8081079c-13e8-4e4f-9359-c21defa37e5e",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 1429011,
+      "name": "Irina Dvorovenko",
+      "character": "Anna",
+      "profilePath": "/kVgnALw6PnmzTE5PeFIGfaZXo2j.jpg",
+      "order": 5
+    },
+    {
+      "id": "0a189668-d373-4219-96d3-a4c4965b6f08",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 6497911,
+      "name": "Sienna Kulovitz",
+      "character": "Harper Crawford",
+      "profilePath": "/veWa8jWdXGgLF8nsb4qKIrFV1Fy.jpg",
+      "order": 6
+    },
+    {
+      "id": "d471c736-60f4-4bb2-a83e-8cb815c464ec",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 221810,
+      "name": "K.K. Moggie",
+      "character": "Amanda Thomas",
+      "profilePath": "/hQvZKknETtr4eTuK5I27f6jdRUY.jpg",
+      "order": 7
+    },
+    {
+      "id": "6a8a9cba-3c03-4b4f-8b79-c41cafc5a29b",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 1620969,
+      "name": "Tom Galantich",
+      "character": "Barron Stephens",
+      "profilePath": "/5d1I6tyB1CnECYhos3rX3xOqH9R.jpg",
+      "order": 8
+    },
+    {
+      "id": "81b0e718-59a1-4925-abb1-c901a7ae19e6",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 106187,
+      "name": "Lou Martini Jr.",
+      "character": "Limo Driver",
+      "profilePath": "/85s5KR0BA6dhMJtOrvtKGY8Bz8E.jpg",
+      "order": 9
+    },
+    {
+      "id": "4b42c4c8-dd8f-49ed-af62-d357e9335df4",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 1956107,
+      "name": "Clark Carmichael",
+      "character": "Deputy Ross",
+      "profilePath": "/rkk2AnclGlMPwGBwkSKvWrCKpNF.jpg",
+      "order": 10
+    },
+    {
+      "id": "8cf0edf3-2206-4347-a6c6-161ccf78b824",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 71889,
+      "name": "Michael Abbott Jr.",
+      "character": "Sheriff Wilson",
+      "profilePath": "/af4hYV7WwEtL48eND0xDsdobJq9.jpg",
+      "order": 11
+    },
+    {
+      "id": "9a58ed0a-f065-4bdf-97f3-8a81d675e933",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 5944489,
+      "name": "Stephen Elrod",
+      "character": "Bartender",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "85f9be46-d9b5-45bd-b2f1-775122f931ac",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 5854206,
+      "name": "Nathan Tylutki",
+      "character": "Bystander",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "72d3555c-89f1-4351-9f7c-b5c7ab2e5d5a",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 1907269,
+      "name": "Thursday Farrar",
+      "character": "Bystander",
+      "profilePath": "/4AfMXbBm1SYCiAS8y1QxpjLYsgS.jpg",
+      "order": 14
+    },
+    {
+      "id": "0d0014d6-df87-4662-94f6-f0fcf6d166c2",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 6460521,
+      "name": "Asel Swango",
+      "character": "Bystander",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "121ad134-f98b-4ecb-bcfa-1eab65b709e1",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 4992172,
+      "name": "Daniel Echevarria",
+      "character": "Bystander",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "d146eeb1-2b79-4544-a3d4-b074ff867159",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 3071550,
+      "name": "Wren Rivera",
+      "character": "Woman on Phone (voice)",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "74d5e31f-3e01-45da-ae22-ca85b40831fe",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 3713091,
+      "name": "Emily McEnroe",
+      "character": "Olivia (Intern)",
+      "profilePath": "/AfrmYHf4ulnNvLsvNJvj65jwy3a.jpg",
+      "order": 18
+    },
+    {
+      "id": "aa0f5af1-5548-4837-b0d1-5b22d2146d36",
+      "movieId": "3228fe29-12ed-445c-8df0-739dc91df598",
+      "tmdbPersonId": 3260037,
+      "name": "Luke Klein",
+      "character": "Cole",
+      "profilePath": "/t8EcepzLZIRkGsdZKTKelwtWkgr.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

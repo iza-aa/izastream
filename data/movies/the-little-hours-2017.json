@@ -1,0 +1,413 @@
+{
+  "slug": "the-little-hours-2017",
+  "id": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+  "tmdbId": 411873,
+  "imdbId": "tt5666304",
+  "title": "The Little Hours",
+  "originalTitle": "The Little Hours",
+  "overview": "Garfagnana, Italy, 1347. The handsome servant Masseto, fleeing from his vindictive master, takes shelter in a nunnery where three young nuns, Sister Alessandra, Sister Ginevra and Sister Fernanda, try unsuccessfully to find out what their purpose in life is, a conundrum that each of them faces in different ways.",
+  "tagline": "Obedientia. Paupertas.",
+  "posterPath": "/wS69OOwBJzimoLIcmYMSVkmhCZM.jpg",
+  "backdropPath": "/hURbH7LeOnnet8F46zZvlKQF9Wf.jpg",
+  "logoPath": "/x3M5d6EBcCeSMqLNpl2JJpXFrrw.png",
+  "backdrops": [
+    "/hURbH7LeOnnet8F46zZvlKQF9Wf.jpg",
+    "/rLYrIa1NAZnAcqy7b8sFGpQCdAf.jpg",
+    "/eBnUzHJn7Jh1ziQqLIWGmpOsSk3.jpg",
+    "/oeLZ7h5MBt63xksjT0Qr9hgJwAg.jpg",
+    "/cAw4aLUPJnkDdjLyZK9TtSGMv2b.jpg",
+    "/y4SYXYAzuU2CJxX2eMZV0vuJIvt.jpg",
+    "/y4NSG3C3RtzkyVG0H00EGJL05PH.jpg",
+    "/oWoK5GX1e1EzrwFpZbju5GTTVfn.jpg",
+    "/xw45044nv4sGeY8pKzvVUHCm1rd.jpg",
+    "/eEmdFCZ69LUAjbRVsJdYL4mvg3A.jpg"
+  ],
+  "releaseDate": "2017-06-30",
+  "runtime": 90,
+  "voteAverage": "5.89",
+  "popularity": null,
+  "popularityScore": 74,
+  "originalLanguage": "en",
+  "country": "CA",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=G73d-9BZ3bg",
+  "quality": "WEB-DL",
+  "director": "Jeff Baena",
+  "directorTmdbId": 17884,
+  "directorProfilePath": "/xQXUad72GEhlnEq7jbPlhhIO6PY.jpg",
+  "productionCompanies": [
+    {
+      "id": 35043,
+      "name": "Destro Films",
+      "logo_path": "/ifwiBTBDk8GQPyClmuE2yO36Qu.png"
+    },
+    {
+      "id": 92470,
+      "name": "Dublab Media",
+      "logo_path": null
+    },
+    {
+      "id": 41608,
+      "name": "Productivity Media",
+      "logo_path": "/5BCREil54GIMdX95OopfIX05YZx.png"
+    },
+    {
+      "id": 96654,
+      "name": "Gunpowder & Sky",
+      "logo_path": "/r76unvd8wmHNKhII3HjcxRxiCW5.png"
+    },
+    {
+      "id": 92469,
+      "name": "StarStream Media",
+      "logo_path": null
+    },
+    {
+      "id": 37432,
+      "name": "Bow + Arrow Entertainment",
+      "logo_path": "/4jf93b9QJmuHxtb1CAFxakApt5K.png"
+    },
+    {
+      "id": 92472,
+      "name": "Foton Pictures",
+      "logo_path": "/g3J6ulwpi9Ncmc6XCri96LHPVAL.png"
+    },
+    {
+      "id": 90760,
+      "name": "Exhibit Entertainment",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 41406,
+      "name": "middle ages (476-1453)"
+    },
+    {
+      "id": 165470,
+      "name": "convent (nunnery)"
+    },
+    {
+      "id": 172028,
+      "name": "nunhood"
+    },
+    {
+      "id": 237612,
+      "name": "14th century"
+    },
+    {
+      "id": 252786,
+      "name": "anachronistic"
+    },
+    {
+      "id": 263664,
+      "name": "medieval italy"
+    },
+    {
+      "id": 288816,
+      "name": "lighthearted"
+    },
+    {
+      "id": 324713,
+      "name": "whimsical"
+    },
+    {
+      "id": 325787,
+      "name": "complicated"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 3343,
+  "watchlistCount": 21,
+  "favouriteCount": 3,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-14T10:04:13.530Z",
+  "updatedAt": "2026-09-14T10:10:46.439Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "017e29cb-2836-40d9-b75b-bf7359167491",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 88029,
+      "name": "Alison Brie",
+      "character": "Sister Alessandra",
+      "profilePath": "/smqYVStfIHDYKTu8T1BA2LnhdF9.jpg",
+      "order": 0
+    },
+    {
+      "id": "36d029c9-1126-4ddc-b9cb-08e751c50683",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 54697,
+      "name": "Dave Franco",
+      "character": "Masseto",
+      "profilePath": "/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg",
+      "order": 1
+    },
+    {
+      "id": "b8348264-f83f-4c15-8d00-446eae1e0e1b",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 132354,
+      "name": "Kate Micucci",
+      "character": "Sister Ginevra",
+      "profilePath": "/lgmIxZ59bnYflbkWyAfmWi0bUsT.jpg",
+      "order": 2
+    },
+    {
+      "id": "c860609b-c34f-4186-a0df-aabdbac99ccf",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 119592,
+      "name": "Aubrey Plaza",
+      "character": "Sister Fernanda",
+      "profilePath": "/ejtGfjOAvUHBdVc3xTIV1HtJBi9.jpg",
+      "order": 3
+    },
+    {
+      "id": "b4791d1c-c7cd-4f4b-be5d-ef3abb5ed020",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 4764,
+      "name": "John C. Reilly",
+      "character": "Father Tommasso",
+      "profilePath": "/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg",
+      "order": 4
+    },
+    {
+      "id": "dda6d458-4ee7-415d-8fff-b2bebe822048",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 28640,
+      "name": "Molly Shannon",
+      "character": "Sister Marea",
+      "profilePath": "/5ZTbNpJtDRU4ZCH24nJvFRxaqAD.jpg",
+      "order": 5
+    },
+    {
+      "id": "bdf52192-3a3b-4d19-96bf-10b6aee1527c",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 61110,
+      "name": "Fred Armisen",
+      "character": "Bishop Bartolomeo",
+      "profilePath": "/rhPN8Zx6nrtNiQN2JwPkJ3ZFJ9z.jpg",
+      "order": 6
+    },
+    {
+      "id": "9a85d19d-6b9f-441e-b409-c171f8c37550",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 139151,
+      "name": "Jemima Kirke",
+      "character": "Marta",
+      "profilePath": "/tPBv42wgYOkTBWzRndEz50hTtdE.jpg",
+      "order": 7
+    },
+    {
+      "id": "628869f0-bbe8-4b28-b1f4-672a0947e031",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 1375338,
+      "name": "Lauren Weedman",
+      "character": "Francesca",
+      "profilePath": "/5ttf59nMGIji4gujmgQoS434tIA.jpg",
+      "order": 8
+    },
+    {
+      "id": "8cdea430-f4a4-470c-8862-5abb0890e3af",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 17039,
+      "name": "Nick Offerman",
+      "character": "Bruno",
+      "profilePath": "/f6z3mPVtaF40ewfdmZydprAjmYd.jpg",
+      "order": 9
+    },
+    {
+      "id": "104924cd-08b3-4f00-8794-12bef1895dae",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 781,
+      "name": "Paul Reiser",
+      "character": "Ilario",
+      "profilePath": "/rGryzG00uSk8LsidacSBXVgo3iv.jpg",
+      "order": 10
+    },
+    {
+      "id": "f63657e4-9917-4213-bf79-b7bbbd078b5c",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 115974,
+      "name": "Adam Pally",
+      "character": "Guard Paolo",
+      "profilePath": "/yY13PEaVbPoXT5MkitVxTfdAZnU.jpg",
+      "order": 11
+    },
+    {
+      "id": "033ad682-cb0a-4577-8302-8d9cba1b9ef2",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 3289,
+      "name": "Paul Weitz",
+      "character": "Lurco",
+      "profilePath": "/54Np4lBqGM36uwpzRc4KztJxGJz.jpg",
+      "order": 12
+    },
+    {
+      "id": "d9518071-ec79-4703-9107-5cf6ae86ac6e",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 1465562,
+      "name": "Jon Gabrus",
+      "character": "Guard Gregorio",
+      "profilePath": "/kEJ1tsmRlLI0cAUd5gZ9FuTZWZw.jpg",
+      "order": 13
+    },
+    {
+      "id": "23c9814d-2065-4544-8401-a4589ebad02d",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 1949645,
+      "name": "Rolando Abbarchi",
+      "character": "Old Man Priest",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "bcd9cf18-1d03-4b6b-917b-88e3bbc771e2",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 1949644,
+      "name": "Teresa Marini",
+      "character": "Viola",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "8b00b628-0d8d-4431-9c9d-e8e886cea9c5",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 1949646,
+      "name": "Dina Lenzi",
+      "character": "Elderly Nun",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "472bc636-1245-426f-b2ab-f1c53da76ca0",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 3480742,
+      "name": "Maria Irene Vetrano",
+      "character": "Nun",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "c1250323-e043-4a6a-85f9-ee654a9ac05a",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 3480743,
+      "name": "Letizia Giuntini",
+      "character": "Nun",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "b07b394c-d127-4f38-b542-d5799560dc0c",
+      "movieId": "fab3cce8-78c5-470f-a5f0-ae1ba236cd95",
+      "tmdbPersonId": 3480744,
+      "name": "Samanta Gualtieri",
+      "character": "Nun",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

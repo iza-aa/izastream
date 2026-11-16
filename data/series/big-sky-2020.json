@@ -1,0 +1,173 @@
+{
+  "slug": "big-sky-2020",
+  "id": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+  "title": "Big Sky",
+  "overview": "Private detective Cassie Dewell partners with ex-cop Jenny Hoyt on a search for two sisters who have been kidnapped by a truck driver on a remote highway in Montana. When they discover that these are not the only girls who have disappeared in the area, they must race against the clock to stop the perpetrator before another woman is taken.",
+  "tagline": "Welcome to the scenery of the crime.",
+  "posterPath": "/4CUK42x0TvcWvuRXfjAFQlCeRdf.jpg",
+  "backdropPath": "/6OQHKY4G9wAGwX2riJEzPeGlIu3.jpg",
+  "logoPath": "/v4007dAFJHNjXZUZ1vTUxroFCO6.svg",
+  "firstAirDate": "2020-11-17",
+  "voteAverage": "7.21",
+  "numberOfSeasons": 3,
+  "numberOfEpisodes": 47,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "bf2fb991-33c3-4882-a8f9-a4bbe9b4c736",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbPersonId": 26723,
+      "name": "Katheryn Winnick",
+      "character": "Jenny Hoyt",
+      "profilePath": "/vQSqH3ybDWZHZIqX4NZKhOCXAhQ.jpg",
+      "order": 0
+    },
+    {
+      "id": "6c1b2fa6-5f6e-4ec6-923e-35d851a53946",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbPersonId": 999346,
+      "name": "Kylie Bunbury",
+      "character": "Cassie Dewell",
+      "profilePath": "/jzFpM0qYOPGJENzktILKiVgxXwK.jpg",
+      "order": 1
+    },
+    {
+      "id": "1112c50c-ecc9-4c3e-9486-031ce59d713b",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbPersonId": 91332,
+      "name": "Dedee Pfeiffer",
+      "character": "Denise Brisbane",
+      "profilePath": "/5qEwnlKS2uapYYBca4VypL2K2JQ.jpg",
+      "order": 2
+    },
+    {
+      "id": "de85b5b3-73f8-4ffb-b070-313a4ce1c7cd",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbPersonId": 49271,
+      "name": "Brian Geraghty",
+      "character": "Ronald Pergman",
+      "profilePath": "/4sqeUc4xYyzQ3Qpl5oxlQBTAAQk.jpg",
+      "order": 3
+    },
+    {
+      "id": "8dc37aa1-9873-45c5-bf95-97ad443b1037",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbPersonId": 41309,
+      "name": "Omar Metwally",
+      "character": "Mark Lindor",
+      "profilePath": "/2VGHH1yFCyZCM4h4Y65ynutDFtb.jpg",
+      "order": 4
+    },
+    {
+      "id": "70dc9de6-f206-4553-920d-1c796c91a93c",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbPersonId": 167316,
+      "name": "J. Anthony Pena",
+      "character": "Deputy Mo Poppernak",
+      "profilePath": "/73687WPnjxzpbuVyQXk5cLOmNBp.jpg",
+      "order": 5
+    },
+    {
+      "id": "b0657052-1bca-4e20-9566-50ef15c2d383",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbPersonId": 49624,
+      "name": "Jensen Ackles",
+      "character": "Beau Arlen",
+      "profilePath": "/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg",
+      "order": 6
+    },
+    {
+      "id": "de5f6db4-51ce-46e4-bf13-f32bc588f928",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbPersonId": 208679,
+      "name": "Anja Savcic",
+      "character": "Scarlet Leyendecker",
+      "profilePath": "/nWl0Hgw8y35bXXl9VaorAmYjhBY.jpg",
+      "order": 7
+    },
+    {
+      "id": "08e25835-a068-44fb-a2a5-190b1ec7a9a6",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbPersonId": 99241,
+      "name": "Jamie-Lynn Sigler",
+      "character": "Tonya Wallis",
+      "profilePath": "/Aur8H7qOzDUr9cRaqqOsCE5kLJp.jpg",
+      "order": 9
+    },
+    {
+      "id": "109c1de7-fb69-4d04-a289-6f7d36f5c7c9",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbPersonId": 2033618,
+      "name": "Jesse James Keitel",
+      "character": "Jerrie Kennedy",
+      "profilePath": "/aZkcKRQEmrKhG83bQkkWjdn2Ftj.jpg",
+      "order": 10
+    }
+  ],
+  "seasons": [
+    {
+      "id": "6f3e4fd3-425d-4ab1-971d-61f5b55c4b21",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbId": 144428,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/aWcXShAeDGWuvxi6dYfjRf1sf6T.jpg",
+      "airDate": "2020-11-17",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-08-19T07:51:27.981Z",
+      "updatedAt": "2026-08-19T07:57:28.041Z"
+    },
+    {
+      "id": "95df20cb-48e6-490c-9a84-1306739e6398",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbId": 202441,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "When private detectives Cassie Dewell and Jenny Hoyt reunite to investigate a car wreck outside of Helena, Montana, they soon discover that the case may not be as straightforward as it seems. As they unravel the mystery of the accident, their worlds will collide with a band of unsuspecting teens, a flirtatious face from Jenny’s past, and a vicious outsider hellbent on finding answers.",
+      "posterPath": "/mZnYuNxYjzmeEdjhopoSksoXTIP.jpg",
+      "airDate": "2021-09-30",
+      "episodeCount": 18,
+      "isPublished": true,
+      "createdAt": "2026-08-19T07:51:27.981Z",
+      "updatedAt": "2026-08-19T07:57:30.345Z"
+    },
+    {
+      "id": "d224a5af-f0c3-4699-b183-ae1d03401427",
+      "tvSeriesId": "1a0078d5-6ca4-4044-bd4b-25301b6c7bca",
+      "tmdbId": 297659,
+      "seasonNumber": 3,
+      "name": "Deadly Trails",
+      "overview": "Cassie, Jenny and newly appointed sheriff Beau Arlen maintain order in Helena, Montana with their unparalleled investigative skills. But when a local backcountry trip led by charismatic outfitter Sunny Barnes goes awry, the trio faces their most formidable mystery yet – in which no camper can be trusted and where danger lurks around every jagged rock and gnarled tree.",
+      "posterPath": "/4CUK42x0TvcWvuRXfjAFQlCeRdf.jpg",
+      "airDate": "2022-09-21",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-08-19T07:51:27.981Z",
+      "updatedAt": "2026-08-19T07:57:32.034Z"
+    }
+  ]
+}

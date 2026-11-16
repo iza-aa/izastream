@@ -1,0 +1,315 @@
+{
+  "slug": "mononoke-the-movie-chapter-iii-the-curse-of-the-serpent-2026",
+  "id": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+  "tmdbId": 1322562,
+  "imdbId": "tt36282134",
+  "title": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
+  "originalTitle": "劇場版モノノ怪 第三章 蛇神",
+  "overview": "When tragedy strikes within the walls of the Ōoku, twisted human passions and festering grudges spawn the Medicine Seller's most fearsome opponent yet.",
+  "tagline": null,
+  "posterPath": "/nANxmUdcF2cyBNjBMeG1LaXnw0n.jpg",
+  "backdropPath": "/pbJ9sgqSxk1AypbZXt69iVAo2xQ.jpg",
+  "logoPath": "/6ps1iEJ89Ggzxn5MyWHNLrHUDj4.png",
+  "backdrops": [
+    "/pbJ9sgqSxk1AypbZXt69iVAo2xQ.jpg",
+    "/kQU2IVcKFwIyp9MNYbtLrXjHtfA.jpg"
+  ],
+  "releaseDate": "2026-05-29",
+  "runtime": null,
+  "voteAverage": "10.00",
+  "popularity": null,
+  "popularityScore": 180,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=tekO9rGxAU4",
+  "quality": "WEB-DL",
+  "director": "Kenji Nakamura",
+  "directorTmdbId": 1376309,
+  "directorProfilePath": "/cg4k0bLzAgSJp7oZKeJHQEUBP33.jpg",
+  "productionCompanies": [
+    {
+      "id": 235303,
+      "name": "EOTA",
+      "logo_path": null
+    },
+    {
+      "id": 150577,
+      "name": "Studio Kafka",
+      "logo_path": "/vN9g5ueeV4c8NnCJIprQAldLFsN.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 15001,
+      "name": "demon"
+    },
+    {
+      "id": 195668,
+      "name": "seinen"
+    },
+    {
+      "id": 207695,
+      "name": "japanese mythology"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 6095,
+  "watchlistCount": 115,
+  "favouriteCount": 27,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-29T13:55:22.850Z",
+  "updatedAt": "2026-09-29T13:55:41.624Z",
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f356d5f5-c316-4e4b-9beb-cc30326edda0",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 93801,
+      "name": "Hiroshi Kamiya",
+      "character": "Medicine Seller (voice)",
+      "profilePath": "/5aAAOlQ2hW5EqEQOzk4UeroxcTN.jpg",
+      "order": 0
+    },
+    {
+      "id": "7a443451-2c63-441f-bc1c-2cb96d5e045b",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 1588597,
+      "name": "Atsumi Tanezaki",
+      "character": "Sachiko (voice)",
+      "profilePath": "/6tM8GU7QvrdUCvR4kxqVUZivtvO.jpg",
+      "order": 1
+    },
+    {
+      "id": "3039b1c7-2b8f-4630-935e-b888f7a25fcb",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 19588,
+      "name": "Miyu Irino",
+      "character": "Tenshi (voice)",
+      "profilePath": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg",
+      "order": 2
+    },
+    {
+      "id": "2b2c2af8-4386-4136-9d3e-6cd42616a202",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 135524,
+      "name": "Kenjiro Tsuda",
+      "character": "Hokuto Mizorogi (voice)",
+      "profilePath": "/oR8djetguDl0xVWXH2LGwDYFTg6.jpg",
+      "order": 3
+    },
+    {
+      "id": "9249c92f-f6a9-4343-b9f6-8118eeea521b",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 624,
+      "name": "Yoshiko Sakakibara",
+      "character": "Suikoin (voice)",
+      "profilePath": "/bptHqpgbAxIzEoj6OMtt3ayOjgT.jpg",
+      "order": 4
+    },
+    {
+      "id": "2c260de7-66db-4903-a4c2-8f08c94a5c79",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 1309253,
+      "name": "Tomoyo Kurosawa",
+      "character": "Asa (voice)",
+      "profilePath": "/eSRnva88YVcUXlDHdVrhier2SGU.jpg",
+      "order": 5
+    },
+    {
+      "id": "20f0089d-d646-42e6-bf0d-ae11623ad304",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 1072774,
+      "name": "Yoko Hikasa",
+      "character": "Fuki Tokita (voice)",
+      "profilePath": "/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg",
+      "order": 6
+    },
+    {
+      "id": "9b56ae7e-ad5a-4061-9b56-0048d03baea6",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 1248340,
+      "name": "Haruka Tomatsu",
+      "character": "Botan Otomo (voice)",
+      "profilePath": "/geVvuA2zMGE5xzfc20aDelJSelu.jpg",
+      "order": 7
+    },
+    {
+      "id": "8d1215c2-b17a-4202-afc3-19cdb705d80c",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 186341,
+      "name": "Miyuki Sawashiro",
+      "character": "Third Empress (voice)",
+      "profilePath": "/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg",
+      "order": 8
+    },
+    {
+      "id": "3582044e-0e9d-4b97-bdb7-3079e76f963d",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 129960,
+      "name": "Fumi Hirano",
+      "character": "Tokiwai (voice)",
+      "profilePath": "/nP3c7cxj4iCHKCrlJtxtnsF3prS.jpg",
+      "order": 9
+    },
+    {
+      "id": "33b6b388-1e56-4b01-9e72-cb829bac0215",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 1254120,
+      "name": "Mariko Honda",
+      "character": "Kawa (voice)",
+      "profilePath": "/29XsXfTmJ6dat7cBvQk6Wc96IC0.jpg",
+      "order": 10
+    },
+    {
+      "id": "7725a0a6-843b-4023-aefb-c3e7de75db76",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 90572,
+      "name": "Yukana",
+      "character": "Amanotsubone (voice)",
+      "profilePath": "/AeRUkifrHsx0ZYfRRf64gChACyg.jpg",
+      "order": 11
+    },
+    {
+      "id": "4cb0d6fa-9f67-4d94-b2cb-19b94847c895",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 126693,
+      "name": "Eiji Takemoto",
+      "character": "Saku Mizorogi (voice)",
+      "profilePath": "/4FJFwO778aiLgbQ5gxW4djFj1sB.jpg",
+      "order": 12
+    },
+    {
+      "id": "98c2f291-0f99-4c93-acb6-0c2b41e45274",
+      "movieId": "f052c008-031f-4c32-876b-fc7bd56e86e6",
+      "tmdbPersonId": 9705,
+      "name": "Takahiro Sakurai",
+      "character": "(voice)",
+      "profilePath": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg",
+      "order": 13
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

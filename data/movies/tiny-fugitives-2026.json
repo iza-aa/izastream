@@ -1,0 +1,345 @@
+{
+  "slug": "tiny-fugitives-2026",
+  "id": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+  "tmdbId": 1513253,
+  "imdbId": "tt32827454",
+  "title": "Tiny Fugitives",
+  "originalTitle": "Tiny Fugitives",
+  "overview": "A reckless group of twelve year olds set out on a mission to spend the rest of their lives at sleepaway camp. They'll just have to get past Bob - the camp's deranged, relentless, 50-year-old lifer counselor.",
+  "tagline": "Summer ain't over yet.",
+  "posterPath": "/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
+  "backdropPath": "/15jKdedj6I13GLWHM9wiyGQe7OX.jpg",
+  "logoPath": "/prTDpWGdBEF0JWpGIWEpKG8JNFL.png",
+  "backdrops": [
+    "/15jKdedj6I13GLWHM9wiyGQe7OX.jpg",
+    "/dWuKeIxbWszZgnxtQYw9vH8mw6h.jpg",
+    "/oQn3QUqF6D3bXGpNaxqwtzKJQCQ.jpg"
+  ],
+  "releaseDate": "2026-09-18",
+  "runtime": 99,
+  "voteAverage": "10.00",
+  "popularity": null,
+  "popularityScore": 312,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=C0uuH03Wnks",
+  "quality": "WEB-DL",
+  "director": "Michael Lewen",
+  "directorTmdbId": 2749934,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 16615,
+      "name": "Point Grey Pictures",
+      "logo_path": "/5au3v0r2brGaegO9EQ0nodLkmQ1.png"
+    },
+    {
+      "id": 168181,
+      "name": "Tango Entertainment",
+      "logo_path": "/adHpT0fRW86W80jPtJRo96pqJE4.png"
+    },
+    {
+      "id": 265116,
+      "name": "Inaugural Entertainment",
+      "logo_path": "/e1b8zmr0a3U2kIPgZMgGc3yEaui.png"
+    },
+    {
+      "id": 309979,
+      "name": "Public House Pictures",
+      "logo_path": "/e4wYeWV4ixpCBAB84vAGMiMK37M.png"
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5785,
+  "watchlistCount": 49,
+  "favouriteCount": 12,
+  "shareCount": 5,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-20T11:52:22.463Z",
+  "updatedAt": "2026-10-20T11:54:20.923Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "5c39f360-93ea-429f-9c32-4384020cbfa5",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 9656,
+      "name": "Johnny Knoxville",
+      "character": "Bob",
+      "profilePath": "/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg",
+      "order": 0
+    },
+    {
+      "id": "8e10bd02-20b6-46ec-80d6-fb1e04b44819",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 3356007,
+      "name": "Benjamin Pajak",
+      "character": "Jacob Udell",
+      "profilePath": "/aHNPkMsHDmvlXLj5mSzS2ZcD4xK.jpg",
+      "order": 1
+    },
+    {
+      "id": "7f392d32-99ed-49a6-927c-4eca4696958b",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 4959355,
+      "name": "Aaron D. Harris",
+      "character": "Charness",
+      "profilePath": "/8OJy0QkNyUcQmTAlLdeaV8mSs9R.jpg",
+      "order": 2
+    },
+    {
+      "id": "8b1e20cf-9120-415d-8a10-1bbd1d5ea539",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 5564035,
+      "name": "Isa Bernal Steiner",
+      "character": "Tali",
+      "profilePath": null,
+      "order": 3
+    },
+    {
+      "id": "948bcbe1-b3e0-458c-a25d-002e60796376",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 449,
+      "name": "Jay Baruchel",
+      "character": "Mark",
+      "profilePath": "/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg",
+      "order": 4
+    },
+    {
+      "id": "72662d7a-50e2-4e98-8bfe-3f820b274ace",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 521564,
+      "name": "Blake Anderson",
+      "character": "Danny",
+      "profilePath": "/6CAisTFUOPulSKZvDSSptZ6D299.jpg",
+      "order": 5
+    },
+    {
+      "id": "0b116b5f-b740-4a93-aa7c-3239ccaf8f4e",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 5552610,
+      "name": "Jai Soundar",
+      "character": "Leon",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "76db804c-0e71-4822-86d8-75489b3abe0c",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 5564036,
+      "name": "Arrian Kenneth Wu",
+      "character": "Horny Jackson",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "94a70694-bb83-4ee4-8717-2e15cdbac82c",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 3079810,
+      "name": "Alyssa Gervasi",
+      "character": "Sophie",
+      "profilePath": "/7McrxkJ0ApRljQPvVs6nUYYbr8s.jpg",
+      "order": 8
+    },
+    {
+      "id": "05dec0e7-4e81-4555-8531-e263f2bec5d0",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 2431590,
+      "name": "Briana Templeton",
+      "character": "Dana",
+      "profilePath": "/7Er8Utq4eDc7dlCnIDX3NgAr9ff.jpg",
+      "order": 9
+    },
+    {
+      "id": "4f8e847b-1da5-48d0-ba20-921f0d4a4979",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 207389,
+      "name": "Rob Yang",
+      "character": "",
+      "profilePath": "/rijNHjy45mhXw6TIhLesuDs4BY4.jpg",
+      "order": 10
+    },
+    {
+      "id": "95fc141e-2327-4198-b76c-3736369871af",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 4109810,
+      "name": "Jacob Kaplan",
+      "character": "Peter",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "ac1bf04b-d5a4-4b77-a4e5-53b6440abe3a",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 4980199,
+      "name": "Leo Hynes",
+      "character": "Tiernan",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "da34d218-163d-43f7-99cd-7bc891611fa7",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 2678557,
+      "name": "Leslie Adlam",
+      "character": "Bus Driver",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "f9fecb79-7fb8-4126-af03-f2b5af78a154",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 3534086,
+      "name": "Desmond Sivan",
+      "character": "Seamus",
+      "profilePath": "/5RcdRTQFHZyJAwrY5XYnuuhOBq7.jpg",
+      "order": 14
+    },
+    {
+      "id": "f882e202-e966-4e4e-8cb4-b14796cd2cf4",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 5564037,
+      "name": "Liv Nelson",
+      "character": "Courtney",
+      "profilePath": "/tyeGbLqrqTbeQIa3vgswwip7mVM.jpg",
+      "order": 15
+    },
+    {
+      "id": "d1546903-0697-4d91-a7f0-a9105d7cf09f",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 3731005,
+      "name": "Ewan Wood",
+      "character": "Gordon",
+      "profilePath": "/jpfLV6ErjewrUttlKB6hUjpZs92.jpg",
+      "order": 16
+    },
+    {
+      "id": "2acc180d-fad8-4886-87be-a93c044512f4",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 5564038,
+      "name": "Tyler Ronald",
+      "character": "Dillo Camper",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "a6dea55b-67aa-45f6-aaa9-7620ce851442",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 2231678,
+      "name": "Vince Kesavamoorthy",
+      "character": "Leon's Dad",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "15d1a9dd-cc6d-4d34-9ae5-1e40edb8bf62",
+      "movieId": "5a8e1936-6a23-400d-b5c4-5ea486518100",
+      "tmdbPersonId": 2782812,
+      "name": "Sydney Posliff",
+      "character": "Wedding Photographer",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

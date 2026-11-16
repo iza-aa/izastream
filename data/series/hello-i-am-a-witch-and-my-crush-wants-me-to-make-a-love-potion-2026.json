@@ -1,0 +1,98 @@
+{
+  "slug": "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion-2026",
+  "id": "9ed24225-238f-4e3c-8d32-0ca9dc802768",
+  "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
+  "overview": "Rose, a lone witch who lives quietly by the lake, is asked by the knight she secretly loves to brew a love potion—for someone else. Though heartbroken, she cannot refuse him, choosing instead to treasure the fleeting time they spend together gathering ingredients. And as the days quietly slip by, Rose finds herself clinging to each shared moment, dreading the day the potion is finally complete.",
+  "tagline": null,
+  "posterPath": "/jBb1VBvfCdM6HXeMANGDkzu99Kx.jpg",
+  "backdropPath": "/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
+  "logoPath": "/5D9kwwmONWYhWiAAL0jMZ83Skgz.png",
+  "firstAirDate": "2026-10-05",
+  "voteAverage": "8.30",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f8542bb0-6136-440c-a20b-a7fba44c4fa0",
+      "tvSeriesId": "9ed24225-238f-4e3c-8d32-0ca9dc802768",
+      "tmdbPersonId": 1281498,
+      "name": "Mikako Komatsu",
+      "character": "Rose (Voice)",
+      "profilePath": "/13tQEZ1tLdOmi7oGoRJ4xep1ODQ.jpg",
+      "order": 0
+    },
+    {
+      "id": "6618bd12-0ea9-4848-b202-425b05890db8",
+      "tvSeriesId": "9ed24225-238f-4e3c-8d32-0ca9dc802768",
+      "tmdbPersonId": 2220797,
+      "name": "Yohei Azakami",
+      "character": "Harij Azm (Voice)",
+      "profilePath": "/rLIqw8pIjVIxPb5engrTbu9iOex.jpg",
+      "order": 1
+    },
+    {
+      "id": "6b0f78d8-ac30-4b29-9ded-cdbf000d2413",
+      "tvSeriesId": "9ed24225-238f-4e3c-8d32-0ca9dc802768",
+      "tmdbPersonId": 119145,
+      "name": "Hiro Shimono",
+      "character": "Tien (voice)",
+      "profilePath": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg",
+      "order": 2
+    },
+    {
+      "id": "28a71ea0-3a50-4f3f-9eda-8185224e9a4a",
+      "tvSeriesId": "9ed24225-238f-4e3c-8d32-0ca9dc802768",
+      "tmdbPersonId": 1888529,
+      "name": "Akira Sekine",
+      "character": "Villaura (voice)",
+      "profilePath": "/czYoPzAEK1gI7RxRiPyDSFYRm5x.jpg",
+      "order": 3
+    }
+  ],
+  "seasons": [
+    {
+      "id": "66252468-a18e-4645-b520-c5435c893116",
+      "tvSeriesId": "9ed24225-238f-4e3c-8d32-0ca9dc802768",
+      "tmdbId": 498494,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/96ywNgKOgciVt33MFTaRLBg8Xnd.jpg",
+      "airDate": "2026-10-05",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-20T01:52:48.572Z",
+      "updatedAt": "2026-11-10T07:15:56.867Z"
+    }
+  ]
+}

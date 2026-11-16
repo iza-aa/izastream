@@ -1,0 +1,131 @@
+{
+  "slug": "east-of-eden-2026",
+  "id": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+  "title": "East of Eden",
+  "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+  "tagline": "You are what you choose.",
+  "posterPath": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+  "backdropPath": "/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+  "logoPath": "/jd9EWL7f9Mefmj4c3YGEPqVx4r7.png",
+  "firstAirDate": "2026-10-01",
+  "voteAverage": "7.93",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b1a1aed6-0892-48a1-9297-68c5fd16598c",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbPersonId": 1373737,
+      "name": "Florence Pugh",
+      "character": "Cathy Ames",
+      "profilePath": "/2URrZb95t3kY6pLroKny3Enmabp.jpg",
+      "order": 0
+    },
+    {
+      "id": "f5165929-bc8d-40c5-b28c-7000b25244df",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbPersonId": 984629,
+      "name": "Christopher Abbott",
+      "character": "Adam Trask",
+      "profilePath": "/bE7zzh60RXydH3p632ZZSmsTlcn.jpg",
+      "order": 1
+    },
+    {
+      "id": "7506cea3-eaca-4749-a094-401bffbd0bbd",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbPersonId": 1423520,
+      "name": "Mike Faist",
+      "character": "Charles Trask",
+      "profilePath": "/xRl1Pa8a80L3QUT7LrTtlTZv1l4.jpg",
+      "order": 2
+    },
+    {
+      "id": "85a99d44-a37c-4d21-9691-86cd0821c00f",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbPersonId": 1255311,
+      "name": "Hoon Lee",
+      "character": "Lee",
+      "profilePath": "/3Ux4nTEfPySyZg6yBlu1uXR1TyT.jpg",
+      "order": 3
+    },
+    {
+      "id": "c0974184-1f6c-4733-a493-ac484a41fbc8",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbPersonId": 8785,
+      "name": "Ciarán Hinds",
+      "character": "Samuel Hamilton",
+      "profilePath": "/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg",
+      "order": 4
+    },
+    {
+      "id": "40ac746f-83f0-4f5d-a011-4485b2dbcab6",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbPersonId": 4744857,
+      "name": "Joseph Zada",
+      "character": "Caleb \"Cal\" Trask",
+      "profilePath": "/8RnNxrgffoNOu7ZHPSGvYnfjtdI.jpg",
+      "order": 254
+    },
+    {
+      "id": "7e23042f-d3d4-41ff-bae1-c0537e3bfecf",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbPersonId": 75264,
+      "name": "Robert Morgan",
+      "character": "Sheriff Quinn",
+      "profilePath": "/dZhqn7yOmgetvM2mAWU7sEMmzu7.jpg",
+      "order": 500
+    },
+    {
+      "id": "61b2b37c-a094-43e9-83ba-42fe6ac59799",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbPersonId": 1014586,
+      "name": "Christopher Sommers",
+      "character": "Mr. Bacon",
+      "profilePath": "/e86eKSvV5gr1qihDfG8Lpya04OC.jpg",
+      "order": 501
+    },
+    {
+      "id": "3007aee8-443b-4a9a-baf6-ef5b24a7a629",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbPersonId": 123540,
+      "name": "Brad McMurray",
+      "character": "Joe Valery",
+      "profilePath": "/bfsTsUwYajWlVPgkcY9QzrWuVbi.jpg",
+      "order": 502
+    },
+    {
+      "id": "03a2d3ee-adbc-4960-b533-81f83d83de97",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbPersonId": 3614018,
+      "name": "Vaughan Reilly",
+      "character": "Adolescent Cathy",
+      "profilePath": "/yt2izl98e0R7FTGOHJ5y4glDGRV.jpg",
+      "order": 503
+    }
+  ],
+  "seasons": [
+    {
+      "id": "2933beed-3261-4614-a6ac-c79cc727ddb0",
+      "tvSeriesId": "55703be3-0d39-4fb2-9f78-ec3d8db28072",
+      "tmdbId": 400373,
+      "seasonNumber": 1,
+      "name": "Limited Series",
+      "overview": "",
+      "posterPath": "/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "airDate": "2026-10-01",
+      "episodeCount": 7,
+      "isPublished": true,
+      "createdAt": "2026-10-07T16:58:52.354Z",
+      "updatedAt": "2026-10-07T16:59:27.928Z"
+    }
+  ]
+}

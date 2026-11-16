@@ -1,0 +1,152 @@
+{
+  "slug": "money-trap-2026",
+  "id": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+  "title": "Money Trap",
+  "overview": "When a mythical map falls into the hands of a legendary scam artist, he decides to pull one last con before leaving it all behind for good.",
+  "tagline": null,
+  "posterPath": "/7KnFHnuHjeOMkrE5zfw0G7e9daC.jpg",
+  "backdropPath": "/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-10-16",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e93d5a4f-b463-47d5-bf51-29f51d34d619",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbPersonId": 99314,
+      "name": "Yılmaz Erdoğan",
+      "character": "Asım Noyan",
+      "profilePath": "/nl7WulHPoP6bw4phMwp0VuuJgyL.jpg",
+      "order": 0
+    },
+    {
+      "id": "ed373a49-b834-4357-b55f-e55dcaf749b9",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbPersonId": 1078769,
+      "name": "Kıvanç Tatlıtuğ",
+      "character": "Sarı Saruhan",
+      "profilePath": "/rs7Z3PKa82UhKGQLrBNAy0JAWV5.jpg",
+      "order": 1
+    },
+    {
+      "id": "205ed5f1-a3d7-4097-8bb5-4253f1ef955e",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbPersonId": 1255742,
+      "name": "Ezgi Mola",
+      "character": "Lerzan Berrak",
+      "profilePath": "/dXZJOJr8bpUaCyUEBpNKs8e1Utx.jpg",
+      "order": 2
+    },
+    {
+      "id": "e7e2093b-82c3-42cb-a739-85856401235f",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbPersonId": 1584271,
+      "name": "Bensu Soral",
+      "character": "Nazlı Noyan",
+      "profilePath": "/ti3PfqOgXmbJIQtwQl1yH5i1WnU.jpg",
+      "order": 3
+    },
+    {
+      "id": "1a441642-a199-4756-9a65-c5893737feb5",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbPersonId": 145735,
+      "name": "Rıza Kocaoğlu",
+      "character": "Arıza Rıza",
+      "profilePath": "/b0Bp9W1VIaVzCzzUCMwBc7fe005.jpg",
+      "order": 4
+    },
+    {
+      "id": "f97bce04-7d3e-4c0a-82fd-61ac4435667f",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbPersonId": 1930511,
+      "name": "Kubilay Aka",
+      "character": "",
+      "profilePath": "/mSk2nqlDcdEJDbWKdSUk3B2GpWV.jpg",
+      "order": 5
+    },
+    {
+      "id": "b426d005-2549-49d5-ae97-6427b858f927",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbPersonId": 1522700,
+      "name": "Burcu Özberk",
+      "character": "",
+      "profilePath": "/wDhKUUR7pRzgVolACed0YnSozbL.jpg",
+      "order": 6
+    },
+    {
+      "id": "50c725af-413f-4c0d-a20b-086241a2601e",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbPersonId": 1258831,
+      "name": "Uraz Kaygılaroğlu",
+      "character": "",
+      "profilePath": "/7rdov56gMxgsBhOMeqdwv1cgOiW.jpg",
+      "order": 7
+    },
+    {
+      "id": "828434ad-b636-4c94-8348-abcc38004e2b",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbPersonId": 59754,
+      "name": "Demet Akbağ",
+      "character": "",
+      "profilePath": "/eGuozRn0wfZlzxVBlLigT0yI8Zh.jpg",
+      "order": 8
+    },
+    {
+      "id": "697f37be-692b-48d6-8968-ddc2cfcce05c",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbPersonId": 1042721,
+      "name": "Şükran Ovalı",
+      "character": "",
+      "profilePath": "/2mq5fq3GEoqGWjSvNjTl7nZ7eL3.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1c29b7ef-751d-401a-9307-7be19869e2e8",
+      "tvSeriesId": "aadeda74-c60b-4b3f-9e0f-ec1e1725ef21",
+      "tmdbId": 513005,
+      "seasonNumber": 1,
+      "name": "The Karun Treasure",
+      "overview": "",
+      "posterPath": "/yrBdEZ4Iq2GWCQepvLuJ8OOhpS7.jpg",
+      "airDate": "2026-10-16",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-17T05:41:39.674Z",
+      "updatedAt": "2026-10-17T05:42:53.207Z"
+    }
+  ]
+}

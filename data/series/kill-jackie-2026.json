@@ -1,0 +1,120 @@
+{
+  "slug": "kill-jackie-2026",
+  "id": "d28ed66e-bae6-4afa-8ddf-0b17350c606e",
+  "title": "Kill Jackie",
+  "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
+  "tagline": null,
+  "posterPath": "/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
+  "backdropPath": "/twc2YYBXTjdv52TShVumB1voT3Q.jpg",
+  "logoPath": "/mcxfMCC7V4xq1fEVyHV4wGe2quY.png",
+  "firstAirDate": "2026-10-02",
+  "voteAverage": "6.89",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "794ec7b8-a8a9-44ae-b8cd-cb6fe6ad2dd6",
+      "tvSeriesId": "d28ed66e-bae6-4afa-8ddf-0b17350c606e",
+      "tmdbPersonId": 1922,
+      "name": "Catherine Zeta-Jones",
+      "character": "Jackie Price",
+      "profilePath": "/2fAo0jWy8zPl9jgR4DH5nLyL8Xa.jpg",
+      "order": 0
+    },
+    {
+      "id": "b76add74-cff5-460a-903d-a767218ff362",
+      "tvSeriesId": "d28ed66e-bae6-4afa-8ddf-0b17350c606e",
+      "tmdbPersonId": 1131724,
+      "name": "Daniel Ings",
+      "character": "Sam",
+      "profilePath": "/oupwxNxbTwNEknTFo2jKlrXZsl6.jpg",
+      "order": 1
+    },
+    {
+      "id": "ee4b5282-870a-437d-967c-ffb47f38fdc6",
+      "tvSeriesId": "d28ed66e-bae6-4afa-8ddf-0b17350c606e",
+      "tmdbPersonId": 32683,
+      "name": "Sidse Babett Knudsen",
+      "character": "Karenina",
+      "profilePath": "/yVkWyBuJaup9I6FIgjZlGkczNNj.jpg",
+      "order": 2
+    },
+    {
+      "id": "9a30706f-ce5b-4570-98b4-56fcfa08c32c",
+      "tvSeriesId": "d28ed66e-bae6-4afa-8ddf-0b17350c606e",
+      "tmdbPersonId": 7031,
+      "name": "Julian Rhind-Tutt",
+      "character": "Friedrich",
+      "profilePath": "/jvwtFc8XFpTb7NX1XRJX8TOfH5.jpg",
+      "order": 3
+    },
+    {
+      "id": "d17fd13e-551d-451e-989a-f34c27268d86",
+      "tvSeriesId": "d28ed66e-bae6-4afa-8ddf-0b17350c606e",
+      "tmdbPersonId": 2445313,
+      "name": "Raff Law",
+      "character": "Sean Harper",
+      "profilePath": "/mK4Pcrju73vh0yegXcxFwEO8PnE.jpg",
+      "order": 4
+    },
+    {
+      "id": "a57e195d-52d7-4793-a861-90563c8d017b",
+      "tvSeriesId": "d28ed66e-bae6-4afa-8ddf-0b17350c606e",
+      "tmdbPersonId": 87194,
+      "name": "Christine Adams",
+      "character": "The Doc",
+      "profilePath": "/2np4ewcLpNF9c4SnSml57XRifPo.jpg",
+      "order": 5
+    },
+    {
+      "id": "aa2cab48-916a-4fba-91bd-a0725440eeac",
+      "tvSeriesId": "d28ed66e-bae6-4afa-8ddf-0b17350c606e",
+      "tmdbPersonId": 2372,
+      "name": "Ron Perlman",
+      "character": "",
+      "profilePath": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg",
+      "order": 6
+    },
+    {
+      "id": "b967902c-18d5-4c88-8dbb-8c4fb832c82b",
+      "tvSeriesId": "d28ed66e-bae6-4afa-8ddf-0b17350c606e",
+      "tmdbPersonId": 104795,
+      "name": "Bill Paterson",
+      "character": "",
+      "profilePath": "/mk5vpYLmER7asqOhEwVKXD3P3YE.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "b41a81b4-f508-4aa7-8e07-2d258e670e0f",
+      "tvSeriesId": "d28ed66e-bae6-4afa-8ddf-0b17350c606e",
+      "tmdbId": 442914,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/kklchjBfvEsLETP4WsWDQ0WfgwJ.jpg",
+      "airDate": "2026-10-02",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-08T05:23:29.946Z",
+      "updatedAt": "2026-10-08T05:24:08.334Z"
+    }
+  ]
+}

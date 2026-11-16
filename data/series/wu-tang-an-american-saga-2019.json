@@ -1,0 +1,159 @@
+{
+  "slug": "wu-tang-an-american-saga-2019",
+  "id": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+  "title": "Wu-Tang: An American Saga",
+  "overview": "In the early 1990s in New York, during the height of the crack cocaine epidemic, a visionary musician named Bobby Diggs aka The RZA begins to form a super group of a dozen young, black men, who will eventually rise to become one of the unlikeliest success stories in American music history.",
+  "tagline": "Now and forever.",
+  "posterPath": "/kbZFfquhFg2EOUnKbZedWCs1kWO.jpg",
+  "backdropPath": "/wOxjjppLFByGniEtMH2fSC6Mbhw.jpg",
+  "logoPath": "/jp7FYnndDEiRXiUmXtJLZBuLrw9.png",
+  "firstAirDate": "2019-09-04",
+  "voteAverage": "8.17",
+  "numberOfSeasons": 3,
+  "numberOfEpisodes": 30,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "fba7f09e-1c53-41d4-99fa-0e8c15bc19e8",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbPersonId": 1152019,
+      "name": "Ashton Sanders",
+      "character": "Bobby Diggs",
+      "profilePath": "/2hMKOd6TLQWwLAS6ztUcZj8IZAC.jpg",
+      "order": 0
+    },
+    {
+      "id": "00246b57-b7ba-4c0e-82ca-8b988a6e9e50",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbPersonId": 2453793,
+      "name": "Siddiq Saunderson",
+      "character": "Dennis 'D-Love' Coles",
+      "profilePath": "/yp6aPsp0JOIfviGQtnTvKRQBRhW.jpg",
+      "order": 1
+    },
+    {
+      "id": "97147b02-ae42-4e61-b089-2ced12bbc51b",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbPersonId": 587506,
+      "name": "Shameik Moore",
+      "character": "Sha Raider",
+      "profilePath": "/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg",
+      "order": 2
+    },
+    {
+      "id": "1e8a3146-bf34-4626-8f54-11787051601a",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbPersonId": 1758098,
+      "name": "Julian Elijah Martinez",
+      "character": "Mitchell 'Divine' Diggs",
+      "profilePath": "/ajHHgVgE1BCAC7whuLDoXwDrY1m.jpg",
+      "order": 3
+    },
+    {
+      "id": "e4a6c5e3-7f62-4b1b-acb4-e6d52b7aabec",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbPersonId": 1783049,
+      "name": "Zolee Griggs",
+      "character": "Shurrie Diggs",
+      "profilePath": "/tduTUTLm1V8VWz33m7oWIdXNRlL.jpg",
+      "order": 4
+    },
+    {
+      "id": "0c16e4f0-7f54-43a8-8333-ac4dede5193f",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbPersonId": 2455481,
+      "name": "T.J. Atoms",
+      "character": "Ason Unique",
+      "profilePath": "/nHetIndUR52oKlTYGBVhNbous4L.jpg",
+      "order": 5
+    },
+    {
+      "id": "29ee2c04-a7c1-45ed-8412-7a3785c39130",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbPersonId": 1437557,
+      "name": "Marcus Callender",
+      "character": "Oliver 'Power' Grant",
+      "profilePath": "/9mQ0NPH86TlTRmBwb5DQNdmZa1u.jpg",
+      "order": 6
+    },
+    {
+      "id": "84af0b1c-58ec-4e46-827c-45d36a4ea87c",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbPersonId": 2015428,
+      "name": "Dave East",
+      "character": "Shotgun",
+      "profilePath": "/1KglO02pRq7N8Ctlb89nVtaluye.jpg",
+      "order": 7
+    },
+    {
+      "id": "e073ee58-24ee-4d3a-8bf9-46c996c41297",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbPersonId": 3229883,
+      "name": "Johnell Young",
+      "character": "Gary",
+      "profilePath": "/3DwdlUYXquXrfTALB9by5krJfqb.jpg",
+      "order": 8
+    },
+    {
+      "id": "fa2885a1-3138-4151-b281-93a551bd3d12",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbPersonId": 33655,
+      "name": "Erika Alexander",
+      "character": "Linda Diggs",
+      "profilePath": "/8o9KbXYoRi9v1u94nbjrslOzE0n.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "11a8eef5-ba02-40cb-8e6f-df963416f6ac",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbId": 127136,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/kbZFfquhFg2EOUnKbZedWCs1kWO.jpg",
+      "airDate": "2019-09-04",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-08-29T20:18:36.415Z",
+      "updatedAt": "2026-08-29T20:22:01.631Z"
+    },
+    {
+      "id": "8c200f9d-1362-413c-864c-df705e369ce1",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbId": 202306,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/qrswtd389QQoZdTw2h6sOK8B3Ua.jpg",
+      "airDate": "2021-09-08",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-08-29T20:18:36.415Z",
+      "updatedAt": "2026-08-29T20:22:03.256Z"
+    },
+    {
+      "id": "ce45d7ec-4460-42bf-933e-65e560a23616",
+      "tvSeriesId": "eeb30ec7-947d-44d0-beb5-68862c62978f",
+      "tmdbId": 320083,
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "overview": "Off the release of their debut album and their continued rise to fame, we follow the Wu-Tang Clan over the course of their five-year plan as they face and overcome different challenges. While each of the members go on separate journeys to figure out where they fit in the music world, RZA struggles to stay on top of things in order to fulfill the promise he made to his Wu brothers. As money, fame, ego, and business threaten to tear the group apart, they must find a way to come together and cement their legacy.",
+      "posterPath": "/pozfxNXcu0brLyVfiJijaiiJc8J.jpg",
+      "airDate": "2023-02-15",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-08-29T20:18:36.415Z",
+      "updatedAt": "2026-08-29T20:22:04.732Z"
+    }
+  ]
+}

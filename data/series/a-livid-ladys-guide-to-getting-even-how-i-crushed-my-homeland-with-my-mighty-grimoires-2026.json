@@ -1,0 +1,159 @@
+{
+  "slug": "a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires-2026",
+  "id": "b187fd49-a754-4153-bc46-54ff82a20641",
+  "title": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+  "overview": "After being publicly betrayed by the crown prince and thrown into prison, noblewoman Elizabeth escapes her kingdom with the legendary Seven Grimoires. With help from a viscount from a neighboring nation, she rebuilds her life while plotting revenge against the kingdom that cast her aside.",
+  "tagline": null,
+  "posterPath": "/qKICBVfmdC1M9A4NdzQrUabUBtW.jpg",
+  "backdropPath": "/pEv1seclJF9zSDbz0uVBkra1m1f.jpg",
+  "logoPath": "/6QtzCX46kZ6TbvxiSA3Qeok53Fz.png",
+  "firstAirDate": "2026-07-06",
+  "voteAverage": "6.92",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8083d21f-5632-41b1-b168-d6fe8cac2528",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbPersonId": 1339189,
+      "name": "Saori Onishi",
+      "character": "Elizabeth Leiston (voice)",
+      "profilePath": "/cziKB19QMFJ6DQDtxTn07uRY2hq.jpg",
+      "order": 0
+    },
+    {
+      "id": "c1bb5ee6-e561-4078-b631-9195a61946e6",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbPersonId": 2103077,
+      "name": "Ikumi Hasegawa",
+      "character": "Mireille Katarina (voice)",
+      "profilePath": "/aHLid4WeTafrtfqDRAZSw5K7dTj.jpg",
+      "order": 1
+    },
+    {
+      "id": "4cc9bfe0-6ceb-48a0-a572-2a5dbe706607",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbPersonId": 1951289,
+      "name": "Marika Kouno",
+      "character": "Sylvia Lockit (voice)",
+      "profilePath": "/tGtrlF6iBDHoBEmRfPdOyVt7X18.jpg",
+      "order": 2
+    },
+    {
+      "id": "ed2526b4-e7a1-4879-a593-303a87be6b31",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbPersonId": 1324650,
+      "name": "Shizuka Ishigami",
+      "character": "Elsa Archfield (voice)",
+      "profilePath": "/kXTYBI7skkVSjQ4eg49iEGblt3f.jpg",
+      "order": 3
+    },
+    {
+      "id": "d0d6c0e1-faa1-423f-92d4-2bebd0a29408",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbPersonId": 1356201,
+      "name": "Yu Serizawa",
+      "character": "Tida (voice)",
+      "profilePath": "/mQITB0XYHCZjYef39xsHnSHIH56.jpg",
+      "order": 4
+    },
+    {
+      "id": "24d6be19-134b-4be0-bb6b-408d41d44cee",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbPersonId": 2376502,
+      "name": "Masaaki Mizunaka",
+      "character": "Friede Haldoria (voice)",
+      "profilePath": "/cHb2pr4juxk8A3VTuDxgPWHM6WF.jpg",
+      "order": 5
+    },
+    {
+      "id": "6fa54fb8-fd36-471b-b938-0cffe3876ce4",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbPersonId": 2220797,
+      "name": "Yohei Azakami",
+      "character": "Lucas Lebrick (voice)",
+      "profilePath": "/rLIqw8pIjVIxPb5engrTbu9iOex.jpg",
+      "order": 6
+    },
+    {
+      "id": "17c83341-b632-4b4c-8b19-debf4f52196d",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbPersonId": 1057990,
+      "name": "Yui Ogura",
+      "character": "Lunoa Carlton (voice)",
+      "profilePath": "/vUuyLWde2CEd5G0oqeEzzFE6qqA.jpg",
+      "order": 7
+    },
+    {
+      "id": "941052f4-cd45-438a-be1a-0d12e6a88139",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbPersonId": 1071545,
+      "name": "Kenji Akabane",
+      "character": "Robert Arty (voice)",
+      "profilePath": "/sBduxft8NwdbASvtL14bMx86cPq.jpg",
+      "order": 8
+    },
+    {
+      "id": "f8b6a440-5318-4fd7-a827-1eed260146d3",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbPersonId": 6317476,
+      "name": "Uehara, Ayumi",
+      "character": "Misha Tail (voice)",
+      "profilePath": "/e1VjiGng08ei90JL7qoUW3oa42S.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "6c57403a-cb4c-4f61-bfbe-8a10ac24ff8b",
+      "tvSeriesId": "b187fd49-a754-4153-bc46-54ff82a20641",
+      "tmdbId": 470967,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/qKICBVfmdC1M9A4NdzQrUabUBtW.jpg",
+      "airDate": "2026-07-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-05T14:45:28.055Z",
+      "updatedAt": "2026-10-05T14:48:04.178Z"
+    }
+  ]
+}

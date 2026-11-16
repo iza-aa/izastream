@@ -1,0 +1,125 @@
+{
+  "slug": "heroine-saint-no-im-an-all-works-maid-and-proud-of-it-2026",
+  "id": "8d05b202-1296-4536-acbf-145da9e0324d",
+  "title": "Heroine? Saint? No, I'm an All-Works Maid (and Proud of It)!",
+  "overview": "Melody may be the heroine and saint destined to save the world from a rising demon king–but all she wants to do is become a perfect maid! Reincarnated in a story-based video game, Melody veers off the set story path, refusing to heed the call to action and instead using her powers to clean. Her new world becomes increasingly chaotic, and the story? Totally unhinged and unpredictable.",
+  "tagline": null,
+  "posterPath": "/hEczt3q4aLcacC3QJaaj2CG9VsP.jpg",
+  "backdropPath": "/v1ZsaSBECadPO4Ix496VGSXudHk.jpg",
+  "logoPath": "/kT2fq7MIk1g9wqoePaKBAngitbn.png",
+  "firstAirDate": "2026-07-01",
+  "voteAverage": "8.22",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "04f5d47f-c631-4911-8b51-0380f1f3834a",
+      "tvSeriesId": "8d05b202-1296-4536-acbf-145da9e0324d",
+      "tmdbPersonId": 1772522,
+      "name": "Yume Miyamoto",
+      "character": "Melody Wave (voice)",
+      "profilePath": "/8PzHX7owawEZKq7Eg9WwcmWYx9s.jpg",
+      "order": 0
+    },
+    {
+      "id": "2a900d6a-3675-4e69-bedb-0eb87859f1b2",
+      "tvSeriesId": "8d05b202-1296-4536-acbf-145da9e0324d",
+      "tmdbPersonId": 1256913,
+      "name": "Rumi Okubo",
+      "character": "Luciana Rutleberg (voice)",
+      "profilePath": "/cf4cnFMllu1yO3X0gCGGDdl8GXW.jpg",
+      "order": 1
+    },
+    {
+      "id": "6a83e289-db06-4668-b23e-f8ee9f508ba7",
+      "tvSeriesId": "8d05b202-1296-4536-acbf-145da9e0324d",
+      "tmdbPersonId": 1072774,
+      "name": "Yoko Hikasa",
+      "character": "Anna-Marie Victirium (voice)",
+      "profilePath": "/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg",
+      "order": 2
+    },
+    {
+      "id": "b7b8fb5d-1cfa-40b4-919d-a0407f1066ef",
+      "tvSeriesId": "8d05b202-1296-4536-acbf-145da9e0324d",
+      "tmdbPersonId": 1885279,
+      "name": "Kohei Amasaki",
+      "character": "Christopher Von Théolas (voice)",
+      "profilePath": "/tnN5jLiLjcDa7qn88uLb1iAfivL.jpg",
+      "order": 3
+    },
+    {
+      "id": "c8d5ab24-ddae-440d-8c7e-32243d4eb4ec",
+      "tvSeriesId": "8d05b202-1296-4536-acbf-145da9e0324d",
+      "tmdbPersonId": 1206317,
+      "name": "Yuki Ono",
+      "character": "Lectias Froude (voice)",
+      "profilePath": "/oEx13CbNLsHzURdYafkFJYXDjfm.jpg",
+      "order": 4
+    },
+    {
+      "id": "42c2432e-028f-41b2-9c56-7cdcd3b43513",
+      "tvSeriesId": "8d05b202-1296-4536-acbf-145da9e0324d",
+      "tmdbPersonId": 1922640,
+      "name": "Shun Horie",
+      "character": "Byuku (voice)",
+      "profilePath": "/1OFi5ofRX0B2ldTPF8ThzLI2wKa.jpg",
+      "order": 5
+    },
+    {
+      "id": "7eba7092-665e-4382-a58d-326cceded15c",
+      "tvSeriesId": "8d05b202-1296-4536-acbf-145da9e0324d",
+      "tmdbPersonId": 2369258,
+      "name": "Shugo Nakamura",
+      "character": "Demon King (voice)",
+      "profilePath": "/x3StSWtwrq909arQAIDnONZwNb8.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "f0983a55-a54d-4c61-9eb2-43fcc1c7bb86",
+      "tvSeriesId": "8d05b202-1296-4536-acbf-145da9e0324d",
+      "tmdbId": 446227,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/hEczt3q4aLcacC3QJaaj2CG9VsP.jpg",
+      "airDate": "2026-07-01",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-08T03:37:38.281Z",
+      "updatedAt": "2026-10-08T03:39:14.177Z"
+    }
+  ]
+}

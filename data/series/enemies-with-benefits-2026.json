@@ -1,0 +1,138 @@
+{
+  "slug": "enemies-with-benefits-2026",
+  "id": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+  "title": "Enemies With Benefits",
+  "overview": "Head of Sales Lal is determined to triumph over Head of Accounting Wine. Wine is her polar opposite and known for her mercilessness. When a wild night leads them to a friends with benefits relationship, they'll do anything to keep it a secret, pretending to be enemies so that absolutely no one at work finds out. Without realising it, however, their newfound closeness begins to give way to love.",
+  "tagline": "If you have something to say to me, just take it to the bed.",
+  "posterPath": "/fZfi91LR6vx68OhLAJKuScYAhRU.jpg",
+  "backdropPath": "/yMoYIZdf3GGqnXil0sCzIryl4do.jpg",
+  "logoPath": "/eimXxFTULEZc8fjD7hmHAVn0SIe.png",
+  "firstAirDate": "2026-05-03",
+  "voteAverage": "9.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "cbef0fba-3d47-49fb-a82d-1c0f895f020f",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbPersonId": 2467076,
+      "name": "Ployshompoo Supasap",
+      "character": "Lanlalin",
+      "profilePath": "/fpQrZQKkxhHQiMTJxgqPxb1LeDl.jpg",
+      "order": 0
+    },
+    {
+      "id": "065d21c7-91e2-4664-95df-f01bc8bc5d0c",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbPersonId": 2100737,
+      "name": "Prariyapit Yu",
+      "character": "Wine Vethaka",
+      "profilePath": "/kNhgiEZ7onsL1NtjxDm1spJie4K.jpg",
+      "order": 1
+    },
+    {
+      "id": "ec41dcd3-401a-4802-ae0f-666df330f2d4",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbPersonId": 3096285,
+      "name": "Ploynira Hiruntaveesin",
+      "character": "Tangkwa",
+      "profilePath": "/d5lypeYLx6hufjx0Iftz8EakHzv.jpg",
+      "order": 2
+    },
+    {
+      "id": "5776e841-07ca-46db-a4e6-e73cb9eec341",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbPersonId": 2729109,
+      "name": "Rutricha Phapakithi",
+      "character": "Proud",
+      "profilePath": "/orlZakWAWoBXSqZYc8Ut658ktYf.jpg",
+      "order": 3
+    },
+    {
+      "id": "dd53ee60-8681-43ed-b023-be7bb3732a80",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbPersonId": 3028835,
+      "name": "Juthapich Indrajundra",
+      "character": "Medsai",
+      "profilePath": "/wYxxAwKcoqxwlVP2If58fhmPL7q.jpg",
+      "order": 4
+    },
+    {
+      "id": "5ce99258-6af7-4959-90cc-ed9c480aca1d",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbPersonId": 1756096,
+      "name": "Phatchatorn Thanawat",
+      "character": "Numnim",
+      "profilePath": "/L5rz2RLszSRnRvmWDztvP1pvZb.jpg",
+      "order": 5
+    },
+    {
+      "id": "b1dda997-ea08-4394-9435-6c280b667a7b",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbPersonId": 2729028,
+      "name": "Chayakorn Jutamas",
+      "character": "Bas",
+      "profilePath": "/bfR4zbOG27znRqYXgd3b5OZ3AVz.jpg",
+      "order": 6
+    },
+    {
+      "id": "cc0efcc7-03d5-47dc-be6a-23f717d299af",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbPersonId": 3278340,
+      "name": "Kittipat Chalaragse",
+      "character": "Jantra",
+      "profilePath": "/5J9Vcy8FVdhY7fm03LroVKzmNxi.jpg",
+      "order": 7
+    },
+    {
+      "id": "b10587a5-a8e0-49d9-9256-cf42ed2ccf2f",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbPersonId": 1651449,
+      "name": "Niti Chaichitathorn",
+      "character": "Pakphoom",
+      "profilePath": "/b5kJxNZNjJZJ6rG5Vj2dkAuq2Xz.jpg",
+      "order": 8
+    },
+    {
+      "id": "63a6d957-4c72-47c8-bbdb-6085376e6272",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbPersonId": 1285466,
+      "name": "Leo Saussay",
+      "character": "New",
+      "profilePath": "/cTZBMDtp3mMLT2qoM6CTwnyxGAW.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "209cbcd6-7bb6-4386-bdc9-f11341b243ee",
+      "tvSeriesId": "5d1ee1fc-06f3-413b-b8f4-fd87a07bbe55",
+      "tmdbId": 487806,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/PYosBJbGfJTBXspMl9BYu738V1.jpg",
+      "airDate": "2026-05-03",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-07-07T15:34:46.905Z",
+      "updatedAt": "2026-07-07T15:35:37.223Z"
+    }
+  ]
+}

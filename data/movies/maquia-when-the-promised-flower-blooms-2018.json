@@ -1,0 +1,444 @@
+{
+  "slug": "maquia-when-the-promised-flower-blooms-2018",
+  "id": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+  "tmdbId": 476292,
+  "imdbId": "tt7339826",
+  "title": "Maquia: When the Promised Flower Blooms",
+  "originalTitle": "さよならの朝に約束の花をかざろう",
+  "overview": "Fleeing the war, the immortal Maquia, graced with eternal youth, finds a baby abandoned in the forest and decides to raise it as her own child, sparking a moving story between a mortal and a being who does not age.",
+  "tagline": "I weave my life with yours.",
+  "posterPath": "/hL3NqRE2ccR4Y2sYSJTrmalRjrz.jpg",
+  "backdropPath": "/iLhm6QCT6Ydg7pfoBUs1ldUVofJ.jpg",
+  "logoPath": "/fyWmXo02JlDPsjrVVYyMZRUPs4k.png",
+  "backdrops": [
+    "/5nkKy7eEDsXqsxFLJy3GxZhE90J.jpg",
+    "/wsiJxDD2LH7ImVXfkrVhVqnTdxK.jpg",
+    "/cfbjFQ14hSTgXChBEvaEjFiUaKb.jpg",
+    "/pSsHFCwM5KMoRCc8X8wjpUDrlvr.jpg",
+    "/cLpkVBbP5kiDAZGkX1EcGC2n7I7.jpg",
+    "/yjfwNSDljAKsuHwwE34xjlY3tQj.jpg",
+    "/4AxRcsZx6RaUtmcc4nsRiAx5mWW.jpg",
+    "/kJ8ugQ3zWHbVGcNz3vdF5sdcBSF.jpg",
+    "/iLhm6QCT6Ydg7pfoBUs1ldUVofJ.jpg",
+    "/yCnMppEU9p3jXVHi9PpTdE8hbMQ.jpg"
+  ],
+  "releaseDate": "2018-02-24",
+  "runtime": 115,
+  "voteAverage": "8.14",
+  "popularity": null,
+  "popularityScore": 179,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=I5ke_BwozoI",
+  "quality": "BLU-RAY",
+  "director": "Mari Okada",
+  "directorTmdbId": 1257117,
+  "directorProfilePath": "/mfq0VCH3tWJGOUGk1ivtyBH1wz3.jpg",
+  "productionCompanies": [
+    {
+      "id": 20867,
+      "name": "P.A.WORKS",
+      "logo_path": "/8xKcaZSIRdsR616LQ7nMptjkUvg.png"
+    },
+    {
+      "id": 528,
+      "name": "Bandai Visual",
+      "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png"
+    },
+    {
+      "id": 142186,
+      "name": "Hakuhodo DY Music & Pictures",
+      "logo_path": "/bdXTOuU7PdsDtQngyM7vb47zePs.png"
+    },
+    {
+      "id": 6683,
+      "name": "Lantis",
+      "logo_path": "/reCkuk3GEomdx5gQpsm15Zl1sgX.png"
+    },
+    {
+      "id": 181190,
+      "name": "Cygames",
+      "logo_path": "/6O8z7druYj7fXanaIE2f2OVRI9E.png"
+    },
+    {
+      "id": 244119,
+      "name": "Rakuonsha",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 456,
+      "name": "mother"
+    },
+    {
+      "id": 4978,
+      "name": "immortality"
+    },
+    {
+      "id": 2393,
+      "name": "adoption"
+    },
+    {
+      "id": 10235,
+      "name": "family relationships"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 10614,
+      "name": "tragedy"
+    },
+    {
+      "id": 12554,
+      "name": "dragon"
+    },
+    {
+      "id": 162365,
+      "name": "military"
+    },
+    {
+      "id": 176227,
+      "name": "motherhood"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    },
+    {
+      "id": 211227,
+      "name": "high fantasy"
+    },
+    {
+      "id": 229074,
+      "name": "josei"
+    },
+    {
+      "id": 234662,
+      "name": "hand drawn animation"
+    },
+    {
+      "id": 235636,
+      "name": "family life"
+    },
+    {
+      "id": 244663,
+      "name": "time skip"
+    },
+    {
+      "id": 292946,
+      "name": "parental love"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5705,
+  "watchlistCount": 124,
+  "favouriteCount": 68,
+  "shareCount": 5,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-31T00:52:18.210Z",
+  "updatedAt": "2026-09-01T05:21:25.030Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e14bacdd-91ea-4892-9bd6-777f9f384381",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 1835721,
+      "name": "Manaka Iwami",
+      "character": "Maquia (voice)",
+      "profilePath": "/leKMaCBswXG8u4mfQNQ7J3y6Xow.jpg",
+      "order": 0
+    },
+    {
+      "id": "22a53e29-6f53-4dd3-9e71-095af51333bf",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 19588,
+      "name": "Miyu Irino",
+      "character": "Ariel (voice)",
+      "profilePath": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg",
+      "order": 1
+    },
+    {
+      "id": "7017403e-4e8c-4ec1-8c83-4de3b241e200",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 4080133,
+      "name": "Yuuki Sakurai",
+      "character": "Ariel as a Child (voice)",
+      "profilePath": "/k6cWl6lltnCOd0kqIOSX8rDJLcW.jpg",
+      "order": 2
+    },
+    {
+      "id": "3316fe10-51c9-4b7c-90a5-6037d6dc4a28",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 1254671,
+      "name": "Ai Kayano",
+      "character": "Leilia (voice)",
+      "profilePath": "/l8ywp387rfdAS7mOExe3cEZnsk0.jpg",
+      "order": 3
+    },
+    {
+      "id": "40923567-5a46-4ecd-9254-4933144ce089",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 149894,
+      "name": "Yuki Kaji",
+      "character": "Krim (voice)",
+      "profilePath": "/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg",
+      "order": 4
+    },
+    {
+      "id": "2ce576f0-02e3-46ef-80ac-c0b48e67c244",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 1253008,
+      "name": "Yoshimasa Hosoya",
+      "character": "Lang (voice)",
+      "profilePath": "/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg",
+      "order": 5
+    },
+    {
+      "id": "7d3d31cf-1f42-4954-83cb-7c688bf2f1a2",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 1241566,
+      "name": "Rina Sato",
+      "character": "Mido (voice)",
+      "profilePath": "/kk0Tir25lDqdqYHHnYCpknGgZCa.jpg",
+      "order": 6
+    },
+    {
+      "id": "4f56f211-7b1a-464f-bb9a-058d5fa9934f",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 1072774,
+      "name": "Yoko Hikasa",
+      "character": "Dita (voice)",
+      "profilePath": "/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg",
+      "order": 7
+    },
+    {
+      "id": "c00c1729-54b4-4f48-a3a5-6cfd4fc4e4c4",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 186341,
+      "name": "Miyuki Sawashiro",
+      "character": "Racine (voice)",
+      "profilePath": "/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg",
+      "order": 8
+    },
+    {
+      "id": "dbf24c34-bfd4-4e09-a69b-1a7e45d23936",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 144655,
+      "name": "Tomokazu Sugita",
+      "character": "Izor (voice)",
+      "profilePath": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg",
+      "order": 9
+    },
+    {
+      "id": "e1c8a1e3-c376-4ff4-b7e4-691510d242f2",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 151182,
+      "name": "Misaki Kuno",
+      "character": "Medmel (voice)",
+      "profilePath": "/hVtE4gdKaqofYZmXXtlJs4Q9XTL.jpg",
+      "order": 10
+    },
+    {
+      "id": "20fcfe29-1eb9-4785-adb0-b99b77fd7e35",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 84505,
+      "name": "Hiroaki Hirata",
+      "character": "Barlow (voice)",
+      "profilePath": "/mMWEdlssJm3TVuXW4Wb7pQeX20Z.jpg",
+      "order": 11
+    },
+    {
+      "id": "b62034b7-e137-4ff0-9309-782aac040ac5",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 2727015,
+      "name": "Jo Bin",
+      "character": "Lang as an Adolescent (voice)",
+      "profilePath": "/6BnDtNGchCF44LTXa4p5QuhFMEo.jpg",
+      "order": 12
+    },
+    {
+      "id": "83acdb0c-a766-4d8d-8bb6-6c115f691ae3",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 2326272,
+      "name": "Yuki Kurimoto",
+      "character": "Dita as a Child (voice)",
+      "profilePath": "/qMth1hFVFfsozgQ8JwLiEWDr72o.jpg",
+      "order": 13
+    },
+    {
+      "id": "26a09cce-b1e2-49ae-906d-591284ca6553",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 4080166,
+      "name": "Junnosuke Shishido",
+      "character": "Deol as a Child (voice)",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "6e08c1f1-e01a-477e-9721-76471f90f02e",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 4080172,
+      "name": "Taichi Iwakawa",
+      "character": "Ariel as a Baby (voice)",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "7981e27d-2abd-4ac3-976d-c26dea59b34f",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 1245661,
+      "name": "Hiroshi Iwasaki",
+      "character": "King of Mezarte (voice)",
+      "profilePath": "/3THPpW2xkD0A7SVFmaUSxHeDzJG.jpg",
+      "order": 16
+    },
+    {
+      "id": "095ada06-8583-46d2-822c-40759e966d44",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 1555154,
+      "name": "Keisuke Komoto",
+      "character": "Prince Hazel (voice)",
+      "profilePath": "/iFObjSKN6ZXQ4qD2BeaDwVjRtuL.jpg",
+      "order": 17
+    },
+    {
+      "id": "292d025f-d0e6-41ee-956a-5961af3f12c0",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 1222051,
+      "name": "Shunsuke Sakuya",
+      "character": "Darel (voice)",
+      "profilePath": "/tbIQ3CFxZM9wl5S4YMwqhrs5VNS.jpg",
+      "order": 18
+    },
+    {
+      "id": "7a501a0a-46f2-45d4-875e-cfa02dd08454",
+      "movieId": "9d92f223-d733-4d13-8d7b-05192d6c0c9f",
+      "tmdbPersonId": 1247798,
+      "name": "Miyako Ito",
+      "character": "Old Lady (voice)",
+      "profilePath": "/cG0bWMh8ZRPgzdxyLJSHE6wZ7sq.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "remiuy",
+    "displayName": "remi"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

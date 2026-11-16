@@ -1,0 +1,405 @@
+{
+  "slug": "the-amityville-horror-1979",
+  "id": "ac06d007-a0de-4730-8850-a989b937d021",
+  "tmdbId": 11449,
+  "imdbId": "tt0078767",
+  "title": "The Amityville Horror",
+  "originalTitle": "The Amityville Horror",
+  "overview": "George Lutz, his wife Kathy, and their three children have just moved into a beautiful, and improbably cheap, Victorian mansion nestled in the sleepy coastal town of Amityville, Long Island. However, their dream home is concealing a horrific past and soon each member of the Lutz family is plagued with increasingly strange and violent visions and impulses.",
+  "tagline": "For God's sake, get out!",
+  "posterPath": "/7VMscq0659xKmcXzd86de1DGV4W.jpg",
+  "backdropPath": "/gN5OCSeJTJcsYWlQBjJVKwV3zBS.jpg",
+  "logoPath": "/k7lxqIINwOhdh7QnC4XxP3bDKtR.svg",
+  "backdrops": [
+    "/7wGJ2xjHqwXkeQPe7cOXOGE8tFq.jpg",
+    "/gN5OCSeJTJcsYWlQBjJVKwV3zBS.jpg",
+    "/rfkn9LRKZNlUjfM7FTx5WBtc3Em.jpg",
+    "/cibw6MyoimTWfWOnpVt607yTLDD.jpg",
+    "/upp0mrjRgOijzP95icIrOGprdbT.jpg",
+    "/hT2YqO0yDaR6NxqKcgjGvKeQoeQ.jpg",
+    "/jwMDZts4X0vhHPMtOB7jfYp0L1w.jpg",
+    "/eU1JZV5audjD9W5KiwaQqvy9tYl.jpg",
+    "/61E1jgKW1wthB6pi6nM2Yp3pW9w.jpg",
+    "/iIJ3LHhpPeUIpYl5z9RqSHK0sEW.jpg"
+  ],
+  "releaseDate": "1979-07-27",
+  "runtime": 118,
+  "voteAverage": "6.30",
+  "popularity": null,
+  "popularityScore": 422,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=f1NHTILX0QE",
+  "quality": "BLU-RAY",
+  "director": "Stuart Rosenberg",
+  "directorTmdbId": 13859,
+  "directorProfilePath": "/qjNNkjniH2Y108Ys20hfpcY90a7.jpg",
+  "productionCompanies": [
+    {
+      "id": 9266,
+      "name": "American International Pictures",
+      "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 3358,
+      "name": "haunted house"
+    },
+    {
+      "id": 9712,
+      "name": "possession"
+    },
+    {
+      "id": 9398,
+      "name": "long island, new york"
+    },
+    {
+      "id": 9853,
+      "name": "paranormal"
+    },
+    {
+      "id": 33467,
+      "name": "new home"
+    },
+    {
+      "id": 159940,
+      "name": "exorcist"
+    },
+    {
+      "id": 164218,
+      "name": "psychotronic"
+    },
+    {
+      "id": 173099,
+      "name": "indian burial ground"
+    },
+    {
+      "id": 173103,
+      "name": "newspaper article"
+    },
+    {
+      "id": 208152,
+      "name": "pets"
+    },
+    {
+      "id": 230191,
+      "name": "haunted"
+    },
+    {
+      "id": 239680,
+      "name": "religious horror"
+    },
+    {
+      "id": 325763,
+      "name": "ambiguous"
+    },
+    {
+      "id": 325766,
+      "name": "antagonistic"
+    },
+    {
+      "id": 325825,
+      "name": "horrified"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5361,
+  "watchlistCount": 18,
+  "favouriteCount": 5,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-03T12:37:15.328Z",
+  "updatedAt": "2026-10-03T12:41:14.296Z",
+  "genres": [
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7e768357-43e9-4bab-8c7d-81969e693c57",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 9274,
+      "name": "James Brolin",
+      "character": "George Lutz",
+      "profilePath": "/j5DCjshDWSv4nMJdWyXWCmRmROU.jpg",
+      "order": 0
+    },
+    {
+      "id": "320e2df8-cd9c-4bcb-b1bd-f4bf1d6c4b1a",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 20011,
+      "name": "Margot Kidder",
+      "character": "Kathy Lutz",
+      "profilePath": "/uJI4BwpmD9fX8D8jBdn2jT5rpvo.jpg",
+      "order": 1
+    },
+    {
+      "id": "24aebd2a-a10b-41ea-a2c9-49ee71e57b3b",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 522,
+      "name": "Rod Steiger",
+      "character": "Father Delaney",
+      "profilePath": "/70bE5PZJbRHxG4th6gDvXGgXu4Z.jpg",
+      "order": 2
+    },
+    {
+      "id": "8c8972de-3515-4587-912a-ae6656dfd150",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 69494,
+      "name": "Don Stroud",
+      "character": "Father Richard Bolen",
+      "profilePath": "/n6yorMuvxBGDvIWwsqitNpwzwid.jpg",
+      "order": 3
+    },
+    {
+      "id": "2ff5d481-5c11-470f-b6f9-21853c460cbd",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 8608,
+      "name": "Murray Hamilton",
+      "character": "Father Ryan",
+      "profilePath": "/kEAXyzRQ5POdciTjAUjRW4lIslj.jpg",
+      "order": 4
+    },
+    {
+      "id": "b76d3e2a-d3d4-458d-be05-8140c72d0a9f",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 95564,
+      "name": "John Larch",
+      "character": "Father Nuncio",
+      "profilePath": "/7vKSk4RnjeUTDgdvmeo98JBj2g2.jpg",
+      "order": 5
+    },
+    {
+      "id": "5b523cf8-baed-4fde-8d66-f7eca50036cc",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 106054,
+      "name": "Natasha Ryan",
+      "character": "Amy",
+      "profilePath": "/919pAnbDr3O72mMubQD78ngEDMh.jpg",
+      "order": 6
+    },
+    {
+      "id": "07375d7f-c484-40e0-865e-91113a028c01",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 9980,
+      "name": "K.C. Martel",
+      "character": "Greg",
+      "profilePath": "/97MS9dZlwzOQ50O9PHxjykFtAFg.jpg",
+      "order": 7
+    },
+    {
+      "id": "af6f3fdf-535c-4fe6-8af8-300db8ef25c6",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 98233,
+      "name": "Meeno Peluce",
+      "character": "Matt",
+      "profilePath": "/cWtI9QpK7batUOH4EtixOpZpuDX.jpg",
+      "order": 8
+    },
+    {
+      "id": "91531923-3ceb-4bcb-a578-909ec413c241",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 41278,
+      "name": "Michael Sacks",
+      "character": "Jeff",
+      "profilePath": "/7I8I1x4MqCkU9glsXiWpaI4zPnH.jpg",
+      "order": 9
+    },
+    {
+      "id": "7145411b-7175-4c5f-8926-ed410fcd52f8",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 179383,
+      "name": "Irene Dailey",
+      "character": "Aunt Helena",
+      "profilePath": "/iK38HzQsGYexcb0qiN9tSiWWWgi.jpg",
+      "order": 10
+    },
+    {
+      "id": "7e21337a-8bcf-4179-93d2-1e7e55246156",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 4160,
+      "name": "Helen Shaver",
+      "character": "Carolyn",
+      "profilePath": "/4RcaswFfLR8D3bQBHVlxyBR0R0H.jpg",
+      "order": 11
+    },
+    {
+      "id": "c4b306c9-9d90-49db-afbe-68062ad8e71a",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 87007,
+      "name": "Amy Wright",
+      "character": "Jackie",
+      "profilePath": "/wejr7718NPsCjTF2mvyOOIukRsc.jpg",
+      "order": 12
+    },
+    {
+      "id": "3186698f-2b2d-4014-ac4d-f803d07cc3fd",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 98596,
+      "name": "Marc Vahanian",
+      "character": "Jimmy",
+      "profilePath": "/t8Vz62uZq9Yk5hXegCzPOOZ3ZcU.jpg",
+      "order": 13
+    },
+    {
+      "id": "cadfc7d2-97ed-4120-a95f-dc6cf1393aec",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 172280,
+      "name": "Elsa Raven",
+      "character": "Mrs. Townsend",
+      "profilePath": "/1N6pa5heM43SDwrGdGeNW5E7mNs.jpg",
+      "order": 14
+    },
+    {
+      "id": "1f044f63-0100-42b3-a207-0f8ce30c3927",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 32384,
+      "name": "Eddie Barth",
+      "character": "Agucci",
+      "profilePath": "/mx0vwuRpEqMGxHnnzquxlHx6Ird.jpg",
+      "order": 15
+    },
+    {
+      "id": "df77badc-fb1b-49c4-ad43-32b8f2c99636",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 129663,
+      "name": "Hank Garrett",
+      "character": "Bartender",
+      "profilePath": "/rsWD0TmxSgHLFISXXqYbHVnOknL.jpg",
+      "order": 16
+    },
+    {
+      "id": "d85eee75-260f-4b92-890a-acf35e123edf",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 1072,
+      "name": "James Tolkan",
+      "character": "Coroner",
+      "profilePath": "/euEktcyVXm1pq5UBC16v3zuBq7J.jpg",
+      "order": 17
+    },
+    {
+      "id": "04e8db67-d3c9-40bb-b87a-d8ae8b9dc405",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 3014,
+      "name": "Val Avery",
+      "character": "Sgt. Gionfriddo",
+      "profilePath": "/1Pl3rZvKYamQpFLygxZeWFXVx1w.jpg",
+      "order": 18
+    },
+    {
+      "id": "0bcdcb63-3f4a-4e5b-bcd4-2a6f5610ddc2",
+      "movieId": "ac06d007-a0de-4730-8850-a989b937d021",
+      "tmdbPersonId": 15415,
+      "name": "Peter Maloney",
+      "character": "Newspaper Clerk",
+      "profilePath": "/jxieARN7IOinD1HW2ywoM480jyH.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "riiuu",
+    "displayName": "riiu"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

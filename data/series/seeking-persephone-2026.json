@@ -1,0 +1,131 @@
+{
+  "slug": "seeking-persephone-2026",
+  "id": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+  "title": "Seeking Persephone",
+  "overview": "To save her family, Persephone marries a cold, distant duke - never expecting to awaken a love that could change them both forever.",
+  "tagline": null,
+  "posterPath": "/tJsS5oFvcKsJ3NdlTbuG7nyCDIK.jpg",
+  "backdropPath": "/x0zAZmhH4Pbo6PctR5WzWoJ7SAV.jpg",
+  "logoPath": "/Ac42oCOOZFCfrprxyq6DHWlJ0Dp.png",
+  "firstAirDate": "2026-03-01",
+  "voteAverage": "8.78",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ef8a3130-bfd5-4e15-a26c-b4f33aad5182",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbPersonId": 4292708,
+      "name": "Ryann Bailey",
+      "character": "Persephone Lancaster",
+      "profilePath": "/p4tJEykFJajVkGtBOy4Vw8FmkCs.jpg",
+      "order": 0
+    },
+    {
+      "id": "1f78e8fe-2f9f-4fc7-8c39-87f9569a3ef3",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbPersonId": 1418422,
+      "name": "Jake Stormoen",
+      "character": "Adam Boyce, Duke of Kielder",
+      "profilePath": "/4Dep8AvpXVR0BPF0KdHz70pZHDn.jpg",
+      "order": 1
+    },
+    {
+      "id": "b5d5b762-72da-44a2-93ff-f7b91bf9ebbb",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbPersonId": 3649775,
+      "name": "Toby-Alexander Smith",
+      "character": "Harry Windover",
+      "profilePath": "/3qykFWS4xC0ZKuErb34n2lGsMRE.jpg",
+      "order": 2
+    },
+    {
+      "id": "a413869d-d409-439b-b528-4b04f9a57569",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbPersonId": 3498317,
+      "name": "Catherine Hannay",
+      "character": "Athena Lancaster",
+      "profilePath": "/4gdUflvGfE42RCOTqY2P2m7Tw0G.jpg",
+      "order": 3
+    },
+    {
+      "id": "bd900b5b-aeb5-4d7f-a4d5-12fa1e07023b",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbPersonId": 3642544,
+      "name": "Charlotte Hemmings",
+      "character": "Dowager Duchess of Kielder",
+      "profilePath": "/8GXEF1IWXamTAkbItKmnYAeUtMM.jpg",
+      "order": 4
+    },
+    {
+      "id": "a2889876-b014-4594-8109-ba7ee521f742",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbPersonId": 1138288,
+      "name": "Stevie Raine",
+      "character": "John Handley",
+      "profilePath": "/7TqFwyf5YU4A7ZNCxqGkwwh244m.jpg",
+      "order": 5
+    },
+    {
+      "id": "f0d04469-ead6-4cf8-b3da-2dccd111cb67",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbPersonId": 5357672,
+      "name": "Eva Cambers",
+      "character": "Artemis Lancaster",
+      "profilePath": "/bljS8XvdPkf1LvR4PXFKHodoj3l.jpg",
+      "order": 6
+    },
+    {
+      "id": "cc0af268-948c-4f3f-9494-36adcffdcc57",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbPersonId": 5357670,
+      "name": "Willow Bell",
+      "character": "Daphne Lancaster",
+      "profilePath": "/t361XMaoQU6IbMjRtg6C2Fd2nqp.jpg",
+      "order": 7
+    },
+    {
+      "id": "d06714ec-893c-460e-b622-013339da40b4",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbPersonId": 54500,
+      "name": "Will Kemp",
+      "character": "Richard Lancaster",
+      "profilePath": "/22fDAmoI0oEPU6Iaw5vZa6nqC92.jpg",
+      "order": 8
+    },
+    {
+      "id": "0e92a98a-3892-4a12-b4ed-c79a0738404d",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbPersonId": 5357673,
+      "name": "Rocco Padden",
+      "character": "Linus Lancaster",
+      "profilePath": "/uXBJHqQFZmD9Iapx9WRdKWbQ6Ls.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "f5f92e03-928c-4d11-b337-3deb026a1a97",
+      "tvSeriesId": "ff9fa82e-d967-4939-880e-1858d8f8e3f4",
+      "tmdbId": 505663,
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "overview": "Persephone marries the feared, scarred Duke of Kielder to save her family. Her gentle persistence begins to soften his guarded heart, but when danger strikes, he must choose between protecting himself or losing the woman he's grown to love.",
+      "posterPath": "/tJsS5oFvcKsJ3NdlTbuG7nyCDIK.jpg",
+      "airDate": "2026-03-01",
+      "episodeCount": 4,
+      "isPublished": true,
+      "createdAt": "2026-10-19T13:50:46.211Z",
+      "updatedAt": "2026-10-19T13:51:04.868Z"
+    }
+  ]
+}

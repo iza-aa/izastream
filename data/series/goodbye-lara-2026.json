@@ -1,0 +1,152 @@
+{
+  "slug": "goodbye-lara-2026",
+  "id": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+  "title": "Goodbye, Lara",
+  "overview": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.",
+  "tagline": null,
+  "posterPath": "/b6MTa4eZA9uQBEBeSRnGXLjutc5.jpg",
+  "backdropPath": "/2ZiCNiuOiUGfAF0j73RI8DX1Z1N.jpg",
+  "logoPath": "/n2hpBQQaOckGzOGf78YA0UiJWkZ.png",
+  "firstAirDate": "2026-07-06",
+  "voteAverage": "7.60",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "752f6785-c1a0-4093-9d4f-daa5e794f5a8",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbPersonId": 2864386,
+      "name": "Hana Hishikawa",
+      "character": "Lara (voice)",
+      "profilePath": "/epCzuP9ZmBMonKK2Z6FOKoq2b7k.jpg",
+      "order": 0
+    },
+    {
+      "id": "e2eb11ae-49ef-4f17-9e86-7f9a8ff1122d",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbPersonId": 5714955,
+      "name": "Nana Kawaishi",
+      "character": "Mari Otsu (voice)",
+      "profilePath": "/KB1AYyu0XV8DKVy7IPX1emqDJZ.jpg",
+      "order": 1
+    },
+    {
+      "id": "d915fbd3-80e8-41d2-867c-3780ffba7f14",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbPersonId": 111372,
+      "name": "Rica Fukami",
+      "character": "Grace (voice)",
+      "profilePath": "/sVFWxaM89O540z0N1QOkXqCbqJo.jpg",
+      "order": 500
+    },
+    {
+      "id": "d0bd44bb-e787-4f0c-af14-01a041b23f38",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbPersonId": 1307031,
+      "name": "Minami Tsuda",
+      "character": "Lisa (voice)",
+      "profilePath": "/bgPI0vCsH43aZVfBuUcQ91cDBxe.jpg",
+      "order": 502
+    },
+    {
+      "id": "b0fdf76e-d66f-4b6e-b727-fd0612b22ff1",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbPersonId": 1256906,
+      "name": "Kazutomi Yamamoto",
+      "character": "Kota (voice)",
+      "profilePath": "/4rRICK0YXcneKmPzV7nv3BKGliB.jpg",
+      "order": 503
+    },
+    {
+      "id": "7ecb79bb-5dbe-412c-aace-06535d7c4581",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbPersonId": 219659,
+      "name": "Masaki Terasoma",
+      "character": "Rowan (voice)",
+      "profilePath": "/eol7Ul4buAam9SmJDuFIWln0Cd3.jpg",
+      "order": 504
+    },
+    {
+      "id": "0601df2a-ed62-4063-bc83-ed169c399798",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbPersonId": 1325230,
+      "name": "Ayumu Murase",
+      "character": "Luca Akizuki (voice)",
+      "profilePath": "/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg",
+      "order": 505
+    },
+    {
+      "id": "fab1d208-66ff-4e7d-828f-1fd1a8cf706b",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbPersonId": 1717124,
+      "name": "Honoka Inoue",
+      "character": "Luna (voice)",
+      "profilePath": "/eZHNcyvGvFm8FyUMa0WnW2yrYMx.jpg",
+      "order": 505
+    },
+    {
+      "id": "8168a1b3-0507-442d-9a63-6f2b673a68a7",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbPersonId": 1182773,
+      "name": "Umeka Shoji",
+      "character": "Laura (voice)",
+      "profilePath": "/PZWLxxNycIa2h7Ul973gECdP6s.jpg",
+      "order": 506
+    },
+    {
+      "id": "4809a6a7-b26b-4e00-a6f6-c90f3e67f69d",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbPersonId": 1643473,
+      "name": "Miyu Takagi",
+      "character": "Rosa (voice)",
+      "profilePath": null,
+      "order": 508
+    }
+  ],
+  "seasons": [
+    {
+      "id": "5b654948-5612-4cfc-95c5-c0f0c3ddb0af",
+      "tvSeriesId": "113c396a-d8cd-4eb8-b154-4a574ec41425",
+      "tmdbId": 463441,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/gia9wtkAoRLpufLXDr6PVx9UB1u.jpg",
+      "airDate": "2026-07-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-28T16:53:49.119Z",
+      "updatedAt": "2026-09-28T16:55:22.637Z"
+    }
+  ]
+}

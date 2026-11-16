@@ -1,0 +1,431 @@
+{
+  "slug": "the-end-of-oak-street-2026",
+  "id": "74237ff7-5805-4666-9c33-91c237d8cafe",
+  "tmdbId": 1101383,
+  "imdbId": "tt27165187",
+  "title": "The End of Oak Street",
+  "originalTitle": "The End of Oak Street",
+  "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+  "tagline": "Where goes the neighborhood.",
+  "posterPath": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+  "backdropPath": "/9eBejUmnxLcaauqyeXzviIJmVR0.jpg",
+  "logoPath": "/gAYUeE2CuZP2mSiS8oIHgkCC77R.png",
+  "backdrops": [
+    "/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+    "/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
+    "/hBwfWpZMnto1w2YT9NgRj6WJi6I.jpg",
+    "/mJDCrEFKHUqoZe4xyI8CE47pw7P.jpg",
+    "/pyuj4HBPUS61UvhN0Qf2szwDjU.jpg",
+    "/l2pSvXV5wak53HtRWfctZu5i9hG.jpg",
+    "/tSd2a2mQjifR1HPhsTngkYZZeu6.jpg",
+    "/UryG4AffHKYrB4D6tmklzU38WQ.jpg",
+    "/rZUe3klAhnMVILib14FzHmS8u6P.jpg",
+    "/3bq3Jy5cnE2FjngeRVvkJawquVf.jpg"
+  ],
+  "releaseDate": "2026-08-12",
+  "runtime": 100,
+  "voteAverage": "6.35",
+  "popularity": null,
+  "popularityScore": 1755,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=u4tgctWuHc0",
+  "quality": "WEB-DL",
+  "director": "David Robert Mitchell",
+  "directorTmdbId": 558929,
+  "directorProfilePath": "/i0XKqclsHNO8JAD7yNuuUNOUXG3.jpg",
+  "productionCompanies": [
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+      "id": 216687,
+      "name": "Domain Entertainment",
+      "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+      "id": 11461,
+      "name": "Bad Robot",
+      "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png"
+    },
+    {
+      "id": 171235,
+      "name": "Jackson Pictures",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3822,
+      "name": "teleportation"
+    },
+    {
+      "id": 3891,
+      "name": "giant snake"
+    },
+    {
+      "id": 10235,
+      "name": "family relationships"
+    },
+    {
+      "id": 10532,
+      "name": "suburbia"
+    },
+    {
+      "id": 10349,
+      "name": "survival"
+    },
+    {
+      "id": 12616,
+      "name": "dinosaur"
+    },
+    {
+      "id": 50009,
+      "name": "survival horror"
+    },
+    {
+      "id": 180523,
+      "name": "neighborhood"
+    },
+    {
+      "id": 208289,
+      "name": "1980s"
+    },
+    {
+      "id": 221189,
+      "name": "suburban"
+    },
+    {
+      "id": 259376,
+      "name": "playful"
+    },
+    {
+      "id": 303310,
+      "name": "joyous"
+    },
+    {
+      "id": 306351,
+      "name": "nuclear family"
+    },
+    {
+      "id": 325765,
+      "name": "amused"
+    },
+    {
+      "id": 327857,
+      "name": "survival adventure"
+    },
+    {
+      "id": 381211,
+      "name": "suburbs"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 325566,
+  "watchlistCount": 1209,
+  "favouriteCount": 446,
+  "shareCount": 178,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-14T10:10:56.159Z",
+  "updatedAt": "2026-09-14T10:11:36.014Z",
+  "genres": [
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "435829b4-b165-4caf-b900-a84d0d1db793",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 1813,
+      "name": "Anne Hathaway",
+      "character": "Denise Platt",
+      "profilePath": "/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+      "order": 0
+    },
+    {
+      "id": "1368179b-d6e1-4496-82e2-9203cdc185b4",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 3061,
+      "name": "Ewan McGregor",
+      "character": "Greg Platt",
+      "profilePath": "/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg",
+      "order": 1
+    },
+    {
+      "id": "fa57c1bd-cdfb-4372-a565-5b1b32c8f570",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 1104567,
+      "name": "Maisy Stella",
+      "character": "Audrey Platt",
+      "profilePath": "/dlnP0Yzbr9EEbVg6M0PQVQ7pwUF.jpg",
+      "order": 2
+    },
+    {
+      "id": "6ac396ef-a11c-49c8-8b81-ad68e2e70f55",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 1721268,
+      "name": "Christian Convery",
+      "character": "Brian Platt",
+      "profilePath": "/tOR2tSrvHPVDltE4jBDEva3GNqY.jpg",
+      "order": 3
+    },
+    {
+      "id": "33e029eb-1538-4c1b-94a0-910a621b529e",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 1900828,
+      "name": "Jordan Alexa Davis",
+      "character": "Jeannette Christiansen",
+      "profilePath": "/itz31u3sG9hAlwuFZ6FWz1KhY1R.jpg",
+      "order": 4
+    },
+    {
+      "id": "96a2db11-ee59-43fa-8ac5-d9bd20d1d569",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 1211946,
+      "name": "P.J. Byrne",
+      "character": "Mel Jacobs",
+      "profilePath": "/1JVBaxRy3OxkHymD3nwBd5kVWWL.jpg",
+      "order": 5
+    },
+    {
+      "id": "0a575fae-0ce4-4582-ba22-eedd2bb95586",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 1254367,
+      "name": "Bethany Anne Lind",
+      "character": "Mary Bagrowski",
+      "profilePath": "/d0FjeKbWYhbTzFSimCnC9K1Maza.jpg",
+      "order": 6
+    },
+    {
+      "id": "a27b0f72-4792-4b3e-81b6-11b1b28d2505",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 156511,
+      "name": "Emily Kuroda",
+      "character": "Mrs. Valcour",
+      "profilePath": "/yaZhAxSsElEaX0az2U6FUBN38ET.jpg",
+      "order": 7
+    },
+    {
+      "id": "3bc3437a-e514-40d7-8ae6-a58b4e9cdbfd",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 1985574,
+      "name": "Denitra Isler",
+      "character": "Mae",
+      "profilePath": "/gIIubxZEMjZiz9mTtfAlpQETjaw.jpg",
+      "order": 8
+    },
+    {
+      "id": "307de50b-6010-4b17-b246-ddf931a3e85b",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 1488908,
+      "name": "Hudson Meek",
+      "character": "Kaden",
+      "profilePath": "/29S5mIoO18vNbOs0qrLC2XRVNlV.jpg",
+      "order": 9
+    },
+    {
+      "id": "7c6e2eb9-a0e2-4ed9-ae34-43935cc64e42",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 156395,
+      "name": "Anne Gee Byrd",
+      "character": "Mrs. Huddleston",
+      "profilePath": "/yNqUNepmVQ462yoTnZOWVbudKeG.jpg",
+      "order": 10
+    },
+    {
+      "id": "e97e09b4-64ec-4ec6-a592-edb6a9c9de81",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 4043926,
+      "name": "Michael-Christian Moore",
+      "character": "Ashon",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "c1b60950-cb5f-441c-92b7-c87cf8ef7049",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 5582587,
+      "name": "Hugo Silver",
+      "character": "Fergus",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "70d8f403-b964-4103-b6ef-83291877afed",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 4019851,
+      "name": "Simms May",
+      "character": "Zachery",
+      "profilePath": "/jfOkBcfi07i4xl9ayjwcOZgerhe.jpg",
+      "order": 13
+    },
+    {
+      "id": "9a4f952b-8580-4186-a25b-8637b277f55e",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 1935905,
+      "name": "Grayson Thorne Kilpatrick",
+      "character": "Buddy",
+      "profilePath": "/17xq5SJh6GTr9a2nRmDhxH3TUZ7.jpg",
+      "order": 14
+    },
+    {
+      "id": "23f65042-68ca-47f5-91db-0034df35a23e",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 4586397,
+      "name": "Johann Mikaiel",
+      "character": "Male Teen #2",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "4286ad1f-9b89-4d49-b559-854ee63ce3ce",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 2277859,
+      "name": "Savanna Renee",
+      "character": "Female Teen",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "71592813-737e-4474-947f-5246a3800bd5",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 2557619,
+      "name": "Pilot Bunch",
+      "character": "Buddy #2",
+      "profilePath": "/uSoUAVnJtIv214gWJ0FRHySPwKp.jpg",
+      "order": 17
+    },
+    {
+      "id": "8898f95f-26d3-4733-af2e-4686b1cb8b67",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 5582592,
+      "name": "Douglas R. Weiss",
+      "character": "Neighbor",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "cc5c4a61-c89d-4907-aff9-fbd9eeef456f",
+      "movieId": "74237ff7-5805-4666-9c33-91c237d8cafe",
+      "tmdbPersonId": 587438,
+      "name": "Chris Coy",
+      "character": "",
+      "profilePath": "/qM89KmZYCOC9VVUle5OPMP0i5U8.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "lego-one-piece-2026",
+  "id": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+  "title": "LEGO ONE PIECE",
+  "overview": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
+  "tagline": "Pirates assemble.",
+  "posterPath": "/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+  "backdropPath": "/1ftqNLph1CxcXxSXJsijjlw7ZkX.jpg",
+  "logoPath": "/fZNC52feyg0I9EOPyoycMSPi7pn.png",
+  "firstAirDate": "2026-09-29",
+  "voteAverage": "8.60",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7227c6e6-1d55-4c77-8c46-552c325c9b2d",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbPersonId": 2177750,
+      "name": "Iñaki Godoy",
+      "character": "Luffy (voice)",
+      "profilePath": "/oPwyLvGfgApD7MfRwj8zp7HOLMF.jpg",
+      "order": 0
+    },
+    {
+      "id": "0bb4fb29-745e-4a4b-bf3e-78b353d7228c",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbPersonId": 1568101,
+      "name": "Emily Rudd",
+      "character": "Nami (voice)",
+      "profilePath": "/vVl4ABlqUuh5n1M2B9AOOa9r6kV.jpg",
+      "order": 1
+    },
+    {
+      "id": "a9c46efd-1089-4211-a1bf-ea9ce0f4169f",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbPersonId": 1566805,
+      "name": "Mackenyu",
+      "character": "Zoro (voice)",
+      "profilePath": "/y4FTSASxsO1F61p3hFIPMCeprut.jpg",
+      "order": 2
+    },
+    {
+      "id": "e46dd2ef-9916-42eb-a100-d8ba1f98f1ac",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbPersonId": 2355316,
+      "name": "Jacob Gibson",
+      "character": "Usopp",
+      "profilePath": "/rjBm6lA9A077Id2lAnoNyryo268.jpg",
+      "order": 3
+    },
+    {
+      "id": "d3a130b3-078c-43b2-8da5-fb70547f210c",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbPersonId": 2498631,
+      "name": "Taz Skylar",
+      "character": "Sanji (voice)",
+      "profilePath": "/3EXMkfzB8EXn3ZJPJvK6OfPWLfz.jpg",
+      "order": 4
+    },
+    {
+      "id": "392c7eb0-c7fb-412d-ae07-4880e53c4cbf",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbPersonId": 1363394,
+      "name": "Mikaela Hoover",
+      "character": "Chopper (voice)",
+      "profilePath": "/mC2jcUUd8I9eyRm1liQiMA63Vvm.jpg",
+      "order": 5
+    },
+    {
+      "id": "d5e7cd1b-da39-4e28-a75c-f358e5f2d581",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbPersonId": 1031249,
+      "name": "Jeff Ward",
+      "character": "Buggy the Clown (voice)",
+      "profilePath": "/55Vj8VuALnptdxjJYCH6EdPyR0j.jpg",
+      "order": 6
+    },
+    {
+      "id": "d4d6bf37-e502-48e6-8ebb-f494d1c6b3b8",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbPersonId": 1644383,
+      "name": "Steven John Ward",
+      "character": "Mihawk (voice)",
+      "profilePath": "/cclus0QG5JAE09cS5OxetC7Mios.jpg",
+      "order": 500
+    },
+    {
+      "id": "1e68af95-8dd8-4ab2-8f28-d021cac22913",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbPersonId": 1035905,
+      "name": "Peter Gadiot",
+      "character": "Shanks (voice)",
+      "profilePath": "/462ODB50nmhpuXdpHz2otQ2rfOy.jpg",
+      "order": 501
+    },
+    {
+      "id": "74e55f8c-14f6-40b4-8ab1-b085f98c0d73",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbPersonId": 1493226,
+      "name": "McKinley Belcher III",
+      "character": "Arlong (voice)",
+      "profilePath": "/yoglJWyhgA1tnqQS9T3MQPPEsRc.jpg",
+      "order": 502
+    }
+  ],
+  "seasons": [
+    {
+      "id": "21b0c5e1-4cd3-47cb-ad3f-55bd9a311771",
+      "tvSeriesId": "eefae65b-5bc9-4c40-b0d4-2c85d9a63ee7",
+      "tmdbId": 509465,
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/lNEzS2CbwpIwMmhhlj3Utw8MhY7.jpg",
+      "airDate": "2026-09-29",
+      "episodeCount": 2,
+      "isPublished": true,
+      "createdAt": "2026-10-01T19:03:38.864Z",
+      "updatedAt": "2026-10-01T19:03:54.990Z"
+    }
+  ]
+}

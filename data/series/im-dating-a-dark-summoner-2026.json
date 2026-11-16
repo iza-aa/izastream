@@ -1,0 +1,107 @@
+{
+  "slug": "im-dating-a-dark-summoner-2026",
+  "id": "102436e4-e24b-4119-8f3e-a8896d8927be",
+  "title": "I'm Dating a Dark Summoner",
+  "overview": "Amona, a dark summoner and demi-human girl who's too weak to resist her desires, and Roni, an overly serious priest! Roni welcomes Amona as a new member to his adventuring party. Everyone expected the two would clash and become sworn enemies. But, to their surprise and on their first day together, they have a one-night stand...!",
+  "tagline": null,
+  "posterPath": "/xD8bCXGlwC98mFq8mDyB15grUts.jpg",
+  "backdropPath": "/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
+  "logoPath": "/1lW0lhq7v53uqPDXRhY5R0NY1Uc.png",
+  "firstAirDate": "2026-10-05",
+  "voteAverage": "9.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "601c6832-5de2-4135-86b9-26ccb2e88319",
+      "tvSeriesId": "102436e4-e24b-4119-8f3e-a8896d8927be",
+      "tmdbPersonId": 2394448,
+      "name": "Chiyuki Miura",
+      "character": "Amona (voice)",
+      "profilePath": "/nEqBGUvmAiDFPCfqgVkPOo092Nj.jpg",
+      "order": 0
+    },
+    {
+      "id": "bd49ac7b-642c-4aa9-a950-f8cf2f8c19d6",
+      "tvSeriesId": "102436e4-e24b-4119-8f3e-a8896d8927be",
+      "tmdbPersonId": 6490118,
+      "name": "Yuuki Nishiyama",
+      "character": "Roni (voice)",
+      "profilePath": null,
+      "order": 1
+    },
+    {
+      "id": "2093e398-2f3c-4e4a-b24f-4817bf3638f3",
+      "tvSeriesId": "102436e4-e24b-4119-8f3e-a8896d8927be",
+      "tmdbPersonId": 6490120,
+      "name": "Senmai Houdentei",
+      "character": "Imp (voice)",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "b2a51cbd-d8b3-47a1-a2e8-b816c8041814",
+      "tvSeriesId": "102436e4-e24b-4119-8f3e-a8896d8927be",
+      "tmdbPersonId": 6490114,
+      "name": "Akane Nishimura",
+      "character": "Haru (voice)",
+      "profilePath": null,
+      "order": 3
+    },
+    {
+      "id": "1ad6c021-740c-4275-b1f3-93609244555a",
+      "tvSeriesId": "102436e4-e24b-4119-8f3e-a8896d8927be",
+      "tmdbPersonId": 6490121,
+      "name": "Maya Yashika",
+      "character": "Eury (voice)",
+      "profilePath": null,
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d0ddf191-6ed4-4f9e-88e9-37df584ca96c",
+      "tvSeriesId": "102436e4-e24b-4119-8f3e-a8896d8927be",
+      "tmdbId": 544930,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xD8bCXGlwC98mFq8mDyB15grUts.jpg",
+      "airDate": "2026-10-05",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-20T01:48:18.646Z",
+      "updatedAt": "2026-11-10T07:16:30.776Z"
+    }
+  ]
+}

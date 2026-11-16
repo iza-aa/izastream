@@ -1,0 +1,145 @@
+{
+  "slug": "love-upon-a-time-2026",
+  "id": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+  "title": "Love Upon a Time",
+  "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal's son while falling for a suspicious noble.",
+  "tagline": "A cruel twist of fate that takes the 'cruel' part too seriously!",
+  "posterPath": "/vOuvyL6B4P4as0A6xA2pWzK9iS.jpg",
+  "backdropPath": "/mGvbSo9lViyE7b9UrcTP8OzW5gL.jpg",
+  "logoPath": "/2cJjexZrHEbOWzdyM2Y5X8l9Qki.png",
+  "firstAirDate": "2026-03-27",
+  "voteAverage": "8.94",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4ea21a01-f09d-45ce-a37a-7c645451b71b",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbPersonId": 4691512,
+      "name": "Radchapon Phornpinit",
+      "character": "Nakun / Klao",
+      "profilePath": "/n4HEAAeV2xYGPuCCnzILhZsggrX.jpg",
+      "order": 0
+    },
+    {
+      "id": "2b53f5ed-facc-447c-b5ff-7aa6ff31c287",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbPersonId": 3176054,
+      "name": "Siraphop Manithikhun",
+      "character": "Tinnaphop / Phop",
+      "profilePath": "/EGbKAUyYdfBxW7PJYEBZMZtD5x.jpg",
+      "order": 1
+    },
+    {
+      "id": "01595a4b-f2a5-4d3c-a3ee-2298317b5650",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbPersonId": 3861554,
+      "name": "Thanutchon Chankaewarmon",
+      "character": "Thee / Jom",
+      "profilePath": "/iuqgLJJ1NnS8OT2YdHQ0d3quGzp.jpg",
+      "order": 2
+    },
+    {
+      "id": "df971a15-ff52-4692-a79d-9165d45aa4c3",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbPersonId": 4990152,
+      "name": "Pongsaton Sittipan",
+      "character": "Pun / Kaew",
+      "profilePath": "/rgcAEZAqVFMElDAD1axr6JU96K4.jpg",
+      "order": 3
+    },
+    {
+      "id": "76025bb4-b635-4143-ac80-e426c2b76b3c",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbPersonId": 2879993,
+      "name": "Piamchon Damrongsunthornchai",
+      "character": "Chuay",
+      "profilePath": "/tLiyZpqbE2sPMGpz3UYyw2h5LUz.jpg",
+      "order": 4
+    },
+    {
+      "id": "7c975a50-c374-4c22-99a9-a8acd5d1d884",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbPersonId": 6099911,
+      "name": "Manussita Jarusasi",
+      "character": "Sai",
+      "profilePath": "/8z5nyFPydHtDvIzLwiKp08nZAtS.jpg",
+      "order": 5
+    },
+    {
+      "id": "4f52e0d5-71ae-48a9-a885-da98c079762d",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbPersonId": 3277365,
+      "name": "Sueangsuda Lawanprasert",
+      "character": "Prayong",
+      "profilePath": "/tMsQlK3bKhC1TdROsM6LO1M5d5w.jpg",
+      "order": 6
+    },
+    {
+      "id": "919f406a-9c5a-400a-baeb-583585f5d8c4",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbPersonId": 3432567,
+      "name": "Athiwad Sanidwong Na Ayoodthayaa",
+      "character": "Lord Phichaiphakdi",
+      "profilePath": "/1J8dCA06JmcQ5QVTRXaLIFtmJ3u.jpg",
+      "order": 7
+    },
+    {
+      "id": "383eefa6-08e9-4bae-a7e2-b53da0e0b2e6",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbPersonId": 3925681,
+      "name": "Jirawat Vongdilokvath",
+      "character": "Rattikan",
+      "profilePath": "/dm6lV5bLwFvIdyJPxtXa9puqk21.jpg",
+      "order": 500
+    },
+    {
+      "id": "dd83ecb2-db7e-4166-95cb-6870da207b81",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbPersonId": 6099910,
+      "name": "Nattapon Tangaon",
+      "character": "Kong",
+      "profilePath": "/9PHBLG47tpRYytFA987glP3cCAm.jpg",
+      "order": 502
+    }
+  ],
+  "seasons": [
+    {
+      "id": "253c9639-1533-4075-97d0-2436dd8c33ef",
+      "tvSeriesId": "c4e04587-420e-46bd-9ec2-7536dabf1701",
+      "tmdbId": 323211,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "A modern man is transported 400 years into the past, where he must pose as a missing criminal’s son while falling for a suspicious noble.",
+      "posterPath": "/1JDjzVlqU0mTqVcjW6LU4hyzMnP.jpg",
+      "airDate": "2026-03-27",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-27T19:49:07.409Z",
+      "updatedAt": "2026-09-27T19:49:59.506Z"
+    }
+  ]
+}

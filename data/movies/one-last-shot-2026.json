@@ -1,0 +1,348 @@
+{
+  "slug": "one-last-shot-2026",
+  "id": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+  "tmdbId": 1607127,
+  "imdbId": "tt37971717",
+  "title": "One Last Shot",
+  "originalTitle": "One Last Shot",
+  "overview": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
+  "tagline": "One last traitor. One last mission. One last fight.",
+  "posterPath": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+  "backdropPath": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+    "/6M1gVQwezhnUXxQB8lfHBpSyula.jpg",
+    "/7AArZYRp6zGtbvSbbqoHn9xFp0L.jpg"
+  ],
+  "releaseDate": "2026-09-22",
+  "runtime": 97,
+  "voteAverage": "8.10",
+  "popularity": null,
+  "popularityScore": 650,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=8PAy3i9uU0A",
+  "quality": "WEB-DL",
+  "director": "James Nunn",
+  "directorTmdbId": 1088096,
+  "directorProfilePath": "/fa83eZedZOTM4DqkX1BrEUowkaT.jpg",
+  "productionCompanies": [],
+  "keywords": [
+    {
+      "id": 10085,
+      "name": "betrayal"
+    },
+    {
+      "id": 379459,
+      "name": "navy seals"
+    },
+    {
+      "id": 384316,
+      "name": "mercenaries"
+    },
+    {
+      "id": 384317,
+      "name": "missile defense"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 38231,
+  "watchlistCount": 131,
+  "favouriteCount": 45,
+  "shareCount": 20,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-23T06:08:36.699Z",
+  "updatedAt": "2026-09-23T06:08:48.990Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "cf4f2380-c9f4-4a51-a83c-eef1bb214881",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 78110,
+      "name": "Scott Adkins",
+      "character": "Jake Harris",
+      "profilePath": "/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg",
+      "order": 0
+    },
+    {
+      "id": "0a65c2f1-127a-4414-9a38-58cc3b8e29e4",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 1102427,
+      "name": "Steven Cree",
+      "character": "Elliot Carter",
+      "profilePath": "/oH9uSQMJPdFHeVggqvMwheW7nZl.jpg",
+      "order": 1
+    },
+    {
+      "id": "2f235e77-2bcf-4b00-b929-cf3f1d32c723",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 577478,
+      "name": "Hannah Ware",
+      "character": "Elena Torres",
+      "profilePath": "/vQqZkQsGZnikCk0QfJFW7OBuQ07.jpg",
+      "order": 2
+    },
+    {
+      "id": "1d318576-8515-4ebb-99ad-54be5e3d8c8d",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 16644,
+      "name": "Dolph Lundgren",
+      "character": "Admiral Mulholland",
+      "profilePath": "/fB1tOws6Gav0xE8LYlELEb82hJt.jpg",
+      "order": 3
+    },
+    {
+      "id": "a1ea8f47-395c-4897-8b39-89e58d0bd247",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 65198,
+      "name": "Kane Kosugi",
+      "character": "Lee",
+      "profilePath": "/wqMaPmNgrtqwZDktG0WFeKcqzJx.jpg",
+      "order": 4
+    },
+    {
+      "id": "5e73117b-dfbb-4744-9dc8-3572a17a62d3",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 583816,
+      "name": "Neil Linpow",
+      "character": "Long",
+      "profilePath": "/1be5xAB1L4gCdo6cd01pYfSZMc0.jpg",
+      "order": 5
+    },
+    {
+      "id": "a1645c77-8faa-4906-acf7-8c005c5ca6e9",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 56650,
+      "name": "Ray Fearon",
+      "character": "Robinson",
+      "profilePath": "/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg",
+      "order": 6
+    },
+    {
+      "id": "356a47fe-77a2-403d-8165-1a1520330677",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 5367087,
+      "name": "Tom Dunne",
+      "character": "Greene",
+      "profilePath": "/uxjZmYJ231RwfZsFQI2cksvz2jJ.jpg",
+      "order": 7
+    },
+    {
+      "id": "60645ae7-90a7-48f1-8fed-cf927090e13b",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 2242777,
+      "name": "Michel Curiel",
+      "character": "Perez",
+      "profilePath": "/ml4NqwB24Vr0PpRXiKjelUAWab5.jpg",
+      "order": 8
+    },
+    {
+      "id": "2a5e79de-4747-4bfd-9f91-9b68e2da75a3",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 4674281,
+      "name": "Tom Leigh",
+      "character": "Jericho",
+      "profilePath": "/z54gxrnWeFTDrxIfEkkU1RQLmTV.jpg",
+      "order": 9
+    },
+    {
+      "id": "e887166b-6c66-435c-8f02-5d63abb8a5af",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 3498314,
+      "name": "Jack Trueman",
+      "character": "Phillips",
+      "profilePath": "/97FIP23vtxyazLplDmJFg4CLZe9.jpg",
+      "order": 10
+    },
+    {
+      "id": "58e791c8-685e-47fb-8265-60dbfc514c4e",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 3229249,
+      "name": "Sofian Francis",
+      "character": "Flynn",
+      "profilePath": "/iWFEG28z0hiFRPQHfeVWs54aVVp.jpg",
+      "order": 11
+    },
+    {
+      "id": "b5368f57-f1d6-4633-abb5-eeda74b5c257",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 165359,
+      "name": "Stewart Alexander",
+      "character": "General McManus",
+      "profilePath": "/najx2f4DAKt7DtQkPEyNXJURyNe.jpg",
+      "order": 12
+    },
+    {
+      "id": "53d9617e-2542-4a86-85a3-698a71e70128",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 2060710,
+      "name": "Greg Austin",
+      "character": "Tyler",
+      "profilePath": "/ugxmrZZy4SmD7t2VqdafW5Abqpk.jpg",
+      "order": 13
+    },
+    {
+      "id": "67d473a1-6d22-4737-a53b-e5d6d006b7e5",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 5453388,
+      "name": "Jess Khan-Lee",
+      "character": "Lori Jin",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "c595c091-f56a-442e-9a4e-60592e7b19a9",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 3986745,
+      "name": "Lois Baglin",
+      "character": "Cynthia",
+      "profilePath": "/smzeoh64MUD3ZPB81w8n0abeYFL.jpg",
+      "order": 15
+    },
+    {
+      "id": "bbd17820-1486-4e89-a5b7-182e95950f19",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 1474690,
+      "name": "Jill Winternitz",
+      "character": "Kelly Harris",
+      "profilePath": "/bBfmth2C93OkyYir6w8qxjmHpiR.jpg",
+      "order": 16
+    },
+    {
+      "id": "6e848dbd-c359-450d-8116-94c1f8e964e3",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 5360901,
+      "name": "Rhys Hayhurst",
+      "character": "Max",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "0e7363a3-5006-4f36-b296-3a9601885e61",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 2079540,
+      "name": "Cassidy Little",
+      "character": "Barnes",
+      "profilePath": "/1HOWJWl3Q6IZ0OkFakU1Bv9grJk.jpg",
+      "order": 18
+    },
+    {
+      "id": "25bc175f-b734-4147-9b63-6f02968d8824",
+      "movieId": "107103ad-03fa-45ee-9250-2e45caab6c2b",
+      "tmdbPersonId": 30697,
+      "name": "Jim Meskimen",
+      "character": "Director Finch",
+      "profilePath": "/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "mebius-dust-2026",
+  "id": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+  "title": "MEBIUS DUST",
+  "overview": "Araki, Stella, and Olga are ordinary high-schoolers living in a city shaped by the mysterious Mebius Dust. Between gaming, bathhouse trips, and quiet walks home, their days pass peacefully—yet strange technology and rising unrest begin to quietly distort their everyday lives.",
+  "tagline": null,
+  "posterPath": "/s0IKZTAn9sbGToaim12YEOTyWde.jpg",
+  "backdropPath": "/zWXRjJFEfwQnMqqeyvjTLWkRenH.jpg",
+  "logoPath": "/6mVJj9vtHuS39WDr8r5RYJOTg59.png",
+  "firstAirDate": "2026-07-09",
+  "voteAverage": "6.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d7344642-fe13-470a-947a-becabeb53577",
+      "tvSeriesId": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+      "tmdbPersonId": 6212613,
+      "name": "Yuto Takenaka",
+      "character": "Araki (voice)",
+      "profilePath": null,
+      "order": 0
+    },
+    {
+      "id": "9d100ab1-9529-4692-9b67-76361a352ae5",
+      "tvSeriesId": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+      "tmdbPersonId": 1971815,
+      "name": "Nene Hieda",
+      "character": "Stella (voice)",
+      "profilePath": "/kg2cNTQ83bDadVBPJSrY2quRQpT.jpg",
+      "order": 1
+    },
+    {
+      "id": "673a005a-a20f-4b8a-8053-93f34f970576",
+      "tvSeriesId": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+      "tmdbPersonId": 5036492,
+      "name": "Haruka Sato",
+      "character": "Olga (voice)",
+      "profilePath": "/9rGQbNsfzDlFCC2dtdR9vSIlyDR.jpg",
+      "order": 2
+    },
+    {
+      "id": "dc31cc68-101a-484e-8049-45e9abe6fb26",
+      "tvSeriesId": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+      "tmdbPersonId": 2106489,
+      "name": "Taito Ban",
+      "character": "Shōsei (voice)",
+      "profilePath": "/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg",
+      "order": 3
+    },
+    {
+      "id": "536653d7-0604-4574-a634-cc9abdc94b2a",
+      "tvSeriesId": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+      "tmdbPersonId": 1922613,
+      "name": "Aoi Ichikawa",
+      "character": "Kai (voice)",
+      "profilePath": "/tM1PwSZlOT23ia4PDKkGHJVBd0T.jpg",
+      "order": 4
+    },
+    {
+      "id": "bc273ae3-72fd-40c1-aa84-07735a1c2ef8",
+      "tvSeriesId": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+      "tmdbPersonId": 4001651,
+      "name": "Souhei Horikane",
+      "character": "Haruto (voice)",
+      "profilePath": "/7JftC3BBrKAfK0MtcbRVELLOyfo.jpg",
+      "order": 5
+    },
+    {
+      "id": "7c25c958-d841-4896-8305-9fd454b5b5a7",
+      "tvSeriesId": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+      "tmdbPersonId": 1564654,
+      "name": "Satsumi Matsuda",
+      "character": "Kurusu (voice)",
+      "profilePath": "/2t35t5W2hyBD0eQGCpJcG4m4zHh.jpg",
+      "order": 6
+    },
+    {
+      "id": "3a49633d-85e8-4160-bd1c-bbbe2d9fc317",
+      "tvSeriesId": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+      "tmdbPersonId": 1253731,
+      "name": "Shiori Mikami",
+      "character": "Spica (voice)",
+      "profilePath": "/vA4xHsvHIC1Kpll63hMsUANjDA3.jpg",
+      "order": 7
+    },
+    {
+      "id": "269349aa-3783-4e2b-b0fb-12c6915bd219",
+      "tvSeriesId": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+      "tmdbPersonId": 2102121,
+      "name": "Maki Kawase",
+      "character": "Dr. Yuda (voice)",
+      "profilePath": "/3LgHKyXM33oOtBzmYTDesftIzY0.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "26cbf9af-f1ec-4902-802e-a348795fd469",
+      "tvSeriesId": "bbd1b239-b6b7-45e7-ac0f-248ad5831edf",
+      "tmdbId": 142386,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/s0IKZTAn9sbGToaim12YEOTyWde.jpg",
+      "airDate": "2026-07-09",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-08T03:35:17.953Z",
+      "updatedAt": "2026-10-08T03:37:01.013Z"
+    }
+  ]
+}

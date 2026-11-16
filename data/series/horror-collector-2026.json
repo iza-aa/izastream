@@ -1,0 +1,442 @@
+{
+  "slug": "horror-collector-2026",
+  "id": "6423251f-3a9e-4718-9a55-20afb2218f02",
+  "tmdbId": 307903,
+  "imdbId": "tt48391033",
+  "title": "HORROR COLLECTOR",
+  "originalTitle": "恐怖コレクター",
+  "overview": "Not all urban legends are myths. Some are real, and they’re coming to life. Fushigi roams Japan in a red hood, sealing them inside his magical notebook, with Jimmy, his human-faced dog, by his side. Each phenomenon brings him one step closer to capturing Himitsu, the girl responsible for manifesting the supernatural beings.",
+  "tagline": null,
+  "posterPath": "/pDVlDfr5RxSltpU2RMKV1ugAQRk.jpg",
+  "backdropPath": "/9SR35fCLp6VmuPPxRjfPQLucyU5.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/9SR35fCLp6VmuPPxRjfPQLucyU5.jpg",
+    "/lrQ7ReDUhaypKQmhOXinoq2Qaax.jpg"
+  ],
+  "firstAirDate": "2026-10-10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "voteAverage": "8.00",
+  "popularity": null,
+  "popularityScore": 320,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "trailerUrl": null,
+  "status": "Returning Series",
+  "networks": [
+    {
+      "id": 469,
+      "name": "NHK G",
+      "logo_path": "/3E5bxm9VfOU9LkAX545jtpKAe6Z.png",
+      "origin_country": "JP"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 11376,
+      "name": "NHK Enterprises",
+      "logo_path": "/lrglrxyGOMRl9KCsmcjmzjjpT2H.png"
+    },
+    {
+      "id": 15505,
+      "name": "NHK",
+      "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 9706,
+      "name": "anthology"
+    },
+    {
+      "id": 9955,
+      "name": "urban legend"
+    },
+    {
+      "id": 10541,
+      "name": "curse"
+    },
+    {
+      "id": 15101,
+      "name": "based on children's book"
+    },
+    {
+      "id": 162846,
+      "name": "ghost"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    },
+    {
+      "id": 251513,
+      "name": "supernatural power"
+    },
+    {
+      "id": 315058,
+      "name": "horror"
+    },
+    {
+      "id": 316332,
+      "name": "mystery"
+    }
+  ],
+  "createdBy": [],
+  "importedBy": "1816a61f-edb4-4e70-aed6-788e8f5ab078",
+  "viewCount": 1334,
+  "watchlistCount": 20,
+  "favouriteCount": 4,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T18:33:50.638Z",
+  "updatedAt": "2026-11-16T02:46:51.286Z",
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "efd8c60d-d42f-4a91-8d99-6dbe8aec41f2",
+      "tmdbId": 10762,
+      "name": "Kids",
+      "slug": "kids",
+      "createdAt": "2026-04-02T16:37:02.488Z"
+    }
+  ],
+  "seasons": [
+    {
+      "id": "6ceded6c-d6b1-480a-bb83-0ad4280017a1",
+      "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+      "tmdbId": 488759,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/kUfHYJr89qvmwJSRKo4r4kMK1Mr.jpg",
+      "airDate": "2026-10-10",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-26T15:30:17.172Z",
+      "updatedAt": "2026-11-16T02:46:51.257Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2e8f8ba8-2bdf-406b-b6d6-d216d0f09979",
+      "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+      "tmdbPersonId": 2392463,
+      "name": "Hiiro Ishibashi",
+      "character": "Fushigi Chino (voice)",
+      "profilePath": "/xDfX7mWq67zoymw5V7vEu22pf5r.jpg",
+      "order": 0
+    },
+    {
+      "id": "26b96db2-5cd8-4125-87da-85c755695675",
+      "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+      "tmdbPersonId": 221773,
+      "name": "Saori Hayami",
+      "character": "Himitsu (voice)",
+      "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg",
+      "order": 1
+    },
+    {
+      "id": "6e4ae042-03c0-40d9-a01f-2ed90862cdf2",
+      "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+      "tmdbPersonId": 131563,
+      "name": "Jun Fukuyama",
+      "character": "Jimmy (voice)",
+      "profilePath": "/eT9eloyIaIkTvTqMmpcsAleP2hM.jpg",
+      "order": 2
+    },
+    {
+      "id": "62f375b5-3953-4ef2-a4f2-59a5a46cef81",
+      "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+      "tmdbPersonId": 1245094,
+      "name": "Nobuhiko Okamoto",
+      "character": "Blue Umbrella Man (voice)",
+      "profilePath": "/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg",
+      "order": 3
+    },
+    {
+      "id": "0da7f37a-e6c4-424b-990f-c05264e6f207",
+      "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+      "tmdbPersonId": 3785002,
+      "name": "Sae Hiratsuka",
+      "character": "Momo (voice)",
+      "profilePath": "/87wJrunEuhXIJqu9weXSEpnfr2j.jpg",
+      "order": 4
+    },
+    {
+      "id": "8db321bf-48cb-4a1d-9d50-0f21135a5cc7",
+      "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+      "tmdbPersonId": 1324468,
+      "name": "Ryota Osaka",
+      "character": "Raita (voice)",
+      "profilePath": "/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg",
+      "order": 5
+    },
+    {
+      "id": "cc9c2c3f-53cf-4262-921a-1747800111cf",
+      "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+      "tmdbPersonId": 2864386,
+      "name": "Hana Hishikawa",
+      "character": "Sachiko Konno (voice)",
+      "profilePath": "/epCzuP9ZmBMonKK2Z6FOKoq2b7k.jpg",
+      "order": 6
+    },
+    {
+      "id": "dbed73ee-1f2b-4534-b6a4-187b5a6bd7e7",
+      "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+      "tmdbPersonId": 6540832,
+      "name": "Yukari Sakuraba",
+      "character": "High School Student (voice)",
+      "profilePath": "/hZVkCUZCmF0RwfiZPuvkokPwxfN.jpg",
+      "order": 500
+    }
+  ],
+  "defaultSeason": {
+    "id": "6ceded6c-d6b1-480a-bb83-0ad4280017a1",
+    "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+    "tmdbId": 488759,
+    "seasonNumber": 1,
+    "name": "Season 1",
+    "overview": "",
+    "posterPath": "/kUfHYJr89qvmwJSRKo4r4kMK1Mr.jpg",
+    "airDate": "2026-10-10",
+    "episodeCount": 12,
+    "isPublished": true,
+    "createdAt": "2026-10-26T15:30:17.172Z",
+    "updatedAt": "2026-11-16T02:46:51.257Z",
+    "episodes": [
+      {
+        "id": "bca79f32-7724-4297-8624-7722405c319d",
+        "seasonId": "6ceded6c-d6b1-480a-bb83-0ad4280017a1",
+        "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+        "tmdbId": 6753031,
+        "episodeNumber": 1,
+        "name": "The Red Notebook",
+        "overview": "Rumors spread about a mysterious figure in a hood as people start noticing surreal and terrifying apparitions.",
+        "stillPath": "/v5IrcOiFVu7igoYyI1rtlQkNCPv.jpg",
+        "airDate": "2026-10-10",
+        "runtime": 25,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:30:17.172Z",
+        "updatedAt": "2026-11-16T02:46:51.267Z",
+        "hasVideo": true
+      },
+      {
+        "id": "01eb3c81-2a5e-45a5-bdd5-4eaabda945a4",
+        "seasonId": "6ceded6c-d6b1-480a-bb83-0ad4280017a1",
+        "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+        "tmdbId": 7820558,
+        "episodeNumber": 2,
+        "name": "The Shadow Enveloping the City",
+        "overview": "Several girls hear a voice in the woods and notice a strange woman lurking in the background of their photos.",
+        "stillPath": "/wGi3btOTfAo30Kua5cof4MTgwvz.jpg",
+        "airDate": "2026-10-17",
+        "runtime": 25,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:30:17.172Z",
+        "updatedAt": "2026-11-16T02:46:51.267Z",
+        "hasVideo": true
+      },
+      {
+        "id": "f94b1292-1c41-45d2-b8e7-d8f6de82ea7d",
+        "seasonId": "6ceded6c-d6b1-480a-bb83-0ad4280017a1",
+        "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+        "tmdbId": 7820559,
+        "episodeNumber": 3,
+        "name": "The Faceless Kid",
+        "overview": "Fushigi's search for Himitsu leads him to the publishers Jimmy worked at while he was still completely human.",
+        "stillPath": "/k6AtMjNBywFCY0qqq0cEavq12mK.jpg",
+        "airDate": "2026-10-24",
+        "runtime": 25,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:30:17.172Z",
+        "updatedAt": "2026-11-16T02:46:51.267Z",
+        "hasVideo": true
+      },
+      {
+        "id": "bb8ff7d0-61fe-4d9c-9849-c0de9db92ca4",
+        "seasonId": "6ceded6c-d6b1-480a-bb83-0ad4280017a1",
+        "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+        "tmdbId": 7820560,
+        "episodeNumber": 4,
+        "name": "The Quiet Ripples",
+        "overview": "Fushigi and Jimmy track down a cursed cell phone app that tricks users into committing risky and violent acts.",
+        "stillPath": "/gcK3kUMkNWHSQqk43Cm8XEHpPOb.jpg",
+        "airDate": "2026-10-31",
+        "runtime": 25,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:30:17.172Z",
+        "updatedAt": "2026-11-16T02:46:51.267Z",
+        "hasVideo": true
+      },
+      {
+        "id": "a48593cd-74ff-4675-87d0-adc0e3f5f2fe",
+        "seasonId": "6ceded6c-d6b1-480a-bb83-0ad4280017a1",
+        "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+        "tmdbId": 7820561,
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "Jimmy and Fushigi try to save a girl curious about urban legends and a boy haunted by an amnesiac ghost.",
+        "stillPath": "/fGYpLT3ZKuDNjAWaY4Lnakkfwmb.jpg",
+        "airDate": "2026-11-07",
+        "runtime": 25,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:30:17.172Z",
+        "updatedAt": "2026-11-16T02:46:51.267Z",
+        "hasVideo": true
+      },
+      {
+        "id": "817cdda0-6347-4af6-a00f-1e86f253b995",
+        "seasonId": "6ceded6c-d6b1-480a-bb83-0ad4280017a1",
+        "tvSeriesId": "6423251f-3a9e-4718-9a55-20afb2218f02",
+        "tmdbId": 7820562,
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "Jimmy is turning into a Human-Faced Dog. Can Fushigi find a way to save him?",
+        "stillPath": "/lNOSuaJe29o5oHKSobAO5cYA9gU.jpg",
+        "airDate": "2026-11-14",
+        "runtime": 25,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:30:17.172Z",
+        "updatedAt": "2026-11-16T02:47:02.231Z",
+        "hasVideo": true
+      }
+    ]
+  },
+  "requestedBy": null,
+  "collections": [],
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

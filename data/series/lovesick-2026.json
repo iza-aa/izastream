@@ -1,0 +1,68 @@
+{
+  "slug": "lovesick-2026",
+  "id": "c6849673-0957-46a7-8b3a-d1a7f1939342",
+  "title": "Lovesick",
+  "overview": "Set during the Mexican Revolution, follow Emilia Sauri, a woman torn between two passionate loves while navigating a world dominated by violence and revolution.",
+  "tagline": null,
+  "posterPath": "/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
+  "backdropPath": "/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
+  "logoPath": "/3xSgZtMxbzjmlahryljB1EnGRfV.png",
+  "firstAirDate": "2026-09-02",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ec8f97db-605a-457f-b280-6b02e45f1033",
+      "tvSeriesId": "c6849673-0957-46a7-8b3a-d1a7f1939342",
+      "tmdbPersonId": 2153290,
+      "name": "Renata Vaca",
+      "character": "Emilia Sauri",
+      "profilePath": "/f7EYerzrIPixpjuIZz7rv6Nz5YS.jpg",
+      "order": 0
+    },
+    {
+      "id": "7eea028a-35bb-422d-aac0-76f2f6ba93db",
+      "tvSeriesId": "c6849673-0957-46a7-8b3a-d1a7f1939342",
+      "tmdbPersonId": 4244398,
+      "name": "Juan Pablo Fuentes",
+      "character": "Daniel Cuenca",
+      "profilePath": null,
+      "order": 1
+    },
+    {
+      "id": "4506c9b6-fc73-4aff-8df4-cb1ea9240a77",
+      "tvSeriesId": "c6849673-0957-46a7-8b3a-d1a7f1939342",
+      "tmdbPersonId": 2782289,
+      "name": "Iván Amozurrutia",
+      "character": "Antonio Zavalza",
+      "profilePath": "/aXZHYlKrgjs3dZDN19HtPTfB8rK.jpg",
+      "order": 2
+    }
+  ],
+  "seasons": [
+    {
+      "id": "29c11d5b-3858-4ad3-bdf7-52e5b2c35fb4",
+      "tvSeriesId": "c6849673-0957-46a7-8b3a-d1a7f1939342",
+      "tmdbId": 453975,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/3u5BrAfnwOaCugtD2Pl62r64QHU.jpg",
+      "airDate": "2026-09-02",
+      "episodeCount": 7,
+      "isPublished": true,
+      "createdAt": "2026-09-03T19:10:12.053Z",
+      "updatedAt": "2026-09-03T19:15:54.906Z"
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "slug": "sense-and-sensibility-1995",
+  "id": "b98a9276-e7d0-4a81-adaf-151a53678878",
+  "tmdbId": 4584,
+  "imdbId": "tt0114388",
+  "title": "Sense and Sensibility",
+  "originalTitle": "Sense and Sensibility",
+  "overview": "The Dashwood sisters, sensible Elinor and passionate Marianne, learn that their prospects of marriage seem doomed by their family's sudden loss of fortune. After Henry Dashwood dies unexpectedly, his estate must pass on by law to his son. These circumstances leave Mr. Dashwood's wife and daughters without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
+  "tagline": "Lose your heart and come to your senses.",
+  "posterPath": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+  "backdropPath": "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+  "logoPath": "/1ArLGbwng0zwmz8AOH3ZvUDPkfI.png",
+  "backdrops": [
+    "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+    "/7oaMtkM9P4u5DWDkedeUlKnleYK.jpg",
+    "/kT3XwEag0hs5VCZraHRsizdWBVY.jpg",
+    "/aiInkWLYpFeReQhQpIpD4uXu9Y.jpg",
+    "/r4TL5GE5zexj0neTNhPoydPqhMc.jpg",
+    "/iHR9miZb29XiiIFaG963EUpsZPs.jpg",
+    "/eZDv2Oqg5ZVyGQR1RRG3Ns2l3z2.jpg",
+    "/oIBTxUMI5OGuNeal6O968xLbyIQ.jpg",
+    "/7xpmIEr5RSj5QtmLyaThf1IFtwt.jpg",
+    "/mZfkW31Y9a8DvISpO9nj5Tc7neo.jpg"
+  ],
+  "releaseDate": "1995-12-13",
+  "runtime": 136,
+  "voteAverage": "7.42",
+  "popularity": null,
+  "popularityScore": 315,
+  "originalLanguage": "en",
+  "country": "GB",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=5unqnd-CGz4",
+  "quality": "BLU-RAY",
+  "director": "Ang Lee",
+  "directorTmdbId": 1614,
+  "directorProfilePath": "/jrmdsPZI5WT4rmOl20Gb1Y2femb.jpg",
+  "productionCompanies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+      "id": 932,
+      "name": "Mirage Enterprises",
+      "logo_path": "/o7leiZVIDBHxODfK8pjGPV2SdMp.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7879,
+      "name": "secret love"
+    },
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 548,
+      "name": "countryside"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 4129,
+      "name": "widow"
+    },
+    {
+      "id": 11109,
+      "name": "military officer"
+    },
+    {
+      "id": 964,
+      "name": "servant"
+    },
+    {
+      "id": 2755,
+      "name": "country life"
+    },
+    {
+      "id": 4472,
+      "name": "pneumonia"
+    },
+    {
+      "id": 10911,
+      "name": "inheritance"
+    },
+    {
+      "id": 15060,
+      "name": "period drama"
+    },
+    {
+      "id": 156507,
+      "name": "rainstorm"
+    },
+    {
+      "id": 156512,
+      "name": "decorum"
+    },
+    {
+      "id": 159871,
+      "name": "horse carriage"
+    },
+    {
+      "id": 165100,
+      "name": "young love"
+    },
+    {
+      "id": 165388,
+      "name": "dowry"
+    },
+    {
+      "id": 192311,
+      "name": "social class"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 217957,
+      "name": "penniless"
+    },
+    {
+      "id": 227556,
+      "name": "social elite"
+    },
+    {
+      "id": 238085,
+      "name": "bloodletting"
+    },
+    {
+      "id": 243090,
+      "name": "free spirited"
+    },
+    {
+      "id": 244113,
+      "name": "sussex"
+    },
+    {
+      "id": 285894,
+      "name": "sisters love"
+    },
+    {
+      "id": 307851,
+      "name": "marry for money"
+    },
+    {
+      "id": 307852,
+      "name": "secret engagement"
+    },
+    {
+      "id": 307853,
+      "name": "devonshire, england"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1765,
+  "watchlistCount": 57,
+  "favouriteCount": 14,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T17:19:47.694Z",
+  "updatedAt": "2026-10-25T17:19:56.362Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "eee64bc9-2894-4ab6-8a58-7b5e812efe4a",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 7056,
+      "name": "Emma Thompson",
+      "character": "Elinor Dashwood",
+      "profilePath": "/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg",
+      "order": 0
+    },
+    {
+      "id": "da4c7c3f-63f6-4a9a-a607-135877687877",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 204,
+      "name": "Kate Winslet",
+      "character": "Marianne Dashwood",
+      "profilePath": "/6qNnMsKtKz9si5rabpUEG85UfHp.jpg",
+      "order": 1
+    },
+    {
+      "id": "04877f8c-c8fb-4cca-aadc-5129cb3a072e",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 4566,
+      "name": "Alan Rickman",
+      "character": "Colonel Christopher Brandon",
+      "profilePath": "/1EearzPgXkmYFKvECfWNrctIFT9.jpg",
+      "order": 2
+    },
+    {
+      "id": "6f259431-4235-407b-ba5d-c9e17254880a",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 3291,
+      "name": "Hugh Grant",
+      "character": "Edward Ferrars",
+      "profilePath": "/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg",
+      "order": 3
+    },
+    {
+      "id": "414a78fc-ce70-47f5-9bda-22bbd9c0db30",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 9138,
+      "name": "Gemma Jones",
+      "character": "Mrs. Dashwood",
+      "profilePath": "/hFApnOEWXyE55ONGGXis6a0PPHM.jpg",
+      "order": 4
+    },
+    {
+      "id": "f0736c12-9b67-424e-ba28-24aa96ca1f57",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 16700,
+      "name": "Greg Wise",
+      "character": "John Willoughby",
+      "profilePath": "/3yjzOyFVc8TpPW0Q8svr4ykD2kW.jpg",
+      "order": 5
+    },
+    {
+      "id": "acf47484-bed0-4a16-8529-aad9e17e5054",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 1220119,
+      "name": "Elizabeth Spriggs",
+      "character": "Mrs. Jennings",
+      "profilePath": "/aXyhNX3nqrtrwtIHTwU8brmbdrq.jpg",
+      "order": 6
+    },
+    {
+      "id": "c38a8541-410c-4f3a-9534-95a732437a0a",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 20769,
+      "name": "Imogen Stubbs",
+      "character": "Lucy Steele",
+      "profilePath": "/gdhBQfUMZbEs1XH3qozHLXoYhzM.jpg",
+      "order": 7
+    },
+    {
+      "id": "1833bc13-f7be-40a4-aea7-6bf26c00ac9f",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 17477,
+      "name": "Harriet Walter",
+      "character": "Fanny Ferrars Dashwood",
+      "profilePath": "/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg",
+      "order": 8
+    },
+    {
+      "id": "c8cf3850-2fea-4fe8-ad2b-f42ea4b5f6d5",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 10726,
+      "name": "James Fleet",
+      "character": "John Dashwood",
+      "profilePath": "/wCXNHgrmOk57NIdLfY7ve1ghxjJ.jpg",
+      "order": 9
+    },
+    {
+      "id": "eae6c51c-248e-4871-9a43-1fcf61f1a325",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 11356,
+      "name": "Imelda Staunton",
+      "character": "Charlotte Jennings Palmer",
+      "profilePath": "/tABRYOHUQeaUCAqrelJV5ZHjl1W.jpg",
+      "order": 10
+    },
+    {
+      "id": "7e9319b0-ad69-459c-83b6-2b8fbcebcaf6",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 41419,
+      "name": "Hugh Laurie",
+      "character": "Mr. Palmer",
+      "profilePath": "/akArncggHnusP5jxzMBKmJDRrMo.jpg",
+      "order": 11
+    },
+    {
+      "id": "ac992bbe-2173-423e-9170-17b660a8eccc",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 937907,
+      "name": "Emilie François",
+      "character": "Margaret Dashwood",
+      "profilePath": "/nP5nyNcMv5mvFUJKrGLIKB6ZmX9.jpg",
+      "order": 12
+    },
+    {
+      "id": "41d03352-ac29-4989-9b94-8911838baba7",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 23076,
+      "name": "Robert Hardy",
+      "character": "Sir John Middleton",
+      "profilePath": "/5FK7rDWRsbNwAMsHHpkpeGafFtu.jpg",
+      "order": 13
+    },
+    {
+      "id": "782f6791-df4f-4690-a23b-cedd2d92d943",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 141551,
+      "name": "Richard Lumsden",
+      "character": "Robert Ferrars",
+      "profilePath": "/vFdmJQgFiybrDy88iMvYwv8uI6x.jpg",
+      "order": 14
+    },
+    {
+      "id": "e120e3db-b498-47ff-afa7-1faa9f59af23",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 207,
+      "name": "Tom Wilkinson",
+      "character": "Mr. Dashwood",
+      "profilePath": "/d5yLk0PK8q7EKR3E3G2txO758IW.jpg",
+      "order": 15
+    },
+    {
+      "id": "197e03f3-c360-4eb4-aa68-0537b2ca8212",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 133033,
+      "name": "Ian Brimble",
+      "character": "Thomas",
+      "profilePath": "/nLD8LdHJKtEYEStUBlQ2YeqmsQJ.jpg",
+      "order": 16
+    },
+    {
+      "id": "4ddcedf6-e6a3-47f1-b269-73dc37d78c2f",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 1232865,
+      "name": "Isabelle Amyes",
+      "character": "Betsy",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "cfabf7c9-0052-439d-95e6-f4f0b7b38715",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 1845034,
+      "name": "Alexander John",
+      "character": "Curate",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "594cdc1e-775a-4918-9e14-8e63cfeb0a1c",
+      "movieId": "b98a9276-e7d0-4a81-adaf-151a53678878",
+      "tmdbPersonId": 1404134,
+      "name": "Allan Mitchell",
+      "character": "Pigeon",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "cinebhile",
+    "displayName": "cinebhile"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "crew-girl-2026",
+  "id": "8633eb09-b57f-4450-890f-e90564a20097",
+  "title": "Crew Girl",
+  "overview": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
+  "tagline": null,
+  "posterPath": "/tzf21i1ETZEu7i787ED3WThROH.jpg",
+  "backdropPath": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
+  "logoPath": "/yJIfdh0kwDhuoPQMI5gs5e96ReC.png",
+  "firstAirDate": "2026-09-10",
+  "voteAverage": "7.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e2f7ebbc-100b-4d20-8c48-7a01c9813e03",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbPersonId": 2417570,
+      "name": "Miku Martineau",
+      "character": "Teagan Tao",
+      "profilePath": "/58S1hYHe1TuHgxxaddzCbqxjJNJ.jpg",
+      "order": 0
+    },
+    {
+      "id": "49930da2-8ff6-4c25-af44-aa581b7df6d2",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbPersonId": 82096,
+      "name": "Jessica Paré",
+      "character": "Ella Emerson-Tao",
+      "profilePath": "/udvHIbFPW646vDkbnipb82wPUxs.jpg",
+      "order": 1
+    },
+    {
+      "id": "80317ef0-9524-4988-94e1-48854ae5265b",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbPersonId": 1272885,
+      "name": "Samuel Braun",
+      "character": "Josh Regis",
+      "profilePath": "/8nP9SqKpvVgJcw9mgANPdMKHf72.jpg",
+      "order": 2
+    },
+    {
+      "id": "75f27d05-6249-49d8-9998-fbfdf967e77e",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbPersonId": 4708640,
+      "name": "Kyle Clark",
+      "character": "Cam Dillinger",
+      "profilePath": "/yFkg5ClOTqc6ca643bOeaUtnDb3.jpg",
+      "order": 3
+    },
+    {
+      "id": "e95da70a-8ee3-4436-8b93-e3da904bb53b",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbPersonId": 1858370,
+      "name": "Thomas Cadrot",
+      "character": "Coach Matt Hayden",
+      "profilePath": "/2klFFu6ZSunZPGC51Bg2kSdx7Xg.jpg",
+      "order": 4
+    },
+    {
+      "id": "cf561d97-72c5-4c2a-8bd5-16281dd9a250",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbPersonId": 1407447,
+      "name": "Connor Paton",
+      "character": "Ryder",
+      "profilePath": "/uiOX0TbFC1RInN2x3LFSuYr4k2M.jpg",
+      "order": 500
+    },
+    {
+      "id": "d86f794c-9c1e-4d92-a50f-42c91414951c",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbPersonId": 3295317,
+      "name": "Olga Petsa",
+      "character": "Juliet",
+      "profilePath": "/GMQU9mcXz9N9P2lShhOcjU4ynO.jpg",
+      "order": 501
+    },
+    {
+      "id": "dd2666dd-c704-4713-9c72-1e11a7dda57d",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbPersonId": 2790073,
+      "name": "Jude Wilson",
+      "character": "Baloo",
+      "profilePath": "/hVdVC3kc845qaJMP2JvM09DFPF8.jpg",
+      "order": 502
+    },
+    {
+      "id": "e245c87a-4f38-4393-bbfe-4a4e776c54cb",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbPersonId": 4150510,
+      "name": "River Codack",
+      "character": "Damon",
+      "profilePath": "/linaIZJqleeWHjonIdDtISzVYrX.jpg",
+      "order": 503
+    },
+    {
+      "id": "7edcf6b1-7437-4769-b4ea-0983d247db3d",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbPersonId": 2234168,
+      "name": "Riley Davis",
+      "character": "Noah",
+      "profilePath": "/7DFWO0dqsyI6WvV1JpV9xXeZD5m.jpg",
+      "order": 504
+    }
+  ],
+  "seasons": [
+    {
+      "id": "2ab6ce35-22f7-46f8-bc11-33215c9f1209",
+      "tvSeriesId": "8633eb09-b57f-4450-890f-e90564a20097",
+      "tmdbId": 474867,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+      "airDate": "2026-09-10",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-11T10:59:06.200Z",
+      "updatedAt": "2026-09-11T10:59:56.025Z"
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "slug": "death-at-a-funeral-2010",
+  "id": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+  "tmdbId": 34803,
+  "imdbId": "tt1321509",
+  "title": "Death at a Funeral",
+  "originalTitle": "Death at a Funeral",
+  "overview": "Aaron's father's funeral is today at the family home, and everything goes wrong: the funeral home delivers the wrong body, his cousin accidentally drugs her fiancé, and Aaron's successful younger brother, Ryan, flies in from New York, broke but arrogant. To top it all off, a mysterious stranger wants a word with Aaron.",
+  "tagline": "This is one sad family.",
+  "posterPath": "/oBCQYMJTqV3qLjrvZ5sTZUCBky7.jpg",
+  "backdropPath": "/auBT5JgJEQjECGfC96JMmYQLpjK.jpg",
+  "logoPath": "/cI2O06UrMrXURlLG2GE7xQ0QDa.png",
+  "backdrops": [
+    "/auBT5JgJEQjECGfC96JMmYQLpjK.jpg",
+    "/nDqJaOukBiTh1VSt9cmLlmidQUN.jpg",
+    "/i2x4G9t90iJ3kryAHhhel1CbG7Y.jpg",
+    "/8fEk7zEQKRgahy1XQjxsAa8WTmY.jpg",
+    "/f0OVzPgjI7udH6SKgSIK9TUF17k.jpg",
+    "/mgoyH6L7tIGIILKCOE6dOhHT4e8.jpg",
+    "/q6gq1eiO2q3IVIKrCebSe7mM8cQ.jpg"
+  ],
+  "releaseDate": "2010-04-15",
+  "runtime": 92,
+  "voteAverage": "5.88",
+  "popularity": null,
+  "popularityScore": 293,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=LkbR3nQqcrk",
+  "quality": "BLU-RAY",
+  "director": "Neil LaBute",
+  "directorTmdbId": 58689,
+  "directorProfilePath": "/vc1Cm2RcSdk8F2L427Fp2aQ0P3K.jpg",
+  "productionCompanies": [
+    {
+      "id": 1012,
+      "name": "Parabolic Pictures",
+      "logo_path": null
+    },
+    {
+      "id": 61018,
+      "name": "Wonderful Films",
+      "logo_path": null
+    },
+    {
+      "id": 1013,
+      "name": "Stable Way Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 737,
+      "name": "Sidney Kimmel Entertainment",
+      "logo_path": "/dK1GZ1u4our8sJW0Sts1JHeNSLn.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10235,
+      "name": "family relationships"
+    },
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 3325,
+  "watchlistCount": 34,
+  "favouriteCount": 6,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-21T10:32:02.864Z",
+  "updatedAt": "2026-10-21T11:33:33.788Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0b5252e8-0c2e-4a8c-9a5c-58d59daa6fce",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 2632,
+      "name": "Chris Rock",
+      "character": "Aaron",
+      "profilePath": "/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg",
+      "order": 0
+    },
+    {
+      "id": "66c57ef0-0144-4259-9e58-94cee91d80ee",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 78029,
+      "name": "Martin Lawrence",
+      "character": "Ryan",
+      "profilePath": "/y3SQzIPUPJpdueb1DkbTYph68nk.jpg",
+      "order": 1
+    },
+    {
+      "id": "76e5344e-31a8-47ee-9f7c-d47cb31e9078",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 8691,
+      "name": "Zoe Saldaña",
+      "character": "Elaine",
+      "profilePath": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
+      "order": 2
+    },
+    {
+      "id": "7dfa79aa-6e46-4ec5-bfcf-b50ff9281fd9",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 56903,
+      "name": "Tracy Morgan",
+      "character": "Norman",
+      "profilePath": "/ec0OJVbs6NZKMbS1yiCAJKjeoJf.jpg",
+      "order": 3
+    },
+    {
+      "id": "8bbcfafe-ea01-42e1-8c98-65f874ec463f",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 35705,
+      "name": "Regina Hall",
+      "character": "Michelle",
+      "profilePath": "/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg",
+      "order": 4
+    },
+    {
+      "id": "496c5a95-8e43-4c8a-91c6-e351699e8a09",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 11006,
+      "name": "James Marsden",
+      "character": "Oscar",
+      "profilePath": "/lf7OnfKZnMgNh9b98764tqSocGK.jpg",
+      "order": 5
+    },
+    {
+      "id": "333fe614-6d5a-484e-99bb-f590b0bd8437",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 36422,
+      "name": "Luke Wilson",
+      "character": "Derek",
+      "profilePath": "/nH1h9dZGSBuWIOyX27HpYyYykvr.jpg",
+      "order": 6
+    },
+    {
+      "id": "a9c0ea63-9b80-44a7-a226-d5b064ade3b3",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 31132,
+      "name": "Columbus Short",
+      "character": "Jeff",
+      "profilePath": "/rUHCNAvu9xOmBP7i9jAABR7j5cg.jpg",
+      "order": 7
+    },
+    {
+      "id": "7e02e0a4-b033-47e5-85ce-542ede53c10b",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 22970,
+      "name": "Peter Dinklage",
+      "character": "Frank",
+      "profilePath": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg",
+      "order": 8
+    },
+    {
+      "id": "1b5ca238-4588-4d08-a9b4-ee7c657613ef",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 2047,
+      "name": "Danny Glover",
+      "character": "Uncle Russell",
+      "profilePath": "/7ZyztVlG7OpqD0EhzG8iwYNcd1s.jpg",
+      "order": 9
+    },
+    {
+      "id": "063ec481-f85e-4802-8fcf-b3da0d29852f",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 18284,
+      "name": "Loretta Devine",
+      "character": "Cynthia",
+      "profilePath": "/cGTQ0X19bkMWqL6O00JK2t6uJBK.jpg",
+      "order": 10
+    },
+    {
+      "id": "64e4cc8b-f397-489a-a404-101a72e5cd58",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 55638,
+      "name": "Kevin Hart",
+      "character": "Brian",
+      "profilePath": "/byiNydUlM6oP8diA7WMvYbNM7a1.jpg",
+      "order": 11
+    },
+    {
+      "id": "be8c176e-614c-473d-817b-0d6942f4d140",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 65827,
+      "name": "Keith David",
+      "character": "Reverend Davis",
+      "profilePath": "/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg",
+      "order": 12
+    },
+    {
+      "id": "aa86e1ee-bec1-4a7a-a98b-a02259772e9c",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 74570,
+      "name": "Ron Glass",
+      "character": "Duncan",
+      "profilePath": "/wXkS9e8VZPWlc7jK3AaMXZ2OTUx.jpg",
+      "order": 13
+    },
+    {
+      "id": "213ce0c9-ca8e-4c1c-823e-01e3e9e1d9e9",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 74571,
+      "name": "Regine Nehy",
+      "character": "Martina",
+      "profilePath": "/nv8SJyzu9TSCDTUiFORCrEEoc0t.jpg",
+      "order": 14
+    },
+    {
+      "id": "f470f580-4688-4c08-ad85-5642c7868dfd",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 156615,
+      "name": "Leslie Rivers",
+      "character": "Older Lady",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "c4d595dd-6114-4623-9758-fa2714c89e9a",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 1655584,
+      "name": "Bronwyn Hardy",
+      "character": "",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "78a2f8de-742f-431f-ba89-96d047575dcc",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 154551,
+      "name": "Jamison Yang",
+      "character": "",
+      "profilePath": "/iTpUwAzYpMvR9Ij9IwSst5CmA3j.jpg",
+      "order": 17
+    },
+    {
+      "id": "27ec1a5f-8a1a-48d5-b165-62ec8cf39692",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 2297986,
+      "name": "Betty K. Bynum",
+      "character": "",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "dd0b4022-e91d-46fd-9840-5b75ac82e5c8",
+      "movieId": "5cbbf022-e2dc-4913-bdfa-e599c2dc9d48",
+      "tmdbPersonId": 1777736,
+      "name": "Youlanda Davis",
+      "character": "",
+      "profilePath": "/gN62aMNYGFWquDOxq5oyOG5iZMH.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "rahmatdkoto",
+    "displayName": "Koto_0812"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "gto-2026-2026",
+  "id": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+  "title": "GTO (2026)",
+  "overview": "Maverick teacher Eikichi Onizuka takes on a new role at the elite Seishin Academy, where he struggles to connect with students locked to their screens.",
+  "tagline": null,
+  "posterPath": "/n4Tyoz66G6ik35gHhGmHpr8X3tv.jpg",
+  "backdropPath": "/qzwsyoOID2Z5qnpV4eGoeGm41rT.jpg",
+  "logoPath": "/9u5f6Z5bssyyxSAvjd3nbR7dLuh.png",
+  "firstAirDate": "2026-07-20",
+  "voteAverage": "6.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "eb5d6332-c5a9-40b2-a3e6-1d0984f03877",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbPersonId": 58050,
+      "name": "Takashi Sorimachi",
+      "character": "Eikichi Onizuka",
+      "profilePath": "/xBA2SFFNRGgWI4YH1uWkXzHdf1q.jpg",
+      "order": 0
+    },
+    {
+      "id": "bfb92a8b-f3bd-469a-8658-5fa01e137896",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbPersonId": 3046087,
+      "name": "Meru Nukumi",
+      "character": "Mio Kashiwabara",
+      "profilePath": "/bZjwmpUt9J3GtRLzNH5LUNDu29s.jpg",
+      "order": 1
+    },
+    {
+      "id": "b3dc6913-5505-4d56-bf33-2aa1bed4a071",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbPersonId": 1496231,
+      "name": "Asuka Kudo",
+      "character": "Ryunosuke Miyazawa",
+      "profilePath": "/w5Jy8kaDzIRxt5MdMkXxjRhN77X.jpg",
+      "order": 2
+    },
+    {
+      "id": "9f221875-9af6-47f1-87f0-13f1134740f5",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbPersonId": 1256851,
+      "name": "Maryjun Takahashi",
+      "character": "Motoko Koizumi",
+      "profilePath": "/mgq9uq3KzssMX6gkg34ZvwSl75M.jpg",
+      "order": 3
+    },
+    {
+      "id": "c13d1869-c695-483a-982d-14ddf2cf5037",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbPersonId": 1373070,
+      "name": "Tomohiro Ichikawa",
+      "character": "Ikuto Abe",
+      "profilePath": "/y0FRYcSuNorWGvIOj6bOdqjioYE.jpg",
+      "order": 4
+    },
+    {
+      "id": "edfdffce-05a4-4933-aba6-89906b3813be",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbPersonId": 1910723,
+      "name": "Atom Shukugawa",
+      "character": "Haruki Murayama",
+      "profilePath": "/vy6Rxhvb7SIOU4T4CblUvJonDE.jpg",
+      "order": 5
+    },
+    {
+      "id": "7e161209-2260-42ee-b861-a6d47c37ef45",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbPersonId": 1029276,
+      "name": "Yoshimasa Kondo",
+      "character": "Koji Nakamaru",
+      "profilePath": "/6WH3eIKWcAncSTJumXkkRgrAQjI.jpg",
+      "order": 6
+    },
+    {
+      "id": "21a5eb8d-fe84-4eb1-b617-ac708332ad50",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbPersonId": 131107,
+      "name": "Takashi Ukaji",
+      "character": "Yasuhiro Okubo",
+      "profilePath": "/lSiaVNyb5zpaJdva0iMHp6wWjRI.jpg",
+      "order": 7
+    },
+    {
+      "id": "4ad9a277-4310-4c5a-8520-038f81864b27",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbPersonId": 27776,
+      "name": "Nanako Matsushima",
+      "character": "Azusa Fuyutsuki",
+      "profilePath": "/s8fAUcWvIBsax1chMjvNBFHV7qG.jpg",
+      "order": 8
+    },
+    {
+      "id": "a397c6c2-1b21-46d5-8d9e-66e1e85e8497",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbPersonId": 2341025,
+      "name": "Kurumi Inagaki",
+      "character": "Yu Ito",
+      "profilePath": "/uNGSWzv67MiLONTbgCpeDCsGXZ4.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "0e99d5b3-470b-4096-808b-fc9bbca44d61",
+      "tvSeriesId": "3a9d3b54-2a10-4b58-8210-f96b134fbecb",
+      "tmdbId": 521536,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/n4Tyoz66G6ik35gHhGmHpr8X3tv.jpg",
+      "airDate": "2026-07-20",
+      "episodeCount": 11,
+      "isPublished": true,
+      "createdAt": "2026-10-05T04:05:38.186Z",
+      "updatedAt": "2026-10-05T04:10:31.346Z"
+    }
+  ]
+}

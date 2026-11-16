@@ -1,0 +1,166 @@
+{
+  "slug": "battle-spirits-re-zekkai-no-ku-2026",
+  "id": "091c7a33-a752-426c-81f2-002697ddd114",
+  "title": "Battle Spirits [Re] ZEKKAI NO KU",
+  "overview": "Keio 3, Hinomoto, Eito. As the Bakumatsu throws Japan into turmoil, young Kuu Bashin dreams of becoming stronger through Standard Battle Spirits. His world changes when he encounters Ajara Zetsu, a wandering samurai and formidable Eternal Battler pursued by anti-shogunate forces. As the worlds of Standard and Eternal Battle collide, Kuu is pulled into Zetsu's journey—and sets history in motion.",
+  "tagline": null,
+  "posterPath": "/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
+  "backdropPath": "/9V4zVVKqy7g2n6Vxts2DmXxuPiU.jpg",
+  "logoPath": "/aJTV6IPzES9zpDMeklnLTXcb3CD.png",
+  "firstAirDate": "2026-10-06",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "efd8c60d-d42f-4a91-8d99-6dbe8aec41f2",
+      "tmdbId": 10762,
+      "name": "Kids",
+      "slug": "kids",
+      "createdAt": "2026-04-02T16:37:02.488Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6f4c9d20-0b92-46a7-8995-8441df160fe6",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbPersonId": 2942043,
+      "name": "Taichi Kusano",
+      "character": "Kuu Bashin (voice)",
+      "profilePath": "/n66nZUsRMEhqrkwUqGbgJKgE7TS.jpg",
+      "order": 0
+    },
+    {
+      "id": "67ae39fd-6408-458c-b468-1e5ebae2ff62",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbPersonId": 1991242,
+      "name": "Daiki Hamano",
+      "character": "Ajara Zetsu (voice)",
+      "profilePath": "/bykeH3Rhmx9PPFegYNi6s310cNa.jpg",
+      "order": 1
+    },
+    {
+      "id": "f5b86579-5d4c-419d-a545-37071aaaefdd",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbPersonId": 119145,
+      "name": "Hiro Shimono",
+      "character": "Ibuki Mizuha (voice)",
+      "profilePath": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg",
+      "order": 2
+    },
+    {
+      "id": "4a3e9435-e00b-4d8c-877c-e1bae7726949",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbPersonId": 1250465,
+      "name": "Mariya Ise",
+      "character": "Yui Kusumoto (voice)",
+      "profilePath": "/uMHWTKGolzzjXCiv20F0n8h2Pqu.jpg",
+      "order": 3
+    },
+    {
+      "id": "f7ac8a6f-c658-412a-a511-b4f7c53ef9a2",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbPersonId": 1506816,
+      "name": "Yasuhiro Mamiya",
+      "character": "Suiboku Bashin (voice)",
+      "profilePath": "/pvnOU0RZuMKeISDTBEU7uSt3Xkn.jpg",
+      "order": 4
+    },
+    {
+      "id": "395d54af-145f-4972-8e0a-09a5b8924bfc",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbPersonId": 24651,
+      "name": "Nana Mizuki",
+      "character": "Mine Kusumoto (voice)",
+      "profilePath": "/rQBo7HyjTIqeB7hIofb7uJFhiVs.jpg",
+      "order": 5
+    },
+    {
+      "id": "2d368acc-1f20-40e8-a8e3-7cc274a86b4d",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbPersonId": 4615969,
+      "name": "Megu Umezawa",
+      "character": "Shie Anpachi (voice)",
+      "profilePath": "/wsBkrHKVSNv6u2fkZ9qau56BsRC.jpg",
+      "order": 6
+    },
+    {
+      "id": "6d2f0e81-2add-4cd3-80bf-f0250a6e5481",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbPersonId": 81244,
+      "name": "Akira Ishida",
+      "character": "Jinzan Takasugi (voice)",
+      "profilePath": "/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg",
+      "order": 7
+    },
+    {
+      "id": "6338f8c0-f95e-4e92-a4e9-7fddff2cbe8d",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbPersonId": 1241498,
+      "name": "Daisuke Ono",
+      "character": "Ryoga Sakamoto (voice)",
+      "profilePath": "/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg",
+      "order": 8
+    },
+    {
+      "id": "c502b797-98cd-43d1-ba53-929367f6d70f",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbPersonId": 131563,
+      "name": "Jun Fukuyama",
+      "character": "Kakeru Magi (voice)",
+      "profilePath": "/eT9eloyIaIkTvTqMmpcsAleP2hM.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "62ada399-23b4-4973-b4af-e30a49b12bef",
+      "tvSeriesId": "091c7a33-a752-426c-81f2-002697ddd114",
+      "tmdbId": 505083,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/4ScTaJZ4g4ZPQmfxRHe6AyK5S48.jpg",
+      "airDate": "2026-10-06",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-10-21T23:41:03.107Z",
+      "updatedAt": "2026-11-12T03:54:52.251Z"
+    }
+  ]
+}

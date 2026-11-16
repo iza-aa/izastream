@@ -1,0 +1,516 @@
+{
+  "slug": "romelia-war-chronicle-2026",
+  "id": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+  "tmdbId": 305313,
+  "imdbId": "tt42727894",
+  "title": "Romelia War Chronicle",
+  "originalTitle": "ロメリア戦記",
+  "overview": "Victory over the Demon King should have been Romelia’s triumph. Instead, her fiance, Prince Henri, breaks off their engagement and sends her home in disgrace to a province in ruins. With no aid in sight, Romelia vows to raise an army, rebuild the ruined towns, and restore a struggling kingdom as new conflicts arise. The war may be over, but her story’s just begun.",
+  "tagline": null,
+  "posterPath": "/xOhx5KpSAlrEbqsu9TaCdmdIb72.jpg",
+  "backdropPath": "/6LeBjYSPULKwSv5R6sX6Iovwoad.jpg",
+  "logoPath": "/hXWCx0n6cYBMcjngZ8M2iZXLwmZ.png",
+  "backdrops": [
+    "/6LeBjYSPULKwSv5R6sX6Iovwoad.jpg",
+    "/mSZbeN0Ptv6em7jYkgzAEagg3N0.jpg",
+    "/fzuMCjavQFFhSt1tiGrbIrkJrz7.jpg",
+    "/l4npGR3d7No2Msr8OptVTek6G41.jpg"
+  ],
+  "firstAirDate": "2026-10-05",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "voteAverage": "9.50",
+  "popularity": null,
+  "popularityScore": 993,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "trailerUrl": null,
+  "status": "Returning Series",
+  "networks": [
+    {
+      "id": 614,
+      "name": "TOKYO MX",
+      "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 817,
+      "name": "Sun TV",
+      "logo_path": "/wkyNhgg9DDtQMFBGXpAaHilE99N.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 861,
+      "name": "BS11",
+      "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+      "origin_country": "JP"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 290127,
+      "name": "Atra",
+      "logo_path": "/jzx7Xt4lA2ppDr5BBoIRgHmWCza.png"
+    },
+    {
+      "id": 9148,
+      "name": "Pony Canyon",
+      "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png"
+    },
+    {
+      "id": 128938,
+      "name": "Rakuten",
+      "logo_path": "/jdDqo0jYls2Z3QzfkgkbEkiFYaN.png"
+    },
+    {
+      "id": 157002,
+      "name": "Tokyo MX",
+      "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png"
+    },
+    {
+      "id": 118502,
+      "name": "BS11",
+      "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png"
+    },
+    {
+      "id": 3466,
+      "name": "movic",
+      "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png"
+    },
+    {
+      "id": 43682,
+      "name": "SANKYO",
+      "logo_path": "/3OTFn2ZFNtfPdPCamfmdyrUy1fI.png"
+    },
+    {
+      "id": 156047,
+      "name": "Bit grooove promotion",
+      "logo_path": "/bR1IGv2EUNaLGPIA3jRgbATUaX8.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 210024,
+      "name": "anime"
+    }
+  ],
+  "createdBy": [],
+  "importedBy": "1816a61f-edb4-4e70-aed6-788e8f5ab078",
+  "viewCount": 3141,
+  "watchlistCount": 51,
+  "favouriteCount": 15,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T18:25:52.435Z",
+  "updatedAt": "2026-11-16T02:45:47.208Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "seasons": [
+    {
+      "id": "b2ef5d12-c538-481e-b08c-70848e12a4e7",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbId": 484237,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xOhx5KpSAlrEbqsu9TaCdmdIb72.jpg",
+      "airDate": "2026-10-05",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-10-26T15:20:50.903Z",
+      "updatedAt": "2026-11-16T02:45:47.203Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1b31f23c-1cd5-4c24-808e-53456fc2bdb4",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 3177036,
+      "name": "Yuna Nemoto",
+      "character": "Romelia von Graham (voice)",
+      "profilePath": "/pz6bTCv25jHsVhM371Y4B7dZ0d9.jpg",
+      "order": 0
+    },
+    {
+      "id": "6a59aad1-99fb-402d-9245-fbeb92471339",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 2429342,
+      "name": "Jin Ogasawara",
+      "character": "Al (voice)",
+      "profilePath": "/eMgZZKKUrchA3uXt5B4ffaN8fIl.jpg",
+      "order": 1
+    },
+    {
+      "id": "014812fc-310d-4674-833e-159772556e1d",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 2734595,
+      "name": "Tomohiro Ono",
+      "character": "Ray (voice)",
+      "profilePath": "/mugRR8yLYJ0k3UBXQNlXacn4byL.jpg",
+      "order": 2
+    },
+    {
+      "id": "de8e61a0-69aa-4d41-871c-9030a4ef01df",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 1647556,
+      "name": "Yuya Hirose",
+      "character": "Henri Lleus Lionel (voice)",
+      "profilePath": "/jRe7ICqrCsaEWVD8jAmJdc7XwnQ.jpg",
+      "order": 3
+    },
+    {
+      "id": "4a37a7c7-5b40-41d0-bc7c-b8ea41fd2d39",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 1407597,
+      "name": "Sayaka Senbongi",
+      "character": "Elizabeth (voice)",
+      "profilePath": "/yLRKX9DPDGgTRKBQRFTUh3pvbU0.jpg",
+      "order": 4
+    },
+    {
+      "id": "679abb6c-82a5-4e92-835e-389135148d89",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 1250465,
+      "name": "Mariya Ise",
+      "character": "Ekaterina (voice)",
+      "profilePath": "/uMHWTKGolzzjXCiv20F0n8h2Pqu.jpg",
+      "order": 5
+    },
+    {
+      "id": "da0f405a-4716-4111-9e12-73f6b8f54c39",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 2280453,
+      "name": "Asaka",
+      "character": "Ryoki (voice)",
+      "profilePath": "/sUTaloXXmNdPJPSCBgpKDxmtmKV.jpg",
+      "order": 6
+    },
+    {
+      "id": "5f8b0140-3f6e-4a8e-977a-b497da6ab092",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 1429141,
+      "name": "Shoya Chiba",
+      "character": "Gran (voice)",
+      "profilePath": "/pF2urY77wuCYd9Fxh7dTirFYKSF.jpg",
+      "order": 7
+    },
+    {
+      "id": "16a62d85-6f21-4e03-b6ad-4c3813b74c93",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 1919881,
+      "name": "Gakuto Kajiwara",
+      "character": "Ragn (voice)",
+      "profilePath": "/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg",
+      "order": 8
+    },
+    {
+      "id": "23dcda4b-6cce-47ba-bd3a-992375e04262",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 1922640,
+      "name": "Shun Horie",
+      "character": "Kyle (voice)",
+      "profilePath": "/1OFi5ofRX0B2ldTPF8ThzLI2wKa.jpg",
+      "order": 9
+    },
+    {
+      "id": "15ead3d4-2a19-465f-8f02-184b619ffc13",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 6558886,
+      "name": "Shinjitsu",
+      "character": "Noble (voice)",
+      "profilePath": null,
+      "order": 500
+    },
+    {
+      "id": "b3003dd4-7441-462c-929c-d8a5e3c37a93",
+      "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+      "tmdbPersonId": 6572597,
+      "name": "Hayato Kimura",
+      "character": "Merrill (voice)",
+      "profilePath": "/9swrF4w8MBlemvAvmrcaznVlDNF.jpg",
+      "order": 501
+    }
+  ],
+  "defaultSeason": {
+    "id": "b2ef5d12-c538-481e-b08c-70848e12a4e7",
+    "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+    "tmdbId": 484237,
+    "seasonNumber": 1,
+    "name": "Season 1",
+    "overview": "",
+    "posterPath": "/xOhx5KpSAlrEbqsu9TaCdmdIb72.jpg",
+    "airDate": "2026-10-05",
+    "episodeCount": 24,
+    "isPublished": true,
+    "createdAt": "2026-10-26T15:20:50.903Z",
+    "updatedAt": "2026-11-16T02:45:47.203Z",
+    "episodes": [
+      {
+        "id": "c5384fc5-bdda-4e8d-afcb-963b8a515f71",
+        "seasonId": "b2ef5d12-c538-481e-b08c-70848e12a4e7",
+        "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+        "tmdbId": 6671063,
+        "episodeNumber": 1,
+        "name": "The Girl Named Romelia",
+        "overview": "Romelia heads to her home after her betrothal to the prince is broken.",
+        "stillPath": "/oAXYm7vERoGnzIWLIoBgnCpsaUG.jpg",
+        "airDate": "2026-10-05",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:20:50.903Z",
+        "updatedAt": "2026-11-16T02:45:47.204Z",
+        "hasVideo": true
+      },
+      {
+        "id": "d4f06390-4901-4b5f-a522-e9ed72c3b07b",
+        "seasonId": "b2ef5d12-c538-481e-b08c-70848e12a4e7",
+        "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+        "tmdbId": 7903692,
+        "episodeNumber": 2,
+        "name": "Fortress Takeover",
+        "overview": "Romelia moves to an isolated fortress in the countryside and begins to enact her plans.",
+        "stillPath": "/zYxI7Rrkplry8EdpldvmEbhzhBF.jpg",
+        "airDate": "2026-10-12",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:20:50.903Z",
+        "updatedAt": "2026-11-16T02:45:47.204Z",
+        "hasVideo": true
+      },
+      {
+        "id": "df0ce99f-66f5-43a9-8f9e-7a7d13f684f0",
+        "seasonId": "b2ef5d12-c538-481e-b08c-70848e12a4e7",
+        "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+        "tmdbId": 7903693,
+        "episodeNumber": 3,
+        "name": "The Name of that Miracle",
+        "overview": "Romelia's men fight their first battle.",
+        "stillPath": "/7YgpgvmDjklY3mMdy7M9wxGuEX4.jpg",
+        "airDate": "2026-10-19",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 1,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:20:50.903Z",
+        "updatedAt": "2026-11-16T02:45:47.204Z",
+        "hasVideo": true
+      },
+      {
+        "id": "7b3c5748-8247-439d-afb7-feeb99e32e3f",
+        "seasonId": "b2ef5d12-c538-481e-b08c-70848e12a4e7",
+        "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+        "tmdbId": 7903694,
+        "episodeNumber": 4,
+        "name": "The Troubles of a Young Man",
+        "overview": "Ray struggles with his role as Romelia's bodyguard in her new unit.",
+        "stillPath": "/lO5sWWkyCuvhsaR1LjHaf3RVLK9.jpg",
+        "airDate": "2026-10-26",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:20:50.903Z",
+        "updatedAt": "2026-11-16T02:45:47.204Z",
+        "hasVideo": true
+      },
+      {
+        "id": "2e16ef14-f126-49b4-b0fa-3f032b22cc4b",
+        "seasonId": "b2ef5d12-c538-481e-b08c-70848e12a4e7",
+        "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+        "tmdbId": 7903695,
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "Romelia's men face the greater demons on a rocky cliff.",
+        "stillPath": "/hXPF5cvdIZZCcBmVXD2kjavnGN9.jpg",
+        "airDate": "2026-11-02",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:20:50.903Z",
+        "updatedAt": "2026-11-16T02:45:47.204Z",
+        "hasVideo": true
+      },
+      {
+        "id": "d044c65e-e17b-49cf-a096-62415f361da1",
+        "seasonId": "b2ef5d12-c538-481e-b08c-70848e12a4e7",
+        "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+        "tmdbId": 7903696,
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "Gran, Ragn, and Romelia are kidnapped by bandits.",
+        "stillPath": "/osWzHuWA5eQnfn1TnDfRkteA8G2.jpg",
+        "airDate": "2026-11-09",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:20:50.903Z",
+        "updatedAt": "2026-11-16T02:45:47.204Z",
+        "hasVideo": true
+      },
+      {
+        "id": "9f61f9b2-6352-409d-ac5b-4a5718cf9c71",
+        "seasonId": "b2ef5d12-c538-481e-b08c-70848e12a4e7",
+        "tvSeriesId": "7d928c51-7b50-4623-ae27-1eb177e3c198",
+        "tmdbId": 7903697,
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "Romelia makes her triumphant return to Fort Carolus.",
+        "stillPath": "/rV1VGflmgJ0wzlm6J5oiYpP7xSL.jpg",
+        "airDate": "2026-11-16",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:20:50.903Z",
+        "updatedAt": "2026-11-16T02:45:57.312Z",
+        "hasVideo": true
+      }
+    ]
+  },
+  "requestedBy": null,
+  "collections": [],
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

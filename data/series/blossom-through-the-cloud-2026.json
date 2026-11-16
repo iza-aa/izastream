@@ -1,0 +1,120 @@
+{
+  "slug": "blossom-through-the-cloud-2026",
+  "id": "a4488b25-e974-494c-8a60-9f40e5343e9f",
+  "title": "Blossom Through the Cloud",
+  "overview": "Once a flight attendant, Ruan Sixian pursues her piloting dream through flight school, later clashing and reconciling with aviation executive Fu Mingyu in a high-stakes race for industry innovation and mutual professional redemption.",
+  "tagline": null,
+  "posterPath": "/xX825RTjwGqkCiPiUCnJvT4mgxq.jpg",
+  "backdropPath": "/aYtWVJ5mUkPRFghrCHbc3I2v4WE.jpg",
+  "logoPath": "/o4edrHbBpGTcUl8f1tGV60kcQ3f.png",
+  "firstAirDate": "2026-08-31",
+  "voteAverage": "7.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "873b9cbe-4f02-4f37-887e-38aa4f7a1c85",
+      "tvSeriesId": "a4488b25-e974-494c-8a60-9f40e5343e9f",
+      "tmdbPersonId": 1914924,
+      "name": "Miles Wei",
+      "character": "Fu Mingyu",
+      "profilePath": "/vR3Jr5DQULKi0ndD6mG1uo7lTnz.jpg",
+      "order": 0
+    },
+    {
+      "id": "259ec73d-5cc0-4b4b-9426-4d10ad3e585d",
+      "tvSeriesId": "a4488b25-e974-494c-8a60-9f40e5343e9f",
+      "tmdbPersonId": 2838971,
+      "name": "Liu Xiening",
+      "character": "Ruan Sixian",
+      "profilePath": "/bEEp7J6WKCodekEag7BMAVRoGLf.jpg",
+      "order": 1
+    },
+    {
+      "id": "f94a1409-a73a-43ae-98a7-68525e65d8ab",
+      "tvSeriesId": "a4488b25-e974-494c-8a60-9f40e5343e9f",
+      "tmdbPersonId": 2633279,
+      "name": "Fei Qiming",
+      "character": "Yan An",
+      "profilePath": "/iOK3rNtt0bUrDOw5bYoohE3rfiA.jpg",
+      "order": 2
+    },
+    {
+      "id": "a6f13d58-c523-4968-8683-67982ae275ca",
+      "tvSeriesId": "a4488b25-e974-494c-8a60-9f40e5343e9f",
+      "tmdbPersonId": 2937438,
+      "name": "Zhao Qing",
+      "character": "Zheng Youan",
+      "profilePath": "/ribX33OKeV7LLGo4N4aLW5a14Wc.jpg",
+      "order": 3
+    },
+    {
+      "id": "f2b7ee52-4334-4a17-b7cb-818b319c4109",
+      "tvSeriesId": "a4488b25-e974-494c-8a60-9f40e5343e9f",
+      "tmdbPersonId": 2417157,
+      "name": "Jin Zehao",
+      "character": "Yue Yang",
+      "profilePath": "/na86BexdYh4u3DhZ7IWVTi8mr3m.jpg",
+      "order": 4
+    },
+    {
+      "id": "06e9284e-8e3f-4fc8-aa0c-7dead7b445aa",
+      "tvSeriesId": "a4488b25-e974-494c-8a60-9f40e5343e9f",
+      "tmdbPersonId": 2079238,
+      "name": "Zhao Xuan",
+      "character": "Bai Yang",
+      "profilePath": "/fuCv6jrxKeJawwMlHjrWD2oKf6C.jpg",
+      "order": 5
+    },
+    {
+      "id": "b058e939-3c1c-4d42-b546-b0ca0209333d",
+      "tvSeriesId": "a4488b25-e974-494c-8a60-9f40e5343e9f",
+      "tmdbPersonId": 2307500,
+      "name": "Ma Yujie",
+      "character": "Jiang Ziyue",
+      "profilePath": "/bvLA4FxnGnNX1gheI8tu5QfRbfu.jpg",
+      "order": 6
+    },
+    {
+      "id": "8b67819e-aa1d-47d8-8084-acbf724c8755",
+      "tvSeriesId": "a4488b25-e974-494c-8a60-9f40e5343e9f",
+      "tmdbPersonId": 2872808,
+      "name": "Ji Meihan",
+      "character": "Si Xiaozhen",
+      "profilePath": "/gVDIyMzoq44BdJChnKvdYZsZMVw.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "e86e0224-6ef6-48e3-aed8-d0561764a68c",
+      "tvSeriesId": "a4488b25-e974-494c-8a60-9f40e5343e9f",
+      "tmdbId": 447347,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "A former flight attendant returns to her old airline after becoming a pilot. But will her past with the CEO help or hurt her in her new role?",
+      "posterPath": "/ecUJK58QyF1uBuDzJwxTItWg2WK.jpg",
+      "airDate": "2026-08-31",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-09-22T17:04:20.023Z",
+      "updatedAt": "2026-09-22T17:46:59.515Z"
+    }
+  ]
+}

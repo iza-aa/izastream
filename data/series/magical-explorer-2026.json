@@ -1,0 +1,475 @@
+{
+  "slug": "magical-explorer-2026",
+  "id": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+  "tmdbId": 335194,
+  "imdbId": "tt41296506",
+  "title": "Magical Explorer",
+  "originalTitle": "マジカル★エクスプローラー",
+  "overview": "Reborn in his favorite bishojo game, Kousuke gets the worst role possible: the forgettable sidekick. But armed with his knowledge of the game and this world’s largest mana pool, he might even surpass the hero! Now Kousuke must rewrite his fate and battle his way toward the heroines’ happy endings!",
+  "tagline": null,
+  "posterPath": "/1mcErCeGi77UmV50E81fwvftdp2.jpg",
+  "backdropPath": "/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
+  "logoPath": "/yjtn1dgaIsIQmLFo1Jm0fvocbBL.png",
+  "backdrops": [
+    "/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
+    "/gXWc04Nk4czAbjV2EGdFElM2yr8.jpg"
+  ],
+  "firstAirDate": "2026-10-04",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "voteAverage": "10.00",
+  "popularity": null,
+  "popularityScore": 1024,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "trailerUrl": "https://www.youtube.com/watch?v=XqrBfyUNYZs",
+  "status": "Returning Series",
+  "networks": [
+    {
+      "id": 343,
+      "name": "Gunma TV",
+      "logo_path": "/9rNqtDYAnD6yTOutvHI3synSEs2.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 614,
+      "name": "TOKYO MX",
+      "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 861,
+      "name": "BS11",
+      "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2478,
+      "name": "Tochigi TV",
+      "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+      "origin_country": "JP"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 2883,
+      "name": "Aniplex",
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png"
+    },
+    {
+      "id": 12569,
+      "name": "White Fox",
+      "logo_path": "/pROt6mT15AC5aTadf7NRBRiTVo3.png"
+    },
+    {
+      "id": 118502,
+      "name": "BS11",
+      "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png"
+    },
+    {
+      "id": 8157,
+      "name": "jeki",
+      "logo_path": "/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png"
+    },
+    {
+      "id": 156696,
+      "name": "Contents Seed",
+      "logo_path": "/97X15xFW8Tl4VDkNByYrt5UKR4K.png"
+    },
+    {
+      "id": 285572,
+      "name": "SYSTEM SERVICE",
+      "logo_path": null
+    },
+    {
+      "id": 157002,
+      "name": "Tokyo MX",
+      "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png"
+    },
+    {
+      "id": 11727,
+      "name": "Yomiuri Telecasting Corporation",
+      "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png"
+    },
+    {
+      "id": 43682,
+      "name": "SANKYO",
+      "logo_path": "/3OTFn2ZFNtfPdPCamfmdyrUy1fI.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 210024,
+      "name": "anime"
+    }
+  ],
+  "createdBy": [],
+  "importedBy": "1816a61f-edb4-4e70-aed6-788e8f5ab078",
+  "viewCount": 3451,
+  "watchlistCount": 32,
+  "favouriteCount": 14,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T18:33:07.568Z",
+  "updatedAt": "2026-11-16T02:46:20.906Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "seasons": [
+    {
+      "id": "90ea2a64-3af5-4b9d-b385-ce61b3919bf1",
+      "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+      "tmdbId": 543696,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/1mcErCeGi77UmV50E81fwvftdp2.jpg",
+      "airDate": "2026-10-04",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-10-26T15:31:18.674Z",
+      "updatedAt": "2026-11-16T02:46:20.904Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c1fbe698-9959-4cec-8586-964c50d4b1cc",
+      "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+      "tmdbPersonId": 1210634,
+      "name": "Nobunaga Shimazaki",
+      "character": "Takioto, Kousuke",
+      "profilePath": "/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg",
+      "order": 0
+    },
+    {
+      "id": "e675e5d3-d912-4265-9d04-2b60fa1467cd",
+      "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+      "tmdbPersonId": 1339189,
+      "name": "Saori Onishi",
+      "character": "Mizumori, Yukine",
+      "profilePath": "/cziKB19QMFJ6DQDtxTn07uRY2hq.jpg",
+      "order": 1
+    },
+    {
+      "id": "31b9a30d-04f3-4137-9c1e-4bc2a0951b47",
+      "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+      "tmdbPersonId": 1324646,
+      "name": "Ai Kakuma",
+      "character": "Ludi",
+      "profilePath": "/o3tQSeeJAeafJNvQs2IKvpKY7av.jpg",
+      "order": 2
+    },
+    {
+      "id": "dd11fa89-23fa-45f3-b46a-6ff778ec89d0",
+      "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+      "tmdbPersonId": 1161472,
+      "name": "Mao Ichimichi",
+      "character": "Nanami",
+      "profilePath": "/a3cflYtrlFK0LXfWODgLDO7E7CP.jpg",
+      "order": 3
+    },
+    {
+      "id": "0accd719-0a4e-4e4e-8f0a-758052946ec0",
+      "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+      "tmdbPersonId": 2431912,
+      "name": "Hikaru Tono",
+      "character": "Katou, Rina",
+      "profilePath": "/mQ3BgehaQKedMbMkpnlz790U4fi.jpg",
+      "order": 4
+    }
+  ],
+  "defaultSeason": {
+    "id": "90ea2a64-3af5-4b9d-b385-ce61b3919bf1",
+    "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+    "tmdbId": 543696,
+    "seasonNumber": 1,
+    "name": "Season 1",
+    "overview": "",
+    "posterPath": "/1mcErCeGi77UmV50E81fwvftdp2.jpg",
+    "airDate": "2026-10-04",
+    "episodeCount": 13,
+    "isPublished": true,
+    "createdAt": "2026-10-26T15:31:18.674Z",
+    "updatedAt": "2026-11-16T02:46:20.904Z",
+    "episodes": [
+      {
+        "id": "9ee22c8a-7a0d-4354-bb69-8dadab1a2ba6",
+        "seasonId": "90ea2a64-3af5-4b9d-b385-ce61b3919bf1",
+        "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+        "tmdbId": 7806409,
+        "episodeNumber": 1,
+        "name": "Reincarnated as a Sidekick Character in an Eroge, But I'll Use My Game Knowledge to Do What I Want",
+        "overview": "Takioto Kousuke is reincarnated into his favorite eroge, Magical Explorer, but as the unlucky sidekick?!",
+        "stillPath": "/wRs0GmcFR88GeI1J4ajueqKzmQF.jpg",
+        "airDate": "2026-10-04",
+        "runtime": 24,
+        "voteAverage": "7",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:31:18.674Z",
+        "updatedAt": "2026-11-16T02:46:20.904Z",
+        "hasVideo": true
+      },
+      {
+        "id": "7b711150-b452-4e1b-8abf-9a2870f89fa3",
+        "seasonId": "90ea2a64-3af5-4b9d-b385-ce61b3919bf1",
+        "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+        "tmdbId": 7903839,
+        "episodeNumber": 2,
+        "name": "Greetings from the Land of the Elves",
+        "overview": "Kousuke barely saves Ludie from an attack by the Church of the Malevolent God, so he vows to get stronger.",
+        "stillPath": "/qXTtUVITdWzekzn1WET0vi1Wcaw.jpg",
+        "airDate": "2026-10-11",
+        "runtime": 24,
+        "voteAverage": "7",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:31:18.674Z",
+        "updatedAt": "2026-11-16T02:46:20.904Z",
+        "hasVideo": true
+      },
+      {
+        "id": "5c53c508-6dc4-4040-883b-09de9d5f84db",
+        "seasonId": "90ea2a64-3af5-4b9d-b385-ce61b3919bf1",
+        "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+        "tmdbId": 7903840,
+        "episodeNumber": 3,
+        "name": "Staples of Any Eroge",
+        "overview": "Kousuke asks Mizumori Yukine to train him so he can learn the Mind's Eye skill.",
+        "stillPath": "/dlHap88S4RfFtQQjSUFD8Mr3gwV.jpg",
+        "airDate": "2026-10-18",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:31:18.674Z",
+        "updatedAt": "2026-11-16T02:46:20.904Z",
+        "hasVideo": true
+      },
+      {
+        "id": "b97f47c0-c3bc-4559-9e65-8b57abafa625",
+        "seasonId": "90ea2a64-3af5-4b9d-b385-ce61b3919bf1",
+        "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+        "tmdbId": 7903841,
+        "episodeNumber": 4,
+        "name": "Determination",
+        "overview": "In order to get stronger faster, Kousuke enters the solo dungeon \"Twilight Cavern\" to find Nanami.",
+        "stillPath": "/x2AwKblm8twi4QdPxqad9BiL7T3.jpg",
+        "airDate": "2026-10-25",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:31:18.674Z",
+        "updatedAt": "2026-11-16T02:46:20.904Z",
+        "hasVideo": true
+      },
+      {
+        "id": "b6ffc789-c1a7-4124-b6c1-de7ab81bbb23",
+        "seasonId": "90ea2a64-3af5-4b9d-b385-ce61b3919bf1",
+        "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+        "tmdbId": 7903842,
+        "episodeNumber": 5,
+        "name": "Greetings, Tsukuyomi Magic Academy",
+        "overview": "Kousuke and Iori are late on their first day at Tsukuyomi Magic Academy and Kousuke ends up in a mock battle?!",
+        "stillPath": "/qfZ1dMjjBYcuDNMg9U6Pdnm5dFc.jpg",
+        "airDate": "2026-11-01",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:31:18.674Z",
+        "updatedAt": "2026-11-16T02:46:20.904Z",
+        "hasVideo": true
+      },
+      {
+        "id": "815577d1-e165-4243-be1a-e4f7e00fd6ae",
+        "seasonId": "90ea2a64-3af5-4b9d-b385-ce61b3919bf1",
+        "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+        "tmdbId": 7903843,
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "Kousuke's team is so strong that they have to go for a special dungeons called the Carplin Castle.",
+        "stillPath": "/uhSvHLjcnEcKEEqIvZfXV3bJbpS.jpg",
+        "airDate": "2026-11-08",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:31:18.674Z",
+        "updatedAt": "2026-11-16T02:46:20.904Z",
+        "hasVideo": true
+      },
+      {
+        "id": "b11e7bdd-bc6a-4c42-8e9a-ebf0f4d89f1b",
+        "seasonId": "90ea2a64-3af5-4b9d-b385-ce61b3919bf1",
+        "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+        "tmdbId": 7903844,
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "Kousuke and Nanami go to the Night Sky Cave to acquire a new skill, but they find a weird, extra floor?",
+        "stillPath": "/x9q6tI2ISzMnwRMAQvAz29vdOyE.jpg",
+        "airDate": "2026-11-15",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:31:18.674Z",
+        "updatedAt": "2026-11-16T02:46:20.904Z",
+        "hasVideo": true
+      },
+      {
+        "id": "8659c13d-ae22-49e0-80ee-8782aab398f4",
+        "seasonId": "90ea2a64-3af5-4b9d-b385-ce61b3919bf1",
+        "tvSeriesId": "95181028-f23a-46ca-8de6-e1cb9eaf08c5",
+        "tmdbId": 7903845,
+        "episodeNumber": 8,
+        "name": "Episode 8",
+        "overview": "Kousuke gets caught by Ruija-sensei and is forced to participate in a weird experiment...",
+        "stillPath": "/tusLrbi4hHTFYdaeWtw0BRPCrRb.jpg",
+        "airDate": "2026-11-22",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:31:18.674Z",
+        "updatedAt": "2026-11-16T02:46:31.027Z",
+        "hasVideo": true
+      }
+    ]
+  },
+  "requestedBy": null,
+  "collections": [],
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

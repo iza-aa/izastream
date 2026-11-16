@@ -1,0 +1,131 @@
+{
+  "slug": "moria-2026",
+  "id": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+  "title": "Moria",
+  "overview": "Moria Casán transforms her life story into a symbolic spectacle of fame, controversy and ceaseless reinvention.",
+  "tagline": null,
+  "posterPath": "/5T0cYK9C5UDVlqYGIYB8hcxq65T.jpg",
+  "backdropPath": "/wCqQrj4536IkhFlxDSytf4p3H09.jpg",
+  "logoPath": "/kiU7whOXLuph4MzVTJ1OA1Pmv3V.png",
+  "firstAirDate": "2026-08-14",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7c8fe489-6392-4f43-bf53-2a5f62ab9b69",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbPersonId": 992962,
+      "name": "Moria Casán",
+      "character": "",
+      "profilePath": "/dRn9w5k1RbRx0Q52LorMasVHGsN.jpg",
+      "order": 0
+    },
+    {
+      "id": "073cf104-d84e-420a-a803-8ed4826f72e6",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbPersonId": 953,
+      "name": "Cecilia Roth",
+      "character": "",
+      "profilePath": "/4icHsZvHy0ZnDGF2kovjNLuDQEM.jpg",
+      "order": 1
+    },
+    {
+      "id": "b127346c-bc3c-456d-ae45-9699ec295545",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbPersonId": 1020042,
+      "name": "Griselda Siciliani",
+      "character": "",
+      "profilePath": "/vl8mSPAkc4xr0X3BiO2bzjUbqgn.jpg",
+      "order": 2
+    },
+    {
+      "id": "ace0a6a6-663c-42a3-8693-8afdd0557d69",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbPersonId": 1075102,
+      "name": "Sofía Gala Castiglione",
+      "character": "",
+      "profilePath": "/foYgCg2gGKkPcC08joJuklrCevV.jpg",
+      "order": 3
+    },
+    {
+      "id": "6478b9d0-e923-4736-87a4-05d9fa7b8a51",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbPersonId": 1656282,
+      "name": "Marco Antonio Caponi",
+      "character": "",
+      "profilePath": "/hQWOVIeDxf1aJR7LyWZL1m8fZTw.jpg",
+      "order": 4
+    },
+    {
+      "id": "29a128ac-ce33-4612-87ed-c24a41bac9da",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbPersonId": 1691348,
+      "name": "Joaquín Ferreira",
+      "character": "",
+      "profilePath": "/dGpDGDPMtvsZpc4ZMMgjy1DOGpU.jpg",
+      "order": 5
+    },
+    {
+      "id": "9ff888c7-1b07-4fdd-a406-0c78b2e516ed",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbPersonId": 113627,
+      "name": "Rafael Ferro",
+      "character": "",
+      "profilePath": "/rBPfuNG5p0mnPWMl0WgWbuxnW0p.jpg",
+      "order": 6
+    },
+    {
+      "id": "e93f3b0c-ee20-4979-8d83-c789bcaad3c0",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbPersonId": 928977,
+      "name": "Gabo Correa",
+      "character": "",
+      "profilePath": "/k7XsCVEUDaC31QpF6lARxzLP0pM.jpg",
+      "order": 7
+    },
+    {
+      "id": "4824ef6b-9d94-436e-84eb-b55c18e237e5",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbPersonId": 969603,
+      "name": "Eugenia Alonso",
+      "character": "",
+      "profilePath": "/kFr4K0EopeXDmbdjo6YfEsrUfPx.jpg",
+      "order": 8
+    },
+    {
+      "id": "cd8e95f8-45d1-430b-945a-1b532d7cce84",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbPersonId": 3150064,
+      "name": "Micaela Riera",
+      "character": "",
+      "profilePath": "/deM7lCG4zYnuy8Y9e0BR1rfB0h8.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "f534dbe5-43a1-4dae-94ce-1b761f88c923",
+      "tvSeriesId": "a99deaa8-1a64-4a47-8081-c2531ae376dc",
+      "tmdbId": 516265,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Fame. Controversy. Legacy. Moria Casán builds an extraordinary career as a complex bond with her daughter Sofía evolves alongside her public persona.",
+      "posterPath": "/jfaHxmlFYUC1pipZfD2qerqNF32.jpg",
+      "airDate": "2026-08-14",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-08-17T03:56:30.760Z",
+      "updatedAt": "2026-08-17T03:58:01.052Z"
+    }
+  ]
+}

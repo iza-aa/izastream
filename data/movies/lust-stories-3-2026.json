@@ -1,0 +1,258 @@
+{
+  "slug": "lust-stories-3-2026",
+  "id": "49db1852-2dda-47ca-a226-999f07531d2c",
+  "tmdbId": 1451944,
+  "imdbId": "tt39667834",
+  "title": "Lust Stories 3",
+  "originalTitle": "Lust Stories 3",
+  "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity.",
+  "tagline": null,
+  "posterPath": "/1GBe4TeCeXa1ENg0rv2JH8cH0ry.jpg",
+  "backdropPath": "/ygMNjFOBuLVoInEoPzqPU2U0pfg.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/ygMNjFOBuLVoInEoPzqPU2U0pfg.jpg",
+    "/4flqHaRFTAfwZ1EwCZLqnXFcP8J.jpg",
+    "/sRG4CSK6ph13QZBbRoqS60h2Ec1.jpg",
+    "/dWKxuwjdZJJDbFxyEclibmo56A3.jpg",
+    "/kgZFECKytirVvmIbWF6slEoWZng.jpg",
+    "/uKLlMfr4srbbjat4mCafT2evN0B.jpg",
+    "/bM9UUDMtmYa0waLh1KDiy12lLRv.jpg",
+    "/4KhYHimTT2j1YOvAXZ62o2anPNj.jpg",
+    "/ArmhpNp67pV6C8xe0JYW9OZn1ED.jpg"
+  ],
+  "releaseDate": "2026-09-18",
+  "runtime": null,
+  "voteAverage": "0.00",
+  "popularity": null,
+  "popularityScore": 110,
+  "originalLanguage": "hi",
+  "country": "IN",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "WEB-DL",
+  "director": "Vikramaditya Motwane",
+  "directorTmdbId": 223853,
+  "directorProfilePath": "/kG5sfFXKOsUMtWUiAOaQhI9xlHX.jpg",
+  "productionCompanies": [
+    {
+      "id": 100972,
+      "name": "RSVP Movies",
+      "logo_path": "/ni6szJ3gzDOAmZwlHXKaFyvsxEQ.png"
+    },
+    {
+      "id": 98390,
+      "name": "Flying Unicorn Entertainment",
+      "logo_path": null
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 2074,
+  "watchlistCount": 6,
+  "favouriteCount": 1,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-18T16:58:40.279Z",
+  "updatedAt": "2026-09-18T16:59:59.021Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a14cec5c-72b9-4498-9471-2f160961a14b",
+      "movieId": "49db1852-2dda-47ca-a226-999f07531d2c",
+      "tmdbPersonId": 223167,
+      "name": "Radhika Apte",
+      "character": "",
+      "profilePath": "/wKPybRcSYcbgDiJZwELudrRNf0r.jpg",
+      "order": 0
+    },
+    {
+      "id": "60034e6b-18ca-459e-a5a3-d97710c4dbf8",
+      "movieId": "49db1852-2dda-47ca-a226-999f07531d2c",
+      "tmdbPersonId": 85666,
+      "name": "Konkona Sen Sharma",
+      "character": "",
+      "profilePath": "/i538HToMEGR6J2OVmOGX3GfWcQC.jpg",
+      "order": 1
+    },
+    {
+      "id": "2c1388cb-9217-4a11-902d-4febeb092125",
+      "movieId": "49db1852-2dda-47ca-a226-999f07531d2c",
+      "tmdbPersonId": 1551045,
+      "name": "Vijay Varma",
+      "character": "",
+      "profilePath": "/A46ekiPFC3vA1442FJmiIudpxX1.jpg",
+      "order": 2
+    },
+    {
+      "id": "daf4b16d-4251-4a2f-88ab-04993c924e0b",
+      "movieId": "49db1852-2dda-47ca-a226-999f07531d2c",
+      "tmdbPersonId": 1708061,
+      "name": "Abhishek Banerjee",
+      "character": "",
+      "profilePath": "/cfyRkFBFfodBbNKbsTc8eG9YtVj.jpg",
+      "order": 3
+    },
+    {
+      "id": "7860b1b7-d89b-469d-9753-8e6db0e8d09c",
+      "movieId": "49db1852-2dda-47ca-a226-999f07531d2c",
+      "tmdbPersonId": 492791,
+      "name": "Ali Fazal",
+      "character": "",
+      "profilePath": "/lLDmx3RDuMXObASvdFXeUh1GOgd.jpg",
+      "order": 4
+    },
+    {
+      "id": "1354c89c-2067-4068-bb4f-ba6fa2083600",
+      "movieId": "49db1852-2dda-47ca-a226-999f07531d2c",
+      "tmdbPersonId": 2103447,
+      "name": "Radhikka Madan",
+      "character": "",
+      "profilePath": "/xX6h0GMgJ1jLJdA5lHrFwZcjEIz.jpg",
+      "order": 5
+    },
+    {
+      "id": "8f2468d1-d0ad-4485-af62-044076ad9dd6",
+      "movieId": "49db1852-2dda-47ca-a226-999f07531d2c",
+      "tmdbPersonId": 88797,
+      "name": "Aditi Rao Hydari",
+      "character": "",
+      "profilePath": "/iVbsdPXzs4CjlG98qIxG2lsQl31.jpg",
+      "order": 6
+    },
+    {
+      "id": "1c8327fc-5591-42cd-aeb5-d2bc1be371e7",
+      "movieId": "49db1852-2dda-47ca-a226-999f07531d2c",
+      "tmdbPersonId": 108216,
+      "name": "Siddharth",
+      "character": "",
+      "profilePath": "/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg",
+      "order": 7
+    },
+    {
+      "id": "d7fb3828-58b3-45a9-8bdf-cfc0b0f3414b",
+      "movieId": "49db1852-2dda-47ca-a226-999f07531d2c",
+      "tmdbPersonId": 2555038,
+      "name": "Gurfateh Pirzada",
+      "character": "",
+      "profilePath": "/gfeOmcTUCPoAJytEjxo5SvkKObb.jpg",
+      "order": 8
+    },
+    {
+      "id": "a1bc759c-ee61-49b8-97dc-709c43697c8b",
+      "movieId": "49db1852-2dda-47ca-a226-999f07531d2c",
+      "tmdbPersonId": 5984116,
+      "name": "Sana Thampi",
+      "character": "",
+      "profilePath": null,
+      "order": 9
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

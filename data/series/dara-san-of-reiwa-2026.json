@@ -1,0 +1,129 @@
+{
+  "slug": "dara-san-of-reiwa-2026",
+  "id": "06806184-b600-4a2a-a313-6930eeda42de",
+  "title": "Dara-san of Reiwa",
+  "overview": "After venturing into a restricted, treacherous mountain forest, siblings Hinata and Kaoru meet a terrifying serpent god and become besties! Despite her initially scary appearance, the self-named “god of misfortune” is awkward, lonely, and surprisingly easy to talk to. This is the tale of an unexpected friendship, and the many comedic, heartfelt adventures that ensue.",
+  "tagline": null,
+  "posterPath": "/s0rPBaoGFTVR5KglSEzbBQ2u256.jpg",
+  "backdropPath": "/t9pxS8JUIya68VOIRVAu8rhbGZL.jpg",
+  "logoPath": "/tzvonAlloJLP6dhWqtJRWI6DCNI.png",
+  "firstAirDate": "2026-07-02",
+  "voteAverage": "8.18",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1a6944b8-e121-4af2-85d0-250f57c92723",
+      "tvSeriesId": "06806184-b600-4a2a-a313-6930eeda42de",
+      "tmdbPersonId": 1253972,
+      "name": "Mutsumi Tamura",
+      "character": "Yamatagimadara / Dara-san (Voice)",
+      "profilePath": "/uvbBIRiBK6GDLEESiYSFWOVlaE4.jpg",
+      "order": 0
+    },
+    {
+      "id": "b6772012-07ab-434e-bfc7-76599509f9cf",
+      "tvSeriesId": "06806184-b600-4a2a-a313-6930eeda42de",
+      "tmdbPersonId": 1307031,
+      "name": "Minami Tsuda",
+      "character": "Hinata Misogiya (Voice)",
+      "profilePath": "/bgPI0vCsH43aZVfBuUcQ91cDBxe.jpg",
+      "order": 1
+    },
+    {
+      "id": "ac98b988-4aa6-4d75-88ae-e1c3376b6266",
+      "tvSeriesId": "06806184-b600-4a2a-a313-6930eeda42de",
+      "tmdbPersonId": 4206137,
+      "name": "Momoka Terasawa",
+      "character": "Kaoru Misogiya (Voice)",
+      "profilePath": "/lLS7b6k1653tiVwbi6pq9JXzMBW.jpg",
+      "order": 2
+    },
+    {
+      "id": "48859d67-fc4d-4c57-9eec-2039391bce73",
+      "tvSeriesId": "06806184-b600-4a2a-a313-6930eeda42de",
+      "tmdbPersonId": 2251986,
+      "name": "Aoi Koga",
+      "character": "Amane Hasegawa (Voice)",
+      "profilePath": "/uVpwheVV4aPROyY1toYv3v5HSPD.jpg",
+      "order": 3
+    },
+    {
+      "id": "978c9aff-1c12-4686-9c4a-52e3a5380e9b",
+      "tvSeriesId": "06806184-b600-4a2a-a313-6930eeda42de",
+      "tmdbPersonId": 144655,
+      "name": "Tomokazu Sugita",
+      "character": "Naomichi Fudegi  (Voice)",
+      "profilePath": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg",
+      "order": 4
+    },
+    {
+      "id": "79770259-4581-43bc-92a4-2ae5a0d7b251",
+      "tvSeriesId": "06806184-b600-4a2a-a313-6930eeda42de",
+      "tmdbPersonId": 1244372,
+      "name": "Mai Aizawa",
+      "character": "Miwa Irako (Voice)",
+      "profilePath": "/hdhUtNQPUZZSr9HrrkytKNmAEXG.jpg",
+      "order": 5
+    },
+    {
+      "id": "9bff34dc-4237-4c35-81d5-5c15f170f7d8",
+      "tvSeriesId": "06806184-b600-4a2a-a313-6930eeda42de",
+      "tmdbPersonId": 221773,
+      "name": "Saori Hayami",
+      "character": "",
+      "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg",
+      "order": 6
+    },
+    {
+      "id": "f0c2f12e-e8fd-432b-8bea-2c45b3b5e445",
+      "tvSeriesId": "06806184-b600-4a2a-a313-6930eeda42de",
+      "tmdbPersonId": 552683,
+      "name": "Hochu Otsuka",
+      "character": "",
+      "profilePath": "/3RHQcrsWnAFK6AifSis1lMq08cR.jpg",
+      "order": 7
+    },
+    {
+      "id": "49755d6a-080e-406b-98b3-13d89817aa1e",
+      "tvSeriesId": "06806184-b600-4a2a-a313-6930eeda42de",
+      "tmdbPersonId": 219659,
+      "name": "Masaki Terasoma",
+      "character": "Narration (Voice)",
+      "profilePath": "/eol7Ul4buAam9SmJDuFIWln0Cd3.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "dddb266f-4cf6-4d85-9566-84752a425863",
+      "tvSeriesId": "06806184-b600-4a2a-a313-6930eeda42de",
+      "tmdbId": 497393,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/q5A8h5rK9OHGiKLfxDgqkqUsQyz.jpg",
+      "airDate": "2026-07-02",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-10-12T03:03:43.533Z",
+      "updatedAt": "2026-10-12T03:05:29.341Z"
+    }
+  ]
+}

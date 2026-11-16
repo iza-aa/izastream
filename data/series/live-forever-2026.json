@@ -1,0 +1,68 @@
+{
+  "slug": "live-forever-2026",
+  "id": "22fc4e8e-bb81-49b7-9598-d4eb004f0db4",
+  "title": "Live Forever",
+  "overview": "Ning Changyue and Song Yiqiu share a deep, timeless connection that spans three thousand years. In the present day, their journey to understand love, belonging, and eternity is complicated by the resurfacing of a long-buried past and unresolved fates. Facing the echoes of history and the trials of the modern world, they must make pivotal choices that define their love and ultimate home.",
+  "tagline": null,
+  "posterPath": "/xy7nZn7cTcroJjyiUA4gzxtrLEr.jpg",
+  "backdropPath": "/4ipPELpw6fwBclwFjWYdNXN6kJw.jpg",
+  "logoPath": "/xjisu1nq2bcxwy5rZN5pU64Wf0K.png",
+  "firstAirDate": "2026-09-24",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "aba8f78f-2ce4-4d2d-bec8-db485f596e5f",
+      "tvSeriesId": "22fc4e8e-bb81-49b7-9598-d4eb004f0db4",
+      "tmdbPersonId": 2163713,
+      "name": "Fang Yilun",
+      "character": "",
+      "profilePath": "/xXTiJ47e0184OpioP4ssts2LSpW.jpg",
+      "order": 0
+    },
+    {
+      "id": "3cad9a96-bfcf-4338-b57a-9396e00a447e",
+      "tvSeriesId": "22fc4e8e-bb81-49b7-9598-d4eb004f0db4",
+      "tmdbPersonId": 4693342,
+      "name": "Chloe Xie",
+      "character": "",
+      "profilePath": "/g3noJhO69w5ReAUnLcIiZ4YAXjR.jpg",
+      "order": 1
+    },
+    {
+      "id": "3b873254-227f-4e53-b4e5-5b525087e8ee",
+      "tvSeriesId": "22fc4e8e-bb81-49b7-9598-d4eb004f0db4",
+      "tmdbPersonId": 3518794,
+      "name": "Xu Xinwen",
+      "character": "",
+      "profilePath": "/rc2JxsrBZRsNglir0YPRPWS48OI.jpg",
+      "order": 2
+    }
+  ],
+  "seasons": [
+    {
+      "id": "203f58a7-9fcf-4020-8fd2-d7aade1970d8",
+      "tvSeriesId": "22fc4e8e-bb81-49b7-9598-d4eb004f0db4",
+      "tmdbId": 509410,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-09-24",
+      "episodeCount": 20,
+      "isPublished": true,
+      "createdAt": "2026-10-11T15:15:50.564Z",
+      "updatedAt": "2026-10-11T15:18:38.835Z"
+    }
+  ]
+}

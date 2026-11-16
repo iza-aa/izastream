@@ -1,0 +1,122 @@
+{
+  "slug": "sandx-2026",
+  "id": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+  "title": "S&X",
+  "overview": "At his clinic, sex therapist Ichito Shimotori treats diverse and intimate sexual issues with sincerity. Yet, he secretly hides a struggle of his own.",
+  "tagline": null,
+  "posterPath": "/iyBgwNr5I7CW1Mf7ulPgdz3Y5Ax.jpg",
+  "backdropPath": "/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
+  "logoPath": "/i4VLaOC6vTCQeE2EefW5qEOr497.png",
+  "firstAirDate": "2026-08-20",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c9b2a957-5167-4179-ba08-7c64930b7f98",
+      "tvSeriesId": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+      "tmdbPersonId": 1434084,
+      "name": "Kento Nakajima",
+      "character": "Ichito Shimotori",
+      "profilePath": "/gKs2ondJ9iXtsgdxzjKASODQLS3.jpg",
+      "order": 0
+    },
+    {
+      "id": "0a8c05b3-7441-4409-a09b-a5c64ab0e493",
+      "tvSeriesId": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+      "tmdbPersonId": 1458942,
+      "name": "Yuko Araki",
+      "character": "Yumi Ichinose",
+      "profilePath": "/8RZR3OuxqQMpVJJNN11IdI5j1u6.jpg",
+      "order": 1
+    },
+    {
+      "id": "0aa70937-3249-4639-b0df-b42f6a63b859",
+      "tvSeriesId": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+      "tmdbPersonId": 2942417,
+      "name": "Ryota Miura",
+      "character": "Yuta Saigawa",
+      "profilePath": "/wRyHnD53bruX5MGw21Z9kNzHHAN.jpg",
+      "order": 2
+    },
+    {
+      "id": "4fc68e0b-a2bd-47db-9893-d5e075b1f637",
+      "tvSeriesId": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+      "tmdbPersonId": 3140423,
+      "name": "Sawako Fujima",
+      "character": "Marin Natsume",
+      "profilePath": "/v69wYAQWwsCw6UoAXkepa8zrNRB.jpg",
+      "order": 3
+    },
+    {
+      "id": "7bbb3b9d-b39f-493c-b3c5-62748ecc65c8",
+      "tvSeriesId": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+      "tmdbPersonId": 229360,
+      "name": "Aoi Nakamura",
+      "character": "Shun Kazuma",
+      "profilePath": "/melP3Udhsm8jpesyHURSFh3gGEL.jpg",
+      "order": 4
+    },
+    {
+      "id": "db7f0f0e-ab4a-46c9-973f-15f87c7f57c3",
+      "tvSeriesId": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+      "tmdbPersonId": 1875752,
+      "name": "Rinka Kumada",
+      "character": "Miku Kono",
+      "profilePath": "/vdp3KdmjohwvwcQqZAhgQ6fAOfF.jpg",
+      "order": 5
+    },
+    {
+      "id": "b7acd30a-0d19-43b7-8f5e-7c8e8896b327",
+      "tvSeriesId": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+      "tmdbPersonId": 145927,
+      "name": "Sayaka Yamaguchi",
+      "character": "Shion Kase",
+      "profilePath": "/1Qy91DbJL01DmU9UiF8JZ1scFU4.jpg",
+      "order": 6
+    },
+    {
+      "id": "9da38780-82b4-43f5-a55e-62cbd0da4c1a",
+      "tvSeriesId": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+      "tmdbPersonId": 120435,
+      "name": "Yusuke Santamaria",
+      "character": "Daisuke Kurusu",
+      "profilePath": "/lEIR4wJHwT4dONG7yYk5kLsgUGg.jpg",
+      "order": 7
+    },
+    {
+      "id": "2e476c5a-751a-462f-a775-1a2380a704fa",
+      "tvSeriesId": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+      "tmdbPersonId": 73139,
+      "name": "Shiro Sano",
+      "character": "Norio Toyohara",
+      "profilePath": "/pdPx52iDMEkramZZYnwh1VIP7jq.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "7ef3e3d1-7c38-413d-be64-e5dd59b70f57",
+      "tvSeriesId": "6c91c3e0-9c79-49f2-b536-5130846a7bb8",
+      "tmdbId": 497425,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
+      "airDate": "2026-08-20",
+      "episodeCount": 7,
+      "isPublished": true,
+      "createdAt": "2026-08-21T06:02:40.686Z",
+      "updatedAt": "2026-08-21T06:03:12.668Z"
+    }
+  ]
+}

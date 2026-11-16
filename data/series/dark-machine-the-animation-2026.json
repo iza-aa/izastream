@@ -1,0 +1,145 @@
+{
+  "slug": "dark-machine-the-animation-2026",
+  "id": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+  "title": "DARK MACHINE THE ANIMATION",
+  "overview": "“Find Senki,” those were the final words of Kairi’s grandfather and now his mission. DARK MACHINE, a new and captivating eSport game, transformed Japan’s economy. The most powerful player controls it with the title Senki. Now, on the seventh Senki, Kairi plays to finally meet them and ultimately take claim. Will he be able to hold his own, though?",
+  "tagline": null,
+  "posterPath": "/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+  "backdropPath": "/fvzlpOEJS2eIPtcIwQi4oYcBwdh.jpg",
+  "logoPath": "/53KwUKPlfED6y896SfvB4C85Cgh.svg",
+  "firstAirDate": "2026-10-14",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 4,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "70045b05-855b-4d73-982e-79b439153ff6",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbPersonId": 1065297,
+      "name": "Kensho Ono",
+      "character": "Kairi (voice)",
+      "profilePath": "/wUYJ3HIeygHfh4rAqupE4RPoG3W.jpg",
+      "order": 0
+    },
+    {
+      "id": "988baf7a-2828-47df-a8c9-16df3f3e35a4",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbPersonId": 186341,
+      "name": "Miyuki Sawashiro",
+      "character": "Rudora (voice)",
+      "profilePath": "/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg",
+      "order": 1
+    },
+    {
+      "id": "bbb3e480-8f56-4a4e-ab60-314ed3bead77",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbPersonId": 1254052,
+      "name": "Koki Uchiyama",
+      "character": "Shinn (voice)",
+      "profilePath": "/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg",
+      "order": 2
+    },
+    {
+      "id": "36a1eb71-67ee-4485-b9a7-f22f31557113",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbPersonId": 2030015,
+      "name": "Riho Sugiyama",
+      "character": "Bran (voice)",
+      "profilePath": "/rPVn4cInZVECBWhoHozERc8XTTj.jpg",
+      "order": 3
+    },
+    {
+      "id": "6ee364cb-387a-4304-8940-70d7e6f90ab9",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbPersonId": 2467933,
+      "name": "Saya Aizawa",
+      "character": "Isana (voice)",
+      "profilePath": "/3QoVKl1w7uBMf5ivJ4MccYkt4zR.jpg",
+      "order": 4
+    },
+    {
+      "id": "db0ba583-45cb-49de-b3d1-62240f5eb38c",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbPersonId": 1221114,
+      "name": "Yuichi Nakamura",
+      "character": "Ajima (voice)",
+      "profilePath": "/wb8behVKjBHX9XXrEydvNINCYwH.jpg",
+      "order": 5
+    },
+    {
+      "id": "030e553a-05b2-467d-897a-b2b806d12aaf",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbPersonId": 1254260,
+      "name": "Kazuyuki Okitsu",
+      "character": "Myojin (voice)",
+      "profilePath": "/vgyaK5dAxhvzAi6LJM3ZyaJd4mJ.jpg",
+      "order": 6
+    },
+    {
+      "id": "c23abb3f-8162-4e12-8839-190dff753816",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbPersonId": 2138291,
+      "name": "Ryota Suzuki",
+      "character": "Ryo (voice)",
+      "profilePath": "/4Xq18mQttuW2yfRCflnWoU7UqQ5.jpg",
+      "order": 7
+    },
+    {
+      "id": "e415d0cd-ec25-450f-a501-6aaa0d5dc86d",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbPersonId": 2784795,
+      "name": "Genta Nakamura",
+      "character": "Kinji (voice)",
+      "profilePath": "/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg",
+      "order": 8
+    },
+    {
+      "id": "641a5672-0afb-4a0a-8039-25676b3e6eb3",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbPersonId": 4001651,
+      "name": "Souhei Horikane",
+      "character": "Hiru (voice)",
+      "profilePath": "/7JftC3BBrKAfK0MtcbRVELLOyfo.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4f0819d9-0f63-4a5b-b824-3e8bb03e42f7",
+      "tvSeriesId": "af66d9c2-1cc5-435d-868f-0af5597ed47d",
+      "tmdbId": 486369,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-10-14",
+      "episodeCount": 11,
+      "isPublished": true,
+      "createdAt": "2026-10-24T00:31:58.067Z",
+      "updatedAt": "2026-11-14T05:31:30.917Z"
+    }
+  ]
+}

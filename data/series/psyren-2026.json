@@ -1,0 +1,114 @@
+{
+  "slug": "psyren-2026",
+  "id": "6100b803-1633-4b1d-8186-53d0571624aa",
+  "title": "PSYREN",
+  "overview": "One day, high schooler Ageha Yoshina picks up a mysterious red phone card. Days later, his childhood friend, Sakurako Amamiya, who possessed the same card, suddenly vanishes. In search of her, he's drawn into rumors of a nationwide string of mysterious disappearances by a secret organization known as Psyren. When he accesses the group, a deadly game that changes his fate forever begins.",
+  "tagline": "A PSYЯEN echoes through our future.",
+  "posterPath": "/3imj2VLU77bLOyJ4aPnEUlpJZDX.jpg",
+  "backdropPath": "/o8jHdRwB9GZtkdZjmMoFJyC7eDZ.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-10-05",
+  "voteAverage": "7.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 4,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a3daf14c-28a0-42a8-a8b4-cee8fc20db1a",
+      "tvSeriesId": "6100b803-1633-4b1d-8186-53d0571624aa",
+      "tmdbPersonId": 2369259,
+      "name": "Rikuya Yasuda",
+      "character": "Ageha Yoshina (voice)",
+      "profilePath": "/eZCxGqkEibJkUEhLO9Xp4zNDlY3.jpg",
+      "order": 0
+    },
+    {
+      "id": "f4748c12-43ac-4761-a8d7-05d7714b8472",
+      "tvSeriesId": "6100b803-1633-4b1d-8186-53d0571624aa",
+      "tmdbPersonId": 2862191,
+      "name": "Mayuko Kazama",
+      "character": "Sakurako Amamiya (voice)",
+      "profilePath": "/lWRGpyrrbq9KmBZc1yjeS1EwXkd.jpg",
+      "order": 1
+    },
+    {
+      "id": "aafbba70-12fc-4858-bd63-2a66ab457543",
+      "tvSeriesId": "6100b803-1633-4b1d-8186-53d0571624aa",
+      "tmdbPersonId": 1563016,
+      "name": "Shunsuke Takeuchi",
+      "character": "Hiryu Asaga (voice)",
+      "profilePath": "/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg",
+      "order": 2
+    },
+    {
+      "id": "b15e80da-e5e3-42eb-a45d-b7f687d7c078",
+      "tvSeriesId": "6100b803-1633-4b1d-8186-53d0571624aa",
+      "tmdbPersonId": 1388751,
+      "name": "Soma Saito",
+      "character": "Oboro Mochizuki (voice)",
+      "profilePath": "/8W8Y02Jmjivw0kk5PDih9dqiyd9.jpg",
+      "order": 3
+    },
+    {
+      "id": "057f185b-48e8-40a2-a1cf-4762487d5814",
+      "tvSeriesId": "6100b803-1633-4b1d-8186-53d0571624aa",
+      "tmdbPersonId": 2799229,
+      "name": "Yukihiro Nozuyama",
+      "character": "Kabuto Kirisaki (voice)",
+      "profilePath": "/t3bTqgwBEiMxBZz0WPSNiADHB8s.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "32ca0b6b-10ff-4a58-b238-3f55f1a31d1e",
+      "tvSeriesId": "6100b803-1633-4b1d-8186-53d0571624aa",
+      "tmdbId": 468923,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "A high schooler uncovers a deadly mystery when a strange phone card leads him into a secret organization behind nationwide disappearances.",
+      "posterPath": "/3imj2VLU77bLOyJ4aPnEUlpJZDX.jpg",
+      "airDate": "2026-10-05",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-10-20T17:17:09.742Z",
+      "updatedAt": "2026-11-10T07:14:11.635Z"
+    }
+  ]
+}

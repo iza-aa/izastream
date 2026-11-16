@@ -1,0 +1,138 @@
+{
+  "slug": "the-one-shot-2026",
+  "id": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+  "title": "THE ONE SHOT",
+  "overview": "Eight of Japan's top comedians selected by Daigo, including M-1 finalists and King of Conte champions, must each write and direct a short film with just one rule: include a single, hilarious gag. In this unprecedented competition, skilled comedians have just \"one shot\" to prove their true talent.",
+  "tagline": null,
+  "posterPath": "/w2XsAQUdsu80CAvfbaP7iAYE7Ka.jpg",
+  "backdropPath": "/8jK6VpkDh2szBQsdFc6OTMZXs67.jpg",
+  "logoPath": "/y1ekvkbMBdNilGQTsThsuLnor6h.png",
+  "firstAirDate": "2026-08-12",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "66dda3b4-59ec-455c-b819-efaa02e5b6f4",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbPersonId": 2508132,
+      "name": "Daigo Yamamoto",
+      "character": "Self - Host",
+      "profilePath": "/2gsbUEU9uua9O4Xk4ISN0LGVCBW.jpg",
+      "order": 0
+    },
+    {
+      "id": "9c907798-5a83-421c-98c8-f37efeeddcaa",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbPersonId": 1744325,
+      "name": "Ken Horiuchi",
+      "character": "Self",
+      "profilePath": "/jeyn97ctuOjGpioNMZJvEwwtpgt.jpg",
+      "order": 1
+    },
+    {
+      "id": "d2aa8fc6-7997-4feb-a183-7056adb64dba",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbPersonId": 1321508,
+      "name": "Ryuji Akiyama",
+      "character": "Self",
+      "profilePath": "/zbOMY7q9GbvoQ2oov3QEFxu1kqh.jpg",
+      "order": 2
+    },
+    {
+      "id": "ef76e5c6-7cb6-428f-b073-f0581dbb1750",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbPersonId": 1507843,
+      "name": "Naoki Matayoshi",
+      "character": "Self",
+      "profilePath": "/xy7thIU5io0y6PrMjrzoG8FPHV8.jpg",
+      "order": 3
+    },
+    {
+      "id": "bdd976e1-36e1-4475-b19a-d033b82c9b60",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbPersonId": 1621177,
+      "name": "Junpei Goto",
+      "character": "Self",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "f808b590-1012-4621-b573-638b608160ef",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbPersonId": 2311556,
+      "name": "Kenji Yamauchi",
+      "character": "Self",
+      "profilePath": "/vRnXJvjoPKo95ZBSohOcsMlo3xD.jpg",
+      "order": 5
+    },
+    {
+      "id": "41984050-5488-475c-8d37-373408700dc9",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbPersonId": 1777998,
+      "name": "Katsumi Kawahara",
+      "character": "Self",
+      "profilePath": "/dMVIjlGzzQ8cZFoycUmZjDqrLtB.jpg",
+      "order": 6
+    },
+    {
+      "id": "1354e00c-d5f0-4f5b-9140-5908c42c1fe4",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbPersonId": 2298936,
+      "name": "Jiro",
+      "character": "Self",
+      "profilePath": "/dYubMnPvxyhqeeAnvU1DfHZbd8J.jpg",
+      "order": 7
+    },
+    {
+      "id": "b66c6722-6d2d-42c6-a015-625ae2658eb1",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbPersonId": 3551120,
+      "name": "Kazuya Kunizak",
+      "character": "Self",
+      "profilePath": "/2UzrDB3QIvUh0XNjOnoCiz4OsN2.jpg",
+      "order": 8
+    },
+    {
+      "id": "fca621d2-bfc3-4628-ae7e-d4ab5dc1d353",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbPersonId": 63694,
+      "name": "Joe Odagiri",
+      "character": "Self",
+      "profilePath": "/jjbwOodtQeVcTwO9oUbLOGjjHDP.jpg",
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4e34b6d0-bab7-4f68-b804-102111c7d4b5",
+      "tvSeriesId": "7a5dbacc-a489-4307-b2ed-06b53a1f7695",
+      "tmdbId": 536109,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/w2XsAQUdsu80CAvfbaP7iAYE7Ka.jpg",
+      "airDate": "2026-08-12",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-05T16:23:56.511Z",
+      "updatedAt": "2026-09-05T16:25:46.540Z"
+    }
+  ]
+}

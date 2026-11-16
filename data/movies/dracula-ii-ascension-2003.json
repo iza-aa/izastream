@@ -1,0 +1,344 @@
+{
+  "slug": "dracula-ii-ascension-2003",
+  "id": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+  "tmdbId": 10578,
+  "imdbId": "tt0336325",
+  "title": "Dracula II: Ascension",
+  "originalTitle": "Dracula II: Ascension",
+  "overview": "A group of medical students discover the body of the infamous count. Soon, they find themselves in the middle of a bizarre and dangerous conflict when a shadowy figure offers them $30 million for the body so that he may harvest his blood.",
+  "tagline": "The terrifying sequel to Dracula 2000.",
+  "posterPath": "/xt7DZ3Ww4itOJJzVjNxAZIdAMrB.jpg",
+  "backdropPath": "/8FToZ1Q1BeURy1asr7Z9HOMXRcM.jpg",
+  "logoPath": "/7JFCtF09oaHMwCEjoLUDx0vgBHm.png",
+  "backdrops": [
+    "/8FToZ1Q1BeURy1asr7Z9HOMXRcM.jpg",
+    "/o3qmCr5eKRoWw43z6U00JaeVgxa.jpg",
+    "/b81I3snQTv3Xk8sOuqyje5EGUA4.jpg",
+    "/4e62nw70Avf44jx7kGIu1ic32zC.jpg",
+    "/mqNuQX9JTR9UJUALeve8WPAFuex.jpg",
+    "/sis9jhRKhHoYgK8qVaNIzmGzy70.jpg",
+    "/9N1lDpXNb9sBKJvIbB2i0gYpLru.jpg",
+    "/i5ChiMqA6Li00HKZ3lgxEzQeXQE.jpg",
+    "/o8YggMvuw46g4W3IoTQz1MLuElW.jpg",
+    "/qyJ4Wrqkf5N5qSX2R6SlOTK7Ke5.jpg"
+  ],
+  "releaseDate": "2003-06-07",
+  "runtime": 84,
+  "voteAverage": "5.60",
+  "popularity": null,
+  "popularityScore": 53,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=fbtmPbvJUYk",
+  "quality": "WEB-DL",
+  "director": "Patrick Lussier",
+  "directorTmdbId": 27226,
+  "directorProfilePath": "/iDVSGsOz8PewY4SCAEDCDaobi4.jpg",
+  "productionCompanies": [
+    {
+      "id": 7405,
+      "name": "Dimension Films",
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png"
+    },
+    {
+      "id": 1370,
+      "name": "Castel Film",
+      "logo_path": "/uch218gB4XWNz3JNhlc65A5Q207.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 3133,
+      "name": "vampire"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 9259,
+      "name": "vampire hunter (slayer)"
+    },
+    {
+      "id": 9139,
+      "name": "student of medicine"
+    },
+    {
+      "id": 15032,
+      "name": "gothic horror"
+    },
+    {
+      "id": 261274,
+      "name": "dracula"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 576,
+  "watchlistCount": 1,
+  "favouriteCount": 1,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:17:55.763Z",
+  "updatedAt": "2026-10-05T17:38:49.337Z",
+  "genres": [
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d43572df-064f-4dfe-a3cd-e3bd3d37d4b1",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 58319,
+      "name": "Jason Scott Lee",
+      "character": "Father Uffizi",
+      "profilePath": "/7jObZCM3diuPV0WlKkzOd4uE2CJ.jpg",
+      "order": 0
+    },
+    {
+      "id": "691bd09b-14c0-4c97-a63c-49675601a22b",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 52474,
+      "name": "Jason London",
+      "character": "Luke",
+      "profilePath": "/bFkC2ZRcurTQzbjBuuMljFCKfEv.jpg",
+      "order": 1
+    },
+    {
+      "id": "bff76b05-aa42-45a7-b787-db365735c8b8",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 4138,
+      "name": "Craig Sheffer",
+      "character": "Professor Lowell",
+      "profilePath": "/w8wAAyXDifuxZDgvuL8U0fuLsLG.jpg",
+      "order": 2
+    },
+    {
+      "id": "acaf4310-ddf8-4733-b1d3-cd13024cc7ff",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 6355,
+      "name": "Roy Scheider",
+      "character": "Cardinal Siqueros",
+      "profilePath": "/yyZ0DwUz3qAelJIUGVoOktGgMIh.jpg",
+      "order": 3
+    },
+    {
+      "id": "04ad999c-525b-4506-a723-64a95bed4c57",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 65641,
+      "name": "Brande Roderick",
+      "character": "Tanya",
+      "profilePath": "/xSezu077rAcyhEycC4F7s02a1kD.jpg",
+      "order": 4
+    },
+    {
+      "id": "15adf6ad-3182-4c5b-ba25-a10385b6f467",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 2477,
+      "name": "Stephen Billington",
+      "character": "Dracula",
+      "profilePath": "/zDHE0QUqzMeMJEUVKhGD5NlS315.jpg",
+      "order": 5
+    },
+    {
+      "id": "ecdad845-eded-4484-b4a9-2cf1158f6471",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 65639,
+      "name": "Diane Neal",
+      "character": "Elisabeth Blaine",
+      "profilePath": "/4hVzSxLMKD6oGKDy0u0xt2rdHqU.jpg",
+      "order": 6
+    },
+    {
+      "id": "48f05b14-6b23-4bc7-bfb0-c09a1935ad08",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 65640,
+      "name": "Khary Payton",
+      "character": "Kenny",
+      "profilePath": "/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg",
+      "order": 7
+    },
+    {
+      "id": "628470a4-ee5a-4dba-b546-9ee9d54c837e",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 65642,
+      "name": "John Light",
+      "character": "Eric",
+      "profilePath": "/9ilMEZ2l40gd2fyU2CvLmNVTjY.jpg",
+      "order": 8
+    },
+    {
+      "id": "c179f4da-cc96-4449-b406-e1d6c480e953",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 1031964,
+      "name": "David J. Francis",
+      "character": "Jesus",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "73e95894-8827-4c51-a95b-68b056d24f37",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 4137851,
+      "name": "Jennifer Kroll",
+      "character": "Twins of Evil",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "ec116c85-a5d9-4007-be9d-12a88c884602",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 60655,
+      "name": "Daniela Nane",
+      "character": "Cat-Woman",
+      "profilePath": "/bebLd2VSXY5kEHsFbEfSF1x4lfN.jpg",
+      "order": 11
+    },
+    {
+      "id": "11b26cc8-caa7-4d0e-8c7e-2212be8bf530",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 165954,
+      "name": "Christopher Hunter",
+      "character": "Corello",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "23149c4c-14f0-487f-8067-83feff38eea5",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 65643,
+      "name": "Nick Phillips",
+      "character": "Officer Smith",
+      "profilePath": "/zVbtedfHFFZJrl8aainKs3xPKXg.jpg",
+      "order": 13
+    },
+    {
+      "id": "1f55f11c-42fd-4f97-89b8-fc55b1814ceb",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 36900,
+      "name": "John Sharian",
+      "character": "Officer Hodge",
+      "profilePath": "/kyt5wb9ID7G4Kz07ikvduBDH5QB.jpg",
+      "order": 14
+    },
+    {
+      "id": "ceae7f3c-21d1-4760-84cf-5c372666dfa5",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 4137854,
+      "name": "Dragos Balauca",
+      "character": "Altar Boy",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "10d6ba87-f6c1-4568-bc9b-739c17d02418",
+      "movieId": "9ba7fde9-6673-475b-ac72-f4c824834f62",
+      "tmdbPersonId": 550400,
+      "name": "Silviu Olteanu",
+      "character": "Young Priest",
+      "profilePath": null,
+      "order": 16
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

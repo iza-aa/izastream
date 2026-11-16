@@ -1,0 +1,166 @@
+{
+  "slug": "digimon-beatbreak-2025",
+  "id": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+  "title": "Digimon Beatbreak",
+  "overview": "Tomoro Tenma lives in a world where human thoughts and emotions, known as e-Pulse, power AI devices called Sapotama. But when Digimon begin materializing from Sapotama and feeding on e-Pulse, society begins to fracture. After Gekkomon appears from his device, Tomoro joins Glowing Dawn, a secret team investigating rogue Digimon and the dark truth of a system both fueled and corrupted by emotion.",
+  "tagline": "Glitch the future.",
+  "posterPath": "/qcy74ZdijvhaIyiPKFVZJZZrpJt.jpg",
+  "backdropPath": "/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+  "logoPath": "/60fGv96Af7TmznUNBcz7mLrURh6.png",
+  "firstAirDate": "2025-10-05",
+  "voteAverage": "7.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "efd8c60d-d42f-4a91-8d99-6dbe8aec41f2",
+      "tmdbId": 10762,
+      "name": "Kids",
+      "slug": "kids",
+      "createdAt": "2026-04-02T16:37:02.488Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "90af305e-15b9-4665-b425-ad8921b18e4f",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbPersonId": 19588,
+      "name": "Miyu Irino",
+      "character": "Tomoro Tenma (voice)",
+      "profilePath": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg",
+      "order": 0
+    },
+    {
+      "id": "74d73f83-13c1-4e13-9f6c-d7d0e0149338",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbPersonId": 1164931,
+      "name": "Megumi Han",
+      "character": "Gekkomon (voice)",
+      "profilePath": "/cwnwrPg1YvB19TbfouC4ShGPmbQ.jpg",
+      "order": 1
+    },
+    {
+      "id": "1bf0671f-3684-4d5d-b499-744577503e60",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbPersonId": 1309253,
+      "name": "Tomoyo Kurosawa",
+      "character": "Reina Sakuya (voice)",
+      "profilePath": "/eSRnva88YVcUXlDHdVrhier2SGU.jpg",
+      "order": 2
+    },
+    {
+      "id": "85ba3599-29fa-401c-972e-141bcdeace0f",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbPersonId": 1253972,
+      "name": "Mutsumi Tamura",
+      "character": "Pristimon (voice)",
+      "profilePath": "/uvbBIRiBK6GDLEESiYSFWOVlaE4.jpg",
+      "order": 3
+    },
+    {
+      "id": "7680ea35-5aeb-45ec-9f87-745e3e66f2cb",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbPersonId": 2930867,
+      "name": "Arisa Sekine",
+      "character": "Makoto Kuonji (voice)",
+      "profilePath": "/z8GTafCwhgx6cgjpuUWHOWXZCkg.jpg",
+      "order": 4
+    },
+    {
+      "id": "6f7a03ab-2a29-4a0c-a568-514fa7197853",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbPersonId": 151182,
+      "name": "Misaki Kuno",
+      "character": "Chiropmon (voice)",
+      "profilePath": "/hVtE4gdKaqofYZmXXtlJs4Q9XTL.jpg",
+      "order": 5
+    },
+    {
+      "id": "18f4ea72-a437-49cf-aaf2-2d0da7824e6c",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbPersonId": 2220797,
+      "name": "Yohei Azakami",
+      "character": "Kyo Sawashiro (voice)",
+      "profilePath": "/rLIqw8pIjVIxPb5engrTbu9iOex.jpg",
+      "order": 6
+    },
+    {
+      "id": "139d371a-6c76-404e-bd15-538d5d8f2cee",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbPersonId": 1991242,
+      "name": "Daiki Hamano",
+      "character": "Murasamemon (voice)",
+      "profilePath": "/bykeH3Rhmx9PPFegYNi6s310cNa.jpg",
+      "order": 7
+    },
+    {
+      "id": "4562ad71-dce7-4375-8363-04b88076c63c",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbPersonId": 1307031,
+      "name": "Minami Tsuda",
+      "character": "Hitomi Shinomiya (voice)",
+      "profilePath": "/bgPI0vCsH43aZVfBuUcQ91cDBxe.jpg",
+      "order": 500
+    },
+    {
+      "id": "45c59acf-40a2-4318-88c9-df087d824199",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbPersonId": 2676600,
+      "name": "Ryosuke Kanemoto",
+      "character": "Young Asuka Tenma (voice)",
+      "profilePath": "/340RBG12jZE0xjIKJY0flAXXtx5.jpg",
+      "order": 501
+    }
+  ],
+  "seasons": [
+    {
+      "id": "dfa2f5f4-3c9c-40dc-b0eb-0b0368321cbd",
+      "tvSeriesId": "597e456f-8e79-40ae-89fd-0eafc7a2dd17",
+      "tmdbId": 447060,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/qcy74ZdijvhaIyiPKFVZJZZrpJt.jpg",
+      "airDate": "2025-10-05",
+      "episodeCount": 49,
+      "isPublished": true,
+      "createdAt": "2026-10-08T14:20:33.911Z",
+      "updatedAt": "2026-10-08T14:27:18.039Z"
+    }
+  ]
+}

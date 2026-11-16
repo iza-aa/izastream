@@ -1,0 +1,361 @@
+{
+  "slug": "frozen-hot-boys-2025",
+  "id": "eec470c9-5425-410a-b90d-333437866737",
+  "tmdbId": 1429743,
+  "imdbId": "tt35669015",
+  "title": "Frozen Hot Boys",
+  "originalTitle": "แก๊งหิมะเดือด",
+  "overview": "Driven by her personal agenda, a teacher at a juvenile detention center convinces a crew of teenage misfits to enter an snow sculpting contest in Japan.",
+  "tagline": "This summer, are you ready to cool off with this group of misfits?",
+  "posterPath": "/i7cDPuT59TuV6hjxcrPkQONkd5Q.jpg",
+  "backdropPath": "/8KpWKqzXIUUO2MZI1mZkUxuNSc4.jpg",
+  "logoPath": "/fUAIZBOvE01SDJnftmOm4UT2wAU.png",
+  "backdrops": [
+    "/8KpWKqzXIUUO2MZI1mZkUxuNSc4.jpg",
+    "/dU8AiVmPfhKGUHNcnK6hBC1nYzZ.jpg",
+    "/eWoQuo2G7Bi91F8aJZVtImRDhoB.jpg",
+    "/qY68yOIDy3Bso03yWeEMzhpQ4HE.jpg",
+    "/3MCwX4uz2CdVeXzs63dmaPvXpxW.jpg",
+    "/tLPFeUhCMSwpiMszxoVC9owmOYZ.jpg",
+    "/6AE0mX5ZLgnKKFJJIZQjoDOu2Nk.jpg",
+    "/qKO6fUqXHyM0pXccQ5q6kZaolsZ.jpg",
+    "/oxIsquRlt8TH7Nl6hFyUrUvq7mn.jpg",
+    "/x2tmXbRzUzeVHIKqbNSk9CERAeM.jpg"
+  ],
+  "releaseDate": "2025-04-10",
+  "runtime": 118,
+  "voteAverage": "7.40",
+  "popularity": "1.937",
+  "popularityScore": 11,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=XZMNdjQMkOw",
+  "quality": "WEB-DL",
+  "director": "Nareubadee Wetchakam",
+  "directorTmdbId": null,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 252673,
+      "name": "Meeruangmalao",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 271,
+      "name": "competition"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 286189,
+      "name": "teenage"
+    },
+    {
+      "id": 348865,
+      "name": "snow sculpture"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 525,
+  "watchlistCount": 10,
+  "favouriteCount": 5,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-04-02T14:18:06.642Z",
+  "updatedAt": "2026-04-02T14:18:06.642Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7d016449-d176-423f-b2dc-c5b4a9acd88d",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 1346092,
+      "name": "Natapohn Tameeruks",
+      "character": "Chompoo",
+      "profilePath": "/bWzRMeVZAGt5Zwj9qHRKbmdvroQ.jpg",
+      "order": 0
+    },
+    {
+      "id": "978b96d2-b9e1-414e-930d-68c8b8a71275",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 3919883,
+      "name": "Nuttawatt Thanathaveeprasert",
+      "character": "Jab",
+      "profilePath": "/eFou96PXyf5PyMltjHFzQ97Mwxa.jpg",
+      "order": 1
+    },
+    {
+      "id": "4b7e8856-f010-4bf2-bf24-9ec5be2079f8",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 1839889,
+      "name": "Chatchai Chinnasri",
+      "character": "Boy",
+      "profilePath": "/82dbWazDSSVZGlfAoilRmqBHmVd.jpg",
+      "order": 2
+    },
+    {
+      "id": "0cd7eef4-026a-4d68-afcc-acb38d0cb026",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 2430105,
+      "name": "Sadanont Durongkhaweroj",
+      "character": "Jo",
+      "profilePath": "/loPmVNp2sy9Z8Z7fLh5k84wIFtM.jpg",
+      "order": 3
+    },
+    {
+      "id": "9ff50cd6-c3a1-40f1-a0ac-b914e1fc6ed7",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 5230382,
+      "name": "Piyaphong Dammunee",
+      "character": "Toomtam",
+      "profilePath": "/vMnE6TZvkgPZV2c1hD82bqTxahy.jpg",
+      "order": 4
+    },
+    {
+      "id": "a0f620b7-8692-463b-a6c6-701652e51e7e",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 5230377,
+      "name": "Punnanon Treewannakul",
+      "character": "Win",
+      "profilePath": "/Uuh7UsrkYvqQOHnhXyW2fwHvYY.jpg",
+      "order": 5
+    },
+    {
+      "id": "af3523ed-a80d-4090-a274-dbaab3c91a5a",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 2937652,
+      "name": "Kanjanaporn Plodpai",
+      "character": "Director Un",
+      "profilePath": "/hXEXmZrbJl6Gd1iB3NhyYXdaxN3.jpg",
+      "order": 6
+    },
+    {
+      "id": "32dc9e66-3485-4881-baa6-307144a6bd11",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 134726,
+      "name": "Suppakorn Kitsuwan",
+      "character": "Mai",
+      "profilePath": "/z9Wez6xkYYf6BLP8bLupL2c8KAZ.jpg",
+      "order": 7
+    },
+    {
+      "id": "ee979951-346b-4949-a84f-64f132f8a168",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 129256,
+      "name": "Atthaporn Teemakorn",
+      "character": "Jab's Dad",
+      "profilePath": "/evoUS8tnFeJfuQC6QMy5P9GNKRC.jpg",
+      "order": 8
+    },
+    {
+      "id": "0b9d10d9-eafb-4f81-a051-d552abc04e86",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 3574389,
+      "name": "Sutthipong Thatphitakkul",
+      "character": "Chompoo's Dad",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "20f8cdb6-6e54-436c-8012-7779111ec8d6",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 149901,
+      "name": "Somlek Sakdikul",
+      "character": "Chart",
+      "profilePath": "/vvpyrZQ6UZJfgpcZMUymsK5frE1.jpg",
+      "order": 10
+    },
+    {
+      "id": "976cd46c-3fc7-473f-98f4-7adc72b2e688",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 3731132,
+      "name": "Michael Pugh",
+      "character": "Boss",
+      "profilePath": "/jOYUZnHJp3cnID7zVuVVK09AAoS.jpg",
+      "order": 11
+    },
+    {
+      "id": "b4b6bbec-d981-4034-ae12-0645eda6eef2",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 4628205,
+      "name": "Wayupak Bangkhran",
+      "character": "Michael",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "6ed22de5-bc12-4acb-8673-e3cbb9945b01",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 4559938,
+      "name": "Kitchanapat Wijitkul",
+      "character": "Game Cafe Kid",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "078169cc-e764-4ef1-96e9-6a83e48f69da",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 3161926,
+      "name": "Arunee Wattana",
+      "character": "Win's Mom",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "b770c441-4ef5-40b1-8215-9a73c9c7516d",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 3610110,
+      "name": "Molywon Phantarak",
+      "character": "Jo's Victim Mom",
+      "profilePath": "/cXrGXMSGnp3P6wdWkMHI1CO6LVo.jpg",
+      "order": 15
+    },
+    {
+      "id": "c875d8af-762b-42f3-8744-20c2a5f05959",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 1259522,
+      "name": "Nimit Luksameepong",
+      "character": "Robert",
+      "profilePath": "/cxzLsc8i8B5jr0Tz5dUZlP5u5Mj.jpg",
+      "order": 16
+    },
+    {
+      "id": "4fc151c8-b026-41e3-9850-12d977325ce1",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 1285646,
+      "name": "Torphong Kul-on",
+      "character": "Sri Thanonchai School Teacher",
+      "profilePath": "/efaDmDJZ4FkZVAY8Yipvd0Z80YS.jpg",
+      "order": 17
+    },
+    {
+      "id": "5ba08439-35e2-4ad0-8139-5f2bf38fd4a8",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 5361785,
+      "name": "Hiroko Yagura",
+      "character": "Mariko",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "b87ef4ee-5ce7-4e2a-a100-8dfe447da9cb",
+      "movieId": "eec470c9-5425-410a-b90d-333437866737",
+      "tmdbPersonId": 4623895,
+      "name": "Wanichaya Pornpanarittichai",
+      "character": "Young Chompoo",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

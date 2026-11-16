@@ -1,0 +1,102 @@
+{
+  "slug": "a-different-world-2026",
+  "id": "00469f8e-1af1-4feb-be0d-70f022331975",
+  "title": "A Different World",
+  "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
+  "tagline": "The new class just enrolled.",
+  "posterPath": "/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+  "backdropPath": "/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+  "logoPath": "/btPU2DsXixzuZfvseRi1mYgcCPV.svg",
+  "firstAirDate": "2026-09-24",
+  "voteAverage": "5.25",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d923fd3c-5d3a-46ae-a089-9ee6a9095d83",
+      "tvSeriesId": "00469f8e-1af1-4feb-be0d-70f022331975",
+      "tmdbPersonId": 4956600,
+      "name": "Maleah Joi Moon",
+      "character": "Deborah Wayne",
+      "profilePath": "/kNk8SbGl6kNE1CSBqrlU32qAweQ.jpg",
+      "order": 0
+    },
+    {
+      "id": "9836ed15-c240-4019-80ee-2f45e44a37f4",
+      "tvSeriesId": "00469f8e-1af1-4feb-be0d-70f022331975",
+      "tmdbPersonId": 3742434,
+      "name": "Alijah Kai",
+      "character": "Rashida",
+      "profilePath": "/4Zm8bN7rL1JGRcoQQ1JY0eZdWX7.jpg",
+      "order": 1
+    },
+    {
+      "id": "7f266bfb-4b06-4159-a623-8d13d6c37bbc",
+      "tvSeriesId": "00469f8e-1af1-4feb-be0d-70f022331975",
+      "tmdbPersonId": 2403981,
+      "name": "Chibuikem Uche",
+      "character": "Kojo",
+      "profilePath": "/mnFbtkw3CahJez70swDCkq0IcUl.jpg",
+      "order": 2
+    },
+    {
+      "id": "f9fad204-7ccf-4be5-a620-087f5c9c6fd8",
+      "tvSeriesId": "00469f8e-1af1-4feb-be0d-70f022331975",
+      "tmdbPersonId": 5808915,
+      "name": "Cornell Young IV",
+      "character": "Shaquille",
+      "profilePath": "/pRy7ZJkjlLnejySjoT9ENQNAWoZ.jpg",
+      "order": 3
+    },
+    {
+      "id": "9f462fb0-76c4-4d82-b113-804306e7889f",
+      "tvSeriesId": "00469f8e-1af1-4feb-be0d-70f022331975",
+      "tmdbPersonId": 2712164,
+      "name": "Jordan Aaron Hall",
+      "character": "Amir",
+      "profilePath": "/70wXromowEycW1SN88xzzwuzwk7.jpg",
+      "order": 4
+    },
+    {
+      "id": "08a402d2-05a3-4c55-95dc-962947740310",
+      "tvSeriesId": "00469f8e-1af1-4feb-be0d-70f022331975",
+      "tmdbPersonId": 5808917,
+      "name": "Kennedi Reece",
+      "character": "Hazel",
+      "profilePath": "/5QILjyyv0Kn4cE3WBZ1ZmJIRC4e.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4a1404d5-91fb-40d8-a6fd-146699d4bcd4",
+      "tvSeriesId": "00469f8e-1af1-4feb-be0d-70f022331975",
+      "tmdbId": 484319,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/sgqW4uNPAtsRHOYYkHbcZdJAS3r.jpg",
+      "airDate": "2026-09-24",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-25T07:29:52.411Z",
+      "updatedAt": "2026-09-25T07:30:39.461Z"
+    }
+  ]
+}

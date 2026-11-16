@@ -1,0 +1,263 @@
+{
+  "slug": "masterplan-2026",
+  "id": "fc490af8-96b1-473d-aab0-297f28645863",
+  "tmdbId": 1561726,
+  "imdbId": "tt38672588",
+  "title": "Masterplan",
+  "originalTitle": "Masterplan",
+  "overview": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings… and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together — and try not to kill each other — if they want any chance at pulling off the heist of the century.",
+  "tagline": null,
+  "posterPath": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+  "backdropPath": "/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+  "logoPath": "/At6dSS7TWU8qzxjqlupn10cegcF.png",
+  "backdrops": [
+    "/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+    "/nhJab93yQdDJa7btFEu9MQ8s2OG.jpg",
+    "/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
+    "/2Je5EainyrNszCyhF07Pfkm3m5f.jpg",
+    "/bapL59rfXz56C0U9eZg8ezAm8vw.jpg",
+    "/dOv2JBMmwcw7TL5auBeBoIbhoO8.jpg",
+    "/hk80hYdJ6MEPy4jDxc0TqHCb6wH.jpg",
+    "/nLEgcdXBj8JH6BtuB3w5W7Jc41T.jpg",
+    "/7ULXMNvmZSi13zN3EZjz8wbER9B.jpg",
+    "/b3Sot3WMFHF4aSwDket0yizfnPi.jpg"
+  ],
+  "releaseDate": "2026-10-16",
+  "runtime": 110,
+  "voteAverage": "6.96",
+  "popularity": null,
+  "popularityScore": 1843,
+  "originalLanguage": "en",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=gc0t8AfMP6k",
+  "quality": "WEB-DL",
+  "director": "Thomas Vincent",
+  "directorTmdbId": 565121,
+  "directorProfilePath": "/rlmy7iRHmfv1cfScb9rBuNBwF0L.jpg",
+  "productionCompanies": [
+    {
+      "id": 210099,
+      "name": "Amazon MGM Studios",
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+      "id": 9,
+      "name": "Gaumont",
+      "logo_path": "/h4zSRszvKHr1tjqEp8voJVahuza.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 250043,
+      "name": "art heist"
+    },
+    {
+      "id": 258986,
+      "name": "parent child reunion"
+    },
+    {
+      "id": 318607,
+      "name": "long lost sibling"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 36420,
+  "watchlistCount": 248,
+  "favouriteCount": 84,
+  "shareCount": 12,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-17T17:19:00.448Z",
+  "updatedAt": "2026-10-17T17:19:08.360Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "fb13c718-c2f8-49d0-b993-0187807f15b9",
+      "movieId": "fc490af8-96b1-473d-aab0-297f28645863",
+      "tmdbPersonId": 2283,
+      "name": "Stanley Tucci",
+      "character": "Roger",
+      "profilePath": "/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg",
+      "order": 0
+    },
+    {
+      "id": "ca1118fb-de59-4e24-b502-2f444c5c5966",
+      "movieId": "fc490af8-96b1-473d-aab0-297f28645863",
+      "tmdbPersonId": 1355967,
+      "name": "Simona Tabasco",
+      "character": "Chiara",
+      "profilePath": "/eHH3kzBwc69E9BvDRCtOEtY1CSc.jpg",
+      "order": 1
+    },
+    {
+      "id": "24f560ff-55b4-4564-b1b2-6f7466e3c8b8",
+      "movieId": "fc490af8-96b1-473d-aab0-297f28645863",
+      "tmdbPersonId": 1894422,
+      "name": "Victor Belmondo",
+      "character": "Jay",
+      "profilePath": "/sO3BOoXM8UseOJr7Ba0q0jgGbRV.jpg",
+      "order": 2
+    },
+    {
+      "id": "04927905-0509-4489-b18d-3243158f3430",
+      "movieId": "fc490af8-96b1-473d-aab0-297f28645863",
+      "tmdbPersonId": 1489824,
+      "name": "Eliott Margueron",
+      "character": "",
+      "profilePath": "/bXXHdRf9NBXHlA0OBlROZgolaMp.jpg",
+      "order": 3
+    },
+    {
+      "id": "2ac6d62c-ccdf-4e11-a7a5-d30def62d0b9",
+      "movieId": "fc490af8-96b1-473d-aab0-297f28645863",
+      "tmdbPersonId": 27401,
+      "name": "Bruno Bilotta",
+      "character": "Scary Big Roman",
+      "profilePath": "/asuFRBT9YVLRjdRmugAHL43abl8.jpg",
+      "order": 4
+    },
+    {
+      "id": "9907dea0-f89f-4225-888b-3c8ae440f5f2",
+      "movieId": "fc490af8-96b1-473d-aab0-297f28645863",
+      "tmdbPersonId": 6298806,
+      "name": "Barbara Lo Gaglio",
+      "character": "Professor",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "efbe0da6-6182-4707-b1f4-92fce5f7c3e5",
+      "movieId": "fc490af8-96b1-473d-aab0-297f28645863",
+      "tmdbPersonId": 2483735,
+      "name": "Etienne Guillou-Kervern",
+      "character": "French Spook Officer",
+      "profilePath": "/hbNAiy6lw4yKb1oA5hFvSANVP6b.jpg",
+      "order": 6
+    },
+    {
+      "id": "f03b1d26-ab5b-4032-b37f-19971c5db22b",
+      "movieId": "fc490af8-96b1-473d-aab0-297f28645863",
+      "tmdbPersonId": 1684040,
+      "name": "Srbo Markovic",
+      "character": "Bruno's Bodyguard",
+      "profilePath": "/pYtUeefoM9CN78S0gRc6K6BUgUd.jpg",
+      "order": 7
+    },
+    {
+      "id": "11a63084-dc88-4fcf-a781-43cb215dbbef",
+      "movieId": "fc490af8-96b1-473d-aab0-297f28645863",
+      "tmdbPersonId": 4497331,
+      "name": "Julia Messina",
+      "character": "TV Reporter",
+      "profilePath": "/pvmoRAjGVcoOgR6h6wg1ZhyvWxO.jpg",
+      "order": 8
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

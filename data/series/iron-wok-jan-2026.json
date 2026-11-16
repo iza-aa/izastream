@@ -1,0 +1,152 @@
+{
+  "slug": "iron-wok-jan-2026",
+  "id": "76128b6e-7f7e-4867-a36e-d6d487645236",
+  "title": "Iron Wok Jan",
+  "overview": "The story follows Jan, a devilish master chef of Chinese cuisine, who will stop at nothing to crush his opponents. This is an adrenaline-pumping tale where the unhinged cast defies ethics and treats cooking like magic, creating all kinds of wild dishes. Jan charges forward to face the ultimate Chinese cuisine battle, ready to challenge the world!",
+  "tagline": null,
+  "posterPath": "/qD4qUOIX2wF67tnhhCWVbkwQuhs.jpg",
+  "backdropPath": "/q9O8pAq0R5R0gDXRAzIZV9lzMs5.jpg",
+  "logoPath": "/ve14D7gUfNR3qP8X9dKAM36JxDD.png",
+  "firstAirDate": "2026-07-05",
+  "voteAverage": "7.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3f322953-31da-4385-b27f-49826763cfe5",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbPersonId": 3651176,
+      "name": "Kikunosuke Toya",
+      "character": "Jan Akiyama (voice)",
+      "profilePath": "/tSAHe7tjN7luUD1Tx5yPSCuCnuD.jpg",
+      "order": 0
+    },
+    {
+      "id": "a122aa93-26fc-484a-b60d-62121fd82206",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbPersonId": 2103077,
+      "name": "Ikumi Hasegawa",
+      "character": "Kiriko Gobanchō (voice)",
+      "profilePath": "/aHLid4WeTafrtfqDRAZSw5K7dTj.jpg",
+      "order": 1
+    },
+    {
+      "id": "d67b598c-186d-40b9-afc9-e8d44e8663b6",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbPersonId": 1885279,
+      "name": "Kohei Amasaki",
+      "character": "Takao Okonogi (voice)",
+      "profilePath": "/tnN5jLiLjcDa7qn88uLb1iAfivL.jpg",
+      "order": 2
+    },
+    {
+      "id": "1ada8392-6735-4087-81c7-1034f73736f5",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbPersonId": 135524,
+      "name": "Kenjiro Tsuda",
+      "character": "Narrator (voice)",
+      "profilePath": "/yFpSPNHqYN4rdRiVpVaYmqXMkmi.jpg",
+      "order": 3
+    },
+    {
+      "id": "0c8d7caa-31b6-48b6-b45e-e54399501c71",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbPersonId": 555101,
+      "name": "Masuo Amada",
+      "character": "Nichido Otani (voice)",
+      "profilePath": "/j6uXrzr49Nvso3g4XfRccaebJpJ.jpg",
+      "order": 4
+    },
+    {
+      "id": "271621a8-6f84-458c-8968-c0d837b69f39",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbPersonId": 1161472,
+      "name": "Mao Ichimichi",
+      "character": "Celene Yang (voice)",
+      "profilePath": "/a3cflYtrlFK0LXfWODgLDO7E7CP.jpg",
+      "order": 5
+    },
+    {
+      "id": "5faa3b64-c7b1-4514-b642-43a750f0b258",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbPersonId": 9705,
+      "name": "Takahiro Sakurai",
+      "character": "Kei Sawada (voice)",
+      "profilePath": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg",
+      "order": 6
+    },
+    {
+      "id": "3369626b-ac96-4210-a594-ecfdf29b7b4e",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbPersonId": 1325953,
+      "name": "Taishi Murata",
+      "character": "Tomohide Jun (voice)",
+      "profilePath": "/eVs2Ow2CyiFfoN02EUNyhmSYALE.jpg",
+      "order": 7
+    },
+    {
+      "id": "edf20296-c483-432b-bc24-e0e27e4397ba",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbPersonId": 1350418,
+      "name": "Yusuke Kobayashi",
+      "character": "Yuji Kawahara (voice)",
+      "profilePath": "/y4ukKDSobZJNuB4H3k89hkrKCDC.jpg",
+      "order": 8
+    },
+    {
+      "id": "05636f4d-0f3c-4b9a-b1d1-34a421c3483f",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbPersonId": 144655,
+      "name": "Tomokazu Sugita",
+      "character": "Ryūji Bitō (voice)",
+      "profilePath": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "80f2d560-3eea-4991-acb6-cc1e2bfd2fcb",
+      "tvSeriesId": "76128b6e-7f7e-4867-a36e-d6d487645236",
+      "tmdbId": 489731,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/qD4qUOIX2wF67tnhhCWVbkwQuhs.jpg",
+      "airDate": "2026-07-05",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-06T07:01:28.623Z",
+      "updatedAt": "2026-10-06T07:03:16.628Z"
+    }
+  ]
+}

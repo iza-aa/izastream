@@ -1,0 +1,166 @@
+{
+  "slug": "sneaky-pete-2015",
+  "id": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+  "title": "Sneaky Pete",
+  "overview": "A con man on the run from a vicious gangster takes cover from his past by assuming the identity of his prison cellmate, Pete, “reuniting” with Pete’s estranged family, a colorful, dysfunctional group that threatens to drag him into a world just as dangerous as the one he’s trying to escape - and, just maybe, give him a taste of the loving family he’s never had.",
+  "tagline": "The truth is always changing.",
+  "posterPath": "/nNpcea9lLHI4iv8QpOIvHveVnT9.jpg",
+  "backdropPath": "/6snAloZERdVYkY21sl8IhcpSPSt.jpg",
+  "logoPath": "/p9K4WlP6nXdWAsGArSltEin4Yvo.png",
+  "firstAirDate": "2015-08-07",
+  "voteAverage": "7.49",
+  "numberOfSeasons": 3,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e71ed4f3-9766-486b-8c82-59f9503c903f",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbPersonId": 1771,
+      "name": "Giovanni Ribisi",
+      "character": "Pete Murphy / Marius Josipović",
+      "profilePath": "/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg",
+      "order": 0
+    },
+    {
+      "id": "369f5300-7d56-48b8-84f5-0c83dfe5041b",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbPersonId": 164094,
+      "name": "Marin Ireland",
+      "character": "Julia Bowman",
+      "profilePath": "/jAIOQNraHjvIAdqk81QDV5Phupp.jpg",
+      "order": 1
+    },
+    {
+      "id": "ae11ed97-da59-4427-b789-655311e41af7",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbPersonId": 159879,
+      "name": "Joseph Lyle Taylor",
+      "character": "Frank",
+      "profilePath": "/8uhyLsXh8EbJutuG6G9QPs6zFWl.jpg",
+      "order": 2
+    },
+    {
+      "id": "d309b423-5c33-46eb-825b-84b745fe8001",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbPersonId": 452,
+      "name": "Margo Martindale",
+      "character": "Audrey Bernhardt",
+      "profilePath": "/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg",
+      "order": 3
+    },
+    {
+      "id": "b2ebcd38-e3b5-49e9-86e9-1a47929f3d37",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbPersonId": 1986,
+      "name": "Peter Gerety",
+      "character": "Otto Bernhardt",
+      "profilePath": "/sE9fH3OxrmDflTSM3ac4ALzCjpa.jpg",
+      "order": 4
+    },
+    {
+      "id": "a498e7dd-f1d7-42f0-a7c8-28c7451e2bb3",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbPersonId": 83222,
+      "name": "Shane McRae",
+      "character": "Taylor Bowman",
+      "profilePath": "/dZAaRg5BOYfN9uqFxDIXef96CgN.jpg",
+      "order": 5
+    },
+    {
+      "id": "87c8e74b-dde8-48eb-a5a7-4891ac3f2075",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbPersonId": 1524899,
+      "name": "Libe Barer",
+      "character": "Carly Bowman",
+      "profilePath": "/peA4FQ9y8vImDrjEPrq6XlqYY5P.jpg",
+      "order": 6
+    },
+    {
+      "id": "109015cd-b4b4-4777-9492-2500087ad06d",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbPersonId": 176797,
+      "name": "Michael Drayer",
+      "character": "Eddie Josipović",
+      "profilePath": "/9B1ViAnSTSmeG40H7o1KvNWoAsP.jpg",
+      "order": 7
+    },
+    {
+      "id": "bd849c59-044c-438b-8b6c-7a295ec8bd07",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbPersonId": 6067,
+      "name": "Jay O. Sanders",
+      "character": "Sam",
+      "profilePath": "/z8btmLryEZlLkBah2XhZFydmty4.jpg",
+      "order": 8
+    },
+    {
+      "id": "2819f040-a6ee-4096-8106-c05890f1f1c4",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbPersonId": 209,
+      "name": "Jane Adams",
+      "character": "Maggie Murphy",
+      "profilePath": "/2FsPAoatMkUZ7khJ9r4Fa7ZxQzS.jpg",
+      "order": 10
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d7c39e83-4f0c-4ab1-93fa-a94f3ee25907",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbId": 71496,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "A con man on the run from a vicious gangster takes cover from his past by assuming the identity of his prison cellmate, Pete, \"reuniting\" with Pete's estranged family, a colorful, dysfunctional group that threatens to drag him into a world just as dangerous as the one he's trying to escape - and, just maybe, give him a taste of the loving family he's never had.",
+      "posterPath": "/4G3MatPTEmfoEFjByuN4P0waAEu.jpg",
+      "airDate": "2015-08-07",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-01T21:59:00.104Z",
+      "updatedAt": "2026-10-01T22:06:13.263Z"
+    },
+    {
+      "id": "f783228e-9712-4adb-a06e-ed40c30599ab",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbId": 98508,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "On the verge of starting fresh, Marius is dragged back into the role of Pete Murphy when two thugs-believing he's Pete-threaten to kill the Bernhardts if he doesn't take them to Pete's estranged mother and the millions she stole from their employer. Now Marius must tread a dangerous line to find her and protect the family, all while keeping up the Pete con.",
+      "posterPath": "/gK0EgspDCRlicAJXwAta2sIMJ7A.jpg",
+      "airDate": "2018-03-08",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-01T21:59:00.104Z",
+      "updatedAt": "2026-10-01T22:06:14.842Z"
+    },
+    {
+      "id": "673c08d6-3be7-4583-975f-da103bae40ad",
+      "tvSeriesId": "5eb79899-ba67-4b1f-8de6-c022b602211e",
+      "tmdbId": 121903,
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "overview": "Who is Marius Josipovic? Marius himself would like to know. He's feeling a pull toward the Bernhardt family. But he's not part of the family. He's a con-man. The chance to become more like a normal human being is enticing. It also scares him to death. This season all the members of the Sneaky Pete family explore their identity. It's a dangerous journey. They could lose themselves or their lives.",
+      "posterPath": "/yQmF4ihjpz9p8o1A0xgEYAXj7Pf.jpg",
+      "airDate": "2019-05-10",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-01T21:59:00.104Z",
+      "updatedAt": "2026-10-01T22:06:16.234Z"
+    }
+  ]
+}

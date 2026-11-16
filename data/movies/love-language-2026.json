@@ -1,0 +1,314 @@
+{
+  "slug": "love-language-2026",
+  "id": "b3906878-595c-44f4-90fc-860584675964",
+  "tmdbId": 1371730,
+  "imdbId": "tt33998222",
+  "title": "Love Language",
+  "originalTitle": "Love Language",
+  "overview": "Following a failed engagement, Lou discovers she has a talent for writing other people’s wedding vows. Word spreads across Chicago’s wedding scene and Lou’s services are in high demand. She even has a new admirer in Dash. But everything changes when she’s asked to write vows for Olivia, who’s marrying Warren, Lou’s old college flame.",
+  "tagline": null,
+  "posterPath": "/sCQde3BSMpDgA1qpE0zzboFdwl0.jpg",
+  "backdropPath": "/snrOynVdMOZVA8aCxOAK9kBRQLm.jpg",
+  "logoPath": "/8yDmzavVmUZTBEcYMs0Xj0u6vFZ.png",
+  "backdrops": [
+    "/snrOynVdMOZVA8aCxOAK9kBRQLm.jpg",
+    "/2reWDfgqvrUmA05y6UCKb2UXNvP.jpg",
+    "/x8t7nLfVN4uLEYU0RcOjYKMA22Z.jpg",
+    "/jZpYaaUo9MBI5FgRL4rvMRBfWoO.jpg",
+    "/2eES4qEggjs1mf8TJskJjLSftmB.jpg",
+    "/cRtll1slw6kiHRvRWTpSZ8BNPWM.jpg",
+    "/vyNeVuPJJnGgc9OMSCrJsLkceKf.jpg",
+    "/lHzDCMcPZndj8c8mnzbIIVkQbS1.jpg",
+    "/hmv8BNBVjlRWU722go2yitmqLAh.jpg",
+    "/cG9ZYLSvCTOSngPyHMZ8Gz1V76x.jpg"
+  ],
+  "releaseDate": "2026-10-23",
+  "runtime": 104,
+  "voteAverage": "9.50",
+  "popularity": null,
+  "popularityScore": 1254,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=hrXydegMePY",
+  "quality": "WEB-DL",
+  "director": "Joey Power",
+  "directorTmdbId": 1782616,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 178404,
+      "name": "Caviar",
+      "logo_path": "/c0vZ3qicUq3z8WD5EF1oleLtNMf.png"
+    },
+    {
+      "id": 787,
+      "name": "3 Arts Entertainment",
+      "logo_path": "/xx7T872JDo6NOdwq5IeG0cyD9jS.png"
+    },
+    {
+      "id": 238178,
+      "name": "No Notes Production",
+      "logo_path": null
+    },
+    {
+      "id": 88606,
+      "name": "Vertical",
+      "logo_path": "/9NKtkn1QfC6cqXB107nGox1rgqt.png"
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 10347,
+  "watchlistCount": 133,
+  "favouriteCount": 20,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T17:28:19.632Z",
+  "updatedAt": "2026-10-25T17:28:23.182Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "5b4620dc-48c3-4632-a715-d65e5e60cc91",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 56734,
+      "name": "Chloë Grace Moretz",
+      "character": "Lou",
+      "profilePath": "/yq4rYmaTRC5degaOYmJQFpaiho1.jpg",
+      "order": 0
+    },
+    {
+      "id": "06b575ed-a87e-40fe-be42-6c94ab5d7521",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 1560244,
+      "name": "Anthony Ramos",
+      "character": "Dash",
+      "profilePath": "/gCeRfH3aetIpZwKxe8Wl4ZYcQg5.jpg",
+      "order": 1
+    },
+    {
+      "id": "e52e5870-9763-4999-8c1a-660897024105",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 1368795,
+      "name": "Manny Jacinto",
+      "character": "Warren",
+      "profilePath": "/jMbNV4nr5647r6CZJbT6nsnspMz.jpg",
+      "order": 2
+    },
+    {
+      "id": "1ab805d4-b983-4653-a3dd-957e8cc6d279",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 1972974,
+      "name": "Isabel May",
+      "character": "Olivia",
+      "profilePath": "/RJ4djIbfvUHXCCgniiAi0ebhED.jpg",
+      "order": 3
+    },
+    {
+      "id": "9c16a578-0517-4ba0-80c5-d616f097f29d",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 1371509,
+      "name": "Lukas Gage",
+      "character": "Gus",
+      "profilePath": "/xXknCnXtRBmqg38TkMuPFtugt5s.jpg",
+      "order": 4
+    },
+    {
+      "id": "8c034d5a-fce2-497f-98fb-cc8347228bfe",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 1399531,
+      "name": "Billie Lourd",
+      "character": "Tilda",
+      "profilePath": "/1u8bZL6ZXu5iDbPO3Z0Spetyt34.jpg",
+      "order": 5
+    },
+    {
+      "id": "42d8e1db-17de-4d0d-a9ee-adb1afa63c0d",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 2000658,
+      "name": "Chloe Fineman",
+      "character": "Marion",
+      "profilePath": "/pzGIb2jkjeXGhOJryPf2n2w13lI.jpg",
+      "order": 6
+    },
+    {
+      "id": "48d2f364-4c86-4dbf-8703-5c9bc01cfd55",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 5098952,
+      "name": "Bobbi Althoff",
+      "character": "Genji",
+      "profilePath": "/3paiMEXfQXBsEWLbo44K3GKeoP4.jpg",
+      "order": 7
+    },
+    {
+      "id": "a208f7d3-3577-4d5c-b826-0b0e75f04923",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 4186550,
+      "name": "Morgan Jay",
+      "character": "Ufberg",
+      "profilePath": "/bOpIClFXHFtUp9W1QDwzHzGIX6K.jpg",
+      "order": 8
+    },
+    {
+      "id": "f1c14a19-eb7b-4a6f-b026-798e14deb8f1",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 1699223,
+      "name": "Dan Perrault",
+      "character": "Jeff",
+      "profilePath": "/pVr6MffUwxBYv5XKLNAJdvRFa5A.jpg",
+      "order": 9
+    },
+    {
+      "id": "ef26ea69-b870-4180-9a97-f4150f6ba079",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 3662365,
+      "name": "Zach Zucker",
+      "character": "Teddy",
+      "profilePath": "/9HW7NgMemxjsijN575m1mNlSmc5.jpg",
+      "order": 10
+    },
+    {
+      "id": "4d9e89a8-f612-4d33-8f90-80041c17c994",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 1939375,
+      "name": "Marchánt Davis",
+      "character": "Steven",
+      "profilePath": "/3EVEDzMaUqaZ5QKuclsT5kH9jfm.jpg",
+      "order": 11
+    },
+    {
+      "id": "3ea57eb3-b497-4f0c-bbe2-e7bd85d25337",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 1715524,
+      "name": "Daniel David Stewart",
+      "character": "Graham",
+      "profilePath": "/4rVIcLqueOMwLKX54UCYEHBpRwf.jpg",
+      "order": 12
+    },
+    {
+      "id": "52756947-07a1-4fca-9dc4-361d334355ce",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 1794430,
+      "name": "Christian Pierce",
+      "character": "Kevin the Stripper",
+      "profilePath": "/ar6iB0BaW25xCIjbAw1CwGc9scX.jpg",
+      "order": 13
+    },
+    {
+      "id": "da62f7ac-1f7b-4850-90cc-506f7938e1db",
+      "movieId": "b3906878-595c-44f4-90fc-860584675964",
+      "tmdbPersonId": 1184280,
+      "name": "Stephen Schneider",
+      "character": "Driving Instructor",
+      "profilePath": "/lX1w5kzuKJQnplbdcwNSwDjrLE6.jpg",
+      "order": 14
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

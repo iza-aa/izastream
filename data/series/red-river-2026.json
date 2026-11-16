@@ -1,0 +1,152 @@
+{
+  "slug": "red-river-2026",
+  "id": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+  "title": "Red River",
+  "overview": "After a mysterious hand drags her beneath a puddle, modern Japanese teenager Yuri awakens in the Hittite Empire of the 14th century BCE. Thrust into a deadly struggle for the throne, she joins Prince Kail to battle assassins, outwit royal conspiracies, and survive a world at war. As her exploits earn her renown as the goddess Ishtar, Yuri must choose between her old life and an uncertain future.",
+  "tagline": null,
+  "posterPath": "/oD8VpMBVPorNso6y4TEKZBnfn92.jpg",
+  "backdropPath": "/pHzcs5Ru1lwoVcQsPA5lNYlxJy2.jpg",
+  "logoPath": "/r7OojaSpdEB8hYVzMwuAC7TaxJl.png",
+  "firstAirDate": "2026-07-08",
+  "voteAverage": "7.63",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 24,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7397cb95-7364-4cb8-9138-89cee5e5ffc4",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbPersonId": 2577749,
+      "name": "Mirai Tachibana",
+      "character": "Yuri (voice)",
+      "profilePath": "/2N8Xu760BTcqpxkQpVGcUvc5U9R.jpg",
+      "order": 0
+    },
+    {
+      "id": "2850d1ed-eba1-4a56-9929-e1a814a159e2",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbPersonId": 2410194,
+      "name": "Wataru Katoh",
+      "character": "Kail Muršili (voice)",
+      "profilePath": "/7PUe94Ju0klZfEutSSbdOJyaV0y.jpg",
+      "order": 1
+    },
+    {
+      "id": "635b787e-077b-46eb-af80-231aa60a6828",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbPersonId": 2409447,
+      "name": "Hiroki Nanami",
+      "character": "Satoshi Himuro / Narrator (voice)",
+      "profilePath": "/sbFtrQgkAvTMsHfQ2lrVMUJpP94.jpg",
+      "order": 2
+    },
+    {
+      "id": "94a79b25-1012-4453-b0dc-98cd25fdf905",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbPersonId": 1254835,
+      "name": "Aya Uchida",
+      "character": "Queen Nakia (voice)",
+      "profilePath": "/kqIvzWxtEl8vc5no9UOZXxiD1yn.jpg",
+      "order": 3
+    },
+    {
+      "id": "dd18bbc3-5af8-4976-a516-3f441c93dae2",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbPersonId": 1429141,
+      "name": "Shoya Chiba",
+      "character": "Zannanza Hattušili (voice)",
+      "profilePath": "/pF2urY77wuCYd9Fxh7dTirFYKSF.jpg",
+      "order": 4
+    },
+    {
+      "id": "850881f3-c041-4cba-84b0-7380bb22e599",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbPersonId": 1249235,
+      "name": "Tomoaki Maeno",
+      "character": "Ilbani (voice)",
+      "profilePath": "/w3lEuXSbEyzzNyO3YnxsF6wm2N5.jpg",
+      "order": 5
+    },
+    {
+      "id": "b5dcde6a-04a7-4b73-9335-ccb0e262ce97",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbPersonId": 555099,
+      "name": "Koji Yusa",
+      "character": "Urhi (voice)",
+      "profilePath": "/vBo8dHvZvbG4kax0LcaWvrXUZuX.jpg",
+      "order": 6
+    },
+    {
+      "id": "c841eb3e-7c2e-4005-9f26-c2304fb50183",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbPersonId": 122647,
+      "name": "Kohsuke Toriumi",
+      "character": "Prince Mattiwaza (voice)",
+      "profilePath": "/vlRQ77taCCKh7itCZn3IWJUiYQr.jpg",
+      "order": 7
+    },
+    {
+      "id": "717da7c7-e9b1-44eb-9302-131768bd1030",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbPersonId": 2734595,
+      "name": "Tomohiro Ono",
+      "character": "Kikkuri (voice)",
+      "profilePath": "/mugRR8yLYJ0k3UBXQNlXacn4byL.jpg",
+      "order": 8
+    },
+    {
+      "id": "67284c29-544e-4655-ba87-1ec9b95214a0",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbPersonId": 2412142,
+      "name": "Shiki Aoki",
+      "character": "Hadi (voice)",
+      "profilePath": "/qaM9R2f5O2vX70HM6Oj8fuyys72.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "b5a9885a-0274-4d37-aafb-adc560d28e60",
+      "tvSeriesId": "67a9bf72-7cc2-4fe7-a594-983c2d8a0b01",
+      "tmdbId": 500455,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/oD8VpMBVPorNso6y4TEKZBnfn92.jpg",
+      "airDate": "2026-07-08",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-10-24T00:36:47.861Z",
+      "updatedAt": "2026-11-14T05:25:06.852Z"
+    }
+  ]
+}

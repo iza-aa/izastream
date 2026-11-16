@@ -1,0 +1,377 @@
+{
+  "slug": "the-stunt-driver-2026",
+  "id": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+  "tmdbId": 1562777,
+  "imdbId": "tt34611096",
+  "title": "The Stunt Driver",
+  "originalTitle": "The Stunt Driver",
+  "overview": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Saint Lawrence River, hoping to achieve fame and fortune.",
+  "tagline": null,
+  "posterPath": "/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+  "backdropPath": "/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
+  "logoPath": "/k9vCHe6h3eHvO8xzkCjGdfdyd81.png",
+  "backdrops": [
+    "/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
+    "/5e67ofJqBUK9GlIIPlNalbm8PLn.jpg"
+  ],
+  "releaseDate": "2026-09-25",
+  "runtime": 99,
+  "voteAverage": "5.00",
+  "popularity": null,
+  "popularityScore": 49,
+  "originalLanguage": "en",
+  "country": "CA",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=dcbRqIuFAiE",
+  "quality": "WEB-DL",
+  "director": "Michael Dowse",
+  "directorTmdbId": 71280,
+  "directorProfilePath": "/xShST7ecFRhXY8lGGyqmTnbUuXF.jpg",
+  "productionCompanies": [
+    {
+      "id": 277287,
+      "name": "Film Cardinal",
+      "logo_path": null
+    },
+    {
+      "id": 20277,
+      "name": "Protagonist Pictures",
+      "logo_path": "/aomeUwZLIBjGXHfuZq7HTVk7UNb.png"
+    },
+    {
+      "id": 64740,
+      "name": "Mongrel Media",
+      "logo_path": "/N9CoGbHpYbA93wogwbKGN3MhDh.png"
+    },
+    {
+      "id": 157740,
+      "name": "Crave",
+      "logo_path": "/psBLfwHCfU9A4U9bWmeWF8AlSqr.png"
+    },
+    {
+      "id": 34515,
+      "name": "Canada Media Fund | Fonds des médias du Canada",
+      "logo_path": "/eHlBG6INdNO7IfsxVX1kDDBKnJi.png"
+    },
+    {
+      "id": 157741,
+      "name": "CBC Films",
+      "logo_path": "/2Ec5G6rTVSpXZB95v6rFlAfKiw4.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 40869,
+      "name": "daredevil"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 771,
+  "watchlistCount": 4,
+  "favouriteCount": 0,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-27T09:01:04.284Z",
+  "updatedAt": "2026-10-27T09:01:07.862Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+      "tmdbId": 36,
+      "name": "History",
+      "slug": "history",
+      "createdAt": "2026-04-02T13:49:17.126Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "71ba8d91-7aa1-48e4-986b-3e5790132297",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 449,
+      "name": "Jay Baruchel",
+      "character": "Ken Carter",
+      "profilePath": "/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg",
+      "order": 0
+    },
+    {
+      "id": "048aeabc-c7af-4cb5-8e3c-ae64ea0d253d",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 27105,
+      "name": "Ed Helms",
+      "character": "Dick Keller",
+      "profilePath": "/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg",
+      "order": 1
+    },
+    {
+      "id": "babbcb9f-50e5-445b-8e89-0c4cd6923d80",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 11107,
+      "name": "Ben Foster",
+      "character": "Evel Knievel",
+      "profilePath": "/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg",
+      "order": 2
+    },
+    {
+      "id": "1a885c28-dc1b-4f98-a387-3596272b7dc3",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 76877,
+      "name": "Laurence Leboeuf",
+      "character": "Gloria",
+      "profilePath": "/tbsbBn7A6tFag0eAJjH0NbnS1MX.jpg",
+      "order": 3
+    },
+    {
+      "id": "063f2532-d489-416d-8841-ea37a79a6efc",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 51389,
+      "name": "Joe Cobden",
+      "character": "Bob Fortier",
+      "profilePath": "/aI26eGubA3kFhJQNoWt4gtQyviM.jpg",
+      "order": 4
+    },
+    {
+      "id": "16c4d422-0027-4cfb-9327-9ab0a554abf0",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 1012484,
+      "name": "Marc Beaupré",
+      "character": "Danny Lafortune",
+      "profilePath": "/qGBBmUfj5xlDWK15po0axpTUm3K.jpg",
+      "order": 5
+    },
+    {
+      "id": "cc0c9811-9845-4be5-a071-3e8447dd902f",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 1183546,
+      "name": "Dan Bakkedahl",
+      "character": "Bill Wilkins",
+      "profilePath": "/zHDMTZe3Xjvut57oTZixURBNDHi.jpg",
+      "order": 6
+    },
+    {
+      "id": "206acb9f-a739-4df6-98b0-4ab38cff9e25",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 4307959,
+      "name": "Noah Labranche",
+      "character": "Seamus",
+      "profilePath": "/5Sb2tL2Nia31afwn7haYUJoESjD.jpg",
+      "order": 7
+    },
+    {
+      "id": "db4174c5-517e-40ff-b355-2fcc513f1bf3",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 2719571,
+      "name": "Derek Johns",
+      "character": "Trevor",
+      "profilePath": "/7agWChH4XehsSKxRkKHel1NdnPz.jpg",
+      "order": 8
+    },
+    {
+      "id": "10ef39e4-57e3-4b02-9f2b-5994de42d1a0",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 3579696,
+      "name": "Sophie-Thérèse Stone-Richards",
+      "character": "Goldie (Hypnotist)",
+      "profilePath": "/inB8Wjr3tAKY7vyCYWaliMXEU9W.jpg",
+      "order": 9
+    },
+    {
+      "id": "858bbdb9-bcde-44d3-8adf-9c072d2afbc7",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 51937,
+      "name": "Jonathan Cherry",
+      "character": "Ricky - Radio DJ",
+      "profilePath": "/t6aBn5Dmu64XHxA6mdL5bwJ8Qx0.jpg",
+      "order": 10
+    },
+    {
+      "id": "f58b6b1e-2bcc-447b-ab32-ef8485b1f3e1",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 5544306,
+      "name": "Mitchell Eric Cohen",
+      "character": "Eli",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "5dc583e1-9286-41a9-a5cf-812f6cf29e1e",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 1604604,
+      "name": "James Malloch",
+      "character": "Senior TV Exec",
+      "profilePath": "/69rewT8cGSHYNVkDsdfmRqNPV44.jpg",
+      "order": 12
+    },
+    {
+      "id": "cd043f22-eaee-4719-a168-e3c1c4efb03f",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 1650347,
+      "name": "Adam Capriolo",
+      "character": "Junior TV Exec",
+      "profilePath": "/ml7Mo5JHsMAoF76uUkRtt0XIx4D.jpg",
+      "order": 13
+    },
+    {
+      "id": "47f442bd-02fe-4c4b-a7c7-394b518400d0",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 930327,
+      "name": "Nobuya Shimamoto",
+      "character": "Mr. Kimura - Exec. Producer",
+      "profilePath": "/ocn3uQD9E01BTe3bQkeN9r0KE8M.jpg",
+      "order": 14
+    },
+    {
+      "id": "b0561910-d5a5-43f1-8657-7a815a6d1b26",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 1238568,
+      "name": "James Watts",
+      "character": "Crew Member (Countdown)",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "22ad12ff-89d2-4b66-b4cc-662ef3da431e",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 6108809,
+      "name": "Ross Forrest",
+      "character": "TV News Reader",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "57ed229d-ab7b-426a-a4a6-756275f10ed6",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 3846623,
+      "name": "Oliver Ocampo",
+      "character": "Gerry",
+      "profilePath": "/nOSiA3cXhTRYD4Ejq4qgSh1kHzT.jpg",
+      "order": 17
+    },
+    {
+      "id": "6158504e-1f86-4246-b0c5-14506539ce28",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 3498588,
+      "name": "Mike Rogoff",
+      "character": "Wayne",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "e24fe8da-a686-452e-a7c3-56189a02c4b9",
+      "movieId": "0d24be96-b07f-4810-a0fe-eda70f3dbd0d",
+      "tmdbPersonId": 6509120,
+      "name": "François Ziadé",
+      "character": "National Wild Cat #1",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

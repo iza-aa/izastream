@@ -1,0 +1,453 @@
+{
+  "slug": "blue-lagoon-the-awakening-2012",
+  "id": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+  "tmdbId": 115290,
+  "imdbId": "tt2287663",
+  "title": "Blue Lagoon: The Awakening",
+  "originalTitle": "Blue Lagoon: The Awakening",
+  "overview": "Two high school students become stranded on a tropical island and must rely on each other for survival. They learn more about themselves and each other while falling in love.",
+  "tagline": null,
+  "posterPath": "/ptsBY9Aqo4Mn0V1krI5s8WfFxzW.jpg",
+  "backdropPath": "/7VSh4KRB38gs4t4Dlub8GwXNUub.jpg",
+  "logoPath": "/lJOlufLHrnaivjWKoMmE4UMs4HO.png",
+  "backdrops": [
+    "/7VSh4KRB38gs4t4Dlub8GwXNUub.jpg",
+    "/9g1VqNK9x6dCtyguYqLTLP2QHpB.jpg",
+    "/gwLG5V3u9WgMUodGaquvCuWM7FR.jpg",
+    "/eXUQBTI0cgDFw4pT7PY4mRXC82v.jpg",
+    "/i3AAQuCGYG6VzjdSyIZckdiqAfs.jpg",
+    "/fOMPr3MpZkrJEYcT5f3kI1JwESg.jpg",
+    "/ld1tr3XII99uwnILjTjwmgfZGL5.jpg",
+    "/5HaNrWPKehsagv1En6p1Odn3wjb.jpg",
+    "/ZVtmfAeyoRQqHfhWvKVW0e0Mep.jpg"
+  ],
+  "releaseDate": "2012-06-16",
+  "runtime": 85,
+  "voteAverage": "6.45",
+  "popularity": null,
+  "popularityScore": 1676,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=0pMqAbdvrfo",
+  "quality": "WEB-DL",
+  "director": "Jake Newsome",
+  "directorTmdbId": 1061511,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 8899,
+      "name": "Peace Out Productions",
+      "logo_path": null
+    },
+    {
+      "id": 12799,
+      "name": "SilverScreen Pictures",
+      "logo_path": "/mRkrTKpJswgIRmMVX8pYt0t6FGU.png"
+    },
+    {
+      "id": 11073,
+      "name": "Sony Pictures Television",
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png"
+    },
+    {
+      "id": 8797,
+      "name": "Storyline Entertainment",
+      "logo_path": "/4mrkWRV6JWYQbP6qV8pyP7ji6tO.png"
+    },
+    {
+      "id": 3431,
+      "name": "Lifetime",
+      "logo_path": "/bVTF0p5xlPfQhQIuBLr9BFtrKip.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 10349,
+      "name": "survival"
+    },
+    {
+      "id": 9743,
+      "name": "stranded"
+    },
+    {
+      "id": 10792,
+      "name": "marooned"
+    },
+    {
+      "id": 33910,
+      "name": "high school student"
+    },
+    {
+      "id": 155746,
+      "name": "deserted island"
+    },
+    {
+      "id": 157524,
+      "name": "tropical island"
+    },
+    {
+      "id": 167861,
+      "name": "caribbean sea"
+    },
+    {
+      "id": 179578,
+      "name": "lost at sea"
+    },
+    {
+      "id": 220815,
+      "name": "unassuming"
+    },
+    {
+      "id": 290395,
+      "name": "casual"
+    },
+    {
+      "id": 309426,
+      "name": "understated"
+    },
+    {
+      "id": 319319,
+      "name": "sentimental"
+    },
+    {
+      "id": 324429,
+      "name": "romantic"
+    },
+    {
+      "id": 325805,
+      "name": "embarrassed"
+    },
+    {
+      "id": 325809,
+      "name": "enthusiastic"
+    },
+    {
+      "id": 325819,
+      "name": "frustrated"
+    },
+    {
+      "id": 325853,
+      "name": "sympathetic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 19058,
+  "watchlistCount": 42,
+  "favouriteCount": 17,
+  "shareCount": 3,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:28:34.281Z",
+  "updatedAt": "2026-10-05T17:39:05.177Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "1c2d786d-320e-4cad-83bb-132b219ff7ff",
+      "tmdbId": 10770,
+      "name": "TV Movie",
+      "slug": "tv-movie",
+      "createdAt": "2026-04-02T13:51:04.105Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "bf7dfe8f-4948-402d-abdc-21e24de19062",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 214556,
+      "name": "Indiana Evans",
+      "character": "Emmaline 'Emma' Robinson",
+      "profilePath": "/3M03u4NwdRhaHZ4S4vM9K8dxkWw.jpg",
+      "order": 0
+    },
+    {
+      "id": "7b42b92c-c3fe-405a-a23e-039f5a554196",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 1017347,
+      "name": "Brenton Thwaites",
+      "character": "Dean McMullen",
+      "profilePath": "/4jrtVjdIGJpmgevEPRuIIU9HWcO.jpg",
+      "order": 1
+    },
+    {
+      "id": "277c7433-0070-4dba-853f-3dfe8fb9686c",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 9205,
+      "name": "Denise Richards",
+      "character": "Barbara Robinson",
+      "profilePath": "/i1MDAhdjiqXWwEhr7ujnlk8ksdl.jpg",
+      "order": 2
+    },
+    {
+      "id": "ac5ff15d-1c06-42b8-b2ef-b81f0e866a64",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 117437,
+      "name": "Patrick St. Esprit",
+      "character": "Jack McMullen",
+      "profilePath": "/1yrW51oGJEElYqG3BzX0N1Ky7Rd.jpg",
+      "order": 3
+    },
+    {
+      "id": "6037553d-8877-4f48-aaea-2de8edb861b1",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 9275,
+      "name": "Frank John Hughes",
+      "character": "Phil Robinson",
+      "profilePath": "/cPlPRD36uPNYMlPeoHjvmOc60iX.jpg",
+      "order": 4
+    },
+    {
+      "id": "6df71593-f91d-4ab9-b5a3-814865f8494f",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 1061512,
+      "name": "Alix Elizabeth Gitter",
+      "character": "Lizzie",
+      "profilePath": "/A5z0sG9g5l5TY3tHEsZmeyECVuK.jpg",
+      "order": 5
+    },
+    {
+      "id": "2f893643-5c85-4c75-ab17-d2e301fa87ed",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 1354992,
+      "name": "Carrie Wampler",
+      "character": "Stacey Robinson",
+      "profilePath": "/iV9ddPU79P0K2hfjcktxgo4YByw.jpg",
+      "order": 6
+    },
+    {
+      "id": "10d06fc8-87fa-4ca7-a9e0-fcdeb95ac056",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 89109,
+      "name": "Hayley Kiyoko",
+      "character": "Helen",
+      "profilePath": "/1Ce8otFMEGn8uTEF5ZpaTxPDcag.jpg",
+      "order": 7
+    },
+    {
+      "id": "792035ea-1084-4830-899c-51faecda9918",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 1224238,
+      "name": "Aimee Carrero",
+      "character": "Jude",
+      "profilePath": "/jp9L7d3cGMYvPEaFnqfot7Et4Ga.jpg",
+      "order": 8
+    },
+    {
+      "id": "dd488e19-692c-42be-96b0-21dd87829bc8",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 77826,
+      "name": "Annie Tedesco",
+      "character": "Ms. Collier",
+      "profilePath": "/o1zV8FBuSH4r7WnP5OqsjbA3cFt.jpg",
+      "order": 9
+    },
+    {
+      "id": "04ad52ea-4cb0-474b-a5e2-c3ac9f612b97",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 42740,
+      "name": "Christopher Atkins",
+      "character": "Mr. Christiansen",
+      "profilePath": "/jLuwUuLaPaLYHUJ8pqzNwnr2IyG.jpg",
+      "order": 10
+    },
+    {
+      "id": "a0946820-e357-4f71-bedd-d86fec7fa54e",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 1074888,
+      "name": "Jacob Artist",
+      "character": "Stephen Sullivan",
+      "profilePath": "/z3babWCqw7ewVqoz5tQ2hNIJLwC.jpg",
+      "order": 11
+    },
+    {
+      "id": "bf9d661f-f7b2-4324-b3f1-b1624415e850",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 31534,
+      "name": "Marcus Giamatti",
+      "character": "Principal Thomas",
+      "profilePath": "/inA30birgxG7TvWXLBgCSIR2BZ5.jpg",
+      "order": 12
+    },
+    {
+      "id": "86be3aef-5af6-4517-8b25-5b10e98008a8",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 2846704,
+      "name": "Brendan Calton",
+      "character": "Sam Leifer",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "880b0dc3-bdbc-4613-b310-a0bed6cfc61a",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 1563891,
+      "name": "Rick Chambers",
+      "character": "Reporter",
+      "profilePath": "/tN0lahOeqUd9XEecFKA8JYeTBh1.jpg",
+      "order": 14
+    },
+    {
+      "id": "8b3ab623-3cab-4641-a7a6-1b6b21c1256c",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 1219603,
+      "name": "Christine Clayburg",
+      "character": "CNN Reporter",
+      "profilePath": "/sqlZmVnHUa6g2A3I54XJ6ouuxhs.jpg",
+      "order": 15
+    },
+    {
+      "id": "86aae810-504d-4e57-a083-8b6c2d0ee7f7",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 111653,
+      "name": "Danielle Demski",
+      "character": "Reporter #2",
+      "profilePath": "/jTOncbsmiSGxwNUoOVcGYbTxlJU.jpg",
+      "order": 16
+    },
+    {
+      "id": "e4e074c9-f4ef-47de-ad33-cc27b961848b",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 177403,
+      "name": "James Moses Black",
+      "character": "Pilot",
+      "profilePath": "/o0rN6xcYaBD1OKwc5oaoPavqv1o.jpg",
+      "order": 17
+    },
+    {
+      "id": "a7d7a44d-a8fa-4542-ac11-8f9229589aa0",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 1775891,
+      "name": "Sharon Ferguson",
+      "character": "Govt. Official",
+      "profilePath": "/11NYDNPJccPzb7zKfZYhBkNokae.jpg",
+      "order": 18
+    },
+    {
+      "id": "6b32e8cc-254e-495f-b39c-7d0991172b66",
+      "movieId": "9c6ae1b7-43a0-4dc2-a8ea-304df00a7e7a",
+      "tmdbPersonId": 2918240,
+      "name": "Eric Bivens-Bush",
+      "character": "Police Officer #1",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "user123",
+    "displayName": "john"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

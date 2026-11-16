@@ -1,0 +1,40 @@
+{
+  "slug": "physical-100-italy-2026",
+  "id": "d35cc7c1-7d5b-4d54-a5ec-b3123de77bdf",
+  "title": "Physical 100: Italy",
+  "overview": "One hundred Italian athletes face brutal physical challenges, each battling to outlast the rest and claim the glory of becoming the one true champion.",
+  "tagline": null,
+  "posterPath": "/AtYUDT5nEoFDOtR464mFlZCfcB5.jpg",
+  "backdropPath": "/li2io9zeJYJNWAf41J7fQIPtBR5.jpg",
+  "logoPath": "/yi4jwctlDxzahIbVQ8gAX9FmQGx.png",
+  "firstAirDate": "2026-09-11",
+  "voteAverage": "7.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    }
+  ],
+  "cast": [],
+  "seasons": [
+    {
+      "id": "c68eeab6-1dc2-49bc-8f24-d747d463c42d",
+      "tvSeriesId": "d35cc7c1-7d5b-4d54-a5ec-b3123de77bdf",
+      "tmdbId": 519615,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/qRAZFI3lEGnhbmhnMtIVWJByTzy.jpg",
+      "airDate": "2026-09-11",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-06T20:38:45.991Z",
+      "updatedAt": "2026-10-06T20:41:21.818Z"
+    }
+  ]
+}

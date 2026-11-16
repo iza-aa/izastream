@@ -1,0 +1,102 @@
+{
+  "slug": "the-vacation-principle-2026",
+  "id": "66f8826d-f2a0-4a0e-bf7a-dbb212e47dcc",
+  "title": "The Vacation Principle",
+  "overview": "After losing her job, a woman retreats to her late grandmother's seaside villa, where an unexpected friendship with its mysterious caretaker helps her heal and embrace a new beginning.",
+  "tagline": null,
+  "posterPath": "/wc9IbG1FkxzGGSkrP3kxUDpt2Ls.jpg",
+  "backdropPath": "/laZKQVzGS2quLi1iEAbuA6IxYk8.jpg",
+  "logoPath": "/9nZ8dFLgzCiGP62WsKUFEWSnIAk.png",
+  "firstAirDate": "2026-07-27",
+  "voteAverage": "4.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "bf4bd5d9-9517-4310-85bb-8b9136dc832b",
+      "tvSeriesId": "66f8826d-f2a0-4a0e-bf7a-dbb212e47dcc",
+      "tmdbPersonId": 1062343,
+      "name": "Kanna Hashimoto",
+      "character": "Midori Hoshino",
+      "profilePath": "/1eKG26loLiLDPsnNwpIAoTU1Tfa.jpg",
+      "order": 0
+    },
+    {
+      "id": "b810cacb-85fc-427c-8256-34236e551dd1",
+      "tvSeriesId": "66f8826d-f2a0-4a0e-bf7a-dbb212e47dcc",
+      "tmdbPersonId": 2934419,
+      "name": "Chae Jong-hyeop",
+      "character": "Nishigami",
+      "profilePath": "/eFlwUjihobBpGKeRqGUV3NSZP0G.jpg",
+      "order": 1
+    },
+    {
+      "id": "17fffbbc-5385-4c6a-8325-f30e07397a67",
+      "tvSeriesId": "66f8826d-f2a0-4a0e-bf7a-dbb212e47dcc",
+      "tmdbPersonId": 96477,
+      "name": "Ryo Katsuji",
+      "character": "Konta Hoshino",
+      "profilePath": "/tVQo2qd93fdYBl6lc9STDhEI6x1.jpg",
+      "order": 2
+    },
+    {
+      "id": "d51c8114-03db-4179-95d7-1df5c323d873",
+      "tvSeriesId": "66f8826d-f2a0-4a0e-bf7a-dbb212e47dcc",
+      "tmdbPersonId": 2094067,
+      "name": "Mizuki Yamashita",
+      "character": "Rinrin",
+      "profilePath": "/9KAYl1soeS9DQ8Lr3Q4PiULHVz8.jpg",
+      "order": 3
+    },
+    {
+      "id": "8f9830a4-a203-4db3-bc92-35725566204e",
+      "tvSeriesId": "66f8826d-f2a0-4a0e-bf7a-dbb212e47dcc",
+      "tmdbPersonId": 3510927,
+      "name": "Aiko Kano",
+      "character": "Tsumugi",
+      "profilePath": "/2v3VW0IRgHPoGIhZY2WOgM4HrMY.jpg",
+      "order": 4
+    },
+    {
+      "id": "9479747e-47d9-4fe9-a171-26cc8c59ca66",
+      "tvSeriesId": "66f8826d-f2a0-4a0e-bf7a-dbb212e47dcc",
+      "tmdbPersonId": 936282,
+      "name": "Dori Sakurada",
+      "character": "Tetsuro",
+      "profilePath": "/pQHayu4kmoJ8T7ebKsGBc7egHCa.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "9cd815e6-f495-429e-b589-120628ac6f88",
+      "tvSeriesId": "66f8826d-f2a0-4a0e-bf7a-dbb212e47dcc",
+      "tmdbId": 509775,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/jh3ia7esrJcZhQSzDVXIsBivYIS.jpg",
+      "airDate": "2026-07-27",
+      "episodeCount": 18,
+      "isPublished": true,
+      "createdAt": "2026-09-24T18:46:17.339Z",
+      "updatedAt": "2026-09-24T18:48:03.470Z"
+    }
+  ]
+}

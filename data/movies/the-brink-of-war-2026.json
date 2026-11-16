@@ -1,0 +1,390 @@
+{
+  "slug": "the-brink-of-war-2026",
+  "id": "77782f16-c640-4445-a1e2-0b247c8136af",
+  "tmdbId": 192139,
+  "imdbId": "tt33070884",
+  "title": "The Brink of War",
+  "originalTitle": "The Brink of War",
+  "overview": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals—or ignite disaster. With pressure mounting on all sides, every word spoken brings the world closer to peace... or destruction.",
+  "tagline": "Not all battles are fought with bullets.",
+  "posterPath": "/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
+  "backdropPath": "/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+  "logoPath": "/eK12frHpxejeWQ5uVGRsskKjpId.png",
+  "backdrops": [
+    "/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+    "/3vmmV0ll2btrg5JYnNJaXYBOzcH.jpg",
+    "/pyOVG32JevYR0mltVlDvWwDL88F.jpg",
+    "/pw8qAlMStYzJrWDrivXecWrOoY3.jpg",
+    "/aY4xBQ0wgXubQ2H65vrHfLY234m.jpg",
+    "/3mfR371qUQ2PpCJjAc3YEbOY2Wy.jpg",
+    "/zZWTyUZ0n1wOipE4HQNkExcXSXB.jpg",
+    "/8H7Mx10BWvxxq5qKHkwzQ6KUHX0.jpg"
+  ],
+  "releaseDate": "2026-08-14",
+  "runtime": 119,
+  "voteAverage": "7.60",
+  "popularity": null,
+  "popularityScore": 57,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=a-T0TlMN-RE",
+  "quality": "WEB-DL",
+  "director": "Michael Russell Gunn",
+  "directorTmdbId": 1715739,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 223271,
+      "name": "2521 Entertainment",
+      "logo_path": "/2Rc6Dvg3tpIfDzgQE6ycWxNj0kT.png"
+    },
+    {
+      "id": 124283,
+      "name": "SK Global Entertainment",
+      "logo_path": "/s0pkrY33hW7VQgnqzhLhbIVg0F4.png"
+    },
+    {
+      "id": 295599,
+      "name": "Designed Epic",
+      "logo_path": null
+    },
+    {
+      "id": 165435,
+      "name": "Angel Studios",
+      "logo_path": "/pDh2WDdOajWST9jlkFo6TOvETnB.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2106,
+      "name": "cold war"
+    },
+    {
+      "id": 8646,
+      "name": "ronald reagan"
+    },
+    {
+      "id": 173631,
+      "name": "mikhail gorbachev"
+    },
+    {
+      "id": 208289,
+      "name": "1980s"
+    },
+    {
+      "id": 230622,
+      "name": "political struggle"
+    },
+    {
+      "id": 249794,
+      "name": "reykjavík, iceland"
+    },
+    {
+      "id": 281237,
+      "name": "independent film"
+    },
+    {
+      "id": 323656,
+      "name": "conservative propaganda"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 6356,
+  "watchlistCount": 40,
+  "favouriteCount": 7,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-03T19:19:53.498Z",
+  "updatedAt": "2026-09-03T19:20:01.288Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+      "tmdbId": 36,
+      "name": "History",
+      "slug": "history",
+      "createdAt": "2026-04-02T13:49:17.126Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b299aed9-46fa-416a-a42a-e98736ba38a5",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 8447,
+      "name": "Jeff Daniels",
+      "character": "Ronald Reagan",
+      "profilePath": "/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg",
+      "order": 0
+    },
+    {
+      "id": "ad108b05-62e8-48c5-ae0d-4edcda2ac4e5",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 15440,
+      "name": "Jared Harris",
+      "character": "Mikhail Gorbachev",
+      "profilePath": "/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg",
+      "order": 1
+    },
+    {
+      "id": "8b105870-b8cd-48bf-8d84-d5420ecb268f",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 18999,
+      "name": "J.K. Simmons",
+      "character": "George Shultz",
+      "profilePath": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg",
+      "order": 2
+    },
+    {
+      "id": "b6e084e3-6b78-451b-8584-d30f8f8271bb",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 15250,
+      "name": "Hope Davis",
+      "character": "Nancy Reagan",
+      "profilePath": "/t2cuZK3D4x2j2DaDbD5lu0SM2Lv.jpg",
+      "order": 3
+    },
+    {
+      "id": "477e81bf-ea48-4213-aaaf-e6c86209d55f",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 15268,
+      "name": "Branka Katić",
+      "character": "Raisa Gorbachev",
+      "profilePath": "/z6g9uFbrytRr5TAc7eVSIipe3ds.jpg",
+      "order": 4
+    },
+    {
+      "id": "2570ff30-d45c-456c-a03b-c5588d8cf2d5",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 133451,
+      "name": "Aya Cash",
+      "character": "Cleo",
+      "profilePath": "/xUqelq0tht436iAahA4oLupSbK0.jpg",
+      "order": 5
+    },
+    {
+      "id": "f98a060a-e4af-4da5-ae7f-39556db79485",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 545195,
+      "name": "Guy Burnet",
+      "character": "Alexander",
+      "profilePath": "/ksxpXRLJplv8kSfEHPYdboIwNfi.jpg",
+      "order": 6
+    },
+    {
+      "id": "76772508-9602-42f4-b57a-68e7401d9b41",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 1643,
+      "name": "Adrian Rawlins",
+      "character": "Max Rampleman",
+      "profilePath": "/G0PGZqTjenuVTAQiib4ScU7vAI.jpg",
+      "order": 7
+    },
+    {
+      "id": "86d71faa-1e7d-4709-a86c-6ebaf33fadea",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 49965,
+      "name": "Tim Dutton",
+      "character": "Edward Shevardnadze",
+      "profilePath": "/xOUvw3ULpTeAXh4g1QR2gPwIsbT.jpg",
+      "order": 8
+    },
+    {
+      "id": "c8c9f339-0c08-4d28-9514-90d613f6499c",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 17781,
+      "name": "Stephen Brennan",
+      "character": "Paul Nitze",
+      "profilePath": "/xNZ8mV3tnuBb9XJ81X1Aqod0VKB.jpg",
+      "order": 9
+    },
+    {
+      "id": "f857e30a-bd6b-4264-86ef-dc7da36603d1",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 238164,
+      "name": "Jóhannes Haukur Jóhannesson",
+      "character": "Richard Perle",
+      "profilePath": "/oqZftP0WS1rD5NFpR7vLp6JU52I.jpg",
+      "order": 10
+    },
+    {
+      "id": "61124642-ec65-407e-bd0a-dbe0d126d968",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 55425,
+      "name": "John Ross Bowie",
+      "character": "Ken Adelman",
+      "profilePath": "/XAv1RilHZu7qiGGIOgikrLgHeD.jpg",
+      "order": 11
+    },
+    {
+      "id": "2f45c0dc-3cea-4030-acd3-4981c99c701c",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 981162,
+      "name": "Catherine Burdon",
+      "character": "Margaret Clancy",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "a0af9a2a-53f6-4c29-b3ad-0cb54b8145c4",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 1104951,
+      "name": "Joi Johannsson",
+      "character": "KGB Colonel",
+      "profilePath": "/mXkaCKZDlUXvLWxabCgsURnBzvy.jpg",
+      "order": 13
+    },
+    {
+      "id": "78abc809-5de2-4638-a3f5-97cc3f37e731",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 4814137,
+      "name": "Ari Freyr Isfeld Oskarsson",
+      "character": "KGB Officer",
+      "profilePath": "/1LfEUK3jIM9riqCK3HR5NelWHqQ.jpg",
+      "order": 14
+    },
+    {
+      "id": "31afabcd-85d7-4af4-8894-a609c060a139",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 1184538,
+      "name": "Jóel Sæmundsson",
+      "character": "CIA Officer",
+      "profilePath": "/hzIN2vslNIGEAbQqFBK3zHe5QMG.jpg",
+      "order": 15
+    },
+    {
+      "id": "a16247f9-12a1-4dc8-a8e5-63ff69293ea5",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 19898,
+      "name": "Vladimir Kulich",
+      "character": "Sergey Akhromeyev",
+      "profilePath": "/z6pfLx4kJvqWj501SIxExu6rYFi.jpg",
+      "order": 16
+    },
+    {
+      "id": "056e551a-3c72-410a-98a8-386fbb078fe2",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 1454817,
+      "name": "Hjörtur Jóhann Jónsson",
+      "character": "Major Alexei Ivanov",
+      "profilePath": "/wMvpxJtnmzvanK90H3w5ngXSqO5.jpg",
+      "order": 17
+    },
+    {
+      "id": "c2686248-7226-4e5b-b06d-df65bbf80c03",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 6413012,
+      "name": "Sigurdur Jefferson",
+      "character": "Colonel Tim Schilling",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "9e63a49a-3965-420a-9a8f-46b152e59a8a",
+      "movieId": "77782f16-c640-4445-a1e2-0b247c8136af",
+      "tmdbPersonId": 3291762,
+      "name": "Kristín Lea Sigríðardóttir",
+      "character": "Soviet Attaché",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

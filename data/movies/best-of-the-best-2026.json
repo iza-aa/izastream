@@ -1,0 +1,317 @@
+{
+  "slug": "best-of-the-best-2026",
+  "id": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+  "tmdbId": 1514863,
+  "imdbId": "tt16478058",
+  "title": "Best of the Best",
+  "originalTitle": "Best of the Best",
+  "overview": "Two childhood best friends, Maya and Anjali, join their college’s competitive Bollywood dance team only to discover that the road to winning the national championship is far more raucous and cutthroat than they ever imagined.",
+  "tagline": "It takes two to take over.",
+  "posterPath": "/Zm5i6MmXp5cfIT3LffiuAX1uZ6.jpg",
+  "backdropPath": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+  "logoPath": "/sYUyAtjok4sy1Fl04giFbIbF9ns.png",
+  "backdrops": [
+    "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+    "/kfYqXPhRXb468Ptyct6waG1HMIm.jpg",
+    "/8moRH8cIm5FJQyVDCO0jiDNKFnR.jpg",
+    "/omiqYAsIpyVekGnunkAaF2HCwg1.jpg",
+    "/kK86PRDyWvswQuofytNJhXLRkSd.jpg",
+    "/c6goG4uvYwCAFKJqqSXkZLR9na4.jpg",
+    "/jiwhifEC3HanXfkK9T8oNSpVIpX.jpg",
+    "/2UZY8VeZUwwG38rrIgKvaAZgMB.jpg",
+    "/l66G12NvVhkpm02CHWJteA7nJUb.jpg"
+  ],
+  "releaseDate": "2026-09-18",
+  "runtime": null,
+  "voteAverage": "0.00",
+  "popularity": null,
+  "popularityScore": 52,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=PuNATO-6a9U",
+  "quality": "WEB-DL",
+  "director": "Lena Khan",
+  "directorTmdbId": 1457228,
+  "directorProfilePath": "/sQMpcGK9k0dwooB6RS14QgwXqtm.jpg",
+  "productionCompanies": [
+    {
+      "id": 183717,
+      "name": "186K Films",
+      "logo_path": null
+    },
+    {
+      "id": 118854,
+      "name": "Rideback",
+      "logo_path": "/g9LPNlQFoDcHjfnvrEqFmeIaDrZ.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5248,
+      "name": "female friendship"
+    },
+    {
+      "id": 325767,
+      "name": "apathetic"
+    },
+    {
+      "id": 342753,
+      "name": "tamil"
+    },
+    {
+      "id": 355620,
+      "name": "srilankan"
+    },
+    {
+      "id": 355622,
+      "name": "bollywood"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 3631,
+  "watchlistCount": 44,
+  "favouriteCount": 13,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-18T17:01:35.267Z",
+  "updatedAt": "2026-09-18T17:01:40.482Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1e3f5154-bd5d-472b-a1ec-fed707942231",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 2602879,
+      "name": "Maitreyi Ramakrishnan",
+      "character": "Maya",
+      "profilePath": "/dkhYjeCU5ByYKxAr2wtXz20vb60.jpg",
+      "order": 0
+    },
+    {
+      "id": "61f10725-9b7f-4739-aef9-8d9e644818b2",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 5065456,
+      "name": "Priyanka Kedia",
+      "character": "Anjali",
+      "profilePath": "/trd4RCbywJ76wW5RoZbhKkt3kiP.jpg",
+      "order": 1
+    },
+    {
+      "id": "41422939-078f-493d-b10f-c54f6869400e",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 552252,
+      "name": "Hasan Minhaj",
+      "character": "",
+      "profilePath": "/6vHHhLnbKBCPmYc90qAV2Cde95F.jpg",
+      "order": 2
+    },
+    {
+      "id": "8576bbeb-8efe-49b4-bb9b-727400df4ee7",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 2223751,
+      "name": "Chaneil Kular",
+      "character": "",
+      "profilePath": "/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg",
+      "order": 3
+    },
+    {
+      "id": "281051c7-d7e4-4885-9c62-16110ecf0e78",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 2707475,
+      "name": "Ankur Rathee",
+      "character": "",
+      "profilePath": "/5ZR7jiE4cGhaM6ZqBS6R7N7h5Q7.jpg",
+      "order": 4
+    },
+    {
+      "id": "07bb5ff2-2d64-4a75-a98e-98b0dba26d50",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 3221816,
+      "name": "Shreya Navile",
+      "character": "",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "fec258ec-f80b-47d6-9084-8e13191085d8",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 5650364,
+      "name": "Becky Alex",
+      "character": "",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "b7d603d7-067d-49b2-96de-6104b3bc202f",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 4224830,
+      "name": "Nihar Duvvuri",
+      "character": "",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "f60cbe6b-66f4-4c9e-ab65-5d16a2aa6ab7",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 1720948,
+      "name": "Nico Greetham",
+      "character": "",
+      "profilePath": "/xiF00qwPVP7FaKWZOAKckQbuSwx.jpg",
+      "order": 8
+    },
+    {
+      "id": "d2f73e3f-32b1-4e58-9733-fdce2db00b19",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 5391942,
+      "name": "Amryn Khurana",
+      "character": "",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "300fa424-4642-4d2f-8d2e-eb3bdbd78be8",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 4533848,
+      "name": "Tanishq Joshi",
+      "character": "",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "b6491511-3bf2-4925-afb4-5580408b3318",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 1576058,
+      "name": "Lilly Singh",
+      "character": "",
+      "profilePath": "/5dBOPUqrYIZuKRqpKRsHBdERclp.jpg",
+      "order": 11
+    },
+    {
+      "id": "8a20f9dd-630d-4bc5-8eea-deeecd26fb0b",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 5112643,
+      "name": "Sasha Bhasin",
+      "character": "",
+      "profilePath": "/ntgc8whncHWK0xmqItVMmjZaYtx.jpg",
+      "order": 12
+    },
+    {
+      "id": "6794c4a7-9b38-4f97-98bf-b2570fadf9a9",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 210665,
+      "name": "Janina Gavankar",
+      "character": "",
+      "profilePath": "/pvywjGmHdJFuR0DLmrGbrii6MKm.jpg",
+      "order": 13
+    },
+    {
+      "id": "057af888-8943-4aa5-b550-ba19cf4fc8ce",
+      "movieId": "3986b13c-ff5d-4267-81d4-6b65850d5f5a",
+      "tmdbPersonId": 1739118,
+      "name": "Saara Chaudry",
+      "character": "",
+      "profilePath": "/1KRvpuItpOs3YtUix24TNDzkgyo.jpg",
+      "order": 14
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

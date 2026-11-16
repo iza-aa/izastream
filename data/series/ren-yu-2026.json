@@ -1,0 +1,138 @@
+{
+  "slug": "ren-yu-2026",
+  "id": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+  "title": "Ren Yu",
+  "overview": "A missing person case forces three girls from different walks of life to face life-altering choices, exposing the ups and downs of an ordinary family. The story intertwines the light and dark sides of the city—above ground and in the underground tunnels. As one girl navigates these challenges alone, she uncovers the truth, finds redemption, and moves toward a hopeful future.",
+  "tagline": null,
+  "posterPath": "/4IpHyI5sbQn4P9npBFoZgzKJX3c.jpg",
+  "backdropPath": "/5sRWeNwujN5d7Zm6pv8PShcwoND.jpg",
+  "logoPath": "/w9eZeP4LhPwvjYYRDg6PdIcNP6g.png",
+  "firstAirDate": "2026-08-04",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7a33456e-f8af-4863-8d74-24fa0791cd03",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbPersonId": 3369916,
+      "name": "Huangyang Tiantian",
+      "character": "Su Lin",
+      "profilePath": "/iRLjxCAWVjJTcmwt6dIG92zkItC.jpg",
+      "order": 0
+    },
+    {
+      "id": "dfe48bcd-1663-496b-88af-680b8ec4fac9",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbPersonId": 52899,
+      "name": "Dong Yong",
+      "character": "Gu Hao",
+      "profilePath": "/f5iYGoPA3wZ2APo6nwvGLWAAtqG.jpg",
+      "order": 1
+    },
+    {
+      "id": "6aa18859-dc82-4c9c-8266-bb97b8dac0d6",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbPersonId": 2809076,
+      "name": "Zhang Kaitai",
+      "character": "Tai Wei",
+      "profilePath": "/83cX3TlEfLC0ux1vdllNiDv2hXn.jpg",
+      "order": 2
+    },
+    {
+      "id": "cb140f67-c167-491f-bea7-d900fa83357d",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbPersonId": 4548928,
+      "name": "He Sitian",
+      "character": "Jiang Ting",
+      "profilePath": "/je5IacgFOPMsXA4sBx3oYMIoaP7.jpg",
+      "order": 3
+    },
+    {
+      "id": "dd8d5010-fecb-4bf3-a93d-57678d14c9a0",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbPersonId": 4356729,
+      "name": "Duan Yu",
+      "character": "Ma Na",
+      "profilePath": "/kXvlNJIh00XnlsRgBEy0F65AENq.jpg",
+      "order": 4
+    },
+    {
+      "id": "f4baff80-cfea-4e15-8e93-97b64ee4b7ef",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbPersonId": 2065137,
+      "name": "Xue Jianing",
+      "character": "Han Mei",
+      "profilePath": "/mkHGtmbkOKBeU0gR4cYT5z8Fi18.jpg",
+      "order": 5
+    },
+    {
+      "id": "075d9595-c4aa-4a76-a698-7781f63ed7f0",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbPersonId": 2920461,
+      "name": "Zhang Yanyan",
+      "character": "Du Qian",
+      "profilePath": "/kjz9dl25oi1stWmb7TVnBSBP51y.jpg",
+      "order": 6
+    },
+    {
+      "id": "43105428-a7aa-4b30-b5c9-c14a3d6b60f7",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbPersonId": 1481393,
+      "name": "Zhao Jian",
+      "character": "Vincent",
+      "profilePath": "/zrqnzoA3ToEXn9dF3vtHnaTaHnT.jpg",
+      "order": 7
+    },
+    {
+      "id": "f27b805b-0e3e-44c7-9b61-ce44aa6d9679",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbPersonId": 237818,
+      "name": "Liu Zi",
+      "character": "",
+      "profilePath": "/CMZilq6KCabtatogMkjzbxtZX1.jpg",
+      "order": 8
+    },
+    {
+      "id": "522657c9-0f65-471d-a961-308e68769e52",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbPersonId": 2027655,
+      "name": "Zhang Fan",
+      "character": "Ma Dongchen",
+      "profilePath": "/rsESxwWDrHpakybSNO7AtHaI35y.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "af92a049-45d8-4100-b6b4-f6fa0422014a",
+      "tvSeriesId": "08d00e1b-0625-4149-958d-63fc2f6189bc",
+      "tmdbId": 421250,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/nrhVxFqZ5hkAkFAsb1FcabOpQFh.jpg",
+      "airDate": "2026-08-04",
+      "episodeCount": 22,
+      "isPublished": true,
+      "createdAt": "2026-08-27T15:57:47.827Z",
+      "updatedAt": "2026-08-27T16:01:22.879Z"
+    }
+  ]
+}

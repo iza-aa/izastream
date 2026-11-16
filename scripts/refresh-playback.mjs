@@ -411,7 +411,9 @@ const exchange = await evaluate(`(async () => {
   const contentId = ${JSON.stringify(contentId)};
   const playType = ${JSON.stringify(playType)};
   const infoRes = await fetch('/api/watch/play-info/' + playType + '/' + contentId, { headers: { accept: 'application/json' } });
-  const info = await infoRes.json();
+  const infoText = await infoRes.text();
+  let info = null;
+  try { info = JSON.parse(infoText); } catch { info = infoText; }
   if (!infoRes.ok) return { stage: 'play-info', status: infoRes.status, body: info };
   await new Promise(resolve => setTimeout(resolve, Math.max(0, (info.unlockAt ?? info.serverNow) - info.serverNow + 150)));
   const claimRes = await fetch('/api/watch/session/claim', {
@@ -419,15 +421,19 @@ const exchange = await evaluate(`(async () => {
     headers: { 'content-type': 'application/json', accept: 'application/json' },
     body: JSON.stringify({ gateToken: info.gateToken })
   });
-  const claim = await claimRes.json();
+  const claimText = await claimRes.text();
+  let claim = null;
+  try { claim = JSON.parse(claimText); } catch { claim = claimText; }
   if (!claimRes.ok) return { stage: 'claim', status: claimRes.status, body: claim };
   const redeemRes = await fetch(claim.redeemUrl, {
     method: 'POST',
     headers: { 'content-type': 'application/json' },
     body: JSON.stringify({ claim: claim.claim, mode: 'browser' })
   });
-  const redeem = await redeemRes.json();
-  if (!redeemRes.ok || redeem.code !== 'ok') return { stage: 'redeem', status: redeemRes.status, body: redeem };
+  const redeemText = await redeemRes.text();
+  let redeem = null;
+  try { redeem = JSON.parse(redeemText); } catch { redeem = redeemText; }
+  if (!redeemRes.ok || redeem?.code !== 'ok') return { stage: 'redeem', status: redeemRes.status, body: redeem };
   return { stage: 'ok', info, claim, redeem };
 })()`);
 

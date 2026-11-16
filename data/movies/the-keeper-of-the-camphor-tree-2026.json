@@ -1,0 +1,346 @@
+{
+  "slug": "the-keeper-of-the-camphor-tree-2026",
+  "id": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+  "tmdbId": 1461201,
+  "imdbId": "tt36461929",
+  "title": "The Keeper of the Camphor Tree",
+  "originalTitle": "クスノキの番人",
+  "overview": "Reito Naoi, a young man fired unfairly from his day job, finds himself hitting rock bottom when he's arrested after a desperate attempt to get back on his feet. With nothing left to him, he surrendered himself to fate, giving up on any hopes for the future, and lost the will to make his own choices in life. But one day, a chance encounter threw him a lifeline that could change his fate forever.",
+  "tagline": null,
+  "posterPath": "/jilqnuQuHA0VvHYmEAx450cbmh5.jpg",
+  "backdropPath": "/hyCJPi8TsipcJP6ggAjNAegjCLf.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/hyCJPi8TsipcJP6ggAjNAegjCLf.jpg",
+    "/cImijBaFQ6J3rdxsjLrbVRR02dq.jpg",
+    "/rYmnhk2Q8CaJ8tc2znH1NnPTbfc.jpg",
+    "/fuxKFA5191yqc8bUF9jBV19eWLa.jpg",
+    "/x7CKQREFOvwsEZu16bDuhVdhtvh.jpg",
+    "/ySf2fVqnZ7BUwStKEQWITAP4659.jpg",
+    "/72jYbLyHOBBYuaGFpJzz9O3CIhj.jpg",
+    "/aeYmemUPXcXaInpqg75i369n5SH.jpg",
+    "/ykSWhndd61arx5LfsKDBsfRZniQ.jpg",
+    "/pKuC5N2tkQWVjEDQ6Nul516KQ17.jpg"
+  ],
+  "releaseDate": "2026-01-30",
+  "runtime": 114,
+  "voteAverage": "6.00",
+  "popularity": null,
+  "popularityScore": 7,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "WEB-DL",
+  "director": "Tomohiko Ito",
+  "directorTmdbId": 1362698,
+  "directorProfilePath": "/GyFpjtodiP19QlMue8Yu41N3gG.jpg",
+  "productionCompanies": [
+    {
+      "id": 13113,
+      "name": "A-1 Pictures",
+      "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png"
+    },
+    {
+      "id": 268088,
+      "name": "Psyde Kick Studio",
+      "logo_path": "/guP6wPsxzOQPMC2hZRtzOZkNlhv.png"
+    },
+    {
+      "id": 2883,
+      "name": "Aniplex",
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 2796,
+      "name": "self-discovery"
+    },
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 11436,
+      "name": "redemption"
+    },
+    {
+      "id": 6625,
+      "name": "family secrets"
+    },
+    {
+      "id": 9914,
+      "name": "slice of life"
+    },
+    {
+      "id": 18092,
+      "name": "guardian"
+    },
+    {
+      "id": 41557,
+      "name": "shrine"
+    },
+    {
+      "id": 182649,
+      "name": "spiritual journey"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1314,
+  "watchlistCount": 24,
+  "favouriteCount": 7,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-01T19:10:18.617Z",
+  "updatedAt": "2026-09-01T19:10:31.340Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "447f6b8a-cd29-4b17-a254-9145d550486e",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 2389740,
+      "name": "Fumiya Takahashi",
+      "character": "Reito Naoi (voice)",
+      "profilePath": "/aNdoFv1zPypM3nxR5T7LfpfKLZR.jpg",
+      "order": 0
+    },
+    {
+      "id": "b083c305-00c2-4823-8100-b739a64864b5",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 78350,
+      "name": "Yuki Amami",
+      "character": "Chifune Yanagisawa (voice)",
+      "profilePath": "/h5OODF0k6lOomoA6T4BzyqFTcdL.jpg",
+      "order": 1
+    },
+    {
+      "id": "ea556315-de2e-4548-a2ee-ae70aff913da",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 2053787,
+      "name": "Asuka Saito",
+      "character": "Yumi Saji (voice)",
+      "profilePath": "/2sOZRKPNqKAazTsFzzqJtna7Fnz.jpg",
+      "order": 2
+    },
+    {
+      "id": "b9e67daa-8985-4aa6-9d73-0a9aec0bdc11",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 2560735,
+      "name": "Ryubi Miyase",
+      "character": "Sōki Ōba (voice)",
+      "profilePath": "/1eEHt14GlxmMgnBpf0ZstRHceOE.jpg",
+      "order": 3
+    },
+    {
+      "id": "fe158041-642c-4bae-bea0-4ce50486ba2e",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 45999,
+      "name": "Takao Osawa",
+      "character": "Toshiaki Saji (voice)",
+      "profilePath": "/nxSOEoENPw6NIYOckna94WICPAE.jpg",
+      "order": 4
+    },
+    {
+      "id": "b147a65e-0c4b-4c15-94fd-7474bbde2957",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 84508,
+      "name": "Takehito Koyasu",
+      "character": "Masakazu Yanagisawa (voice)",
+      "profilePath": "/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg",
+      "order": 5
+    },
+    {
+      "id": "dd031c3f-d850-4eb5-81dd-ca1216f06d41",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 2430993,
+      "name": "Miou Tanaka",
+      "character": "Katsushige Yanagisawa (voice)",
+      "profilePath": "/4dXKZqcF1K6n6yVAGVVRlsc1RU0.jpg",
+      "order": 6
+    },
+    {
+      "id": "236f2f73-2df5-442e-afa3-751c0ae7575a",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 54690,
+      "name": "Akira Kamiya",
+      "character": "Tōichirō Ōba (voice)",
+      "profilePath": "/tJRMwbWFObv03KhATALs0Xbbgq7.jpg",
+      "order": 7
+    },
+    {
+      "id": "51c63819-c5ff-4fd1-a245-ecec2ef9e030",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 135524,
+      "name": "Kenjiro Tsuda",
+      "character": "(voice)",
+      "profilePath": "/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg",
+      "order": 8
+    },
+    {
+      "id": "0485ac4e-94e3-438d-b460-a899db6c98ce",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 144655,
+      "name": "Tomokazu Sugita",
+      "character": "(voice)",
+      "profilePath": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg",
+      "order": 9
+    },
+    {
+      "id": "7c48a238-7d63-4d81-bb2d-51d8385bd0fd",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 1613379,
+      "name": "Taku Yashiro",
+      "character": "(voice)",
+      "profilePath": "/eVdB6myaNJ4h38UU9hHHlsaCWHn.jpg",
+      "order": 10
+    },
+    {
+      "id": "24c3a3df-5554-486f-9760-a201966488ca",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 1452028,
+      "name": "Reina Ueda",
+      "character": "(voice)",
+      "profilePath": "/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg",
+      "order": 11
+    },
+    {
+      "id": "23a71af0-655a-48b0-ab03-63f5b097bc02",
+      "movieId": "31ae3217-9f8a-4920-91d0-945dcfd8c5d9",
+      "tmdbPersonId": 1221143,
+      "name": "Nobuo Tobita",
+      "character": "(voice)",
+      "profilePath": "/8p47dHvcEvr7CPYIHpxlQcpZmtm.jpg",
+      "order": 12
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

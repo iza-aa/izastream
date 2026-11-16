@@ -1,0 +1,138 @@
+{
+  "slug": "safe-skies-archer-2023",
+  "id": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+  "title": "Safe Skies, Archer",
+  "overview": "Tourism student, Yanna, and young pilot, Hiro, agree to have a no-strings attached relationship but when their romance becomes real, they start to reexamine their deal.",
+  "tagline": null,
+  "posterPath": "/18aLdAhPcLK2ZmBb4xCSP0KonzG.jpg",
+  "backdropPath": "/aTSTFhQFf0X1SXGqtiMmG3QKKwT.jpg",
+  "logoPath": "/kBAbXwwsUfnpri7V46BuK7vamlh.png",
+  "firstAirDate": "2023-11-20",
+  "voteAverage": "9.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "551bec71-5392-47cd-a722-c3c37edfff28",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbPersonId": 1553196,
+      "name": "Jerome Ponce",
+      "character": "Hiro",
+      "profilePath": "/zgM7uhD8JNHgdpDyffMnN9G3ETW.jpg",
+      "order": 0
+    },
+    {
+      "id": "356cdcfb-fee6-462a-9f2a-066d5334820f",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbPersonId": 3439713,
+      "name": "Krissha Viaje",
+      "character": "Yanna",
+      "profilePath": "/snLEV08UqpeYPILy0tU4RBeHzu8.jpg",
+      "order": 1
+    },
+    {
+      "id": "598cdc99-8d22-4162-b8d0-40a8e61d2c3c",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbPersonId": 4420557,
+      "name": "Dani Zee",
+      "character": "Avi",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "dd5e4228-324c-4b7d-8a09-1b4e7b894ef4",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbPersonId": 592003,
+      "name": "Jairus Aquino",
+      "character": "Shan",
+      "profilePath": "/eBs4G5bwbR5QphXhdkYqBC2Cqpi.jpg",
+      "order": 3
+    },
+    {
+      "id": "eefa5dc5-d0d1-4327-b968-2572163a2250",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbPersonId": 1909700,
+      "name": "Heaven Peralejo",
+      "character": "Luna",
+      "profilePath": "/ccvFDQ1dFro5qCRzGsypx11gIg5.jpg",
+      "order": 4
+    },
+    {
+      "id": "bc2c80b1-a1d1-4cae-b441-35dd12f325bf",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbPersonId": 1666052,
+      "name": "Marco Gallo",
+      "character": "Kalix",
+      "profilePath": "/dRFhiPfGWLP3uRwxCqiJq5AUqlS.jpg",
+      "order": 5
+    },
+    {
+      "id": "50ac44d7-1be2-49d9-9156-74e9fe93c404",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbPersonId": 2038703,
+      "name": "Gab Lagman",
+      "character": "Sevi",
+      "profilePath": "/494VOFraGOwUG8Gyrm1naYnZixP.jpg",
+      "order": 6
+    },
+    {
+      "id": "d347ccaf-aaff-45d9-ac38-f5d5eab9b528",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbPersonId": 2557328,
+      "name": "Nicole Omillo",
+      "character": "Kierra",
+      "profilePath": "/ktQiabCOKPuLBp7ieMi6wH7FgYJ.jpg",
+      "order": 7
+    },
+    {
+      "id": "48a1884f-7bbb-490c-9dc3-178e2bee8327",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbPersonId": 3087725,
+      "name": "Aubrey Caraan",
+      "character": "Sam",
+      "profilePath": "/sa97wo9U8ocx07VL9QPrusWTqRW.jpg",
+      "order": 8
+    },
+    {
+      "id": "2f4fac66-9443-41f4-ac09-7bad721d5ef7",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbPersonId": 1206193,
+      "name": "Bea Binene",
+      "character": "Via",
+      "profilePath": "/jav7l9iyxw5YDxN7ZhWh6fuXalf.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "c49434d8-053c-4f89-8dca-d42f72be3954",
+      "tvSeriesId": "e05bae1a-ce05-4fd2-9a41-5df488ef36b2",
+      "tmdbId": 368445,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/tRFJrm5vI5PGmqSYymyMCI9p3iQ.jpg",
+      "airDate": "2023-11-20",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-27T19:50:06.521Z",
+      "updatedAt": "2026-09-27T19:51:26.891Z"
+    }
+  ]
+}

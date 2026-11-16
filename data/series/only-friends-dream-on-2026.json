@@ -1,0 +1,131 @@
+{
+  "slug": "only-friends-dream-on-2026",
+  "id": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+  "title": "Only Friends: Dream On",
+  "overview": "Senior theater student Jack sets out to create an ambitious stage production, Romeo and Romeo-a bold, male-male re-imagining of the classic Romeo and Juliet. What begins as a dream project soon becomes an emotional minefield when Jack casts friends, exes and their admirers. As rehearsals intensify, unresolved feelings, unspoken crushes, desire, jealousy, and rivalry spiral out of control. Caught between art and emotion, six friends find their relationships tested to the limit.",
+  "tagline": null,
+  "posterPath": "/whdV8pnBqNL03MHRGAyQuODAWmh.jpg",
+  "backdropPath": "/sUSvn1dlj9zrHQKgvdsurxGILdA.jpg",
+  "logoPath": "/4nIcEAJ5tOFVDhKwcQWZDsaU2C0.png",
+  "firstAirDate": "2026-02-27",
+  "voteAverage": "7.75",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d0525871-2598-4f25-aeb2-0026266dc23e",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbPersonId": 2895680,
+      "name": "Sahaphap Wongratch",
+      "character": "Dean",
+      "profilePath": "/7kUcLEeJBrFq6x0hiOmcfD5F8PY.jpg",
+      "order": 0
+    },
+    {
+      "id": "fc55890f-3467-4eb7-922e-0bcdeb24e58d",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbPersonId": 1796473,
+      "name": "Pirapat Watthanasetsiri",
+      "character": "Jack",
+      "profilePath": "/c93tGGM3mrgglWPAWRBSojbteca.jpg",
+      "order": 1
+    },
+    {
+      "id": "015a60fd-f78f-4288-b979-d14e870e0a13",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbPersonId": 2302265,
+      "name": "Way-ar Sangngern",
+      "character": "Arnold",
+      "profilePath": "/dBD2WVjQgJQZUkCVrydXyvdMagM.jpg",
+      "order": 2
+    },
+    {
+      "id": "fcfc9002-743b-4136-b49f-07c571da08f8",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbPersonId": 2412020,
+      "name": "Gawin Caskey",
+      "character": "Tua",
+      "profilePath": "/yyi77N7dTqYLxZJyU3ZO7sU18VB.jpg",
+      "order": 3
+    },
+    {
+      "id": "df5e6631-7aa2-4a8f-90a3-32e869fa7239",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbPersonId": 3039960,
+      "name": "Thanaboon Kiatniran",
+      "character": "Rome",
+      "profilePath": "/nz0oOHNmZDqJPysge4TMV4HnVhe.jpg",
+      "order": 4
+    },
+    {
+      "id": "899ac85a-7564-41dd-a542-272d6330cfef",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbPersonId": 3039962,
+      "name": "Tharatorn Jantharaworakarn",
+      "character": "Raffy",
+      "profilePath": "/w3lvgKmK77sE4RTS1vrstaF97OS.jpg",
+      "order": 5
+    },
+    {
+      "id": "1bce2919-0707-4a1b-88c4-5e175f7117f9",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbPersonId": 2668721,
+      "name": "Trai Nimtawat",
+      "character": "Boston",
+      "profilePath": "/hJgOYgT2MgCt0d0OSybh8JnAdwu.jpg",
+      "order": 6
+    },
+    {
+      "id": "ee58dd4f-7460-4348-b389-1a8d5600639a",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbPersonId": 2298243,
+      "name": "Kanaphan Puitrakul",
+      "character": "Sand",
+      "profilePath": "/fbS2MqouXFBJSBtDBO8XfV43TvS.jpg",
+      "order": 500
+    },
+    {
+      "id": "1b0695c5-7866-4051-a450-43674a6bab68",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbPersonId": 2729027,
+      "name": "Thanawat Ratanakitpaisan",
+      "character": "Ray",
+      "profilePath": "/fKollDjRw9RhrGr95NptGCQ9QHV.jpg",
+      "order": 501
+    },
+    {
+      "id": "3371ea41-c9b9-4441-9631-42488e36edea",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbPersonId": 4890625,
+      "name": "Mapord Nuttayothin",
+      "character": "Student",
+      "profilePath": "/zFtW4NaLwljXY38mPoQuOEUsjhH.jpg",
+      "order": 502
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d2b25fd5-a9f8-42d3-bbc6-d56f8afc682b",
+      "tvSeriesId": "a76438a1-be46-4153-a6cb-7935bab9de3e",
+      "tmdbId": 503212,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Drama, directing, art, music, and dance majors are caught in a tangled web of competition, casual sex and vulnerability. Jack is directing his ex Dean on stage in a role that Raffy wants. Dean tries to get Jack's younger brother Rome to block Raffy out of his life. Part of the stage production of Romeo & Romeo is Tua who harbours feelings for starring actor and dancer Arnold.",
+      "posterPath": "/yWGaoMxYpa4w3jrvU0m31ulgdUC.jpg",
+      "airDate": "2026-02-27",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-05-29T16:01:36.237Z",
+      "updatedAt": "2026-05-29T16:02:53.477Z"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "slug": "nimrods-2026",
+  "id": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+  "tmdbId": 1432474,
+  "imdbId": "tt34895535",
+  "title": "Nimrods",
+  "originalTitle": "Nimrods",
+  "overview": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
+  "tagline": null,
+  "posterPath": "/4h2WtFCLZPXbydbpi248uqOT9yz.jpg",
+  "backdropPath": "/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
+  "logoPath": "/qbXj0CoEkPseIQwqMXYFtvu0V4O.png",
+  "backdrops": [
+    "/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg",
+    "/6LUBxoe7ZpwrQluyK21jx1unLkH.jpg",
+    "/aVRRKTGJnnWvah99gLZaRG0wS17.jpg",
+    "/4t9Tpj35MpVArLNpyAsQu6PhGRk.jpg",
+    "/bdcjiyjpKVjCbW00oyIuBtdzpGH.jpg",
+    "/xo450rsN3wmbzWYtewAopmeRisO.jpg",
+    "/f4QiuAuq6XUwjrann0v0G2Rsicr.jpg",
+    "/v1cUxpmRmsjQAQ5FzZ6oKUsH6MI.jpg",
+    "/4De9GUbZRgvGjtCLEtKdyIGCOmT.jpg",
+    "/qDHvqJLgsPEXVs3mJ5EKci5dGKJ.jpg"
+  ],
+  "releaseDate": "2026-08-06",
+  "runtime": 107,
+  "voteAverage": "6.95",
+  "popularity": null,
+  "popularityScore": 136,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=5mtbOhpqroo",
+  "quality": "WEB-DL",
+  "director": "Lee Kirk",
+  "directorTmdbId": 1023127,
+  "directorProfilePath": "/zlC0juvau9da0yE7PCh4I8v59uA.jpg",
+  "productionCompanies": [
+    {
+      "id": 81368,
+      "name": "Live Nation Studios",
+      "logo_path": "/hadEBzUTj8ZzmaC1yh8MrXKXqR5.png"
+    },
+    {
+      "id": 29060,
+      "name": "Process Media",
+      "logo_path": null
+    },
+    {
+      "id": 67976,
+      "name": "Green Day",
+      "logo_path": null
+    },
+    {
+      "id": 108869,
+      "name": "Legion M",
+      "logo_path": "/tfK09IBUnfAwp5htKDPAdzf2z01.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7312,
+      "name": "road trip"
+    },
+    {
+      "id": 18001,
+      "name": "rock band"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 4833,
+  "watchlistCount": 101,
+  "favouriteCount": 36,
+  "shareCount": 10,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-18T09:29:24.798Z",
+  "updatedAt": "2026-09-18T09:29:37.895Z",
+  "genres": [
+    {
+      "id": "c47fe226-dcf1-40b9-a67f-9436f9d5c4d0",
+      "tmdbId": 10402,
+      "name": "Music",
+      "slug": "music",
+      "createdAt": "2026-04-02T13:49:06.045Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a20691c7-d6e9-4eb8-9e7c-a33e9dbe8f77",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 2803710,
+      "name": "Mason Thames",
+      "character": "Tommy",
+      "profilePath": "/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg",
+      "order": 0
+    },
+    {
+      "id": "b689ada6-e6cf-4f47-a9b8-1de4caeb329f",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 3264041,
+      "name": "Kylr Coffman",
+      "character": "Fred",
+      "profilePath": "/yJByP7Umju2FjCY16ePt9wRRPTZ.jpg",
+      "order": 1
+    },
+    {
+      "id": "f51ea85d-5f5f-4564-8ea2-70b5561e4479",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 1971197,
+      "name": "Ryan Foust",
+      "character": "Chad",
+      "profilePath": "/kTGCcDGNMrsUM53k3pQ8LymE6pe.jpg",
+      "order": 2
+    },
+    {
+      "id": "803289c7-42b8-4969-893d-dd06f29e9172",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 51856,
+      "name": "Jenna Fischer",
+      "character": "Jodi",
+      "profilePath": "/mfKRbOHTPNi9jFSthtjl4FGVZv6.jpg",
+      "order": 3
+    },
+    {
+      "id": "8a0fb958-4394-4052-a386-ed5cdc24dad6",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 1172108,
+      "name": "Mckenna Grace",
+      "character": "Olivia",
+      "profilePath": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg",
+      "order": 4
+    },
+    {
+      "id": "16254330-a426-4a1c-b797-c4183c97ce3b",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 113867,
+      "name": "Angela Kinsey",
+      "character": "Wilma",
+      "profilePath": "/qHFidnMcFqUWdMFyjmXufBlYckd.jpg",
+      "order": 5
+    },
+    {
+      "id": "7aefd9e7-23c8-474a-995b-eb8f7f219204",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 1424191,
+      "name": "Keen Ruffalo",
+      "character": "Wayne",
+      "profilePath": "/un5mysGvVychAs3Z2Dkls39dwYA.jpg",
+      "order": 6
+    },
+    {
+      "id": "0a6663ac-97c5-427d-85c4-e628641aacd2",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 3458679,
+      "name": "Ignacio Diaz-Silverio",
+      "character": "Keith",
+      "profilePath": "/ccNZXbW6Grb7ugr7JOkJfCZFekx.jpg",
+      "order": 7
+    },
+    {
+      "id": "a94bbe7c-9185-4b3c-8107-82606648b481",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 95866,
+      "name": "Billie Joe Armstrong",
+      "character": "Self",
+      "profilePath": "/upYUoLOi7xypknbNQmYVbLCekM4.jpg",
+      "order": 8
+    },
+    {
+      "id": "b8164d50-901a-4629-b981-09fbddf211c1",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 95867,
+      "name": "Mike Dirnt",
+      "character": "Self",
+      "profilePath": "/vIj8aqgzA07mpaev4kNYDCGJD3H.jpg",
+      "order": 9
+    },
+    {
+      "id": "632aa30b-cfb5-44c4-b38c-62abb8f66a05",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 95868,
+      "name": "Tré Cool",
+      "character": "Self",
+      "profilePath": "/20HZWqKtW8r6Yo8i76yZOPYrEg8.jpg",
+      "order": 10
+    },
+    {
+      "id": "c3d9ddea-6dfe-4111-95ee-d9b2fd7017b3",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 6367933,
+      "name": "Harper Marie Kirk",
+      "character": "Cassidy",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "9d2a5299-266e-49e2-81a7-c5c9ef65225f",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 61110,
+      "name": "Fred Armisen",
+      "character": "Jim",
+      "profilePath": "/rhPN8Zx6nrtNiQN2JwPkJ3ZFJ9z.jpg",
+      "order": 12
+    },
+    {
+      "id": "17b94354-b469-4a3e-bbe2-2bb2e24b581a",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 198149,
+      "name": "Bobby Lee",
+      "character": "Otis",
+      "profilePath": "/90TyhVb7OfyHPmj3ZVX6hEjHGlD.jpg",
+      "order": 13
+    },
+    {
+      "id": "ef301af6-a5bb-41e4-b624-0ad60a487fa0",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 68276,
+      "name": "Jolene Blalock",
+      "character": "Deb",
+      "profilePath": "/yiinZvN39DQU0SyfrOadbEXogAi.jpg",
+      "order": 14
+    },
+    {
+      "id": "96933f7f-59d7-46bf-9abf-9e6284112d20",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 3998765,
+      "name": "Barbara Sandlin",
+      "character": "Teacher",
+      "profilePath": "/5PUMbJQ3j0xlWGdSURCA7TNXQJn.jpg",
+      "order": 15
+    },
+    {
+      "id": "958c7671-c593-4bc3-8245-460b6f5f6855",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 53492,
+      "name": "Sam Huntington",
+      "character": "Record Store Manager",
+      "profilePath": "/x5n6S3tiBnJbZrZVE7Y0NnO8Ghn.jpg",
+      "order": 16
+    },
+    {
+      "id": "6d5e4c21-2bc1-4f3d-82de-be3c3865ae08",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 2674357,
+      "name": "Chris Oz McIntosh",
+      "character": "Truancy Officer",
+      "profilePath": "/o9qefqGuObtbsVLw9R2Z29HgvEo.jpg",
+      "order": 17
+    },
+    {
+      "id": "4e52be6a-42cf-4220-9a8f-d8b8f81d4397",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 205209,
+      "name": "Josh Fadem",
+      "character": "Stuart",
+      "profilePath": "/bd9d9AkcVFOIQkGxICPdaIuzMG.jpg",
+      "order": 18
+    },
+    {
+      "id": "33598115-9dd3-475d-a676-34e8991e65ed",
+      "movieId": "bfb1c2a1-4454-495a-a0ed-e87f1e4b398e",
+      "tmdbPersonId": 454210,
+      "name": "P.J. Sosko",
+      "character": "Crazy Hank",
+      "profilePath": "/zhJE57pDRT66p3bzE0TfLqreX6t.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

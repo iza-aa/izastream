@@ -1,0 +1,328 @@
+{
+  "slug": "union-county-2026",
+  "id": "04645059-d57a-4868-9361-79df579a71cc",
+  "tmdbId": 1482938,
+  "imdbId": "tt36981462",
+  "title": "Union County",
+  "originalTitle": "Union County",
+  "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio.",
+  "tagline": null,
+  "posterPath": "/1HW5lVwsuLo6CHW3i9Cm240jLL2.jpg",
+  "backdropPath": "/t6zKpTDxHxDqFNajj2duWqg6y78.jpg",
+  "logoPath": "/8g4WMw2rqC8js8LfYlTYS2y7mUO.png",
+  "backdrops": [
+    "/284HrIC2K9tofdoSDZBgxw6u0Sy.jpg",
+    "/t6zKpTDxHxDqFNajj2duWqg6y78.jpg",
+    "/xrSKUFhwZ6eughI0fYtLUFjnOLc.jpg",
+    "/mjOTzWK9N4ppo98X8MJ7ObEBGWx.jpg",
+    "/96S1Sm5tsHsFJXpTKkH0czQoEVJ.jpg",
+    "/rUYIfyUSJGw7og2Q5R0p50ZPCgz.jpg",
+    "/tvuuMVTyhouWZ6WBuKhiuPgpfKS.jpg",
+    "/oEPnXonCStUdxOqJsWAla7sUOr7.jpg",
+    "/iEAyrDWCPh2LT5douJpDulizXQI.jpg",
+    "/72iJpA8QU6O6UzojEoiYni56nSb.jpg"
+  ],
+  "releaseDate": "2026-08-14",
+  "runtime": 97,
+  "voteAverage": "7.13",
+  "popularity": null,
+  "popularityScore": 49,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=uA6Fnr2VXkw",
+  "quality": "WEB-DL",
+  "director": "Adam Meeks",
+  "directorTmdbId": 2338131,
+  "directorProfilePath": "/pPtDUfUw15LUXpHDapnaGiooP53.jpg",
+  "productionCompanies": [
+    {
+      "id": 145654,
+      "name": "Seaview Productions",
+      "logo_path": "/zZr7YqJIHaBSnvjaxmi7Vzo7w9k.png"
+    },
+    {
+      "id": 114130,
+      "name": "Ley Line Entertainment",
+      "logo_path": "/4qWbeq1VqAH1RSCBFvCNkkY5Qi8.png"
+    },
+    {
+      "id": 190442,
+      "name": "Arkhum Productions",
+      "logo_path": null
+    },
+    {
+      "id": 118246,
+      "name": "Kindred Spirit",
+      "logo_path": "/thGsoSlp0SEayiulTOOofmnKD4z.png"
+    },
+    {
+      "id": 178826,
+      "name": "Burn These Words Films",
+      "logo_path": null
+    },
+    {
+      "id": 287295,
+      "name": "Wait a While Films",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1803,
+      "name": "drug addiction"
+    },
+    {
+      "id": 2494,
+      "name": "ohio"
+    },
+    {
+      "id": 185969,
+      "name": "relapse"
+    },
+    {
+      "id": 224625,
+      "name": "halfway house"
+    },
+    {
+      "id": 243959,
+      "name": "brother brother relationship"
+    },
+    {
+      "id": 249132,
+      "name": "foster brother"
+    },
+    {
+      "id": 293740,
+      "name": "opioid epidemic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 2439,
+  "watchlistCount": 56,
+  "favouriteCount": 7,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:44:48.872Z",
+  "updatedAt": "2026-10-05T17:45:21.665Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "13a7b3c7-8b7a-4854-ae93-9e8ec97c5892",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 93491,
+      "name": "Will Poulter",
+      "character": "Cody",
+      "profilePath": "/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg",
+      "order": 0
+    },
+    {
+      "id": "e7a517cb-4de2-47db-96fd-d242f872d22a",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 1253353,
+      "name": "Noah Centineo",
+      "character": "Jack",
+      "profilePath": "/p1bcst401RyxfDGykx2iQLI7CV5.jpg",
+      "order": 1
+    },
+    {
+      "id": "60fc967c-8a18-4bb5-91cd-4a4c8580cdce",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 2699214,
+      "name": "Elise Kibler",
+      "character": "Anna",
+      "profilePath": "/jCw7ypHsKjmaGhpWR6kZqf501n4.jpg",
+      "order": 2
+    },
+    {
+      "id": "50718590-e43c-4136-ad2e-135aaed3f453",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 71815,
+      "name": "Emily Meade",
+      "character": "Katrina",
+      "profilePath": "/cg5qMWWRRgBYjcPmWaGfsFxE3L4.jpg",
+      "order": 3
+    },
+    {
+      "id": "1bd0d653-f971-4857-ba0f-bdbbef60783c",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 1560237,
+      "name": "Danny Wolohan",
+      "character": "Jim",
+      "profilePath": "/pMe2ftvLE4EkMsgSIw6RGgjHIRD.jpg",
+      "order": 4
+    },
+    {
+      "id": "a26bdc17-fe67-40b3-840c-4fb598882e14",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 5976584,
+      "name": "Kevin P. Braig",
+      "character": "Judge Braig",
+      "profilePath": "/5iTN7fR1k8CiazXjxjzcM5F2pu6.jpg",
+      "order": 5
+    },
+    {
+      "id": "3b182883-8dad-4cf3-af64-186e2a2f9dc0",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 2820858,
+      "name": "Annette Deao",
+      "character": "Annette",
+      "profilePath": "/mNJJsmxqBdKXpyxy5EMbP3pEU9K.jpg",
+      "order": 6
+    },
+    {
+      "id": "821f9e21-44f0-41c9-904c-f3a646e2ec15",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 3119562,
+      "name": "Sylvie Mix",
+      "character": "Kim",
+      "profilePath": "/na0pg0Qs9YwiCqytPOEEiT1ua6L.jpg",
+      "order": 7
+    },
+    {
+      "id": "dbcbeda0-2a65-468a-af5c-d5a887dc7fd9",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 2597596,
+      "name": "A.J. Hunt",
+      "character": "Callum",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "4da0c613-5394-47cf-8a35-30753c7c5ac1",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 5976588,
+      "name": "Gemma Nelms",
+      "character": "Harley",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "01c7a6d5-bbc6-4ba0-9a7b-7e62116b97cf",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 4745457,
+      "name": "Nicole Stubbs",
+      "character": "Nurse Taylor",
+      "profilePath": "/x494CITa89oIq8XExwGiJJB1dQ.jpg",
+      "order": 10
+    },
+    {
+      "id": "55f0e235-5f31-49bd-9c51-3aa1ee75f408",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 5976592,
+      "name": "Brandon Terrell",
+      "character": "Eric",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "4a594d43-4d10-4646-85b0-cb5a97cc584a",
+      "movieId": "04645059-d57a-4868-9361-79df579a71cc",
+      "tmdbPersonId": 5976594,
+      "name": "Bethany Lasseter",
+      "character": "Recovery Meeting Leader",
+      "profilePath": null,
+      "order": 12
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

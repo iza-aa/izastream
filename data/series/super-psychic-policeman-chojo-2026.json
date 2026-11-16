@@ -1,0 +1,138 @@
+{
+  "slug": "super-psychic-policeman-chojo-2026",
+  "id": "d61c0370-8346-4839-9762-6fb14293f330",
+  "title": "Super Psychic Policeman Chojo",
+  "overview": "The ultimate police duo is here to keep the peace! Rookie officer Nao just joined the force. She’s got a black belt in judo and earned the nickname “Gorilla” for her insane strength. Then there’s her partner Chojo, who wields every psychic power imaginable. But for a guy who can read minds, he still can’t seem to read the room. Now, these two are taking on crime together in Chinjuku.",
+  "tagline": null,
+  "posterPath": "/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
+  "backdropPath": "/ru9Nc9HBAUjTVjngbgNUCdKRNa0.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-10-06",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "9cd2c9f0-fe05-4852-940e-648b57fc4cad",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbPersonId": 1350418,
+      "name": "Yusuke Kobayashi",
+      "character": "Meguru Chojo (voice)",
+      "profilePath": "/y4ukKDSobZJNuB4H3k89hkrKCDC.jpg",
+      "order": 0
+    },
+    {
+      "id": "3a2d9fc2-48c5-4ed3-bff6-ed86794ba486",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbPersonId": 5129861,
+      "name": "Riko Aono",
+      "character": "Nao Ippongi (voice)",
+      "profilePath": "/f8epNfLisB6cBDwfOaoMkj10RFP.jpg",
+      "order": 1
+    },
+    {
+      "id": "89499f86-abb6-48e0-a396-4b4e1f92804f",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbPersonId": 1564652,
+      "name": "Maria Naganawa",
+      "character": "Robo-kun (voice)",
+      "profilePath": "/tt0j0z34Oq3MyvDA3VeizskWcw4.jpg",
+      "order": 2
+    },
+    {
+      "id": "8e4d8a5f-918c-4f36-ba77-574768ac6ff6",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbPersonId": 1241498,
+      "name": "Daisuke Ono",
+      "character": "Yuki Inukai (voice)",
+      "profilePath": "/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg",
+      "order": 3
+    },
+    {
+      "id": "5db8f3b6-1bd4-4b30-b4f7-4267d31feb00",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbPersonId": 2183701,
+      "name": "Toshiya Miyata",
+      "character": "Hajime Keinain (voice)",
+      "profilePath": "/6g0HUHtLaddU3q3hV4qF46bkzYB.jpg",
+      "order": 4
+    },
+    {
+      "id": "5698a8db-58ce-4fcc-8f13-3862f2a71543",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbPersonId": 1252728,
+      "name": "Nobuaki Kanemitsu",
+      "character": "Hossan (voice)",
+      "profilePath": "/wf7IW1avxFoY1zecsN5dvI1EdZX.jpg",
+      "order": 5
+    },
+    {
+      "id": "35ad2b36-0823-48e5-89a7-1f3a28e77878",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbPersonId": 3380717,
+      "name": "Kanna Nakamura",
+      "character": "Lily Togari (voice)",
+      "profilePath": "/2HyCjHsT8hEpXsFe1CqtWJU6JNL.jpg",
+      "order": 6
+    },
+    {
+      "id": "708b9334-a3db-484c-8b86-1e8b41942df9",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbPersonId": 2534630,
+      "name": "Kazuki Ura",
+      "character": "Heisuke Ban (voice)",
+      "profilePath": "/7eUgENWREmWSMnLPUFCQhvUSpdI.jpg",
+      "order": 7
+    },
+    {
+      "id": "f5268929-28fa-4a61-a6a4-7a32f52c398c",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbPersonId": 6533186,
+      "name": "Brent O",
+      "character": "Psychic Investigator Dubbed (voice)",
+      "profilePath": "/dgTH0mDuoBLTIqrX6A6uzjx9jD2.jpg",
+      "order": 500
+    },
+    {
+      "id": "f5906c6b-fb83-4b6e-8478-7bcc8c2d197b",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbPersonId": 1841632,
+      "name": "Natalie Jongjaroenlarp",
+      "character": "Psychic Investigator Dubbed (voice)",
+      "profilePath": "/cdDPQi4r0t1XQyBiAtuu7A3LHyt.jpg",
+      "order": 501
+    }
+  ],
+  "seasons": [
+    {
+      "id": "b9836cc1-0389-4263-8522-dc802a6b1a42",
+      "tvSeriesId": "d61c0370-8346-4839-9762-6fb14293f330",
+      "tmdbId": 527862,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
+      "airDate": "2026-10-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-21T23:43:58.512Z",
+      "updatedAt": "2026-11-12T03:53:17.719Z"
+    }
+  ]
+}

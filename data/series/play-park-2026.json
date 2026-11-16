@@ -1,0 +1,131 @@
+{
+  "slug": "play-park-2026",
+  "id": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+  "title": "Play Park",
+  "overview": "An unexpected romance that blossoms in the colorful setting of an amusement park between Lilin, a heir to a powerful family business, and Ing Ing, the diligent amusement park manager.",
+  "tagline": null,
+  "posterPath": "/ge5wHhO5wumJ3oEECV8v6c7IwVU.jpg",
+  "backdropPath": "/neyH4XXapY4T2bzlQE0XvxtRj51.jpg",
+  "logoPath": "/vwjMYIvWpHMcTdUNXG3yIw7QaqZ.png",
+  "firstAirDate": "2026-02-20",
+  "voteAverage": "6.60",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "fdfb1ed8-fe17-4dc1-b5e3-91e35a22db18",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbPersonId": 3131642,
+      "name": "Narilya Gulmongkolpech",
+      "character": "'Ing' Inging",
+      "profilePath": "/eBa4fndcdfVcI4dNXi7ZFwMSXHL.jpg",
+      "order": 0
+    },
+    {
+      "id": "521e9415-97b9-419e-b33b-0984e647ad52",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbPersonId": 5543738,
+      "name": "Duangkaew Piyaoui",
+      "character": "'Lin' Lilin Nittha Rattanaprasit",
+      "profilePath": "/kvWNkkc4hlJwGN09WmyaRaZ0gyi.jpg",
+      "order": 1
+    },
+    {
+      "id": "c5d4552d-6217-4ba1-bafb-30fc7ebc6238",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbPersonId": 4769574,
+      "name": "Dandao Yamapai",
+      "character": "Jane",
+      "profilePath": "/5dNLSetDuAcDhTIKNzKzSq1ZpDp.jpg",
+      "order": 2
+    },
+    {
+      "id": "7a70cae8-f81a-4fec-8481-4a36357c7eef",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbPersonId": 2148094,
+      "name": "Pongsapat Kankam",
+      "character": "Itt",
+      "profilePath": "/poRN6FdsYuqESfCSGcIvN5b9Njw.jpg",
+      "order": 3
+    },
+    {
+      "id": "bc4f7388-5cba-435a-8e67-95884fc7cdf4",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbPersonId": 4769577,
+      "name": "Natthanit Praditthan",
+      "character": "Guy",
+      "profilePath": "/f90qjkJNt3db8ie7SimLpEMEeWq.jpg",
+      "order": 4
+    },
+    {
+      "id": "e61c979f-cf6f-4c42-97ec-301f904b96a5",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbPersonId": 5380472,
+      "name": "Alina Dohling",
+      "character": "Phrae",
+      "profilePath": "/jGF1UgEDiVaoTcaCw5Gly7la7iL.jpg",
+      "order": 5
+    },
+    {
+      "id": "729d0162-c0f2-43aa-a072-e99827574769",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbPersonId": 5469546,
+      "name": "Sittan Suphakiengkai",
+      "character": "Athis",
+      "profilePath": "/8ZLxJxDmDKbkgVoTd23AaNxiYBk.jpg",
+      "order": 6
+    },
+    {
+      "id": "40bd18ee-0ecf-403c-be7c-d4c20dc2c523",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbPersonId": 2303608,
+      "name": "Krit Sukramongkol",
+      "character": "Pao",
+      "profilePath": "/141VLEpQ1pF18gEzYsmOJbBtsEZ.jpg",
+      "order": 7
+    },
+    {
+      "id": "9ef3ec18-31c3-4732-a227-a9a6b0118287",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbPersonId": 3286468,
+      "name": "Penpetch Benyakul",
+      "character": "'Kiat' Thirakiat",
+      "profilePath": "/fi7QnCFnt7SS2MiqT1QB7QPlYxH.jpg",
+      "order": 8
+    },
+    {
+      "id": "2af8de41-b8b7-4939-88a9-63f82b4a08a0",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbPersonId": 6020450,
+      "name": "Panitpicha Sivarattanawalai",
+      "character": "Donut",
+      "profilePath": "/nrGmRD17NtoETCartYjcZDv6onm.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "7252e5f8-602a-472e-ad1c-e046eda0dc36",
+      "tvSeriesId": "e32c0b75-e26d-402b-a8d3-c3ee330e4c3e",
+      "tmdbId": 463927,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/yVGSlJ0kFN34vH67cZVKsTteXUh.jpg",
+      "airDate": "2026-02-20",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-05-23T16:40:27.586Z",
+      "updatedAt": "2026-05-23T16:41:03.967Z"
+    }
+  ]
+}

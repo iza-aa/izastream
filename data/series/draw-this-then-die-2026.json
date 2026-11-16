@@ -1,0 +1,138 @@
+{
+  "slug": "draw-this-then-die-2026",
+  "id": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+  "title": "Draw This, Then Die!",
+  "overview": "First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?",
+  "tagline": null,
+  "posterPath": "/ugfkqXyGYaUH9kNSwbBHwsEbiqJ.jpg",
+  "backdropPath": "/6szuXVEj9zQtsu3RyWn9SnclIgB.jpg",
+  "logoPath": "/2Sq13666OBE1qAXRXN35RWwvH18.png",
+  "firstAirDate": "2026-07-03",
+  "voteAverage": "7.90",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "5805310b-6956-4c91-a4a6-444581ad76cf",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbPersonId": 1888529,
+      "name": "Akira Sekine",
+      "character": "Ai Yasumi (voice)",
+      "profilePath": "/czYoPzAEK1gI7RxRiPyDSFYRm5x.jpg",
+      "order": 0
+    },
+    {
+      "id": "08aead84-a301-4906-bc38-6cf12b9526e3",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbPersonId": 221773,
+      "name": "Saori Hayami",
+      "character": "Rei Teshima (voice)",
+      "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg",
+      "order": 1
+    },
+    {
+      "id": "98e92c08-7e88-4e90-af4a-0667b435aa01",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbPersonId": 4077076,
+      "name": "Saya Hitomi",
+      "character": "Kokoro Fujimori (voice)",
+      "profilePath": "/tPIYjacKzIM0dYmEAE6iYWesk13.jpg",
+      "order": 2
+    },
+    {
+      "id": "bf3bca93-3e7b-4d39-9fd3-f1129b5238b3",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbPersonId": 3562693,
+      "name": "Kanon Fujimura",
+      "character": "Sachi Akafuku (voice)",
+      "profilePath": "/rcmt3MGBRNTHxK58fvBv8tSZ50z.jpg",
+      "order": 3
+    },
+    {
+      "id": "448106ee-2e1a-4ef7-bf99-c018c8de63d8",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbPersonId": 1325949,
+      "name": "Inori Minase",
+      "character": "Hikaru Sekiryu (voice)",
+      "profilePath": "/cqOrQDUbbQLKpujzcK47YqjFdNp.jpg",
+      "order": 4
+    },
+    {
+      "id": "39b70695-f63e-4292-a94b-84bb530b2829",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbPersonId": 2889712,
+      "name": "Anna Nagase",
+      "character": "Loup Garou (voice)",
+      "profilePath": "/748FmLCklgnN8hrlBZ4bNsF4zpk.jpg",
+      "order": 500
+    },
+    {
+      "id": "2f6f1f9c-a6fb-4afd-8e55-6230814f635c",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbPersonId": 55662,
+      "name": "Noriko Hidaka",
+      "character": "Pokota (voice)",
+      "profilePath": "/43OuwsjqGf7JxpFpUvB75OdDDXQ.jpg",
+      "order": 501
+    },
+    {
+      "id": "17c5dfd7-ee99-41d2-b9ad-1b0f288698d0",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbPersonId": 1588597,
+      "name": "Atsumi Tanezaki",
+      "character": "Nana Teramura (voice)",
+      "profilePath": "/6tM8GU7QvrdUCvR4kxqVUZivtvO.jpg",
+      "order": 502
+    },
+    {
+      "id": "21fe0607-fb62-4e62-8def-54f1a1a086b8",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbPersonId": 90572,
+      "name": "Yukana",
+      "character": "Hana Kongoji (voice)",
+      "profilePath": "/AeRUkifrHsx0ZYfRRf64gChACyg.jpg",
+      "order": 503
+    },
+    {
+      "id": "35fb5f86-5d1c-4e55-b3ec-ce34e79ef510",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbPersonId": 101913,
+      "name": "Kikuko Inoue",
+      "character": "Hebichika-sensei (voice)",
+      "profilePath": "/pPxGWy53FgYSC79zmxblmHe0gI3.jpg",
+      "order": 504
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4bb13475-4f57-43f0-b1d7-2d5c5f690595",
+      "tvSeriesId": "19c3b09c-03cc-4e3c-a08c-ce3496c2caf6",
+      "tmdbId": 447414,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/dZpSzhp6sL0owWgX1XZsGVzaTfz.jpg",
+      "airDate": "2026-07-03",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-28T20:18:14.982Z",
+      "updatedAt": "2026-09-28T20:19:16.876Z"
+    }
+  ]
+}

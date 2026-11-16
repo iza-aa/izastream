@@ -1,0 +1,145 @@
+{
+  "slug": "dare-you-to-death-2025",
+  "id": "8c643f62-3e09-472e-a512-033d90e17986",
+  "title": "Dare You to Death",
+  "overview": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
+  "tagline": "",
+  "posterPath": "/dSKoGFRwbAbplM9XIEcI7S5SaBw.jpg",
+  "backdropPath": "/6ILhhXvH6qFF4yca7wLX7aUCzze.jpg",
+  "logoPath": "/w3jY3RPNAGaQGjDYnJpOTzB2K98.png",
+  "firstAirDate": "2025-12-18",
+  "voteAverage": "8.29",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 10,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d8c46105-b782-45db-8c44-ffdc25dbdc84",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbPersonId": 2509433,
+      "name": "Archen Aydin",
+      "character": "Jade",
+      "profilePath": "/rRtyi43vqc4vUoPeukTAH2z0gRK.jpg",
+      "order": 0
+    },
+    {
+      "id": "1e0b383d-fcca-41df-aa12-b9ca9465fa52",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbPersonId": 3499270,
+      "name": "Natachai Boonprasert",
+      "character": "Kamin",
+      "profilePath": "/aLiXl4G0q6Oimhcco2CPhUHGb2P.jpg",
+      "order": 1
+    },
+    {
+      "id": "34d2e819-7a24-414b-8b10-bfc7fa2647c3",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbPersonId": 3924056,
+      "name": "Thipakorn Thitathan",
+      "character": "Jay",
+      "profilePath": "/b67ZLUJwxQZvpUNXKu1ILqJryAM.jpg",
+      "order": 2
+    },
+    {
+      "id": "1790c683-bbbd-43a8-a134-795b11b05371",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbPersonId": 1872292,
+      "name": "Wachirawit Ruangwiwat",
+      "character": "Champ",
+      "profilePath": "/ixHHcj9ScyDQAyiiV6597YNL8nK.jpg",
+      "order": 3
+    },
+    {
+      "id": "9992ce8f-740f-4586-b6f2-9df55c0330ac",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbPersonId": 4190007,
+      "name": "Ochiris Suwanacheep",
+      "character": "Tar",
+      "profilePath": "/hWXwQp24XFtwwx0BX8ISpV55RyR.jpg",
+      "order": 4
+    },
+    {
+      "id": "08f6accf-94d1-4303-aa7d-0e2e613ee71b",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbPersonId": 3175104,
+      "name": "Jeeratch Wongpian",
+      "character": "Thaenkhun",
+      "profilePath": "/xadc67g21fby8ZyWT0hwYqlILmG.jpg",
+      "order": 5
+    },
+    {
+      "id": "421f05d4-17da-4020-a21f-ebc9fcba7818",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbPersonId": 3499294,
+      "name": "Preeyaphat Lawsuwansiri",
+      "character": "Bell",
+      "profilePath": "/95SxIzXJLgPBTROUjmDEWsukXZj.jpg",
+      "order": 6
+    },
+    {
+      "id": "53bdffdd-4fea-4656-8695-bc494b78dc21",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbPersonId": 4326595,
+      "name": "Pathitta Pornchumroenrut",
+      "character": "Puifai",
+      "profilePath": "/nFSHnUP3wv8DIugAspAaq7WIfWz.jpg",
+      "order": 7
+    },
+    {
+      "id": "d978b87a-6afb-44ca-bf2f-3a2adc78d527",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbPersonId": 3021781,
+      "name": "Wanwimol Jaenasavamethee",
+      "character": "Cherreen",
+      "profilePath": "/fnA1x3QW4EVjoLHXKDhXN0MXlS0.jpg",
+      "order": 8
+    },
+    {
+      "id": "4f4494a1-1c68-4d8f-a6ad-90eb4e948d2d",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbPersonId": 4325872,
+      "name": "Peerakan Teawsuwan",
+      "character": "Tonkla",
+      "profilePath": "/gnO7ToI4jP6ZYKZfbCHM84pv3KN.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "df8b80fd-d406-4065-afa1-06fc52032ac4",
+      "tvSeriesId": "8c643f62-3e09-472e-a512-033d90e17986",
+      "tmdbId": 430491,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Two mismatched cops go undercover to bust a drug cartel, only to become entangled in a deadly truth-or-dare game when students begin dying one by one.",
+      "posterPath": "/yANLR1kDDGHKCrhfxeFfBsgr70K.jpg",
+      "airDate": "2025-12-18",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:39:12.295Z",
+      "updatedAt": "2026-04-02T17:39:12.295Z"
+    }
+  ]
+}

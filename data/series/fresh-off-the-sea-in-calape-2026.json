@@ -1,0 +1,86 @@
+{
+  "slug": "fresh-off-the-sea-in-calape-2026",
+  "id": "184b4987-da2b-49d9-b8d2-3566d16eb9f0",
+  "title": "Fresh off the Sea in Calape",
+  "overview": "",
+  "tagline": null,
+  "posterPath": "/urzXydnZsqIG73lMCz9eWBfRY1p.jpg",
+  "backdropPath": "/gyjfYT3ckLoG2zZPKzKUlYRNhOs.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-04-16",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c0bc7fe5-16a0-40ce-aa20-fbed843fabcd",
+      "tvSeriesId": "184b4987-da2b-49d9-b8d2-3566d16eb9f0",
+      "tmdbPersonId": 37939,
+      "name": "Yum Jung-ah",
+      "character": "Self",
+      "profilePath": "/5qIkgP0VcfF0YhO3bixzBtA1jH2.jpg",
+      "order": 0
+    },
+    {
+      "id": "40f5a272-8715-4b6c-82c7-fc18e4547e05",
+      "tvSeriesId": "184b4987-da2b-49d9-b8d2-3566d16eb9f0",
+      "tmdbPersonId": 123810,
+      "name": "Park Jun-myun",
+      "character": "Self",
+      "profilePath": "/gz5080pQXOKm9TKJEWXRrR1JTui.jpg",
+      "order": 1
+    },
+    {
+      "id": "6311c81a-a765-43b5-8b9b-03af38aed2ac",
+      "tvSeriesId": "184b4987-da2b-49d9-b8d2-3566d16eb9f0",
+      "tmdbPersonId": 3887213,
+      "name": "Dex",
+      "character": "Self",
+      "profilePath": "/gA5I73YDTZeYf6fijwHRQHvFg8Z.jpg",
+      "order": 2
+    },
+    {
+      "id": "55df4773-9c94-4b6d-9d6a-d36d7fd1cbdb",
+      "tvSeriesId": "184b4987-da2b-49d9-b8d2-3566d16eb9f0",
+      "tmdbPersonId": 2214888,
+      "name": "Kim Hye-yoon",
+      "character": "Self",
+      "profilePath": "/ujFBbc3d0UdS4qeioxvO3xRLkdl.jpg",
+      "order": 3
+    },
+    {
+      "id": "25353856-8feb-4ec3-afbb-12f4427cffeb",
+      "tvSeriesId": "184b4987-da2b-49d9-b8d2-3566d16eb9f0",
+      "tmdbPersonId": 1348599,
+      "name": "Lee Si-eon",
+      "character": "Self",
+      "profilePath": "/4jcRr3q8pq3e8AFx9flvvoKVeVc.jpg",
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "959a6e52-4d67-4379-a40d-3ece74b3d274",
+      "tvSeriesId": "184b4987-da2b-49d9-b8d2-3566d16eb9f0",
+      "tmdbId": 529960,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/urzXydnZsqIG73lMCz9eWBfRY1p.jpg",
+      "airDate": "2026-04-16",
+      "episodeCount": 5,
+      "isPublished": true,
+      "createdAt": "2026-10-18T17:10:59.933Z",
+      "updatedAt": "2026-10-18T17:11:59.485Z"
+    }
+  ]
+}

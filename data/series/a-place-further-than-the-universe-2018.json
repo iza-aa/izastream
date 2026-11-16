@@ -1,0 +1,145 @@
+{
+  "slug": "a-place-further-than-the-universe-2018",
+  "id": "c1527797-5446-4a54-aa89-d6fe258049dd",
+  "title": "A Place Further than the Universe",
+  "overview": "Scenery that we have never seen. Sounds that we have never heard. Scent that we have never smelled. Food that we have never tasted. And the surge of emotion that we have never experienced. This is the expedition of recollecting the pieces torn apart and sensation left alone. When we reach that place, what will we think? Howling, 40 degree angle. Raging, 50 degree angle. Shouting, 60 degree angle. A wilderness beyond the heavy sea. The furthest south, far from civilization. At the top of the Earth. We will find lights through the girls' eyes to live tomorrow.",
+  "tagline": null,
+  "posterPath": "/vC3acJ5WsMSKLyXgEAj4zrwgpkG.jpg",
+  "backdropPath": "/7JR7tmIcThPxReIhVvwKTwVQKcY.jpg",
+  "logoPath": "/f2caTRjUJLItvAErKD72koYml9Y.png",
+  "firstAirDate": "2018-01-02",
+  "voteAverage": "7.86",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 13,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d0c1d8b4-5cfb-4de1-bce0-16ec0e24da17",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbPersonId": 1325949,
+      "name": "Inori Minase",
+      "character": "Mari 'Kimari' Tamaki (voice)",
+      "profilePath": "/cqOrQDUbbQLKpujzcK47YqjFdNp.jpg",
+      "order": 0
+    },
+    {
+      "id": "6491f9e0-a912-4322-a838-d19905278afc",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbPersonId": 119143,
+      "name": "Kana Hanazawa",
+      "character": "Shirase Kobuchizawa (voice)",
+      "profilePath": "/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg",
+      "order": 1
+    },
+    {
+      "id": "baa4233b-c52d-4795-9689-5ad6f632ef83",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbPersonId": 1242005,
+      "name": "Yuka Iguchi",
+      "character": "Hinata Miyake (voice)",
+      "profilePath": "/38ZjRGBLD4lvfU3mSMyIBCIq85D.jpg",
+      "order": 2
+    },
+    {
+      "id": "9972a8db-5af1-4e7a-b093-b7a6deeaaf77",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbPersonId": 221773,
+      "name": "Saori Hayami",
+      "character": "Yuzuki Shiraishi (voice)",
+      "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg",
+      "order": 3
+    },
+    {
+      "id": "33b1f80f-4ce1-43ad-8e50-616b8579bc08",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbPersonId": 1849550,
+      "name": "Asuna Tomari",
+      "character": "Students (voice)",
+      "profilePath": "/1UrGvjjGi5p0GvVugjbzGutU6vu.jpg",
+      "order": 512
+    },
+    {
+      "id": "a49e858c-ece0-4b7b-bc2e-918d0b99bb68",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbPersonId": 1991243,
+      "name": "Ikuji Nose",
+      "character": "Head of Year (voice)",
+      "profilePath": "/1ZGvJE9eMBA2TgpSQ54xp9YTGnG.jpg",
+      "order": 518
+    },
+    {
+      "id": "76ee4be3-dce5-4ab9-8a8e-7f4195d12135",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbPersonId": 79004,
+      "name": "Takako Honda",
+      "character": "Youko Tamaki (voice)",
+      "profilePath": "/LekbnCX6TcabG3EjSOKOgIGrvJ.jpg",
+      "order": 523
+    },
+    {
+      "id": "88334ff2-cd5f-4dda-8d9b-8314e6100621",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbPersonId": 2440369,
+      "name": "Yuki Ishikari",
+      "character": "Onboard Announcement (voice)",
+      "profilePath": "/tdYEtD4Uv9A3uNSMteWnYsmeHH4.jpg",
+      "order": 526
+    },
+    {
+      "id": "7d2d3def-33e6-4487-ac91-8db0c04901b8",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbPersonId": 1116333,
+      "name": "Hisako Kanemoto",
+      "character": "Megumi Takahashi (voice)",
+      "profilePath": "/qyJPQaehMc4Sy5jaTfIJLdrll2v.jpg",
+      "order": 533
+    },
+    {
+      "id": "1bd9dc8c-696c-4b95-a9c3-eec62e8c7a84",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbPersonId": 1779027,
+      "name": "Kaede Hondo",
+      "character": "Rin Tamaki (voice)",
+      "profilePath": "/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg",
+      "order": 534
+    }
+  ],
+  "seasons": [
+    {
+      "id": "94313254-4faa-4ceb-8fb6-5855fffb4d47",
+      "tvSeriesId": "c1527797-5446-4a54-aa89-d6fe258049dd",
+      "tmdbId": 97317,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/vC3acJ5WsMSKLyXgEAj4zrwgpkG.jpg",
+      "airDate": "2018-01-02",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-08-23T04:33:46.665Z",
+      "updatedAt": "2026-08-23T04:34:49.876Z"
+    }
+  ]
+}

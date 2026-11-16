@@ -1,0 +1,131 @@
+{
+  "slug": "enigma-black-stage-2025",
+  "id": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+  "title": "Enigma Black Stage",
+  "overview": "When the play “The Bloom and a Thousand Bees” is in being remade, it calls for a serious casting for the lead female role. Now, everyone in showbiz scrambles for and it seems they will do whatever it takes. Thus, the watchful eye of a certain group looms over this audition. What no one knows is that there’s a dangerous secret lurking behind the curtain, and whatever black magic is called upon.",
+  "tagline": "",
+  "posterPath": "/pSwaTpEatCVvCPpsT7ChtLZuqSj.jpg",
+  "backdropPath": "/hCOpTwMKyYWi2WEDrt6qXnPXDRc.jpg",
+  "logoPath": null,
+  "firstAirDate": "2025-07-26",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "9aed5163-1fe1-452d-b9c0-bd0ac3aa7e44",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbPersonId": 2595500,
+      "name": "Metawin Opas-iamkajorn",
+      "character": "Ajin",
+      "profilePath": "/sfpjkbFljpDFWPrq5zaOboBiiOH.jpg",
+      "order": 0
+    },
+    {
+      "id": "74711094-2cee-404e-86d1-b98d679e0b4b",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbPersonId": 569504,
+      "name": "Jarinporn Joonkiat",
+      "character": "Phlengphin",
+      "profilePath": "/jTinKXJMBRhHl8j5cAtjFJrascg.jpg",
+      "order": 1
+    },
+    {
+      "id": "c5e214e4-75b8-4ec1-ae34-ea004fb74c89",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbPersonId": 1836087,
+      "name": "Tipnaree Weerawatnodom",
+      "character": "Anya",
+      "profilePath": "/o80fUb8hE2s4qLT33CzaINoCAMT.jpg",
+      "order": 2
+    },
+    {
+      "id": "b90643c2-4478-4d49-864f-d6e749311549",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbPersonId": 5013531,
+      "name": "Thishar Thurachon",
+      "character": "MyDay",
+      "profilePath": "/iR03inQZHmah4DGcWAnpxLQf0Fa.jpg",
+      "order": 3
+    },
+    {
+      "id": "506760bc-77a3-402d-9ae9-77816d6cac8a",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbPersonId": 2100737,
+      "name": "Prariyapit Yu",
+      "character": "Jiw",
+      "profilePath": "/kNhgiEZ7onsL1NtjxDm1spJie4K.jpg",
+      "order": 4
+    },
+    {
+      "id": "525e20fd-427c-4c76-8aef-0bc0b231a104",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbPersonId": 1651449,
+      "name": "Niti Chaichitathorn",
+      "character": "M.L. Ray",
+      "profilePath": "/b5kJxNZNjJZJ6rG5Vj2dkAuq2Xz.jpg",
+      "order": 5
+    },
+    {
+      "id": "7e8906be-d520-41d3-92dd-948176be21a8",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbPersonId": 4942105,
+      "name": "Jeed Sikha Thitaradis",
+      "character": "",
+      "profilePath": "/7ntKihe54VV9EsUMPNyv7UwezIa.jpg",
+      "order": 6
+    },
+    {
+      "id": "a3c18855-135b-4a3e-b79a-ab94373e019b",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbPersonId": 4906862,
+      "name": "Ratcha-arpa-ake Tunsiriwanlobp",
+      "character": "",
+      "profilePath": "/qQD4Komfqcu6LBDBbP62OE60CLZ.jpg",
+      "order": 7
+    },
+    {
+      "id": "57a513bc-830b-41b0-96e7-a52eb511269a",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbPersonId": 76477,
+      "name": "Nophand Boonyai",
+      "character": "",
+      "profilePath": "/viXtPZqAUmxC3ZitOJ18LckHpcR.jpg",
+      "order": 8
+    },
+    {
+      "id": "7b4f7454-235e-48b0-adb1-7cece82ae4f6",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbPersonId": 5577567,
+      "name": "Pannawit Karnjanaveerawit",
+      "character": "",
+      "profilePath": null,
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "7bdc03e0-3265-4d78-b68f-bbe68ed04705",
+      "tvSeriesId": "8f1cf1f1-d8b7-44d6-8edf-749c13f32494",
+      "tmdbId": 465876,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/pSwaTpEatCVvCPpsT7ChtLZuqSj.jpg",
+      "airDate": "2025-07-26",
+      "episodeCount": 5,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:42:23.334Z",
+      "updatedAt": "2026-04-02T17:42:23.334Z"
+    }
+  ]
+}

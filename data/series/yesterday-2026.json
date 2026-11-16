@@ -1,0 +1,145 @@
+{
+  "slug": "yesterday-2026",
+  "id": "7572a581-ff03-453f-b152-5eaad4817649",
+  "title": "Yesterday",
+  "overview": "To reclaim his legacy, a betrayed heir teams up with an old ally to battle a ruthless half-brother now ruling a massive business empire.",
+  "tagline": "Promise that we'll stay together forever.",
+  "posterPath": "/ourl3332cUCcgBwlyFcI822bzw6.jpg",
+  "backdropPath": "/y9UB1N9XBOkO7AVHCVFKMINgoXS.jpg",
+  "logoPath": "/pnN7wbF0tC4XIN7iKvOKNcGOywd.png",
+  "firstAirDate": "2026-02-09",
+  "voteAverage": "7.60",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 11,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4a096a79-0a88-4c28-bb8c-02fb7312c432",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbPersonId": 3648368,
+      "name": "Wasuthorn Chaijindar",
+      "character": "Kelvin",
+      "profilePath": "/bQGqa6oKPOlUDv6sDnSbatUIZnD.jpg",
+      "order": 0
+    },
+    {
+      "id": "bb93699b-7a6b-48e8-88b2-49576e854f6e",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbPersonId": 3648367,
+      "name": "Thitipong Sangngey",
+      "character": "Veir",
+      "profilePath": "/9xKpztotYmPidHsmLKNXnDXMqxX.jpg",
+      "order": 1
+    },
+    {
+      "id": "ec051002-e1c6-4418-bf69-439847b1ff1c",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbPersonId": 4431454,
+      "name": "Dina Pophring",
+      "character": "Nana",
+      "profilePath": "/it8z38YGGb26zSDwPl9lmpx1Hfu.jpg",
+      "order": 2
+    },
+    {
+      "id": "1533d74d-b39b-416e-a361-0c2a23d31187",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbPersonId": 5439502,
+      "name": "Natthanicha Srisawasdiphalodom",
+      "character": "Lalin",
+      "profilePath": "/4aGb1AT9RnGVj6Ew1l2KXjeKZWk.jpg",
+      "order": 3
+    },
+    {
+      "id": "7bc7e923-331e-4fbe-a585-46f953779328",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbPersonId": 4184268,
+      "name": "Chotipat Suthadsanasoung",
+      "character": "Lalit",
+      "profilePath": "/7llzvXPCZ7KAiGz2hDh7JAQrA1c.jpg",
+      "order": 4
+    },
+    {
+      "id": "84472599-a6d6-4b29-8843-6227137071ac",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbPersonId": 4353650,
+      "name": "Natsakan Chairote",
+      "character": "Rawit",
+      "profilePath": "/8weSwPrXmwrT7QZEZdqfSoepfZi.jpg",
+      "order": 5
+    },
+    {
+      "id": "96816933-2dad-4351-8a56-036a7d8a7c08",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbPersonId": 1288000,
+      "name": "Sattaphong Phiangphor",
+      "character": "Ken",
+      "profilePath": "/t2v67A7jZa6Xupxw5XczVW1kIol.jpg",
+      "order": 6
+    },
+    {
+      "id": "d7868a7c-3c50-4f7a-b92e-b200dae36531",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbPersonId": 576368,
+      "name": "Patiparn Pataweekarn",
+      "character": "Khatha",
+      "profilePath": "/jQ3i1KxQoXtAeqxgJCKOBmd8Qid.jpg",
+      "order": 7
+    },
+    {
+      "id": "f7e60f87-53ed-485f-b827-284f6e3e26a5",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbPersonId": 3281713,
+      "name": "Sarut Vichitrananda",
+      "character": "Likhit",
+      "profilePath": "/g53WmoUxEXWacWKRjtNPAy5WtKO.jpg",
+      "order": 8
+    },
+    {
+      "id": "e802bf30-20f1-47e1-be12-9421b3522ff7",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbPersonId": 4511134,
+      "name": "Wiphop Bangyeekan",
+      "character": "Wat",
+      "profilePath": "/aw1hpezobNzHgoyqcNQY1r6ImKp.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4f6a4cf0-5d8c-49f8-858a-481d2a08b540",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbId": 509295,
+      "seasonNumber": 0,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/wFn54If0sejVrzU6C0XWoLwn3a1.jpg",
+      "airDate": "2026-04-13",
+      "episodeCount": 1,
+      "isPublished": true,
+      "createdAt": "2026-04-14T15:55:11.693Z",
+      "updatedAt": "2026-04-14T15:55:11.693Z"
+    },
+    {
+      "id": "6c2750e6-b33b-4241-bc8b-ac33ba338135",
+      "tvSeriesId": "7572a581-ff03-453f-b152-5eaad4817649",
+      "tmdbId": 483335,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "To reclaim his legacy, a betrayed heir teams up with an old ally to battle a ruthless half-brother now ruling a massive business empire.",
+      "posterPath": "/iJJJqwt2hfBU2zKRP5Kl46P6wNH.jpg",
+      "airDate": "2026-02-09",
+      "episodeCount": 11,
+      "isPublished": true,
+      "createdAt": "2026-04-14T15:55:11.693Z",
+      "updatedAt": "2026-04-14T15:55:11.693Z"
+    }
+  ]
+}

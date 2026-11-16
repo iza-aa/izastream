@@ -1,0 +1,145 @@
+{
+  "slug": "blood-sacrifice-2026",
+  "id": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+  "title": "Blood Sacrifice",
+  "overview": "Following the brutal murder of two police officers, a tenacious detective reluctantly joins forces with his estranged ex-cop father to catch the killer.",
+  "tagline": "Loyalty demands a heavy price.",
+  "posterPath": "/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+  "backdropPath": "/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
+  "logoPath": "/kDR1yuINOx7IRdhpThrqLs88pa6.png",
+  "firstAirDate": "2026-08-20",
+  "voteAverage": "6.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2cbcb35a-6ace-43bd-a1a7-cf2e2386a4a9",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbPersonId": 76555,
+      "name": "Jakob Oftebro",
+      "character": "Thomas Berg",
+      "profilePath": "/ypyMSXwABVXHjTOfpEHW008cw1A.jpg",
+      "order": 0
+    },
+    {
+      "id": "56bbfe74-b2fe-45e9-bd48-6857841c1e2b",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbPersonId": 21193,
+      "name": "Peter Andersson",
+      "character": "Alfred Berg",
+      "profilePath": "/3QrCFAESqlCgwg10KLv1Wre0sKL.jpg",
+      "order": 1
+    },
+    {
+      "id": "1fe8fecb-4cff-4e0c-857b-637959a80408",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbPersonId": 2912393,
+      "name": "Electra Hallman",
+      "character": "Natalie Eklund",
+      "profilePath": "/eNNuCL3Z28vzU9Q9TRt7sKPQ4lo.jpg",
+      "order": 2
+    },
+    {
+      "id": "69f9b7fa-dbe1-411c-a53d-6c7175f32590",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbPersonId": 2176282,
+      "name": "Alexander Abdallah",
+      "character": "John-Jo Persson",
+      "profilePath": "/AqCx9UAHa4vpZ1nx4UyTGz8iwjk.jpg",
+      "order": 3
+    },
+    {
+      "id": "94460815-8af4-4b2c-861a-5c2b5af08da3",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbPersonId": 64975,
+      "name": "Henrik Norlén",
+      "character": "Max Abrahamsson",
+      "profilePath": "/eiOu61USG30JqBKq6Axc05IU6yc.jpg",
+      "order": 4
+    },
+    {
+      "id": "ce0245f0-3059-40f0-964d-9522d56c9274",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbPersonId": 1136637,
+      "name": "Lisette Pagler",
+      "character": "Charlotte Berg",
+      "profilePath": "/fSsBNRZADMbTv0f7iILcLVt8VtH.jpg",
+      "order": 5
+    },
+    {
+      "id": "2d433861-8668-41d3-a180-0f2884a5bcb7",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbPersonId": 143391,
+      "name": "Magnus Krepper",
+      "character": "Peter Johansson",
+      "profilePath": "/xFN9sb8S2fjcUtbWvzTxoLH4QUJ.jpg",
+      "order": 6
+    },
+    {
+      "id": "1334da14-b30e-4c58-983a-af641244e2ea",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbPersonId": 85386,
+      "name": "Irina Björklund",
+      "character": "Rebecca Björklund",
+      "profilePath": "/3kHlo4M9TxGpbMQsM8ST4FjH4sp.jpg",
+      "order": 7
+    },
+    {
+      "id": "e31f04d9-ba7f-4de7-97cd-e3874c83a98b",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbPersonId": 1640021,
+      "name": "Anders Mossling",
+      "character": "Lucas Lind",
+      "profilePath": "/fH9pvugWOU3n5Er2WXOgUyA4eMG.jpg",
+      "order": 8
+    },
+    {
+      "id": "913f518c-9396-4cce-9543-c6788749ce30",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbPersonId": 4166155,
+      "name": "Anna Maria Käll",
+      "character": "",
+      "profilePath": "/4YIT91Qzrz9vtqNT4GjmrouFYqw.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "96970d73-8c56-4a59-aaab-a6dccb0447a2",
+      "tvSeriesId": "c36ffd17-658c-4127-8a4f-84822b25e9b4",
+      "tmdbId": 480589,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/5TLEOcH0ilJMfVZNS6xxnPci72l.jpg",
+      "airDate": "2026-08-20",
+      "episodeCount": 5,
+      "isPublished": true,
+      "createdAt": "2026-08-28T06:46:30.201Z",
+      "updatedAt": "2026-08-28T06:46:56.589Z"
+    }
+  ]
+}

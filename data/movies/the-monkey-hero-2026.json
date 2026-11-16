@@ -1,0 +1,304 @@
+{
+  "slug": "the-monkey-hero-2026",
+  "id": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+  "tmdbId": 1532494,
+  "imdbId": "tt42004417",
+  "title": "The Monkey Hero",
+  "originalTitle": "เห้งเจียแจ๊ส",
+  "overview": "Once upon a time in a land far, far away, Tang Sanzang set out on a journey with Monkey King Jazz and Sha Wujing—However, one member was missing from their group: Zhu Baji.",
+  "tagline": "Where man and god become friends.",
+  "posterPath": "/aC3ojoL7aEilCS0bZJVOwPBM0d0.jpg",
+  "backdropPath": "/9qu3iKGeayx6u9DUzu9dN6SYOpJ.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/9qu3iKGeayx6u9DUzu9dN6SYOpJ.jpg",
+    "/gwhBTjqHv0IMOWTBeKnQWkozs0k.jpg"
+  ],
+  "releaseDate": "2026-04-30",
+  "runtime": 115,
+  "voteAverage": "5.00",
+  "popularity": null,
+  "popularityScore": 82,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=GxklWfXfhqo",
+  "quality": "WEB-DL",
+  "director": "Poj Arnon",
+  "directorTmdbId": 111984,
+  "directorProfilePath": "/bETWd45bkio5LDAewuVDTBB1S1u.jpg",
+  "productionCompanies": [
+    {
+      "id": 7924,
+      "name": "M Studio",
+      "logo_path": "/1KG5lcXO8GZ2F6SshuMYw1Yf4vX.png"
+    },
+    {
+      "id": 134975,
+      "name": "Film Guru",
+      "logo_path": null
+    },
+    {
+      "id": 171009,
+      "name": "Positive Thinking",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 290660,
+      "name": "son wukong"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 7261,
+  "watchlistCount": 8,
+  "favouriteCount": 6,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-10T05:17:15.234Z",
+  "updatedAt": "2026-09-10T05:17:22.396Z",
+  "genres": [
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2df7e1dc-57c7-44c5-a8dd-2a4818bd76c7",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 569150,
+      "name": "Padung Songsang",
+      "character": "The Monkey King Jazz",
+      "profilePath": "/7kSSfwkf9o83kR5pvfA84mdTgkQ.jpg",
+      "order": 0
+    },
+    {
+      "id": "3902c33c-1b47-487a-9c5b-3b0db4d768d6",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 565365,
+      "name": "Choosak Iamsuk",
+      "character": "Zhu Bajie",
+      "profilePath": "/8v7OnwLJO4QBe2we3l1PInJFa4H.jpg",
+      "order": 1
+    },
+    {
+      "id": "cf3e971f-525f-4a2a-883d-f9ac7cd5daa0",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 3415057,
+      "name": "Kajbhunditt Jaidee",
+      "character": "Tang Sanzang",
+      "profilePath": "/ubGLQ55DQEfEJaKbjBHEB6xQdqg.jpg",
+      "order": 2
+    },
+    {
+      "id": "0c41722a-10da-459e-b6d1-5a5f7451c057",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 3282861,
+      "name": "Jakarin Puribhat",
+      "character": "Sha Wujing",
+      "profilePath": "/1V7jiYQ1905NDSThtRU2iNxWyiB.jpg",
+      "order": 3
+    },
+    {
+      "id": "333e1e16-6820-4741-9e3e-3c71acb0ace5",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 1560844,
+      "name": "Ongart Cheamcharoenpornkul",
+      "character": "The Wicked Bull Demon",
+      "profilePath": "/i3e4IuDngcByoViRZ8HMwNMNdRw.jpg",
+      "order": 4
+    },
+    {
+      "id": "02325d1f-f016-42f6-9bfe-1cced9e13264",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 3289962,
+      "name": "Nipaporn Thititanakarn",
+      "character": "The Iron Fan Princess",
+      "profilePath": "/rMUTEhzKpXbXsmsEj6U7SJMhRED.jpg",
+      "order": 5
+    },
+    {
+      "id": "75bcd851-683b-4c3c-8575-ff02e094b737",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 1991010,
+      "name": "Krittanai Arsalprakit",
+      "character": "The Spider Demon",
+      "profilePath": "/hFRq3nLmfJWdP7VxEs39ppoJS0N.jpg",
+      "order": 6
+    },
+    {
+      "id": "77436341-851c-4c6b-aed3-1fb97cc451fc",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 5749456,
+      "name": "Kritsana Panchai",
+      "character": "The Nine-Tailed Fox",
+      "profilePath": "/1kkEnawrAS30T8T8p39vaU1KYkm.jpg",
+      "order": 7
+    },
+    {
+      "id": "a95cf7b9-d8ba-41c3-887b-5e941e5feda6",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 5096821,
+      "name": "Thuwanon Traikup",
+      "character": "",
+      "profilePath": "/qh0g1oFJjZLkG9RqIUBTUDbdxB1.jpg",
+      "order": 8
+    },
+    {
+      "id": "3de25aea-9306-4738-bb4f-0660fb364151",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 1203876,
+      "name": "Arisara Wongchalee",
+      "character": "",
+      "profilePath": "/p8KgolBImhMDs12qjzYiuYo9iUM.jpg",
+      "order": 9
+    },
+    {
+      "id": "6fc3a1cd-ad86-497f-bd54-7ac897514b76",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 5316782,
+      "name": "Wanvayla Boonnithipaisit",
+      "character": "Vayla",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "61005fb5-6b91-4618-8136-a15f277172ff",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 1505542,
+      "name": "Muanfah Promyos",
+      "character": "Tangthai",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "8ec35126-5a85-4bd6-bb40-216d102257f0",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 230752,
+      "name": "Pramote Seangsorn",
+      "character": "",
+      "profilePath": "/chaJH87SviY4rqz3EaPLjvDDsPW.jpg",
+      "order": 12
+    },
+    {
+      "id": "76da2b7c-998a-4d87-bbe7-89c215749e63",
+      "movieId": "b0515d40-f8a0-442e-a5b7-20a5725ec783",
+      "tmdbPersonId": 4220986,
+      "name": "Min Il-hong",
+      "character": "",
+      "profilePath": "/97ZWohGaBRBEVlc154fcdsffcte.jpg",
+      "order": 13
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

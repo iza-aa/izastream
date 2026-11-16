@@ -1,0 +1,362 @@
+{
+  "slug": "nisekoi-false-love-2018",
+  "id": "cff7232f-f131-400d-9d36-db12abf60c87",
+  "tmdbId": 520541,
+  "imdbId": "tt8319778",
+  "title": "Nisekoi: False Love",
+  "originalTitle": "ニセコイ",
+  "overview": "Raku Ichijo (Kento Nakajima) is an only son and a high school student. His father is the leader of yakuza group Shuei-gumi. Raku Ichijo doesn't like to fight and he studies hard. His dream is to become a public official. One day, he passes the entrance gate at his high school and is kicked inadvertently by Chitoge Kirisaki (Ayami Nakajo). She is a new transfer student at the school. Chitoge Kirisaki is the only daughter of a rival gang leader. To keep the peace between the rival gangs led by their fathers, Raku Ichijo and Chitoge Kirisaki decide to act as boyfriend and girlfriend. --asianwiki",
+  "tagline": null,
+  "posterPath": "/l7JDXBMNrh1pvcN6aSX5FLR0vRi.jpg",
+  "backdropPath": "/yr3SOUmBXKbuASkUeVCcjwkWVK8.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/yr3SOUmBXKbuASkUeVCcjwkWVK8.jpg",
+    "/3LfMupK3F1jzgdVBpfryMgxh4nL.jpg",
+    "/1KL9esL8odcrpu6zrJrIp3yftLl.jpg",
+    "/dvMaIYTCnjRLqaaxLLvJeaDXaAr.jpg",
+    "/3GKYrCJ6RrWIrPEu5t3LdbdAGr6.jpg",
+    "/jgpJnBbcAhUdc1c1Me4bQB7dWTa.jpg"
+  ],
+  "releaseDate": "2018-12-21",
+  "runtime": 117,
+  "voteAverage": "7.40",
+  "popularity": null,
+  "popularityScore": 321,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "WEB-DL",
+  "director": "Hayato Kawai",
+  "directorTmdbId": 1500346,
+  "directorProfilePath": "/9yaBYmJtTAXPgyDARlpboQdP4vJ.jpg",
+  "productionCompanies": [
+    {
+      "id": 882,
+      "name": "TOHO",
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png"
+    },
+    {
+      "id": 106138,
+      "name": "FINE Entertainment",
+      "logo_path": "/1pKCqm0yLwZWQMHvk8JSgz50uUu.png"
+    },
+    {
+      "id": 1393,
+      "name": "TBS",
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png"
+    },
+    {
+      "id": 127264,
+      "name": "TC Entertainment",
+      "logo_path": "/8K9U5yxdQqWa79z85DXxZ2TgDmb.png"
+    },
+    {
+      "id": 41861,
+      "name": "GYAO",
+      "logo_path": "/iQ9Av0fDGKDUInp4I5czxhz5fVj.png"
+    },
+    {
+      "id": 7093,
+      "name": "Hokkaido Broadcasting",
+      "logo_path": "/noWiZlQLfjCyDAUJlA0miLClsHI.png"
+    },
+    {
+      "id": 2883,
+      "name": "Aniplex",
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png"
+    },
+    {
+      "id": 12385,
+      "name": "RKB Mainichi Broadcasting Corporation",
+      "logo_path": "/piV4KOvWfuxhZUkDbdb5ZWDEpRJ.png"
+    },
+    {
+      "id": 12384,
+      "name": "CBC",
+      "logo_path": "/qNooLje0YQh1y3y9LUM2Y5QCtiF.png"
+    },
+    {
+      "id": 3363,
+      "name": "MBS",
+      "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png"
+    },
+    {
+      "id": 97212,
+      "name": "TEN CARAT",
+      "logo_path": "/lpHasK6yK0NbxHBgWBXCwJw4uZf.png"
+    },
+    {
+      "id": 4331,
+      "name": "J Storm",
+      "logo_path": "/nzxSt1t5BauSmB6shDOyDc8zWCX.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 13141,
+      "name": "based on manga"
+    },
+    {
+      "id": 235790,
+      "name": "japanese high school"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 4005,
+  "watchlistCount": 30,
+  "favouriteCount": 14,
+  "shareCount": 3,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-03T13:06:13.521Z",
+  "updatedAt": "2026-10-03T13:06:27.069Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8da7b6df-7f2d-4452-b7c4-eff5a2fd126b",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 1434084,
+      "name": "Kento Nakajima",
+      "character": "Raku Ichijo",
+      "profilePath": "/gKs2ondJ9iXtsgdxzjKASODQLS3.jpg",
+      "order": 0
+    },
+    {
+      "id": "e22fd7d7-3825-4463-a844-74b07e44251b",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 1373210,
+      "name": "Ayami Nakajo",
+      "character": "Chitoge Kirisaki",
+      "profilePath": "/jutp3enr6Xako0CQegQwpMTJP6u.jpg",
+      "order": 1
+    },
+    {
+      "id": "86d57d1d-a62a-4e52-b484-bad5a97f6164",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 2052465,
+      "name": "Natsumi Ikema",
+      "character": "Kosaki Onodera",
+      "profilePath": "/aLhThPjF5SyUBlycDXwrPBfo1nm.jpg",
+      "order": 2
+    },
+    {
+      "id": "2d965ece-6a06-46e5-b561-699e3c7d478f",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 1255097,
+      "name": "Haruka Shimazaki",
+      "character": "Marika Tachibana",
+      "profilePath": "/6VFFdnNu7Qh1OmoUGt1yW2KQH1I.jpg",
+      "order": 3
+    },
+    {
+      "id": "345db2d0-10fc-4284-a786-2693f3a5cac4",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 1634881,
+      "name": "Yuta Kishi",
+      "character": "Shu Maiko",
+      "profilePath": "/3lSCTQOyL1sjs6RMVSufAtEXkx3.jpg",
+      "order": 4
+    },
+    {
+      "id": "c7c6d47a-7926-42c6-9d28-afc1b22e5ff7",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 1988690,
+      "name": "Kaede Aono",
+      "character": "Seishiro Tsugumi",
+      "profilePath": "/uYJkIg2VG56qedSmXiO8WaYrqPz.jpg",
+      "order": 5
+    },
+    {
+      "id": "c9dca205-ef7e-4cd2-9541-2b37e2ad1a21",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 1698187,
+      "name": "GENKING",
+      "character": "",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "6de6ce06-ba49-44ea-8155-0651d0f14cc7",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 112862,
+      "name": "Marika Matsumoto",
+      "character": "Kyoko Nichihara",
+      "profilePath": "/hM0T3WSnqgkTy9hAA4DAY2sUPkA.jpg",
+      "order": 7
+    },
+    {
+      "id": "ae40d668-77f3-4aa8-90e1-bd111ef4bb13",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 1059930,
+      "name": "Tomomi Maruyama",
+      "character": "",
+      "profilePath": "/yMpygHpjMSLTBb9BdY8TZY7xdM3.jpg",
+      "order": 8
+    },
+    {
+      "id": "f862b4c3-47b8-4ea9-841a-441f263cd03e",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 2052468,
+      "name": "Hana Kawamura",
+      "character": "Ruri Miyamoto",
+      "profilePath": "/e0smIY7Uroru2j0hLmh6NwZydmY.jpg",
+      "order": 9
+    },
+    {
+      "id": "3b1bd0cc-6fa4-4fde-8673-b57e9afb7cbf",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 567068,
+      "name": "Ryo Kato",
+      "character": "",
+      "profilePath": "/fCf6fznTJrlZsfoA8vMcBWfuJTD.jpg",
+      "order": 10
+    },
+    {
+      "id": "35eb5f2e-b7c6-4b66-ace7-5db9e7d8d3da",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 139373,
+      "name": "Jiro Dan",
+      "character": "",
+      "profilePath": "/poUxPe4PA7oVRuacNCvlvkHRCXY.jpg",
+      "order": 11
+    },
+    {
+      "id": "669234ee-33f0-452e-8985-e721851f2acf",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 73186,
+      "name": "Shin Takuma",
+      "character": "",
+      "profilePath": "/HHhEw54PdEfQzcKlBnZdYIbP87.jpg",
+      "order": 12
+    },
+    {
+      "id": "bdbb0f22-2eb0-47e3-9f10-ccd75b2e7f31",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 4915018,
+      "name": "Kana Okada",
+      "character": "",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "9b33c02d-a69d-4ccd-9b77-5de885e32c4f",
+      "movieId": "cff7232f-f131-400d-9d36-db12abf60c87",
+      "tmdbPersonId": 1111225,
+      "name": "DAIGO",
+      "character": "Chitoge's bodyguard",
+      "profilePath": "/dBR9J6CKXcyVZgX5uq9GSF4kyTO.jpg",
+      "order": 14
+    }
+  ],
+  "requestedBy": {
+    "username": "rrnia1710",
+    "displayName": "Rania Okta Aryanti"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

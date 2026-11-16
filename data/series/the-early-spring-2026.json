@@ -1,0 +1,138 @@
+{
+  "slug": "the-early-spring-2026",
+  "id": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+  "title": "The Early Spring",
+  "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+  "tagline": null,
+  "posterPath": "/jApbazll5smAY1AVd6dDoceBM3r.jpg",
+  "backdropPath": "/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
+  "logoPath": "/9oO4ovVx0NbmrqNdKVK2OOHKxar.png",
+  "firstAirDate": "2026-08-26",
+  "voteAverage": "8.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 24,
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f68da635-149b-4935-b15f-296aa4cccd89",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbPersonId": 1094210,
+      "name": "Jing Boran",
+      "character": "Luan Nian",
+      "profilePath": "/vsXA4vbmlYDUmAAUuLBYQUUcMcF.jpg",
+      "order": 0
+    },
+    {
+      "id": "52357584-d1ee-4f90-b4f2-968a52c68184",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbPersonId": 2084573,
+      "name": "Sun Qian",
+      "character": "Shang Zhitao",
+      "profilePath": "/3W570R5S7hcjKb1gLLRMVc7liJH.jpg",
+      "order": 1
+    },
+    {
+      "id": "799a04f3-297a-461b-a720-92d8edb05454",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbPersonId": 4515680,
+      "name": "Liu Xiaobei",
+      "character": "Sun Yuanzhu",
+      "profilePath": "/t7ORvESrEq0K2n1ognceKdeAorQ.jpg",
+      "order": 2
+    },
+    {
+      "id": "0a10ae05-ade7-40fe-bd6e-96dcf3b34c2b",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbPersonId": 4134012,
+      "name": "Qi Tianqing",
+      "character": "Sun Yu",
+      "profilePath": "/z7oPJy5Q1jsBJMygBdwWJS3b3n9.jpg",
+      "order": 3
+    },
+    {
+      "id": "26b9a90f-b2c6-4c12-8ddd-4a9e88b52eec",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbPersonId": 2494733,
+      "name": "Zhang Yezi",
+      "character": "Lumi",
+      "profilePath": "/nd7F98xzR3dFaUnzD8hc03374eR.jpg",
+      "order": 4
+    },
+    {
+      "id": "3582a78e-0e86-49ac-8959-7930dedef343",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbPersonId": 1846861,
+      "name": "Li Chuan",
+      "character": "Alex",
+      "profilePath": "/ez2NxLx8ctr0i0bjEHscKiWNHFe.jpg",
+      "order": 500
+    },
+    {
+      "id": "d88f95e0-4c9e-4fb9-803f-0581d8ffcebe",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbPersonId": 2356055,
+      "name": "Peng Yang",
+      "character": "Liang Xin",
+      "profilePath": "/uDYmcAFlCgxx4VlqAq51pOEFO9A.jpg",
+      "order": 501
+    },
+    {
+      "id": "052602e6-9c9e-4527-9f90-e024a89f1bd6",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbPersonId": 1513376,
+      "name": "Guo Xiaoting",
+      "character": "Zang Yao",
+      "profilePath": "/oltMcOU1SKYo55MLyoAVJ4gaOAo.jpg",
+      "order": 503
+    },
+    {
+      "id": "2692fc8a-b758-45e0-a124-77186171f219",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbPersonId": 4519765,
+      "name": "Yu San",
+      "character": "Jack",
+      "profilePath": "/apLeZOPe5lwj4f3iDneHr2UnmzN.jpg",
+      "order": 504
+    },
+    {
+      "id": "2d2bb1a1-dcce-440f-8110-b6f32ad2e366",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbPersonId": 1944965,
+      "name": "Pang Hanchen",
+      "character": "",
+      "profilePath": "/Asu0dEjpm4oJq5vgdfauPDmE9SN.jpg",
+      "order": 505
+    }
+  ],
+  "seasons": [
+    {
+      "id": "80ebd3b2-3100-4270-b0ab-8220878ac213",
+      "tvSeriesId": "cee33d85-8155-4dfe-aa9b-92a553a054fc",
+      "tmdbId": 473557,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "A warmhearted new employee and her gifted boss navigate a fast-paced workplace, all while harboring a secret relationship that may jeopardize everything.",
+      "posterPath": "/rN1EK7gcFh6lKtE3ECrchiIF6hd.jpg",
+      "airDate": "2026-08-26",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-09-11T11:00:02.548Z",
+      "updatedAt": "2026-09-13T17:31:44.535Z"
+    }
+  ]
+}

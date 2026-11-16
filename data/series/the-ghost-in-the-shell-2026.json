@@ -1,0 +1,159 @@
+{
+  "slug": "the-ghost-in-the-shell-2026",
+  "id": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+  "title": "THE GHOST IN THE SHELL",
+  "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame?",
+  "tagline": "The aggressive unit \"Shell Squad\", led by the full-body cyborg Motoko Kusanagi.",
+  "posterPath": "/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
+  "backdropPath": "/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
+  "logoPath": "/oosWS0zLq9BD1gwv0tcjnttVu03.png",
+  "firstAirDate": "2026-07-07",
+  "voteAverage": "8.10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c805dd33-858a-476f-92c7-99a216e1fbad",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbPersonId": 9711,
+      "name": "Maaya Sakamoto",
+      "character": "Motoko Kusanagi (voice)",
+      "profilePath": "/jcjTJbxN3rYOtjSJihvbygvEFFZ.jpg",
+      "order": 0
+    },
+    {
+      "id": "5898cd3d-1c11-49b9-972a-e2b7bda9343f",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbPersonId": 216448,
+      "name": "Hiroki Yasumoto",
+      "character": "Batou (voice)",
+      "profilePath": "/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg",
+      "order": 1
+    },
+    {
+      "id": "c8f0cc06-4699-4fc8-abd7-9d32ddfc7c4d",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbPersonId": 1221114,
+      "name": "Yuichi Nakamura",
+      "character": "Togusa (voice)",
+      "profilePath": "/wb8behVKjBHX9XXrEydvNINCYwH.jpg",
+      "order": 2
+    },
+    {
+      "id": "ff340181-5de2-4388-b854-bca64943dc13",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbPersonId": 552339,
+      "name": "Kazuhiro Yamaji",
+      "character": "Daisuke Aramaki (voice)",
+      "profilePath": "/fgGTdhTiWViGmjl2kABHWzLIpZ0.jpg",
+      "order": 3
+    },
+    {
+      "id": "e268fd8c-3ec1-46f8-a52b-f331f4146872",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbPersonId": 1939012,
+      "name": "Kousuke Goto",
+      "character": "Ishikawa (voice)",
+      "profilePath": "/yKZfd7qx8sEfEwBdjPawQWkQwaF.jpg",
+      "order": 4
+    },
+    {
+      "id": "05a68ec7-6315-4372-b9cb-11d1c9247710",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbPersonId": 1251423,
+      "name": "Toru Nara",
+      "character": "Saito (voice)",
+      "profilePath": "/rrfvhZpmGsgGxmBSo7SJ6rUfuXP.jpg",
+      "order": 5
+    },
+    {
+      "id": "551dc112-c641-4f58-8cb9-951354ab5fef",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbPersonId": 3249610,
+      "name": "Marie Ooi",
+      "character": "Operator (voice)",
+      "profilePath": "/5Yy0LYMEqmGlMHGOg2johmMeSwc.jpg",
+      "order": 6
+    },
+    {
+      "id": "89ccb36e-6154-4b7d-9c87-17cfa9b55c04",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbPersonId": 184460,
+      "name": "Tomoko Kaneda",
+      "character": "Fuchikoma (voice)",
+      "profilePath": "/oj2f7KpJLas78N19GvBS41ydZCa.jpg",
+      "order": 7
+    },
+    {
+      "id": "808ba518-ac85-44ed-af7d-7478107c3402",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbPersonId": 6391375,
+      "name": "Himari Fujii",
+      "character": "Adam",
+      "profilePath": "/ipXmvqGwJdFlVVwmxVFAUKAvmfS.jpg",
+      "order": 504
+    },
+    {
+      "id": "e95a3979-7507-40fc-88f7-1ed86437a8a9",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbPersonId": 6251028,
+      "name": "Miyu Amano",
+      "character": "Link",
+      "profilePath": "/hzrKtJiDqixS1Rt2jYewyaNf9jh.jpg",
+      "order": 505
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1772e873-c5be-4673-a9ae-cb3777f09b2e",
+      "tvSeriesId": "27b7057c-fe95-4856-be0e-1cbe8f4148f8",
+      "tmdbId": 395556,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "In the year 2029, Niihama City has become a technologically advanced metropolis. Due to great improvements in cybernetics, its citizens are able to replace their limbs with robotic parts. The world is now more interconnected than ever before, and the city's Public Security Section 9 is responsible for combating corruption, terrorism, and other dangerous threats following this shift toward globalisation.",
+      "posterPath": "/91eyhA9xmfAVUOcmOnRgE9HyBw0.jpg",
+      "airDate": "2026-07-07",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-09T02:38:47.165Z",
+      "updatedAt": "2026-10-09T02:39:51.830Z"
+    }
+  ]
+}

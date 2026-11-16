@@ -1,0 +1,276 @@
+{
+  "slug": "hallowarrior-2026",
+  "id": "8097ba3e-0f22-459a-9820-6eea1731ed67",
+  "tmdbId": 1393929,
+  "imdbId": "tt29703555",
+  "title": "Hallowarrior",
+  "originalTitle": "Hallowarrior",
+  "overview": "Pumpkin, the last girl on earth and sole survivor of a humanity-ending plague, scavenging the wasteland for supplies on the eve of Halloween. Pumpkin’s lonely holiday ritual is interrupted by the arrival of a savage gang of raiders at her doorstep, led by the fearsome Thalia. Outnumbered and armed with candy, wit and weapons, Pumpkin must ferociously fight back to survive the night.",
+  "tagline": "The whole world is a haunted house.",
+  "posterPath": "/kwbCAGU3yV06GLq9FZd6MVltWGo.jpg",
+  "backdropPath": "/m2rfjZx3jzkJ1DVDIZ1n6dRRMQc.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/m2rfjZx3jzkJ1DVDIZ1n6dRRMQc.jpg",
+    "/1IxnAHp56FzwfQd7A51ppp7voc6.jpg",
+    "/pvmRVSf3x7nVN7kLweU8FUlHsQa.jpg",
+    "/3v4SA48wjOLMtmO3TB8lNgpr40q.jpg",
+    "/AekI6MydeD7YVl2IlRm28keosmE.jpg",
+    "/uhOitzoMxpUBdS58F0zxSiEjI29.jpg",
+    "/A9dfMcVAnVCIEqNBemCSTr8JBQi.jpg",
+    "/8mj4qvVXOOKVOHOcFLakcbV6akS.jpg",
+    "/67bsGD3J52VDKmaVcFarxccNqLQ.jpg",
+    "/7dG7k2DJskgJV4uNTb25mSRukfy.jpg"
+  ],
+  "releaseDate": "2026-06-10",
+  "runtime": 80,
+  "voteAverage": "5.75",
+  "popularity": null,
+  "popularityScore": 76,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=peeB2FxGgIY",
+  "quality": "WEB-DL",
+  "director": "Ben Sottak",
+  "directorTmdbId": 1938130,
+  "directorProfilePath": "/uLb5QB5PjLcMqFD8EkI3ecEsZd0.jpg",
+  "productionCompanies": [
+    {
+      "id": 245799,
+      "name": "Strange Aeons",
+      "logo_path": null
+    },
+    {
+      "id": 218062,
+      "name": "The Spitting Image",
+      "logo_path": null
+    },
+    {
+      "id": 227041,
+      "name": "The Dazey Phase Production Company",
+      "logo_path": null
+    },
+    {
+      "id": 88582,
+      "name": "Cinetic Media",
+      "logo_path": "/zf2Akd6JvRZlnd1OacHYaN5dj0k.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2546,
+      "name": "mask"
+    },
+    {
+      "id": 4458,
+      "name": "post-apocalyptic future"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 14903,
+      "name": "home invasion"
+    },
+    {
+      "id": 268132,
+      "name": "based on short film"
+    },
+    {
+      "id": 386201,
+      "name": "dyed hair"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1607,
+  "watchlistCount": 10,
+  "favouriteCount": 4,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-17T17:18:03.972Z",
+  "updatedAt": "2026-10-17T17:18:11.115Z",
+  "genres": [
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ee4178e2-7b35-43cd-a3f9-d8440dff1734",
+      "movieId": "8097ba3e-0f22-459a-9820-6eea1731ed67",
+      "tmdbPersonId": 1945702,
+      "name": "Milly Shapiro",
+      "character": "Pumpkin",
+      "profilePath": "/5QVwZttyqVDl0M3AKwe0SDU8S5R.jpg",
+      "order": 0
+    },
+    {
+      "id": "1d20f1aa-f67f-4a8a-846f-ab600e13e9b7",
+      "movieId": "8097ba3e-0f22-459a-9820-6eea1731ed67",
+      "tmdbPersonId": 27855,
+      "name": "Shannyn Sossamon",
+      "character": "Thalia",
+      "profilePath": "/h7oiKMaoq0J5DM3PBZxffF9uJo4.jpg",
+      "order": 1
+    },
+    {
+      "id": "0b1f633f-c17e-46bc-90c3-15e2981ef045",
+      "movieId": "8097ba3e-0f22-459a-9820-6eea1731ed67",
+      "tmdbPersonId": 2027170,
+      "name": "Ajani Russell",
+      "character": "Wendy",
+      "profilePath": "/8AsPogz7iLDmKIQqeRf24UAQsEs.jpg",
+      "order": 2
+    },
+    {
+      "id": "8512eb2d-88f2-44d8-aa5c-022f046a696a",
+      "movieId": "8097ba3e-0f22-459a-9820-6eea1731ed67",
+      "tmdbPersonId": 74133,
+      "name": "AJ Bowen",
+      "character": "Royce",
+      "profilePath": "/fGSSDkxLOkaUNj1VLHEg6ZPi3Jw.jpg",
+      "order": 3
+    },
+    {
+      "id": "b912a707-32d0-466f-99c0-d83c7b9001c0",
+      "movieId": "8097ba3e-0f22-459a-9820-6eea1731ed67",
+      "tmdbPersonId": 1826460,
+      "name": "Victor Plajas",
+      "character": "",
+      "profilePath": "/mWnrtjy3TEmlMzGEILCuXIOjrWs.jpg",
+      "order": 4
+    },
+    {
+      "id": "866d8b5c-200e-4fb2-abe7-448b625c9e4e",
+      "movieId": "8097ba3e-0f22-459a-9820-6eea1731ed67",
+      "tmdbPersonId": 3979287,
+      "name": "Taylor Valentine Lupini",
+      "character": "",
+      "profilePath": "/pyBl3OUxzMrggYyPm0sEUgHwGiq.jpg",
+      "order": 5
+    },
+    {
+      "id": "63669d2d-6e93-4705-92d8-ad59402f57e5",
+      "movieId": "8097ba3e-0f22-459a-9820-6eea1731ed67",
+      "tmdbPersonId": 5407447,
+      "name": "Logan Beveridge",
+      "character": "",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "1d417cd7-a9db-421c-bea1-cb1f3fd20ef0",
+      "movieId": "8097ba3e-0f22-459a-9820-6eea1731ed67",
+      "tmdbPersonId": 4651048,
+      "name": "Bobby McFarlane",
+      "character": "",
+      "profilePath": "/oz4Yi1FfZ26UY9ZbYedpyneBNW5.jpg",
+      "order": 7
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

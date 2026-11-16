@@ -1,0 +1,367 @@
+{
+  "slug": "40-dates-and-40-nights-2026",
+  "id": "7737db68-827b-4f01-982a-d023b8d6438d",
+  "tmdbId": 1431804,
+  "imdbId": "tt33219707",
+  "title": "40 Dates and 40 Nights",
+  "originalTitle": "40 Dates and 40 Nights",
+  "overview": "Ready to quit the dating scene altogether, burned-out Leah accepts her grandmother's outrageous challenge—40 dates in 40 nights in exchange for a year's rent—only to discover amidst the awkward dinners and unexpected sparks that her biggest obstacle to love is herself.",
+  "tagline": "How many dates does it take to find love?",
+  "posterPath": "/eApzPVSmVzRs8GkJX4FSquxi7RN.jpg",
+  "backdropPath": "/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
+  "logoPath": "/uU9Eipwra99WXreysMgYGIo9B4w.png",
+  "backdrops": [
+    "/dgleeErFcEHEacYabCTDwr1zAl2.jpg",
+    "/koTdpCeuvKjhSCBtT2KrZYaP1v4.jpg",
+    "/yEusw6hAY5KBQCiFzSFoyUx6vzy.jpg"
+  ],
+  "releaseDate": "2026-06-16",
+  "runtime": 101,
+  "voteAverage": "7.10",
+  "popularity": null,
+  "popularityScore": 1156,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=Egk_FWQgW4w",
+  "quality": "WEB-DL",
+  "director": "Andy Delaney",
+  "directorTmdbId": 1707012,
+  "directorProfilePath": "/liqHM6NjSuNJrb0TMotlzgJoy1l.jpg",
+  "productionCompanies": [
+    {
+      "id": 183322,
+      "name": "Lucky Number 8 Productions",
+      "logo_path": "/nGrB4bYbXYyXJf8TprEUEpKqYyd.png"
+    },
+    {
+      "id": 214050,
+      "name": "Rebellium Films",
+      "logo_path": "/tH3zOqGk3MzCU9ZB7STpquI2Pd7.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 12335,
+      "name": "aunt niece relationship"
+    },
+    {
+      "id": 6432,
+      "name": "rent"
+    },
+    {
+      "id": 11411,
+      "name": "wager"
+    },
+    {
+      "id": 188993,
+      "name": "true love"
+    },
+    {
+      "id": 273297,
+      "name": "grandmother granddaughter relationship"
+    },
+    {
+      "id": 295776,
+      "name": "student debt"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 22833,
+  "watchlistCount": 192,
+  "favouriteCount": 52,
+  "shareCount": 12,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-29T13:48:08.697Z",
+  "updatedAt": "2026-09-29T13:48:13.528Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "dffe1bd5-e39a-482c-8de2-631f6d7e64ec",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 54479,
+      "name": "Bailee Madison",
+      "character": "Leah Jones",
+      "profilePath": "/ltGpL7Yub5XshzWfUb8XJbsIDMT.jpg",
+      "order": 0
+    },
+    {
+      "id": "b3ccead2-e862-4f46-8ee3-2d87e132311b",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 518627,
+      "name": "Joel Courtney",
+      "character": "Mason",
+      "profilePath": "/XvlAlEedqATZcPoZcQh3cxXOA7.jpg",
+      "order": 1
+    },
+    {
+      "id": "d4290319-5659-4d7b-b5d7-85632e9f0a63",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 3563646,
+      "name": "Jack Schumacher",
+      "character": "Jackson",
+      "profilePath": "/pMRUZPW4vnzSqC86A0jElpXHkD9.jpg",
+      "order": 2
+    },
+    {
+      "id": "004de84b-263d-484e-ab7d-890ba50737b2",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 2125248,
+      "name": "Luxy Banner",
+      "character": "Bianca",
+      "profilePath": "/g1FDMpMgeRJcF3aszYpvoNUxlxY.jpg",
+      "order": 3
+    },
+    {
+      "id": "d6d41a8a-adf6-49cc-a3b9-609e142c9a1c",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 1362512,
+      "name": "Eric Nelsen",
+      "character": "Buzz",
+      "profilePath": "/xw1fKCVGVKx2UpkjYuX65cDOarw.jpg",
+      "order": 4
+    },
+    {
+      "id": "0b5f8c5b-cd8f-4e26-89e3-51d7e239eefa",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 1426677,
+      "name": "Liz Mikel",
+      "character": "Edith",
+      "profilePath": "/eyCyzqZRbh2DK70kmUYb9TLJUuE.jpg",
+      "order": 5
+    },
+    {
+      "id": "17ee8b3b-97e1-481a-8241-71a57d9b742d",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 159381,
+      "name": "Jennifer Griffin",
+      "character": "Tilda",
+      "profilePath": "/jih8vkxQu2IBSelEo1VaN9d5Bj6.jpg",
+      "order": 6
+    },
+    {
+      "id": "2e832013-e839-4f10-a878-45485f1c1313",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 200709,
+      "name": "Jai Rodriguez",
+      "character": "Steven",
+      "profilePath": "/xwLm4PUXjrcxGW9fUT6T77YVyTk.jpg",
+      "order": 7
+    },
+    {
+      "id": "258abe7b-82a5-4d67-b73c-a3037c8dc6dc",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 8873,
+      "name": "Annie Potts",
+      "character": "Gigi",
+      "profilePath": "/nugPVN28qOhOIoHawrDJ6fIfrxR.jpg",
+      "order": 8
+    },
+    {
+      "id": "5c612405-523a-4538-bae1-799bf3817dec",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 4737916,
+      "name": "Joseph Rosa",
+      "character": "Matt",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "6a23a7fa-f2bc-4c93-8fa9-dcd6cfe9dae8",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 2016403,
+      "name": "Bethany Geaber",
+      "character": "Mavis",
+      "profilePath": "/zkmEizToJTTBeSolo7v3eAZno3k.jpg",
+      "order": 10
+    },
+    {
+      "id": "42bde61c-9208-4d62-8e20-03b995f8f910",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 1764557,
+      "name": "Jeremy Culhane",
+      "character": "George",
+      "profilePath": "/vrmnlXy1qmf50zFTER9Ak2CFBmW.jpg",
+      "order": 11
+    },
+    {
+      "id": "dbcad653-6d7e-4b2c-b48d-ab3a4c9941a2",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 4856077,
+      "name": "Tanner Ellis",
+      "character": "Ben #2",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "42f45ba9-3e42-42b1-85b5-e56681b0ba1f",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 6384512,
+      "name": "Mika Ireland",
+      "character": "Scarlett",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "f5a73998-94ba-4f71-9aec-4a50c87473cd",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 2188977,
+      "name": "Mia Challis",
+      "character": "Veronica Summers",
+      "profilePath": "/tIhPtbNUYwOiPEwXLH3FtyKZ9Pl.jpg",
+      "order": 14
+    },
+    {
+      "id": "d67ce94f-102c-44d8-a7a3-134bd92405b9",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 304848,
+      "name": "Randy McDowell",
+      "character": "Baker",
+      "profilePath": "/qH8VLDYKO6ARgNfSvE8hN8AeQ9e.jpg",
+      "order": 15
+    },
+    {
+      "id": "7743fc6b-e6d7-4294-9177-768fe7016c34",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 207509,
+      "name": "Mark Hapka",
+      "character": "Curt",
+      "profilePath": "/a7ST5UIS6oNfFfuZQBPmGBjhMEE.jpg",
+      "order": 16
+    },
+    {
+      "id": "1233aae4-fb07-48c4-8150-3923b016c0bf",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 87741,
+      "name": "Sterling Knight",
+      "character": "Date #2 - Potato Guy",
+      "profilePath": "/dwYZPuMMDT2nfG6Sr12uP2ZcDrq.jpg",
+      "order": 17
+    },
+    {
+      "id": "64731f38-eb91-4be1-837c-25f08079fdb2",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 2752229,
+      "name": "Aaron Valentine",
+      "character": "Date #4 - Pudding Guy",
+      "profilePath": "/75pDvXb3fC7iKJIzWzPObKE9cdi.jpg",
+      "order": 18
+    },
+    {
+      "id": "6806f838-37ae-496d-926a-78e5f4fb6226",
+      "movieId": "7737db68-827b-4f01-982a-d023b8d6438d",
+      "tmdbPersonId": 25909,
+      "name": "Ian Hyland",
+      "character": "Date #5 - Spaghetti Boy",
+      "profilePath": "/v1CISuebV0M9VVFG1fkmNWpLhbC.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

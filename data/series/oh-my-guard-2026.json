@@ -1,0 +1,152 @@
+{
+  "slug": "oh-my-guard-2026",
+  "id": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+  "title": "Oh! My Guard",
+  "overview": "A wildly unpredictable romance begins when a flawed “master of melodrama” actor encounters a mysterious woman who believes she is the female lead of a TV drama.",
+  "tagline": "Her very strange world (?) has come to me.",
+  "posterPath": "/dg4IIruyBEtSgjW5fdXi46xrSzC.jpg",
+  "backdropPath": "/jFpUscK4vAj2F6pZH1ZT20cO6sw.jpg",
+  "logoPath": "/8INHzI2A4Pa23UnlScY7N1ZWXgT.png",
+  "firstAirDate": "2026-10-24",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0840413a-4106-400f-ae04-addab543c7cc",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbPersonId": 1251234,
+      "name": "Jung Yong-hwa",
+      "character": "Um Tae-bong",
+      "profilePath": "/102OhJ77OXsch74Vr9JxYwBjM4Z.jpg",
+      "order": 0
+    },
+    {
+      "id": "d5f661a9-8faa-4717-b442-349d61915038",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbPersonId": 2870602,
+      "name": "Hong Seung-hee",
+      "character": "Oh Hae-ra / Cha Hong-do",
+      "profilePath": "/pgbRiu3BXigH5nZyN5JBcmrVZKW.jpg",
+      "order": 1
+    },
+    {
+      "id": "532a2bc8-0f7e-4c2a-b945-c46b5caaf649",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbPersonId": 1330446,
+      "name": "Lee Yi-kyung",
+      "character": "Han Jeong-woo",
+      "profilePath": "/rAH9iQ6olF5cyVKkVQuoGyaFxK.jpg",
+      "order": 2
+    },
+    {
+      "id": "fe1c8128-4126-4070-8f3c-d8d3db7b88a4",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbPersonId": 2175208,
+      "name": "Park You-na",
+      "character": "Song Na-ri",
+      "profilePath": "/6MawaOrDuD5R40ufBf0uDU0Wq0p.jpg",
+      "order": 3
+    },
+    {
+      "id": "7dfb8bcd-1a73-48f0-a83e-dac141c1b1f3",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbPersonId": 1257590,
+      "name": "Han Chae-a",
+      "character": "So Hyeon-ju",
+      "profilePath": "/ymEg1gkzA6mc3KU9j1DlrrXQNPz.jpg",
+      "order": 4
+    },
+    {
+      "id": "79b99ea4-b9df-4ec5-86a4-b1e6ce8be8d3",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbPersonId": 1991100,
+      "name": "Hwang Tae-kwang",
+      "character": "",
+      "profilePath": "/ySOF1TSNiYIlSJdaqwlUz9WEsNi.jpg",
+      "order": 5
+    },
+    {
+      "id": "94d4cc25-0cbe-45ad-87ca-08d1ab45e653",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbPersonId": 145381,
+      "name": "Kwak Min-seok",
+      "character": "",
+      "profilePath": "/jShebpoVSfChQZ0drJWy7dOend5.jpg",
+      "order": 6
+    },
+    {
+      "id": "71ef3fb9-9197-4a52-894b-4683a57b6cce",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbPersonId": 1827085,
+      "name": "Choi Dae-sung",
+      "character": "",
+      "profilePath": "/yCahIo38xjsXOSRyLPY5oIlqFg9.jpg",
+      "order": 7
+    },
+    {
+      "id": "a2a2f318-495c-488f-bb5f-4b2b84efcd8a",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbPersonId": 4024639,
+      "name": "Shon Min-ho",
+      "character": "Nam-Goong Soo-ha",
+      "profilePath": "/nFNmSGasVlVyTkI5GAumkXQpQtg.jpg",
+      "order": 8
+    },
+    {
+      "id": "0ecaa0dd-d59e-4d38-a6e0-9c3856f715ba",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbPersonId": 1295459,
+      "name": "Kim Min-young",
+      "character": "",
+      "profilePath": "/A4AXBlf1LI0l01RvbzYcfgBxTIM.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "067e97fd-73ce-415b-9bc2-9ef4d1ca50b9",
+      "tvSeriesId": "0f3d12b2-d4cb-4f6c-a9ce-34fe39c08eaf",
+      "tmdbId": 542295,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Oh Hae Ra, a wealthy heiress who has spent most of her life isolated from the outside world, finds comfort in her favourite TV drama and its star, Um Tae Bong. After a mysterious incident, she awakens believing she is Cha Hong Du, the drama's fearless bodyguard, and sets out to protect Tae Bong. As the bewildered star gets swept into her strange new reality, the two gradually begin to develop feelings for each other. But as Hae Ra's lost memories return, they uncover a painful connection that began long before they met again. What starts as an unlikely encounter becomes a romance about facing the past and finding the courage to move forward together.",
+      "posterPath": "/j9UwumLxmxlwIFRfFPmXArBVZbJ.jpg",
+      "airDate": "2026-10-24",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-10-25T04:28:52.892Z",
+      "updatedAt": "2026-11-15T19:11:57.975Z"
+    }
+  ]
+}

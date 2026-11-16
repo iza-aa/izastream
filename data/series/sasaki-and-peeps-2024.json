@@ -1,0 +1,166 @@
+{
+  "slug": "sasaki-and-peeps-2024",
+  "id": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+  "title": "Sasaki and Peeps",
+  "overview": "Sasaki is a middle-aged office worker living in Japan. Feeling drained by the vapid corporate world, he heads to the pet shop in search of a new companion. There he finds an adorable bird named Peeps and takes him home. But Sasaki quickly learns that Peeps isn’t your average bird…he’s a powerful mage from another world! Together, they embark on a magical adventure filled with swords and sorcery.",
+  "tagline": null,
+  "posterPath": "/kVp4PsyB8V839mGQjkn6kevBwKV.jpg",
+  "backdropPath": "/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
+  "logoPath": "/wtdVpvYlnwARmdJesDEk88IQh8M.png",
+  "firstAirDate": "2024-01-05",
+  "voteAverage": "6.96",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 17,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f0a32e3a-5973-4ffb-a9b5-1fb5e26fe296",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbPersonId": 144655,
+      "name": "Tomokazu Sugita",
+      "character": "Sasaki (voice)",
+      "profilePath": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg",
+      "order": 0
+    },
+    {
+      "id": "9eab912b-5eaf-43b7-9a73-5ca3d8f57d6e",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbPersonId": 936275,
+      "name": "Aoi Yuuki",
+      "character": "P-chan (voice)",
+      "profilePath": "/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg",
+      "order": 1
+    },
+    {
+      "id": "4de3cbf6-aeaf-42c4-b2ce-dc04ffcec6ef",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbPersonId": 1492982,
+      "name": "Rie Takahashi",
+      "character": "Hoshizaki-san (voice)",
+      "profilePath": "/aeB7z0cBTASdjKOjQriBAO6hYq4.jpg",
+      "order": 2
+    },
+    {
+      "id": "2a374e23-98e4-42bc-911e-e88e92a15921",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbPersonId": 1563442,
+      "name": "Akari Kito",
+      "character": "Otonari-san (voice)",
+      "profilePath": "/AoRQOZRC0yINB0WeKnM569rV1wF.jpg",
+      "order": 3
+    },
+    {
+      "id": "a37e3755-8854-40c6-b0fa-0fe07c8c549d",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbPersonId": 1647636,
+      "name": "Miyu Tomita",
+      "character": "Elsa (voice)",
+      "profilePath": "/rSR17l4HdchLkhpRuAZbGbXNmUS.jpg",
+      "order": 4
+    },
+    {
+      "id": "40e996f8-eb91-4871-9da4-95caf9836c4a",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbPersonId": 1325949,
+      "name": "Inori Minase",
+      "character": "Magical Pink (voice)",
+      "profilePath": "/cqOrQDUbbQLKpujzcK47YqjFdNp.jpg",
+      "order": 5
+    },
+    {
+      "id": "e58fd4b0-271c-4eaf-954c-328014758053",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbPersonId": 89878,
+      "name": "Ryotaro Okiayu",
+      "character": "Akutsu (voice)",
+      "profilePath": "/qbj3cFQqWwZ6x7S1jEpOJa57sEZ.jpg",
+      "order": 6
+    },
+    {
+      "id": "6f083792-e703-4236-9e19-51327d3adead",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbPersonId": 1324931,
+      "name": "Naomi Ohzora",
+      "character": "Shizuka Futari (voice)",
+      "profilePath": "/qygKX6EtfvPdnPsMM0d41mPztP2.jpg",
+      "order": 7
+    },
+    {
+      "id": "95cdf10d-2041-4f5b-8e87-e3712261d47f",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbPersonId": 216448,
+      "name": "Hiroki Yasumoto",
+      "character": "Viscount Mueller (voice)",
+      "profilePath": "/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg",
+      "order": 8
+    },
+    {
+      "id": "6b350c2b-bb8d-451b-ba62-2fe4d95fa862",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbPersonId": 131563,
+      "name": "Jun Fukuyama",
+      "character": "Prince Adonis (voice)",
+      "profilePath": "/eT9eloyIaIkTvTqMmpcsAleP2hM.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d20cec3a-efd8-4cce-b7d9-5b7242ce8a91",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbId": 301995,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/t0pLQlwJiGe0HODy5Yk1bMo12P.jpg",
+      "airDate": "2024-01-05",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-09T17:25:59.422Z",
+      "updatedAt": "2026-11-14T05:30:44.930Z"
+    },
+    {
+      "id": "b1eb7743-9243-4565-9c2e-b7ca03aec367",
+      "tvSeriesId": "6a6500ff-aaed-483d-9c56-72136b1e290d",
+      "tmdbId": 385334,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/eN7DNrJMtbq6q3iW1HMLh1POY1R.jpg",
+      "airDate": "2026-10-07",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-22T02:57:20.302Z",
+      "updatedAt": "2026-11-14T05:30:44.933Z"
+    }
+  ]
+}

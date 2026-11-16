@@ -1,0 +1,138 @@
+{
+  "slug": "memoir-of-rati-2025",
+  "id": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+  "title": "Memoir of Rati",
+  "overview": "In 1915, Rati returns to Siam and finds connection with Thee, the heir to a wealthy and powerful family, which seeks to sabotage the relationship.",
+  "tagline": "A love note that must be hidden but every word is clear in my heart.",
+  "posterPath": "/f9LHoIXrQVYB9WQoyei1wZKbPne.jpg",
+  "backdropPath": "/28psTwHXseJwgg4zpKsmLFgIh0t.jpg",
+  "logoPath": "/8RIk5XUV4fSzDf6WamLqulmNpkf.png",
+  "firstAirDate": "2025-06-20",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "1de0078f-f038-4fba-87f2-c36e7584a1cb",
+      "tmdbId": 10752,
+      "name": "War",
+      "slug": "war",
+      "createdAt": "2026-04-02T13:49:04.263Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "73030680-1182-4a6f-a91e-aea65fb23c2b",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbPersonId": 2588328,
+      "name": "Sarin Ronnakiat",
+      "character": "Rati Dier",
+      "profilePath": "/zF1QzgNckX07fTf1aVIxNbYrFes.jpg",
+      "order": 0
+    },
+    {
+      "id": "94879614-e42a-4a6e-865a-fe3eed6d48af",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbPersonId": 2262808,
+      "name": "Sapol Assawamunkong",
+      "character": "Theerathon Wisut / Suratheetamtanapich",
+      "profilePath": "/f2g2t7b5u4KT9BgzTZn4AfrSQeE.jpg",
+      "order": 1
+    },
+    {
+      "id": "25c75f96-e582-4b6e-9c0f-2d9b2c839e6b",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbPersonId": 3039960,
+      "name": "Thanaboon Kiatniran",
+      "character": "Mek",
+      "profilePath": "/nz0oOHNmZDqJPysge4TMV4HnVhe.jpg",
+      "order": 2
+    },
+    {
+      "id": "32af9a07-1f9e-47a7-868e-3612ddf739b4",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbPersonId": 3039962,
+      "name": "Tharatorn Jantharaworakarn",
+      "character": "Dechapatrapee Suriyakorn",
+      "profilePath": "/w3lvgKmK77sE4RTS1vrstaF97OS.jpg",
+      "order": 3
+    },
+    {
+      "id": "0c84f037-345d-44d2-86e5-286b2177fed3",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbPersonId": 1991011,
+      "name": "Sivakorn Lertchuchot",
+      "character": "Sadej Mai / Krom Phraya Pijitpaibool",
+      "profilePath": "/7NXsqHeOYLp0X23E1ClVprpwri5.jpg",
+      "order": 4
+    },
+    {
+      "id": "800a34db-4fe9-4f1a-a136-68caead6c324",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbPersonId": 3096285,
+      "name": "Ploynira Hiruntaveesin",
+      "character": "Yingpa / Tikumporn Borrirak",
+      "profilePath": "/d5lypeYLx6hufjx0Iftz8EakHzv.jpg",
+      "order": 5
+    },
+    {
+      "id": "30b8875b-83f5-40be-b333-78879b2e86d9",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbPersonId": 3812866,
+      "name": "Allan Asawasuebsakul",
+      "character": "Thiwa Wisut",
+      "profilePath": "/fgXqbk3Io8u9uPLvijpWjUbMOtM.jpg",
+      "order": 6
+    },
+    {
+      "id": "1e165cde-c68d-4e23-b0f9-f1d1caf95146",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbPersonId": 2777415,
+      "name": "Thanik Kamontharanon",
+      "character": "Kui",
+      "profilePath": "/nQpbjLwSMm1UW1iAV6tdGkBKng9.jpg",
+      "order": 7
+    },
+    {
+      "id": "7a657809-f41f-4e50-9484-f9ab652b6462",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbPersonId": 1051833,
+      "name": "David Asavanond",
+      "character": "Lutin Dier",
+      "profilePath": "/5bZa7UFebv5xqgDNDLRqTlP7BGq.jpg",
+      "order": 8
+    },
+    {
+      "id": "e8acf741-5a07-4453-9c1e-8907ac332132",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbPersonId": 3286468,
+      "name": "Penpetch Benyakul",
+      "character": "Ram Wisut",
+      "profilePath": "/fi7QnCFnt7SS2MiqT1QB7QPlYxH.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "95559c2a-6cf1-488e-88fc-e119fe9896c3",
+      "tvSeriesId": "ad666f31-a1cc-40ef-b887-7dd923a6def6",
+      "tmdbId": 430519,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "In 1915, Rati returns to Siam and finds connection with Thee, the heir to a wealthy and powerful family, which seeks to sabotage the relationship.",
+      "posterPath": "/atpWS19QH1HOwaUrw2cxyEW6ay3.jpg",
+      "airDate": "2025-06-20",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:39:13.813Z",
+      "updatedAt": "2026-04-02T17:39:13.813Z"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "siren-2018",
+  "id": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+  "title": "Siren",
+  "overview": "The coastal town of Bristol Cove is known for its legend of once being home to mermaids. When the arrival of a mysterious girl proves this folklore all too true, the battle between man and sea takes a very vicious turn as these predatory beings return to reclaim their right to the ocean.",
+  "tagline": "More. Are. Coming.",
+  "posterPath": "/k906XXqqFMT93v2WMkIOtUcEAlV.jpg",
+  "backdropPath": "/nMVuvboq4tSM22dkZb7ekQi9WKS.jpg",
+  "logoPath": "/zEg1JCtSnEavZ4xqMYG1mFGJV5L.png",
+  "firstAirDate": "2018-03-29",
+  "voteAverage": "7.74",
+  "numberOfSeasons": 3,
+  "numberOfEpisodes": 36,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b72cef83-fe39-4ef1-8d99-810529d761a2",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbPersonId": 1262627,
+      "name": "Eline Powell",
+      "character": "Ryn",
+      "profilePath": "/1ns3pxsZ7GfhJF2xxoAAuIN52iO.jpg",
+      "order": 0
+    },
+    {
+      "id": "c327f093-4e01-4897-8ee6-16fbd99eeea7",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbPersonId": 1167375,
+      "name": "Alex Roe",
+      "character": "Ben Pownall",
+      "profilePath": "/n3EVRACN3XEuOzrWK3TTn791gWo.jpg",
+      "order": 1
+    },
+    {
+      "id": "d40fdc87-c052-4d77-8cff-13d966f75ff9",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbPersonId": 1610713,
+      "name": "Fola Evans-Akingbola",
+      "character": "Maddie Bishop",
+      "profilePath": "/2IPTdmVsnRJnsZluXhu7UMM2pBj.jpg",
+      "order": 2
+    },
+    {
+      "id": "766e9563-e8a5-4ea1-aa13-d5aece2d926d",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbPersonId": 1823155,
+      "name": "Ian Verdun",
+      "character": "Xander McClure",
+      "profilePath": "/r4b2nXl1fBQEXfdScOt7NvBvzuT.jpg",
+      "order": 3
+    },
+    {
+      "id": "4b985492-0e7b-4a34-a3db-1225a515a780",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbPersonId": 7241,
+      "name": "Rena Owen",
+      "character": "Helen Hubbell",
+      "profilePath": "/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg",
+      "order": 4
+    },
+    {
+      "id": "0d2ce529-33f2-4359-b55f-cbd40dec6f50",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbPersonId": 2536411,
+      "name": "Natalee Linez",
+      "character": "Nicole Martinez",
+      "profilePath": "/5Lw6AR9zglwbbkMMPeJtayxWM5H.jpg",
+      "order": 614
+    },
+    {
+      "id": "93af639c-f37a-451b-8b8f-a8ea9f163446",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbPersonId": 1356538,
+      "name": "Luc Roderique",
+      "character": "Ian Sutton",
+      "profilePath": "/jeAxcgvhKGTsiGyNnNTfG2qpK1S.jpg",
+      "order": 639
+    },
+    {
+      "id": "bab8cb23-6a00-4c0e-9269-68067fd30aa6",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbPersonId": 84225,
+      "name": "Gil Birmingham",
+      "character": "Sheriff Dale Bishop",
+      "profilePath": "/bWYOwtq0zUgpbEhTyiJHo2TmVju.jpg",
+      "order": 659
+    },
+    {
+      "id": "1c02ce37-8b3a-4ecb-a417-1cbe116e5ab5",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbPersonId": 59183,
+      "name": "Sarah-Jane Redmond",
+      "character": "Elaine Pownall",
+      "profilePath": "/qhJ0QsKnZslUOCGLur4NS91BXgM.jpg",
+      "order": 671
+    },
+    {
+      "id": "5563ad33-2768-4bcd-93af-f8e985431813",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbPersonId": 1399273,
+      "name": "Tammy Gillis",
+      "character": "Deputy Marissa Staub",
+      "profilePath": "/qTAhgHG7cqZJrSBiUi3hGHJr43o.jpg",
+      "order": 683
+    }
+  ],
+  "seasons": [
+    {
+      "id": "cf5b4db0-e788-4b45-a5d8-cbdd1535e8d3",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbId": 88684,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/y6NgBU3CBND8s9AothPH5vw0PwF.jpg",
+      "airDate": "2018-03-29",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-09T06:02:33.498Z",
+      "updatedAt": "2026-09-09T08:08:52.014Z"
+    },
+    {
+      "id": "c0c5dfd1-e767-4d4f-8593-cf1922f67799",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbId": 111577,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "More mermaids appear in the coastal town of Bristol Cove … but are they seeking revenge or is something more catastrophic driving them out of the sea? Marine researchers Ben and Maddie continue to establish a bond with mermaid Ryn, not only to protect her, but to try to help save her entire civilization.",
+      "posterPath": "/73OIdF2QlCQ2hfwKdyGrdJWSaum.jpg",
+      "airDate": "2019-01-24",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-09-09T06:02:33.498Z",
+      "updatedAt": "2026-09-09T08:08:53.553Z"
+    },
+    {
+      "id": "978da729-a06c-4c73-adc1-d0b197adb83e",
+      "tvSeriesId": "129febb3-6478-4b8e-8d68-3daa2eb01e28",
+      "tmdbId": 141252,
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "overview": "Ben’s shocking decision to let the reporter die at the end of season two has ripple effects in his relationship with Maddie and Ryn. Meanwhile, a dangerous, sophisticated new mermaid arrives in Bristol Cove, challenging Ryn’s leadership and igniting an epic undersea battle between rival tribes. All of this is complicated by the fact that Ryn’s baby, now being carried by a surrogate, must be protected at all costs.",
+      "posterPath": "/k906XXqqFMT93v2WMkIOtUcEAlV.jpg",
+      "airDate": "2020-04-02",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-09T06:02:33.498Z",
+      "updatedAt": "2026-09-09T08:08:54.934Z"
+    }
+  ]
+}

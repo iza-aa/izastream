@@ -1,0 +1,409 @@
+{
+  "slug": "practical-magic-2-2026",
+  "id": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+  "tmdbId": 1302904,
+  "imdbId": "tt32588798",
+  "title": "Practical Magic 2",
+  "originalTitle": "Practical Magic 2",
+  "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+  "tagline": "Everything you've witched for.",
+  "posterPath": "/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+  "backdropPath": "/zNxg4QlWnFbuHBDOhja6VAqb46G.jpg",
+  "logoPath": "/1XPnUdi7xocaAW2YGYBmddGmI3h.png",
+  "backdrops": [
+    "/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+    "/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+    "/eHVFhyO2YkJPzvrMv2TmVhjPAUJ.jpg",
+    "/Ao7Q6CMDiVheAqVyKV8vUI8yata.jpg",
+    "/yDgYYuz8jDQCRJbHC3XM7IIGoeR.jpg",
+    "/kyrubDEucmnFPqVwVi2mhOGYZ3g.jpg",
+    "/phL6LnTXTk1EofA7JDtDUmH6JZA.jpg",
+    "/uxGBQkfmTczPp6o1tHpxZovq4MW.jpg",
+    "/tII744wDlEZuNZEgSdQZqhuUuk2.jpg",
+    "/6w93RrhCSNBnMLTTKytLCckDLAa.jpg"
+  ],
+  "releaseDate": "2026-09-09",
+  "runtime": 130,
+  "voteAverage": "6.29",
+  "popularity": null,
+  "popularityScore": 465,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
+  "quality": "WEB-DL",
+  "director": "Susanne Bier",
+  "directorTmdbId": 1011,
+  "directorProfilePath": "/tVp2J7hMAgJnaXtQojFN3VTVYaY.jpg",
+  "productionCompanies": [
+    {
+      "id": 813,
+      "name": "Di Novi Pictures",
+      "logo_path": "/xz25F3NFQOQJCH47VscbrcI10Om.png"
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+      "id": 32537,
+      "name": "Blossom Films",
+      "logo_path": "/7fUmRWUJgO4grf61sPMmc4kVYVR.png"
+    },
+    {
+      "id": 4258,
+      "name": "Fortis Films",
+      "logo_path": "/2AAcFwLxc1yble95qTSi6QfxKRa.png"
+    },
+    {
+      "id": 216687,
+      "name": "Domain Entertainment",
+      "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+      "id": 1088,
+      "name": "Alcon Entertainment",
+      "logo_path": "/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 616,
+      "name": "witch"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 10235,
+      "name": "family relationships"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 18035,
+      "name": "family"
+    },
+    {
+      "id": 210772,
+      "name": "legacy"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 9018,
+  "watchlistCount": 90,
+  "favouriteCount": 28,
+  "shareCount": 5,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-12T10:06:03.141Z",
+  "updatedAt": "2026-10-12T10:12:15.230Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c974274c-5c00-4a3f-ba37-bac1270a1259",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 18277,
+      "name": "Sandra Bullock",
+      "character": "Sally Owens",
+      "profilePath": "/4rfjISL3Flx16jfiusXoHbpt87X.jpg",
+      "order": 0
+    },
+    {
+      "id": "e325c43b-ca76-47cf-976c-e9dea56e01bf",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 2227,
+      "name": "Nicole Kidman",
+      "character": "Gillian Owens",
+      "profilePath": "/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
+      "order": 1
+    },
+    {
+      "id": "d9d29a13-83a1-46b5-81d8-0ddb8cdd5872",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 125025,
+      "name": "Joey King",
+      "character": "Kylie Owens",
+      "profilePath": "/94c69mPYSK9jFsAEu0OKB7Qs684.jpg",
+      "order": 2
+    },
+    {
+      "id": "71cb0f30-e9ca-457e-ae60-2a03c9487848",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 1181313,
+      "name": "Maisie Williams",
+      "character": "Antonia Owens",
+      "profilePath": "/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg",
+      "order": 3
+    },
+    {
+      "id": "9d7181f6-b858-426d-952a-80a564fceb9d",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 1185997,
+      "name": "Xolo Maridueña",
+      "character": "Gideon",
+      "profilePath": "/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg",
+      "order": 4
+    },
+    {
+      "id": "274d552d-a6f3-4f65-a063-b3a7fdd8fc4e",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 72095,
+      "name": "Lee Pace",
+      "character": "Ian Wright",
+      "profilePath": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg",
+      "order": 5
+    },
+    {
+      "id": "2f7615f7-aabb-4d2f-bab5-4af6e4926d99",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 1902,
+      "name": "Dianne Wiest",
+      "character": "Aunt Jet",
+      "profilePath": "/p9mfzY68FtEbedOMNB5X4eBShhx.jpg",
+      "order": 6
+    },
+    {
+      "id": "3eaf1b2a-6d21-45ca-afc1-d74d0ec0bd52",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 8893,
+      "name": "Stockard Channing",
+      "character": "Aunt Frances",
+      "profilePath": "/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg",
+      "order": 7
+    },
+    {
+      "id": "21374c95-ea93-459b-87b8-9d80212f59ec",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 3060978,
+      "name": "Solly McLeod",
+      "character": "Thomas Lockland",
+      "profilePath": "/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg",
+      "order": 8
+    },
+    {
+      "id": "f3f93e5c-9186-41a1-bbfb-82064e42b19a",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 5639097,
+      "name": "Ema Cavolli",
+      "character": "Maria Owens",
+      "profilePath": "/mzAXiBoJeY1fA9Nc6KNsKNPfsgO.jpg",
+      "order": 9
+    },
+    {
+      "id": "c1345c56-1c91-4666-9484-052844337fcc",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 2158193,
+      "name": "Cassie Bradley",
+      "character": "Hannah Owens",
+      "profilePath": "/u1rqfCyqHMjeOewKuaIaA9D3WqY.jpg",
+      "order": 10
+    },
+    {
+      "id": "5232ecaa-7385-4f60-8243-986895377016",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 1488078,
+      "name": "Liz Kingsman",
+      "character": "Jane",
+      "profilePath": "/sNCFfAVWGe4d4SLlUiNWvLk1Vwe.jpg",
+      "order": 11
+    },
+    {
+      "id": "72dfeb91-b9d8-45f6-a9b5-a15b0f0e62c8",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 3132378,
+      "name": "Nathan Foad",
+      "character": "Derek",
+      "profilePath": "/ou9BZuorEW8PJlbz9fMbVhIvxJj.jpg",
+      "order": 12
+    },
+    {
+      "id": "ff6e8f5f-d994-4dcf-8749-171ca07bd4b7",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 62975,
+      "name": "Katy Wix",
+      "character": "Paula",
+      "profilePath": "/vVr5KhTeqvxTjgYE1xA6SnfxUuB.jpg",
+      "order": 13
+    },
+    {
+      "id": "99205dd0-9e7a-4303-8f55-5edd34afb0f0",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 163422,
+      "name": "Diana Quick",
+      "character": "Margaret",
+      "profilePath": "/fEpYmTAQcKPUyvt6XsUCsUTv3K4.jpg",
+      "order": 14
+    },
+    {
+      "id": "8a096d3f-ba0d-4756-83e3-ebf131c47c40",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 5350563,
+      "name": "Ava Galindez",
+      "character": "Laura",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "ca42df43-ecdc-450f-a947-869671606cc6",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 6475262,
+      "name": "Scarlett Nasrat",
+      "character": "Young Kylie",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "d0563433-0627-4d6c-8d4e-438fa9230e0f",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 6475264,
+      "name": "Harriett Scott",
+      "character": "Young Antonia",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "1bce378a-cb97-481f-9f31-4bf7e1956b88",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 1710322,
+      "name": "Amy Bowden",
+      "character": "Local Woman",
+      "profilePath": "/vOubMmn1V1ROMHHh29DKnNbpoFc.jpg",
+      "order": 18
+    },
+    {
+      "id": "b5c6298c-42f9-4380-be21-d07ec8875056",
+      "movieId": "2438fd02-a2a3-408f-ba8a-2bc446cebbcd",
+      "tmdbPersonId": 3289470,
+      "name": "Aimée Cassettari",
+      "character": "Local Woman",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

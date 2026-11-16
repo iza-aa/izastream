@@ -1,0 +1,145 @@
+{
+  "slug": "dalah-death-and-the-flowers-2025",
+  "id": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+  "title": "Dalah: Death and the Flowers",
+  "overview": "When her client dies on the eve of his wedding, a florist sets out to find the killer, unearthing high society's dark secrets — while keeping her own.",
+  "tagline": "",
+  "posterPath": "/aNXjZwYesgmveMMeQVHERGLQrRs.jpg",
+  "backdropPath": "/fHeifcsv6CphZXFOfBYLlMXk3kX.jpg",
+  "logoPath": "/jxuXMpZkGjpTF6H0sA9aUzM4agh.png",
+  "firstAirDate": "2025-02-27",
+  "voteAverage": "7.60",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "df00253e-b0ee-4ac3-9af3-ada88187ec54",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbPersonId": 1259367,
+      "name": "Urassaya Sperbund",
+      "character": "Dalah",
+      "profilePath": "/eLm2TfDTd3AQ2zFCXM4ymjsPi0S.jpg",
+      "order": 0
+    },
+    {
+      "id": "49468f28-4b3b-421f-b0e2-00baea24c863",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbPersonId": 1960603,
+      "name": "Chayanit Chansangavej",
+      "character": "Risa",
+      "profilePath": "/jv4Vsf3xot648o1QS8HxnpSsaED.jpg",
+      "order": 1
+    },
+    {
+      "id": "db07e437-8764-4adb-b8fd-331c401f99bc",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbPersonId": 2874195,
+      "name": "Naphat Vikairungroj",
+      "character": "Ohm",
+      "profilePath": "/1e8o5LCbm5lbDoKjg23BGmK4WnJ.jpg",
+      "order": 2
+    },
+    {
+      "id": "905ca160-6421-41ea-84f4-adbfba206fe7",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbPersonId": 1260017,
+      "name": "Ron Banjongsang",
+      "character": "Ekapop",
+      "profilePath": "/eTiYHsyNuPHTf3bdiyYivgT4umq.jpg",
+      "order": 3
+    },
+    {
+      "id": "00fb0477-0a57-43f1-b0f8-a92830f8b644",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbPersonId": 1272413,
+      "name": "Amarin Nitipon",
+      "character": "Ekasit",
+      "profilePath": "/5XPYOUBFso7eBTFjJ5tfOxZlTZx.jpg",
+      "order": 4
+    },
+    {
+      "id": "a5359291-be9f-4848-b8c3-102a35a0ccd4",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbPersonId": 2162309,
+      "name": "Praewa Suthamphong",
+      "character": "Pam",
+      "profilePath": "/erEN7MGmugm2u6KMz0C4ljNv5Qj.jpg",
+      "order": 5
+    },
+    {
+      "id": "933dd134-eb85-42f4-aeea-eb490aa99269",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbPersonId": 3287492,
+      "name": "Kirana Pipityakorn",
+      "character": "Xinxin",
+      "profilePath": "/zc51mCbUAnXInY7XI3Z9ivOm1Rr.jpg",
+      "order": 6
+    },
+    {
+      "id": "0df95f3e-c503-4acc-8815-81cee6a475fe",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbPersonId": 2108778,
+      "name": "Phuwin Tangsakyuen",
+      "character": "Kris",
+      "profilePath": "/uSV8EHzwgwG9lVaME0BQ2RSIODU.jpg",
+      "order": 7
+    },
+    {
+      "id": "9969529c-b6aa-404f-9bfe-40dc6f3cc0c5",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbPersonId": 3529019,
+      "name": "Pijika Jittaputta",
+      "character": "Sujaree",
+      "profilePath": "/qZDm7Xf2DCr5NyCpupCC35Ug5g5.jpg",
+      "order": 8
+    },
+    {
+      "id": "cae29065-3762-477c-aa2f-d7a539414c84",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbPersonId": 1338439,
+      "name": "Manatsanun Panlertwongskul",
+      "character": "Prapha",
+      "profilePath": "/zj09X1mHTrRNiyGmKpbTjJyierc.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "2d1ceedc-1ea1-4087-989e-436b984bf974",
+      "tvSeriesId": "6476dc8b-9c02-4260-b6bd-7f3dd823af8b",
+      "tmdbId": 439356,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/aNXjZwYesgmveMMeQVHERGLQrRs.jpg",
+      "airDate": "2025-02-27",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:40:12.621Z",
+      "updatedAt": "2026-04-02T17:40:12.621Z"
+    }
+  ]
+}

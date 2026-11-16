@@ -1,0 +1,173 @@
+{
+  "slug": "hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing-2026",
+  "id": "ea0d27e0-ca03-455c-af36-512867833754",
+  "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+  "overview": "Kenichi Yamada, a single, 35-year-old businessman, has spent the majority of his adult life playing every MMORPG to hit the market. Tired of the constant cycle of repetitive, newbie-centric gameplay, he is immediately drawn in by the promise of a new game that, on top of being never-ending, offers up a \"Hell Mode\"—a difficulty level that makes it nigh impossible to level up but also promises uncapped growth potential. Upon selecting the newly released Summoner class, Kenichi finds himself reborn as Allen, an infant in a serf family, with nothing but his wits and old memories to guide him.",
+  "tagline": null,
+  "posterPath": "/9m8MgXfAHbR4ELxrsQR8w0b5NQM.jpg",
+  "backdropPath": "/gf62V8UBVBMFPpD9yI0UFvkFvq2.jpg",
+  "logoPath": "/aDbnx24KSe51nBlBzqBdGcVJppA.png",
+  "firstAirDate": "2026-01-10",
+  "voteAverage": "7.30",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8933d09e-56a8-4cfd-a666-ca721a9615f5",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbPersonId": 1253972,
+      "name": "Mutsumi Tamura",
+      "character": "Allen (voice)",
+      "profilePath": "/uvbBIRiBK6GDLEESiYSFWOVlaE4.jpg",
+      "order": 0
+    },
+    {
+      "id": "c6de97d5-9c21-4ed8-a32c-6d4e67900904",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbPersonId": 1471287,
+      "name": "Mayu Iizuka",
+      "character": "Krena (voice)",
+      "profilePath": "/lCwSzCM8Ifny4V6SSvOZZgKHTCz.jpg",
+      "order": 1
+    },
+    {
+      "id": "01c458ea-36fb-4aa1-99d4-5ffebb1cd7b5",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbPersonId": 1256915,
+      "name": "Tasuku Hatanaka",
+      "character": "Dogora (voice)",
+      "profilePath": "/xPDqoxAia1ShoVC2aMS2ZDPDWzG.jpg",
+      "order": 2
+    },
+    {
+      "id": "79377f55-cd7e-4b5c-8e15-26b45f4818ca",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbPersonId": 1407597,
+      "name": "Sayaka Senbongi",
+      "character": "Cecil Granvelle (voice)",
+      "profilePath": "/yLRKX9DPDGgTRKBQRFTUh3pvbU0.jpg",
+      "order": 3
+    },
+    {
+      "id": "af602e63-06c7-4f24-9823-3a4cc0c001f7",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbPersonId": 9720,
+      "name": "Hideo Ishikawa",
+      "character": "Rodin (voice)",
+      "profilePath": "/gEjEDNGt3CHsyzFQdNqewZVbh0.jpg",
+      "order": 4
+    },
+    {
+      "id": "85f09527-5d1f-451f-b196-78ff6eb00ee4",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbPersonId": 148447,
+      "name": "Sayaka Ohara",
+      "character": "Theresia (voice)",
+      "profilePath": "/4lAqrOmkOP3U9Owwijtvc8PaCDx.jpg",
+      "order": 5
+    },
+    {
+      "id": "d240bb53-f6ab-490d-a2d5-288459a9147e",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbPersonId": 1645397,
+      "name": "Makoto Koichi",
+      "character": "Matthew (voice)",
+      "profilePath": "/gpslQDgkGoL3Ap9QsK1nljeGPKJ.jpg",
+      "order": 6
+    },
+    {
+      "id": "415dae07-c3b4-4ee6-9b6d-53e337cbc5ca",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbPersonId": 144655,
+      "name": "Tomokazu Sugita",
+      "character": "Butler Von Granvelle (voice)",
+      "profilePath": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg",
+      "order": 7
+    },
+    {
+      "id": "9efbe08c-1e68-4fcb-ac5c-8a922dc7d9d5",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbPersonId": 1429141,
+      "name": "Shoya Chiba",
+      "character": "Mikhail Granvelle (voice)",
+      "profilePath": "/pF2urY77wuCYd9Fxh7dTirFYKSF.jpg",
+      "order": 8
+    },
+    {
+      "id": "782251af-4a04-4d07-acff-5a4a047172c5",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbPersonId": 1254831,
+      "name": "Marie Miyake",
+      "character": "Thomas Granvelle (voice)",
+      "profilePath": "/t71iIw3FT88XXuKTZyzJo5ATGig.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "970f3429-e372-4d7c-83d8-40c675ea9585",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbId": 434278,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/38st7PTz69KJQfk4ADFDer8pKEb.jpg",
+      "airDate": "2026-01-10",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-04T18:28:42.615Z",
+      "updatedAt": "2026-10-05T15:15:31.289Z"
+    },
+    {
+      "id": "bb819d50-daf3-4126-b01b-709a5e5e3196",
+      "tvSeriesId": "ea0d27e0-ca03-455c-af36-512867833754",
+      "tmdbId": 513731,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/9WlCNFV6bQ3GVSgJrIMMYGOPLAx.jpg",
+      "airDate": "2026-07-04",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-10-04T18:28:42.615Z",
+      "updatedAt": "2026-10-05T15:13:02.372Z"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "clairebell-2025",
+  "id": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+  "title": "ClaireBell",
+  "overview": "Fate led Bell, an unfortunate young woman, into prison, where she had to struggle for survival alone, without hope. That was until Claire, a mysterious female inmate, appeared to help her. And from that moment on... the encounter between these two souls began to fill this dark and desolate place with a small glimmer of light, one that gradually grew into love.",
+  "tagline": "Freedom is not a coincidence.",
+  "posterPath": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
+  "backdropPath": "/eJKWvkgJE6Rdtr9qibK2Dmw9PPQ.jpg",
+  "logoPath": "/goVvoBH0AoGu5mVakRVjIlDQe0l.png",
+  "firstAirDate": "2025-10-27",
+  "voteAverage": "8.31",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ac091816-8e51-49a9-aec1-4c3547d7645b",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbPersonId": 4997795,
+      "name": "Siriwalee Siriwibool",
+      "character": "Claire",
+      "profilePath": "/7vzqaFnNBe3DJQxWbwOgmKB8RJe.jpg",
+      "order": 0
+    },
+    {
+      "id": "64aa153b-f34d-46f8-a144-ad992de82cad",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbPersonId": 5190119,
+      "name": "Paphavarin Sawasdiwech",
+      "character": "Bell",
+      "profilePath": "/uyfUshvKHchaszJHezs6KdwGXXe.jpg",
+      "order": 1
+    },
+    {
+      "id": "bac6e337-0ac9-431f-89d8-f3b39532e01d",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbPersonId": 5625305,
+      "name": "Pantira Ouhirun",
+      "character": "Deedee",
+      "profilePath": "/5yTsfp9a9oKLBQkoU2tK6E7kr7D.jpg",
+      "order": 2
+    },
+    {
+      "id": "722a8154-d14d-41f4-aa38-4011934bd935",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbPersonId": 3433975,
+      "name": "Jirakit Kanjanawaraporn",
+      "character": "Porsches",
+      "profilePath": "/8VHHegPVIdPtW0nEO9cDhrsb3uo.jpg",
+      "order": 3
+    },
+    {
+      "id": "b1772d45-f99c-4935-97f6-129f0b8ee1e7",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbPersonId": 96012,
+      "name": "Siraphan Wattanajinda",
+      "character": "Dao",
+      "profilePath": "/fGKvpNulLd2JEmk1RLGzZkp0s3y.jpg",
+      "order": 4
+    },
+    {
+      "id": "c24af25c-693a-4db9-b73d-058d5db43f91",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbPersonId": 4899611,
+      "name": "Farida Sa-Ard",
+      "character": "Duen",
+      "profilePath": "/xaN4kpYSEOn0FLfRhTlgFEXUJ62.jpg",
+      "order": 5
+    },
+    {
+      "id": "c165c765-5474-4380-a565-5a4ca4ca828a",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbPersonId": 1870471,
+      "name": "Kemisara Paladesh",
+      "character": "Kae",
+      "profilePath": "/2OIrzHou6vs9Hty6h5y533F0mj1.jpg",
+      "order": 6
+    },
+    {
+      "id": "819fa104-675a-4cb1-9661-69d1bdf4c8c9",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbPersonId": 3366775,
+      "name": "Jidapa Phonrojpanya",
+      "character": "Mangpor",
+      "profilePath": "/zraPKZzjGf8jenn8fQDRQdRop7B.jpg",
+      "order": 7
+    },
+    {
+      "id": "66e9a8f6-59b7-4b7f-acc1-c27474cf12df",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbPersonId": 4544982,
+      "name": "Usha Seamkhum",
+      "character": "Porn",
+      "profilePath": "/dJjJeB3lY3lHqtliLyXFwLvCOwR.jpg",
+      "order": 8
+    },
+    {
+      "id": "e2d175f3-ab84-41fe-af4f-71ef3b59bdf4",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbPersonId": 223624,
+      "name": "Witaya Wasukraipaisarn",
+      "character": "Wichai",
+      "profilePath": "/1bbfqJj8KzdbLR7tDC9ZxlPeSLp.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d831526b-8416-4dc0-a5d7-6b858a9a2712",
+      "tvSeriesId": "169b3f8c-4666-4cf7-86ba-e9b2443cea7b",
+      "tmdbId": 438762,
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/wNb7PxdshRHLkJiDgfOuDB0IamA.jpg",
+      "airDate": "2025-10-27",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:40:08.537Z",
+      "updatedAt": "2026-04-02T17:40:08.537Z"
+    }
+  ]
+}

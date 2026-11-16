@@ -1,0 +1,248 @@
+{
+  "slug": "warriors-of-the-nation-2018",
+  "id": "9f8671ee-b66e-4645-876f-13917b0800af",
+  "tmdbId": 569866,
+  "imdbId": "tt9812530",
+  "title": "Warriors of the Nation",
+  "originalTitle": "黄飞鸿之怒海雄风",
+  "overview": "At the end of the Chino-Japanese War, a top military officer, Zhang Zhidong, is kidnapped in the middle of the night by a militant organisation called the White Lotus Society. When he overhears a sinister plot to overthrow the central government by China s own military officials, Wong Fei Hung knows he must rescue Zhang to protect China and prevent another war from happening.",
+  "tagline": null,
+  "posterPath": "/aSBTsA1LxWQEUr19dnyckJKRgcU.jpg",
+  "backdropPath": "/fwhleR0gQQnr4d7WBBYHWgq1epW.jpg",
+  "logoPath": "/r4TabCTfEFpyL6CnxxkmhGiCtO0.png",
+  "backdrops": [
+    "/fwhleR0gQQnr4d7WBBYHWgq1epW.jpg",
+    "/sjiXRccbmabx0gEBZw657I7A8su.jpg"
+  ],
+  "releaseDate": "2018-12-18",
+  "runtime": 95,
+  "voteAverage": "4.00",
+  "popularity": null,
+  "popularityScore": 44,
+  "originalLanguage": "zh",
+  "country": "CN",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=nL5hzDzQ8Pg",
+  "quality": "BLU-RAY",
+  "director": "Marco Mak Chi-Sin",
+  "directorTmdbId": 21904,
+  "directorProfilePath": "/oBhxAJ7AR8TVlz9zjEHt9Chw3nc.jpg",
+  "productionCompanies": [
+    {
+      "id": 181366,
+      "name": "北京淘梦影业",
+      "logo_path": null
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 3167,
+  "watchlistCount": 5,
+  "favouriteCount": 1,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-28T12:16:37.731Z",
+  "updatedAt": "2026-08-28T12:17:30.708Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f3c00b2b-7325-4bc1-8062-a934841e9f9b",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 82400,
+      "name": "Vincent Zhao Wenzhuo",
+      "character": "Wong Fei-hung",
+      "profilePath": "/dFopptv52mzwK4FWPMyO0FcFJTe.jpg",
+      "order": 0
+    },
+    {
+      "id": "a1adb5e0-a4f7-4228-a73e-4c6892d30f30",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 2533482,
+      "name": "Wei Na",
+      "character": "13th Aunt",
+      "profilePath": "/t12D2nBsGIJrMaXzz7j69IArqwX.jpg",
+      "order": 1
+    },
+    {
+      "id": "8a2b610b-dfee-4cc0-b247-b7abf9306376",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 1784504,
+      "name": "Li Lubing",
+      "character": "Liang Kuan",
+      "profilePath": "/zp6RmFVbShHLWi0nvlyedABPaCi.jpg",
+      "order": 2
+    },
+    {
+      "id": "e337caa3-a378-4a15-a494-f66c1277ee16",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 1764717,
+      "name": "Miya Muqi",
+      "character": "Yuki Kawashima",
+      "profilePath": "/bRnt4FwvIFLXcIBdnZJmUnjbnxj.jpg",
+      "order": 3
+    },
+    {
+      "id": "7f5660dd-2578-4416-b2e4-05fdacf4f1c0",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 2090122,
+      "name": "Chen Chen",
+      "character": "Pork Rong",
+      "profilePath": "/t6LJRBCDhIdV4NpuoMtbygdvK0e.jpg",
+      "order": 4
+    },
+    {
+      "id": "cdff0203-a4b5-4719-be35-f71691b249cd",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 2488874,
+      "name": "Wei Xiaohuan",
+      "character": "Lu Xiaoyue",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "80aca1e3-815c-4a1f-8df0-95aad9a6ef72",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 2488875,
+      "name": "Gao Xuanming",
+      "character": "Tooth Gu",
+      "profilePath": "/dCJ1E6t5fA1wG4oIWcrV0uVC1s3.jpg",
+      "order": 6
+    },
+    {
+      "id": "a37d83ec-ab91-49da-9a6e-b851823c1b1f",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 1186988,
+      "name": "Kenya Sawada",
+      "character": "",
+      "profilePath": "/68devixyeQ0sbhqz0FzMZ88mNHw.jpg",
+      "order": 7
+    },
+    {
+      "id": "308415e2-252c-410a-98f1-893200fc327e",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 1190212,
+      "name": "Sang Weilin",
+      "character": "",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "b65ef5c8-1d67-4827-bfb0-e945fbdfe896",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 1594123,
+      "name": "Zhang Yakun",
+      "character": "",
+      "profilePath": "/bnSbwh9ow3dolwH7cv54EtiqXiQ.jpg",
+      "order": 9
+    },
+    {
+      "id": "b60dfb76-99b6-4891-81b9-12088e873329",
+      "movieId": "9f8671ee-b66e-4645-876f-13917b0800af",
+      "tmdbPersonId": 2671702,
+      "name": "Su Mao",
+      "character": "Zhang Zhidong",
+      "profilePath": "/riXSJhEebol5xkeGyNXQ5d89D2J.jpg",
+      "order": 10
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

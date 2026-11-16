@@ -1,0 +1,364 @@
+{
+  "slug": "tarung-unforgiven-2026",
+  "id": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+  "tmdbId": 1608445,
+  "imdbId": "tt37673293",
+  "title": "Tarung: Unforgiven",
+  "originalTitle": "Tarung: Unforgiven",
+  "overview": "After unintentionally causing the death of his opponent during a martial arts tournament, Hatta vows to never participate in any fighting tournament again. However, when his only sister becomes seriously ill and requires costly medical treatment, he is offered 'financial assistance' by a head of mobsters in return for Hatta fighting for him in the underworld fighting ring.",
+  "tagline": "You're just a cock.",
+  "posterPath": "/v9ZtOlIJ3HS49UMtS4eli3WMenT.jpg",
+  "backdropPath": "/dYcd4GlqPQ923Xx6xMBNHoDIJrH.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/dYcd4GlqPQ923Xx6xMBNHoDIJrH.jpg",
+    "/t6uuVFFfbARKRkGzRPu3aq5ptPd.jpg"
+  ],
+  "releaseDate": "2026-05-07",
+  "runtime": 100,
+  "voteAverage": "8.20",
+  "popularity": null,
+  "popularityScore": 444,
+  "originalLanguage": "ms",
+  "country": "MY",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=IMPZZXGjRj8",
+  "quality": "WEB-DL",
+  "director": "Razaisyam Rashid",
+  "directorTmdbId": 1340828,
+  "directorProfilePath": "/tXzQZZPpj64SBKnYDzREdCudz0M.jpg",
+  "productionCompanies": [
+    {
+      "id": 126909,
+      "name": "Alpha47 Films",
+      "logo_path": "/yVbOHTUz1E9srTOTaKYL4XJbA9z.png"
+    },
+    {
+      "id": 292468,
+      "name": "Icon Pictures",
+      "logo_path": "/sdyO4Hjs146xeli9ewBNUph7Vm3.png"
+    },
+    {
+      "id": 19055,
+      "name": "Astro Shaw",
+      "logo_path": "/g7R3rz40PaD1vcDEtc0DOODzw0F.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 779,
+      "name": "martial arts"
+    },
+    {
+      "id": 5332,
+      "name": "greed"
+    },
+    {
+      "id": 3156,
+      "name": "brotherhood"
+    },
+    {
+      "id": 11436,
+      "name": "redemption"
+    },
+    {
+      "id": 9917,
+      "name": "mixed martial arts (mma)"
+    },
+    {
+      "id": 18035,
+      "name": "family"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 18549,
+  "watchlistCount": 41,
+  "favouriteCount": 29,
+  "shareCount": 10,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-10T05:16:17.432Z",
+  "updatedAt": "2026-09-10T05:16:28.036Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "212d829e-d08f-4459-b5bf-11f199842d1e",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 2486019,
+      "name": "Mierul Aiman",
+      "character": "Hatta",
+      "profilePath": "/tgU9JBX8bdtSVkqpfq1666Sl67R.jpg",
+      "order": 0
+    },
+    {
+      "id": "2a0b56af-710a-4f58-92a2-d95a86589e9b",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 1252375,
+      "name": "Aedy Ashraf",
+      "character": "Isa",
+      "profilePath": "/m1xoIws0mrJyn9ZREybomAhO3j.jpg",
+      "order": 1
+    },
+    {
+      "id": "7452ed7c-14bc-41aa-834a-eb658ff66736",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 1279687,
+      "name": "Zul Ariffin",
+      "character": "Badrul",
+      "profilePath": "/wlMo5HslLGpZRqCBhYYIzmkKGit.jpg",
+      "order": 2
+    },
+    {
+      "id": "0d92f196-cb29-4dbb-815b-9c2e475c383c",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 562217,
+      "name": "Bront Palarae",
+      "character": "Khalid",
+      "profilePath": "/mk7v78F2QPV1jmwjjo19PONugkR.jpg",
+      "order": 3
+    },
+    {
+      "id": "132f3d59-8014-49b0-b625-4ab27b57bcf2",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 3950800,
+      "name": "Amir Ahnaf",
+      "character": "Yusof Zarul",
+      "profilePath": "/iOzSNq9rRthJgh6o0PY9kmUoXVJ.jpg",
+      "order": 4
+    },
+    {
+      "id": "efe7b4d7-ae10-413c-b1ee-37fac2b62ceb",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 1739287,
+      "name": "Azira Shafinaz",
+      "character": "Dahlia",
+      "profilePath": "/qDtUMiKIe3wFForHMSye4RgDj8e.jpg",
+      "order": 5
+    },
+    {
+      "id": "398a8fe0-e39a-415c-9956-557f7cdeda93",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 1279439,
+      "name": "Sharifah Sakinah",
+      "character": "Aisha",
+      "profilePath": "/vssD6nyYgzuoshmGURu5zqnkNNN.jpg",
+      "order": 6
+    },
+    {
+      "id": "b042051d-4388-495d-875a-d92d3d819d30",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 5912375,
+      "name": "Ubai Amir",
+      "character": "Bo",
+      "profilePath": "/yf0i2T7YszCKOAy31MGu9N6pFky.jpg",
+      "order": 7
+    },
+    {
+      "id": "c0252810-37c2-4b7d-bb58-27c8fa05640b",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 5085118,
+      "name": "Huhu Maira",
+      "character": "Sofea",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "0dc1187d-2ad5-4901-827a-069aa0183599",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 3395459,
+      "name": "Sky Iskandar",
+      "character": "Abang Chelloz",
+      "profilePath": "/cQmNXwwg771V1iUiO7iOvHp6m23.jpg",
+      "order": 9
+    },
+    {
+      "id": "d875179d-c109-4564-904a-33b2bbcdf783",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 2140589,
+      "name": "Ikmal Amry",
+      "character": "Chelloz",
+      "profilePath": "/7AMMTmFjRiwZoh5B3X1angCiwH1.jpg",
+      "order": 10
+    },
+    {
+      "id": "1bcc9748-7ce2-4542-baa8-a2c220c04ee4",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 1286097,
+      "name": "Aeril Zafrel",
+      "character": "Idris",
+      "profilePath": "/5bPpKMghmf6X9PsEMYIPjr5pPyN.jpg",
+      "order": 11
+    },
+    {
+      "id": "efde2b98-448e-4816-881a-8662a8898e83",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 2984543,
+      "name": "Theebaan Govindasamy",
+      "character": "Jay The Heartbreaker",
+      "profilePath": "/3Io6DAwBR8JFRo6ahAszoUpOnkb.jpg",
+      "order": 12
+    },
+    {
+      "id": "19c435a1-e627-4803-8783-a456fae38aa8",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 2748358,
+      "name": "Razib Salimin",
+      "character": "Paduka Atan",
+      "profilePath": "/i9v2mtjKkkYZyrLEHln99nNjJ0M.jpg",
+      "order": 13
+    },
+    {
+      "id": "bfe53d4e-79f9-4c2d-ac70-8f5775aab986",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 1186562,
+      "name": "Ruzaidi Abdul Rahman",
+      "character": "Paduka Dali",
+      "profilePath": "/xMd5rRx94kE4QsN7N5x1EMcMQJ2.jpg",
+      "order": 14
+    },
+    {
+      "id": "e1879c23-fabc-48b2-a1b1-5e7ff5f91836",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 1202797,
+      "name": "Shaharuddin Thamby",
+      "character": "Paduka Omar",
+      "profilePath": "/7EBMLdR7rlv9Xq7XamqANEPOqal.jpg",
+      "order": 15
+    },
+    {
+      "id": "c281dbc7-6612-4cc3-81e3-e09844412773",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 5912376,
+      "name": "Lucidrari",
+      "character": "Pacat",
+      "profilePath": "/vchsDM8U6cx3rTHZ4JVOn7RXQGH.jpg",
+      "order": 16
+    },
+    {
+      "id": "62446245-f913-4b45-95de-8b73b8a257d3",
+      "movieId": "2d36aa34-d946-4824-9630-c1d849c7e82a",
+      "tmdbPersonId": 559403,
+      "name": "Taqim Zaki",
+      "character": "Announcer",
+      "profilePath": "/x6K0h4eKD8bU8xe7nDQY9HUL9HI.jpg",
+      "order": 17
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

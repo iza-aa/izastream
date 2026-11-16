@@ -1,0 +1,338 @@
+{
+  "slug": "make-me-shudder-3-2015",
+  "id": "869d6b6a-0418-4729-b806-0477257ad668",
+  "tmdbId": 360149,
+  "imdbId": "tt4425458",
+  "title": "Make Me Shudder 3",
+  "originalTitle": "มอ 6/5 ปากหมาท้าผี 3",
+  "overview": "When a group of young children, Secondary 6/5, graduated from high school Therefore reunited with the younger generation to go to Phuket But from a fun trip it turned into a horror.",
+  "tagline": "Stay teen, stay cool, stay and scream out loudest. Hey, guy! say hi to the dead swarm.",
+  "posterPath": "/e4IMtobtPwuzZOoYxnhag8reat3.jpg",
+  "backdropPath": "/fyM4Pwlq7RZvFN4iaPFY1uqWSnj.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/68WueI6hVe0ysIGPX78DhkzOanl.jpg",
+    "/fyM4Pwlq7RZvFN4iaPFY1uqWSnj.jpg",
+    "/8mIF06T1rdT9myogJQMap0V6va2.jpg",
+    "/hOctCGMNeg5IqP7ojgrOQlepp0B.jpg"
+  ],
+  "releaseDate": "2015-03-04",
+  "runtime": 95,
+  "voteAverage": "5.80",
+  "popularity": null,
+  "popularityScore": 76,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=vIDlYGjZtfU",
+  "quality": "WEB-DL",
+  "director": "Poj Arnon",
+  "directorTmdbId": 111984,
+  "directorProfilePath": "/bETWd45bkio5LDAewuVDTBB1S1u.jpg",
+  "productionCompanies": [
+    {
+      "id": 12874,
+      "name": "Phranakorn Film",
+      "logo_path": "/apZrykxIdwQ6vmpDHirWBtqTZOK.png"
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 2570,
+  "watchlistCount": 7,
+  "favouriteCount": 2,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-16T09:54:35.185Z",
+  "updatedAt": "2026-08-16T09:55:35.957Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2d3d9045-75fa-492e-9923-0a9ec01ec6aa",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 1336819,
+      "name": "Kunatip Pinpradub",
+      "character": "Nick",
+      "profilePath": "/awhHefIt8p4zxjTHSBEd9Yngrnk.jpg",
+      "order": 0
+    },
+    {
+      "id": "53e26d35-4e13-4837-a0ea-eb5f598b2e25",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 3555873,
+      "name": "Kittipat Samantrakulchai",
+      "character": "Bew",
+      "profilePath": "/j8daXHdAvTpAyZUEbcVpWVkqPne.jpg",
+      "order": 1
+    },
+    {
+      "id": "befdb46a-4d8c-4e56-acbe-4ab4e0a7501f",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 1343666,
+      "name": "Bhuripat Vejvongsatechavat",
+      "character": "James",
+      "profilePath": "/tgABQLQUaucfdfTqkPNFRHhFw1V.jpg",
+      "order": 2
+    },
+    {
+      "id": "de9efd15-1fac-4a8d-9986-6484c675b8c5",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 1561221,
+      "name": "Ritthichai Tasarika",
+      "character": "Oil",
+      "profilePath": "/qK5ZEgPYFzFCawFsqHVY9YxAsKn.jpg",
+      "order": 3
+    },
+    {
+      "id": "de07b7bc-4196-4096-9a7e-934ae9add431",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 1336841,
+      "name": "Brian Richard Garton",
+      "character": "Brian",
+      "profilePath": "/hvEvaUqxJUtpT5kQ9GoFoZwPNIA.jpg",
+      "order": 4
+    },
+    {
+      "id": "87459140-2598-4d6f-8a6f-cb64b8c0961c",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 1287094,
+      "name": "Withawat Thaokhamlue",
+      "character": "Mark",
+      "profilePath": "/naHzdRAolTdwc8CqJWp9qz98fOh.jpg",
+      "order": 5
+    },
+    {
+      "id": "512c20a3-43d1-416e-9d68-48f78e1ed46c",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 3176054,
+      "name": "Siraphop Manithikhun",
+      "character": "Net",
+      "profilePath": "/EGbKAUyYdfBxW7PJYEBZMZtD5x.jpg",
+      "order": 6
+    },
+    {
+      "id": "1aafb8ce-a56d-44d2-b27a-5b259556b468",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 1336839,
+      "name": "Worrachai Sirikongsuwan",
+      "character": "Tape",
+      "profilePath": "/e6uw3ZG8Orm1LDJNhkAMcjM5GmG.jpg",
+      "order": 7
+    },
+    {
+      "id": "0b00f582-4dc7-42af-b7e1-8a62a7d1e94a",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 3580767,
+      "name": "Surawit Ruangyod",
+      "character": "Tong",
+      "profilePath": "/oECDgp6QcDkEVTGOc71dZdeoUGF.jpg",
+      "order": 8
+    },
+    {
+      "id": "d72a72b4-0f63-447f-a14a-88f0cd4ab6e1",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 2770653,
+      "name": "Methakorn Supapantaree",
+      "character": "Ice",
+      "profilePath": "/ca8RPTD9aHE7nUFvylrqXRZA4ji.jpg",
+      "order": 9
+    },
+    {
+      "id": "4a11d235-21fc-4549-b338-6b3f7c3c6a3d",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 4752170,
+      "name": "Teetat Poramacharoenroj",
+      "character": "Wukong",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "3a364e4f-9a27-423c-aefb-e4ecd4023b67",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 3291099,
+      "name": "Aukkarat Jittasiri",
+      "character": "Doctor",
+      "profilePath": "/fakIWFiC3oN64Q9JC1Uxv2iNWSp.jpg",
+      "order": 11
+    },
+    {
+      "id": "692b52fd-07bb-4e49-8da3-d95a36a5884b",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 5013338,
+      "name": "Chawin Iamchaimongkol",
+      "character": "Male Nurse",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "b45bba7b-073c-446e-8134-d27ddbae625a",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 4558758,
+      "name": "Chanunya Pongnak",
+      "character": "Nurse",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "74d174e3-1368-4106-b30f-538ce5e0f06a",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 2391712,
+      "name": "Pasakorn Sanrattana",
+      "character": "Ghost",
+      "profilePath": "/yitxOnStiS5EPIAwE4iEBh4Lcf1.jpg",
+      "order": 14
+    },
+    {
+      "id": "0f3afc3d-0bd1-4b89-a456-d71a5b3fe68c",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 3830627,
+      "name": "Korakrit Laotrakul",
+      "character": "Ghost",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "493626ad-3274-4438-8716-2e6065a14164",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 1276956,
+      "name": "Somphong Kunapratom",
+      "character": "Dor",
+      "profilePath": "/nfYFs8OWo4Sx2rQKrKLprTD9ydM.jpg",
+      "order": 16
+    },
+    {
+      "id": "1031fbd8-c21b-4b61-86ba-0af433c20e5b",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 1259503,
+      "name": "Phuwaryne Keenan",
+      "character": "Hin",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "69f3423f-a517-48b1-a6b8-e4ef9b4f896a",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 1146455,
+      "name": "Wiradit Srimalai",
+      "character": "Gus",
+      "profilePath": "/c3EruWu3WnC5OdmUATRFU53rFO8.jpg",
+      "order": 18
+    },
+    {
+      "id": "aeb9d90e-9e97-4aed-ad2a-04edd8b6b4e6",
+      "movieId": "869d6b6a-0418-4729-b806-0477257ad668",
+      "tmdbPersonId": 3584859,
+      "name": "Nongbew Kawkong",
+      "character": "Eed",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

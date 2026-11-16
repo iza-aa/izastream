@@ -1,0 +1,129 @@
+{
+  "slug": "hokkaido-gals-are-super-adorable-2024",
+  "id": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+  "title": "Hokkaido Gals Are Super Adorable!",
+  "overview": "Snowflakes aren’t the only things dropping in Hokkaido—so are jaws, thanks to the super adorable gals who are turning the icy north into a hotbed of fashion and fun. Brace yourself for a winter storm of laughs, love, and killer outfits as these gals prove that being cute is an all-season affair. Here, frostbite meets fashionista!",
+  "tagline": null,
+  "posterPath": "/5PCVM6o2OvXFrfJXOrlRQGBLB4x.jpg",
+  "backdropPath": "/3aDtFc2ar2Y7F8R7uyWXVds4yen.jpg",
+  "logoPath": "/6pukFCLXpUMsZXILiBwj2MOjhuV.png",
+  "firstAirDate": "2024-01-09",
+  "voteAverage": "8.14",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "26633513-5512-4c91-b40d-fddba811ae30",
+      "tvSeriesId": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+      "tmdbPersonId": 992869,
+      "name": "Ayane Sakura",
+      "character": "Minami Fuyuki (voice)",
+      "profilePath": "/yPbTmntASE9psPIMhNGU5oo6vIH.jpg",
+      "order": 0
+    },
+    {
+      "id": "655ee244-386e-4c37-a097-7f83022f0ddd",
+      "tvSeriesId": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+      "tmdbPersonId": 1210634,
+      "name": "Nobunaga Shimazaki",
+      "character": "Tsubasa Shiki (voice)",
+      "profilePath": "/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg",
+      "order": 1
+    },
+    {
+      "id": "5238d195-6ca0-440f-a2c7-504e12db069f",
+      "tvSeriesId": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+      "tmdbPersonId": 1565358,
+      "name": "Yumiri Hanamori",
+      "character": "Sayuri Akino (voice)",
+      "profilePath": "/zXVwGxsxwEvL1f6wxzTYtxytjDn.jpg",
+      "order": 2
+    },
+    {
+      "id": "9f307f1e-02f4-4177-926a-ea3cc0d50fb9",
+      "tvSeriesId": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+      "tmdbPersonId": 1452028,
+      "name": "Reina Ueda",
+      "character": "Rena Natsukawa (voice)",
+      "profilePath": "/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg",
+      "order": 3
+    },
+    {
+      "id": "62cc7a94-9929-4e6f-b8d6-0e940c9d9aea",
+      "tvSeriesId": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+      "tmdbPersonId": 233590,
+      "name": "Yoshitsugu Matsuoka",
+      "character": "Matsuo Takayumi (voice)",
+      "profilePath": "/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg",
+      "order": 4
+    },
+    {
+      "id": "3468a13f-2091-479c-80db-1d334519abe8",
+      "tvSeriesId": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+      "tmdbPersonId": 1790286,
+      "name": "Rika Nagae",
+      "character": "Momoko Fuyuki (voice)",
+      "profilePath": "/hfsecCa4jdkVDe2zjX8el9CGIzy.jpg",
+      "order": 5
+    },
+    {
+      "id": "27605921-f1a5-48f4-8915-e5e2491c6385",
+      "tvSeriesId": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+      "tmdbPersonId": 225999,
+      "name": "Eri Kitamura",
+      "character": "Mai Fuyuki (voice)",
+      "profilePath": "/AioVwYxfpr9zMEQPamI6j9JqXVn.jpg",
+      "order": 6
+    },
+    {
+      "id": "3eb0b6bd-d0dc-4a1f-803b-f3bd68496c16",
+      "tvSeriesId": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+      "tmdbPersonId": 2833580,
+      "name": "Mariko Nagai",
+      "character": "Asuka (voice)",
+      "profilePath": "/hwSHTes6BFfEl9yi17tJlq0DPeR.jpg",
+      "order": 7
+    },
+    {
+      "id": "9dad0aed-dc35-4526-adf5-0986e4cf1d19",
+      "tvSeriesId": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+      "tmdbPersonId": 1288294,
+      "name": "Yurika Kubo",
+      "character": "Hina (voice)",
+      "profilePath": "/tpzwj1J6HRq2H6xZjM5Irg7FzT2.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "707d3106-aff3-48f9-afb5-8848c5230e29",
+      "tvSeriesId": "a47a9575-9ed3-497e-be17-5e78b7132c8e",
+      "tmdbId": 314021,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/zPl4EVzc9RFuXtfLU2JSMuRESCG.jpg",
+      "airDate": "2024-01-09",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-08-30T13:33:06.338Z",
+      "updatedAt": "2026-08-30T13:34:02.559Z"
+    }
+  ]
+}

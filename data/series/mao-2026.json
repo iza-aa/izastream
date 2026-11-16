@@ -1,0 +1,166 @@
+{
+  "slug": "mao-2026",
+  "id": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+  "title": "MAO",
+  "overview": "Eight years ago, Nanoka Kiba was saved from the wreckage of a fatal accident at Gogyō Town Shopping Center. Drawn to the abandoned passage of storefronts on her walk home from school in present day, she becomes inexplicably transported to Japan's Taishō period where she meets the mysterious Mao, a fellow traveler whose arrival at a ghost-inhabited village is simultaneous with hers. Together, they investigate the bizarre events that begin to occur around them, and Nanoka soon pieces together her broken memories of the accident and how she and Mao may have something more sinister in common.",
+  "tagline": null,
+  "posterPath": "/kdti4Dm7XPV0Os2Jjzd188AWTQ3.jpg",
+  "backdropPath": "/pk8QkwzyLrmtm7bx6rcKAIuCIlq.jpg",
+  "logoPath": "/gaT7XyeAwsbgAZK0i3sXdjn8Wd7.png",
+  "firstAirDate": "2026-04-04",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 24,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6833d6b0-9368-4f20-a9ea-d5185c463a75",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbPersonId": 149894,
+      "name": "Yuki Kaji",
+      "character": "",
+      "profilePath": "/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg",
+      "order": 0
+    },
+    {
+      "id": "52c0c235-ed6c-47b3-9486-8dd8d553b90c",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbPersonId": 2492164,
+      "name": "Natsumi Kawaida",
+      "character": "",
+      "profilePath": "/bdsKRWdB14DAAZzJnRjquWbqNYR.jpg",
+      "order": 1
+    },
+    {
+      "id": "84cb1842-70fa-433b-bff3-9b991bd39516",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbPersonId": 119145,
+      "name": "Hiro Shimono",
+      "character": "",
+      "profilePath": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg",
+      "order": 2
+    },
+    {
+      "id": "d09236dc-a5ee-4bb4-9136-aca55dfe2fb4",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbPersonId": 1014991,
+      "name": "Toshiyuki Toyonaga",
+      "character": "",
+      "profilePath": "/duhxGjWjgo6WagvGgKu529ztz7u.jpg",
+      "order": 3
+    },
+    {
+      "id": "a28b2cef-2d57-4209-a316-521f28e4204f",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbPersonId": 4206137,
+      "name": "Momoka Terasawa",
+      "character": "",
+      "profilePath": "/lLS7b6k1653tiVwbi6pq9JXzMBW.jpg",
+      "order": 4
+    },
+    {
+      "id": "b71c5d8f-4e69-4e6f-a2ad-3165d6bb30f0",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbPersonId": 1254260,
+      "name": "Kazuyuki Okitsu",
+      "character": "",
+      "profilePath": "/vgyaK5dAxhvzAi6LJM3ZyaJd4mJ.jpg",
+      "order": 5
+    },
+    {
+      "id": "d903eb74-b3ac-44c2-8399-f449d3ef09ac",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbPersonId": 1221438,
+      "name": "Motoko Kumai",
+      "character": "",
+      "profilePath": "/tFbdGP9nflvfJYNNIKHUejnpifm.jpg",
+      "order": 6
+    },
+    {
+      "id": "5c486169-9f96-41c4-84cf-b6c7de5f4180",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbPersonId": 1072774,
+      "name": "Yoko Hikasa",
+      "character": "",
+      "profilePath": "/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg",
+      "order": 7
+    },
+    {
+      "id": "71134197-62c8-4bb0-884d-6da84b5f1c13",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbPersonId": 1255760,
+      "name": "Risa Shimizu",
+      "character": "",
+      "profilePath": "/mFU3a5Po6dBS70fgVLXSS5w3r9F.jpg",
+      "order": 8
+    },
+    {
+      "id": "bb25bfe6-1645-4b11-9106-37b17f2f9dab",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbPersonId": 1452028,
+      "name": "Reina Ueda",
+      "character": "",
+      "profilePath": "/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "8fa85d70-fb02-4182-8aff-df386d56505d",
+      "tvSeriesId": "0fddd42b-fe78-4a43-aac4-6cd5a4257089",
+      "tmdbId": 465335,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/kdti4Dm7XPV0Os2Jjzd188AWTQ3.jpg",
+      "airDate": "2026-04-04",
+      "episodeCount": 26,
+      "isPublished": true,
+      "createdAt": "2026-08-24T16:38:04.904Z",
+      "updatedAt": "2026-09-21T06:57:10.622Z"
+    }
+  ]
+}

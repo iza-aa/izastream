@@ -1,0 +1,173 @@
+{
+  "slug": "pit-babe-2023",
+  "id": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+  "title": "Pit Babe",
+  "overview": "An aspiring race car driver gets the chance to join one of the biggest teams — but on one condition: he has to obey his talented teammate's every desire.",
+  "tagline": null,
+  "posterPath": "/xuLSkVlXXf3OpTwoUWN5c9ubLVC.jpg",
+  "backdropPath": "/tgPkYUUcOWUpocPkt8KIfJMvEbf.jpg",
+  "logoPath": "/d67KTkfu04syF8Xdjkvr3c3YRBM.png",
+  "firstAirDate": "2023-11-17",
+  "voteAverage": "7.85",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 26,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "85fc8569-0b9b-42b9-ab04-28beb9fb0511",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbPersonId": 2509435,
+      "name": "Naret Promphaopun",
+      "character": "Babe",
+      "profilePath": "/kjFDAOtxFoeNd6Ic0yUutJvro9b.jpg",
+      "order": 0
+    },
+    {
+      "id": "fe014f3b-3c73-4924-812b-e25a8cbe1452",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbPersonId": 4324694,
+      "name": "Krittin Kitjaruwannakul",
+      "character": "Charlie",
+      "profilePath": "/7358Uf8NvQDsIG6RgGtSs4cEnpV.jpg",
+      "order": 1
+    },
+    {
+      "id": "d10ed50e-b504-4109-b9fb-a06c90777275",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbPersonId": 3390749,
+      "name": "Supanut Lourhaphanich",
+      "character": "Way",
+      "profilePath": "/6lj90I6Sbaub6AAFUBetIVXhh16.jpg",
+      "order": 2
+    },
+    {
+      "id": "2a241cac-5941-4b03-8ef2-3e7369373022",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbPersonId": 4324700,
+      "name": "Obrnithi Leelavetchabutr",
+      "character": "Pete",
+      "profilePath": "/wedI6YWewMizuZG7kWQNTAUPvd0.jpg",
+      "order": 3
+    },
+    {
+      "id": "8ed5758a-89b2-41e2-8ea3-6a46c0f6a2b8",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbPersonId": 2666135,
+      "name": "Atthanin Thaninphanuwiwat",
+      "character": "Kim",
+      "profilePath": "/d4HbkIfCNSOOXL9WYNkmbQIWUrx.jpg",
+      "order": 4
+    },
+    {
+      "id": "d2793b5f-711a-4b12-8660-7931da2aa941",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbPersonId": 4324704,
+      "name": "Asre Wattanayakul",
+      "character": "Dean",
+      "profilePath": "/jUNXXSdQ0k0ied0t1ZXLiyzHES4.jpg",
+      "order": 5
+    },
+    {
+      "id": "90d566cb-3ef3-455e-b42d-82286311f48f",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbPersonId": 2728558,
+      "name": "Thanapon Aiemkumchai",
+      "character": "Jeff",
+      "profilePath": "/jkXSHggxNBKIhPgGLNrYFjrcWDX.jpg",
+      "order": 6
+    },
+    {
+      "id": "583694e6-0d61-45fb-93f6-560b35ec5edf",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbPersonId": 1345320,
+      "name": "Hemmawich Kwanamphaiphan",
+      "character": "Alan",
+      "profilePath": "/1VHmkaTaU1lv3WsLPsXvloLEMle.jpg",
+      "order": 7
+    },
+    {
+      "id": "4f1a7881-7ef0-44a8-ad68-5bf366c60150",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbPersonId": 3595369,
+      "name": "Pantach Kankham",
+      "character": "Kenta",
+      "profilePath": "/nqWU5E3kbgi4377XKyyApxP20A4.jpg",
+      "order": 8
+    },
+    {
+      "id": "aa8788f0-fc32-4683-aef4-faf5381a1727",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbPersonId": 4324698,
+      "name": "Supakorn Saokhor",
+      "character": "Sonic",
+      "profilePath": "/66pqKoSxk7yBu7ksrydQmEeu3PO.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d4adc918-d497-4449-9ba4-fdc02a6d3946",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbId": 357485,
+      "seasonNumber": 1,
+      "name": "Pitbabe",
+      "overview": "An aspiring race car driver gets the chance to join one of the biggest teams — but on one condition: he has to obey his talented teammate's every desire.",
+      "posterPath": "/uCDcfr6uq3wWiVpgmQMBefHS70B.jpg",
+      "airDate": "2023-11-17",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-05-23T06:34:51.285Z",
+      "updatedAt": "2026-05-23T06:37:20.386Z"
+    },
+    {
+      "id": "0ad402e9-5b88-47b6-a562-3febd5f1ed59",
+      "tvSeriesId": "4ba579c0-3197-404c-b0c1-a25915b185e6",
+      "tmdbId": 390092,
+      "seasonNumber": 2,
+      "name": "Pitbabe II",
+      "overview": "One year after Tony’s death, a hidden world of powers emerges. As Charlie fights to expose those exploiting them, his bond with Babe is tested when they uncover a deadly conspiracy led by Tony, who isn’t as dead as they believed.",
+      "posterPath": "/2fDq4zLzA3bhdM7KxJDUqmgWqR6.jpg",
+      "airDate": "2025-05-02",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-05-23T06:34:51.285Z",
+      "updatedAt": "2026-05-23T06:37:21.602Z"
+    }
+  ]
+}

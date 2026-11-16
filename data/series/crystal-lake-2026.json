@@ -1,0 +1,138 @@
+{
+  "slug": "crystal-lake-2026",
+  "id": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+  "title": "Crystal Lake",
+  "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+  "tagline": "Rage is a mother.",
+  "posterPath": "/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
+  "backdropPath": "/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+  "logoPath": "/dt55vnpylu6fLiDqZdhoXf5VhIL.png",
+  "firstAirDate": "2026-10-15",
+  "voteAverage": "8.21",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1f89a08f-59ed-44be-99ae-a6fd54994f94",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbPersonId": 1817,
+      "name": "Linda Cardellini",
+      "character": "Pamela Voorhees",
+      "profilePath": "/bcycvynDprC1rrhBNrnBjn5uOUd.jpg",
+      "order": 0
+    },
+    {
+      "id": "93af5d1e-6ab0-4fe1-b89a-ca3feb535c63",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbPersonId": 1962720,
+      "name": "William Catlett",
+      "character": "Levon Brooks",
+      "profilePath": "/1GzaCfhYEfg2s2lQzlQykijlUY8.jpg",
+      "order": 1
+    },
+    {
+      "id": "7123d18a-c746-49c0-8e3c-6fa0d88035cc",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbPersonId": 5503263,
+      "name": "Gwendolyn Sundstrom",
+      "character": "Grace Snell",
+      "profilePath": "/uJtJHjI4gHMK2GmfX8fuNYL4OuQ.jpg",
+      "order": 2
+    },
+    {
+      "id": "2476fa99-4baf-4f8b-bf0e-af0b4714d96b",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbPersonId": 1098958,
+      "name": "Cameron Scoggins",
+      "character": "Dorf",
+      "profilePath": "/eIJCzNXmW4qZZJJyiqwrubj8Si5.jpg",
+      "order": 3
+    },
+    {
+      "id": "fcf325e6-8d7b-43b3-bc92-3aa3305b9e06",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbPersonId": 5399431,
+      "name": "Devin Kessler",
+      "character": "Briana Brooks",
+      "profilePath": "/fZV3fyduDDRoRsofiO3eCAr7CDf.jpg",
+      "order": 4
+    },
+    {
+      "id": "04698365-e178-4ea9-996e-79ba80432808",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbPersonId": 4307020,
+      "name": "Callum Vinson",
+      "character": "Jason Voorhees",
+      "profilePath": "/zthXhlBa98WDS52OlcG2E9xvs8R.jpg",
+      "order": 500
+    },
+    {
+      "id": "c77e4945-4afb-41b6-b8eb-cff8f13e245a",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbPersonId": 1099519,
+      "name": "Joy Suprano",
+      "character": "Rita",
+      "profilePath": "/ApVRbSl1aJdBeuTGlU7dzGDdPDd.jpg",
+      "order": 501
+    },
+    {
+      "id": "61a15d5b-2dc1-460b-a080-bfb1446d1903",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbPersonId": 4136847,
+      "name": "Nick Cordileone",
+      "character": "Ralph",
+      "profilePath": "/y7cWn7NZx13Bq1sNX2KG67UZurm.jpg",
+      "order": 502
+    },
+    {
+      "id": "0d9f977c-fc03-4286-9bf0-c9347237dfcd",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbPersonId": 225629,
+      "name": "Daniel Stewart Sherman",
+      "character": "Enos",
+      "profilePath": "/h7NusO0qQb1EA6fOQbu5yGfb3Wu.jpg",
+      "order": 503
+    },
+    {
+      "id": "90955556-0b3a-4fd5-8f04-8071eb65f2eb",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbPersonId": 58544,
+      "name": "Neal Huff",
+      "character": "Hamish",
+      "profilePath": "/iNvUcnFm4O3tESbemiMFdMJH2zp.jpg",
+      "order": 504
+    }
+  ],
+  "seasons": [
+    {
+      "id": "69dd5ee4-f98d-459c-8d21-d0553c7e5f40",
+      "tvSeriesId": "df9d46d1-aaa8-45e7-b3b3-7637b47cda49",
+      "tmdbId": 314829,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/hsESHRHtwIQ1OU5ck8fDmuGJkXM.jpg",
+      "airDate": "2026-10-15",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-17T05:43:08.111Z",
+      "updatedAt": "2026-10-17T05:43:44.029Z"
+    }
+  ]
+}

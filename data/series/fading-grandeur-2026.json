@@ -1,0 +1,111 @@
+{
+  "slug": "fading-grandeur-2026",
+  "id": "e06e534a-c192-477c-a5b1-a837ba0db8c6",
+  "title": "Fading Grandeur",
+  "overview": "Don Leandro, a marquis facing a dire financial situation, decides to part with the decaying family mansion he owns in Madrid. Sofía Carrington, a multimillionaire businesswoman, shows interest in acquiring the property. What initially appears to be a real estate transaction soon becomes complicated, as the relationship between the two goes beyond mere financial negotiation.",
+  "tagline": null,
+  "posterPath": "/4AUgc7JhcLQHNzoa1l0jwxBdK0.jpg",
+  "backdropPath": "/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-10-23",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ff33d14b-a5a2-4120-a24c-26a5fd533417",
+      "tvSeriesId": "e06e534a-c192-477c-a5b1-a837ba0db8c6",
+      "tmdbPersonId": 3483,
+      "name": "Antonio de la Torre",
+      "character": "Don Leandro",
+      "profilePath": "/d43JMOaio4mTZlov23gM2q8a6Uo.jpg",
+      "order": 0
+    },
+    {
+      "id": "ad5145c8-a996-4b23-9483-b03ad75740b5",
+      "tvSeriesId": "e06e534a-c192-477c-a5b1-a837ba0db8c6",
+      "tmdbPersonId": 114460,
+      "name": "Alexandra Jiménez",
+      "character": "Sofía Carrington",
+      "profilePath": "/2dRN4aqsNgO9Um2f3FUWSx5WMcx.jpg",
+      "order": 1
+    },
+    {
+      "id": "685ab57e-6033-40c8-b3b1-59436b85ae9b",
+      "tvSeriesId": "e06e534a-c192-477c-a5b1-a837ba0db8c6",
+      "tmdbPersonId": 1190975,
+      "name": "Enric Benavent",
+      "character": "",
+      "profilePath": "/y3uiIImDqR825jDrJNhQSwqrQLo.jpg",
+      "order": 2
+    },
+    {
+      "id": "695ddd6b-fcbe-47ad-9d77-1a860b4e1d0e",
+      "tvSeriesId": "e06e534a-c192-477c-a5b1-a837ba0db8c6",
+      "tmdbPersonId": 1163772,
+      "name": "Fernando Andina",
+      "character": "",
+      "profilePath": "/2Cg1olOBdW3xv4FEi5zXw4jrHs6.jpg",
+      "order": 3
+    },
+    {
+      "id": "0dc0dfb7-ba4b-47b7-a9ed-a2a204058453",
+      "tvSeriesId": "e06e534a-c192-477c-a5b1-a837ba0db8c6",
+      "tmdbPersonId": 19820,
+      "name": "Mercedes Sampietro",
+      "character": "",
+      "profilePath": "/5ZwykqdX9ClgABxC8d9VGSDW4kd.jpg",
+      "order": 4
+    },
+    {
+      "id": "341e0692-f0cd-4bae-b493-e6f2017a46e8",
+      "tvSeriesId": "e06e534a-c192-477c-a5b1-a837ba0db8c6",
+      "tmdbPersonId": 1334529,
+      "name": "Celia de Molina",
+      "character": "",
+      "profilePath": "/uQCEuXPEkz7areLKjbIBfrd6mZk.jpg",
+      "order": 5
+    },
+    {
+      "id": "f192d70e-00bb-4a6f-a31e-a0b5fe9f4ecd",
+      "tvSeriesId": "e06e534a-c192-477c-a5b1-a837ba0db8c6",
+      "tmdbPersonId": 37507,
+      "name": "Teresa Rabal",
+      "character": "",
+      "profilePath": "/9veUNCdweNRAHzaRBAtaHxRbveR.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "60bddee9-6068-4045-a06d-40c4d0a2d369",
+      "tvSeriesId": "e06e534a-c192-477c-a5b1-a837ba0db8c6",
+      "tmdbId": 544466,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9IdFIBrUR6k3HgOBuFui42UdYr.jpg",
+      "airDate": "2026-10-23",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-10-24T02:12:12.737Z",
+      "updatedAt": "2026-10-24T02:12:54.469Z"
+    }
+  ]
+}

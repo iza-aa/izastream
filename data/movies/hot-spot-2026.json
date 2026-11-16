@@ -1,0 +1,441 @@
+{
+  "slug": "hot-spot-2026",
+  "id": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+  "tmdbId": 813418,
+  "imdbId": "tt14119302",
+  "title": "Hot Spot",
+  "originalTitle": "Hot Spot",
+  "overview": "Set in a near future society ruled by sentient A.I., a private eye investigates a murder case only to discover a rebel group capable of undermining the digital overlord. As the detective's identity slowly unravels, his world enters a state of hypnotic meltdown.",
+  "tagline": "The system is unstable.",
+  "posterPath": "/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+  "backdropPath": "/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+  "logoPath": "/nLqBtLc0KXeXkDb84NNowQFka7U.png",
+  "backdrops": [
+    "/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+    "/km0vFlBTUjgOIOuqX6nWCYDtSdj.jpg",
+    "/yCYp61TkFxLwoNNixkmKL0DHtj1.jpg",
+    "/1I3vEYdeamj8OdcydmBOK3kERnv.jpg",
+    "/yWPWsyzrFYYs28HrH0R3Fy3ob4h.jpg",
+    "/cL4EeH1t6pCrac6whqQWL45vRDa.jpg"
+  ],
+  "releaseDate": "2026-08-21",
+  "runtime": 101,
+  "voteAverage": "4.80",
+  "popularity": null,
+  "popularityScore": 34,
+  "originalLanguage": "en",
+  "country": "PL",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=x54MPGBWXA8",
+  "quality": "WEB-DL",
+  "director": "Agnieszka Smoczyńska",
+  "directorTmdbId": 1557607,
+  "directorProfilePath": "/sA55iFf9BargmD4X0W8QHcJ5rBA.jpg",
+  "productionCompanies": [
+    {
+      "id": 86773,
+      "name": "Madants",
+      "logo_path": "/lbjAsmIuOcIEFJG2WRSz1NUAXvi.png"
+    },
+    {
+      "id": 86772,
+      "name": "Neda Film",
+      "logo_path": "/zaRXAxVMdactH2HLKegbmm7FdOx.png"
+    },
+    {
+      "id": 2801,
+      "name": "Film i Väst",
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png"
+    },
+    {
+      "id": 8288,
+      "name": "Zentropa International Sweden",
+      "logo_path": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 310,
+      "name": "artificial intelligence (a.i.)"
+    },
+    {
+      "id": 1475,
+      "name": "telepathy"
+    },
+    {
+      "id": 4458,
+      "name": "post-apocalyptic future"
+    },
+    {
+      "id": 3363,
+      "name": "hypnosis"
+    },
+    {
+      "id": 155790,
+      "name": "private detective"
+    },
+    {
+      "id": 179853,
+      "name": "vagrant"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 209144,
+      "name": "seizure"
+    },
+    {
+      "id": 209853,
+      "name": "cybercrime"
+    },
+    {
+      "id": 252728,
+      "name": "self-driving car"
+    },
+    {
+      "id": 273124,
+      "name": "public execution"
+    },
+    {
+      "id": 281237,
+      "name": "independent film"
+    },
+    {
+      "id": 290902,
+      "name": "authoritarian regime"
+    },
+    {
+      "id": 291469,
+      "name": "psychic powers"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 375504,
+      "name": "sentient-artificial-intelligence"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 2369,
+  "watchlistCount": 13,
+  "favouriteCount": 0,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-10T19:56:23.001Z",
+  "updatedAt": "2026-09-10T19:56:28.560Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0cdae7b2-8d44-4c9d-8aa4-17e6e4513a35",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 136650,
+      "name": "Andrzej Konopka",
+      "character": "Jan 623",
+      "profilePath": "/3QoIbqsBXj9Si1kuGOl0YCxM52v.jpg",
+      "order": 0
+    },
+    {
+      "id": "067a3577-a4ff-422a-ab22-78807e2ec393",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 87722,
+      "name": "Noomi Rapace",
+      "character": "Rana",
+      "profilePath": "/m0J6ZqEyNljqF1DXBoC9DcMStHP.jpg",
+      "order": 1
+    },
+    {
+      "id": "3b68a8ae-f8c7-4fa0-8777-29101d53a250",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 121750,
+      "name": "Reika Kirishima",
+      "character": "Ayka",
+      "profilePath": "/htxRwdj2L0SxP18PzNIt21m6qEt.jpg",
+      "order": 2
+    },
+    {
+      "id": "f65d9abc-4539-4066-9baa-8a40ba45487f",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 4542315,
+      "name": "Filippa Kaye",
+      "character": "Maria",
+      "profilePath": "/nv0JSUzDcd6JbJBkdvE6azzLBlL.jpg",
+      "order": 3
+    },
+    {
+      "id": "a507d929-6dd2-46ee-88ed-35ad37e5812b",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 6231757,
+      "name": "George Aurimas Cris",
+      "character": "Zen",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "2e4331cf-98bb-443e-940f-9765de706284",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 2040797,
+      "name": "Niki Sereti",
+      "character": "Bossa",
+      "profilePath": "/19sm6GzEHH3VTONbVX6zrzeqZd.jpg",
+      "order": 5
+    },
+    {
+      "id": "74fc5482-038d-4a03-93c1-060eccf1eba8",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 2749202,
+      "name": "Ektoras Liatsos",
+      "character": "TseTse",
+      "profilePath": "/yHJCLaSURVYSgmXtseiePtGoMKc.jpg",
+      "order": 6
+    },
+    {
+      "id": "d002c7f5-75b8-424d-b395-6e54f0c5270b",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 1988587,
+      "name": "Rasmi Tsopela",
+      "character": "Granny",
+      "profilePath": "/93IBKGgxSbgEjj0OfXhwAlpUOHk.jpg",
+      "order": 7
+    },
+    {
+      "id": "cd29f650-fe61-41e1-8cbb-d20cb6580712",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 6296299,
+      "name": "Eleni Tzangka",
+      "character": "Mona",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "04e94700-39a8-413e-b93b-ae7e28c43fef",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 6424147,
+      "name": "Thanasis Barkas",
+      "character": "Male Soldier",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "ad97c844-25ea-4275-ba88-2e97d8764ff7",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 6424148,
+      "name": "Stavros Kotas",
+      "character": "Tom",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "dd8a3283-a5e6-425f-87cf-340854546864",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 2994485,
+      "name": "Sylwia Gola",
+      "character": "Amal",
+      "profilePath": "/A1QxsRRbFXvZ0LX433o9TUk4LQB.jpg",
+      "order": 11
+    },
+    {
+      "id": "111547c7-2f8e-4561-898e-8dc5e041daef",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 2642249,
+      "name": "Ditte Berkeley",
+      "character": "Head Voiceover",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "c4bf6cf2-06a2-4625-acb5-0409ccd720de",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 6424154,
+      "name": "Jo Kotroutsou",
+      "character": "Guitarist",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "fdea0825-6d6f-4167-9187-2fdbcd0fa16f",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 6424155,
+      "name": "Lou Vergara Kesada",
+      "character": "Drummer",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "b8587255-ed2c-4caa-960f-f2e37a7ef98d",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 6424156,
+      "name": "Monica Tsarantani",
+      "character": "Bassist",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "f3bf3fce-4c2f-4265-85aa-091bc0807f16",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 6424157,
+      "name": "Myrto Adosidi",
+      "character": "Woman in Glasses",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "7e591255-8857-471e-8528-dc5c7d47ab2d",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 1198541,
+      "name": "Maria Maj",
+      "character": "Granny Voiceover",
+      "profilePath": "/c9bNQSYlBo0KaE3mKp8MWmRppaV.jpg",
+      "order": 17
+    },
+    {
+      "id": "f0ffbbcc-847f-4935-8cca-425ad7d788f2",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 6424161,
+      "name": "Theodora Katergianaki",
+      "character": "Female Soldier",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "5784ad1c-d4b9-491e-a496-bab6afa60ef4",
+      "movieId": "450629f7-0f4a-47e0-849c-8d53178e02b1",
+      "tmdbPersonId": 6424162,
+      "name": "Melenia Eleni Lykoudi",
+      "character": "Female Soldier",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

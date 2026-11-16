@@ -1,0 +1,328 @@
+{
+  "slug": "sheep-in-the-box-2026",
+  "id": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+  "tmdbId": 1553969,
+  "imdbId": "tt38551209",
+  "title": "Sheep in the Box",
+  "originalTitle": "箱の中の羊",
+  "overview": "In the near future, architect Otone Komoto is married to Kensuke, who runs a construction company. The married couple decide to welcome a humanoid robot into their home as their son.",
+  "tagline": "Trust what you cannot see.",
+  "posterPath": "/9rOCIYYT8Q76FHgl3Nm5ofuc6TQ.jpg",
+  "backdropPath": "/iZCdWpGqKQaAdhysW8gYPTdCP6A.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/iZCdWpGqKQaAdhysW8gYPTdCP6A.jpg",
+    "/amb1K8scReOvlUjRAyntKoZ7MLJ.jpg",
+    "/ycpf0L0zP66ce6DK58Ch6xdSnuu.jpg",
+    "/l5Jsa0jluFlBffr6En3XsFWCMQ6.jpg",
+    "/6Hmhy077hLno9potvverxgwOVv2.jpg",
+    "/5RVWFNRwnoUgMcKR0TUAEQWOJ5v.jpg",
+    "/uSlN8F2kMGbM2tqWPV368XPnxLd.jpg",
+    "/nmeZrfTKgXnrGGCIYqfOomSv1by.jpg",
+    "/5FdVvMp9cnjXyPfVG18gW2c2rUc.jpg",
+    "/s7kYIzNaO11Uut9voS6md2JonIB.jpg"
+  ],
+  "releaseDate": "2026-05-29",
+  "runtime": 126,
+  "voteAverage": "6.50",
+  "popularity": null,
+  "popularityScore": 47,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=j5mlc8TAPNw",
+  "quality": "WEB-DL",
+  "director": "Hirokazu Kore-eda",
+  "directorTmdbId": 25645,
+  "directorProfilePath": "/9Quu2Jo5ItVgs8V1YPCaLEHc8y1.jpg",
+  "productionCompanies": [
+    {
+      "id": 3341,
+      "name": "Fuji Television Network",
+      "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png"
+    },
+    {
+      "id": 84048,
+      "name": "GAGA Corporation",
+      "logo_path": "/mkxZQuPpZ0cBDfjr4PAxltGSsoH.png"
+    },
+    {
+      "id": 882,
+      "name": "TOHO",
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png"
+    },
+    {
+      "id": 39804,
+      "name": "AOI Pro.",
+      "logo_path": "/bT7wDgMpeT7EAewYfWIHs3gWNYE.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1157,
+      "name": "husband wife relationship"
+    },
+    {
+      "id": 310,
+      "name": "artificial intelligence (a.i.)"
+    },
+    {
+      "id": 2301,
+      "name": "architect"
+    },
+    {
+      "id": 5638,
+      "name": "arrest"
+    },
+    {
+      "id": 9872,
+      "name": "grief"
+    },
+    {
+      "id": 204959,
+      "name": "grieving parents"
+    },
+    {
+      "id": 219365,
+      "name": "dead son"
+    },
+    {
+      "id": 220903,
+      "name": "humanoid robot"
+    },
+    {
+      "id": 240315,
+      "name": "mother daughter relationship"
+    },
+    {
+      "id": 244256,
+      "name": "near future"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 3147,
+  "watchlistCount": 63,
+  "favouriteCount": 16,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-09T06:00:03.468Z",
+  "updatedAt": "2026-09-09T06:00:10.490Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0ba458ed-79c8-4754-95b6-bc15f72b092a",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 83526,
+      "name": "Haruka Ayase",
+      "character": "Otone Komoto",
+      "profilePath": "/oUfDmm4jJ03Vs58Ys64f1E219Ix.jpg",
+      "order": 0
+    },
+    {
+      "id": "42df8fba-f176-4a64-ab09-9b809fa07fb7",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 2508132,
+      "name": "Daigo Yamamoto",
+      "character": "Kensuke Komoto",
+      "profilePath": "/2gsbUEU9uua9O4Xk4ISN0LGVCBW.jpg",
+      "order": 1
+    },
+    {
+      "id": "712a9c03-24fe-4c90-8879-f6686121d5a7",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 5989653,
+      "name": "Kuwaki Rimu",
+      "character": "Kakeru",
+      "profilePath": "/bMI7Prl9uGtoVC13CtxksVXTA1E.jpg",
+      "order": 2
+    },
+    {
+      "id": "4de82442-1443-4e80-90a8-30c22e866dda",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 1393772,
+      "name": "Nana Seino",
+      "character": "Alice Kotaki",
+      "profilePath": "/nCXAhyUSD5SgXbq3PRTt5oGKuH1.jpg",
+      "order": 3
+    },
+    {
+      "id": "f90712d2-202f-4330-b724-439981752ebb",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 1893976,
+      "name": "Kanichiro",
+      "character": "Gen Hidaka",
+      "profilePath": "/eRBdyYdLuCj1fvU4KaNR1wU1h9r.jpg",
+      "order": 4
+    },
+    {
+      "id": "4d88ff0d-3138-48ef-990e-d60fb3a3a464",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 3661746,
+      "name": "Hinata Hiiragi",
+      "character": "Takuto Konno",
+      "profilePath": "/sKhMVQUIoNpqVVuFM3gKp5jvKgg.jpg",
+      "order": 5
+    },
+    {
+      "id": "3dff9085-66bb-402e-96a8-a804e00ceba4",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 1723005,
+      "name": "Akihiro Kakuta",
+      "character": "Junichi Hano",
+      "profilePath": "/y0amt9M8Aux2YOIVDgXvKvepspB.jpg",
+      "order": 6
+    },
+    {
+      "id": "b8f2362b-b68b-4651-89fb-20bbad080406",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 1744395,
+      "name": "Kayo Noro",
+      "character": "Kasumi Hano",
+      "profilePath": "/7yVoln6lLAidsVKS02LKjiAoCed.jpg",
+      "order": 7
+    },
+    {
+      "id": "a9aeddcb-2080-4ae7-8fd4-913b9cd7dc41",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 148352,
+      "name": "Mari Hoshino",
+      "character": "Mother",
+      "profilePath": "/6Omo49AvEiONOtlDJGEth8PKiD0.jpg",
+      "order": 8
+    },
+    {
+      "id": "41bfbb52-5d48-4027-bcbb-9dd66c78e10a",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 1505062,
+      "name": "Ayumu Nakajima",
+      "character": "Engineer",
+      "profilePath": "/kK3N0wjhicPGKia5Cn4fRJTCT6y.jpg",
+      "order": 9
+    },
+    {
+      "id": "f91c9260-14a3-4105-8f39-f6506df967c6",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 80864,
+      "name": "Kimiko Yo",
+      "character": "Nobuyo Nishimura",
+      "profilePath": "/g1NZGtCzJKpqgdjNbNYaKBPyYRw.jpg",
+      "order": 10
+    },
+    {
+      "id": "d4bfbad2-6f4f-44b3-9106-bf73d97eba7e",
+      "movieId": "ef7b9163-8404-4c7b-9212-ede9080468aa",
+      "tmdbPersonId": 136191,
+      "name": "Min Tanaka",
+      "character": "Akio Yamagata",
+      "profilePath": "/bXmBnejA48Da7LzLdJqTKSVPCwd.jpg",
+      "order": 11
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

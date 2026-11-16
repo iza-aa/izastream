@@ -1,0 +1,120 @@
+{
+  "slug": "the-final-problem-2026",
+  "id": "943f5ed7-72f3-4664-8aaa-5f9648a24c1f",
+  "title": "The Final Problem",
+  "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
+  "tagline": null,
+  "posterPath": "/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+  "backdropPath": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+  "logoPath": "/uQmgmmmTlGX6kXGtOnR7XEZWBqc.png",
+  "firstAirDate": "2026-09-25",
+  "voteAverage": "6.68",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1326e285-51f5-4d2b-a86c-83d29fabd484",
+      "tvSeriesId": "943f5ed7-72f3-4664-8aaa-5f9648a24c1f",
+      "tmdbPersonId": 110129,
+      "name": "Jose Coronado",
+      "character": "Basil",
+      "profilePath": "/9xo68HzH8n78Xv6gMzKK7XnjtHd.jpg",
+      "order": 0
+    },
+    {
+      "id": "fde163cb-734a-4d45-8e0d-c37608f65b42",
+      "tvSeriesId": "943f5ed7-72f3-4664-8aaa-5f9648a24c1f",
+      "tmdbPersonId": 77122,
+      "name": "María Valverde",
+      "character": "Adela Figueora",
+      "profilePath": "/8taDDUCiyggIWhq8wGy2v0b9Nt8.jpg",
+      "order": 1
+    },
+    {
+      "id": "e203a8d3-1695-4795-ae8a-cbe62841a4e8",
+      "tvSeriesId": "943f5ed7-72f3-4664-8aaa-5f9648a24c1f",
+      "tmdbPersonId": 1183859,
+      "name": "Martiño Rivas",
+      "character": "",
+      "profilePath": "/4qc8bF4OPmoJI8BcAz6HOdI3Xf1.jpg",
+      "order": 2
+    },
+    {
+      "id": "b95bd6be-5fb1-4479-80a6-db400d0f25f8",
+      "tvSeriesId": "943f5ed7-72f3-4664-8aaa-5f9648a24c1f",
+      "tmdbPersonId": 16971,
+      "name": "Maribel Verdú",
+      "character": "",
+      "profilePath": "/7hxTsW5CKi2lkz5yGMWShki7DOo.jpg",
+      "order": 3
+    },
+    {
+      "id": "95d8333e-9a3b-4546-b7ea-a76f4dccf55d",
+      "tvSeriesId": "943f5ed7-72f3-4664-8aaa-5f9648a24c1f",
+      "tmdbPersonId": 566330,
+      "name": "Gonzalo de Castro",
+      "character": "",
+      "profilePath": "/24FPQXdyBtOPbSQRTkE8fXEef4I.jpg",
+      "order": 4
+    },
+    {
+      "id": "81b6c516-9e15-4ffb-a1f0-57a2e7d11d4d",
+      "tvSeriesId": "943f5ed7-72f3-4664-8aaa-5f9648a24c1f",
+      "tmdbPersonId": 3941447,
+      "name": "Cristina Kovani",
+      "character": "",
+      "profilePath": "/q4QqK8lmLllrLAjzekYsbuq97k5.jpg",
+      "order": 5
+    },
+    {
+      "id": "73476816-f17d-43cb-a71a-f2c8786fac24",
+      "tvSeriesId": "943f5ed7-72f3-4664-8aaa-5f9648a24c1f",
+      "tmdbPersonId": 1866671,
+      "name": "José Condessa",
+      "character": "",
+      "profilePath": "/lgk2AcJPb9Jy2sCXauguX8EqxPf.jpg",
+      "order": 6
+    },
+    {
+      "id": "971c4380-348d-41e1-9200-14fe5eecaf00",
+      "tvSeriesId": "943f5ed7-72f3-4664-8aaa-5f9648a24c1f",
+      "tmdbPersonId": 118206,
+      "name": "Pepón Nieto",
+      "character": "",
+      "profilePath": "/9UZ9SJ0e1M6vlzkCBFJAe32XakS.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "716a30e2-6942-41bd-b7dd-beaa4f246464",
+      "tvSeriesId": "943f5ed7-72f3-4664-8aaa-5f9648a24c1f",
+      "tmdbId": 454973,
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/1RD6GrZooXgq1JWDQqSm4R2XEZe.jpg",
+      "airDate": "2026-09-25",
+      "episodeCount": 4,
+      "isPublished": true,
+      "createdAt": "2026-09-27T19:48:41.942Z",
+      "updatedAt": "2026-09-27T19:48:58.268Z"
+    }
+  ]
+}

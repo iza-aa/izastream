@@ -1,0 +1,145 @@
+{
+  "slug": "this-fool-2022",
+  "id": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+  "title": "This Fool",
+  "overview": "Julio Lopez has a heart of gold and goes out of his way to help everyone but himself. Julio attempts to better his community, overcome his codependency issues with his family, and navigate working-class life in South Central.",
+  "tagline": "Never better.",
+  "posterPath": "/2Q5zFvsyvPFJzFWuhe3G5PKNONI.jpg",
+  "backdropPath": "/aNDpp819x0FAOx6hkOpPSxCrFDz.jpg",
+  "logoPath": "/u41vnSIIWwWMXRVhuSWXBZOSH4p.png",
+  "firstAirDate": "2022-08-12",
+  "voteAverage": "7.36",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 20,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a1eef54a-afbb-4c12-960c-39d49778d288",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbPersonId": 2743857,
+      "name": "Chris Estrada",
+      "character": "Julio Lopez",
+      "profilePath": "/aieoVVdLTMMFpXXkzJ8buqwiGkS.jpg",
+      "order": 0
+    },
+    {
+      "id": "808b71a9-db91-4036-9413-91e0e3208a7a",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbPersonId": 2091805,
+      "name": "Frankie Quiñones",
+      "character": "Luis",
+      "profilePath": "/lQIySV819G5jocadtAThVvKuYcS.jpg",
+      "order": 1
+    },
+    {
+      "id": "e446a55a-cd4c-4f93-919b-238c36e21745",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbPersonId": 1077346,
+      "name": "Laura Patalano",
+      "character": "Esperanza",
+      "profilePath": "/zw1PyiEujvLKWvS7hAwNH46freS.jpg",
+      "order": 2
+    },
+    {
+      "id": "36e36871-0c9c-4a3c-8ff1-e1eda4fe965d",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbPersonId": 2091808,
+      "name": "Michelle Ortiz",
+      "character": "Maggie",
+      "profilePath": "/h54d4z5nM952AopzdZprbSp68P4.jpg",
+      "order": 3
+    },
+    {
+      "id": "c59bbdc1-0d89-4c46-af39-b77f72bd69bd",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbPersonId": 168881,
+      "name": "Julia Vera",
+      "character": "Maria",
+      "profilePath": "/lmB2sxRlUi2I8krf3XpPOVbfp0K.jpg",
+      "order": 4
+    },
+    {
+      "id": "4cdc1221-76ed-431d-aaf8-12406e3345b3",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbPersonId": 11486,
+      "name": "Michael Imperioli",
+      "character": "Minister Payne",
+      "profilePath": "/bCDwQGrecRujCibI8rvsxEc91We.jpg",
+      "order": 500
+    },
+    {
+      "id": "f3082e17-95d4-48d4-b508-b56c50c61342",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbPersonId": 3053888,
+      "name": "Sandra Marcela Hernandez",
+      "character": "Ana",
+      "profilePath": null,
+      "order": 501
+    },
+    {
+      "id": "6722bceb-a6ef-4ccf-8544-b98216e9035e",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbPersonId": 4409978,
+      "name": "Christopher D. Calderon",
+      "character": "Jorge",
+      "profilePath": "/wYhw9hb2kOWic2ebSBH85mGMzN5.jpg",
+      "order": 502
+    },
+    {
+      "id": "6f29c3d1-9b67-45d0-b368-92df82cf44a8",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbPersonId": 1671201,
+      "name": "Jamar Malachi Neighbors",
+      "character": "Chef Percy Williams",
+      "profilePath": "/4stIVrtJ9nbFCfMAaAzdk9Gc4OK.jpg",
+      "order": 506
+    },
+    {
+      "id": "d8844370-4ff1-4783-9b54-1043ff31e0ea",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbPersonId": 1873379,
+      "name": "Fabian Alomar",
+      "character": "Fabian",
+      "profilePath": "/5Qtt8BaW2VNfBMJYjP7MYghTVpc.jpg",
+      "order": 507
+    }
+  ],
+  "seasons": [
+    {
+      "id": "442fd06f-4093-4a18-9d89-20cd001d6413",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbId": 294008,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/2Q5zFvsyvPFJzFWuhe3G5PKNONI.jpg",
+      "airDate": "2022-08-12",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-08-29T20:22:39.146Z",
+      "updatedAt": "2026-08-29T20:24:23.332Z"
+    },
+    {
+      "id": "98d38888-dc64-4c42-9b2b-c998cd755134",
+      "tvSeriesId": "1dd5454d-ad75-422f-a3ed-4efe91e19363",
+      "tmdbId": 315905,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "After Julio's job and love life blew up at the end of last season, new roommates Julio and Luis embark on finding new careers and romances with the help of Minister Payne, Chef Percy and other former Huggers.",
+      "posterPath": "/eKpS0ZPucYjmof4yh5NrDULsDXK.jpg",
+      "airDate": "2023-07-28",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-08-29T20:22:39.146Z",
+      "updatedAt": "2026-08-29T20:24:24.912Z"
+    }
+  ]
+}

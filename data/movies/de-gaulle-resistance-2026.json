@@ -1,0 +1,403 @@
+{
+  "slug": "de-gaulle-resistance-2026",
+  "id": "ba64453a-4425-432a-87ab-25be8a824c77",
+  "tmdbId": 1165366,
+  "imdbId": "tt28553375",
+  "title": "De Gaulle: Résistance",
+  "originalTitle": "La Bataille de Gaulle - partie 1 : L'Âge de Fer",
+  "overview": "June, 1940. France collapses and signs the armistice. In the midst of the chaos, one man refuses to give up. Alone against the odds, this unknown general flees to London to save what remains of freedom.",
+  "tagline": "Some wars are won by armies. Others by those who refuse to surrender.",
+  "posterPath": "/4ri8KO5i7ldQiS3807KXn6awQEs.jpg",
+  "backdropPath": "/ovzRhiBZjaZXTX5dd36yL9BvGyr.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/ovzRhiBZjaZXTX5dd36yL9BvGyr.jpg",
+    "/6kjWe9AjCKbVzHVkG9GVjGTFcRc.jpg",
+    "/byHsToGgxj0p1jBIM2ODrBwnx0q.jpg",
+    "/mu930fAteJp5tqiXZbxiONTBPnK.jpg",
+    "/ngxcfLFMefoFl6kzEth2OsMSRxz.jpg",
+    "/kBhQ0YfJdl6VOqlCvK8w8y4BJSh.jpg",
+    "/8atC3ghkXK0cr3HutnzsffKWCbR.jpg",
+    "/i1YddwT9Jc6CpZjVOe6ZN3zmY10.jpg",
+    "/jKdHxWejHdJaxDVcQFoXLoQ2jVL.jpg",
+    "/gzMuZMgyfkhYeXzUYMlBRcWQ7Q2.jpg"
+  ],
+  "releaseDate": "2026-06-03",
+  "runtime": 160,
+  "voteAverage": "7.82",
+  "popularity": null,
+  "popularityScore": 296,
+  "originalLanguage": "fr",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
+  "quality": "WEB-DL",
+  "director": "Antonin Baudry",
+  "directorTmdbId": 2194514,
+  "directorProfilePath": "/d37nb0m7aaftNDGHqYiGBbkfapC.jpg",
+  "productionCompanies": [
+    {
+      "id": 7981,
+      "name": "Pathé",
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png"
+    },
+    {
+      "id": 109756,
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png"
+    },
+    {
+      "id": 356,
+      "name": "TF1 Films Production",
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png"
+    },
+    {
+      "id": 283290,
+      "name": "Ness Films",
+      "logo_path": null
+    },
+    {
+      "id": 193498,
+      "name": "Beside Productions",
+      "logo_path": "/grDzFY7347YKDLrMYnihbmo8ZOQ.png"
+    },
+    {
+      "id": 139583,
+      "name": "LDRP",
+      "logo_path": null
+    },
+    {
+      "id": 209127,
+      "name": "Logical Content Ventures",
+      "logo_path": "/6kby8aYYQX7RqPGs0DPIGMtG2Sg.png"
+    },
+    {
+      "id": 283291,
+      "name": "Belvédère",
+      "logo_path": null
+    },
+    {
+      "id": 285551,
+      "name": "Aonia Ventures",
+      "logo_path": null
+    },
+    {
+      "id": 191514,
+      "name": "Ouroboros Entertainment",
+      "logo_path": "/1pmjQZK6M59JESbcTHLBgM2Z86m.png"
+    },
+    {
+      "id": 285552,
+      "name": "Stags Participations II",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 254,
+      "name": "france"
+    },
+    {
+      "id": 362403,
+      "name": "charles de gaulle"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 7641,
+  "watchlistCount": 65,
+  "favouriteCount": 15,
+  "shareCount": 7,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:42:48.351Z",
+  "updatedAt": "2026-10-05T17:44:08.011Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+      "tmdbId": 36,
+      "name": "History",
+      "slug": "history",
+      "createdAt": "2026-04-02T13:49:17.126Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1f5b89a6-e9d0-43f1-83f8-4264ee98af51",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 10917,
+      "name": "Simon Abkarian",
+      "character": "Charles de Gaulle",
+      "profilePath": "/rpw1AujIl0vJD6cyMDo2ykJ8rZA.jpg",
+      "order": 0
+    },
+    {
+      "id": "5b9798ff-e4f6-472e-9f90-4b53fbdb8b4e",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 57461,
+      "name": "Simon Russell Beale",
+      "character": "Winston Churchill",
+      "profilePath": "/uw0ngaqgT8qXwJqVr353cx1mEdB.jpg",
+      "order": 1
+    },
+    {
+      "id": "b8f781fa-a14a-4d13-87a1-eb2f34116e30",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 3702892,
+      "name": "Florian Lesieur",
+      "character": "Fernand",
+      "profilePath": "/4oJ9Ipk9Twk1pO3hkYnt9rPtRiz.jpg",
+      "order": 2
+    },
+    {
+      "id": "6f7f3801-7ec2-4d1a-848e-dd399cd3a2a1",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 5442,
+      "name": "Benoît Magimel",
+      "character": "Koenig",
+      "profilePath": "/pdXiN4doHkWmIF18mDg6pe0RtAv.jpg",
+      "order": 3
+    },
+    {
+      "id": "cc4914fb-a678-4b5e-80e2-b487d336be05",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 2406,
+      "name": "Mathieu Kassovitz",
+      "character": "Darlan",
+      "profilePath": "/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg",
+      "order": 4
+    },
+    {
+      "id": "8a31fa0e-467d-4dbe-bffb-a4e354a77307",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 83845,
+      "name": "Loïc Corbery",
+      "character": "Pleven",
+      "profilePath": "/iAGGz3Z7v2Us45kLhKSnow63IjC.jpg",
+      "order": 5
+    },
+    {
+      "id": "e669a48f-0d13-427a-9598-aa0faf59f8bd",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 1021689,
+      "name": "Anamaria Vartolomei",
+      "character": "Livia",
+      "profilePath": "/jRU3453OyqirChIl2EEevhliAjq.jpg",
+      "order": 6
+    },
+    {
+      "id": "5afa3679-cb83-4812-9380-ec03ab69874a",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 143596,
+      "name": "Niels Schneider",
+      "character": "Général Leclerc",
+      "profilePath": "/eG7go6nzgnb791avzYoN7GSqPd6.jpg",
+      "order": 7
+    },
+    {
+      "id": "901e7aae-b1d5-4bc8-91e8-5e519d6053a6",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 1645905,
+      "name": "Félix Kysyl",
+      "character": "Jean Moulin/Rex",
+      "profilePath": "/5Likh6Ga5qP4szMBlC6xLIr82oY.jpg",
+      "order": 8
+    },
+    {
+      "id": "f60b5f85-62df-42e7-8a7a-79dabb5e1638",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 587142,
+      "name": "Karim Leklou",
+      "character": "Blazej",
+      "profilePath": "/bgOpQ2WAwvxLFoRYFsPRAT0esAh.jpg",
+      "order": 9
+    },
+    {
+      "id": "a8975892-4bcf-4cd8-9632-9d7aeb2be22e",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 75073,
+      "name": "Tom Mison",
+      "character": "Anthony Eden",
+      "profilePath": "/aBDtRCCGgE3Zug2krAhL2IfyvWO.jpg",
+      "order": 10
+    },
+    {
+      "id": "a8f1f893-d5ff-4dce-8faa-e78baa291406",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 231457,
+      "name": "Kacey Mottet Klein",
+      "character": "Courcel",
+      "profilePath": "/ggOHPk5DHQzf9t4Qm4sohmtcNVf.jpg",
+      "order": 11
+    },
+    {
+      "id": "339926e5-8932-4a25-8029-18efea90ad58",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 55152,
+      "name": "Campbell Scott",
+      "character": "Roosevelt",
+      "profilePath": "/1kj769jco2U73xasSEu0TyX9I5w.jpg",
+      "order": 12
+    },
+    {
+      "id": "efc4a8f7-a12b-4ee8-a2a7-f2ee70a03d3d",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 136170,
+      "name": "Grégoire Colin",
+      "character": "D'Argenlieu",
+      "profilePath": "/jtolsceVVsMT1wWi8m8pdtaUE4f.jpg",
+      "order": 13
+    },
+    {
+      "id": "efaea49c-bab9-4bca-8fa3-91c966541555",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 107733,
+      "name": "Daniel Betts",
+      "character": "Eisenhower",
+      "profilePath": "/wKtPsR1At1EmJeYenSjRm4BeIiQ.jpg",
+      "order": 14
+    },
+    {
+      "id": "62f8ddd6-2451-40f9-ae6e-f4cde3fb01ab",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 36666,
+      "name": "Pip Torrens",
+      "character": "Montgomery",
+      "profilePath": "/1n7pzFfT6jDHe8kc6I0AEfRryhz.jpg",
+      "order": 15
+    },
+    {
+      "id": "d998f771-3adb-4a1e-beba-9c0a0732038a",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 55467,
+      "name": "Stephen Campbell Moore",
+      "character": "Macmillan",
+      "profilePath": "/5w4EvQfi5YipR5I5lhtN5dCDiEY.jpg",
+      "order": 16
+    },
+    {
+      "id": "923201c4-299f-4f4f-bc10-49e5640c8d2a",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 192846,
+      "name": "Anthony Calf",
+      "character": "Spears",
+      "profilePath": "/ep0DHaj7Ns4pHZeJzn76xj7jR4H.jpg",
+      "order": 17
+    },
+    {
+      "id": "bc024505-d316-4592-845a-764af092b438",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 4432100,
+      "name": "David Clark",
+      "character": "Général américain",
+      "profilePath": "/xggRfmMZcREo5xt7w4pE58uYFu3.jpg",
+      "order": 18
+    },
+    {
+      "id": "7a47abb2-24bd-41f4-8987-e4e3e14c4704",
+      "movieId": "ba64453a-4425-432a-87ab-25be8a824c77",
+      "tmdbPersonId": 3343725,
+      "name": "Tom Neal",
+      "character": "Préfet Amgot",
+      "profilePath": "/6mG1vGJhvNrb1xLRjOQa7cSOqHk.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

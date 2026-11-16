@@ -1,0 +1,145 @@
+{
+  "slug": "get-jiro-2026",
+  "id": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+  "title": "GET JIRO",
+  "overview": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+  "tagline": null,
+  "posterPath": "/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+  "backdropPath": "/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
+  "logoPath": "/qQWJIQ2nY10pabBOWBqg6siCbkZ.png",
+  "firstAirDate": "2026-10-04",
+  "voteAverage": "9.10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "24a964d1-14b5-48e6-8e8f-564bf625135b",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbPersonId": 116278,
+      "name": "Brian Tee",
+      "character": "Jiro (voice)",
+      "profilePath": "/ieqbktfBwcHkeikMfNDW94Yffzp.jpg",
+      "order": 0
+    },
+    {
+      "id": "8bd19796-fd7e-4d6e-bc43-ba0c2ea8493e",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbPersonId": 4881552,
+      "name": "Tessa Inez",
+      "character": "Cam (voice)",
+      "profilePath": null,
+      "order": 501
+    },
+    {
+      "id": "21c76472-14d1-4678-bd73-88e9e191787e",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbPersonId": 17486,
+      "name": "Alison Pill",
+      "character": "Rose (voice)",
+      "profilePath": "/qQm7UR0G8Kcxn7SKTNl6fdSfcTm.jpg",
+      "order": 502
+    },
+    {
+      "id": "ab616ef5-3a6b-4280-862a-0a173220492f",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbPersonId": 3361914,
+      "name": "Courtney Taylor",
+      "character": "Cynda Lynn (voice)",
+      "profilePath": "/pGYlyS9SR29xa3oC1Xk3GvKrdFC.jpg",
+      "order": 503
+    },
+    {
+      "id": "942ed102-05ee-461e-80a7-803d0e800236",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbPersonId": 1232679,
+      "name": "Dominic Burgess",
+      "character": "Mr. Madison / Young Chef / Big Purveyor (voice)",
+      "profilePath": "/ncqFGuh7Og4G2qTyliJiJErsMKe.jpg",
+      "order": 505
+    },
+    {
+      "id": "5604870c-c7fb-42ee-97bd-368bc53ed080",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbPersonId": 2504206,
+      "name": "Sean Kenin",
+      "character": "Guard / Goon #2 / Soccer Kid #1 (voice)",
+      "profilePath": "/9aouctonkmocqSpU4ECNeGxpng8.jpg",
+      "order": 506
+    },
+    {
+      "id": "ba42d9dc-bc39-4760-8092-6ada0cae043f",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbPersonId": 559643,
+      "name": "Seychelle Gabriel",
+      "character": "Maria (voice)",
+      "profilePath": "/93srWNk5J6OIwQhPazjBGw8FzZt.jpg",
+      "order": 506
+    },
+    {
+      "id": "7acd4dea-ddb1-47a3-bf7d-eac5ce7f088f",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbPersonId": 142115,
+      "name": "Kiana Madeira",
+      "character": "Freddie (voice)",
+      "profilePath": "/sw5jTOmdHhAZzVMIzSVEDi5g7lz.jpg",
+      "order": 508
+    },
+    {
+      "id": "bc7d1389-3979-4b53-a890-9dd9c242cbf9",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbPersonId": 39389,
+      "name": "Titus Welliver",
+      "character": "Bob / Gelato Thug Driver #2 (voice)",
+      "profilePath": "/3hTwn7Maktr6ONq1VvfqyRacjiv.jpg",
+      "order": 509
+    },
+    {
+      "id": "ed60c4ec-cb9a-4b3b-bc9e-94a17dee981e",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbPersonId": 1379386,
+      "name": "Max Mittelman",
+      "character": "Goon #1 (voice)",
+      "profilePath": "/zQqiIgestpxssPrUXQXkY2Sq0y8.jpg",
+      "order": 510
+    }
+  ],
+  "seasons": [
+    {
+      "id": "c24af414-9cd8-43ca-adfd-07929b8d6c3f",
+      "tvSeriesId": "5294924b-248c-4db9-b9c3-c24d2d00cf23",
+      "tmdbId": 350975,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+      "airDate": "2026-10-04",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-25T14:37:08.473Z",
+      "updatedAt": "2026-11-15T13:56:35.840Z"
+    }
+  ]
+}

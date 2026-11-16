@@ -1,0 +1,138 @@
+{
+  "slug": "habeas-corpus-2026",
+  "id": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+  "title": "Habeas Corpus",
+  "overview": "A renowned law professor and a team of students attempt to prove the innocence of a convicted man, but the brightest student is secretly connected to his past.",
+  "tagline": null,
+  "posterPath": "/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+  "backdropPath": "/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
+  "logoPath": "/f60R5ThzUTBiozmRZgYYrHSwlRO.png",
+  "firstAirDate": "2026-09-23",
+  "voteAverage": "6.10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "616d9f86-6b6a-4853-9ca1-ffe101d6f6bb",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbPersonId": 973901,
+      "name": "Marjorie Estiano",
+      "character": "Inez",
+      "profilePath": "/3affZ1HBujLZkIzLgs8kgdsPV8v.jpg",
+      "order": 0
+    },
+    {
+      "id": "da24fc75-d60a-4449-b649-f4aa751c143d",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbPersonId": 2204626,
+      "name": "Any Gabrielly",
+      "character": "Marina",
+      "profilePath": "/vjZ7FvjI1wf3BKUbRrym5N3wPjb.jpg",
+      "order": 1
+    },
+    {
+      "id": "431466ac-2a37-4369-82ec-be10d8686037",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbPersonId": 213619,
+      "name": "Vladimir Brichta",
+      "character": "Murilo Villar",
+      "profilePath": "/xjCVvDv7ntDqPLyvh6AKznwxOkx.jpg",
+      "order": 2
+    },
+    {
+      "id": "823a29b7-4ffa-49e5-ba48-2c5fc541558b",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbPersonId": 3411047,
+      "name": "Hipólyto",
+      "character": "Jonathan",
+      "profilePath": "/cdNowvNZz7fW6WxW3kGkpCKhRQT.jpg",
+      "order": 3
+    },
+    {
+      "id": "59a090a4-9060-48b9-90fc-9631fb77f438",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbPersonId": 95149,
+      "name": "Danton Mello",
+      "character": "Pedro Borrmann",
+      "profilePath": "/i0AIfi8y7hh1OV0OPLv7VEk9LPX.jpg",
+      "order": 4
+    },
+    {
+      "id": "238a8d9d-8700-48fd-9204-fc823eb678c1",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbPersonId": 1272190,
+      "name": "Naruna Costa",
+      "character": "",
+      "profilePath": "/wPkIbXgvLWxgRy4d7vjSSYujsaX.jpg",
+      "order": 5
+    },
+    {
+      "id": "0cc6f710-702d-4c8b-8198-215604ac1459",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbPersonId": 139300,
+      "name": "Marisa Orth",
+      "character": "Delegada Tina",
+      "profilePath": "/oUynlrNIUHhYXOBe8wFofUlcgXW.jpg",
+      "order": 6
+    },
+    {
+      "id": "7a23ea25-5f29-44b1-95f1-70f22a85c00f",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbPersonId": 55826,
+      "name": "Natália Lage",
+      "character": "Ana Hueda",
+      "profilePath": "/yfzh26XZEVGQlIwDMkXQVXVwAQZ.jpg",
+      "order": 7
+    },
+    {
+      "id": "02730d1d-de5b-4dc6-931a-be3ef1fc43a7",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbPersonId": 4669147,
+      "name": "Nicolas Lee",
+      "character": "Kim",
+      "profilePath": "/c19vXuz7uj60Rb6ftfxN3TkgkMl.jpg",
+      "order": 8
+    },
+    {
+      "id": "ca5f2757-7798-4949-8307-ec49a71e83f4",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbPersonId": 4825474,
+      "name": "Felipe Ricca",
+      "character": "Bernardo",
+      "profilePath": "/rJDApN8jO3ID8F6XH1NrKivbVMl.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1a36042d-6e7f-4328-ae32-4f291634028a",
+      "tvSeriesId": "512a651b-b4dc-4319-8a48-602fd31ee35b",
+      "tmdbId": 490787,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/fUIqRplloGs1ifYOyemQfyWxhgr.jpg",
+      "airDate": "2026-09-23",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-24T19:05:24.551Z",
+      "updatedAt": "2026-09-24T19:05:58.443Z"
+    }
+  ]
+}

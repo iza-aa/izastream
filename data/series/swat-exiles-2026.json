@@ -1,0 +1,120 @@
+{
+  "slug": "swat-exiles-2026",
+  "id": "dfbe7b86-9f72-4305-a40f-76d62f620ee6",
+  "title": "S.W.A.T. Exiles",
+  "overview": "After a high-profile mission goes sideways, Daniel 'Hondo' Harrelson is pulled out of forced retirement to lead a last-chance experimental SWAT unit made up of untested, unpredictable young recruits. Hondo must bridge a generational divide, navigate clashing personalities, and turn a squad of outsiders into a team capable of protecting the city and saving the program that made him who he is.",
+  "tagline": "New generation. New tactics. Built to protect.",
+  "posterPath": "/pPiEujhVa2MBSowmvnNWqEzxH0x.jpg",
+  "backdropPath": "/mNIc5QqjBuXHeeyj6P4WSqTCBu9.jpg",
+  "logoPath": "/y7jZZfVNlzunLlh7I0JOFyqukpR.png",
+  "firstAirDate": "2026-09-25",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4f9c07c1-4478-4d1e-b1d3-d3af727bad64",
+      "tvSeriesId": "dfbe7b86-9f72-4305-a40f-76d62f620ee6",
+      "tmdbPersonId": 50266,
+      "name": "Shemar Moore",
+      "character": "Daniel 'Hondo' Harrelson Jr.",
+      "profilePath": "/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg",
+      "order": 0
+    },
+    {
+      "id": "21ead9b8-5937-46c8-a748-480373fc9097",
+      "tvSeriesId": "dfbe7b86-9f72-4305-a40f-76d62f620ee6",
+      "tmdbPersonId": 108889,
+      "name": "Jay Harrington",
+      "character": "David 'Deacon' Kay",
+      "profilePath": "/jsCjf0L0K97dPvSR9yJhoM8pN84.jpg",
+      "order": 1
+    },
+    {
+      "id": "83e0089d-a11d-44fa-8f09-d515dbb1e051",
+      "tvSeriesId": "dfbe7b86-9f72-4305-a40f-76d62f620ee6",
+      "tmdbPersonId": 117437,
+      "name": "Patrick St. Esprit",
+      "character": "Robert 'Bob' Hicks",
+      "profilePath": "/1yrW51oGJEElYqG3BzX0N1Ky7Rd.jpg",
+      "order": 2
+    },
+    {
+      "id": "2dc6a50a-8ec5-4157-9cd6-b258fd1bf82d",
+      "tvSeriesId": "dfbe7b86-9f72-4305-a40f-76d62f620ee6",
+      "tmdbPersonId": 1682317,
+      "name": "Lucy Barrett",
+      "character": "",
+      "profilePath": "/mxBspNMdtRQaWZiy2gAYPqxHZr3.jpg",
+      "order": 3
+    },
+    {
+      "id": "55a4faf0-d437-4be7-8d9b-c1f744d61102",
+      "tvSeriesId": "dfbe7b86-9f72-4305-a40f-76d62f620ee6",
+      "tmdbPersonId": 2120814,
+      "name": "Adain Bradley",
+      "character": "",
+      "profilePath": "/qPe2AgBrIIOOv4uLK984dxgGzxE.jpg",
+      "order": 4
+    },
+    {
+      "id": "05c23b28-e54d-4d14-9398-1bd212ec7c5e",
+      "tvSeriesId": "dfbe7b86-9f72-4305-a40f-76d62f620ee6",
+      "tmdbPersonId": 3174592,
+      "name": "Zyra Gorecki",
+      "character": "",
+      "profilePath": "/9yyKqEcE8ZOB9qeaIFsXTuwXf6M.jpg",
+      "order": 5
+    },
+    {
+      "id": "9d9d1d18-dad2-46e1-a957-2126a7b433ea",
+      "tvSeriesId": "dfbe7b86-9f72-4305-a40f-76d62f620ee6",
+      "tmdbPersonId": 2104687,
+      "name": "Freddy Miyares",
+      "character": "",
+      "profilePath": "/z0bwInzUA7wPrISWAL2L1zLE3uf.jpg",
+      "order": 6
+    },
+    {
+      "id": "2810a34b-f8fb-45d7-a942-29c83dfdfedb",
+      "tvSeriesId": "dfbe7b86-9f72-4305-a40f-76d62f620ee6",
+      "tmdbPersonId": 1140129,
+      "name": "Ronen Rubinstein",
+      "character": "",
+      "profilePath": "/tmm0HIdszFqPJc3KYuKsWjyHV8f.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4dc2fb10-682a-485c-a924-2a2e9e4b7b57",
+      "tvSeriesId": "dfbe7b86-9f72-4305-a40f-76d62f620ee6",
+      "tmdbId": 458732,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/m5jLj4XlzseaN0HfF2xKM6rfJVm.jpg",
+      "airDate": "2026-09-25",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-25T13:45:17.783Z",
+      "updatedAt": "2026-11-13T12:01:06.750Z"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "a-certain-dark-item-2026",
+  "id": "0c551bc8-c525-4e54-acb6-b96cd99a292b",
+  "title": "A Certain Dark Item",
+  "overview": "In Academy City, psychic powers promise a brighter future. But beneath the city's peaceful surface lurks a merciless dark side. ITEM, an elite team of four girls with deadly abilities, carries out dangerous missions that can never see the light of day. When a fifth girl enters their lives, ITEM is drawn deeper into a world of violence, brutality, and moral corruption.",
+  "tagline": null,
+  "posterPath": "/tAGKNFINnkQM73WbLFdQ7CvRdNN.jpg",
+  "backdropPath": "/37xSbB8Hj87wYiKBcnXZSG3vv9U.jpg",
+  "logoPath": "/zh985WBkorXUcM1CXS03e2AkUx1.png",
+  "firstAirDate": "2026-10-09",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0e53162b-fd1b-4c02-9439-229e522b0f2f",
+      "tvSeriesId": "0c551bc8-c525-4e54-acb6-b96cd99a292b",
+      "tmdbPersonId": 1220947,
+      "name": "Ami Koshimizu",
+      "character": "Shizuri Mugino (voice)",
+      "profilePath": "/e5sU0stGjTMtFoj0jjHH7OFUqYC.jpg",
+      "order": 0
+    },
+    {
+      "id": "b9b3e094-9f7b-4485-a98e-f39485957fa0",
+      "tvSeriesId": "0c551bc8-c525-4e54-acb6-b96cd99a292b",
+      "tmdbPersonId": 1258548,
+      "name": "Aya Suzaki",
+      "character": "Rikou Takitsubo (voice)",
+      "profilePath": "/sApBzyEHk0hvpH1IIxYwfi4GS9p.jpg",
+      "order": 1
+    },
+    {
+      "id": "4c40bde1-2a10-45f2-98b0-c9909ad414fb",
+      "tvSeriesId": "0c551bc8-c525-4e54-acb6-b96cd99a292b",
+      "tmdbPersonId": 1296667,
+      "name": "Maaya Uchida",
+      "character": "Frenda Seivelun (voice)",
+      "profilePath": "/lrcxZXkIgHU55dMs8C4DKkUohqJ.jpg",
+      "order": 2
+    },
+    {
+      "id": "62e4a065-90a7-4ff1-a6e5-ec494420969a",
+      "tvSeriesId": "0c551bc8-c525-4e54-acb6-b96cd99a292b",
+      "tmdbPersonId": 1296666,
+      "name": "Chinatsu Akasaki",
+      "character": "Saiai Kinuhata (voice)",
+      "profilePath": "/nYYs30FgGrgr3uOiQ4ASmRpFca2.jpg",
+      "order": 3
+    },
+    {
+      "id": "6e28dad2-0286-4c3b-b415-b0bacfc1944e",
+      "tvSeriesId": "0c551bc8-c525-4e54-acb6-b96cd99a292b",
+      "tmdbPersonId": 2864386,
+      "name": "Hana Hishikawa",
+      "character": "Chobi Hanano (voice)",
+      "profilePath": "/epCzuP9ZmBMonKK2Z6FOKoq2b7k.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "b99076fa-6e64-44fa-b45f-6957b4e7f46e",
+      "tvSeriesId": "0c551bc8-c525-4e54-acb6-b96cd99a292b",
+      "tmdbId": 442939,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+      "airDate": "2026-10-09",
+      "episodeCount": 11,
+      "isPublished": true,
+      "createdAt": "2026-10-25T05:27:51.503Z",
+      "updatedAt": "2026-11-16T02:50:56.715Z"
+    }
+  ]
+}

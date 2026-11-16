@@ -1,0 +1,405 @@
+{
+  "slug": "avalon-high-2011",
+  "id": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+  "tmdbId": 50479,
+  "imdbId": "tt1614950",
+  "title": "Avalon High",
+  "originalTitle": "Avalon High",
+  "overview": "Elaine \"Ellie\" Harrison has just moved from Minnesota to Annapolis, Maryland while her parents take a year-long sabbatical to continue their medieval studies in nearby Washington D.C. Her new high school, Avalon High, seems like a typical high school with the stereotypical students: Lance the jock, Jennifer the cheerleader, Marco, the bad boy/desperado, and Will, the senior class president, quarterback, and all around good guy. But not everyone at Avalon High is who they appear to be, not even Ellie herself. Eventually, it becomes apparent that Avalon High is a situation where the ancient Arthurian legend is repeating itself.",
+  "tagline": null,
+  "posterPath": "/A0VRhkL3l7YWHH4FTWMCki55rfx.jpg",
+  "backdropPath": "/agnO4yvC1H05nEbqonBZ5TH7EcE.jpg",
+  "logoPath": "/nXXkIEPHnsFSbxJywAluhzXrqzE.png",
+  "backdrops": [
+    "/1aXZv3DxRsHt2GYFxgK3cRnvD8J.jpg",
+    "/agnO4yvC1H05nEbqonBZ5TH7EcE.jpg",
+    "/aUXCu5uJbnGH4dsc4EWGYaZ56uk.jpg",
+    "/7qAfqxhl0GA0BZomsQP8SqlRMfQ.jpg",
+    "/3fTDG5SNJXZdOZNv6F9OdXO1EVZ.jpg",
+    "/uXAv1JfefbGQBpekNfDnb09gGw6.jpg",
+    "/fe0P00Fxf95j4zrGShghOvw7ouF.jpg",
+    "/uE94w4CWyqtzIu6MkYO6X405pi8.jpg",
+    "/aqx64Fxb3jACQtB0FD8GBcv0XWd.jpg",
+    "/gz26vWezkN5a4XWL3Ws8vnlA14P.jpg"
+  ],
+  "releaseDate": "2011-01-28",
+  "runtime": 91,
+  "voteAverage": "6.16",
+  "popularity": null,
+  "popularityScore": 137,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=RQQqNyXQXgY",
+  "quality": "WEB-DL",
+  "director": "Stuart Gillard",
+  "directorTmdbId": 76418,
+  "directorProfilePath": "/5p2exq83Z9W80u2wRQbbFGkLJQ7.jpg",
+  "productionCompanies": [
+    {
+      "id": 5003,
+      "name": "Jaffe/Braunstein Films",
+      "logo_path": null
+    },
+    {
+      "id": 201302,
+      "name": "Sudden Motion Productions",
+      "logo_path": null
+    },
+    {
+      "id": 201303,
+      "name": "Ranger Productions",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 530,
+      "name": "prophecy"
+    },
+    {
+      "id": 3966,
+      "name": "camelot"
+    },
+    {
+      "id": 5484,
+      "name": "reincarnation"
+    },
+    {
+      "id": 11870,
+      "name": "teen movie"
+    },
+    {
+      "id": 10982,
+      "name": "king arthur"
+    },
+    {
+      "id": 164246,
+      "name": "nostalgic"
+    },
+    {
+      "id": 246466,
+      "name": "based on young adult novel"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 2173,
+  "watchlistCount": 26,
+  "favouriteCount": 4,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-11T13:26:12.983Z",
+  "updatedAt": "2026-10-11T13:26:29.643Z",
+  "genres": [
+    {
+      "id": "1c2d786d-320e-4cad-83bb-132b219ff7ff",
+      "tmdbId": 10770,
+      "name": "TV Movie",
+      "slug": "tv-movie",
+      "createdAt": "2026-04-02T13:51:04.105Z"
+    },
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7b79075b-53d0-44f3-a320-d83f031e7fa5",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 52018,
+      "name": "Britt Robertson",
+      "character": "Allie Pennington",
+      "profilePath": "/6lnipeQ6auGaxn4gQ8UX68xoxOy.jpg",
+      "order": 0
+    },
+    {
+      "id": "30e271f7-4c3e-4123-aff7-7479abd62395",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 212686,
+      "name": "Gregg Sulkin",
+      "character": "Will Wagner",
+      "profilePath": "/cF0w2ZQTE3ZTEFFeYZRbRJVmLCm.jpg",
+      "order": 1
+    },
+    {
+      "id": "fe7daa64-919f-40c9-b550-96c78f2721c6",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 103388,
+      "name": "Joey Pollari",
+      "character": "Miles",
+      "profilePath": "/vr5e0bM95A0zQ9FnQ3CS0wUPQlV.jpg",
+      "order": 2
+    },
+    {
+      "id": "af47fdb7-d74a-4cd4-b243-13a5d6606483",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 111518,
+      "name": "Devon Graye",
+      "character": "Marco",
+      "profilePath": "/kVqBgzkjWNaNFmXSJ7MLI3jOMOT.jpg",
+      "order": 3
+    },
+    {
+      "id": "c2eb627c-93b6-4550-b625-bf016c5299f6",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 96349,
+      "name": "Molly C. Quinn",
+      "character": "Jen",
+      "profilePath": "/c3pWyH63Z7RHZkU3y3u6O8f07qf.jpg",
+      "order": 4
+    },
+    {
+      "id": "ae8d584e-f6fc-4a39-bd82-08e3698d6f8e",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 78311,
+      "name": "Steve Valentine",
+      "character": "Mr. Moore",
+      "profilePath": "/erI8zE6SS8kVUPYd5xkFoPZ25eV.jpg",
+      "order": 5
+    },
+    {
+      "id": "d73d8d07-3db2-4c33-868f-114bdef369d4",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 1845815,
+      "name": "Chris Tavarez",
+      "character": "Lance Benwick",
+      "profilePath": "/rqaS4nUUx6MMTVqJUrlJ9I1cUvU.jpg",
+      "order": 6
+    },
+    {
+      "id": "ec0e42ca-418c-4df8-8736-f76d62a79b62",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 27530,
+      "name": "Don Lake",
+      "character": "Allie's Father",
+      "profilePath": "/zVcMF2Jtv1W3mvzYDE3JiFfw2PG.jpg",
+      "order": 7
+    },
+    {
+      "id": "7192b89d-5f90-46de-bcf3-7f4d04f259e6",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 1235534,
+      "name": "Ingrid Park",
+      "character": "Allie's Mother",
+      "profilePath": "/iOdkrkXFchlw2n7jOOrRZvNAFBL.jpg",
+      "order": 8
+    },
+    {
+      "id": "5870bc76-dc74-4cbb-8b42-1f047b03d796",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 1207282,
+      "name": "Anthony Ingruber",
+      "character": "Sean",
+      "profilePath": "/fUTCd1jGGQHn912czglHg28v4gR.jpg",
+      "order": 9
+    },
+    {
+      "id": "c22e6998-b599-40fb-a4e3-bd8466b1155c",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 2621700,
+      "name": "Jordaan Tuitama",
+      "character": "Tom",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "17d4527f-1646-4156-90a7-2b4318e53c83",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 206540,
+      "name": "Anton Tennet",
+      "character": "Matt",
+      "profilePath": "/oHpnOtQmQFJUXBZzIFI6GDKFwWM.jpg",
+      "order": 11
+    },
+    {
+      "id": "b4bd903f-a753-4e9c-b70e-e1891d3001dd",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 4702597,
+      "name": "Gareth Samuels",
+      "character": "Wayne",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "38d2dcf7-feb8-4e07-9e52-d31aa10963c1",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 3496,
+      "name": "Craig Hall",
+      "character": "Coach Barker",
+      "profilePath": "/bdTS3OgiIkSa4iPheVHKJFgMV9Z.jpg",
+      "order": 13
+    },
+    {
+      "id": "d46668e0-7ea2-4b65-9e17-b082bc74706c",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 1521867,
+      "name": "Jazmyne Van Gosliga",
+      "character": "Susie",
+      "profilePath": "/g1yjnj02QnsmPrsqZMh7tZ4iKrM.jpg",
+      "order": 14
+    },
+    {
+      "id": "abcb7306-d9d0-4f93-ba2e-4355cfe7c23a",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 60376,
+      "name": "Alison Bruce",
+      "character": "Coach Miganov",
+      "profilePath": "/e4ZZDK9lObXflkOPDHTp84OKM3y.jpg",
+      "order": 15
+    },
+    {
+      "id": "39615870-9cb6-4468-a6ea-0b5ca1e6dceb",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 76851,
+      "name": "John Leigh",
+      "character": "Mr. Atkinson",
+      "profilePath": "/qrEJHEJyLj6GU0XHmOWc1ZC9P5K.jpg",
+      "order": 16
+    },
+    {
+      "id": "4a12b0d6-6774-416a-be9b-05e36c444a72",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 17357,
+      "name": "Andrew Grainger",
+      "character": "Campus Cop",
+      "profilePath": "/d7AwfuXdK09A6bBBqvnpmMtNdUG.jpg",
+      "order": 17
+    },
+    {
+      "id": "00590cda-61be-4def-9e2c-17594b07b982",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 3617080,
+      "name": "Samuel Levi",
+      "character": "Student (uncredited)",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "c55016b6-dbef-4e60-9327-d057f2a9673f",
+      "movieId": "9fc9a6af-1246-4c7a-940a-b01595c327b2",
+      "tmdbPersonId": 1510437,
+      "name": "Leonard Mathews",
+      "character": "Avalon Knights Supporter (uncredited)",
+      "profilePath": "/i5ToRMWX1y27MPAneIpXIz3oeY1.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

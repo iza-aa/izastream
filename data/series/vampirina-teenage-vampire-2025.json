@@ -1,0 +1,159 @@
+{
+  "slug": "vampirina-teenage-vampire-2025",
+  "id": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+  "title": "Vampirina: Teenage Vampire",
+  "overview": "Follow a tween vampire girl who leaves the safety of Transylvania to attend a performing arts boarding school. Living amongst humans for the first time, she pursues her passion for music while keeping her vampire identity a secret, something that’s made more challenging when her overprotective father charges an overzealous ghost to live with her at the school.",
+  "tagline": "Let it all fang out.",
+  "posterPath": "/7TwsVRLD1rKnlIpn8pAQQo5YeY2.jpg",
+  "backdropPath": "/uoxufQOHw6qv49bjTQgT0SzrEVY.jpg",
+  "logoPath": "/qHqfgy1WGY3jiEwDZE4IgrGU01E.png",
+  "firstAirDate": "2025-09-12",
+  "voteAverage": "7.40",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "05870440-738e-447a-bc27-f9a9ed4a6967",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbPersonId": 2775764,
+      "name": "Kenzi Richardson",
+      "character": "Vee",
+      "profilePath": "/jlZWoPz2iXTI1GS7YUOQd2PdFNe.jpg",
+      "order": 0
+    },
+    {
+      "id": "b6334ee7-f956-4433-8c19-bea15f51ad9b",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbPersonId": 5610791,
+      "name": "Jiwon Lee",
+      "character": "Sophie",
+      "profilePath": "/4yEHqiKtx97c67klgVfnJuliM5h.jpg",
+      "order": 1
+    },
+    {
+      "id": "d3d53019-8ff0-40b4-a905-f63bfcf6c778",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbPersonId": 5035608,
+      "name": "Faith Hedley",
+      "character": "Britney",
+      "profilePath": "/cwTJqvXv99lGtzr5jIz16Sx2zH8.jpg",
+      "order": 2
+    },
+    {
+      "id": "6de87669-bcce-402a-abf9-8295ce74f506",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbPersonId": 3227332,
+      "name": "Shaun Dixon",
+      "character": "Elijah",
+      "profilePath": "/ltYinkTJlBli4oHfzhE5orK2zvl.jpg",
+      "order": 3
+    },
+    {
+      "id": "1ba21872-74ea-4066-ab0b-6df83ba1c221",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbPersonId": 5035607,
+      "name": "Milo Maharlika",
+      "character": "Demi",
+      "profilePath": "/aCaitDn8XqSz7eCwwFe2tEI3gg0.jpg",
+      "order": 4
+    },
+    {
+      "id": "8b736e75-9fb0-4837-96c5-de85a32412f2",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbPersonId": 1224218,
+      "name": "Kate Reinders",
+      "character": "Oxana Hauntley",
+      "profilePath": "/turhndWj4dm2gscod8NgwXtqQq6.jpg",
+      "order": 500
+    },
+    {
+      "id": "96cf1f78-4f7b-4e7b-b873-e04255e80de6",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbPersonId": 1407517,
+      "name": "Jeff Meacham",
+      "character": "Boris Hauntley",
+      "profilePath": "/w0qfK8b4Tl4sTeKc5CTUauXZrDj.jpg",
+      "order": 501
+    },
+    {
+      "id": "c701ba24-619f-494c-a0c5-8255eb46ace7",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbPersonId": 1214135,
+      "name": "Kim Coles",
+      "character": "Dean Merriweather",
+      "profilePath": "/pWhOZlXDT05Tltd9IKfZIu7jm8K.jpg",
+      "order": 502
+    },
+    {
+      "id": "f04d33b4-d96d-488f-a9f4-f5b5749aebc6",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbPersonId": 5687292,
+      "name": "Malia Richardson",
+      "character": "Dancer",
+      "profilePath": null,
+      "order": 503
+    },
+    {
+      "id": "d09fe59b-e38a-405b-93f2-ad726b8871c2",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbPersonId": 5687293,
+      "name": "Grace Schnitzius",
+      "character": "Crowd Member #2",
+      "profilePath": "/izOWaLz5bbnrrbniIv5cUQYZV6v.jpg",
+      "order": 504
+    }
+  ],
+  "seasons": [
+    {
+      "id": "a6b739bc-2b45-4b3b-9661-9f657a96c84f",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbId": 426219,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "The story of a tween vampire girl who leaves the safety of Transylvania to attend a performing arts boarding school. Living among humans for the first time, she pursues her passion for music while keeping her vampire identity a secret.",
+      "posterPath": "/qb0oRXJ6xU1Knnop6EKd0aIATpL.jpg",
+      "airDate": "2025-09-12",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-10-22T06:09:17.980Z",
+      "updatedAt": "2026-10-22T06:14:46.171Z"
+    },
+    {
+      "id": "5ebb57fd-816b-47c3-837e-e7b4db1f3a9c",
+      "tvSeriesId": "c97ac551-b58a-4ecd-b808-96087d439d4f",
+      "tmdbId": 512825,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "In season 2, after successfully performing for the entire school in front of her idol, Millie Eyelash — and inadvertently releasing a horde of monsters previously imprisoned in the mirror realm — Vee and her gang return to Wilson Hall with new musical dreams, while trying to make sense of a prophecy that dictates Vee and Elijah can never be together.",
+      "posterPath": "/7TwsVRLD1rKnlIpn8pAQQo5YeY2.jpg",
+      "airDate": "2026-10-06",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-10-22T06:09:17.980Z",
+      "updatedAt": "2026-10-22T06:14:51.669Z"
+    }
+  ]
+}

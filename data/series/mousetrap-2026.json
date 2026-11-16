@@ -1,0 +1,109 @@
+{
+  "slug": "mousetrap-2026",
+  "id": "b7722ed2-be85-4b7d-83ae-d07b8f001c80",
+  "title": "Mousetrap",
+  "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+  "tagline": "Prove I'm real or I'm the imposter.",
+  "posterPath": "/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+  "backdropPath": "/bYtQiIibQzvMeXvLMKVcZ5DlT31.jpg",
+  "logoPath": "/h3VcWXuyVC5J3bQqx1adgEGzipd.png",
+  "firstAirDate": "2026-08-28",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 10,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c006207c-a254-4e0b-9fb6-4208afc2246b",
+      "tvSeriesId": "b7722ed2-be85-4b7d-83ae-d07b8f001c80",
+      "tmdbPersonId": 1530733,
+      "name": "Ryu Jun-yeol",
+      "character": "Je Moon-jae / The Rat",
+      "profilePath": "/ayjkSbxGkeiyE2JvbLlyNPNFxkn.jpg",
+      "order": 0
+    },
+    {
+      "id": "d02cb420-371d-4d44-b0da-97a9322b8691",
+      "tvSeriesId": "b7722ed2-be85-4b7d-83ae-d07b8f001c80",
+      "tmdbPersonId": 85008,
+      "name": "Sul Kyung-gu",
+      "character": "Noja",
+      "profilePath": "/teD7AMzfNl4qhQO2b6MAWwLtPVn.jpg",
+      "order": 1
+    },
+    {
+      "id": "f41905bb-23cc-4d1a-a6ea-ddfc175d2aca",
+      "tvSeriesId": "b7722ed2-be85-4b7d-83ae-d07b8f001c80",
+      "tmdbPersonId": 1916075,
+      "name": "Lee Kyoo-hyung",
+      "character": "Sun-yong",
+      "profilePath": "/8F7s9MNKfks21VMTsW8iTc9VK09.jpg",
+      "order": 2
+    },
+    {
+      "id": "315fa437-1a4f-4a7f-90fc-cf5c8645b298",
+      "tvSeriesId": "b7722ed2-be85-4b7d-83ae-d07b8f001c80",
+      "tmdbPersonId": 147505,
+      "name": "Kim Seung-oh",
+      "character": "Seung-gyu",
+      "profilePath": "/bvwsF0l3f2qs19GCUyHtAqGDL5P.jpg",
+      "order": 3
+    },
+    {
+      "id": "5ed95c11-66bc-49a8-a6d8-63f7ce94b321",
+      "tvSeriesId": "b7722ed2-be85-4b7d-83ae-d07b8f001c80",
+      "tmdbPersonId": 2273915,
+      "name": "Hyun Bong-sik",
+      "character": "Myung-su",
+      "profilePath": "/aawP5E8gMwxs88qlvXux0vBBLYp.jpg",
+      "order": 4
+    },
+    {
+      "id": "d6a156a3-1103-47e2-bf8d-e9f68ce3289f",
+      "tvSeriesId": "b7722ed2-be85-4b7d-83ae-d07b8f001c80",
+      "tmdbPersonId": 3053708,
+      "name": "Moo Jin-sung",
+      "character": "Son Su-hyun",
+      "profilePath": "/4q6G7ols81nkXRuY5F2gebhFTfY.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "aca92b4c-d0ef-4e3a-bf70-91359a9a70e5",
+      "tvSeriesId": "b7722ed2-be85-4b7d-83ae-d07b8f001c80",
+      "tmdbId": 453892,
+      "seasonNumber": 1,
+      "name": "Limited Series",
+      "overview": "",
+      "posterPath": "/dXpDkHr8mUAabDVPoEstJ3gzSf6.jpg",
+      "airDate": "2026-08-28",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-08-28T15:01:08.962Z",
+      "updatedAt": "2026-08-28T15:05:50.283Z"
+    }
+  ]
+}

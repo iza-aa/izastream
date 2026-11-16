@@ -1,0 +1,343 @@
+{
+  "slug": "mor-lam-rhythm-2026",
+  "id": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+  "tmdbId": 1625110,
+  "imdbId": "tt41888974",
+  "title": "Mor Lam Rhythm",
+  "originalTitle": "อ้ายต้าววเอวหวาน ระเบียบวาทะศิลป์",
+  "overview": "A simple, hardworking young man who deeply loves his family lives a modest life with his little sister, whose dream is to become a mor lam dancer at least once in her lifetime.",
+  "tagline": null,
+  "posterPath": "/fCEe9ehLCjkctdRvHDTP5JoKia.jpg",
+  "backdropPath": "/y2l2YsDVQIhNgsU46QiTzRPkXmn.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/y2l2YsDVQIhNgsU46QiTzRPkXmn.jpg"
+  ],
+  "releaseDate": "2026-03-19",
+  "runtime": 92,
+  "voteAverage": "0.00",
+  "popularity": null,
+  "popularityScore": 16,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=vJI11yJKEpU",
+  "quality": "WEB-DL",
+  "director": "Thananat Sukchareon",
+  "directorTmdbId": 4260136,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 7924,
+      "name": "M Studio",
+      "logo_path": "/1KG5lcXO8GZ2F6SshuMYw1Yf4vX.png"
+    },
+    {
+      "id": 142990,
+      "name": "Mono Originals",
+      "logo_path": null
+    },
+    {
+      "id": 171009,
+      "name": "Positive Thinking",
+      "logo_path": null
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1159,
+  "watchlistCount": 9,
+  "favouriteCount": 0,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-07T06:57:07.134Z",
+  "updatedAt": "2026-08-07T06:57:30.453Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "c47fe226-dcf1-40b9-a67f-9436f9d5c4d0",
+      "tmdbId": 10402,
+      "name": "Music",
+      "slug": "music",
+      "createdAt": "2026-04-02T13:49:06.045Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6efd3e2d-9a38-47fb-978f-87e6510d3512",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 5212983,
+      "name": "Yukhondet Patchim",
+      "character": "Yong",
+      "profilePath": "/xNDqgVV0qj1JbDGnSi4PnkD04aP.jpg",
+      "order": 0
+    },
+    {
+      "id": "13cd1e51-1175-4af5-b830-3ac4022d6ba1",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 5168321,
+      "name": "Minlaya Tangseabwong",
+      "character": "Yim",
+      "profilePath": null,
+      "order": 1
+    },
+    {
+      "id": "8f419c36-6821-48c3-97bc-244187e9b14a",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 4874506,
+      "name": "Pakdee Pollum",
+      "character": "Aae",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "d6573388-78ba-4dcf-9a97-0ec6bc7c6462",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 4053158,
+      "name": "Sitthidet Bunmanee",
+      "character": "Gogo",
+      "profilePath": "/tWHnZllTFaWlgEKbBhTw0K4rt5d.jpg",
+      "order": 3
+    },
+    {
+      "id": "de9fc4c6-e1f3-4ea5-8115-aca59e979309",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 3887998,
+      "name": "Apichet Atilattana",
+      "character": "Imo",
+      "profilePath": "/kBZdnwlmxNRc1pRHuThWeBvBQaR.jpg",
+      "order": 4
+    },
+    {
+      "id": "85944263-48de-448a-a50a-57520c55bc73",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 5971145,
+      "name": "Montien Detchtrakool",
+      "character": "Boss",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "b1621888-70eb-41fe-bb14-6e93419c457f",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 3291099,
+      "name": "Aukkarat Jittasiri",
+      "character": "Manny",
+      "profilePath": "/fakIWFiC3oN64Q9JC1Uxv2iNWSp.jpg",
+      "order": 6
+    },
+    {
+      "id": "2ad59270-e656-4933-b963-c7c449146522",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 6034866,
+      "name": "Thanakorn Udchumpisai",
+      "character": "Up",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "9ae688d6-d849-4887-b035-f18b3e2fac64",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 5529436,
+      "name": "Charukitt Srisawat",
+      "character": "Paula",
+      "profilePath": "/1S65vNg2Bp9W9Z6LZSJHiUvvwV7.jpg",
+      "order": 8
+    },
+    {
+      "id": "e890a7b8-f9cb-473a-9160-3e5e1025caa8",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 4183612,
+      "name": "Supakit Thinjun",
+      "character": "Toby",
+      "profilePath": "/snYEyrX0hx13De5zK4A5xD8u7PH.jpg",
+      "order": 9
+    },
+    {
+      "id": "41dc92ec-9acb-4ebd-b945-fc7caefab504",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 1284832,
+      "name": "Komkanot Thongmun",
+      "character": "Google",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "fd23dce0-971d-46ae-a69b-c1d1adbda16e",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 1203876,
+      "name": "Arisara Wongchalee",
+      "character": "Anne",
+      "profilePath": "/p8KgolBImhMDs12qjzYiuYo9iUM.jpg",
+      "order": 11
+    },
+    {
+      "id": "06d0fff2-18ac-4e20-9081-e7dd8ea4e26b",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 4998883,
+      "name": "Sirisuk Kaitong",
+      "character": "Tubtab",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "b8fd023e-46b8-4651-88aa-c215b2d4480b",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 4998884,
+      "name": "Mesa Chanthasin",
+      "character": "Lin",
+      "profilePath": "/baLwfu9Ve2aVUbMeohMefYVCP9V.jpg",
+      "order": 13
+    },
+    {
+      "id": "784a2e90-88d5-4772-b8bf-614c3e7c98ef",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 6071158,
+      "name": "Sipavinee Kongmeesakulrat",
+      "character": "Mother",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "b1f7f2aa-d0da-4bda-9711-bde8398c7572",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 3771229,
+      "name": "Rapeepat Eakpankul",
+      "character": "Yong's Dad",
+      "profilePath": "/8iLGfTKZet46Ffzz8LFzAaFnNcv.jpg",
+      "order": 15
+    },
+    {
+      "id": "aba1f7d4-df47-4444-8342-d803e88db996",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 5970713,
+      "name": "Patcharee Chailert",
+      "character": "Yong's Mom",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "f0bd096e-c8bb-4e30-a69d-eaab16877102",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 3131644,
+      "name": "Yasaka Chaisorn",
+      "character": "Yuth",
+      "profilePath": "/4trP7QqmzLLEJuxlpPTLDGO54H0.jpg",
+      "order": 17
+    },
+    {
+      "id": "952bbe36-80d0-44e5-9127-21e4e943546c",
+      "movieId": "88622ff8-2a06-4ab1-a34f-08a2f1031914",
+      "tmdbPersonId": 3626969,
+      "name": "Narakorn Kalavibul",
+      "character": "Young Aae",
+      "profilePath": null,
+      "order": 18
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

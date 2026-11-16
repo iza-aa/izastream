@@ -1,0 +1,138 @@
+{
+  "slug": "the-seven-legends-2026",
+  "id": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+  "title": "The Seven Legends",
+  "overview": "A former soldier haunted by his past assembles a team of unlikely warriors to dismantle a powerful criminal empire threatening the nation.",
+  "tagline": "",
+  "posterPath": "/fZE0tjmhCfihdghiQyXsw1cSqbN.jpg",
+  "backdropPath": "/nSATWgEITfsBX0dq9tq7yUomP8T.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-02-05",
+  "voteAverage": "5.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 10,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3e8d211a-c667-4eee-9a37-e851b446ea7b",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbPersonId": 87875,
+      "name": "Arak Amornsupasiri",
+      "character": "Dap Jampo",
+      "profilePath": "/eORS2OAm1DGEpkcLEaOAVyXsfWG.jpg",
+      "order": 0
+    },
+    {
+      "id": "bf39f0f1-042a-4837-8183-20ac19794fed",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbPersonId": 3860801,
+      "name": "Biw Nattapon Raiyawong",
+      "character": "Dan Mahittha",
+      "profilePath": "/Ajt0tPVTOBUG8GegKjhgLlco2ys.jpg",
+      "order": 1
+    },
+    {
+      "id": "1c555ab8-7bbe-4d8e-9462-901394f29d4b",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbPersonId": 1644148,
+      "name": "Varakorn Sawasakorn",
+      "character": "Kla Talumphuk",
+      "profilePath": "/1rvQmgstpkNjlxTveVjXciSQf28.jpg",
+      "order": 2
+    },
+    {
+      "id": "f3e61008-e641-4e51-b13d-ced9d2551fbf",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbPersonId": 3771201,
+      "name": "Chakrit Boonsing",
+      "character": "Akkhi Mekyan",
+      "profilePath": "/bGuRBRxhsr9XCY5OXjSjXgR6Eb8.jpg",
+      "order": 3
+    },
+    {
+      "id": "a56040eb-28ff-4a09-a4c4-bc85275ebf0b",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbPersonId": 3263043,
+      "name": "Thanakorn Sribanjong",
+      "character": "Mo Choengmuay",
+      "profilePath": "/gntiairLGP433s4WfTi5GdsJYNV.jpg",
+      "order": 4
+    },
+    {
+      "id": "d3bba397-99b1-49b4-bb3b-ed5d3d33a36d",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbPersonId": 5088489,
+      "name": "Tan Buranrat Hombut",
+      "character": "Tangkuai Sae-lee",
+      "profilePath": "/phFp5IeP2Jo670VinXDp7iu7jR7.jpg",
+      "order": 5
+    },
+    {
+      "id": "50447b43-d753-4efd-bbbd-9bb58f17309c",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbPersonId": 3932447,
+      "name": "Natcha Boonpong",
+      "character": "Duangnet",
+      "profilePath": "/fO02NWWy4Mxu67iTrGRVnMvekTi.jpg",
+      "order": 6
+    },
+    {
+      "id": "c15059b9-1706-4de5-923a-9d51c7d92918",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbPersonId": 3771219,
+      "name": "Panichadar Sangsuwan",
+      "character": "Mukda",
+      "profilePath": "/FRjLn2j6I1NQX3Owfm11Fcfa3X.jpg",
+      "order": 7
+    },
+    {
+      "id": "f6e476f9-c91e-4cf4-8000-979018425061",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbPersonId": 4873902,
+      "name": "Oom Panchaya Suwannagood",
+      "character": "Khim",
+      "profilePath": "/nGG45wRaUHwBR5EjONjQwUsLKgl.jpg",
+      "order": 8
+    },
+    {
+      "id": "89526bad-64c6-4aef-b55f-705457c56c96",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbPersonId": 3432555,
+      "name": "Pornchada Warapachara",
+      "character": "Napha",
+      "profilePath": "/1hbYr6lYd2pK8GrizNYb4D1mlsv.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "c73f7d28-ec13-4dca-8823-27dc09c46f2a",
+      "tvSeriesId": "96e36036-901c-4bfe-ac98-98f2e50c96ec",
+      "tmdbId": 482686,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/stFvNqFl3fwt4a4S7TvWYFsBCnd.jpg",
+      "airDate": "2026-02-05",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:43:21.820Z",
+      "updatedAt": "2026-04-02T17:43:21.820Z"
+    }
+  ]
+}

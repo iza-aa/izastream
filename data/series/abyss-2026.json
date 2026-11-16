@@ -1,0 +1,100 @@
+{
+  "slug": "abyss-2026",
+  "id": "4053ea27-c75c-4d0f-b957-02b6a135646b",
+  "title": "Abyss",
+  "overview": "The long-standing peace of a conservative small town is shattered by the appearance of an online novel \"Abyss.\" Many plot points bear a striking resemblance to a cold case from years ago that has never been made public. Li Cheng, a passionate and righteous rookie police officer, engages in a series of high-stakes battles of wits with various suspects. He unravels the mystery, revealing the truth buried beneath heartbreaking kinships and friendships.",
+  "tagline": null,
+  "posterPath": "/x0K8MJCSnlrZwKetekQEfhQiDmb.jpg",
+  "backdropPath": "/s9YSQAJtXjimsjBVsqLtJNnIjEs.jpg",
+  "logoPath": "/n8Y6KkYEgZKlo8Kg2X7glYaZFkn.png",
+  "firstAirDate": "2026-09-09",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8ff315f8-263b-4b7d-9ac8-13579d5a6d07",
+      "tvSeriesId": "4053ea27-c75c-4d0f-b957-02b6a135646b",
+      "tmdbPersonId": 2084465,
+      "name": "Ren Jialun",
+      "character": "Li Cheng",
+      "profilePath": "/5sBfnbHbTmNriFPGGD12mPpTNNO.jpg",
+      "order": 0
+    },
+    {
+      "id": "54d0c196-4fd5-4697-b488-c33f5a01fae2",
+      "tvSeriesId": "4053ea27-c75c-4d0f-b957-02b6a135646b",
+      "tmdbPersonId": 17385,
+      "name": "Qin Junjie",
+      "character": "Han Pinmu",
+      "profilePath": "/iYdwWhvd4QuipsNkeB3XzFa27jo.jpg",
+      "order": 1
+    },
+    {
+      "id": "b5d2264a-3a74-4187-9ec2-1da5bd2cd1cb",
+      "tvSeriesId": "4053ea27-c75c-4d0f-b957-02b6a135646b",
+      "tmdbPersonId": 575866,
+      "name": "Wang Yanhui",
+      "character": "Zhao Ganzhe",
+      "profilePath": "/umBp3VwmHy8bCcvgkLUtixq6bpD.jpg",
+      "order": 2
+    },
+    {
+      "id": "b63af6bb-3cf5-41a8-9eaf-f1e26c830868",
+      "tvSeriesId": "4053ea27-c75c-4d0f-b957-02b6a135646b",
+      "tmdbPersonId": 1637213,
+      "name": "Tian Xiaojie",
+      "character": "Xin Jiran",
+      "profilePath": "/cREJt7c3MChcZAGJSLzMGJxiMLz.jpg",
+      "order": 3
+    },
+    {
+      "id": "db8d8565-2ebd-401d-944f-f7a282ab6ae7",
+      "tvSeriesId": "4053ea27-c75c-4d0f-b957-02b6a135646b",
+      "tmdbPersonId": 586335,
+      "name": "He Bing",
+      "character": "Fan Jie",
+      "profilePath": "/xO4Qh5L4V7mHuceSK3E3GPlY1hz.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "fe481fe3-fa10-4a7d-9f22-c2475905b5d1",
+      "tvSeriesId": "4053ea27-c75c-4d0f-b957-02b6a135646b",
+      "tmdbId": 476883,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9gPX3NaZRf2d1xcTAtkFxwDQDvP.jpg",
+      "airDate": "2026-09-09",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-09-22T17:37:15.276Z",
+      "updatedAt": "2026-09-22T17:47:28.371Z"
+    }
+  ]
+}

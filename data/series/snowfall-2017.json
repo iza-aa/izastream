@@ -1,0 +1,208 @@
+{
+  "slug": "snowfall-2017",
+  "id": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+  "title": "Snowfall",
+  "overview": "Los Angeles. 1983. A storm is coming and its name is crack. Set against the infancy of the crack cocaine epidemic and its ultimate radical impact on the culture as we know it, the story follows numerous characters on a violent collision course.",
+  "tagline": "This is how crack began.",
+  "posterPath": "/y7ntzl7msiaS6o7dvDbNG7XFYcR.jpg",
+  "backdropPath": "/r0eYECHXyugAXThN9YQ58F7idub.jpg",
+  "logoPath": "/bMhxqWYzNqyG6bN4m6LOgypOTpn.png",
+  "firstAirDate": "2017-07-05",
+  "voteAverage": "8.38",
+  "numberOfSeasons": 6,
+  "numberOfEpisodes": 60,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d300f661-60d5-44fd-8492-082c2d2e4972",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbPersonId": 1837297,
+      "name": "Damson Idris",
+      "character": "Franklin Saint",
+      "profilePath": "/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg",
+      "order": 0
+    },
+    {
+      "id": "712d4a54-dad2-4d88-b858-0d0ac021ad1f",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbPersonId": 1846046,
+      "name": "Carter Hudson",
+      "character": "Teddy McDonald",
+      "profilePath": "/iW6Pk9aFaC5o86IxpViI1OTMZed.jpg",
+      "order": 1
+    },
+    {
+      "id": "9462f31f-f2b1-4840-b2ee-f9ff62f691c3",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbPersonId": 211474,
+      "name": "Emily Rios",
+      "character": "Lucia Villanueva",
+      "profilePath": "/h8d9eg0wpyXcvJlunpZklh2asVY.jpg",
+      "order": 2
+    },
+    {
+      "id": "a6d21445-403d-471f-9885-df416f51dd63",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbPersonId": 78994,
+      "name": "Sergio Peris-Mencheta",
+      "character": "Gustavo 'El Oso' Zapata",
+      "profilePath": "/uPE1n0JpbicJ5gm2fNarbsx6Nc4.jpg",
+      "order": 3
+    },
+    {
+      "id": "a90497df-25a7-447b-89f9-770f8271bbc7",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbPersonId": 61084,
+      "name": "Michael Hyatt",
+      "character": "Cissy Saint",
+      "profilePath": "/zXJ1mV2NlZuWYgTj8eTuUFhCgp5.jpg",
+      "order": 4
+    },
+    {
+      "id": "e2dd6772-4a5a-4ff6-87ed-1ac8b869dd5d",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbPersonId": 131772,
+      "name": "Amin Joseph",
+      "character": "Jerome Saint",
+      "profilePath": "/kTr5Lf7NUullsj0g1klTOScwzRp.jpg",
+      "order": 5
+    },
+    {
+      "id": "b6a0cbc4-9e78-420d-a0f3-1dbc57431877",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbPersonId": 1945056,
+      "name": "Angela Lewis",
+      "character": "Louanne 'Louie' Jones-Saint",
+      "profilePath": "/5edEvw6KxxQcVJ4hT1zogwiyZDU.jpg",
+      "order": 6
+    },
+    {
+      "id": "4606e4cb-cb06-4e6a-ae85-581967d1653f",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbPersonId": 1855369,
+      "name": "Isaiah John",
+      "character": "Leon Simmons",
+      "profilePath": "/mKCuf0BZFsBUYnSTPTHaUtxmKa0.jpg",
+      "order": 7
+    },
+    {
+      "id": "4bae9a0a-b2ec-4215-924e-d7191ba4a905",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbPersonId": 1945055,
+      "name": "Filipe Valle Costa",
+      "character": "Pedro Nava",
+      "profilePath": "/vKWaJimJURzhJX5MrxZ3GcHvtzK.jpg",
+      "order": 8
+    },
+    {
+      "id": "269a3e8d-50bc-4fae-abc1-c516329a4b1d",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbPersonId": 6950,
+      "name": "Kevin Carroll",
+      "character": "Alton Williams",
+      "profilePath": "/8G4rrDJfwurNWv4BJY7PlPXqIiK.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "0d7aeb73-7a34-4afd-a14e-ca182c8c4901",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbId": 88329,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/d3joS8BCDGFyD0yBfD5CAxia8tx.jpg",
+      "airDate": "2017-07-05",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-15T20:43:32.652Z",
+      "updatedAt": "2026-09-15T20:49:31.099Z"
+    },
+    {
+      "id": "5823f3f9-b155-446d-9b4b-630df37a9352",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbId": 103588,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "Season 2 enters 1984, with everyone working toward their ultimate goals of money, power, and influence amid the Los Angeles crack cocaine epidemic.",
+      "posterPath": "/aqB5cBlib5nqO6dtHu3wZmGNCqa.jpg",
+      "airDate": "2018-07-19",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-15T20:43:32.652Z",
+      "updatedAt": "2026-09-15T20:49:32.366Z"
+    },
+    {
+      "id": "8e8122fc-4d9d-41ec-ad8f-8b0001bafb56",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbId": 124445,
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "overview": "In Season 3, crack cocaine is spreading like wildfire through South Central Los Angeles, continuing its path of destruction and changing the culture forever.",
+      "posterPath": "/cQdQtBaTRGJJK99gSRerSS8EL5h.jpg",
+      "airDate": "2019-07-10",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-15T20:43:32.652Z",
+      "updatedAt": "2026-09-15T20:49:35.208Z"
+    },
+    {
+      "id": "c298fbd4-6661-4af7-b3fe-4eac651629e1",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbId": 173198,
+      "seasonNumber": 4,
+      "name": "Season 4",
+      "overview": "In season four, Franklin tries to regain control over his business.",
+      "posterPath": "/iUY3WHWiVRfBA0SsBtWzU1IKj5c.jpg",
+      "airDate": "2021-02-24",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-15T20:43:32.652Z",
+      "updatedAt": "2026-09-15T20:49:37.028Z"
+    },
+    {
+      "id": "e4b9d6e5-1284-4507-a0a7-fed6274b2de8",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbId": 236820,
+      "seasonNumber": 5,
+      "name": "Season 5",
+      "overview": "Set in the summer of 1986, Franklin Saint  and his entire family are rich beyond their wildest dreams, on the verge of having everything they've ever wanted... right as the ground begins to fall out from under their feet. The sudden and tragic death of basketball star Len Bias makes the rock cocaine epidemic front-page news, the target of both Democrat and Republican lawmakers. Law enforcement is on a warpath and the militarization of the L.A.P.D. continues as police and politicians decide the only way to deal with this growing scourge is through force - and the creation of the new C.R.A.S.H. (Community Resources Against Street Hoodlums) units. The streets of South Central Los Angeles have never been so dangerous as the Saint family navigates the police, the warring gangs and the CIA.",
+      "posterPath": "/kTWhcZl5qp6LbRGP7oRIfQAkWB3.jpg",
+      "airDate": "2022-02-23",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-15T20:43:32.652Z",
+      "updatedAt": "2026-09-15T20:49:38.825Z"
+    },
+    {
+      "id": "9191cf93-a880-496c-b8d3-352808485972",
+      "tvSeriesId": "d4ac5593-26f0-44b1-b7bf-9f97ccacddc5",
+      "tmdbId": 320822,
+      "seasonNumber": 6,
+      "name": "Season 6",
+      "overview": "It’s October 1986 in this sixth and final season, as civil war threatens to destroy the Saint family. Franklin is desperate and forced to rob his Aunt Louie and Uncle Jerome after being wiped out by former CIA officer Teddy McDonald. Meanwhile, Louie has taken over Franklin’s role as Teddy’s sole buyer, undercutting her nephew and creating a competing empire in the process. Franklin is now faced with losing everyone he loves and everything he’s built, and coming through it all will mean out-maneuvering the KGB, the DEA and the CIA, as well as avoiding the LAPD’s fully militarized, fully corrupt, C.R.A.S.H units.",
+      "posterPath": "/kbwIQvhL6kKeTCfxHMfT7peLFNh.jpg",
+      "airDate": "2023-02-22",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-15T20:43:32.652Z",
+      "updatedAt": "2026-09-15T20:49:40.614Z"
+    }
+  ]
+}

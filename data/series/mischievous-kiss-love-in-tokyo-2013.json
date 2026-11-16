@@ -1,0 +1,152 @@
+{
+  "slug": "mischievous-kiss-love-in-tokyo-2013",
+  "id": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+  "title": "Mischievous Kiss: Love in Tokyo",
+  "overview": "At a high school entrance ceremony, high school student Kotoko Aihara, who isn't that smart, notices pretty boy Naoki Irie. She falls in love with him immediately. Kotoko initially doesn't express her feelings to him, but finally has a chance to tell him how she feels. Unfortunately, Naoki turns Kotoko down, saying \"I don't like dumb women.\" One day, Kotoko Aihara's house is severely damaged by an earthquake. Until the house is rebuilt, Kotoko Aihara and her father decide to live with her father's friend. When Kotoko Aihara moves to her new temporary house, she is surprised to learn that Naoki Irie lives there as well.",
+  "tagline": null,
+  "posterPath": "/98qmS8F7rhEkPNtXxkHODin1GZF.jpg",
+  "backdropPath": "/GcQzT417I57IlzFuRJ7dhxswcQ.jpg",
+  "logoPath": null,
+  "firstAirDate": "2013-03-29",
+  "voteAverage": "7.60",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 32,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "703622d3-a6af-4318-a44e-cdc1a0b89c7f",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbPersonId": 1268896,
+      "name": "Honoka Yahagi",
+      "character": "Kotoko Aihara",
+      "profilePath": "/hjVKJyKCbgctKfCEzAkPErSvEId.jpg",
+      "order": 0
+    },
+    {
+      "id": "5e5bf594-0f12-4461-ae4f-0fd4a3bfd9e2",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbPersonId": 1257073,
+      "name": "Yuki Furukawa",
+      "character": "Naoki Irie",
+      "profilePath": "/tLPm45dwSLKdkstBMtAXvvFgljn.jpg",
+      "order": 1
+    },
+    {
+      "id": "e2d65582-e523-48ed-b4b3-03f03ee61584",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbPersonId": 1161474,
+      "name": "Yuki Yamada",
+      "character": "Kinnosuke Ikezawa",
+      "profilePath": "/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg",
+      "order": 2
+    },
+    {
+      "id": "c11ba080-8216-4c59-9cb7-e8a65798be3c",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbPersonId": 1297747,
+      "name": "Nanami Fujimoto",
+      "character": "Jinko Komori",
+      "profilePath": "/3LQhQxjKVRupQG5waWXHAV1z5qC.jpg",
+      "order": 3
+    },
+    {
+      "id": "460b83c8-e028-4f52-a5f8-113569efd23f",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbPersonId": 1564373,
+      "name": "Sogen Tanaka",
+      "character": "Odawara",
+      "profilePath": "/mR0tm6e12MWVaukuZZHfdwM9dA.jpg",
+      "order": 4
+    },
+    {
+      "id": "9cb13cc2-ed01-4f04-924c-95e65bf8c655",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbPersonId": 2339380,
+      "name": "Yuga Aizawa",
+      "character": "Yuki Irie",
+      "profilePath": "/w6yuGzQkKjB1Ul7EV96sWFtirE7.jpg",
+      "order": 5
+    },
+    {
+      "id": "75b0ddf3-c722-40bd-ba86-6a13a56af253",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbPersonId": 115659,
+      "name": "Yoji Tanaka",
+      "character": "Shigeo Aihara",
+      "profilePath": "/752oL9YrUumjrqbhdj4GNJ938x3.jpg",
+      "order": 6
+    },
+    {
+      "id": "f93a166f-3651-4482-97b4-0f1468ee1e96",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbPersonId": 1466100,
+      "name": "Kazumasa Koura",
+      "character": "Shigeki Irie",
+      "profilePath": "/abwfF6yNnPg88R65oDcCvqxvFKL.jpg",
+      "order": 7
+    },
+    {
+      "id": "fb1221dc-a87f-4c29-ac06-fb33242d564a",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbPersonId": 1716216,
+      "name": "Tomomi Nishimura",
+      "character": "Noriko Irie",
+      "profilePath": "/zbX5kaPfj0HXJIlxFbANuB4WVHt.jpg",
+      "order": 8
+    },
+    {
+      "id": "96b0694f-519a-4cb3-b1df-6b85e59a10cf",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbPersonId": 1195944,
+      "name": "Kasumi Yamaya",
+      "character": "Satomi Ishikawa",
+      "profilePath": "/lZXK0zeiNQfggKBx0kwBKPe4QQ4.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "fc35dedb-af1d-4a34-b521-f9ff37e898e5",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbId": 73014,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "At a high school entrance ceremony, high school student Kotoko Aihara (Honoka Miki), who isn't that smart, notices pretty boy Naoki Irie (Yuki Furukawa). She falls in love with him immediately. Kotoko initially doesn't express her feelings to him, but finally has a chance to tell him how she feels. Unfortunately, Naoki turns Kotoko down, saying \"I don't like dumb women.\" One day, Kotoko Aihara's house is severely damaged by an earthquake. Until the house is rebuilt, Kotoko Aihara and her father decide to live with her father's friend. When Kotoko Aihara moves to her new temporary house, she is surprised to learn that Naoki Irie lives there as well.",
+      "posterPath": "/98qmS8F7rhEkPNtXxkHODin1GZF.jpg",
+      "airDate": "2013-03-29",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-08-31T16:30:45.358Z",
+      "updatedAt": "2026-08-31T16:40:44.405Z"
+    },
+    {
+      "id": "b445cbc8-6598-45a3-891b-905e6d26a52a",
+      "tvSeriesId": "ad01491b-53f5-45c5-88f7-ce5d765fd249",
+      "tmdbId": 73016,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "Kotoko (Honoka Yahagi) loved Naoki (Yuki Furukawa) for 6 years and finally married him. Now, Kotoko transfers to the department of nursing in her studies and struggles …",
+      "posterPath": "/tufipY6DEzo6PoDb3Jfj6xlIDMB.jpg",
+      "airDate": "2014-11-24",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-08-31T16:30:45.358Z",
+      "updatedAt": "2026-08-31T16:40:46.068Z"
+    }
+  ]
+}

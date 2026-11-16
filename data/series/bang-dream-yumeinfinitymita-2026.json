@@ -1,0 +1,127 @@
+{
+  "slug": "bang-dream-yumeinfinitymita-2026",
+  "id": "eeea0ccd-fdb0-4817-9898-bef930fc8a8f",
+  "title": "BanG Dream! YUME∞MITA",
+  "overview": "Suddenly thrown together, a group of girls are now debuting as the virtual band, Mugendai Mewtype. They’ve got talent and personality, but no clue how to perform as one. Can they survive, let alone make it to the top in this unforgiving music world?",
+  "tagline": null,
+  "posterPath": "/cjBrbolU9S3VqfzGBEpHmXzlESz.jpg",
+  "backdropPath": "/4ZqDVtJAG1NK7tWTUETlxE973Fl.jpg",
+  "logoPath": "/w3cSXUgSyjm2rMnnLUORhcfCaB.png",
+  "firstAirDate": "2026-07-02",
+  "voteAverage": "7.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "47927ecb-f8a1-40d6-a4ee-80241762db93",
+      "tvSeriesId": "eeea0ccd-fdb0-4817-9898-bef930fc8a8f",
+      "tmdbPersonId": 6322878,
+      "name": "Arale Nakamachi",
+      "character": "Arale Nakamachi (voice)",
+      "profilePath": "/4zOnJc4tnHUKfLlcSUcwySsbLty.jpg",
+      "order": 0
+    },
+    {
+      "id": "0e2fc93a-f628-4dfd-92c4-6297f567f36f",
+      "tvSeriesId": "eeea0ccd-fdb0-4817-9898-bef930fc8a8f",
+      "tmdbPersonId": 6322879,
+      "name": "Nonoka Miyanaga",
+      "character": "Nonoka Miyanaga (voice)",
+      "profilePath": "/naF4xrVdjxKQybFQ9srEjA3MQos.jpg",
+      "order": 1
+    },
+    {
+      "id": "7226aad7-1297-42bb-a0ee-41e241b08c02",
+      "tvSeriesId": "eeea0ccd-fdb0-4817-9898-bef930fc8a8f",
+      "tmdbPersonId": 6322881,
+      "name": "Ritsu Minetsuki",
+      "character": "Ritsu Minetsuki (voice)",
+      "profilePath": "/eaEbMuiO3Ct3hiVgMJ8gzOdkyys.jpg",
+      "order": 2
+    },
+    {
+      "id": "ad372bde-2bdc-43b4-b493-3684ff414506",
+      "tvSeriesId": "eeea0ccd-fdb0-4817-9898-bef930fc8a8f",
+      "tmdbPersonId": 6322882,
+      "name": "Miyako Fuji",
+      "character": "Miyako Fuji (voice)",
+      "profilePath": "/gbhAvJUuM8iM7aDwvrJ0TKf8UDL.jpg",
+      "order": 3
+    },
+    {
+      "id": "15c5041b-ca4d-431e-ac27-b6be58126930",
+      "tvSeriesId": "eeea0ccd-fdb0-4817-9898-bef930fc8a8f",
+      "tmdbPersonId": 6322885,
+      "name": "Yuno Sengoku",
+      "character": "Yuno Sengoku (voice)",
+      "profilePath": "/dZAicw2TcLiuzGSnBhR2G93SOh4.jpg",
+      "order": 4
+    },
+    {
+      "id": "c3a6ddef-c339-4853-a302-ea937cd328d2",
+      "tvSeriesId": "eeea0ccd-fdb0-4817-9898-bef930fc8a8f",
+      "tmdbPersonId": 1779027,
+      "name": "Kaede Hondo",
+      "character": "Viola (voice)",
+      "profilePath": "/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg",
+      "order": 5
+    },
+    {
+      "id": "e6152212-4e1a-43b1-990e-ff545d6ae75d",
+      "tvSeriesId": "eeea0ccd-fdb0-4817-9898-bef930fc8a8f",
+      "tmdbPersonId": 3114235,
+      "name": "Wakana Maruoka",
+      "character": "Bell (voice)",
+      "profilePath": "/zXjLchp5JdobASNbU8WOU8hugsM.jpg",
+      "order": 6
+    },
+    {
+      "id": "4d61e36a-f918-4c59-bc88-4adad7d910ea",
+      "tvSeriesId": "eeea0ccd-fdb0-4817-9898-bef930fc8a8f",
+      "tmdbPersonId": 3944990,
+      "name": "Yui Tsukada",
+      "character": "Popo (voice)",
+      "profilePath": "/hmbBCyhK8Nhq36YKgXNCNfEhVR6.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1f0f929e-1e14-4727-ae9b-bd27c71dda46",
+      "tvSeriesId": "eeea0ccd-fdb0-4817-9898-bef930fc8a8f",
+      "tmdbId": 473897,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/ggV3AH6p4j7DeJOoH0DmdFBdAcT.jpg",
+      "airDate": "2026-07-02",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-10-07T07:09:47.777Z",
+      "updatedAt": "2026-10-07T07:11:44.271Z"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "dive-into-you-2026",
+  "id": "756df1d4-b5cd-4034-8b43-fc1f80619075",
+  "title": "Dive into You",
+  "overview": "An actress and her twin brother slip through time – and swap bodies – to save their friend's life.",
+  "tagline": "Take us back to our brightest days!",
+  "posterPath": "/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
+  "backdropPath": "/5ly5oOrWMYJVLIGrRXjgmxetCrl.jpg",
+  "logoPath": "/63LIvsishvTM8Zves4LrC0NQenk.png",
+  "firstAirDate": "2026-09-26",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 11,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e0198de4-fefa-409c-8440-64d3803d36bf",
+      "tvSeriesId": "756df1d4-b5cd-4034-8b43-fc1f80619075",
+      "tmdbPersonId": 1881078,
+      "name": "Bona",
+      "character": "Yoon Ha-na",
+      "profilePath": "/zXVHkg4CxGjDGK6N4SIwZERmbhc.jpg",
+      "order": 0
+    },
+    {
+      "id": "78ae4458-ddcf-4a89-9a0a-cee2867bd1a4",
+      "tvSeriesId": "756df1d4-b5cd-4034-8b43-fc1f80619075",
+      "tmdbPersonId": 3212104,
+      "name": "Park Seo-ham",
+      "character": "Jeong Woo-jae",
+      "profilePath": "/vndtKSldmy4keg1NQx3wU0kqP2m.jpg",
+      "order": 1
+    },
+    {
+      "id": "8c5e3c9f-3df5-4ca0-8a08-3474bf881843",
+      "tvSeriesId": "756df1d4-b5cd-4034-8b43-fc1f80619075",
+      "tmdbPersonId": 5333883,
+      "name": "Jang Se-hyuk",
+      "character": "Yoon Ha-ru",
+      "profilePath": "/ykRH93PNSuX3GxaxO3QuyCEdQqW.jpg",
+      "order": 2
+    },
+    {
+      "id": "404a0d91-3e12-4d8a-b436-263a6dda9fa2",
+      "tvSeriesId": "756df1d4-b5cd-4034-8b43-fc1f80619075",
+      "tmdbPersonId": 3742977,
+      "name": "Moon Seung-you",
+      "character": "Seo Ye-rang",
+      "profilePath": "/iakMVmUvYtUq4iaqe5BmQSS02h5.jpg",
+      "order": 3
+    },
+    {
+      "id": "5ef6ffb0-7853-434a-beb0-67d9e20607ae",
+      "tvSeriesId": "756df1d4-b5cd-4034-8b43-fc1f80619075",
+      "tmdbPersonId": 2774992,
+      "name": "Ha Do-kwon",
+      "character": "Yun Chang-sik",
+      "profilePath": "/lOiNEmbHhMkX8mICJfu9R1kzC36.jpg",
+      "order": 4
+    },
+    {
+      "id": "f6ce1a5e-b2c6-4955-959b-fe119ade0201",
+      "tvSeriesId": "756df1d4-b5cd-4034-8b43-fc1f80619075",
+      "tmdbPersonId": 564846,
+      "name": "Park Mi-hyeon",
+      "character": "Jung Yeong-suk",
+      "profilePath": "/cykvf76gDVlIhxFKO9xX7VY1HxW.jpg",
+      "order": 5
+    },
+    {
+      "id": "7555067f-763f-43eb-8f52-57abc8af05e9",
+      "tvSeriesId": "756df1d4-b5cd-4034-8b43-fc1f80619075",
+      "tmdbPersonId": 5129203,
+      "name": "Kim Han-yeong",
+      "character": "Hyung-won",
+      "profilePath": "/42CuoZC6Mx4cU91H1Y83HxlV1nb.jpg",
+      "order": 6
+    },
+    {
+      "id": "290322fa-29a2-4811-926c-a2ba059e0a44",
+      "tvSeriesId": "756df1d4-b5cd-4034-8b43-fc1f80619075",
+      "tmdbPersonId": 3229192,
+      "name": "Kang Hyung-suk",
+      "character": "",
+      "profilePath": "/xclHffQgjyMTCO0KWTopkkDHvX5.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "c0a8e1a4-6dae-488d-ba32-ce67869e5974",
+      "tvSeriesId": "756df1d4-b5cd-4034-8b43-fc1f80619075",
+      "tmdbId": 504377,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "High school friends Ha-na, Ha-ru, and Woo-jae are torn apart when Woo-jae is killed protecting Ha-na from a stalker. Years later, a mysterious accident sends the twins back to 2010, where they awaken in each other’s bodies. Determined to save Woo-jae, they must navigate swapped identities, changing timelines, and feelings that could alter the future.",
+      "posterPath": "/6OAuQOGqjYY1JXbkTlWz4Mm2Kmi.jpg",
+      "airDate": "2026-09-26",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-26T20:52:55.991Z",
+      "updatedAt": "2026-11-01T17:41:15.124Z"
+    }
+  ]
+}

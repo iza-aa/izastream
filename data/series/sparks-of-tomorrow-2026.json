@@ -1,0 +1,152 @@
+{
+  "slug": "sparks-of-tomorrow-2026",
+  "id": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+  "title": "Sparks of Tomorrow",
+  "overview": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.",
+  "tagline": "Chasing an unseen light!",
+  "posterPath": "/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg",
+  "backdropPath": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
+  "logoPath": "/KHWtztbgwrmFfw9nChveLfIIIH.png",
+  "firstAirDate": "2026-07-05",
+  "voteAverage": "7.63",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a9eaa368-24d1-4c0f-a2e9-ed919c66bd81",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbPersonId": 1492992,
+      "name": "Yuma Uchida",
+      "character": "Kihachi Sakamoto (voice)",
+      "profilePath": "/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg",
+      "order": 0
+    },
+    {
+      "id": "ffa0540b-0390-4016-91c3-3fd2fba15a31",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbPersonId": 1325034,
+      "name": "Sora Amamiya",
+      "character": "Inako Momokawa (voice)",
+      "profilePath": "/AouA1SfwEazdSSj8rUS9K1WIF4H.jpg",
+      "order": 1
+    },
+    {
+      "id": "1b42091e-ea8e-4b72-bb77-e440c8809231",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbPersonId": 1254052,
+      "name": "Koki Uchiyama",
+      "character": "Yosuke Mizoe (voice)",
+      "profilePath": "/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg",
+      "order": 2
+    },
+    {
+      "id": "90fea39a-6c29-4e65-8afc-839e2a9d3119",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbPersonId": 1241498,
+      "name": "Daisuke Ono",
+      "character": "Seiroku Sakamoto (voice)",
+      "profilePath": "/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg",
+      "order": 3
+    },
+    {
+      "id": "d906b857-1e53-4a68-a56d-1e1e1c907afa",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbPersonId": 1563016,
+      "name": "Shunsuke Takeuchi",
+      "character": "Kengo Kuga (voice)",
+      "profilePath": "/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg",
+      "order": 4
+    },
+    {
+      "id": "01125d02-f43c-4af2-a47f-f181205a356e",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbPersonId": 1249310,
+      "name": "Minako Kotobuki",
+      "character": "Noriko Momokawa (voice)",
+      "profilePath": "/puocmMfvql6X1AvhFTolaV6Vh2r.jpg",
+      "order": 5
+    },
+    {
+      "id": "f002376c-1b76-4be0-b90c-b74901235971",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbPersonId": 1550514,
+      "name": "You Taichi",
+      "character": "Suzu Harashima (voice)",
+      "profilePath": "/bt0oOFKknrOG7gNWusq9sc8UOhm.jpg",
+      "order": 6
+    },
+    {
+      "id": "666609aa-b8bf-4280-8e18-bedcf2a090d6",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbPersonId": 2492164,
+      "name": "Natsumi Kawaida",
+      "character": "Kate Okura (voice)",
+      "profilePath": "/bdsKRWdB14DAAZzJnRjquWbqNYR.jpg",
+      "order": 7
+    },
+    {
+      "id": "27879224-5f49-411d-8fe4-785c27653647",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbPersonId": 2534630,
+      "name": "Kazuki Ura",
+      "character": "Yajiro Yagura (voice)",
+      "profilePath": "/7eUgENWREmWSMnLPUFCQhvUSpdI.jpg",
+      "order": 8
+    },
+    {
+      "id": "6d3b3078-6ac5-4b33-a244-c666c614b060",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbPersonId": 1096528,
+      "name": "Daisuke Hirakawa",
+      "character": "Izo Masubuchi (voice)",
+      "profilePath": "/8uDi5NxFdxFvfVyo4n5CeOSLWEf.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "bace8e63-54ed-42cd-9601-423ae6a46050",
+      "tvSeriesId": "fc9ae3ae-e8ad-4a65-88de-ff77cd984131",
+      "tmdbId": 235373,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "In an alternate 20th century Kyoto, two brothers dream of bringing about the Age of Electricity with their 20th Century Electrical Catalog. However, when Seiroku Sakamoto brings the catalog with him to war and never returns, his younger brother Kihachi Sakamoto is left by himself. One day, a chance meeting with Inako Momokawa, the daughter of a sake brewer, reunites Kihachi with the lost catalog and kickstarts this dream once more. However, he isn't the only one who wants the catalog...",
+      "posterPath": "/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg",
+      "airDate": "2026-07-05",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-09-30T16:06:12.464Z",
+      "updatedAt": "2026-09-30T16:15:57.570Z"
+    }
+  ]
+}

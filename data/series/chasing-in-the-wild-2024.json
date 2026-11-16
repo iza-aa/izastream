@@ -1,0 +1,138 @@
+{
+  "slug": "chasing-in-the-wild-2024",
+  "id": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+  "title": "Chasing in the Wild",
+  "overview": "A basketball team captain and a cheerleader have instant chemistry – but can their relationship survive pressure from family, friends, and school?",
+  "tagline": null,
+  "posterPath": "/nbbA0SPwzhFI20Vn07WSDbBqp7I.jpg",
+  "backdropPath": "/gzxqFQHSh53r3XRYYYDX1HcEdNX.jpg",
+  "logoPath": "/jJIdHwknKTuHosm9I1RDLAyN0NG.png",
+  "firstAirDate": "2024-08-16",
+  "voteAverage": "8.10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "dc088407-5908-4d3d-bfa8-2cb14b8e1e16",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbPersonId": 2038703,
+      "name": "Gab Lagman",
+      "character": "Sevi",
+      "profilePath": "/494VOFraGOwUG8Gyrm1naYnZixP.jpg",
+      "order": 0
+    },
+    {
+      "id": "2ea203b2-4f11-4578-b72d-c7d5ef841bd9",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbPersonId": 4420683,
+      "name": "Hyacinth Callado",
+      "character": "Elyse",
+      "profilePath": "/x4pKAjevMJE58SMFwzvpVAID76R.jpg",
+      "order": 1
+    },
+    {
+      "id": "5ff326e1-dd22-4805-ad3c-d9018baaee50",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbPersonId": 1909698,
+      "name": "Wilbert Ross",
+      "character": "Arkin",
+      "profilePath": "/sVlXbZVjkZAZOrrqSM3vwjRqLkk.jpg",
+      "order": 2
+    },
+    {
+      "id": "dff69c27-beb9-45bc-a9f1-613b2a4b66f5",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbPersonId": 1909700,
+      "name": "Heaven Peralejo",
+      "character": "Luna",
+      "profilePath": "/ccvFDQ1dFro5qCRzGsypx11gIg5.jpg",
+      "order": 3
+    },
+    {
+      "id": "d3b76991-ef35-4a4a-aeec-36afd4f74404",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbPersonId": 1666052,
+      "name": "Marco Gallo",
+      "character": "Kalix",
+      "profilePath": "/dRFhiPfGWLP3uRwxCqiJq5AUqlS.jpg",
+      "order": 4
+    },
+    {
+      "id": "8f932907-62a3-4526-8c05-a72fc87a7b1d",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbPersonId": 1553196,
+      "name": "Jerome Ponce",
+      "character": "Hiro",
+      "profilePath": "/zgM7uhD8JNHgdpDyffMnN9G3ETW.jpg",
+      "order": 5
+    },
+    {
+      "id": "c00b8ff0-d033-459e-bbaa-05f06f8aead8",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbPersonId": 3439713,
+      "name": "Krissha Viaje",
+      "character": "Yanna",
+      "profilePath": "/snLEV08UqpeYPILy0tU4RBeHzu8.jpg",
+      "order": 6
+    },
+    {
+      "id": "8a98f011-ae74-43c9-9aa7-6cd9ab389a42",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbPersonId": 592003,
+      "name": "Jairus Aquino",
+      "character": "Shan",
+      "profilePath": "/eBs4G5bwbR5QphXhdkYqBC2Cqpi.jpg",
+      "order": 7
+    },
+    {
+      "id": "8ff7adca-fc7c-43f9-a663-30f9c57d0c00",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbPersonId": 2557328,
+      "name": "Nicole Omillo",
+      "character": "Kierra",
+      "profilePath": "/ktQiabCOKPuLBp7ieMi6wH7FgYJ.jpg",
+      "order": 8
+    },
+    {
+      "id": "cffd5c9f-90c4-4ae1-b361-eb97b4611c1c",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbPersonId": 3087725,
+      "name": "Aubrey Caraan",
+      "character": "Sam",
+      "profilePath": "/sa97wo9U8ocx07VL9QPrusWTqRW.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ac06f332-7895-4de0-8e9f-8f439b377b7d",
+      "tvSeriesId": "7619b642-db79-4fc5-b825-19e35d5a01fe",
+      "tmdbId": 406884,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/jDENAVWUDBV2txbPo3MrgL2bXeY.jpg",
+      "airDate": "2024-08-16",
+      "episodeCount": 19,
+      "isPublished": true,
+      "createdAt": "2026-10-07T08:53:30.853Z",
+      "updatedAt": "2026-10-07T08:58:14.970Z"
+    }
+  ]
+}

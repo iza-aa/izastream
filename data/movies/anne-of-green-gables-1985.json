@@ -1,0 +1,401 @@
+{
+  "slug": "anne-of-green-gables-1985",
+  "id": "249f3c43-ea7d-40a1-939e-be858d13383b",
+  "tmdbId": 17663,
+  "imdbId": "tt0088727",
+  "title": "Anne of Green Gables",
+  "originalTitle": "Anne of Green Gables",
+  "overview": "Anne Shirley, an orphan, is fostered by farmer Matthew Cuthbert and his sister Marilla, who were expecting a boy to be sent them to help with their farm work. They accept Anne, who quickly endears herself to them and to the local villagers.",
+  "tagline": "Go back to the day that Anne was waiting at the train station...",
+  "posterPath": "/z1owlDzKO3DQpFKNFBnuQlPF891.jpg",
+  "backdropPath": "/6xAusbYT757s3Nm4z7Xc6JJ5gRN.jpg",
+  "logoPath": "/r6Ooyj2CtRyV4XWo7xvfrEUoq4q.png",
+  "backdrops": [
+    "/6xAusbYT757s3Nm4z7Xc6JJ5gRN.jpg",
+    "/55ZkbGyz6ls1ie217rqGpybQAOB.jpg",
+    "/d74GTO2mdPPfhS04vv1FXqQlu4U.jpg"
+  ],
+  "releaseDate": "1985-12-01",
+  "runtime": 195,
+  "voteAverage": "8.12",
+  "popularity": null,
+  "popularityScore": 452,
+  "originalLanguage": "en",
+  "country": "CA",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=czJi_FpLBYY",
+  "quality": "BLU-RAY",
+  "director": "Kevin Sullivan",
+  "directorTmdbId": 134306,
+  "directorProfilePath": "/ol3oKZoPfy5ku6z0bmAz3gW8VAp.jpg",
+  "productionCompanies": [
+    {
+      "id": 12296,
+      "name": "Sullivan Entertainment",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1329,
+      "name": "canada"
+    },
+    {
+      "id": 380,
+      "name": "sibling relationship"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 895,
+      "name": "optimism"
+    },
+    {
+      "id": 5331,
+      "name": "village"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 10873,
+      "name": "school"
+    },
+    {
+      "id": 11162,
+      "name": "miniseries"
+    },
+    {
+      "id": 12392,
+      "name": "best friend"
+    },
+    {
+      "id": 13014,
+      "name": "orphan"
+    },
+    {
+      "id": 15101,
+      "name": "based on children's book"
+    },
+    {
+      "id": 15126,
+      "name": "historical"
+    },
+    {
+      "id": 227969,
+      "name": "farmer family"
+    },
+    {
+      "id": 247882,
+      "name": "resilience"
+    },
+    {
+      "id": 355145,
+      "name": "orphan girl"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5340,
+  "watchlistCount": 141,
+  "favouriteCount": 37,
+  "shareCount": 5,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-19T13:08:12.492Z",
+  "updatedAt": "2026-10-25T17:09:37.299Z",
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "33b7aeae-36d2-458e-9924-3769ecdb1b2c",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 45446,
+      "name": "Megan Follows",
+      "character": "Anne Shirley",
+      "profilePath": "/b51laNa6sqSpLrYCUpW7hcsbZio.jpg",
+      "order": 0
+    },
+    {
+      "id": "755772d6-bba1-41ca-b9f0-426bda5cedbd",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 10559,
+      "name": "Colleen Dewhurst",
+      "character": "Marilla Cuthbert",
+      "profilePath": "/rrUNC8d6lbIrZm4yCHS39bLDtL1.jpg",
+      "order": 1
+    },
+    {
+      "id": "d982c458-22bf-495c-84c4-44f67e9d6d5e",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 5605,
+      "name": "Richard Farnsworth",
+      "character": "Matthew Cuthbert",
+      "profilePath": "/zwomo8lekrM7dkJ00JmqsslwrIB.jpg",
+      "order": 2
+    },
+    {
+      "id": "465625d0-9317-427d-a5a6-4e814c6edbb2",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 93643,
+      "name": "Patricia Hamilton",
+      "character": "Rachel Lynde",
+      "profilePath": "/7XpPnfqrSFeQTj750wkpFvcG6g2.jpg",
+      "order": 3
+    },
+    {
+      "id": "1668752c-3a7a-4892-bb7a-c7948d4cda80",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 93644,
+      "name": "Marilyn Lightstone",
+      "character": "Miss Muriel Stacey",
+      "profilePath": "/zmItaGmzEmfdIsCBfkayeH4PcHa.jpg",
+      "order": 4
+    },
+    {
+      "id": "9684ef1a-187b-4e92-bf37-7cd9a04040ae",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 93645,
+      "name": "Schuyler Grant",
+      "character": "Diana Barry",
+      "profilePath": "/iLgl8qeLuLypg4u99rBABn7QAEf.jpg",
+      "order": 5
+    },
+    {
+      "id": "a1adaeda-630c-4714-ae3b-0bc3e13e39a6",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 93646,
+      "name": "Jonathan Crombie",
+      "character": "Gilbert Blythe",
+      "profilePath": "/3b740kxr9i6QW3tMfnxllYifulM.jpg",
+      "order": 6
+    },
+    {
+      "id": "f43d97d9-9520-4583-b0ec-35584111985a",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 79400,
+      "name": "Charmion King",
+      "character": "Aunt Josephine",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "2c9cd252-c657-447d-ad13-6a912b0b4bcf",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 61185,
+      "name": "Jackie Burroughs",
+      "character": "Mrs. Amelia Evans",
+      "profilePath": "/qKRtBWQOknpXiHOnvL2nl6AqUFy.jpg",
+      "order": 8
+    },
+    {
+      "id": "0d962474-edd8-4add-9d40-fb66e98f87d0",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 1243252,
+      "name": "Rosemary Radcliffe",
+      "character": "Mrs. Elizabeth Barry",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "4a8deb40-927a-496a-a88e-9aafadebe9bb",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 32019,
+      "name": "Joachim Hansen",
+      "character": "John Sadler",
+      "profilePath": "/ymdfV866AwpQlTXPu7CAsZYSzpQ.jpg",
+      "order": 10
+    },
+    {
+      "id": "d98e8f59-0fb7-4a2e-ac95-91f663bbf405",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 27611,
+      "name": "Christiane Krüger",
+      "character": "Mrs. Allan",
+      "profilePath": "/30pYqc9FKXXqdU44tgz3V5r9AeF.jpg",
+      "order": 11
+    },
+    {
+      "id": "bd572fc2-cbcf-425e-b845-621288b20fb7",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 110498,
+      "name": "Cedric Smith",
+      "character": "Rev. Allan",
+      "profilePath": "/wW6TtXWBChAD4ANSxVV8r6g8aw5.jpg",
+      "order": 12
+    },
+    {
+      "id": "481d9b93-f9ac-4a91-83b0-3cb5a6b23c1d",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 3458951,
+      "name": "Paul Brown",
+      "character": "Mr. Phillips",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "1f8648bb-3193-4763-9a1e-e3180d718574",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 236605,
+      "name": "Miranda de Pencier",
+      "character": "Josie Pye",
+      "profilePath": "/78Nuks6NhRFpnmAyetAHqElFNKz.jpg",
+      "order": 14
+    },
+    {
+      "id": "2e6ac91b-4d39-44ec-a3a3-f7e737c29200",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 3037285,
+      "name": "Trish Nettleton",
+      "character": "Jane Andrews",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "c8353498-9272-4bac-9b69-00e3fbcf0726",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 1195878,
+      "name": "Jennifer Inch",
+      "character": "Ruby Gillis",
+      "profilePath": "/duZBDDbo2qAPW6Vazc268nFhco1.jpg",
+      "order": 16
+    },
+    {
+      "id": "30bbb0a7-b314-48b8-9799-c8f76e76f5d4",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 4568,
+      "name": "Jayne Eastwood",
+      "character": "Mrs. Hammond",
+      "profilePath": "/cL75FbJRKDdpvkOJDUgUYPZHKks.jpg",
+      "order": 17
+    },
+    {
+      "id": "b9fd3e50-0b0e-4a8c-9740-7ac9e13f45ea",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 83026,
+      "name": "Dawn Greenhalgh",
+      "character": "Mrs. Cadbury",
+      "profilePath": "/isOxFi3dluHUwHGx76mqshFEK7U.jpg",
+      "order": 18
+    },
+    {
+      "id": "efc9bfda-1b41-4682-8930-36fb27b6e458",
+      "movieId": "249f3c43-ea7d-40a1-939e-be858d13383b",
+      "tmdbPersonId": 2199079,
+      "name": "Jack Mather",
+      "character": "Station Master",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "shatha",
+    "displayName": "Morpleee"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

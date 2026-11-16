@@ -1,0 +1,138 @@
+{
+  "slug": "gate24-the-border-2026",
+  "id": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+  "title": "GATE24: The Border",
+  "overview": "A newly formed airport task force overcomes institutional barriers and uses an eccentric officer's extraordinary observational skills to protect Japan's borders from international crimes.",
+  "tagline": null,
+  "posterPath": "/fh7GtTcyFmx7pLwOmxtYLRTzP3A.jpg",
+  "backdropPath": "/6jRWDRwDlmcwEmMVN10nY6tt2mP.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-07-23",
+  "voteAverage": "5.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "727bd215-9626-46f0-ac45-99901489ddb6",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbPersonId": 1401654,
+      "name": "Shuri",
+      "character": "Machi Mori",
+      "profilePath": "/wbDyfi2SFRamkNAUbNYR1Fmc3KU.jpg",
+      "order": 0
+    },
+    {
+      "id": "80f5f60e-4996-4f79-bea9-6b187958400b",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbPersonId": 2293954,
+      "name": "Gordon Maeda",
+      "character": "Keiichiro Hayami",
+      "profilePath": "/bJlMMUDaMrLSSGvpfcIkS3yApa9.jpg",
+      "order": 1
+    },
+    {
+      "id": "4373989d-f8e6-4f82-8003-8a76963dfa29",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbPersonId": 1477273,
+      "name": "Rihito Itagaki",
+      "character": "Atsushi Matsuyama",
+      "profilePath": "/3cg9RXHS7LZFCO9gf4D40nO57pP.jpg",
+      "order": 2
+    },
+    {
+      "id": "c057f3d4-fe7c-4164-b8ca-d484dd0c8dc0",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbPersonId": 2538827,
+      "name": "Kyoko Saito",
+      "character": "Nozomi Endo",
+      "profilePath": "/42ibBuFX36siLGGJwotswIKZ2ug.jpg",
+      "order": 3
+    },
+    {
+      "id": "1935dfd7-7cb6-4b48-8b99-1397df7af92a",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbPersonId": 105404,
+      "name": "Kaoru Okunuki",
+      "character": "Junko Tamai",
+      "profilePath": "/vZBEZts8ajyC2oqsYL88HanlOPm.jpg",
+      "order": 4
+    },
+    {
+      "id": "fcea6b62-3b10-45b5-91a0-fb49e6faa24c",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbPersonId": 1029717,
+      "name": "Sayaka Akimoto",
+      "character": "Chika Kumakawa",
+      "profilePath": "/2MxwyfkqBFwSSvAFBKUir4e1NV8.jpg",
+      "order": 5
+    },
+    {
+      "id": "3925ee85-d2d9-4c8c-a56c-50ce11171015",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbPersonId": 127304,
+      "name": "Masaki Kaji",
+      "character": "Akihiko Seike",
+      "profilePath": "/i3D1s8i79cB1HSrcCcTEuag28sg.jpg",
+      "order": 6
+    },
+    {
+      "id": "340e2cac-b309-40f7-8e9e-c9d57a918021",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbPersonId": 225536,
+      "name": "Shion Machida",
+      "character": "Ayako Masaoka",
+      "profilePath": "/a0eMbNRDjIznMKtWKg0uwf4n92T.jpg",
+      "order": 7
+    },
+    {
+      "id": "c787e067-de22-422e-a845-934dcb2bbd97",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbPersonId": 2171216,
+      "name": "Riku Kashima",
+      "character": "Tetsuzo Nakatsuka",
+      "profilePath": "/sGPndO2pXhTUixhMEIGUInixwYS.jpg",
+      "order": 8
+    },
+    {
+      "id": "453a9f1f-e7c1-49db-91e2-2448432f8790",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbPersonId": 6344171,
+      "name": "Naoto Nishimura",
+      "character": "Naoto Jin",
+      "profilePath": null,
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "783cc85c-e22d-4f11-8863-f9953cbd8bd9",
+      "tvSeriesId": "f4a0bca0-1cb6-4850-9122-3d1fafd73ba2",
+      "tmdbId": 518422,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "A newly formed airport task force overcomes institutional barriers and uses an eccentric officer's extraordinary observational skills to protect Japan's borders from international crimes.",
+      "posterPath": "/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg",
+      "airDate": "2026-07-23",
+      "episodeCount": 9,
+      "isPublished": true,
+      "createdAt": "2026-10-05T04:04:42.807Z",
+      "updatedAt": "2026-10-05T04:05:27.388Z"
+    }
+  ]
+}

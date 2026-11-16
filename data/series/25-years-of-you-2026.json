@@ -1,0 +1,138 @@
+{
+  "slug": "25-years-of-you-2026",
+  "id": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+  "title": "25 Years of You",
+  "overview": "After 25 years of silent devotion, a man finally approaches the woman he has always loved, triggering a chain of revelations tied to a dark incident from their past.",
+  "tagline": null,
+  "posterPath": "/aDUl4kdFJgsks4DNb4ZlzXGOs8X.jpg",
+  "backdropPath": "/mOALTFnD4MjvXIYdTlEl5aUEQT0.jpg",
+  "logoPath": "/uU7fA4YVvN1XRkBsAzHz7by70C4.png",
+  "firstAirDate": "2026-07-11",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "9debd89c-4482-4f86-a808-7d4876c49ffe",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbPersonId": 1256882,
+      "name": "Hokuto Matsumura",
+      "character": "Sota Yukimura",
+      "profilePath": "/rtdHPwvoSel4m4CbJwZgcfnFsA0.jpg",
+      "order": 0
+    },
+    {
+      "id": "10dfca5c-82f2-4e46-a2df-3130ec7d069f",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbPersonId": 1554032,
+      "name": "Sae Okazaki",
+      "character": "Mariko Nose",
+      "profilePath": "/ePNebjsjae5GaHd6C4MxXeNm4NV.jpg",
+      "order": 1
+    },
+    {
+      "id": "af745712-dd97-4d9e-86fe-82c2b0130bf5",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbPersonId": 1277695,
+      "name": "Akihisa Shiono",
+      "character": "Tomoya Sagara",
+      "profilePath": "/1plo0DriFsKkHF5W9rJWNmnkXoB.jpg",
+      "order": 2
+    },
+    {
+      "id": "1d2f3a9d-a570-4f2c-b119-436d5641ac3e",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbPersonId": 129700,
+      "name": "Nozomi Sasaki",
+      "character": "Izumi Takeda",
+      "profilePath": "/k5WCvK8Zrakp6uPizXYxPoPrxIq.jpg",
+      "order": 3
+    },
+    {
+      "id": "ccf38be9-dd03-4b53-b93c-9d4154272c9b",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbPersonId": 2247093,
+      "name": "Shiori Kubo",
+      "character": "Ryoko Hashimoto",
+      "profilePath": "/ejAisLumalUEhMUuAvnlJAxNrbs.jpg",
+      "order": 4
+    },
+    {
+      "id": "5c8f7809-85a2-47c1-aeac-29f72f712388",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbPersonId": 3627494,
+      "name": "Coki Yamashita",
+      "character": "Takumi Sano",
+      "profilePath": "/j7C9n4VQo5hooPxjUssduvSCbcm.jpg",
+      "order": 5
+    },
+    {
+      "id": "d12b699c-a0da-4a16-a4c8-667c890dc3f9",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbPersonId": 3090851,
+      "name": "Tani Kyosuke",
+      "character": "",
+      "profilePath": "/hntUbt1bH3nj3f5ZdcubR7aouz3.jpg",
+      "order": 6
+    },
+    {
+      "id": "3cc48c0c-5cb4-45e0-b382-f776da9768f5",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbPersonId": 4842893,
+      "name": "Junsei Ishiyama",
+      "character": "",
+      "profilePath": "/AwsukHfnmdhzcE8EjVRrWDSlBoA.jpg",
+      "order": 7
+    },
+    {
+      "id": "8aae7084-8987-4b2c-a6c7-9b579cae3648",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbPersonId": 128039,
+      "name": "Miki Mizuno",
+      "character": "Sayuri Nose",
+      "profilePath": "/w4xk5BMMnMeCIjTblQZdfI1g5Fi.jpg",
+      "order": 8
+    },
+    {
+      "id": "c773c219-586f-49b3-85a7-a57c02f178d4",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbPersonId": 97345,
+      "name": "Mitsuko Oka",
+      "character": "Akiko Nose",
+      "profilePath": "/9AsugNHVoNNNz6D83m4tIhQMS2z.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "e940574e-930c-4a0e-8eef-5351c6bc2b17",
+      "tvSeriesId": "1e771e6b-e024-4cee-a8a5-847e5aac0ea6",
+      "tmdbId": 523632,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/1HB1qDuvC3kO5Wv9efT6HL5W183.jpg",
+      "airDate": "2026-07-11",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-05T04:03:41.058Z",
+      "updatedAt": "2026-10-05T04:04:29.570Z"
+    }
+  ]
+}

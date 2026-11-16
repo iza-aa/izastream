@@ -1,0 +1,392 @@
+{
+  "slug": "runner-2026",
+  "id": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+  "tmdbId": 1377237,
+  "imdbId": "tt31349844",
+  "title": "Runner",
+  "originalTitle": "Runner",
+  "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+  "tagline": "Next-day delivery isn't an option.",
+  "posterPath": "/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+  "backdropPath": "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+  "logoPath": "/pAnbApoi6DHwXzoKBfQU4M5Wr8t.png",
+  "backdrops": [
+    "/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+    "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+    "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+    "/aKiB08Yn4PrnARl3eMzhke7OdcR.jpg",
+    "/zwOuftcrINzFyg27ffn2cevxClC.jpg",
+    "/hSYBdRE9b5PRK3BsjEBvXnUZvwM.jpg",
+    "/iE07BOqCoKDYcZ1EOls9rMK9797.jpg",
+    "/qaRXiwTEpSgoKIkZNYfcmQRgRYk.jpg",
+    "/bdWEmheKG0kcjV5ceOzCVQ28YFI.jpg",
+    "/8mWA9GnOc56pelkyilryTBnSs7v.jpg"
+  ],
+  "releaseDate": "2026-09-07",
+  "runtime": 97,
+  "voteAverage": "8.00",
+  "popularity": null,
+  "popularityScore": 1182,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=B6Z9MM1LhEA",
+  "quality": "WEB-DL",
+  "director": "Scott Waugh",
+  "directorTmdbId": 293911,
+  "directorProfilePath": "/i84mhk9KQndHi5c1IhomNdRnvFw.jpg",
+  "productionCompanies": [
+    {
+      "id": 8000,
+      "name": "Broken Road Productions",
+      "logo_path": "/f8NwLg72BByt3eav7lX1lcJfe60.png"
+    },
+    {
+      "id": 72954,
+      "name": "AllyCat Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 110723,
+      "name": "Nickel City Pictures",
+      "logo_path": "/27Od860h9Xc7gDS3Pph6yRlUyBI.png"
+    },
+    {
+      "id": 221397,
+      "name": "A Higher Standard",
+      "logo_path": "/aj3EiCWM5jKxDJGZh34KV6L9HcE.png"
+    },
+    {
+      "id": 219277,
+      "name": "G2 Dispatch",
+      "logo_path": null
+    },
+    {
+      "id": 165435,
+      "name": "Angel Studios",
+      "logo_path": "/pDh2WDdOajWST9jlkFo6TOvETnB.png"
+    },
+    {
+      "id": 309655,
+      "name": "International Media Funds Management",
+      "logo_path": "/9IYQkwgJlOzBiWANI6krDsE3QvR.png"
+    },
+    {
+      "id": 209819,
+      "name": "Bright White Light",
+      "logo_path": "/lvqsgXsWHX4r5jBOuvbNCpZCnBf.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4776,
+      "name": "race against time"
+    },
+    {
+      "id": 2449,
+      "name": "black market"
+    },
+    {
+      "id": 10175,
+      "name": "drug cartel"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 95835,
+  "watchlistCount": 500,
+  "favouriteCount": 147,
+  "shareCount": 35,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-29T13:24:52.548Z",
+  "updatedAt": "2026-09-29T13:59:36.659Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e373d946-6623-4c45-8c4f-7f1947685076",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 64295,
+      "name": "Alan Ritchson",
+      "character": "Hank Malone",
+      "profilePath": "/92YNEEpCyugkTzPprJwZpvVtvuK.jpg",
+      "order": 0
+    },
+    {
+      "id": "a6359367-fc0c-4e89-9600-74415434763a",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 887,
+      "name": "Owen Wilson",
+      "character": "Ben Bishop",
+      "profilePath": "/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg",
+      "order": 1
+    },
+    {
+      "id": "72daab7d-d856-4faa-a264-a8cbc0aebc24",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 17289,
+      "name": "Rodrigo Santoro",
+      "character": "Damian Zaldivar",
+      "profilePath": "/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg",
+      "order": 2
+    },
+    {
+      "id": "0427c3dd-1592-47d4-8c54-8917819e4edc",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 1681867,
+      "name": "Leila George",
+      "character": "Kate Baker",
+      "profilePath": "/s46DMiPDGSMq6qad5TL8mG5qfdy.jpg",
+      "order": 3
+    },
+    {
+      "id": "b3cea3f1-6a13-4a40-9e3f-a5fcdc50d2e9",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 1331024,
+      "name": "Kate Box",
+      "character": "Dr. Ainsley",
+      "profilePath": "/zv4NckgNBn6Tc2xhCdNFFx9o9EZ.jpg",
+      "order": 4
+    },
+    {
+      "id": "44de67bc-175a-46ef-afc6-a6ac9aab190c",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 270,
+      "name": "Adriana Barraza",
+      "character": "Donna",
+      "profilePath": "/kfww4YbO9J2HpCldEqyyhQugwy5.jpg",
+      "order": 5
+    },
+    {
+      "id": "08f01cf3-7ee6-4c7a-956b-a64edcd7c35f",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 220914,
+      "name": "Peta Sergeant",
+      "character": "Nurse Julie",
+      "profilePath": "/owkSN29t7P6hpazZKsUMt7FybrP.jpg",
+      "order": 6
+    },
+    {
+      "id": "0c3f8502-ff80-476b-88d7-de5835c98900",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 4900411,
+      "name": "Scarlett Crabtree",
+      "character": "Ellie Baker",
+      "profilePath": "/3377x3ADVhE5kuPV7JpCByqvF5r.jpg",
+      "order": 7
+    },
+    {
+      "id": "0732fca0-4591-4b27-b66f-0102c7d6ff3f",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 131928,
+      "name": "Geraldine Hakewill",
+      "character": "Monica",
+      "profilePath": "/cMzkT78ZH4qluKg2VumKkF3eTia.jpg",
+      "order": 8
+    },
+    {
+      "id": "12fb586c-208a-4929-a494-49d399b3252e",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 61784,
+      "name": "Goran D. Kleut",
+      "character": "Luke",
+      "profilePath": "/vsN8BI3t4c8JHLoLznCZxO9gZ6r.jpg",
+      "order": 9
+    },
+    {
+      "id": "12d56a82-4eb3-4c92-b459-a24d8340929c",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 78572,
+      "name": "Gyton Grantley",
+      "character": "Iggy",
+      "profilePath": "/misQO0AOSDeG0xKqnrRQliZT1Ep.jpg",
+      "order": 10
+    },
+    {
+      "id": "fca7aa07-64c1-4f94-a735-8fa85c421c50",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 1765518,
+      "name": "Deirdree Wallace",
+      "character": "AA Group Leader",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "072e1470-30ac-4c0c-b02e-55653d82f1a1",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 3041606,
+      "name": "Anthony Cogin",
+      "character": "Senator Roger Cameron",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "3d17d3c4-8031-4d54-8208-f393cc01115d",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 2765459,
+      "name": "Thomas Larkin",
+      "character": "Tech CEO",
+      "profilePath": "/t5NifuXVMEPnwIvZe6JkWuCGCWw.jpg",
+      "order": 13
+    },
+    {
+      "id": "f9c9c46b-6f49-43ae-afd0-a5c919961385",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 1292732,
+      "name": "Beth Waugh",
+      "character": "Stewardess Audrey",
+      "profilePath": "/h36ZKLJRKIQz4BsUotVES2Iekgu.jpg",
+      "order": 14
+    },
+    {
+      "id": "6966dd66-e0b7-4fd2-8446-0b5faaf8d703",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 4390932,
+      "name": "Salomé Chandler",
+      "character": "Pre Op Nurse",
+      "profilePath": "/6EQeQXacrRcUVV76i57ss73QC3E.jpg",
+      "order": 15
+    },
+    {
+      "id": "feff66fe-154d-4af8-b7be-f1a868872dda",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 1233049,
+      "name": "Jackson Raine",
+      "character": "Donna's Doctor",
+      "profilePath": "/pOyrX1MxmL5zTWYYPWLPWHh7UAa.jpg",
+      "order": 16
+    },
+    {
+      "id": "ce4607e8-2822-49ae-b6d6-8ba663f27af2",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 1263515,
+      "name": "Thomas Cocquerel",
+      "character": "Josh",
+      "profilePath": "/kZHp1bK5lBY7CnKKIh2VyIAhpWS.jpg",
+      "order": 17
+    },
+    {
+      "id": "6d8d1f26-5f8d-46b8-bbe5-1373f136e6a5",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 4882976,
+      "name": "Ashan Kumar",
+      "character": "Gas Station Attendant",
+      "profilePath": "/6TcWIf3KBCOBzIXT2Zr5me4hDl7.jpg",
+      "order": 18
+    },
+    {
+      "id": "38edf021-772f-47aa-a7b3-006d91313a56",
+      "movieId": "f1f28848-071c-4c0a-921d-6d01c8fa3528",
+      "tmdbPersonId": 6475398,
+      "name": "Amelia Parsonson",
+      "character": "Ambulance Medic",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "physical-100-mexico-2026",
+  "id": "15f8c246-5e8d-47a5-9030-e2435de33164",
+  "title": "Physical 100: Mexico",
+  "overview": "Reality competition show based on the original Korean format.",
+  "tagline": null,
+  "posterPath": "/vPsjiq0O8PCX9vdMCmXbbvVQmlC.jpg",
+  "backdropPath": "/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg",
+  "logoPath": "/iZWMGFIIYkNVwMQYrOKfeIn6yBM.png",
+  "firstAirDate": "2026-09-16",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    }
+  ],
+  "cast": [],
+  "seasons": [
+    {
+      "id": "443bc4e1-f89d-4060-895e-cdd2d482e28c",
+      "tvSeriesId": "15f8c246-5e8d-47a5-9030-e2435de33164",
+      "tmdbId": 537607,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/pHV5ubglqKageSkkXfoX9eZMjUO.jpg",
+      "airDate": "2026-09-16",
+      "episodeCount": 9,
+      "isPublished": true,
+      "createdAt": "2026-09-24T19:07:58.778Z",
+      "updatedAt": "2026-09-24T19:09:55.651Z"
+    }
+  ]
+}

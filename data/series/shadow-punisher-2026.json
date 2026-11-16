@@ -1,0 +1,131 @@
+{
+  "slug": "shadow-punisher-2026",
+  "id": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+  "title": "Shadow Punisher",
+  "overview": "Lord Qingyang's son, Li Si, devised a plan to infiltrate the Imperial Detective Division to uncover the truth behind the death of the Fourth Prince. There, he met and joined forces with Bai Zhenzhu, the finest female forensic expert in the land; and Meng Rui, a ghost-catcher renowned for his martial prowess but burdened with a deep-seated vendetta. Together, they formed the Divine Detectives. With seamless teamwork and unwavering determination, this trio ventured through perilous challenges, solving eight enigmatic and bizarre cases.",
+  "tagline": null,
+  "posterPath": "/9JmtjS94oVvlamKJPtXeUtEENdx.jpg",
+  "backdropPath": "/Amn1fw4akG9jOZNTP1J4Xadry4T.jpg",
+  "logoPath": "/3sgT0QNlycCiuf3eioE0ojqHmQY.png",
+  "firstAirDate": "2026-10-02",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8aaf9610-2d93-418a-946e-281b5d5ce002",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbPersonId": 2085450,
+      "name": "Luo Yunxi",
+      "character": "Li Si",
+      "profilePath": "/5tVSpBy1IcnwaxPCUx1dZIGT5TP.jpg",
+      "order": 0
+    },
+    {
+      "id": "2db4a40b-ee99-4b2a-a527-fef57fb517ec",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbPersonId": 2518577,
+      "name": "Shen Yujie",
+      "character": "Bai Zhenzhu",
+      "profilePath": "/uuuxrNW2br6qD0bSTCxrJccv3kQ.jpg",
+      "order": 1
+    },
+    {
+      "id": "63917807-16b0-43b5-b596-883372d6962a",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbPersonId": 2163713,
+      "name": "Fang Yilun",
+      "character": "Meng Rui",
+      "profilePath": "/xXTiJ47e0184OpioP4ssts2LSpW.jpg",
+      "order": 2
+    },
+    {
+      "id": "41f4eb73-120d-4232-8481-4b19323f5d95",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbPersonId": 1613347,
+      "name": "He Hongshan",
+      "character": "Xuanyuan Shan",
+      "profilePath": "/3D38zuXKzqmj7TegdDvhh8Bow1K.jpg",
+      "order": 3
+    },
+    {
+      "id": "e5fb5bda-38e1-48d4-bf16-08a26caec35a",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbPersonId": 1938422,
+      "name": "Wang Haixiang",
+      "character": "Yan Cheng",
+      "profilePath": "/7PGzNSv90H4zUUwfClzk7Zc8dkg.jpg",
+      "order": 4
+    },
+    {
+      "id": "da51c16e-bd0d-457a-8068-0c4586dfca20",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbPersonId": 2987582,
+      "name": "Ma Wenyuan",
+      "character": "Lou Tianming",
+      "profilePath": "/cmFVOwdtSLShAYX9N9CKCUjI3SE.jpg",
+      "order": 5
+    },
+    {
+      "id": "2842ec0b-da3d-4550-920a-f0fdbe18f80b",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbPersonId": 2827228,
+      "name": "Niu Zifan",
+      "character": "Zhou Tiao",
+      "profilePath": "/704aR7KqkJrShP2q9ZWZpTkHtSg.jpg",
+      "order": 6
+    },
+    {
+      "id": "ec793ebf-4e39-4bce-9495-6a94ce7e5734",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbPersonId": 1258618,
+      "name": "Ye Zuxin",
+      "character": "Ji Da / Ji Er",
+      "profilePath": "/qOuDI8KauaPnNcbFsnqxKmQnYeX.jpg",
+      "order": 7
+    },
+    {
+      "id": "6dabda8f-f643-4eec-869c-993f75049a00",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbPersonId": 1571926,
+      "name": "Du Yuming",
+      "character": "",
+      "profilePath": "/lksCznWluzAxt9sk5GlxoKTsYii.jpg",
+      "order": 8
+    },
+    {
+      "id": "a65a06a0-235f-4c8b-9c73-4b76ffa2b92a",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbPersonId": 2397757,
+      "name": "Jeffrey Dong",
+      "character": "",
+      "profilePath": "/6Mharof1X3Du52NjH2TGoMSwxV5.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "54dd0dcb-c18f-4deb-b9a4-df94fdd94327",
+      "tvSeriesId": "b14bd3fc-740a-42f2-9ab0-bb55df4de21a",
+      "tmdbId": 454943,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/pzTkQ19a4ER4ZnPAY20ftp0tUXi.jpg",
+      "airDate": "2026-10-02",
+      "episodeCount": 30,
+      "isPublished": true,
+      "createdAt": "2026-10-19T02:42:29.173Z",
+      "updatedAt": "2026-10-19T02:46:56.188Z"
+    }
+  ]
+}

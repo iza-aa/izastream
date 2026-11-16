@@ -1,0 +1,145 @@
+{
+  "slug": "i-would-rather-die-2026",
+  "id": "16e95399-5c62-421d-abb9-4f948668a075",
+  "title": "I Would Rather Die",
+  "overview": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
+  "tagline": null,
+  "posterPath": "/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg",
+  "backdropPath": "/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+  "logoPath": "/92f71ElE3HIJFrIDoCGYI5RGshD.png",
+  "firstAirDate": "2026-10-02",
+  "voteAverage": "7.90",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3cf43a46-b810-4284-90f2-6b6943de8f93",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbPersonId": 1303064,
+      "name": "Fernanda Castillo",
+      "character": "Sarah Díaz",
+      "profilePath": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+      "order": 0
+    },
+    {
+      "id": "d28b4452-9d3c-445a-8f5f-887d1f8195cc",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbPersonId": 91251,
+      "name": "Luis Fernando Peña",
+      "character": "Sargento Peña",
+      "profilePath": "/1nooPX0s6Qi03Npt1Wr9AK7gE08.jpg",
+      "order": 1
+    },
+    {
+      "id": "4837c15b-b08c-4fd0-869f-ba2a33738eef",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbPersonId": 39458,
+      "name": "Armando Hernández",
+      "character": "Gerardo",
+      "profilePath": "/5J0sQ0P2IBy1fTPDD3f8I2tJIZF.jpg",
+      "order": 2
+    },
+    {
+      "id": "a54d8583-9d0c-408d-a449-8282bb5ed1a9",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbPersonId": 974732,
+      "name": "Tiaré Scanda",
+      "character": "Wendy",
+      "profilePath": "/tEIJnn5ZVHUtDdFLhHP0Q2Fdgxx.jpg",
+      "order": 3
+    },
+    {
+      "id": "e7d3bb7b-89cd-449e-887e-378a1c6efb47",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbPersonId": 2910679,
+      "name": "Farah Justiniani",
+      "character": "Brenda Argüelles",
+      "profilePath": "/lKVOx4MzjuRroREZowdPIUgw0kr.jpg",
+      "order": 4
+    },
+    {
+      "id": "93877457-a4cc-4062-8e65-1b4084fb9c5c",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbPersonId": 1730120,
+      "name": "Azalia Ortiz",
+      "character": "Directora Ruth",
+      "profilePath": "/pU4jjmRQlp4Yi0MaXJPGUtG7LTu.jpg",
+      "order": 5
+    },
+    {
+      "id": "b781d591-7139-4c3a-901b-70e23fd68b3e",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbPersonId": 4214877,
+      "name": "Lilith Curiel",
+      "character": "Cristina Lemus",
+      "profilePath": "/poimeshzntuRSiggrBV7w9sXVRD.jpg",
+      "order": 6
+    },
+    {
+      "id": "adea16b8-793c-4293-9ea3-d80b567a1453",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbPersonId": 1371260,
+      "name": "Valentina Garcia",
+      "character": "Wendy",
+      "profilePath": "/7ZOogsZoj6JHxnUpAaB5AcYbAxz.jpg",
+      "order": 7
+    },
+    {
+      "id": "dd2b345d-c86b-4b6a-9e07-480baf19a9fd",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbPersonId": 1306685,
+      "name": "Alfonso Borbolla",
+      "character": "Profesor Alba",
+      "profilePath": "/60Pw7d3SNCIAf5Iw6QAaikIl9p.jpg",
+      "order": 8
+    },
+    {
+      "id": "37e1d837-9bd8-40aa-8f31-a2bf528f3498",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbPersonId": 4580541,
+      "name": "Diego Bernal",
+      "character": "Archibaldo Pérez",
+      "profilePath": null,
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ed71c046-0230-437b-8859-b64e12636d86",
+      "tvSeriesId": "16e95399-5c62-421d-abb9-4f948668a075",
+      "tmdbId": 543772,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/hVS28DHtdssBr7FO4AKOEW2Aqpc.jpg",
+      "airDate": "2026-10-02",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-08T05:22:41.319Z",
+      "updatedAt": "2026-10-08T05:23:21.090Z"
+    }
+  ]
+}

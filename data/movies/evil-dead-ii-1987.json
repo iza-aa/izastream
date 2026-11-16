@@ -1,0 +1,445 @@
+{
+  "slug": "evil-dead-ii-1987",
+  "id": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+  "tmdbId": 765,
+  "imdbId": "tt0092991",
+  "title": "Evil Dead II",
+  "originalTitle": "Evil Dead II",
+  "overview": "Ash Williams and his girlfriend Linda find a log cabin in the woods with a voice recording from an archeologist who had recorded himself reciting ancient chants from \"The Book of the Dead.\" As they play the recording an evil power is unleashed taking over Linda's body.",
+  "tagline": "Kiss your nerves goodbye!",
+  "posterPath": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+  "backdropPath": "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+  "logoPath": "/oiBNPpQaVSO6sQXpJ3OeucNtQlp.png",
+  "backdrops": [
+    "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+    "/1lKLVY9OlSaRHmN7oVrQp5cHtp.jpg",
+    "/jyRk8ykqLOXaVadZ0aWRDd89gMP.jpg",
+    "/97crhLFv3nFMyy4UQFcbFwHzf5S.jpg",
+    "/iOqzXQjM17Vkp7JLR4uO6hnO7sU.jpg",
+    "/qRDBipswTyUraem8vkYdrnGBxPE.jpg",
+    "/gg9z8VzlQERlS7YWSuhl6JD8m6I.jpg",
+    "/j1CqN4ypo3lFJJA5C7mYJzBaXoL.jpg",
+    "/jVg8GBvQ5iqjgsPmogcI3ikNDxS.jpg",
+    "/iUQhsIXL9KPQSGx2lEg8AUIi1RE.jpg"
+  ],
+  "releaseDate": "1987-03-13",
+  "runtime": 84,
+  "voteAverage": "7.53",
+  "popularity": null,
+  "popularityScore": 134,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=s7WNgzilRBw",
+  "quality": "BLU-RAY",
+  "director": "Sam Raimi",
+  "directorTmdbId": 7623,
+  "directorProfilePath": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+  "productionCompanies": [
+    {
+      "id": 106908,
+      "name": "Rosebud Releasing Corporation",
+      "logo_path": null
+    },
+    {
+      "id": 467,
+      "name": "Renaissance Pictures",
+      "logo_path": null
+    },
+    {
+      "id": 10308,
+      "name": "The De Laurentiis Company",
+      "logo_path": "/5AEHeflZe2YavcjL0s99gJA8csi.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1366,
+      "name": "shotgun"
+    },
+    {
+      "id": 7946,
+      "name": "deer"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 11335,
+      "name": "tape recorder"
+    },
+    {
+      "id": 12394,
+      "name": "chainsaw"
+    },
+    {
+      "id": 13153,
+      "name": "spirit"
+    },
+    {
+      "id": 13209,
+      "name": "cabin in the woods"
+    },
+    {
+      "id": 18451,
+      "name": "over the top"
+    },
+    {
+      "id": 157458,
+      "name": "book of the dead"
+    },
+    {
+      "id": 157459,
+      "name": "evil dead"
+    },
+    {
+      "id": 157465,
+      "name": "eyeball"
+    },
+    {
+      "id": 157466,
+      "name": "necronomicon"
+    },
+    {
+      "id": 157470,
+      "name": "meat cleaver"
+    },
+    {
+      "id": 164218,
+      "name": "psychotronic"
+    },
+    {
+      "id": 259376,
+      "name": "playful"
+    },
+    {
+      "id": 287274,
+      "name": "lovecraftian"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 319397,
+      "name": "witty"
+    },
+    {
+      "id": 320420,
+      "name": "hilarious"
+    },
+    {
+      "id": 325811,
+      "name": "excited"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 9346,
+  "watchlistCount": 44,
+  "favouriteCount": 13,
+  "shareCount": 7,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-11T12:43:30.264Z",
+  "updatedAt": "2026-09-11T13:18:52.998Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "dc412a3e-aa54-408d-a1d8-b12fcef2c68f",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 11357,
+      "name": "Bruce Campbell",
+      "character": "Ash",
+      "profilePath": "/p9335ljr7luOWsfwZSOlsIzFJKE.jpg",
+      "order": 0
+    },
+    {
+      "id": "a6517a11-2b2d-4828-b27c-46b4d8889056",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 11749,
+      "name": "Sarah Berry",
+      "character": "Annie",
+      "profilePath": "/3mIrEco33KaUIlMIALN7xYkROsk.jpg",
+      "order": 1
+    },
+    {
+      "id": "9e2abfb0-717f-45d5-bf3f-a5c4cdb4f2de",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 11750,
+      "name": "Dan Hicks",
+      "character": "Jake",
+      "profilePath": "/qBrRAMJ29R59jiGB2vJQ51ZJEBN.jpg",
+      "order": 2
+    },
+    {
+      "id": "d7855ef7-149b-48aa-8165-3f7f021561a8",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 11751,
+      "name": "Kassie DePaiva",
+      "character": "Bobby Joe",
+      "profilePath": "/7MhZiKHkLuGQuX4j96nVsNh0Icp.jpg",
+      "order": 3
+    },
+    {
+      "id": "82d8926c-5610-43c1-8cdc-bd2a95501dff",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 11769,
+      "name": "Ted Raimi",
+      "character": "Possessed Henrietta",
+      "profilePath": "/juhz6ajCjjHlLPzYBxPtDxwX6em.jpg",
+      "order": 4
+    },
+    {
+      "id": "24c677ae-fc2e-46db-ad26-772abeea2872",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 11753,
+      "name": "Denise Bixler",
+      "character": "Linda",
+      "profilePath": "/qXtQKQu50KK6cGBAmYt7vGCaYix.jpg",
+      "order": 5
+    },
+    {
+      "id": "c515db14-c97c-451b-a77d-58815257fcb6",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 11754,
+      "name": "Richard Domeier",
+      "character": "Ed",
+      "profilePath": "/fAt2ZaoOZ0NptNsSoho7FtYPWyI.jpg",
+      "order": 6
+    },
+    {
+      "id": "df167c9a-7724-4d6c-ac60-741efe8f4715",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 11755,
+      "name": "John Peakes",
+      "character": "Professor Knowby",
+      "profilePath": "/n1oWY1kYTTTrGsS8KwcLQiREC7I.jpg",
+      "order": 7
+    },
+    {
+      "id": "0d6cdd97-1c69-4ece-ba00-3ee5d66558fa",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 11756,
+      "name": "Lou Hancock",
+      "character": "Henrietta",
+      "profilePath": "/1NGv178QgomuVC9kTc9gAThATMv.jpg",
+      "order": 8
+    },
+    {
+      "id": "33e842b2-83bf-4ad1-8647-9e6af64d14af",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 1840027,
+      "name": "Snowy Winters",
+      "character": "Dancer",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "c5693df1-97b7-4597-88cf-67bd3dc16a7a",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 2366023,
+      "name": "Sol Abrams",
+      "character": "Fake Shemp",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "23ff37c3-d7d9-43b5-97c6-b15edd50b443",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 77625,
+      "name": "Josh Becker",
+      "character": "Fake Shemp",
+      "profilePath": "/2oLce1KhaZeEd17SDnHCxT8KAZI.jpg",
+      "order": 11
+    },
+    {
+      "id": "0263572d-a872-411f-b46c-b1f415e56058",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 7623,
+      "name": "Sam Raimi",
+      "character": "Fake Shemp / Medieval Soldier / Possessed Rocking Chair",
+      "profilePath": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+      "order": 12
+    },
+    {
+      "id": "cc685fe3-542f-4b43-b96f-ab0696bbe08b",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 11641,
+      "name": "Scott Spiegel",
+      "character": "Fake Shemp",
+      "profilePath": "/4biZFDzG3gXfGk7YZYJQNRPGIbd.jpg",
+      "order": 13
+    },
+    {
+      "id": "c37b82eb-1e0a-4275-9bbf-509d2fdf9a69",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 2390737,
+      "name": "Thomas Kidd",
+      "character": "Fake Shemp",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "55c2918b-bf2c-4ce0-80d8-00da18e155f4",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 2809525,
+      "name": "Mitch Cantor",
+      "character": "Fake Shemp",
+      "profilePath": "/pdB2QfPflDTzS1yTEDaCvIx0iO.jpg",
+      "order": 15
+    },
+    {
+      "id": "e53cc291-5ef7-4fc2-a891-df611057c345",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 2809526,
+      "name": "Jenny Griffith",
+      "character": "Fake Shemp",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "df48e5c2-d995-4835-84c5-1edadc17bc69",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 565196,
+      "name": "William Preston Robertson",
+      "character": "The Hand / The Dark Spirit / The Deer Head / The Enchanted Objects (voice)",
+      "profilePath": "/ky7pilIb95STEPjQn1vK4z8CKVa.jpg",
+      "order": 17
+    },
+    {
+      "id": "e074b4ed-a22c-4a13-bc82-33acaf4233f0",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 145618,
+      "name": "Tony Elwood",
+      "character": "Luggage Monkey (uncredited)",
+      "profilePath": "/cvJriCy66tAtKKWrqTtScze56Bx.jpg",
+      "order": 18
+    },
+    {
+      "id": "9bb6c7cb-c75a-4f29-aa07-ff50125ed435",
+      "movieId": "e2dd1643-66c0-43c9-a0ad-b5766e2c5091",
+      "tmdbPersonId": 1190936,
+      "name": "David M. Goodman",
+      "character": "Airport Worker (uncredited)",
+      "profilePath": "/nrcSG1SitQSxyZ3nZHQkHYWfOoW.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "toomuchsoda",
+    "displayName": "tooMuchsoDa"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

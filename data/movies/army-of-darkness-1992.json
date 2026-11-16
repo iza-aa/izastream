@@ -1,0 +1,505 @@
+{
+  "slug": "army-of-darkness-1992",
+  "id": "42276b68-011e-4aae-9537-99191ecb3907",
+  "tmdbId": 766,
+  "imdbId": "tt0106308",
+  "title": "Army of Darkness",
+  "originalTitle": "Army of Darkness",
+  "overview": "Ash, a handsome, shotgun-toting, chainsaw-armed department store clerk, is time warped backwards into England's Dark Ages, where he romances a beauty and faces legions of the undead.",
+  "tagline": "Trapped in time. Surrounded by evil. Low on gas.",
+  "posterPath": "/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg",
+  "backdropPath": "/8WIufsaJgm7VWgAc5ALWdJ8v2kB.jpg",
+  "logoPath": "/qPa6xEfLeFQ3zrQagJU30UH6PTH.png",
+  "backdrops": [
+    "/dpNZSFwPlbmCwfhvRpOYTOxwFXi.jpg",
+    "/8WIufsaJgm7VWgAc5ALWdJ8v2kB.jpg",
+    "/5RPXs9g0sZ9Woo4pNLxdXdge7tc.jpg",
+    "/xErw1pfmyWYQcXIlXipPY3O9uRH.jpg",
+    "/bzD7VkpPok599R8B0PnuJs3uTc9.jpg",
+    "/8juPUsWwY0aJC0bnT9tIL9IeZIu.jpg",
+    "/iPBohQuaB2gJEgap3jhdfiaQ7Jm.jpg",
+    "/oE7uLvfpp4LvezJu3S5t7WpXie0.jpg",
+    "/a46SgDkhxhaPbplZk5oXXvU1n4D.jpg",
+    "/cXQeDq2U7QylzwS4Mnjp20A6aTG.jpg"
+  ],
+  "releaseDate": "1992-10-31",
+  "runtime": 81,
+  "voteAverage": "7.26",
+  "popularity": null,
+  "popularityScore": 91,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=UHZQEtG8xYo",
+  "quality": "BLU-RAY",
+  "director": "Sam Raimi",
+  "directorTmdbId": 7623,
+  "directorProfilePath": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+  "productionCompanies": [
+    {
+      "id": 467,
+      "name": "Renaissance Pictures",
+      "logo_path": null
+    },
+    {
+      "id": 493,
+      "name": "Introvision International",
+      "logo_path": null
+    },
+    {
+      "id": 19737,
+      "name": "Dino de Laurentiis Communications",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 616,
+      "name": "witch"
+    },
+    {
+      "id": 4062,
+      "name": "skeleton"
+    },
+    {
+      "id": 1400,
+      "name": "swordplay"
+    },
+    {
+      "id": 1545,
+      "name": "supermarket"
+    },
+    {
+      "id": 530,
+      "name": "prophecy"
+    },
+    {
+      "id": 1366,
+      "name": "shotgun"
+    },
+    {
+      "id": 3098,
+      "name": "castle"
+    },
+    {
+      "id": 4379,
+      "name": "time travel"
+    },
+    {
+      "id": 3970,
+      "name": "catapult"
+    },
+    {
+      "id": 4067,
+      "name": "incantation"
+    },
+    {
+      "id": 4060,
+      "name": "time frame"
+    },
+    {
+      "id": 4065,
+      "name": "pit"
+    },
+    {
+      "id": 4066,
+      "name": "windmill"
+    },
+    {
+      "id": 10327,
+      "name": "undead"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 10466,
+      "name": "knight"
+    },
+    {
+      "id": 12377,
+      "name": "zombie"
+    },
+    {
+      "id": 12394,
+      "name": "chainsaw"
+    },
+    {
+      "id": 41406,
+      "name": "middle ages (476-1453)"
+    },
+    {
+      "id": 157458,
+      "name": "book of the dead"
+    },
+    {
+      "id": 157459,
+      "name": "evil dead"
+    },
+    {
+      "id": 157466,
+      "name": "necronomicon"
+    },
+    {
+      "id": 161891,
+      "name": "doppelgänger"
+    },
+    {
+      "id": 164218,
+      "name": "psychotronic"
+    },
+    {
+      "id": 199524,
+      "name": "disturbed"
+    },
+    {
+      "id": 209374,
+      "name": "hero's journey"
+    },
+    {
+      "id": 215160,
+      "name": "13th century"
+    },
+    {
+      "id": 237451,
+      "name": "isekai"
+    },
+    {
+      "id": 256330,
+      "name": "mischievous"
+    },
+    {
+      "id": 287274,
+      "name": "lovecraftian"
+    },
+    {
+      "id": 319397,
+      "name": "witty"
+    },
+    {
+      "id": 320420,
+      "name": "hilarious"
+    },
+    {
+      "id": 325761,
+      "name": "admiring"
+    },
+    {
+      "id": 325795,
+      "name": "dignified"
+    },
+    {
+      "id": 325807,
+      "name": "enchant"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 6923,
+  "watchlistCount": 23,
+  "favouriteCount": 8,
+  "shareCount": 3,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-11T12:43:37.178Z",
+  "updatedAt": "2026-09-11T13:18:57.545Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1dc0b861-4978-4aaa-bec0-679ff82adb87",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 11357,
+      "name": "Bruce Campbell",
+      "character": "Ash",
+      "profilePath": "/p9335ljr7luOWsfwZSOlsIzFJKE.jpg",
+      "order": 0
+    },
+    {
+      "id": "c295ab55-9bbd-40de-a9bb-326acc75eff0",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 6368,
+      "name": "Embeth Davidtz",
+      "character": "Sheila",
+      "profilePath": "/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg",
+      "order": 1
+    },
+    {
+      "id": "624d5004-d1c4-4bcd-9511-600d64ea15de",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 11763,
+      "name": "Marcus Gilbert",
+      "character": "Arthur",
+      "profilePath": "/h3djDOkNHLwep1fwbGbEhT5c6dz.jpg",
+      "order": 2
+    },
+    {
+      "id": "ff68302d-bbb1-4bad-84a6-934b71023673",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 11764,
+      "name": "Ian Abercrombie",
+      "character": "Wiseman",
+      "profilePath": "/fKAYk2Fp5GzKizw4wlUgNPIt136.jpg",
+      "order": 3
+    },
+    {
+      "id": "ff88b9fd-d130-42c7-a89e-7e6b7c8bf509",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 11765,
+      "name": "Richard Grove",
+      "character": "Duke Henry",
+      "profilePath": "/pOSH0srTIRdDuJUEq5xkdAJyfud.jpg",
+      "order": 4
+    },
+    {
+      "id": "3f5d6bcc-d699-4505-98bd-178ed8b8ca21",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 11767,
+      "name": "Michael Earl Reid",
+      "character": "Gold Tooth",
+      "profilePath": "/6nKhvKLHb8QCBmLCSddef3Tbri8.jpg",
+      "order": 5
+    },
+    {
+      "id": "2b3097d1-e23b-4aa5-812f-4fcd7743533c",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 11766,
+      "name": "Timothy Patrick Quill",
+      "character": "Blacksmith",
+      "profilePath": "/jOtAb58qN8fS8gPmop9gUchQg7M.jpg",
+      "order": 6
+    },
+    {
+      "id": "d08b1990-ae6a-4ce2-b756-507a4236d4e1",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 2233,
+      "name": "Bridget Fonda",
+      "character": "Linda",
+      "profilePath": "/ylGktmhDCLnaaV8owSPL8cVlsbn.jpg",
+      "order": 7
+    },
+    {
+      "id": "a2e2010b-d339-4059-92cc-99daba542ce7",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 11768,
+      "name": "Patricia Tallman",
+      "character": "Possessed Witch",
+      "profilePath": "/12nb9TIivhOdjpCPbLdj3CrCr4j.jpg",
+      "order": 8
+    },
+    {
+      "id": "f58ffeaf-9bfb-4e8b-b65f-8f6b5045dcdc",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 11769,
+      "name": "Ted Raimi",
+      "character": "Cowardly Warrior / Second Supportive Villager / S-Mart Clerk",
+      "profilePath": "/juhz6ajCjjHlLPzYBxPtDxwX6em.jpg",
+      "order": 9
+    },
+    {
+      "id": "7c7d0436-a0c7-432e-b146-046518521634",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 1195675,
+      "name": "Deke Anderson",
+      "character": "Tiny Ash #1",
+      "profilePath": "/cg4hHlYvhNXp6iA6Hy9DqYAm5Fq.jpg",
+      "order": 10
+    },
+    {
+      "id": "cff6c2ec-cd81-4d39-96b9-9a67fc828181",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 79497,
+      "name": "Bruce Thomas",
+      "character": "Tiny Ash #2",
+      "profilePath": "/y0ZGMc0KtUORON59SRXOtABub9S.jpg",
+      "order": 11
+    },
+    {
+      "id": "eeab5e37-b621-4374-9a39-15398b724214",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 2366015,
+      "name": "Sara Shearer",
+      "character": "Old Woman",
+      "profilePath": "/AMCZUZpUXqZ49tAdoGXM0A2nwC.jpg",
+      "order": 12
+    },
+    {
+      "id": "bc31b9aa-3508-4a90-8fae-48d13baa2f4b",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 2366016,
+      "name": "Shiva Gordon",
+      "character": "Pit Deadite #1",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "214bee7d-3d80-44b5-a2d5-575ba292009c",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 1506253,
+      "name": "Billy Bryan",
+      "character": "Pit Deadite #2",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "4d433625-cffc-425d-8560-d0bb0411e58f",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 2366017,
+      "name": "Nadine Grycan",
+      "character": "Winged Deadite",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "33c281c8-80b5-4997-95a9-d9e79c66dbf3",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 27737,
+      "name": "Bill Moseley",
+      "character": "Deadite Captain",
+      "profilePath": "/tRyt4wTgNYJl7eqhM56B3gukU2A.jpg",
+      "order": 16
+    },
+    {
+      "id": "6a3aff6a-121c-4e65-a035-3032f27f1c39",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 2366018,
+      "name": "Micheal Kenney",
+      "character": "Henry's Man",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "a09722c5-e0a1-4066-bce2-cf8889434e54",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 2366019,
+      "name": "Andy Bale",
+      "character": "Lieutenant #1",
+      "profilePath": "/xrRW3eCVVhIyy3ovVH3n6nVLwGk.jpg",
+      "order": 18
+    },
+    {
+      "id": "a6b318e4-4458-4cd7-b0b5-280f8c5c6145",
+      "movieId": "42276b68-011e-4aae-9537-99191ecb3907",
+      "tmdbPersonId": 2366020,
+      "name": "Robert Brent Lappin",
+      "character": "Lieutenant #2",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "sehatkok",
+    "displayName": "Pasien"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

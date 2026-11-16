@@ -1,0 +1,138 @@
+{
+  "slug": "make-me-tingle-2026",
+  "id": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+  "title": "Make Me Tingle",
+  "overview": "A marketer with traditional views on love and marriage tries to navigate a connection with an adult toy company CEO with different values.",
+  "tagline": "What feels tingly-  My heart? My body?",
+  "posterPath": "/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
+  "backdropPath": "/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
+  "logoPath": "/up8I8opdAJK6Ws8KvFDsGBCNbuB.png",
+  "firstAirDate": "2026-10-15",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "352472fd-ef3c-4fb7-a269-1f4a8ac24c98",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbPersonId": 939137,
+      "name": "Nam Ji-hyun",
+      "character": "Gong Yeon-su",
+      "profilePath": "/dSFP974u2btrs44Ynw0osCTDBtH.jpg",
+      "order": 0
+    },
+    {
+      "id": "88433145-42f9-47a0-b61b-68a9c4cf2c22",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbPersonId": 1613823,
+      "name": "Kim Jae-young",
+      "character": "Dokgo Dal",
+      "profilePath": "/s6qcQ7rvKOjMZOsxcl1KgYLHIiz.jpg",
+      "order": 1
+    },
+    {
+      "id": "643aec2a-164c-44da-bd25-ecf7f6afe2f8",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbPersonId": 1525617,
+      "name": "Park So-jin",
+      "character": "Jin Se-ra",
+      "profilePath": "/cI64vJSNXzLwLm8wqIMKpLJTnmM.jpg",
+      "order": 2
+    },
+    {
+      "id": "6313e6c1-ed08-4f84-b6f5-ee9304c68295",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbPersonId": 2438094,
+      "name": "Kim Shin-bi",
+      "character": "Gong Nam-su",
+      "profilePath": "/or6KtPM9qvgBuiXsNImpCUBjMit.jpg",
+      "order": 3
+    },
+    {
+      "id": "c3657009-df38-4a57-a286-b400e9cfddfb",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbPersonId": 3212247,
+      "name": "So A-rin",
+      "character": "Kang Si-eun",
+      "profilePath": "/qeTxHCPowzNjmR7qDjq8UEyILKp.jpg",
+      "order": 4
+    },
+    {
+      "id": "bbe4ae6f-fced-45bd-8623-510289005881",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbPersonId": 3053741,
+      "name": "Kang Tae-ju",
+      "character": "Yoon Ji-oh",
+      "profilePath": "/xYIO8YyTUWDFLeIXQFtaOsTTPR3.jpg",
+      "order": 5
+    },
+    {
+      "id": "499cdb98-1de8-4378-8158-7f0080738650",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbPersonId": 5274522,
+      "name": "Seong Seung-ha",
+      "character": "Dong-woo",
+      "profilePath": "/msL35oiLLkKcoQK3MzD59RYJIfO.jpg",
+      "order": 6
+    },
+    {
+      "id": "b60a15bc-bf1f-4f1d-8270-2a80a1360646",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbPersonId": 6000593,
+      "name": "Byeon Chang-Yeol",
+      "character": "Field leader",
+      "profilePath": "/gqdVBMsqI8aRRfnUXoD173hGjeu.jpg",
+      "order": 7
+    },
+    {
+      "id": "1e4c87b0-9a54-43cb-a5e8-2224efd1666a",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbPersonId": 5714270,
+      "name": "Park Cho-eun",
+      "character": "SR Planning staff",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "df150a06-14be-4cf8-b205-a5538587e42b",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbPersonId": 2500907,
+      "name": "Jo Ah-ra",
+      "character": "",
+      "profilePath": "/50SjQEJja8Y9ta5fFf2bZz6iXjY.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d26970c5-1afd-4990-88bf-71093e69c5cb",
+      "tvSeriesId": "ea0c44b0-c3a3-4021-b700-abf291f2ca7e",
+      "tmdbId": 495789,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Raised in a conservative household and working at a marketing firm, a woman’s orderly life is upended when she meets the daring CEO of an adult product company. As their worlds collide, they challenge each other’s beliefs and discover unexpected ways to grow together.",
+      "posterPath": "/mtROZ5fYbRuwcQEIUr9H3unKK0v.jpg",
+      "airDate": "2026-10-15",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-15T21:08:53.746Z",
+      "updatedAt": "2026-11-05T16:52:43.225Z"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "the-frontier-lord-begins-with-zero-subjects-2026",
+  "id": "6d615718-f132-426c-b61a-b77326ad638a",
+  "title": "The Frontier Lord Begins with Zero Subjects",
+  "overview": "The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life.",
+  "tagline": null,
+  "posterPath": "/vHTHQZy3JhgoVMkbXlOot5gOUzZ.jpg",
+  "backdropPath": "/pEhFkDyRMpUZr1lwmmPFVGzdgNl.jpg",
+  "logoPath": "/rPlkh6hsHcrUNK95TM0ls4p4iWs.png",
+  "firstAirDate": "2026-07-10",
+  "voteAverage": "6.90",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e0e99dbf-0fd2-4527-ac00-1eab5cc59c60",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbPersonId": 1264226,
+      "name": "Kenichirou Matsuda",
+      "character": "Dias (voice)",
+      "profilePath": "/YCEXgyl763zg62qhsjhWHRzGkL.jpg",
+      "order": 0
+    },
+    {
+      "id": "38645060-28a0-474c-9366-5d188f85d912",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbPersonId": 2363904,
+      "name": "Shion Wakayama",
+      "character": "Alna (voice)",
+      "profilePath": "/b697ggFreuliEfl4TjLgxhJCQXr.jpg",
+      "order": 1
+    },
+    {
+      "id": "0e3c4681-a2ca-4f5c-a4d2-03a70987f7f0",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbPersonId": 2106489,
+      "name": "Taito Ban",
+      "character": "",
+      "profilePath": "/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg",
+      "order": 2
+    },
+    {
+      "id": "de649c00-a4b5-497f-8acd-41ba569b2b70",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbPersonId": 1530921,
+      "name": "Miku Ito",
+      "character": "",
+      "profilePath": "/q2y0SbBKNeVLf5obxixFmmiM4hQ.jpg",
+      "order": 3
+    },
+    {
+      "id": "8141273e-4c66-420e-a721-c8eb4955e141",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbPersonId": 1124536,
+      "name": "Haruka Shiraishi",
+      "character": "",
+      "profilePath": "/hrQxTVNGLi3jXC7v4kETArpA0dV.jpg",
+      "order": 4
+    },
+    {
+      "id": "e7d086a2-831a-4ed8-a7d3-fb2848f5283d",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbPersonId": 131563,
+      "name": "Jun Fukuyama",
+      "character": "",
+      "profilePath": "/eT9eloyIaIkTvTqMmpcsAleP2hM.jpg",
+      "order": 5
+    },
+    {
+      "id": "a8173ac0-1f51-424b-b5e2-0f2e7f5de2f3",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbPersonId": 2369259,
+      "name": "Rikuya Yasuda",
+      "character": "",
+      "profilePath": "/eZCxGqkEibJkUEhLO9Xp4zNDlY3.jpg",
+      "order": 6
+    },
+    {
+      "id": "95191eeb-d10c-4109-9384-de3603630e6c",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbPersonId": 3146783,
+      "name": "Maria Abo",
+      "character": "",
+      "profilePath": "/cXGUvIFrp0VkQgCqNuupkCioaSK.jpg",
+      "order": 7
+    },
+    {
+      "id": "618b33e4-b8e6-4c5b-b296-570036e0692d",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbPersonId": 1241505,
+      "name": "Kujira",
+      "character": "",
+      "profilePath": "/dL2u3VyRBswwTEW4E8lbsHbqzeZ.jpg",
+      "order": 8
+    },
+    {
+      "id": "0b574839-2d06-4cdd-9484-67fb448ebf8d",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbPersonId": 1072774,
+      "name": "Yoko Hikasa",
+      "character": "",
+      "profilePath": "/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "94581d03-b4e0-4944-ae6c-8f78328bf226",
+      "tvSeriesId": "6d615718-f132-426c-b61a-b77326ad638a",
+      "tmdbId": 466260,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/vHTHQZy3JhgoVMkbXlOot5gOUzZ.jpg",
+      "airDate": "2026-07-10",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-26T05:56:30.843Z",
+      "updatedAt": "2026-09-26T05:58:05.547Z"
+    }
+  ]
+}

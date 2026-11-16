@@ -1,0 +1,111 @@
+{
+  "slug": "below-2026",
+  "id": "13e83bfc-04eb-41cb-ab22-d5e75485cf62",
+  "title": "Below",
+  "overview": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+  "tagline": "Something's in the water.",
+  "posterPath": "/wQcG0qZGRYAwfg3rfLCR1RwrBDZ.jpg",
+  "backdropPath": "/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+  "logoPath": "/oNXTCl5awrforgxCJsW1N7PAzd9.png",
+  "firstAirDate": "2026-10-08",
+  "voteAverage": "7.22",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c1d3a526-0353-44e7-af40-f334e7c67cc0",
+      "tvSeriesId": "13e83bfc-04eb-41cb-ab22-d5e75485cf62",
+      "tmdbPersonId": 2299,
+      "name": "Josh Hartnett",
+      "character": "Calvin Penney",
+      "profilePath": "/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg",
+      "order": 0
+    },
+    {
+      "id": "e28b14ac-6902-4f88-98f7-0826bc68d4b5",
+      "tvSeriesId": "13e83bfc-04eb-41cb-ab22-d5e75485cf62",
+      "tmdbPersonId": 1110405,
+      "name": "Mackenzie Davis",
+      "character": "Dr. Fonda Howander",
+      "profilePath": "/CEpYCoD6erYRYekmFHuQAULLD5.jpg",
+      "order": 1
+    },
+    {
+      "id": "5e795d80-c8de-4efe-bae2-c062db51fe70",
+      "tvSeriesId": "13e83bfc-04eb-41cb-ab22-d5e75485cf62",
+      "tmdbPersonId": 1448222,
+      "name": "Charlie Heaton",
+      "character": "Wade Penney",
+      "profilePath": "/8Se6WZuvRmoB990bT29OPgVAyBo.jpg",
+      "order": 2
+    },
+    {
+      "id": "466f1df6-de38-4421-bd5a-806253a0a43c",
+      "tvSeriesId": "13e83bfc-04eb-41cb-ab22-d5e75485cf62",
+      "tmdbPersonId": 1723618,
+      "name": "Ruby Stokes",
+      "character": "Mary Penney",
+      "profilePath": "/82itS42KR0RisdZNRemnGuKowIe.jpg",
+      "order": 3
+    },
+    {
+      "id": "8d50c4ed-b988-4e43-bf88-0f24c4ed3c43",
+      "tvSeriesId": "13e83bfc-04eb-41cb-ab22-d5e75485cf62",
+      "tmdbPersonId": 2542587,
+      "name": "Kaleb Horn",
+      "character": "Noah Townsend",
+      "profilePath": "/e8Dw4RNTmmbn5p7pYNP92wO3cA9.jpg",
+      "order": 4
+    },
+    {
+      "id": "ad885118-42ef-4802-97b4-cdf73554e2df",
+      "tvSeriesId": "13e83bfc-04eb-41cb-ab22-d5e75485cf62",
+      "tmdbPersonId": 1196041,
+      "name": "Rohan Campbell",
+      "character": "Jay Penney",
+      "profilePath": "/r1PDcoPF1NDvvxwqkOJTrFaT1za.jpg",
+      "order": 5
+    },
+    {
+      "id": "42c9962b-5f13-42e7-b1f8-1427d2df1d7c",
+      "tvSeriesId": "13e83bfc-04eb-41cb-ab22-d5e75485cf62",
+      "tmdbPersonId": 2200107,
+      "name": "Willow Kean",
+      "character": "Ruth Penney",
+      "profilePath": "/qoIMCE74GtwgZp4AGUi5j4AwhnJ.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "64c427a3-14b8-4bdf-b25b-ddeb974d6a34",
+      "tvSeriesId": "13e83bfc-04eb-41cb-ab22-d5e75485cf62",
+      "tmdbId": 444323,
+      "seasonNumber": 1,
+      "name": "Limited Series",
+      "overview": "",
+      "posterPath": "/qadm9To9UfMVenVzGVLt0m0iuxv.jpg",
+      "airDate": "2026-10-08",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-10-08T16:57:26.503Z",
+      "updatedAt": "2026-10-08T16:57:58.407Z"
+    }
+  ]
+}

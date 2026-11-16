@@ -1,0 +1,166 @@
+{
+  "slug": "the-insipid-princes-furtive-grab-for-the-throne-2026",
+  "id": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+  "title": "The Insipid Prince's Furtive Grab for the Throne",
+  "overview": "To the empire, Prince Arnold is one big joke, a completely inept prince outshone by his more talented twin, Leonard. But in secret, Arnold operates as Silver, one of only five magic-wielding SS-rank adventurers on the continent. As the bloody battle for the throne intensifies after the crown prince’s death, Arnold pulls the strings from the shadows to crown his twin emperor to his own advantage.",
+  "tagline": null,
+  "posterPath": "/1h0g4w6Vh0RenRga2bmtNXT08R0.jpg",
+  "backdropPath": "/rbxKqzKkw9zrO9lKgqvXHOo4sZo.jpg",
+  "logoPath": "/urU3jwao6hvnBsQjZt6VH14jwzi.png",
+  "firstAirDate": "2026-07-06",
+  "voteAverage": "6.55",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c53ef754-610e-40a6-93be-198547d290c1",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbPersonId": 1835721,
+      "name": "Manaka Iwami",
+      "character": "Finne Von Kleinert (voice)",
+      "profilePath": "/leKMaCBswXG8u4mfQNQ7J3y6Xow.jpg",
+      "order": 0
+    },
+    {
+      "id": "7a12e8be-a03c-4a65-991a-d19f1e772799",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbPersonId": 1296667,
+      "name": "Maaya Uchida",
+      "character": "Erna von Amsberg (voice)",
+      "profilePath": "/lrcxZXkIgHU55dMs8C4DKkUohqJ.jpg",
+      "order": 1
+    },
+    {
+      "id": "8701fd2b-0151-4c0b-b723-c6836812e31a",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbPersonId": 1779027,
+      "name": "Kaede Hondo",
+      "character": "Rinfia (voice)",
+      "profilePath": "/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg",
+      "order": 2
+    },
+    {
+      "id": "42144115-e86f-4615-8dac-e627e910f3e1",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbPersonId": 89968,
+      "name": "Kazuhiko Inoue",
+      "character": "Johannes Reeks-Adler (voice)",
+      "profilePath": "/3BpYtYRiLAmTNbCm2LXlXnkMRit.jpg",
+      "order": 3
+    },
+    {
+      "id": "ea765650-ee61-4b14-991f-245cb9a08516",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbPersonId": 1258552,
+      "name": "Atsushi Tamaru",
+      "character": "Erik Reeks Adler (voice)",
+      "profilePath": "/coh8N88X0eBIHfPgHE9qFMrUMCD.jpg",
+      "order": 4
+    },
+    {
+      "id": "863fd4cd-e3d6-4d08-aa27-878ccf685cde",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbPersonId": 1468251,
+      "name": "Ryota Takeuchi",
+      "character": "Gordon Lakes Adler (voice)",
+      "profilePath": "/1PZIIKxOAgn6YexksH6weYnzzhh.jpg",
+      "order": 5
+    },
+    {
+      "id": "adabccfb-53e9-4a96-97fe-3fd0afa52033",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbPersonId": 126286,
+      "name": "Mitsuki Saiga",
+      "character": "Zandra Lakes Adler (voice)",
+      "profilePath": "/qjRHodCBpKY8nEa4p8dZriDoil4.jpg",
+      "order": 6
+    },
+    {
+      "id": "d9000d34-6647-4360-b5aa-af7ade7f3e95",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbPersonId": 233590,
+      "name": "Yoshitsugu Matsuoka",
+      "character": "Traugott Reeks Adler (voice)",
+      "profilePath": "/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg",
+      "order": 7
+    },
+    {
+      "id": "68c9c2aa-c7df-43f6-9b99-c8ffb841dcfa",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbPersonId": 1763402,
+      "name": "Yuuki Kuwahara",
+      "character": "Christa Lakes Adler (voice)",
+      "profilePath": "/n9kLcB2YNl9S2kK6b2rId7cpjdh.jpg",
+      "order": 8
+    },
+    {
+      "id": "a8a0d6cb-62bf-4ed9-8750-7b8e90fd2b40",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbPersonId": 1254671,
+      "name": "Ai Kayano",
+      "character": "Mitsuba (voice)",
+      "profilePath": "/l8ywp387rfdAS7mOExe3cEZnsk0.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "9803c5bd-440e-43fa-b624-eda2e04cb42f",
+      "tvSeriesId": "0d80e1e7-53f6-41a1-8d28-d09cfb45020c",
+      "tmdbId": 442941,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/1h0g4w6Vh0RenRga2bmtNXT08R0.jpg",
+      "airDate": "2026-07-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-25T05:34:53.612Z",
+      "updatedAt": "2026-10-25T05:36:28.207Z"
+    }
+  ]
+}

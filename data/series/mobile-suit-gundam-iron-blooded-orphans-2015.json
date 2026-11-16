@@ -1,0 +1,148 @@
+{
+  "slug": "mobile-suit-gundam-iron-blooded-orphans-2015",
+  "id": "bcbf57c2-f3ca-412b-bb19-31e014123d13",
+  "title": "Mobile Suit Gundam: Iron-Blooded Orphans",
+  "overview": "On a terraformed post-disaster Mars, a group of child security agents rebel against the adults who betrayed them and the oppressive Earth government.",
+  "tagline": null,
+  "posterPath": "/x5M9yxvBhrUP4rsKSl3d9VzK7O.jpg",
+  "backdropPath": "/52mp7oFltDUkw3kx1ArlRZkLyr3.jpg",
+  "logoPath": "/eQ9HL1PxNC0uqTtW7DbUxAwevN7.png",
+  "firstAirDate": "2015-10-04",
+  "voteAverage": "7.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "1de0078f-f038-4fba-87f2-c36e7584a1cb",
+      "tmdbId": 10752,
+      "name": "War",
+      "slug": "war",
+      "createdAt": "2026-04-02T13:49:04.263Z"
+    },
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e2407311-c56e-4895-a6d5-128e7e2cffd9",
+      "tvSeriesId": "bcbf57c2-f3ca-412b-bb19-31e014123d13",
+      "tmdbPersonId": 1324472,
+      "name": "Kengo Kawanishi",
+      "character": "Mikazuki Augus (voice)",
+      "profilePath": "/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg",
+      "order": 0
+    },
+    {
+      "id": "e65342ae-87d0-4379-a883-6df27f9c2a96",
+      "tvSeriesId": "bcbf57c2-f3ca-412b-bb19-31e014123d13",
+      "tmdbPersonId": 1253008,
+      "name": "Yoshimasa Hosoya",
+      "character": "Orga Itsuka  (voice)",
+      "profilePath": "/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg",
+      "order": 1
+    },
+    {
+      "id": "def621ce-7fbd-4372-b72e-1600e0fd9b10",
+      "tvSeriesId": "bcbf57c2-f3ca-412b-bb19-31e014123d13",
+      "tmdbPersonId": 1247771,
+      "name": "Yuka Terasaki",
+      "character": "Kudelia Aina Bernstein (voice)",
+      "profilePath": "/hMorHtbCmbDkznBr6P71qHk2rSL.jpg",
+      "order": 2
+    },
+    {
+      "id": "1151bf45-3794-44b9-90b6-e2d20e8862f9",
+      "tvSeriesId": "bcbf57c2-f3ca-412b-bb19-31e014123d13",
+      "tmdbPersonId": 1116333,
+      "name": "Hisako Kanemoto",
+      "character": "Atra Mixta (voice)",
+      "profilePath": "/yosLId8iiPcvDZpeoLuGkDKlorU.jpg",
+      "order": 3
+    },
+    {
+      "id": "8ef63543-edfb-4e8b-9971-55209f5fe34b",
+      "tvSeriesId": "bcbf57c2-f3ca-412b-bb19-31e014123d13",
+      "tmdbPersonId": 1483496,
+      "name": "Yuuichirou Umehara",
+      "character": "Eugene Seven Stark (voice)",
+      "profilePath": "/lScrvZi4tKKpk3PbnIjLVjHVNJn.jpg",
+      "order": 4
+    },
+    {
+      "id": "8d1a47fb-1b03-4049-bb81-9a2a41ae9699",
+      "tvSeriesId": "bcbf57c2-f3ca-412b-bb19-31e014123d13",
+      "tmdbPersonId": 1885279,
+      "name": "Kohei Amasaki",
+      "character": "Takaki Uno (voice)",
+      "profilePath": "/tnN5jLiLjcDa7qn88uLb1iAfivL.jpg",
+      "order": 5
+    },
+    {
+      "id": "f7c9cf92-ee24-41f0-842c-033f2c771360",
+      "tvSeriesId": "bcbf57c2-f3ca-412b-bb19-31e014123d13",
+      "tmdbPersonId": 1325953,
+      "name": "Taishi Murata",
+      "character": "Norba Sino (voice)",
+      "profilePath": "/eVs2Ow2CyiFfoN02EUNyhmSYALE.jpg",
+      "order": 6
+    },
+    {
+      "id": "9e62dda1-242d-4f01-877c-b899d8af0b9c",
+      "tvSeriesId": "bcbf57c2-f3ca-412b-bb19-31e014123d13",
+      "tmdbPersonId": 1256603,
+      "name": "Natsuki Hanae",
+      "character": "Biscuit Griffon (voice)",
+      "profilePath": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg",
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4f031087-afcd-4452-a05e-f2994a08928f",
+      "tvSeriesId": "bcbf57c2-f3ca-412b-bb19-31e014123d13",
+      "tmdbId": 71880,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "There was once a great conflict known as the \"Calamity War.\" Roughly 300 years have passed since the end of this war. The Earth Sphere had lost its previous governing structure, and a new world was created under new systems of government. While a temporary peace had arrived, the seeds of a new conflict were being sown in the Mars Sphere, far away from Earth. Our hero, a boy named Mikazuki Augus, belongs to a private security company called Chryse Guard Security (CGS). The company accepts a mission to escort Kudelia Aina Bernstein, a girl who seeks to liberate the Martian city of Chryse from the rule of one of Earth's major powers. However, the military organization Gjallarhorn attacks CGS in order to nip this rebellion in the bud. CGS begins an evacuation, using Mikazuki and the other children as decoys.",
+      "posterPath": "/cEnziAdIPzjofZjtV4oVYYOq0Sn.jpg",
+      "airDate": "2015-10-04",
+      "episodeCount": 50,
+      "isPublished": true,
+      "createdAt": "2026-10-12T15:40:23.781Z",
+      "updatedAt": "2026-10-12T15:51:31.510Z"
+    }
+  ]
+}

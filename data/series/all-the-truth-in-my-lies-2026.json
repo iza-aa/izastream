@@ -1,0 +1,109 @@
+{
+  "slug": "all-the-truth-in-my-lies-2026",
+  "id": "d3517acd-80de-40f2-861f-b6ad59cf5b3c",
+  "title": "All the Truth In My Lies",
+  "overview": "Coco and Marín, best friends, embark on a caravan trip to celebrate Blanca's bachelorette party, but their adventure becomes a time bomb as secrets unravel.",
+  "tagline": null,
+  "posterPath": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+  "backdropPath": "/2udseY0mzsvkytPcSL4Vp612M1D.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-08-28",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "bb4a113f-7c4f-400d-8aa5-1a9d619ad7b3",
+      "tvSeriesId": "d3517acd-80de-40f2-861f-b6ad59cf5b3c",
+      "tmdbPersonId": 2484837,
+      "name": "Daniel Ibáñez",
+      "character": "",
+      "profilePath": "/d2j4qq0TUasP8if26wIXQOP4kjS.jpg",
+      "order": 0
+    },
+    {
+      "id": "0b0d1d8f-ed4d-4493-b38e-e8f29e6087a6",
+      "tvSeriesId": "d3517acd-80de-40f2-861f-b6ad59cf5b3c",
+      "tmdbPersonId": 3632927,
+      "name": "Itziar Manero",
+      "character": "",
+      "profilePath": "/qX0D6L4zbWx48gkm8khoFcIEV9T.jpg",
+      "order": 1
+    },
+    {
+      "id": "9b470fcf-eceb-47b0-b238-e7ca33cc429a",
+      "tvSeriesId": "d3517acd-80de-40f2-861f-b6ad59cf5b3c",
+      "tmdbPersonId": 1240966,
+      "name": "Ricardo Gómez",
+      "character": "",
+      "profilePath": "/v1wrShJLsBnOypbXdxksvjy4cKG.jpg",
+      "order": 2
+    },
+    {
+      "id": "4c76f445-1255-4777-ad7f-6ac86ca6ba54",
+      "tvSeriesId": "d3517acd-80de-40f2-861f-b6ad59cf5b3c",
+      "tmdbPersonId": 1334530,
+      "name": "Brays Efe",
+      "character": "",
+      "profilePath": "/7eh358DNtQ20jrLnuIqJWFvfIyG.jpg",
+      "order": 3
+    },
+    {
+      "id": "b3d381e5-da77-4f48-a930-080e555eb87f",
+      "tvSeriesId": "d3517acd-80de-40f2-861f-b6ad59cf5b3c",
+      "tmdbPersonId": 1547468,
+      "name": "Lucía de la Fuente",
+      "character": "",
+      "profilePath": "/ibzx2OS7Jgbj8xtNHBgaMB3coUL.jpg",
+      "order": 4
+    },
+    {
+      "id": "55971183-717f-462e-8d25-8b067de2c697",
+      "tvSeriesId": "d3517acd-80de-40f2-861f-b6ad59cf5b3c",
+      "tmdbPersonId": 3299935,
+      "name": "Clara Sans",
+      "character": "",
+      "profilePath": "/sEB5G6mEevLSmreVjQWJVcC1q1I.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "f4d9bf97-8277-456b-a036-35578c924b2b",
+      "tvSeriesId": "d3517acd-80de-40f2-861f-b6ad59cf5b3c",
+      "tmdbId": 458462,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-08-28",
+      "episodeCount": 5,
+      "isPublished": true,
+      "createdAt": "2026-08-28T14:58:45.323Z",
+      "updatedAt": "2026-08-28T15:00:40.128Z"
+    }
+  ]
+}

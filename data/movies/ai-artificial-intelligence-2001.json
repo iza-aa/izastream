@@ -1,0 +1,467 @@
+{
+  "slug": "ai-artificial-intelligence-2001",
+  "id": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+  "tmdbId": 644,
+  "imdbId": "tt0212720",
+  "title": "A.I. Artificial Intelligence",
+  "originalTitle": "A.I. Artificial Intelligence",
+  "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+  "tagline": "David is 11 years old. He weighs 60 pounds. He is 4 feet, 6 inches tall. He has brown hair. His love is real. But he is not.",
+  "posterPath": "/wnUAcUrMRGPPZUDroLeZhSjLkuu.jpg",
+  "backdropPath": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+  "logoPath": "/xBtDksUd6ez4NQ04RWyaqUWYIwM.png",
+  "backdrops": [
+    "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+    "/2tQ0Uhav10ay7jOX6QoqvbtGljB.jpg",
+    "/jP8G8ZuenT0O5nTFGivAwJG5tge.jpg",
+    "/tzv6ZsYXoEuL5MH2lNvf5SW4bsI.jpg",
+    "/rGSNs74r1c9XEBYnWByaHXVCKFa.jpg",
+    "/m9bUv2Gum3RxNYWzc0ExUqVoFc7.jpg",
+    "/30j3GU7qUm3BYRNVWBmRHxZ0g78.jpg",
+    "/46M3OXvntJJ5c45IFvV6Jxm1oGu.jpg",
+    "/bnSMXY1GA3k7yty28YzT2sSqvv4.jpg",
+    "/oQvdAZ6MqgqQq0giJOtabT4QmvT.jpg"
+  ],
+  "releaseDate": "2001-06-29",
+  "runtime": 146,
+  "voteAverage": "7.10",
+  "popularity": null,
+  "popularityScore": 70,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=vzviK8IibAY",
+  "quality": "WEB-DL",
+  "director": "Steven Spielberg",
+  "directorTmdbId": 488,
+  "directorProfilePath": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg",
+  "productionCompanies": [
+    {
+      "id": 56,
+      "name": "Amblin Entertainment",
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png"
+    },
+    {
+      "id": 385,
+      "name": "Stanley Kubrick Productions",
+      "logo_path": null
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+      "id": 7,
+      "name": "DreamWorks Pictures",
+      "logo_path": "/zcKhWbxFJ4CohZ9dLBMxmOArTVn.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 803,
+      "name": "android"
+    },
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 549,
+      "name": "prostitute"
+    },
+    {
+      "id": 310,
+      "name": "artificial intelligence (a.i.)"
+    },
+    {
+      "id": 586,
+      "name": "new jersey"
+    },
+    {
+      "id": 530,
+      "name": "prophecy"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 1603,
+      "name": "extraterrestrial technology"
+    },
+    {
+      "id": 3205,
+      "name": "fairy tale"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 2393,
+      "name": "adoption"
+    },
+    {
+      "id": 2219,
+      "name": "ice age"
+    },
+    {
+      "id": 3246,
+      "name": "prosecution"
+    },
+    {
+      "id": 3248,
+      "name": "gigolo"
+    },
+    {
+      "id": 3249,
+      "name": "hologram"
+    },
+    {
+      "id": 9951,
+      "name": "alien"
+    },
+    {
+      "id": 14544,
+      "name": "robot"
+    },
+    {
+      "id": 40850,
+      "name": "destiny"
+    },
+    {
+      "id": 156702,
+      "name": "capture"
+    },
+    {
+      "id": 161891,
+      "name": "doppelgänger"
+    },
+    {
+      "id": 220903,
+      "name": "humanoid robot"
+    },
+    {
+      "id": 241609,
+      "name": "human android relationship"
+    },
+    {
+      "id": 254915,
+      "name": "robot boy"
+    },
+    {
+      "id": 309029,
+      "name": "psychological drama"
+    },
+    {
+      "id": 316666,
+      "name": "advanced technology"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1517,
+  "watchlistCount": 29,
+  "favouriteCount": 11,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:18:01.064Z",
+  "updatedAt": "2026-10-05T17:38:54.792Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1485095f-2dda-417b-aa36-60899ca85a4e",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 9640,
+      "name": "Haley Joel Osment",
+      "character": "David",
+      "profilePath": "/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg",
+      "order": 0
+    },
+    {
+      "id": "c3dc4b6d-0e53-4f6e-8ab2-43424f8fdfde",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 9642,
+      "name": "Jude Law",
+      "character": "Gigolo Joe",
+      "profilePath": "/6UadpSbfC39WMChAcdnNunzwDxv.jpg",
+      "order": 1
+    },
+    {
+      "id": "2fc8a201-0447-4b88-9a90-6882e505ee45",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 1518,
+      "name": "Frances O'Connor",
+      "character": "Monica Swinton",
+      "profilePath": "/tWGMS7DciV43tlxA6UEc2UqxrhL.jpg",
+      "order": 2
+    },
+    {
+      "id": "160840ab-d38c-4ec2-b522-8291dcfe0565",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 8213,
+      "name": "Sam Robards",
+      "character": "Henry Swinton",
+      "profilePath": "/AqYRpRgNqQopOU5YGfSFVSuIyl9.jpg",
+      "order": 3
+    },
+    {
+      "id": "f2ef0de0-c616-42a9-8d13-08eac639b34b",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 9641,
+      "name": "Jake Thomas",
+      "character": "Martin Swinton",
+      "profilePath": "/rM0IbCQcaCJe37YDu44uIhv6xJX.jpg",
+      "order": 4
+    },
+    {
+      "id": "47187f98-afe5-416c-b947-d197117a3533",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 227,
+      "name": "William Hurt",
+      "character": "Professor Hobby",
+      "profilePath": "/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg",
+      "order": 5
+    },
+    {
+      "id": "dd85fc23-544a-4a29-99e2-d892da115f3f",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 2131,
+      "name": "Ken Leung",
+      "character": "Syatyoo-Sama",
+      "profilePath": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg",
+      "order": 6
+    },
+    {
+      "id": "75ae6dc0-7763-4f32-bee2-344e375d0a1d",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 9048,
+      "name": "Clark Gregg",
+      "character": "Supernerd",
+      "profilePath": "/mq686D91XoZpqkzELn0888NOiZW.jpg",
+      "order": 7
+    },
+    {
+      "id": "a58edcf1-3d06-42ed-933d-3b96258b64eb",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 60633,
+      "name": "Kevin Sussman",
+      "character": "Supernerd",
+      "profilePath": "/tLqrE9uz6GKoeoDC7LU7cE6oF2Q.jpg",
+      "order": 8
+    },
+    {
+      "id": "8283b992-cbf4-4e51-8002-676d98667e47",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 27030,
+      "name": "Tom Gallop",
+      "character": "Supernerd",
+      "profilePath": "/jqbrDxorFinlo6Ae39SL17AvKaf.jpg",
+      "order": 9
+    },
+    {
+      "id": "1f92da61-5bde-4208-a1a9-61c2cc37fedf",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 1004155,
+      "name": "Eugene Osment",
+      "character": "Supernerd",
+      "profilePath": "/3y7IDD8EmpUudkKU5yQsFGXaGq3.jpg",
+      "order": 10
+    },
+    {
+      "id": "5ba29b6a-296f-4d04-adf7-311ae9fcf0cb",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 10691,
+      "name": "April Grace",
+      "character": "Female Colleague",
+      "profilePath": "/nV8nnymN0ClT3xppwhlAtUnjSxa.jpg",
+      "order": 11
+    },
+    {
+      "id": "20574fce-8aa4-4f19-949b-7e3ebea5e32f",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 35521,
+      "name": "Matt Winston",
+      "character": "Executive",
+      "profilePath": "/et38vhCb9y8yGleMRNY2j4nDDyr.jpg",
+      "order": 12
+    },
+    {
+      "id": "d0be5420-4e2f-4768-9c95-b88f9af728c1",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 142736,
+      "name": "Sabrina Grdevich",
+      "character": "Secretary",
+      "profilePath": "/pcTeiiMSRUbgqQ60v0TuiDHvBze.jpg",
+      "order": 13
+    },
+    {
+      "id": "e8963d59-6974-42f0-bca8-9627b09f30ff",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 167195,
+      "name": "Theo Greenly",
+      "character": "Todd",
+      "profilePath": "/dc6CBtEtD5guZp6nCRnDaOz6u79.jpg",
+      "order": 14
+    },
+    {
+      "id": "03c065bb-9965-4d40-a2f7-c287c54b98da",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 1226764,
+      "name": "Jeremy Kissner",
+      "character": "Kid",
+      "profilePath": "/zFpKGVlKGCJ8ijXAOO2H4rO8eQT.jpg",
+      "order": 15
+    },
+    {
+      "id": "378852a8-1327-467d-ab20-a5befe6cb130",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 2310148,
+      "name": "Dillon McEwin",
+      "character": "Kid",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "c1e7d48a-ed2d-4e27-b1de-13775e147924",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 151228,
+      "name": "Andy Morrow",
+      "character": "Kid",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "af381776-7023-42b7-9e2b-c4e9dc1965e1",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 1605123,
+      "name": "Curt Youngberg",
+      "character": "Kid",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "396c6aed-e9b6-441d-90e7-9afcbb7a9957",
+      "movieId": "37350dcc-2f31-4ec7-b904-ddd5db456a53",
+      "tmdbPersonId": 71128,
+      "name": "Ashley Scott",
+      "character": "Gigolo Jane",
+      "profilePath": "/7k7Sa5U8F5XL9Gjnn6OP5YsyBXF.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

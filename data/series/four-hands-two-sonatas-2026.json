@@ -1,0 +1,95 @@
+{
+  "slug": "four-hands-two-sonatas-2026",
+  "id": "829d69a0-b40b-4de0-bf07-c1a447a77ef1",
+  "title": "Four Hands, Two Sonatas",
+  "overview": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
+  "tagline": "Two geniuses, one piano - and dissonance that resonates.",
+  "posterPath": "/mAqSwg54TsiihfsKJqpp3zI9UJu.jpg",
+  "backdropPath": "/333F4snFCr7RRXGbzWTgp1pnTWT.jpg",
+  "logoPath": "/ioBZEKDQ390CyxwPQXxHkRD7G9K.png",
+  "firstAirDate": "2026-08-29",
+  "voteAverage": "9.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "da13228b-52b4-4162-a246-36c422ad63fb",
+      "tvSeriesId": "829d69a0-b40b-4de0-bf07-c1a447a77ef1",
+      "tmdbPersonId": 1878952,
+      "name": "Song Kang",
+      "character": "Kang Pi-o",
+      "profilePath": "/83fLAMMb1LGT8YZ4dgRI0fti3az.jpg",
+      "order": 0
+    },
+    {
+      "id": "22458053-ac56-41ce-aafe-b9f4d92a4825",
+      "tvSeriesId": "829d69a0-b40b-4de0-bf07-c1a447a77ef1",
+      "tmdbPersonId": 1904058,
+      "name": "Lee Jun-young",
+      "character": "Choi Jeong-yo",
+      "profilePath": "/zH8kiGox6n3FD82MKEhUq79X6gj.jpg",
+      "order": 1
+    },
+    {
+      "id": "833ad0f8-c068-47fd-93fb-36a7adde04ac",
+      "tvSeriesId": "829d69a0-b40b-4de0-bf07-c1a447a77ef1",
+      "tmdbPersonId": 3159475,
+      "name": "Jang Gyu-ri",
+      "character": "Jae-in",
+      "profilePath": "/u232DZRv4WBpOT6HKPnUR7DLQMq.jpg",
+      "order": 2
+    },
+    {
+      "id": "7ea036eb-d0be-4521-915f-9188535fc36d",
+      "tvSeriesId": "829d69a0-b40b-4de0-bf07-c1a447a77ef1",
+      "tmdbPersonId": 2736784,
+      "name": "Kim Ju-hun",
+      "character": "Do Hyeon-su",
+      "profilePath": "/xkj3d7zNoHW2veJboV11WemxMbi.jpg",
+      "order": 3
+    },
+    {
+      "id": "c2f7b1ef-9eca-496f-852e-ec4a212ed433",
+      "tvSeriesId": "829d69a0-b40b-4de0-bf07-c1a447a77ef1",
+      "tmdbPersonId": 232408,
+      "name": "Yoon Se-a",
+      "character": "Kang Ji-hye",
+      "profilePath": "/wdytv8MZeNjulCR4nMmpreuDS6w.jpg",
+      "order": 4
+    },
+    {
+      "id": "7b30e95c-9e96-488b-9412-b0399323828e",
+      "tvSeriesId": "829d69a0-b40b-4de0-bf07-c1a447a77ef1",
+      "tmdbPersonId": 3156313,
+      "name": "Lee Sang-jun",
+      "character": "Han Rim",
+      "profilePath": "/kmc1v6MRTtAshBIM55lcZtulAMt.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "37e1db6c-7348-4832-a54b-99942cc17f2d",
+      "tvSeriesId": "829d69a0-b40b-4de0-bf07-c1a447a77ef1",
+      "tmdbId": 484860,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/1P9X8qdB1xZhoJ1PvxVukY8kRXv.jpg",
+      "airDate": "2026-08-29",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-08-29T17:35:30.800Z",
+      "updatedAt": "2026-10-04T18:06:45.050Z"
+    }
+  ]
+}

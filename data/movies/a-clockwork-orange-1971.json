@@ -1,0 +1,462 @@
+{
+  "slug": "a-clockwork-orange-1971",
+  "id": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+  "tmdbId": 185,
+  "imdbId": "tt0066921",
+  "title": "A Clockwork Orange",
+  "originalTitle": "A Clockwork Orange",
+  "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+  "tagline": "Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.",
+  "posterPath": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+  "backdropPath": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+  "logoPath": "/irRlKJHgl7BNn4HsCnWL0TeZviH.png",
+  "backdrops": [
+    "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+    "/3hwKS7e21hzEnXZaOs2FE6e97bc.jpg",
+    "/a6r0DnAQdnR0758H1V4tbhHdB8Q.jpg",
+    "/3w2v0iNPPNeIKOV5wu1NU1DDHHy.jpg",
+    "/keblhZFIZYiWflmURWNHEuS2jqL.jpg",
+    "/ysnVjBz5iRSRSl3xrNcQTUfa4L3.jpg",
+    "/a4xb2R1u4i1YO9EmfSD1P7DjTKZ.jpg",
+    "/pvNswKh0zxEApo0Gz4Bf0RwVzIw.jpg",
+    "/so4bY5uzvEnu2zqxs5mNytmGDUG.jpg",
+    "/p8bzZZDkG5wm0YHhXdK5MTOKOUX.jpg"
+  ],
+  "releaseDate": "1971-10-28",
+  "runtime": 137,
+  "voteAverage": "8.20",
+  "popularity": null,
+  "popularityScore": 372,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=2meAsIclTzQ",
+  "quality": "BLU-RAY",
+  "director": "Stanley Kubrick",
+  "directorTmdbId": 240,
+  "directorProfilePath": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+  "productionCompanies": [
+    {
+      "id": 234371,
+      "name": "Polaris Productions Limited",
+      "logo_path": null
+    },
+    {
+      "id": 174,
+      "name": "Warner Bros. Pictures",
+      "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+      "id": 88,
+      "name": "Hawk Films",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 796,
+      "name": "police brutality"
+    },
+    {
+      "id": 642,
+      "name": "robbery"
+    },
+    {
+      "id": 542,
+      "name": "street gang"
+    },
+    {
+      "id": 1025,
+      "name": "great britain"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1541,
+      "name": "nihilism"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 3679,
+      "name": "society"
+    },
+    {
+      "id": 738,
+      "name": "sexuality"
+    },
+    {
+      "id": 2438,
+      "name": "social worker"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 9849,
+      "name": "beating"
+    },
+    {
+      "id": 14857,
+      "name": "juvenile delinquent"
+    },
+    {
+      "id": 14903,
+      "name": "home invasion"
+    },
+    {
+      "id": 189409,
+      "name": "sex crime"
+    },
+    {
+      "id": 192260,
+      "name": "futuristic society"
+    },
+    {
+      "id": 226738,
+      "name": "ultraviolence"
+    },
+    {
+      "id": 238189,
+      "name": "social decay"
+    },
+    {
+      "id": 244530,
+      "name": "malicious"
+    },
+    {
+      "id": 261264,
+      "name": "dreary"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    },
+    {
+      "id": 325834,
+      "name": "mean spirited"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1863,
+  "watchlistCount": 72,
+  "favouriteCount": 17,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T17:15:18.806Z",
+  "updatedAt": "2026-10-25T17:19:34.855Z",
+  "genres": [
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e8c38129-7854-4767-94ea-b5f6711ed684",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 56890,
+      "name": "Malcolm McDowell",
+      "character": "Alex",
+      "profilePath": "/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg",
+      "order": 0
+    },
+    {
+      "id": "093d9f68-ef5f-4a7b-a04a-cd736848ea98",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2264,
+      "name": "Patrick Magee",
+      "character": "Mr. Alexander",
+      "profilePath": "/99xStF5zQy6qkDxLnIVaKD3urzI.jpg",
+      "order": 1
+    },
+    {
+      "id": "4e98d8b3-0c69-4b1b-aa1d-3edd9cac7127",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2272,
+      "name": "Carl Duering",
+      "character": "Dr. Brodsky",
+      "profilePath": "/idrRJuQErZ2cj8F8II1LikeTgb1.jpg",
+      "order": 2
+    },
+    {
+      "id": "5ff4803c-30f8-4bf6-a53e-4ddceaec35f6",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2267,
+      "name": "Michael Bates",
+      "character": "Chief Guard",
+      "profilePath": "/53ciikCHIcr1thlDFvQtzNNbFAd.jpg",
+      "order": 3
+    },
+    {
+      "id": "77d18f96-17a4-48e0-84ff-09f97136e151",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2268,
+      "name": "Warren Clarke",
+      "character": "Dim",
+      "profilePath": "/gqIPFhAaTvFZVmNiXnPtV3k4JBV.jpg",
+      "order": 4
+    },
+    {
+      "id": "8547f67a-72c0-41e0-83b9-b2a0db10db31",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2270,
+      "name": "James Marcus",
+      "character": "Georgie",
+      "profilePath": "/keW0TRtGZ15oA12jsEYfqeLEq8v.jpg",
+      "order": 5
+    },
+    {
+      "id": "0a24c8c8-3756-4043-8f02-f7a6a03f13bb",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2271,
+      "name": "Michael Tarn",
+      "character": "Pete",
+      "profilePath": "/34dqPwJtsB3CrXShZA8zhm7pq0c.jpg",
+      "order": 6
+    },
+    {
+      "id": "71dcea81-19b1-4195-a653-0046e8154c42",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2274,
+      "name": "Miriam Karlin",
+      "character": "Catlady",
+      "profilePath": "/3VbYzKcHJdVYGkrBcqMgcKRmICE.jpg",
+      "order": 7
+    },
+    {
+      "id": "60a868db-bdd3-438e-9b26-2dbf0925ee88",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2265,
+      "name": "Adrienne Corri",
+      "character": "Mrs. Alexander",
+      "profilePath": "/jlwXRVJUscG3GnYGfBXT5KDCbss.jpg",
+      "order": 8
+    },
+    {
+      "id": "34402d4d-1249-40a2-9683-b7cb6c6b5646",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2276,
+      "name": "Sheila Raynor",
+      "character": "Mum",
+      "profilePath": "/ixB326sr3OGS6YzqR87T776aqbW.jpg",
+      "order": 9
+    },
+    {
+      "id": "ef806cdf-b2ea-4eec-8cdf-682ad0dc9759",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 694,
+      "name": "Philip Stone",
+      "character": "Dad",
+      "profilePath": "/l9riEGDgSK1NkVDUN6fn1TaXdpy.jpg",
+      "order": 10
+    },
+    {
+      "id": "d2bbddd3-2af0-4eb4-8cf7-9e57e1ee4f16",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2278,
+      "name": "Aubrey Morris",
+      "character": "Deltoid",
+      "profilePath": "/xuiSnXTy96VqANZq2x59pCEKb7z.jpg",
+      "order": 11
+    },
+    {
+      "id": "a4659ab9-0e6a-432e-861d-7497fd88b776",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2280,
+      "name": "Clive Francis",
+      "character": "Lodger",
+      "profilePath": "/lB0AiyMGrXcUN6JQWpPbxbzK7os.jpg",
+      "order": 12
+    },
+    {
+      "id": "26717ba2-e1d7-48d9-8080-a4fbcc631e6b",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 117548,
+      "name": "John Clive",
+      "character": "Stage Actor",
+      "profilePath": "/byi1kf7LWeo5BtTCRonQOTzKjsQ.jpg",
+      "order": 13
+    },
+    {
+      "id": "bf798365-6899-4185-83e7-a17182defd29",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2273,
+      "name": "Paul Farrell",
+      "character": "Tramp",
+      "profilePath": "/pobD8UuwqAWibufj4SUMnVUYj4p.jpg",
+      "order": 14
+    },
+    {
+      "id": "75c71eb6-707b-4cf8-b9af-1e226d3f947e",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 1231170,
+      "name": "Michael Gover",
+      "character": "Prison Governor",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "fdd838b9-f202-4627-ace3-04f27d91ed54",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2279,
+      "name": "Godfrey Quigley",
+      "character": "Prison Chaplain",
+      "profilePath": "/zMin1p0TRMR86wsU6aoSE2xa0r.jpg",
+      "order": 16
+    },
+    {
+      "id": "e3d459b7-0898-4ba0-8111-6d4081007690",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 39033,
+      "name": "Madge Ryan",
+      "character": "Dr. Branom",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "c65097fe-95b4-4ef5-b6ad-75919e9fabba",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 44700,
+      "name": "Anthony Sharp",
+      "character": "Minister",
+      "profilePath": "/ksLGc0kaLs70bsurpmPVFFn28AW.jpg",
+      "order": 18
+    },
+    {
+      "id": "ea0b7b82-41f7-4d01-ad5b-3e84a059bb48",
+      "movieId": "51e24e5f-fdab-46f5-bd77-ecc6cba0fb89",
+      "tmdbPersonId": 2292,
+      "name": "Pauline Taylor",
+      "character": "Psychiatrist",
+      "profilePath": "/qvCEoqB4oKNIgWBDuxgZvHP0CjS.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "lafilledhiver__",
+    "displayName": "lafilledhiver"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

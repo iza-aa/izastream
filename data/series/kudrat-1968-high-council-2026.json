@@ -1,0 +1,152 @@
+{
+  "slug": "kudrat-1968-high-council-2026",
+  "id": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+  "title": "Kudrat 1968: High Council",
+  "overview": "Abbas enrolls at KUDRAT, an institution bearing his estranged father's name, where a troubling history forces him to confront a legacy he never wanted.",
+  "tagline": "Our blood is not the same",
+  "posterPath": "/lUWkBvO3X4AhQhHQEsfZJX5xigo.jpg",
+  "backdropPath": "/lO7pjQxp65V0zRaWDPTVlg9mkmc.jpg",
+  "logoPath": "/nRWTXsKklC6NHKyZrRZiEc6QTXH.png",
+  "firstAirDate": "2026-09-11",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8d65101f-efed-49f4-a4cb-5a84cdb817c6",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbPersonId": 5350879,
+      "name": "Zarif Ghazzi",
+      "character": "Abbas",
+      "profilePath": "/msYDHqsti08lbH4pUgTtlmF7wRO.jpg",
+      "order": 0
+    },
+    {
+      "id": "380f0c80-89cc-4029-9176-01dbb97eec6e",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbPersonId": 2486019,
+      "name": "Mierul Aiman",
+      "character": "Kuda",
+      "profilePath": "/tgU9JBX8bdtSVkqpfq1666Sl67R.jpg",
+      "order": 1
+    },
+    {
+      "id": "21869848-1672-4c8a-a55a-be438187dd41",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbPersonId": 5885140,
+      "name": "Dai Fuad",
+      "character": "Pa",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "e2025600-c24d-4a29-b88a-ad91d440f137",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbPersonId": 4255094,
+      "name": "Akmal Asyraf",
+      "character": "Piji",
+      "profilePath": null,
+      "order": 3
+    },
+    {
+      "id": "096ac70a-959e-48f5-b611-baa261b8a38f",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbPersonId": 6393470,
+      "name": "Chech Harith",
+      "character": "Mazli",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "61776eb8-bec1-4252-80bf-46a0c8ed1325",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbPersonId": 6393471,
+      "name": "Evertts Gomes",
+      "character": "Ghafar",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "59e2be2b-50f9-4e75-be5c-2d0668242356",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbPersonId": 1279223,
+      "name": "Zamarul Hisham",
+      "character": "Zainal",
+      "profilePath": "/3BTcaeCnMVe5Oj8U71L7LXPVjje.jpg",
+      "order": 6
+    },
+    {
+      "id": "ae7f1824-361c-445e-b325-50e2ec5bcbfd",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbPersonId": 1179474,
+      "name": "Nabila Huda",
+      "character": "Nur",
+      "profilePath": "/5eJJddVlGSkh4vExtF4TmfNFh7G.jpg",
+      "order": 7
+    },
+    {
+      "id": "645b8da0-8205-43d0-8271-4e60cdad090d",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbPersonId": 6553328,
+      "name": "Johnny Gillett",
+      "character": "Gerald",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "0275e2a9-b1a1-400f-b7c4-98eb7f97e8fa",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbPersonId": 1741525,
+      "name": "Aleza Shadan",
+      "character": "Jah",
+      "profilePath": "/tfouksQg2SSVjLEWzUS8Gprhxzy.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "fcbfc707-690b-4189-81be-31525307ce88",
+      "tvSeriesId": "5b5b5e8d-1487-4922-9d6c-77c9fe6092c8",
+      "tmdbId": 541299,
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/bmZTY1RZOyz2e3sxPMduEUv4ym7.jpg",
+      "airDate": "2026-09-11",
+      "episodeCount": 4,
+      "isPublished": true,
+      "createdAt": "2026-10-17T15:58:56.489Z",
+      "updatedAt": "2026-10-17T15:59:35.421Z"
+    }
+  ]
+}

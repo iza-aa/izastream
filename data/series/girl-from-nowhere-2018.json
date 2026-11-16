@@ -1,0 +1,78 @@
+{
+  "slug": "girl-from-nowhere-2018",
+  "id": "db8318af-9918-4e7a-990b-fb06fd7805ef",
+  "title": "Girl from Nowhere",
+  "overview": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn.",
+  "tagline": "It's the victim's turn to teach you a lesson.",
+  "posterPath": "/9hDXqzN5l4lBmEtb8IstXr91k8z.jpg",
+  "backdropPath": "/zcYqSMR4PcD4zFnVuXIGgt2Qi5.jpg",
+  "logoPath": "/iLHmXwHRQxmTGBjXuRJqmcQk8Im.png",
+  "firstAirDate": "2018-10-27",
+  "voteAverage": "8.50",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 21,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "074228ad-b77f-4b71-b534-b1c77286b69f",
+      "tvSeriesId": "db8318af-9918-4e7a-990b-fb06fd7805ef",
+      "tmdbPersonId": 2278988,
+      "name": "Chicha Amatayakul",
+      "character": "Nanno",
+      "profilePath": "/dcFSpsJf2ZJ9beW5Ckq6iGRYQBV.jpg",
+      "order": 0
+    }
+  ],
+  "seasons": [
+    {
+      "id": "9e763500-d36b-43a6-9a64-464353a139c8",
+      "tvSeriesId": "db8318af-9918-4e7a-990b-fb06fd7805ef",
+      "tmdbId": 111829,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn.",
+      "posterPath": "/9hDXqzN5l4lBmEtb8IstXr91k8z.jpg",
+      "airDate": "2018-10-27",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-04-05T09:23:21.853Z",
+      "updatedAt": "2026-04-05T09:23:21.853Z"
+    },
+    {
+      "id": "e18d09ff-e0ae-4a9d-aec3-388d8152d769",
+      "tvSeriesId": "db8318af-9918-4e7a-990b-fb06fd7805ef",
+      "tmdbId": 191330,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "Nanno is back, doling karmic retribution to more students and faculty — and this time, she’s not alone.",
+      "posterPath": "/yWgFtEpZBjau8zDwgKpLCTHbDp6.jpg",
+      "airDate": "2021-05-07",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-04-05T09:23:22.089Z",
+      "updatedAt": "2026-04-05T09:23:22.089Z"
+    }
+  ]
+}

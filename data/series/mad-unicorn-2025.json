@@ -1,0 +1,131 @@
+{
+  "slug": "mad-unicorn-2025",
+  "id": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+  "title": "Mad Unicorn",
+  "overview": "An aspiring entrepreneur breaks new ground with the launch of a startup courier service that brings new opportunities — and powerful enemies.",
+  "tagline": "From nobody to unicorn, the underdog takes on the tycoon.",
+  "posterPath": "/pKHgfFTsviq9C6NZmkQKciFH4Qc.jpg",
+  "backdropPath": "/65Ku5mNJIoBa6gxMsRpsjDPpz6s.jpg",
+  "logoPath": "/kMAF9CAg9u5XCyyLdb5PFPmexrU.png",
+  "firstAirDate": "2025-05-29",
+  "voteAverage": "8.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ef5ef0af-203c-47a3-8812-a2e76a7ed274",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbPersonId": 2395169,
+      "name": "Natara Nopparatayapon",
+      "character": "Santi",
+      "profilePath": "/it9aFcm0bDMwXmjl9BoXyQ5Hcwr.jpg",
+      "order": 0
+    },
+    {
+      "id": "f93f53d5-ad27-4034-93db-fc8220c1b282",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbPersonId": 2874193,
+      "name": "Methika Jiranorraphat",
+      "character": "Xiao Yu",
+      "profilePath": "/qUlGChMUXY8KG2OEUY8rVcB6dg8.jpg",
+      "order": 1
+    },
+    {
+      "id": "d7a28db2-cd7e-41a7-982c-a79667c3607e",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbPersonId": 5239241,
+      "name": "Palang Rocksilp",
+      "character": "Rui Jie",
+      "profilePath": "/bjvgjMxMuJThTNm0TGM1nLz4Te6.jpg",
+      "order": 2
+    },
+    {
+      "id": "f7e65ebd-150e-4134-82ad-551d887a2786",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbPersonId": 1743358,
+      "name": "Thaneth Warakulnukroh",
+      "character": "Khanin",
+      "profilePath": "/jQBCefKZTK1U1BusbpH0OWpYjXB.jpg",
+      "order": 3
+    },
+    {
+      "id": "356908c2-e525-493a-9f9e-d4c3827db02a",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbPersonId": 931444,
+      "name": "Pachara Chirathivat",
+      "character": "Ken",
+      "profilePath": "/xmHjL8pN5DN0drMADVfSHBp1zy8.jpg",
+      "order": 4
+    },
+    {
+      "id": "23b25a82-6022-45f1-a873-de9ef2049d02",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbPersonId": 1910848,
+      "name": "Thassapak Hsu",
+      "character": "Liam",
+      "profilePath": "/qhzw3jHkraonN80FukA2yBltLbX.jpg",
+      "order": 5
+    },
+    {
+      "id": "bb2f379d-8859-49fa-bb0c-8341984f6020",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbPersonId": 2597928,
+      "name": "Anongnart Yusananda",
+      "character": "Linux",
+      "profilePath": "/vA7CrxV4uwCagsYXnOkSQMWH64O.jpg",
+      "order": 6
+    },
+    {
+      "id": "3a78b8a7-6d3a-4c6f-9c27-40c76a1ba1c6",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbPersonId": 4593114,
+      "name": "Sira Simmee",
+      "character": "Bom",
+      "profilePath": "/aaq5Ym05XPwJPU2561dnysnJ3Is.jpg",
+      "order": 7
+    },
+    {
+      "id": "0e867390-6cc7-46c4-b709-1634b6f6a658",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbPersonId": 3918066,
+      "name": "Tanapak Jongjaiphar",
+      "character": "Thongchai",
+      "profilePath": "/z1cdaFD38knuFoflMQ9MB3fH8Fg.jpg",
+      "order": 8
+    },
+    {
+      "id": "498ee7ca-19e8-4adb-af4e-79f9913219eb",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbPersonId": 4005131,
+      "name": "Tipargon Chaiprasit",
+      "character": "Army",
+      "profilePath": "/wDmNUtQz6f1SmKivqgeS5v8du1Y.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "28a235eb-0c5a-4542-8bc6-3312f8984dbb",
+      "tvSeriesId": "912cf4f6-f279-4c5b-b8db-e8eb68688313",
+      "tmdbId": 441625,
+      "seasonNumber": 1,
+      "name": "Limited Series",
+      "overview": "",
+      "posterPath": "/7QeX24363a9AeaZ7UnIpFHDlH1F.jpg",
+      "airDate": "2025-05-29",
+      "episodeCount": 7,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:40:37.538Z",
+      "updatedAt": "2026-04-02T17:40:37.538Z"
+    }
+  ]
+}

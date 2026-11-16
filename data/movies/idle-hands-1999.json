@@ -1,0 +1,423 @@
+{
+  "slug": "idle-hands-1999",
+  "id": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+  "tmdbId": 6552,
+  "imdbId": "tt0138510",
+  "title": "Idle Hands",
+  "originalTitle": "Idle Hands",
+  "overview": "Anton is a cheerful but exceedingly non-ambitious 17-year-old stoner who lives to stay buzzed, watch TV, and moon over Molly, the beautiful girl who lives next door. However, it turns out that the old cliché about idle hands being the devil's playground has a kernel of truth after all.",
+  "tagline": "The touching story of a boy and his right hand.",
+  "posterPath": "/mCO4gU1lkViGXTkoRBEYrvjDIJu.jpg",
+  "backdropPath": "/aPdLqBzNo5rBfnZxy15VTc65lO2.jpg",
+  "logoPath": "/37HHg75WTEgYA2hxCY33Qe5kI46.png",
+  "backdrops": [
+    "/aPdLqBzNo5rBfnZxy15VTc65lO2.jpg",
+    "/vSX4JjjifAUnF4PD5J9czE4Fz0C.jpg",
+    "/izb5Hd0Td96cOz5HUTnZBgBffTk.jpg",
+    "/rmoxJHtIo5a9pZ55ZVN7HVnx6ng.jpg",
+    "/muY2OBQpv75O4mCTo0EQ2dn4uZ7.jpg",
+    "/gi25QCggVt0jF2DfassKAVpOcU.jpg",
+    "/sDz8VX2dnw75EucBvmlkdA7D4rY.jpg",
+    "/rwE8EuMozAsOjDtVjmMJcn3HsgS.jpg",
+    "/ofT7OuYGCI9fYgyoMfpXJlU76e9.jpg",
+    "/zNhJqonWquL8GIuBo0u6QWf9QXh.jpg"
+  ],
+  "releaseDate": "1999-04-30",
+  "runtime": 92,
+  "voteAverage": "6.20",
+  "popularity": null,
+  "popularityScore": 55,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=HcVrp--9UUc",
+  "quality": "WEB-DL",
+  "director": "Rodman Flender",
+  "directorTmdbId": 50719,
+  "directorProfilePath": "/wTIDAjUXCIbZnJqimRn7TVIYWG.jpg",
+  "productionCompanies": [
+    {
+      "id": 6092,
+      "name": "Licht/Mueller Film Corporation",
+      "logo_path": null
+    },
+    {
+      "id": 598,
+      "name": "Team Todd",
+      "logo_path": null
+    },
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+      "id": 559,
+      "name": "TriStar Pictures",
+      "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 54169,
+      "name": "stoner"
+    },
+    {
+      "id": 155619,
+      "name": "attic"
+    },
+    {
+      "id": 178253,
+      "name": "knitting needle"
+    },
+    {
+      "id": 178256,
+      "name": "noise complaint"
+    },
+    {
+      "id": 178259,
+      "name": "crawling hand"
+    },
+    {
+      "id": 178261,
+      "name": "angel costume"
+    },
+    {
+      "id": 178265,
+      "name": "trowel"
+    },
+    {
+      "id": 178269,
+      "name": "bass guitarist"
+    },
+    {
+      "id": 178271,
+      "name": "priestess"
+    },
+    {
+      "id": 287660,
+      "name": "demon hand"
+    },
+    {
+      "id": 302399,
+      "name": "stoner comedy"
+    },
+    {
+      "id": 309060,
+      "name": "teen horror"
+    },
+    {
+      "id": 352581,
+      "name": "comedy horror"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1610,
+  "watchlistCount": 14,
+  "favouriteCount": 4,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-18T09:18:26.569Z",
+  "updatedAt": "2026-09-18T09:19:03.334Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6e9c037f-f9f5-4ac4-969e-20099f8c3093",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 50398,
+      "name": "Devon Sawa",
+      "character": "Anton",
+      "profilePath": "/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg",
+      "order": 0
+    },
+    {
+      "id": "708fe656-5962-4b37-9efd-5214ccad6874",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 13922,
+      "name": "Seth Green",
+      "character": "Mick",
+      "profilePath": "/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg",
+      "order": 1
+    },
+    {
+      "id": "84741a2e-b74a-4bf9-b941-c66c57299253",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 20220,
+      "name": "Elden Henson",
+      "character": "Pnub",
+      "profilePath": "/8U5g30U76UJe0erbJdWjGLVz7NF.jpg",
+      "order": 2
+    },
+    {
+      "id": "14685167-f454-4f59-bb89-7908b1f1faeb",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 56731,
+      "name": "Jessica Alba",
+      "character": "Molly",
+      "profilePath": "/hPoy6FRfiCIxguX3w2CoBbDoaEV.jpg",
+      "order": 3
+    },
+    {
+      "id": "8413b7e3-4abd-4f47-84bd-c45515f93ef3",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 2535,
+      "name": "Vivica A. Fox",
+      "character": "Debi",
+      "profilePath": "/oIzevp0dqjIxqRQ2VoSzjiDCBt.jpg",
+      "order": 4
+    },
+    {
+      "id": "059ffbee-9899-42a0-b26a-2df9c40c0c0e",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 22133,
+      "name": "Jack Noseworthy",
+      "character": "Randy",
+      "profilePath": "/gB89s2gEp2NL0vcYwegyxvV2oBn.jpg",
+      "order": 5
+    },
+    {
+      "id": "a69a964a-b194-43bf-96d5-799eef821fed",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 50400,
+      "name": "Christopher Hart",
+      "character": "The Hand",
+      "profilePath": "/nnabESYRFPdM40HE34z9lXsosKr.jpg",
+      "order": 6
+    },
+    {
+      "id": "cf2fb32a-9728-4b7d-9cb4-91dc6b1be082",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 50401,
+      "name": "Katie Wright",
+      "character": "Tanya",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "4779b845-7765-4d1a-9297-9b990d54fdfb",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 9996,
+      "name": "Sean Whalen",
+      "character": "McMacy",
+      "profilePath": "/nUPHcRagVWhH21mIS4Qdeoclhr5.jpg",
+      "order": 8
+    },
+    {
+      "id": "87d5d021-f471-43cc-a08e-ba7b5f3466c9",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 50402,
+      "name": "Nicholas Sadler",
+      "character": "Ruck",
+      "profilePath": "/mbIXwkcpmv3PBAjTvkCzHRe0hUy.jpg",
+      "order": 9
+    },
+    {
+      "id": "29498e3d-3a6c-4036-86fa-b2012fc24aa1",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 20753,
+      "name": "Fred Willard",
+      "character": "Dad",
+      "profilePath": "/AaHxpkee9nQfBpQeDyJLoPNtYR6.jpg",
+      "order": 10
+    },
+    {
+      "id": "95363502-832c-47c5-816c-30cb4000aea5",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 35517,
+      "name": "Connie Ray",
+      "character": "Mom",
+      "profilePath": "/gvJIXnCrzLYFQ3ZSNd2I5vjehOm.jpg",
+      "order": 11
+    },
+    {
+      "id": "b464c107-ff00-4ac3-b166-ec607cf01dbc",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 108438,
+      "name": "Steve Van Wormer",
+      "character": "Curtis",
+      "profilePath": "/uDqbfr04mAstPIhhNi8gB6VdUin.jpg",
+      "order": 12
+    },
+    {
+      "id": "26ec51d6-5d15-4deb-8335-6fcff7108aca",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 177522,
+      "name": "Kelly Monaco",
+      "character": "Tiffany",
+      "profilePath": "/sg7bBfmHr6WRpeFo33oWf9wtkdk.jpg",
+      "order": 13
+    },
+    {
+      "id": "9383e872-c6ba-4735-94ab-8c2bffea572d",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 28168,
+      "name": "Timothy Stack",
+      "character": "Principal Tidwell",
+      "profilePath": "/wMOpamq0meq9NSE5MMMV4x1MjFJ.jpg",
+      "order": 14
+    },
+    {
+      "id": "97d7c21a-b5d2-48e1-a9d3-224d043b36b3",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 9998,
+      "name": "Joey Slotnick",
+      "character": "Burger Jungle Manager",
+      "profilePath": "/obbw43JPkgMHMqJIQthigopTOC9.jpg",
+      "order": 15
+    },
+    {
+      "id": "1d43c7ef-55ec-4d4b-b78e-56ac439042d9",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 84546,
+      "name": "Tom DeLonge",
+      "character": "Drive Thru Jockey",
+      "profilePath": "/zj82GtmVfgn95Jlw1jmrUQCIC5W.jpg",
+      "order": 16
+    },
+    {
+      "id": "68716611-336a-4d32-8c47-b43d85c96979",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 1089116,
+      "name": "Sabrina Lu",
+      "character": "News Reporter",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "3ab45f28-4d9d-428a-8431-56f61223de69",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 22297,
+      "name": "Kyle Gass",
+      "character": "Burger Jungle Guy",
+      "profilePath": "/aLeTBMicOFIyBmggxIQ7H5AyjNK.jpg",
+      "order": 18
+    },
+    {
+      "id": "61eb4d13-5045-4f27-84de-760a4918acba",
+      "movieId": "4b8f6af9-e53d-4fdd-93d4-672a4140719a",
+      "tmdbPersonId": 13924,
+      "name": "Mindy Sterling",
+      "character": "Lady Bowler",
+      "profilePath": "/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

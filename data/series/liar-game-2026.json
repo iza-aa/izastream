@@ -1,0 +1,138 @@
+{
+  "slug": "liar-game-2026",
+  "id": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+  "title": "LIAR GAME",
+  "overview": "When Nao Kanzaki receives a strange letter and a suitcase containing 100 million yen, she learns that she has been selected to participate in the LIAR GAME. In this high-stakes psychological battle, lies, deception, and betrayal reign supreme. Naïve and honest, Nao turns to Shinichi Akiyama, a brilliant former con artist, to survive the twisted game. In a game built on lies, can honesty prevail?",
+  "tagline": "Trust. Doubt.",
+  "posterPath": "/w8yyntTxZlDlZ2TR8kb4C92pmcO.jpg",
+  "backdropPath": "/Ag6VnSAb1g02YWHYxYFKRUiBtnc.jpg",
+  "logoPath": "/n6hjDin7PkTHgEVU5uY5fxgh84o.png",
+  "firstAirDate": "2026-04-07",
+  "voteAverage": "7.30",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0e17317a-870a-4bc5-8fda-4885d0cb94b1",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbPersonId": 4077076,
+      "name": "Saya Hitomi",
+      "character": "Kanzaki Nao (voice)",
+      "profilePath": "/tPIYjacKzIM0dYmEAE6iYWesk13.jpg",
+      "order": 0
+    },
+    {
+      "id": "291ec62a-4e02-474b-92c8-23672aba1b97",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbPersonId": 1279666,
+      "name": "Takeo Otsuka",
+      "character": "Akiyama Shinichi (voice)",
+      "profilePath": "/wqeAMR0HOGUPBXz0TCNxDR51cQy.jpg",
+      "order": 1
+    },
+    {
+      "id": "f99c7dbb-a3cc-47b8-8c6d-776abac01e48",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbPersonId": 1506177,
+      "name": "Kazuhiro Nakaya",
+      "character": "Reronira (voice)",
+      "profilePath": "/vUvylrrCbHswwckUovCkeMrFWcz.jpg",
+      "order": 2
+    },
+    {
+      "id": "2ca8629a-0caf-45b3-b62b-b61fab810e10",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbPersonId": 1221143,
+      "name": "Nobuo Tobita",
+      "character": "Fujisawa Kazuo (voice)",
+      "profilePath": "/8p47dHvcEvr7CPYIHpxlQcpZmtm.jpg",
+      "order": 3
+    },
+    {
+      "id": "3fe221b0-97ac-4b07-8a40-45b348b0def5",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbPersonId": 1264228,
+      "name": "Yoji Ueda",
+      "character": "Tanimura Mitsuo (voice)",
+      "profilePath": "/fHvIfE0Q7ab0DFlkNVFcXvTKX9y.jpg",
+      "order": 4
+    },
+    {
+      "id": "a34a1ff3-9568-48b2-b3b1-bf3b416ce8ff",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbPersonId": 3486650,
+      "name": "Yasutaka Tomioka",
+      "character": "Eda Teruyuki (voice)",
+      "profilePath": "/b15hQ8RcDF5OM8hyP8SUJgGxFly.jpg",
+      "order": 5
+    },
+    {
+      "id": "04d4172c-6e08-482b-a961-052ce9744883",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbPersonId": 2590390,
+      "name": "Shoya Ishige",
+      "character": "Kikuzawa Takahiro (voice)",
+      "profilePath": "/ohW9TNSoiL9n5SgLBbAj85wJXAA.jpg",
+      "order": 6
+    },
+    {
+      "id": "3207fdea-ebbf-40f5-8310-2acc8fb283a5",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbPersonId": 3201773,
+      "name": "Ryosuke Asano",
+      "character": "Kitamura Hiroto (voice)",
+      "profilePath": "/2W9xSfqU2HR9yDDq8f48Cfomqx7.jpg",
+      "order": 7
+    },
+    {
+      "id": "6b98ca1d-055a-464d-9774-3730b98c6a72",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbPersonId": 1696913,
+      "name": "Taro Kiuchi",
+      "character": "Sato Tetsuzo (voice)",
+      "profilePath": "/wzLSYTwQGIXdfaSeXtDZ7FfMBFt.jpg",
+      "order": 8
+    },
+    {
+      "id": "3acb2caf-3f56-4e8e-9db4-5290e588a3a2",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbPersonId": 4995782,
+      "name": "Riko Akechi",
+      "character": "Tamura Makiko (voice)",
+      "profilePath": "/kKRgzjXnlY0OzcqIW1mv71syCiq.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "95ca6b3f-ef34-4ae4-be40-a1ed3b8b5898",
+      "tvSeriesId": "bfb3bd4c-af27-4a10-aacc-d92403a65f86",
+      "tmdbId": 473998,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/gbZmmfrAPhKw7buPq2IInJQRxPb.jpg",
+      "airDate": "2026-04-07",
+      "episodeCount": 26,
+      "isPublished": true,
+      "createdAt": "2026-10-19T15:51:28.638Z",
+      "updatedAt": "2026-10-19T15:55:48.075Z"
+    }
+  ]
+}

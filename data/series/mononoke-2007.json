@@ -1,0 +1,152 @@
+{
+  "slug": "mononoke-2007",
+  "id": "433fe298-196e-42d2-964b-bde5d431e5a2",
+  "title": "Mononoke",
+  "overview": "The Medicine Seller is a deadly and mysterious master of the occult who travels across feudal Japan in search of malevolent spirits called mononoke to slay. When he locates one of these spirits, he cannot simply kill it; he must first learn its Form, its Truth, and its Reason in order to wield the mighty Exorcism Sword and fight against it. He must begin his strange exorcisms with intense psychological analysis and careful investigative work—an extremely dangerous step, as he must first confront and learn about the mononoke before he even has the means to defeat it.",
+  "tagline": null,
+  "posterPath": "/r3S04UDFVaDRC6fOSjLfvrDhpvd.jpg",
+  "backdropPath": "/1K0xW8RtPzACZ2Tu42H9R3OlGEw.jpg",
+  "logoPath": "/shz6MQxRM2G22iihTM2wxmXDOVf.png",
+  "firstAirDate": "2007-07-13",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2c598adc-e374-402e-ba72-ec40f7d630cb",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbPersonId": 9705,
+      "name": "Takahiro Sakurai",
+      "character": "Medicine Seller (voice)",
+      "profilePath": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg",
+      "order": 0
+    },
+    {
+      "id": "b4480ded-aaf1-434f-a067-fae67b63d7c6",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbPersonId": 110665,
+      "name": "Daisuke Namikawa",
+      "character": "Sougen (voice)",
+      "profilePath": "/iw0X8oDutxaBAri3Ifga8nhdUJK.jpg",
+      "order": 1
+    },
+    {
+      "id": "215c952a-1130-46c5-b072-69a34483d0dd",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbPersonId": 40331,
+      "name": "Daisuke Sakaguchi",
+      "character": "Hyoue Sasaki (voice)",
+      "profilePath": "/cP9lnoYSCyIpSlUkZN4k6RoD7fF.jpg",
+      "order": 2
+    },
+    {
+      "id": "86f8893a-9276-47da-8e21-14f5ca3cb734",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbPersonId": 126693,
+      "name": "Eiji Takemoto",
+      "character": "Kiyoshi Moriya (voice)",
+      "profilePath": "/4FJFwO778aiLgbQ5gxW4djFj1sB.jpg",
+      "order": 3
+    },
+    {
+      "id": "f7bb50a8-452d-4c29-8c73-b21bf72bd17d",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbPersonId": 1244369,
+      "name": "Aiko Hibi",
+      "character": "Zashiki Warashi (voice)",
+      "profilePath": "/hlHXWZ1mo0r2VI5gRwuXjYBCr73.jpg",
+      "order": 4
+    },
+    {
+      "id": "4bd21b5c-a141-4d96-a263-7e9594e52f07",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbPersonId": 23988,
+      "name": "Fumiko Orikasa",
+      "character": "Setsuko Ichikawa (voice)",
+      "profilePath": "/f5d1J13fksa1hK8u7AS95aO8b9.jpg",
+      "order": 5
+    },
+    {
+      "id": "21e1b4de-b0a3-456f-8542-b19873852ea6",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbPersonId": 122726,
+      "name": "Hikaru Midorikawa",
+      "character": "Man in Fox Mask (voice)",
+      "profilePath": "/pvzfUDE9UruEhRBrONVFk83o6Zh.jpg",
+      "order": 6
+    },
+    {
+      "id": "de2868a6-2aa5-4f3f-ba5a-efc7ac68c0d5",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbPersonId": 1245661,
+      "name": "Hiroshi Iwasaki",
+      "character": "Jutarou Fukuda (voice)",
+      "profilePath": "/3THPpW2xkD0A7SVFmaUSxHeDzJG.jpg",
+      "order": 7
+    },
+    {
+      "id": "b6ece2ee-69b4-4d03-9e9a-8e7117bf98df",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbPersonId": 220710,
+      "name": "Houko Kuwashima",
+      "character": "O-chou (voice)",
+      "profilePath": "/uZSmoh5jSdLwmkLaCnC3Xju6TTN.jpg",
+      "order": 8
+    },
+    {
+      "id": "6f31ad86-bb44-492a-91a3-339cb7cb15ee",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbPersonId": 100126,
+      "name": "Kozo Shioya",
+      "character": "Tokuji (voice)",
+      "profilePath": "/2IVg74G3MVGIhd3ImlAlo7IvE1P.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ebfce779-ecf7-4791-a3b4-b21a7d61e453",
+      "tvSeriesId": "433fe298-196e-42d2-964b-bde5d431e5a2",
+      "tmdbId": 27839,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/c3NGVpZRS7llJ124QpWXvYt2NYA.jpg",
+      "airDate": "2007-07-13",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-21T04:20:21.900Z",
+      "updatedAt": "2026-10-21T04:21:25.854Z"
+    }
+  ]
+}

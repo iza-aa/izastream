@@ -1,0 +1,187 @@
+{
+  "slug": "criminal-minds-2005",
+  "id": "0e162637-0679-496d-8af1-3c36da81d910",
+  "title": "Criminal Minds",
+  "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+  "tagline": "To catch a criminal, you have to think like one.",
+  "posterPath": "/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+  "backdropPath": "/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+  "logoPath": "/9VC9UnI0boUygE4AofkzmvocEbh.png",
+  "firstAirDate": "2005-09-22",
+  "voteAverage": "8.30",
+  "numberOfSeasons": 4,
+  "numberOfEpisodes": 364,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0dc8446e-d9d1-429d-959d-b158d05d20f3",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbPersonId": 25503,
+      "name": "Mandy Patinkin",
+      "character": "Jason Gideon",
+      "profilePath": "/1PeZ6roZvkcoyZZbvoSIWTgGe3a.jpg",
+      "order": 0
+    },
+    {
+      "id": "a21409fb-8625-49f5-960d-e09b1ffe8f2b",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbPersonId": 3266,
+      "name": "Joe Mantegna",
+      "character": "David Rossi",
+      "profilePath": "/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg",
+      "order": 1
+    },
+    {
+      "id": "f89f45e1-b46a-4d00-b8e7-83181f79b7d5",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbPersonId": 15423,
+      "name": "Paget Brewster",
+      "character": "Emily Prentiss",
+      "profilePath": "/nq9ZuGPvzyfS8dOuPWTQUw7Igxg.jpg",
+      "order": 2
+    },
+    {
+      "id": "166b9206-145b-4b23-87a8-9ab7687168ab",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbPersonId": 13638,
+      "name": "Thomas Gibson",
+      "character": "Aaron Hotchner",
+      "profilePath": "/cnTJvFNtQW3HqlBSwkXAgvjXDi2.jpg",
+      "order": 3
+    },
+    {
+      "id": "ec7f69f4-e937-4ca7-ba4e-d125245185bf",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbPersonId": 49706,
+      "name": "Adam Rodriguez",
+      "character": "Luke Alvez",
+      "profilePath": "/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg",
+      "order": 4
+    },
+    {
+      "id": "660519b9-db41-4d45-973c-ae22d88cb012",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbPersonId": 123727,
+      "name": "Kirsten Vangsness",
+      "character": "Penelope Garcia",
+      "profilePath": "/davwWkIDqUoVF28YmSAqpvUUFuS.jpg",
+      "order": 5
+    },
+    {
+      "id": "10080b69-c9d7-4d4d-b905-e9418160a035",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbPersonId": 34845,
+      "name": "Lola Glaudini",
+      "character": "Elle Greenaway",
+      "profilePath": "/hBZNPbzNgyYfcUUBHUlEKAodzSU.jpg",
+      "order": 6
+    },
+    {
+      "id": "2925a2bb-3b4d-4893-8528-f9c80c17aa59",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbPersonId": 17236,
+      "name": "A.J. Cook",
+      "character": "Jennifer Jareau",
+      "profilePath": "/tvEjGDQVuu7jiOvWXwEU6tEE7NW.jpg",
+      "order": 7
+    },
+    {
+      "id": "961679eb-0576-4e03-8e54-efac7e44a375",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbPersonId": 38674,
+      "name": "Aisha Tyler",
+      "character": "Dr. Tara Lewis",
+      "profilePath": "/gVvqznx4udJMgO86IbufADinfE9.jpg",
+      "order": 8
+    },
+    {
+      "id": "a665f8a0-49db-441a-aca0-b1ed825b51f1",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbPersonId": 50266,
+      "name": "Shemar Moore",
+      "character": "Derek Morgan",
+      "profilePath": "/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d3a0493c-db5f-411e-a15f-77ee31f0a59c",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbId": 315208,
+      "seasonNumber": 16,
+      "name": "Season 16",
+      "overview": "The FBI's elite team of criminal profilers come up against their greatest threat yet, an UnSub who has used the pandemic to build a network of other serial killers. As the world opens back up and the network goes operational, the team must hunt them down, one murder at a time.",
+      "posterPath": "/4R3NdjNPfA2RTIrFnvFmoP4KGZQ.jpg",
+      "airDate": "2022-11-24",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-08-20T17:55:53.080Z",
+      "updatedAt": "2026-08-20T18:00:02.031Z"
+    },
+    {
+      "id": "cc3c4f65-fff8-43ea-b1b3-f9664156b82d",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbId": 392125,
+      "seasonNumber": 17,
+      "name": "Season 17",
+      "overview": "Evolution season 2 picks up as the FBI's elite team of profilers investigates the deadly mystery of Gold Star. As the conspiracy unfolds, the Behavioral Analysis Unit is met with an unexpected complication when serial killer Elias Voit negotiates a deal that transfers him to federal custody in the BAU's own backyard. The team faces its biggest threat yet and cannot emerge unscathed from the mind-bending consequences.",
+      "posterPath": "/8d8qAa4Gt5Rmx0efTB9hNtPh8j3.jpg",
+      "airDate": "2024-06-06",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-08-20T17:55:55.306Z",
+      "updatedAt": "2026-08-20T18:00:03.539Z"
+    },
+    {
+      "id": "557a12d6-9759-400c-94b0-17458a7c7662",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbId": 423090,
+      "seasonNumber": 18,
+      "name": "Season 18",
+      "overview": "The new season picks up six months after fellow inmates attacked the notorious Sicarius Killer, Elias Voit, leading his restless followers on the dark web to begin wreaking havoc all over the country. In order to stop this nefarious group from killing more innocents, the BAU is forced to work alongside an increasingly unpredictable Voit, who of course has his own agenda.",
+      "posterPath": "/gigxjNnACiXAfrwoMox5WJFgc0I.jpg",
+      "airDate": "2025-05-08",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-08-20T17:55:57.037Z",
+      "updatedAt": "2026-08-20T18:00:04.917Z"
+    },
+    {
+      "id": "5aa0e0d7-10d0-4750-a3e0-f29d70e487ba",
+      "tvSeriesId": "0e162637-0679-496d-8af1-3c36da81d910",
+      "tmdbId": 506824,
+      "seasonNumber": 19,
+      "name": "Season 19",
+      "overview": "As the BAU investigates a string of chilling new cases, Elias Voit embarks on a path to atone for his past. His newfound infamy inadvertently awakens their most formidable nemesis yet, The Fan. Precise, calculating, and relentlessly dangerous, this UnSub pushes the BAU to the brink and back under the shadow of Elias Voit. But how far will The Fan go to prove his superiority over his idol?",
+      "posterPath": "/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+      "airDate": "2026-05-28",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-08-20T17:55:59.317Z",
+      "updatedAt": "2026-08-20T18:00:06.168Z"
+    }
+  ]
+}

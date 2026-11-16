@@ -1,0 +1,138 @@
+{
+  "slug": "love-you-teacher-2026",
+  "id": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+  "title": "Love You Teacher",
+  "overview": "A stern teacher who hates kids must now parent his own boyfriend after an accident leaves him with the mind of a seven-year-old.",
+  "tagline": "Love lessons are usually hard.",
+  "posterPath": "/7NEZmleIbrL7krMmZtWpl6ReuOn.jpg",
+  "backdropPath": "/qCGtUU1tTaqVTmicHGCZdlGFObl.jpg",
+  "logoPath": "/aUNjxZzVatm3D3qimd555Zu0KfV.png",
+  "firstAirDate": "2026-03-14",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3d907e76-7b91-46ee-bc08-9867e80730d9",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbPersonId": 2098555,
+      "name": "Tanapon Sukumpantanasan",
+      "character": "Pobmek",
+      "profilePath": "/npEi0UB3ctczoqzOdRrKNEQQACB.jpg",
+      "order": 0
+    },
+    {
+      "id": "cdc89f5c-7a5a-4320-ad12-aca07fd22159",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbPersonId": 3216040,
+      "name": "Pongsapak Udomphoch",
+      "character": "Solar",
+      "profilePath": "/6RU2foEhztEoCtt7U4V8wVEzVu7.jpg",
+      "order": 1
+    },
+    {
+      "id": "168d53b7-3b69-4c22-a2be-7ce9b2a377f1",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbPersonId": 2098568,
+      "name": "Samantha Melanie Coates",
+      "character": "Sodchuen",
+      "profilePath": "/3doyS1NrsD68C0OVL7obuAz5GNJ.jpg",
+      "order": 2
+    },
+    {
+      "id": "99c57b1b-a94f-448e-b04f-f1fbc3513f94",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbPersonId": 2636836,
+      "name": "Kay Lertsittichai",
+      "character": "Jee",
+      "profilePath": "/nraE2K8vG6UyeQepKeOKbPiP4ls.jpg",
+      "order": 3
+    },
+    {
+      "id": "27244b32-c325-4a6f-9324-203a10068758",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbPersonId": 4205087,
+      "name": "Patchanok Iamsa-Ard",
+      "character": "Pranee",
+      "profilePath": "/xHQghPWr8FntsWW3jS84bN0pCMs.jpg",
+      "order": 500
+    },
+    {
+      "id": "8d4626b0-6a23-49d0-ac26-c5abdaeac36f",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbPersonId": 3096285,
+      "name": "Ploynira Hiruntaveesin",
+      "character": "Pang",
+      "profilePath": "/d5lypeYLx6hufjx0Iftz8EakHzv.jpg",
+      "order": 501
+    },
+    {
+      "id": "78c542c5-ea53-40b9-be62-57c93b3906ed",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbPersonId": 4325834,
+      "name": "Suvijak Piyanopharoj",
+      "character": "Thara",
+      "profilePath": "/mORMq9C97AkgWDrBZWzuzGQwm6c.jpg",
+      "order": 502
+    },
+    {
+      "id": "5ad8aac0-ae7f-4170-9403-03a017101110",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbPersonId": 4325335,
+      "name": "Dechchart Tasilp",
+      "character": "Wayo",
+      "profilePath": "/mIF0ChfEnjEROQN1bi6hUQAwXId.jpg",
+      "order": 503
+    },
+    {
+      "id": "8c4a34af-57d1-4892-96af-5ef02f5d0d6c",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbPersonId": 5141778,
+      "name": "Chalita Fuangaromya",
+      "character": "Atsara",
+      "profilePath": "/flz8ob7iBDbzrvXoSxA0Lvw7WMr.jpg",
+      "order": 504
+    },
+    {
+      "id": "02387655-46e9-4641-9dcd-962195a37613",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbPersonId": 1342899,
+      "name": "Sarocha Watittapan",
+      "character": "Pafun",
+      "profilePath": "/hmNxh6uufKcwOkq14L0DwKbvTPr.jpg",
+      "order": 505
+    }
+  ],
+  "seasons": [
+    {
+      "id": "178a7839-bc5f-4790-9fd4-dbcbd7424d89",
+      "tvSeriesId": "24483b9e-f320-49d5-8c26-49f4b62a0d6f",
+      "tmdbId": 430488,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "A stern teacher who hates kids must now parent his own boyfriend after an accident leaves him with the mind of a seven-year-old.",
+      "posterPath": "/7NEZmleIbrL7krMmZtWpl6ReuOn.jpg",
+      "airDate": "2026-03-14",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-05-29T15:57:14.856Z",
+      "updatedAt": "2026-05-29T15:58:17.097Z"
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "slug": "lesbian-space-princess-2025",
+  "id": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+  "tmdbId": 1333141,
+  "imdbId": "tt29781139",
+  "title": "Lesbian Space Princess",
+  "originalTitle": "Lesbian Space Princess",
+  "overview": "A space princess is thrust out of her sheltered life into a galactic quest to save her bounty hunter ex-girlfriend from the straight white maliens.",
+  "tagline": "She'll save her ex. Or die crying.",
+  "posterPath": "/bmf6spk0WZ10lz4eAK95P1zRB4F.jpg",
+  "backdropPath": "/rS0ewRtB2ugDvbaVUoCXOpBOppM.jpg",
+  "logoPath": "/5QbU4sOmtl6PKu4kmldthCNaEKy.png",
+  "backdrops": [
+    "/rS0ewRtB2ugDvbaVUoCXOpBOppM.jpg",
+    "/aAs0l7YRW3ZvwLbccGK4maxNe5N.jpg",
+    "/xHZiY1QlRvysqu4ZGBnOvcCdoR1.jpg",
+    "/lFiBcRIstFjFROvCZ8LU4e5kSWi.jpg",
+    "/37s7gEA5hEpAvdjkAuQmZp2LEiz.jpg",
+    "/arWH6WB7zgK0G7SN0gqnOB7MC5p.jpg",
+    "/qMCMngiVJu8poAR32Pf4wUALVLg.jpg",
+    "/nDd9GqNYhua20C9rMXOvakfn6YG.jpg",
+    "/n20yVIaOs6Muas5Tv08d2YF3hk6.jpg",
+    "/fQZKBj0HdItB34ytjbOtPwZKsaI.jpg"
+  ],
+  "releaseDate": "2025-09-11",
+  "runtime": 87,
+  "voteAverage": "3.71",
+  "popularity": null,
+  "popularityScore": 53,
+  "originalLanguage": "en",
+  "country": "AU",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=Nra14aUNYS8",
+  "quality": "WEB-DL",
+  "director": "Leela Varghese",
+  "directorTmdbId": 2812436,
+  "directorProfilePath": "/fNYoh3Btlg6kMi7mLAKDj9Irvrr.jpg",
+  "productionCompanies": [
+    {
+      "id": 109806,
+      "name": "We Made a Thing Studios",
+      "logo_path": null
+    },
+    {
+      "id": 2806,
+      "name": "South Australian Film Corporation",
+      "logo_path": "/vxOhCbpsRBh10m6LZ3HyImTYpPY.png"
+    },
+    {
+      "id": 7584,
+      "name": "Screen Australia",
+      "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png"
+    },
+    {
+      "id": 54874,
+      "name": "Umbrella Entertainment",
+      "logo_path": "/gniXmIsykPPXw7Lys1Fkm4LlB9O.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 7856,
+      "name": "racist"
+    },
+    {
+      "id": 158718,
+      "name": "lgbt"
+    },
+    {
+      "id": 161919,
+      "name": "adult animation"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 194188,
+      "name": "sexist"
+    },
+    {
+      "id": 195114,
+      "name": "space adventure"
+    },
+    {
+      "id": 225012,
+      "name": "satirical"
+    },
+    {
+      "id": 240462,
+      "name": "musical comedy"
+    },
+    {
+      "id": 252937,
+      "name": "spaceship"
+    },
+    {
+      "id": 264386,
+      "name": "lesbian"
+    },
+    {
+      "id": 295389,
+      "name": "female bounty hunter"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 325771,
+      "name": "arrogant"
+    },
+    {
+      "id": 325783,
+      "name": "cliché"
+    },
+    {
+      "id": 325798,
+      "name": "disgusted"
+    },
+    {
+      "id": 333766,
+      "name": "queer romance"
+    },
+    {
+      "id": 337198,
+      "name": "homophobic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 2044,
+  "watchlistCount": 12,
+  "favouriteCount": 2,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-10T05:15:20.386Z",
+  "updatedAt": "2026-09-10T05:15:25.068Z",
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d7804db7-116b-45c9-8edb-146beb798882",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 2716907,
+      "name": "Shabana Azeez",
+      "character": "Saira (voice)",
+      "profilePath": "/r5MWHqX1cxibytL7KGXNaT2NlD1.jpg",
+      "order": 0
+    },
+    {
+      "id": "95ca357e-0c03-4fe6-b263-46aafd7231b1",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 1891888,
+      "name": "Gemma Chua-Tran",
+      "character": "Willow (voice)",
+      "profilePath": "/76rGH4GamFuZoa8JIa6sWGXk8Yy.jpg",
+      "order": 1
+    },
+    {
+      "id": "d3cfdd22-c9a2-4eac-b6cb-556a9a6a9b6e",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 12206,
+      "name": "Richard Roxburgh",
+      "character": "Problematic Ship (voice)",
+      "profilePath": "/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg",
+      "order": 2
+    },
+    {
+      "id": "e6e58564-5905-48bd-801e-8e6f5fb33942",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 2620565,
+      "name": "Bernie Van Tiel",
+      "character": "Kiki (voice)",
+      "profilePath": null,
+      "order": 3
+    },
+    {
+      "id": "4766e040-283a-4d94-ad58-72e8bc4c9cdc",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 4483563,
+      "name": "Kween Kong",
+      "character": "Blade (voice)",
+      "profilePath": "/jW6MkmjCpx87jD2oogFan51pDeH.jpg",
+      "order": 4
+    },
+    {
+      "id": "6db20d80-5c8d-4734-bc96-9c3e47501915",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 1227212,
+      "name": "Jordan Raskopoulos",
+      "character": "Queen Leanne (voice)",
+      "profilePath": "/qxxr71Jb6JBvrEYR61Ev4b70Bo8.jpg",
+      "order": 5
+    },
+    {
+      "id": "013ac08a-0d00-4e2d-aa34-c5b52ea5b69a",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 89847,
+      "name": "Madeleine Sami",
+      "character": "Queen Anne (voice)",
+      "profilePath": "/tXBBz4WdTfFECUBEnheFxTUPV5N.jpg",
+      "order": 6
+    },
+    {
+      "id": "06f9e483-d490-44a3-b452-7127cbc716f0",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 1978251,
+      "name": "Zachary Ruane",
+      "character": "Larry (voice)",
+      "profilePath": "/l01v34uV1XwshG9zvAuuoJvgwF4.jpg",
+      "order": 7
+    },
+    {
+      "id": "81a2377c-5ebe-49c6-913b-26aa353d3567",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 1978250,
+      "name": "Mark Bonanno",
+      "character": "Leader (voice)",
+      "profilePath": "/uKMG7wk2T2xRoAcQO8eqyrE1mIW.jpg",
+      "order": 8
+    },
+    {
+      "id": "c17648a9-460d-4d6a-adad-e0042ebd5f06",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 1894813,
+      "name": "Broden Kelly",
+      "character": "Josh (voice)",
+      "profilePath": "/biRFt6KdAGMlvWYiYUGjRiwAqrT.jpg",
+      "order": 9
+    },
+    {
+      "id": "c291ef9e-5abc-4134-9caf-e1e58abe3265",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 1894811,
+      "name": "Demi Lardner",
+      "character": "DNM Girl (voice)",
+      "profilePath": "/ykigE0VckSwi8TdtonZMYfdvikk.jpg",
+      "order": 10
+    },
+    {
+      "id": "01efb338-14c3-46b8-a3ba-5c903270bfec",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 5031239,
+      "name": "Reuben Kaye",
+      "character": "Safety Bubble (voice)",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "b41514c7-4dd3-42be-b30c-0fe36317d305",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 5911184,
+      "name": "Sam Matthews",
+      "character": "Citizen (voice)",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "9fe73327-aa6d-404a-a67b-f607db070063",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 1821688,
+      "name": "Annie Schofield",
+      "character": "Citizen (voice)",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "9fd9007e-b97e-4536-92e8-1cf44a8f082e",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 5628924,
+      "name": "Stephanie Daughtry",
+      "character": "Citizen (voice)",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "4edc8032-8205-412d-9262-7b1c28f42591",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 5911186,
+      "name": "Arlen Velez",
+      "character": "Lesbian Guard (voice)",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "5e5409ed-3a88-411d-964a-eee20dd0a3f8",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 5911187,
+      "name": "Cheyenne Maher",
+      "character": "Spacewalker Girlie (voice)",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "c55be98a-244e-4936-840c-6cb2226b3af5",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 5911188,
+      "name": "Paul Howe",
+      "character": "Spacewalker Boyfie (voice)",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "96a9b91a-082f-4294-beeb-5f5629f63003",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 1962909,
+      "name": "Max Garcia-Underwood",
+      "character": "Space Busker (voice)",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "041c7364-0b84-40fe-b983-2cedc3a16fc4",
+      "movieId": "5b66a9b1-0cf0-4093-90e4-2590b191349c",
+      "tmdbPersonId": 2400140,
+      "name": "Lori Bell",
+      "character": "Tumbleweed(voice)",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

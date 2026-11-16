@@ -1,0 +1,532 @@
+{
+  "slug": "hannibal-rising-2007",
+  "id": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+  "tmdbId": 1248,
+  "imdbId": "tt0367959",
+  "title": "Hannibal Rising",
+  "originalTitle": "Hannibal Rising",
+  "overview": "The story of the early, murderous roots of the cannibalistic killer, Hannibal Lecter – from his hard-scrabble Lithuanian childhood, where he witnesses the repulsive lengths to which hungry soldiers will go to satiate themselves, through his sojourn in France, where as a medical student he hones his appetite for the kill and learnt sword skills from his Japanese girlfriend, who happened to have similar fate",
+  "tagline": "It started with revenge.",
+  "posterPath": "/7FTDMQoac0uqJUquZk4KenDzLMZ.jpg",
+  "backdropPath": "/am6ZfhUTUmcjPjjA4GIkLEJ33TN.jpg",
+  "logoPath": "/1DVBCeAbK8rBXI0ge6H5PrKYOVl.png",
+  "backdrops": [
+    "/6mwgIae0ICF9FUQbKUmcAyV4FS3.jpg",
+    "/am6ZfhUTUmcjPjjA4GIkLEJ33TN.jpg",
+    "/mYMrJ2RZleYYwKHwrCKZ9Hdn2q0.jpg",
+    "/3pAi5n1W2Pcgi1UWuw61SqXtkvG.jpg",
+    "/4LhphVMywenTaGiqSoER3GpLuQ8.jpg",
+    "/okrsr1lLVCPeASHvj4Dtfei7OSe.jpg",
+    "/g8PrN2wR5iilTzL0PJf50gxPCWx.jpg",
+    "/2MgbRt7CHuuf87pC29hx4fAinTz.jpg",
+    "/uJXqTOlv18WoA5NrkI3oo3ZzccG.jpg",
+    "/tRsU5HTvMRaWLre1gW0wPb7Orpu.jpg"
+  ],
+  "releaseDate": "2007-02-06",
+  "runtime": 121,
+  "voteAverage": "6.27",
+  "popularity": null,
+  "popularityScore": 318,
+  "originalLanguage": "en",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=ECOUSPHn4Sg",
+  "quality": "BLU-RAY",
+  "director": "Peter Webber",
+  "directorTmdbId": 16785,
+  "directorProfilePath": "/7X50ruC3Ti3lDvfj7ZrLrquvSZk.jpg",
+  "productionCompanies": [
+    {
+      "id": 6370,
+      "name": "Quinta Communications",
+      "logo_path": null
+    },
+    {
+      "id": 290,
+      "name": "Ingenious Media",
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png"
+    },
+    {
+      "id": 215979,
+      "name": "Delta (Young Hannibal) Ltd.",
+      "logo_path": null
+    },
+    {
+      "id": 1216,
+      "name": "DDL Cinematografica",
+      "logo_path": null
+    },
+    {
+      "id": 16923,
+      "name": "Zephyr Films",
+      "logo_path": null
+    },
+    {
+      "id": 2979,
+      "name": "ETIC Films",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2546,
+      "name": "mask"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 1442,
+      "name": "winter"
+    },
+    {
+      "id": 6259,
+      "name": "psychopath"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 7360,
+      "name": "lithuania"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 11181,
+      "name": "decapitation"
+    },
+    {
+      "id": 12565,
+      "name": "psychological thriller"
+    },
+    {
+      "id": 14829,
+      "name": "strangulation"
+    },
+    {
+      "id": 14895,
+      "name": "cannibal"
+    },
+    {
+      "id": 15208,
+      "name": "biting"
+    },
+    {
+      "id": 34136,
+      "name": "blunt"
+    },
+    {
+      "id": 41380,
+      "name": "crucifix"
+    },
+    {
+      "id": 156544,
+      "name": "cadaver"
+    },
+    {
+      "id": 160224,
+      "name": "post world war ii"
+    },
+    {
+      "id": 162810,
+      "name": "macabre"
+    },
+    {
+      "id": 163864,
+      "name": "incinerator"
+    },
+    {
+      "id": 175107,
+      "name": "nazi collaborationism"
+    },
+    {
+      "id": 187675,
+      "name": "medical student"
+    },
+    {
+      "id": 199524,
+      "name": "disturbed"
+    },
+    {
+      "id": 207883,
+      "name": "1940s"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    },
+    {
+      "id": 232766,
+      "name": "vengeance"
+    },
+    {
+      "id": 238145,
+      "name": "chateau"
+    },
+    {
+      "id": 278235,
+      "name": "cannibalism"
+    },
+    {
+      "id": 295907,
+      "name": "psychological horror"
+    },
+    {
+      "id": 305691,
+      "name": "hannibal lecter"
+    },
+    {
+      "id": 314730,
+      "name": "suspenseful"
+    },
+    {
+      "id": 319546,
+      "name": "influential aunt or uncle"
+    },
+    {
+      "id": 322255,
+      "name": "sinister"
+    },
+    {
+      "id": 325801,
+      "name": "distressing"
+    },
+    {
+      "id": 325811,
+      "name": "excited"
+    },
+    {
+      "id": 325818,
+      "name": "frightened"
+    },
+    {
+      "id": 325825,
+      "name": "horrified"
+    },
+    {
+      "id": 332598,
+      "name": "brutal violence"
+    },
+    {
+      "id": 355372,
+      "name": "crime thriller"
+    },
+    {
+      "id": 371027,
+      "name": "crime horror"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5352,
+  "watchlistCount": 29,
+  "favouriteCount": 15,
+  "shareCount": 5,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-11T13:25:37.778Z",
+  "updatedAt": "2026-10-11T13:25:45.186Z",
+  "genres": [
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2617d836-2b7c-4dc9-84f3-735d6c0d6833",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 16790,
+      "name": "Gaspard Ulliel",
+      "character": "Hannibal Lecter",
+      "profilePath": "/fuZEtNbCzzQr2v4DhhCKo7YAsb0.jpg",
+      "order": 0
+    },
+    {
+      "id": "08f9f786-7faa-491c-b1f7-68d8107dadc2",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 16789,
+      "name": "Aaran Thomas",
+      "character": "Hannibal Lecter (young)",
+      "profilePath": null,
+      "order": 1
+    },
+    {
+      "id": "b1877859-4bdf-4157-9495-7248d8587d77",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 643,
+      "name": "Gong Li",
+      "character": "Lady Murasaki",
+      "profilePath": "/kMdN44dyjTRZvagI5nKwbZYwda9.jpg",
+      "order": 2
+    },
+    {
+      "id": "6d485525-8db9-4b38-bf9d-8d48fb1cdeb7",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 17287,
+      "name": "Dominic West",
+      "character": "Inspector Popil",
+      "profilePath": "/6y2M3EWslBPwPlugEFg8XDHfSJ0.jpg",
+      "order": 3
+    },
+    {
+      "id": "62c542e6-417a-459e-8da6-b4bbf61857cc",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 7026,
+      "name": "Rhys Ifans",
+      "character": "Vladis Grutas",
+      "profilePath": "/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg",
+      "order": 4
+    },
+    {
+      "id": "49bcb3b3-abc3-4193-8c1d-844e08f8e18e",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 3901,
+      "name": "Richard Brake",
+      "character": "Enrikas Dortlich",
+      "profilePath": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg",
+      "order": 5
+    },
+    {
+      "id": "b99d6909-4609-4003-8d4e-75a616e84127",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 9013,
+      "name": "Kevin McKidd",
+      "character": "Petras Kolnas",
+      "profilePath": "/KtmEKOSehmQ35JfGjEjpqlypbP.jpg",
+      "order": 6
+    },
+    {
+      "id": "d786c9c8-e56a-486c-a4bd-76f819fd071b",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 39681,
+      "name": "Stephen Walters",
+      "character": "Zigmas Milko",
+      "profilePath": "/zhtty4sSjw7vqKXeptF9odqkx5e.jpg",
+      "order": 7
+    },
+    {
+      "id": "2aeace4f-006e-4517-9d46-2fa9431f05ba",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 206721,
+      "name": "Ivan Marevich",
+      "character": "Bronys Grentz",
+      "profilePath": "/4CQPO6PXtgGoThJDwToTaw2yabm.jpg",
+      "order": 8
+    },
+    {
+      "id": "75a0f377-fb3e-4efc-a50e-2178b6064c98",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 16791,
+      "name": "Helena-Lia Tachovská",
+      "character": "Mischa Lecter",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "d634d09b-2ec3-4c6c-a35b-ea05f6dd6652",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 16792,
+      "name": "Richard Leaf",
+      "character": "Father Lecter",
+      "profilePath": "/afvUxmjM76JjbVOVysuoEQfwsTa.jpg",
+      "order": 10
+    },
+    {
+      "id": "f35e5db1-855d-4b96-9618-6b78c9e8b944",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 14593,
+      "name": "Ingeborga Dapkūnaitė",
+      "character": "Mother Lecter",
+      "profilePath": "/epH5vef5Tm6b2VyU71KKCxw9tyd.jpg",
+      "order": 11
+    },
+    {
+      "id": "86f7e639-faad-43e5-8828-d27d9bdbb896",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 1054325,
+      "name": "Martin Hub",
+      "character": "Lothar",
+      "profilePath": "/udBteEYEksf6Icrrx7cAhGcq1r0.jpg",
+      "order": 12
+    },
+    {
+      "id": "8dea8a67-985e-4fd7-9e3e-947c524ba5dc",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 12838,
+      "name": "Joerg Stadler",
+      "character": "Berndt",
+      "profilePath": "/g8aeobWRTBnhJZbLaIzQDZAzXAW.jpg",
+      "order": 13
+    },
+    {
+      "id": "0e559ee5-0f41-4168-ba88-d54a12fc2d89",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 79648,
+      "name": "Hugh Ross",
+      "character": "Professor Dumas",
+      "profilePath": "/496ibxHVihO7l9RqwiacAwPZeqC.jpg",
+      "order": 14
+    },
+    {
+      "id": "f15291fc-b83c-4dd2-8b2b-667549b6693c",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 88392,
+      "name": "Robbie Kay",
+      "character": "Kolnas's Son",
+      "profilePath": "/bDwniEoSXiuCJL0MnUKh6USA2GZ.jpg",
+      "order": 15
+    },
+    {
+      "id": "0da712fc-84cb-4889-9ef1-c05feb728d03",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 1425059,
+      "name": "Zdeněk Dvořáček",
+      "character": "Butcher Brother",
+      "profilePath": "/7jUq2nf3dk1Qgc2N1rBUmYgteWx.jpg",
+      "order": 16
+    },
+    {
+      "id": "684072ef-3c48-4da6-8494-3f2f8a2b19b8",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 10736,
+      "name": "Timothy Walker",
+      "character": "SS Major",
+      "profilePath": "/jzPnF3M2WS9wX51uZLCHt6CaBHm.jpg",
+      "order": 17
+    },
+    {
+      "id": "f16c4517-bf0f-475b-aca2-a6acf0ec70e1",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 2406496,
+      "name": "Pavel Krátký",
+      "character": "Tank Crewman",
+      "profilePath": "/gyav9jTGMfmiRME6Vk3DQAcMpO7.jpg",
+      "order": 18
+    },
+    {
+      "id": "40065fc3-2c18-4ddc-9591-7afcfd3f8886",
+      "movieId": "a2021258-04e6-43d9-b490-d0b6be35d6c9",
+      "tmdbPersonId": 1856347,
+      "name": "Michelle Wade",
+      "character": "Nanny",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "anyaelir",
+    "displayName": "Anya"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

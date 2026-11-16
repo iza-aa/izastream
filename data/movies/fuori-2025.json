@@ -1,0 +1,343 @@
+{
+  "slug": "fuori-2025",
+  "id": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+  "tmdbId": 1310830,
+  "imdbId": "tt34768402",
+  "title": "Fuori",
+  "originalTitle": "Fuori",
+  "overview": "Rome. The 1980s. After the magnum opus The Art of Joy she has been working on for a decade is rejected by the Italian publishing world, writer Goliarda Sapienza commits a desperate theft that costs her her reputation and social position. Incarcerated in Italy’s largest female prison, she finds herself living alongside thieves, junkies, sex workers and revolutionaries. After her release, she continues to meet with these women and over the course of a sweltering summer, a life-changing relationship flowers – a relationship that will reawaken her the desire to live and to write.",
+  "tagline": null,
+  "posterPath": "/gxSkBOfTEOX2f6KhqMFSXf24nMo.jpg",
+  "backdropPath": "/k9Oe0KXL1qYnEddxr1WR4VkB8eW.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/k9Oe0KXL1qYnEddxr1WR4VkB8eW.jpg",
+    "/obSpkIizGdHXIEeEcDZsAlZ9q1x.jpg",
+    "/3tMl4ldTTrixrilAoQ2c8EmNnSr.jpg",
+    "/q0KUi8RA2qzn3rdXPTCsOkojmO1.jpg",
+    "/q15DSTgCIyYtruFn8RchpDyNFih.jpg",
+    "/w5EZbKBiyWBcWXaDVvMyzxab6Np.jpg",
+    "/rH3Etuo0sqQx3VqUSKnCYIwAvg8.jpg",
+    "/otTrby4ewTGXRY3QNOYN6zqUyi8.jpg",
+    "/pTr0ZWzFlkJtOUVyexCTI2Mqr2W.jpg",
+    "/t1wzFa2AeF1NmHuIuH4oIpUF13U.jpg"
+  ],
+  "releaseDate": "2025-05-22",
+  "runtime": 117,
+  "voteAverage": "6.40",
+  "popularity": null,
+  "popularityScore": 295,
+  "originalLanguage": "it",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=2J0ZR0i5nAo",
+  "quality": "WEB-DL",
+  "director": "Mario Martone",
+  "directorTmdbId": 225109,
+  "directorProfilePath": "/Aa9hYSoeabZaKqV1r8DgF3kMiC0.jpg",
+  "productionCompanies": [
+    {
+      "id": 1533,
+      "name": "Indigo Film",
+      "logo_path": "/bMD3Zv15TujMXJwvqoTFY6Scexx.png"
+    },
+    {
+      "id": 155990,
+      "name": "RAI Cinema",
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png"
+    },
+    {
+      "id": 128344,
+      "name": "The Apartment Pictures",
+      "logo_path": "/zNBa6RAZ5TKWZUEhxx6sxc9tdrr.png"
+    },
+    {
+      "id": 101932,
+      "name": "Srab Films",
+      "logo_path": "/4rIkZawmATzcjB5vOLzUap7XdB1.png"
+    },
+    {
+      "id": 5125,
+      "name": "Le Pacte",
+      "logo_path": "/t3oWTsVukmEzrZzvfr37XRBibo5.png"
+    },
+    {
+      "id": 74562,
+      "name": "Fremantle Italia",
+      "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png"
+    },
+    {
+      "id": 14016,
+      "name": "MiC",
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png"
+    },
+    {
+      "id": 274774,
+      "name": "Regione Lazio",
+      "logo_path": "/jTXzZRiKZt7L4YvVW4DGvqU51RU.png"
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 4077,
+  "watchlistCount": 15,
+  "favouriteCount": 6,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-21T03:45:05.300Z",
+  "updatedAt": "2026-10-21T03:45:10.365Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+      "tmdbId": 36,
+      "name": "History",
+      "slug": "history",
+      "createdAt": "2026-04-02T13:49:17.126Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0b5363e9-23ae-4f9e-a97b-fb43a5c8ab41",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 3124,
+      "name": "Valeria Golino",
+      "character": "Goliarda Sapienza",
+      "profilePath": "/bLw0lNPEhICtbTLtnTswamefN7C.jpg",
+      "order": 0
+    },
+    {
+      "id": "01c13e0e-5e7d-49b2-a4aa-8a476b804a21",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 1589101,
+      "name": "Matilda De Angelis",
+      "character": "Roberta",
+      "profilePath": "/ofCQCcJVHXS934jphfvzmORlhS.jpg",
+      "order": 1
+    },
+    {
+      "id": "83443fb1-4b88-4493-93ac-da36ff270007",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 3129814,
+      "name": "Elodie",
+      "character": "Barbara",
+      "profilePath": "/1P0of3CIn6v5UI5yVjyXuEa5n0P.jpg",
+      "order": 2
+    },
+    {
+      "id": "1b9fc78a-1574-4051-9477-2680871513b2",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 136288,
+      "name": "Corrado Fortuna",
+      "character": "Angelo",
+      "profilePath": "/9hNJxoEr1cXZ0Srs9dq5q1IN7pe.jpg",
+      "order": 3
+    },
+    {
+      "id": "5fd3b72d-9b97-48eb-9a69-a50d0f8eea70",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 2024496,
+      "name": "Francesco Gheghi",
+      "character": "Cameriere bar della stazione",
+      "profilePath": "/zwWLGq70LLgzy8G9VnRbOOC13Hu.jpg",
+      "order": 4
+    },
+    {
+      "id": "fcf21bd6-65fb-4dd0-a291-489b712fb864",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 125696,
+      "name": "Antonio Gerardi",
+      "character": "Albert",
+      "profilePath": "/7OI80SQpWPOsfZQR43l6HyU2tn4.jpg",
+      "order": 5
+    },
+    {
+      "id": "ee9ee273-b603-4927-8d6b-d372fbead27b",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 27188,
+      "name": "Carolina Rosi",
+      "character": "Amica derubata",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "d528d1c2-4ecd-4ec6-845a-cc08d89a8bfd",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 1610454,
+      "name": "Daphne Scoccia",
+      "character": "'James Dean'",
+      "profilePath": "/A01eC2uNsa6YOKm23m8J1LbPHms.jpg",
+      "order": 7
+    },
+    {
+      "id": "07e19ecd-9575-42c0-9f18-3ed3b5c5ec32",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 27203,
+      "name": "Francesco Siciliano",
+      "character": "Editore",
+      "profilePath": "/n5vjjzY66uRgZB4Z14dT8F7rDEn.jpg",
+      "order": 8
+    },
+    {
+      "id": "b37a33ea-2b6f-4b0d-9af6-923d636d4a66",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 5457747,
+      "name": "Sonia Zhou",
+      "character": "Suzie Wong",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "47b83886-e01d-4c70-b239-31b618766ec0",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 1501793,
+      "name": "Ondina Quadri",
+      "character": "Guardia",
+      "profilePath": "/pOqUcgAj8kmF8O3gBXyokI4Eyxi.jpg",
+      "order": 10
+    },
+    {
+      "id": "9f77ca21-aefd-495e-8e8d-f8db59150aa6",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 553195,
+      "name": "Paola Pace",
+      "character": "Pizzi",
+      "profilePath": "/b3oDCEMfUMPPFhZPteIpeXqtQe4.jpg",
+      "order": 11
+    },
+    {
+      "id": "4ee5788d-74fc-4ca2-aead-5b08a4b59f06",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 67175,
+      "name": "Luisa De Santis",
+      "character": "Trasteverina",
+      "profilePath": "/AknPQ6HXj7QWQorcuV8V22Z0y4x.jpg",
+      "order": 12
+    },
+    {
+      "id": "f2c2f8d3-85ea-4e96-80ca-c8bc30202af8",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 1152316,
+      "name": "Sylvia De Fanti",
+      "character": "Silvia",
+      "profilePath": "/2olEjhsk8Ptb8f8PE37glQU0UIn.jpg",
+      "order": 13
+    },
+    {
+      "id": "5f17e5b2-cb6c-4719-bad3-32e2948a065f",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 16240,
+      "name": "Stefano Dionisi",
+      "character": "",
+      "profilePath": "/q7jR32SuZJTDtAATSCIQ04wuHO8.jpg",
+      "order": 14
+    },
+    {
+      "id": "cf46bdfb-ffa0-4ff9-b505-fef08bf68f0f",
+      "movieId": "a22c5860-fe44-4a14-8ab4-61a23d26ab06",
+      "tmdbPersonId": 1955239,
+      "name": "Aura Ghezzi",
+      "character": "Carcerata",
+      "profilePath": null,
+      "order": 15
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

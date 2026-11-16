@@ -1,0 +1,152 @@
+{
+  "slug": "ascendance-of-a-bookworm-2019",
+  "id": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+  "title": "Ascendance of a Bookworm",
+  "overview": "When a sickly young girl suddenly becomes obsessed with inventing new things, her family and friends are all puzzled. \"What has gotten into Myne?\" they wondered, never dreaming that the answer is not a \"What\" but a \"Who\": Urano Motosu, a book-loving apprentice librarian who died in an earthquake in Tokyo who somehow found herself in Myne's body! And since Myne's world is still in a medieval stage, where books can only be owned by the elite, the new Myne intends to do everything she can to bring her beloved books to the masses in the time she has left.",
+  "tagline": null,
+  "posterPath": "/aVGueAM88cc4sX6PeMvuAPObDc4.jpg",
+  "backdropPath": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
+  "logoPath": "/gDAZ3q01S5eyKpkRS3U2zO6TXuR.png",
+  "firstAirDate": "2019-10-03",
+  "voteAverage": "8.10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 24,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e493d65d-7967-46ac-a0cf-9afa23b46ed2",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbPersonId": 1242005,
+      "name": "Yuka Iguchi",
+      "character": "Main (voice)",
+      "profilePath": "/38ZjRGBLD4lvfU3mSMyIBCIq85D.jpg",
+      "order": 0
+    },
+    {
+      "id": "95b0f3c7-3f14-4d2d-be80-3c7f755de86f",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbPersonId": 1253972,
+      "name": "Mutsumi Tamura",
+      "character": "Lutz (voice)",
+      "profilePath": "/uvbBIRiBK6GDLEESiYSFWOVlaE4.jpg",
+      "order": 2
+    },
+    {
+      "id": "b81d74b4-e14e-4721-bb41-34f2dbbccbdc",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbPersonId": 84508,
+      "name": "Takehito Koyasu",
+      "character": "Benno (voice)",
+      "profilePath": "/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg",
+      "order": 3
+    },
+    {
+      "id": "3cb189b8-504d-4b02-a009-3dfa68d726d2",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbPersonId": 130509,
+      "name": "Megumi Nakajima",
+      "character": "Tuuli (voice)",
+      "profilePath": "/1ayG1Hx1icxb2MgYm6KFaIYHRmx.jpg",
+      "order": 4
+    },
+    {
+      "id": "2d1a53ee-ff51-46af-bbfd-570d6d162b08",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbPersonId": 1251325,
+      "name": "Tsuyoshi Koyama",
+      "character": "Gunther (voice)",
+      "profilePath": "/xm7AT3bF4ARZvbx87ixXT8rNFgs.jpg",
+      "order": 5
+    },
+    {
+      "id": "13b0e4aa-850e-4419-a18c-d1cd20854631",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbPersonId": 23988,
+      "name": "Fumiko Orikasa",
+      "character": "Effa (voice)",
+      "profilePath": "/f5d1J13fksa1hK8u7AS95aO8b9.jpg",
+      "order": 6
+    },
+    {
+      "id": "1cedc891-2035-4667-8065-256d5e441f4f",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbPersonId": 224413,
+      "name": "Satoshi Hino",
+      "character": "Otto (voice)",
+      "profilePath": "/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg",
+      "order": 7
+    },
+    {
+      "id": "b5cdcbe8-7090-445b-ad7b-32f9a33da876",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbPersonId": 1249235,
+      "name": "Tomoaki Maeno",
+      "character": "Mark (voice)",
+      "profilePath": "/w3lEuXSbEyzzNyO3YnxsF6wm2N5.jpg",
+      "order": 8
+    },
+    {
+      "id": "dab5e584-fd4a-4604-9e0d-aab9fa0d888a",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbPersonId": 9706,
+      "name": "Toshiyuki Morikawa",
+      "character": "Karstedt (voice)",
+      "profilePath": "/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg",
+      "order": 11
+    },
+    {
+      "id": "5c0f8b7d-aaef-4f91-acc4-067b37784016",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbPersonId": 1483496,
+      "name": "Yuuichirou Umehara",
+      "character": "Damuel (voice)",
+      "profilePath": "/lScrvZi4tKKpk3PbnIjLVjHVNJn.jpg",
+      "order": 12
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ff2cc329-9afc-4979-912a-9c0f8ac98dd3",
+      "tvSeriesId": "659275a2-b427-4f61-a29e-7b0b04f3ddbd",
+      "tmdbId": 508944,
+      "seasonNumber": 2,
+      "name": "Adopted Daughter of an Archduke",
+      "overview": "",
+      "posterPath": "/jvjMlgmffepr5hcvbXXEo27dsms.jpg",
+      "airDate": "2026-04-04",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-10-23T07:02:07.226Z",
+      "updatedAt": "2026-10-23T07:07:19.910Z"
+    }
+  ]
+}

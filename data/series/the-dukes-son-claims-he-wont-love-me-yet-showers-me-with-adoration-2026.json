@@ -1,0 +1,136 @@
+{
+  "slug": "the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration-2026",
+  "id": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+  "title": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration",
+  "overview": "An arranged marriage. Two complete strangers. One adorable romance! When cheerful noblewoman Elsa is suddenly wed to the reserved duke-to-be Julius, neither expects their political marriage to spark something more. As awkward misunderstandings, sweet gestures, and growing feelings pile up, these newlyweds discover that falling in love might be the easiest—and hardest—part of married life.",
+  "tagline": null,
+  "posterPath": "/5b1N0m30WUmRtjZEs0UWjllVvhA.jpg",
+  "backdropPath": "/fbn801LwOIQ04eFvPT2VNVAgZRc.jpg",
+  "logoPath": "/xEWcOO60nmMcvBE8KCKSrjh9qql.png",
+  "firstAirDate": "2026-07-05",
+  "voteAverage": "7.90",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "9ea7ccda-4198-441e-9c93-c7b1bc86a3bc",
+      "tvSeriesId": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+      "tmdbPersonId": 1388751,
+      "name": "Soma Saito",
+      "character": "Julius Royus (voice)",
+      "profilePath": "/8W8Y02Jmjivw0kk5PDih9dqiyd9.jpg",
+      "order": 0
+    },
+    {
+      "id": "e4a75125-43a9-4305-9083-ca04c5c38ec2",
+      "tvSeriesId": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+      "tmdbPersonId": 1224288,
+      "name": "Yui Ishikawa",
+      "character": "Elsa Eukrainen (voice)",
+      "profilePath": "/zptGIN1iklKJL1xrfHKOpxR2qJ9.jpg",
+      "order": 1
+    },
+    {
+      "id": "a8b200a9-7008-4bdf-8241-a8688590dced",
+      "tvSeriesId": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+      "tmdbPersonId": 554513,
+      "name": "Mariko Kouda",
+      "character": "Sophia Eukrainen (voice)",
+      "profilePath": "/gmhgVyiHoN4B2JBD5X8uPwG8vir.jpg",
+      "order": 2
+    },
+    {
+      "id": "441364cb-239f-4eed-8404-a4384bb0e361",
+      "tvSeriesId": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+      "tmdbPersonId": 110665,
+      "name": "Daisuke Namikawa",
+      "character": "Lucas Eukrainen (voice)",
+      "profilePath": "/iw0X8oDutxaBAri3Ifga8nhdUJK.jpg",
+      "order": 3
+    },
+    {
+      "id": "d1b93a93-44b6-4c31-85a2-b273371428a6",
+      "tvSeriesId": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+      "tmdbPersonId": 1296667,
+      "name": "Maaya Uchida",
+      "character": "Tanja (voice)",
+      "profilePath": "/lrcxZXkIgHU55dMs8C4DKkUohqJ.jpg",
+      "order": 4
+    },
+    {
+      "id": "3885b459-56b0-4be9-9fc9-ece1fd86174e",
+      "tvSeriesId": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+      "tmdbPersonId": 3057756,
+      "name": "Makoto Tamura",
+      "character": "Stim (voice)",
+      "profilePath": "/ehSYoUftxHWCMwz5s4ELu5fTEaw.jpg",
+      "order": 5
+    },
+    {
+      "id": "6e309ae6-541e-48f5-bb6a-c32903a926b8",
+      "tvSeriesId": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+      "tmdbPersonId": 114299,
+      "name": "Ryohei Kimura",
+      "character": "Josef Aleksis Ralt (voice)",
+      "profilePath": "/m4GktFKhjrVTewsZtqTusInHZqT.jpg",
+      "order": 6
+    },
+    {
+      "id": "d2892ba6-a2ff-4534-8d88-d40599009a83",
+      "tvSeriesId": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+      "tmdbPersonId": 1324927,
+      "name": "Chika Anzai",
+      "character": "Serafiina Parnilla (voice)",
+      "profilePath": "/lk3Az9O67qrXR69rctwDDHWqi9d.jpg",
+      "order": 7
+    },
+    {
+      "id": "629472cb-fbaf-4e9a-bbae-ed3ffbf0add7",
+      "tvSeriesId": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+      "tmdbPersonId": 1587124,
+      "name": "Hibiku Yamamura",
+      "character": "Rebeka Rikkonen (voice)",
+      "profilePath": "/7mZ02XdjbbO0AnsX5Fwr23ZFe3G.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "de89e62f-ba05-40ec-8012-198baf3e2e2c",
+      "tvSeriesId": "8d9cd43b-4b72-4626-ae60-ecbeb179877c",
+      "tmdbId": 502504,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/5b1N0m30WUmRtjZEs0UWjllVvhA.jpg",
+      "airDate": "2026-07-05",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-30T16:01:07.321Z",
+      "updatedAt": "2026-09-30T16:18:31.434Z"
+    }
+  ]
+}

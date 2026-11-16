@@ -1,0 +1,131 @@
+{
+  "slug": "the-kicks-2016",
+  "id": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+  "title": "The Kicks",
+  "overview": "Devin Burke and her family have moved cross-country to California and now must adjust to a new life and a new soccer team. The Kentville Kicks don't quite play up to the standard that Devin is used to, so she must establish herself as a leader while also trying to make friends in a strange place.",
+  "tagline": null,
+  "posterPath": "/lEczQVS7u92ntfZQlqY1hpMie3N.jpg",
+  "backdropPath": "/6fTeKnr6Iz3TnZ4WK4BcYt92hTT.jpg",
+  "logoPath": "/ajBWHopvdceRlyoXBIrSyhlG6XD.png",
+  "firstAirDate": "2016-08-26",
+  "voteAverage": "6.32",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "287453f2-41af-475a-bbf2-e343fdce54bb",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbPersonId": 1694921,
+      "name": "Sixx Orange",
+      "character": "Devin Burke",
+      "profilePath": "/iSqMqB3oUR4m2JNwnBjtFAAO9Lt.jpg",
+      "order": 0
+    },
+    {
+      "id": "16395ed1-c91e-4c93-acff-26e96f2d68f4",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbPersonId": 1694922,
+      "name": "Gabe Eggerling",
+      "character": "Bailey Burke",
+      "profilePath": "/tPJj93cW9Wp9axYNoNz7yGzZjM9.jpg",
+      "order": 1
+    },
+    {
+      "id": "d56cf613-65b4-4732-b62e-c996078b98b8",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbPersonId": 1021431,
+      "name": "Sophia Mitri Schloss",
+      "character": "Emma Gelbaum",
+      "profilePath": "/blU5kgQXvMA208TnEppj5OlphyR.jpg",
+      "order": 2
+    },
+    {
+      "id": "5f07bc5b-1780-448f-ac78-231d58e4a030",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbPersonId": 1694924,
+      "name": "Tim Martin Gleason",
+      "character": "Tom Burke",
+      "profilePath": "/b8zCo6Y2WR9DuMVmbaBtaCNAuky.jpg",
+      "order": 3
+    },
+    {
+      "id": "c4f888b3-c01d-41f3-bb43-aaf15c132e37",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbPersonId": 210877,
+      "name": "Isabella Acres",
+      "character": "Mirabelle Harris",
+      "profilePath": "/zNe900NIdEN9aYQ6ujj1lCUqUqG.jpg",
+      "order": 4
+    },
+    {
+      "id": "69b7c119-ef16-4028-bd4e-b2dc17e7e79c",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbPersonId": 1503922,
+      "name": "Emyri Crutchfield",
+      "character": "Zoe Knox",
+      "profilePath": "/wsdVu6Duu5MjvAc82u1rrNM2AAK.jpg",
+      "order": 5
+    },
+    {
+      "id": "36355c01-c2ca-41f4-a44f-eb8d072f350c",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbPersonId": 1378612,
+      "name": "Monica Lacy",
+      "character": "Sharon Burke",
+      "profilePath": "/7cEcpKjKSklDEjqFSRvvekdxprr.jpg",
+      "order": 6
+    },
+    {
+      "id": "103619af-c8f2-47a5-b0ed-47d1fbb40d5a",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbPersonId": 1158064,
+      "name": "Noah Urrea",
+      "character": "Cody McBride",
+      "profilePath": "/apTW76JXQ82kKjuT1VH2I0fW1MC.jpg",
+      "order": 500
+    },
+    {
+      "id": "1084432d-4e51-47bc-93d2-857127f79cf4",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbPersonId": 1767444,
+      "name": "Lisa Yamada",
+      "character": "Kara",
+      "profilePath": "/jYKS7ZcJvpkS7BzB20FNdcI2sYA.jpg",
+      "order": 501
+    },
+    {
+      "id": "9c153045-9394-4b93-aab2-1928514ad2d4",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbPersonId": 1583971,
+      "name": "Ashley Liao",
+      "character": "Parker Zhao",
+      "profilePath": "/jGgQh6NRgKsTYlHVF8M23nhzN6X.jpg",
+      "order": 502
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ae42c6f3-82a8-42ba-977b-338ab26f924e",
+      "tvSeriesId": "3aa03b15-e9c6-45fe-b477-9155882cf2f4",
+      "tmdbId": 81134,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/oxGQDC5WLOKjgO5rgWt9dZJ1wpL.jpg",
+      "airDate": "2016-08-26",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-22T20:42:47.607Z",
+      "updatedAt": "2026-09-22T20:45:45.397Z"
+    }
+  ]
+}

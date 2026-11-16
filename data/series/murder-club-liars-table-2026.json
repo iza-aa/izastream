@@ -1,0 +1,120 @@
+{
+  "slug": "murder-club-liars-table-2026",
+  "id": "5b9fb473-02e3-432f-bfb5-a7dbe1d17bd4",
+  "title": "Murder Club: Liar's Table",
+  "overview": "A competitive mystery-variety series fusing deduction, role-play, and entertainment. Each episode drops the cast into a murder case as characters who gather clues, hold secret talks, and complete the story themselves—from the opening crime through character intros, clue rounds, interviews, a final vote, and the ending.",
+  "tagline": null,
+  "posterPath": "/8GrVOoXDa7QPgaxyZTKYWQGp23a.jpg",
+  "backdropPath": "/4HwjsN3EsHmMJvs0jNzwblKHtUZ.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-07-29",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b6221f1c-9535-4108-b277-7f3dcc26422f",
+      "tvSeriesId": "5b9fb473-02e3-432f-bfb5-a7dbe1d17bd4",
+      "tmdbPersonId": 3527057,
+      "name": "Pani Bottle",
+      "character": "Self",
+      "profilePath": "/hiTQwCCManGNBHWLa5rORYlnPeq.jpg",
+      "order": 0
+    },
+    {
+      "id": "fcb057d3-104c-46b4-9344-096c72461275",
+      "tvSeriesId": "5b9fb473-02e3-432f-bfb5-a7dbe1d17bd4",
+      "tmdbPersonId": 3663484,
+      "name": "Lee Sang-hyeok",
+      "character": "Self",
+      "profilePath": "/lR2lRxahvoktFVFcwkokk0lWski.jpg",
+      "order": 1
+    },
+    {
+      "id": "79e74954-5ecf-43c6-96d7-8e1d897909ce",
+      "tvSeriesId": "5b9fb473-02e3-432f-bfb5-a7dbe1d17bd4",
+      "tmdbPersonId": 2714743,
+      "name": "Choi Yang-rak",
+      "character": "Self",
+      "profilePath": "/rjdx66l95ns43rvYh0SGRRcUTUM.jpg",
+      "order": 2
+    },
+    {
+      "id": "21eaaefe-2cfa-4fd9-9699-8800677595b1",
+      "tvSeriesId": "5b9fb473-02e3-432f-bfb5-a7dbe1d17bd4",
+      "tmdbPersonId": 3571181,
+      "name": "Eom Ji-yoon",
+      "character": "Self",
+      "profilePath": "/61XiWj6MuDnA7Dx3vu5C5zgsy78.jpg",
+      "order": 3
+    },
+    {
+      "id": "99e21313-9400-4131-b438-5b2a7c4ce709",
+      "tvSeriesId": "5b9fb473-02e3-432f-bfb5-a7dbe1d17bd4",
+      "tmdbPersonId": 1335825,
+      "name": "Shin Sung-rok",
+      "character": "Self",
+      "profilePath": "/6ajwIMcTc2jVFsjVOx2W0XARxpj.jpg",
+      "order": 4
+    },
+    {
+      "id": "64a2eec9-6293-4430-a7c3-6ffed4542f09",
+      "tvSeriesId": "5b9fb473-02e3-432f-bfb5-a7dbe1d17bd4",
+      "tmdbPersonId": 4702905,
+      "name": "Kim Seon-tae",
+      "character": "Self",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "4d6b17ac-2c8f-4724-bd51-c2b9ac9f7043",
+      "tvSeriesId": "5b9fb473-02e3-432f-bfb5-a7dbe1d17bd4",
+      "tmdbPersonId": 1255918,
+      "name": "MAX Changmin",
+      "character": "Self",
+      "profilePath": "/4zQDFt8JAikGGdgyifJkO3jLL23.jpg",
+      "order": 6
+    },
+    {
+      "id": "f78b70eb-6fe0-42d0-9e72-dafb277b1f4b",
+      "tvSeriesId": "5b9fb473-02e3-432f-bfb5-a7dbe1d17bd4",
+      "tmdbPersonId": 2524815,
+      "name": "Choi Beom-gyu",
+      "character": "Self",
+      "profilePath": "/x1j6aCxAKvSQTUMVzQFEtG5760u.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "bb64456b-b24a-4c13-80ed-35fd13f4a19d",
+      "tvSeriesId": "5b9fb473-02e3-432f-bfb5-a7dbe1d17bd4",
+      "tmdbId": 533225,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9ZEQFbWKq9sSVldYLEHWCAriM9l.jpg",
+      "airDate": "2026-07-29",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-09-05T16:17:51.526Z",
+      "updatedAt": "2026-09-05T16:23:30.828Z"
+    }
+  ]
+}

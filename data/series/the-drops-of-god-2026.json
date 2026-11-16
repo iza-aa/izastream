@@ -1,0 +1,145 @@
+{
+  "slug": "the-drops-of-god-2026",
+  "id": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+  "title": "The Drops of God",
+  "overview": "When world-renowned wine critic Toyotaka Kanzaki passes away, he leaves behind an enviable collection. The will promises his estate to whoever correctly guesses the brand and year of the 12 greatest wines he selected, and the legendary wine that stands atop them all, \"Drops of God.\" The challengers are Toyotaka's son, Shizuku Kanzaki, and a young critic, Issei Tomine, who was adopted by Toyotaka.",
+  "tagline": "Uncork the moment.",
+  "posterPath": "/e0HIphKTbM0YjWCASdCsjYtESHG.jpg",
+  "backdropPath": "/dWhXUMlQuSoASikDLbUfKyPtGeB.jpg",
+  "logoPath": "/wMLUsLHov4ci8vVDrLWt8IxsF1w.png",
+  "firstAirDate": "2026-04-10",
+  "voteAverage": "6.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "06219645-b452-4682-b2b3-efa075097897",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbPersonId": 1253431,
+      "name": "Takuya Sato",
+      "character": "Issei Tomine (voice)",
+      "profilePath": "/xZgoTs6DOSneHkoOWL751pQzLru.jpg",
+      "order": 0
+    },
+    {
+      "id": "b247a91f-8fef-4725-90a1-7ef99b220a97",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbPersonId": 1186429,
+      "name": "Kazuya Kamenashi",
+      "character": "Shizuku Kanzaki (voice)",
+      "profilePath": "/qCScLh3AOnHjQKT9C9G4alg8k8c.jpg",
+      "order": 1
+    },
+    {
+      "id": "b8f27798-d168-426a-8d25-c6487c05caf8",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbPersonId": 1296667,
+      "name": "Maaya Uchida",
+      "character": "Miyabi Shinohara (voice)",
+      "profilePath": "/lrcxZXkIgHU55dMs8C4DKkUohqJ.jpg",
+      "order": 2
+    },
+    {
+      "id": "947cad54-1732-4fea-acda-4c32f1fd5502",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbPersonId": 122481,
+      "name": "Banjo Ginga",
+      "character": "Yutaka Kanzaki (voice)",
+      "profilePath": "/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg",
+      "order": 3
+    },
+    {
+      "id": "0a60001b-859d-47e2-acdf-c54786ef4821",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbPersonId": 222340,
+      "name": "Yuhko Kaida",
+      "character": "Ryōko Kiryū (voice)",
+      "profilePath": "/wttsRGyYySLPfNcDtAbNLVizHLx.jpg",
+      "order": 4
+    },
+    {
+      "id": "c1ed2ccf-92f9-4bba-b943-1433f2ee1613",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbPersonId": 1907685,
+      "name": "Shinshu Fuji",
+      "character": "Shirō Fujieda (voice)",
+      "profilePath": "/8fXdQIi2fyRydEMdOb26ogXHe8P.jpg",
+      "order": 5
+    },
+    {
+      "id": "283bde01-e834-43a7-b840-76a221150b13",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbPersonId": 126688,
+      "name": "Misa Watanabe",
+      "character": "Maki Saionji (voice)",
+      "profilePath": "/xpSscu4DFL2uF64SOf37RGU3kAe.jpg",
+      "order": 6
+    },
+    {
+      "id": "cf9ed73c-b52a-40b0-a6d4-b766db8202fe",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbPersonId": 1252998,
+      "name": "Yuuya Uchida",
+      "character": "Sōichirō Mishima (voice)",
+      "profilePath": "/4xLLQGEDWtmLWUapo0UnfvCdsXp.jpg",
+      "order": 7
+    },
+    {
+      "id": "fdb5e42f-f02b-4ed1-8b70-ff0703272aff",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbPersonId": 1253730,
+      "name": "Jin Urayama",
+      "character": "Robert Doi (voice)",
+      "profilePath": "/5D6QFwS5aOk6agnOjLEwpbJoW9Z.jpg",
+      "order": 8
+    },
+    {
+      "id": "c20bd004-1ab9-4402-8466-cc52a7a160b4",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbPersonId": 1691384,
+      "name": "Lynn",
+      "character": "Sara (voice)",
+      "profilePath": "/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "c3f6718a-2c9f-445f-a2fd-6de9a789c28a",
+      "tvSeriesId": "8e9236ad-5f72-4aad-9c0a-9b9f5976f6e0",
+      "tmdbId": 485724,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "When world-renowned wine critic Toyotaka Kanzaki passes away, he leaves behind an enviable and priceless wine collection. His will promises the entire estate to whoever can correctly guess the brand and vintage of the 12 greatest wines he selected, and the ultimate legendary bottle that stands atop them all, the \"Drops of God\". This sparks an intense battle of senses between Toyotaka's biological son, Shizuku Kanzaki, who has never tasted a drop of wine, and Issei Tomine, a brilliant young wine critic whom Toyotaka recently adopted. To defeat his rival, Shizuku must dive into the complex world of enology and awaken his dormant, god-gifted palate.",
+      "posterPath": "/e0HIphKTbM0YjWCASdCsjYtESHG.jpg",
+      "airDate": "2026-04-10",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-09-28T16:58:39.183Z",
+      "updatedAt": "2026-09-28T17:02:12.773Z"
+    }
+  ]
+}

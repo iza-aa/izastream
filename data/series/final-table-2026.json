@@ -1,0 +1,122 @@
+{
+  "slug": "final-table-2026",
+  "id": "923b9d87-b412-46ed-b0b0-79c50733626b",
+  "title": "Final Table",
+  "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+  "tagline": "Bring the perfect dish to life.",
+  "posterPath": "/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+  "backdropPath": "/gq3FEuYsUl1r4rQYDCaQvzw1bOd.jpg",
+  "logoPath": "/vq16te42JYLeIsvuA6rfQVy9cJt.png",
+  "firstAirDate": "2026-10-24",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "868cb559-5dce-4bd2-a7a2-a7fd110d1e86",
+      "tvSeriesId": "923b9d87-b412-46ed-b0b0-79c50733626b",
+      "tmdbPersonId": 1571598,
+      "name": "Ahn Hyo-seop",
+      "character": "Kang Han / Chris K",
+      "profilePath": "/hVnKQ5WO8MGFrm6ShPmL90NZloV.jpg",
+      "order": 0
+    },
+    {
+      "id": "dcecdf70-4570-469f-ba71-04aa7e864f08",
+      "tvSeriesId": "923b9d87-b412-46ed-b0b0-79c50733626b",
+      "tmdbPersonId": 4084216,
+      "name": "Hong Hwa-yeon",
+      "character": "Choi Song-i",
+      "profilePath": "/XzUpzJuGHsghd1ZolrFU7JIXOV.jpg",
+      "order": 1
+    },
+    {
+      "id": "ae070a55-4c7e-4c08-aeee-1352e9ac3a61",
+      "tvSeriesId": "923b9d87-b412-46ed-b0b0-79c50733626b",
+      "tmdbPersonId": 3003834,
+      "name": "Chang Ryul",
+      "character": "Cha Woo-jin",
+      "profilePath": "/ad3JzZUeo9jj3UpRK4NoYioCIxQ.jpg",
+      "order": 2
+    },
+    {
+      "id": "22b472e0-e3ad-48ad-b8a5-5494d891871a",
+      "tvSeriesId": "923b9d87-b412-46ed-b0b0-79c50733626b",
+      "tmdbPersonId": 1554866,
+      "name": "Eugene Jung",
+      "character": "Seon Jeong-won",
+      "profilePath": "/iiY8UUU93EjutlfRrTZTPm566d6.jpg",
+      "order": 3
+    },
+    {
+      "id": "31b9416a-94b5-4cc4-9e93-ac3a1c3eacfc",
+      "tvSeriesId": "923b9d87-b412-46ed-b0b0-79c50733626b",
+      "tmdbPersonId": 93996,
+      "name": "Jang Young-nam",
+      "character": "Moon Hae-seon",
+      "profilePath": "/u0hl8WSswFhKVaKwaMAERU0xUJk.jpg",
+      "order": 4
+    },
+    {
+      "id": "bc048b06-9119-441d-ac90-682d0ea57a6f",
+      "tvSeriesId": "923b9d87-b412-46ed-b0b0-79c50733626b",
+      "tmdbPersonId": 1711062,
+      "name": "Cha Ji-yeon",
+      "character": "Baek Hyeon-ju",
+      "profilePath": "/6ntm2nrIvIcb8ifMpyalDNaUVoF.jpg",
+      "order": 5
+    },
+    {
+      "id": "10f2902a-e370-4aac-a2e3-d9fbddc185b7",
+      "tvSeriesId": "923b9d87-b412-46ed-b0b0-79c50733626b",
+      "tmdbPersonId": 6520763,
+      "name": "Lee Je-hyeong",
+      "character": "Hall staff 2",
+      "profilePath": "/6uHH9mvl3l1yysO8yvOcaT05YSS.jpg",
+      "order": 6
+    },
+    {
+      "id": "093d75ae-5c5a-45dd-94a9-963360b288c1",
+      "tvSeriesId": "923b9d87-b412-46ed-b0b0-79c50733626b",
+      "tmdbPersonId": 3796067,
+      "name": "Bret Allan Lindquist",
+      "character": "Belgium - Chef A",
+      "profilePath": "/9K51gOdC3OU1SPmIiwvrgshOPQn.jpg",
+      "order": 7
+    },
+    {
+      "id": "65fe550b-a5b9-4355-91e1-41af94d931cb",
+      "tvSeriesId": "923b9d87-b412-46ed-b0b0-79c50733626b",
+      "tmdbPersonId": 571168,
+      "name": "Kwak Min-ho",
+      "character": "Special appearance",
+      "profilePath": "/6VQRu8TFY5iqBsDDMuIeCFBxkU5.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "5fca4918-f11e-4421-aa1f-8f25801a6202",
+      "tvSeriesId": "923b9d87-b412-46ed-b0b0-79c50733626b",
+      "tmdbId": 505405,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/uO1teDsPlsd60laweip8qHVv98E.jpg",
+      "airDate": "2026-10-24",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-24T18:52:47.549Z",
+      "updatedAt": "2026-11-15T17:52:43.297Z"
+    }
+  ]
+}

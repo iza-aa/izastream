@@ -1,0 +1,395 @@
+{
+  "slug": "tony-2026",
+  "id": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+  "tmdbId": 1329016,
+  "imdbId": "tt33095251",
+  "title": "Tony",
+  "originalTitle": "Tony",
+  "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+  "tagline": "\"I was — to be frank — a spoiled, miserable, narcissistic, self-destructive and thoughtless young lout, and badly in need of a good ass-kicking.\"",
+  "posterPath": "/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+  "backdropPath": "/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+  "logoPath": "/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+  "backdrops": [
+    "/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+    "/5S0rf3WfXJeRGEZid7zjgvy1mPJ.jpg",
+    "/zW04EiYFK9SNNbbEmCiWxKzF4Cw.jpg",
+    "/mtQersk06ioKkNYnhxaVMPTJ4ae.jpg",
+    "/qcRyVqPuSoZ9ykYi63FrRm0KV45.jpg",
+    "/5u3907N7TqkY138EO4frFwQ4Q4P.jpg",
+    "/aN7Zwr0XabRS3LUtI5P8vprDaK7.jpg",
+    "/ntdZfSWp5pdtjBerzBg3nefbkpY.jpg",
+    "/kfvsv2HiqFshQQy8MhnCeC8qv5F.jpg",
+    "/kxdnWVcvai1PHNd7LOp3RpAJV92.jpg"
+  ],
+  "releaseDate": "2026-08-07",
+  "runtime": 107,
+  "voteAverage": "7.60",
+  "popularity": null,
+  "popularityScore": 293,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
+  "quality": "WEB-DL",
+  "director": "Matt Johnson",
+  "directorTmdbId": 1144092,
+  "directorProfilePath": "/3COKJ3lpoXhxgRELso9kmwDH29b.jpg",
+  "productionCompanies": [
+    {
+      "id": 27497,
+      "name": "Star Thrower Entertainment",
+      "logo_path": "/F8mSKEBTORPIYJ3XNvSFb5FEUD.png"
+    },
+    {
+      "id": 72063,
+      "name": "Zapruder Films",
+      "logo_path": "/5SY5dqqXqmZHzl1rgUuSYF7EvZf.png"
+    },
+    {
+      "id": 41077,
+      "name": "A24",
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 586,
+      "name": "new jersey"
+    },
+    {
+      "id": 1228,
+      "name": "1970s"
+    },
+    {
+      "id": 1946,
+      "name": "restaurant"
+    },
+    {
+      "id": 10637,
+      "name": "food"
+    },
+    {
+      "id": 13088,
+      "name": "summer"
+    },
+    {
+      "id": 18293,
+      "name": "chef"
+    },
+    {
+      "id": 180413,
+      "name": "aspiring writer"
+    },
+    {
+      "id": 197153,
+      "name": "provincetown, massachusetts"
+    },
+    {
+      "id": 234042,
+      "name": "late coming of age"
+    },
+    {
+      "id": 360939,
+      "name": "biopic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 7016,
+  "watchlistCount": 104,
+  "favouriteCount": 17,
+  "shareCount": 5,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-18T09:29:15.592Z",
+  "updatedAt": "2026-09-18T09:29:20.150Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "9d0a7c17-520e-469e-ad77-7356075cf9b6",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 3918497,
+      "name": "Dominic Sessa",
+      "character": "Tony",
+      "profilePath": "/cTYdhJrye7oTREIkQaLAuLoJ8Rt.jpg",
+      "order": 0
+    },
+    {
+      "id": "3a5c4f7f-35e4-4c8f-a755-697a2bcc4a00",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 3131,
+      "name": "Antonio Banderas",
+      "character": "Chef",
+      "profilePath": "/n8YlGookYzgD3cmpMP45BYRNIoh.jpg",
+      "order": 1
+    },
+    {
+      "id": "65a6fb96-9485-4b3b-a2f8-0f826e642664",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 1331023,
+      "name": "Emilia Jones",
+      "character": "Nancy",
+      "profilePath": "/xHzb3lgOAwTl2NoGtc3mmY0u8ii.jpg",
+      "order": 2
+    },
+    {
+      "id": "3445aece-82ef-4ea9-a987-81ff4b3215c5",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 3477880,
+      "name": "Leo Woodall",
+      "character": "Sal",
+      "profilePath": "/yv2JjEVm1jLR44ynkyYfhWP4I6r.jpg",
+      "order": 3
+    },
+    {
+      "id": "89421812-f459-4dc1-8004-dcc731e72550",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 1400595,
+      "name": "Stavros Halkias",
+      "character": "Stavros",
+      "profilePath": "/9QB7YGMk6O7hRgGWvK0OimTVzl7.jpg",
+      "order": 4
+    },
+    {
+      "id": "d00e5c6f-2882-42e3-951b-0a4796b23cf5",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 1942129,
+      "name": "Michael Jibrin",
+      "character": "Tyrone",
+      "profilePath": "/uyaW8ltNwdyRIR906uY1gzt4NE7.jpg",
+      "order": 5
+    },
+    {
+      "id": "6fedfa4a-fdcb-40db-b063-c35a97ad85cc",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 221600,
+      "name": "Monica Raymund",
+      "character": "Mary",
+      "profilePath": "/cG8OzzgiAEOO5q1Jw4pC1cdJf7E.jpg",
+      "order": 6
+    },
+    {
+      "id": "915c8d44-4f3f-4096-a673-24a8f16bed53",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 10581,
+      "name": "Rich Sommer",
+      "character": "Pierre",
+      "profilePath": "/cfbJ3nyiyRpSq2mLrbbrbg1k3Dh.jpg",
+      "order": 7
+    },
+    {
+      "id": "851c04a6-34f8-4599-91a5-a4c047101846",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 52776,
+      "name": "Dagmara Dominczyk",
+      "character": "Gladys",
+      "profilePath": "/i1f78OP3G6pksgCcu6AxPgZYEmv.jpg",
+      "order": 8
+    },
+    {
+      "id": "881d140e-0af0-4af1-ae2c-62a728c06636",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 6364844,
+      "name": "Liam Fitch",
+      "character": "Christopher",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "42fa9bd2-4cc0-4736-b6a7-dd03ff4a1e8b",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 1456293,
+      "name": "Caroline Portu",
+      "character": "Robin",
+      "profilePath": "/oNlhhmgVoXldGlTHj1r28pfxUO6.jpg",
+      "order": 10
+    },
+    {
+      "id": "4f220e13-e38a-44aa-a2a7-6689d5ad4f60",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 3038148,
+      "name": "Joe Burns",
+      "character": "Pizza Guy",
+      "profilePath": "/6mKBFEijbJ3lOv7Mi3OE1tQq430.jpg",
+      "order": 11
+    },
+    {
+      "id": "d09733c1-33c2-4b2e-82b0-d231a5c70888",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 1730747,
+      "name": "Allyn Burrows",
+      "character": "Professor Dobson",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "b61178b7-1fe3-443e-8183-ebfde0e694ac",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 6249962,
+      "name": "Reece Grover",
+      "character": "Flip",
+      "profilePath": "/FI9cxiyD4iiMY37yaD7EhvILl.jpg",
+      "order": 13
+    },
+    {
+      "id": "ccfccb6d-6c13-4d26-8e6a-c7e03408c171",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 2500422,
+      "name": "Henry Lynch",
+      "character": "Young Man",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "4aac6453-9d8a-4916-94b4-5e53a7ff22ed",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 6364845,
+      "name": "Ava Davey-Bissett",
+      "character": "Vicki",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "e851f930-8525-45d9-a93c-c4532d9b819f",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 2557278,
+      "name": "Derek K. Moore",
+      "character": "Manny",
+      "profilePath": "/knTcHkHamtSw3NGgbNz9K145W3Q.jpg",
+      "order": 16
+    },
+    {
+      "id": "addbdf68-d349-461c-9ca8-5a98b9535427",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 1786725,
+      "name": "Zele Avradopoulos",
+      "character": "CIA Secretary",
+      "profilePath": "/kLNxsFxEtVU5xC1GHhmmIizQ1jT.jpg",
+      "order": 17
+    },
+    {
+      "id": "049efba5-8390-48f0-8a3b-bb5ce6b6e443",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 1256685,
+      "name": "Eric Ripert",
+      "character": "Cooking Instructor",
+      "profilePath": "/t7mg2rXfEhAPwk1Z9bM0pIQEDbS.jpg",
+      "order": 18
+    },
+    {
+      "id": "718f9b58-c638-4f49-a067-54a114318244",
+      "movieId": "ffc1a734-e002-4f0b-adbd-52a95bdf3ce8",
+      "tmdbPersonId": 6364847,
+      "name": "Joel Alves",
+      "character": "Portuguese Musician",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

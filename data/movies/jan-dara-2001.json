@@ -1,0 +1,359 @@
+{
+  "slug": "jan-dara-2001",
+  "id": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+  "tmdbId": 68507,
+  "imdbId": "tt0282628",
+  "title": "Jan Dara",
+  "originalTitle": "จันดารา",
+  "overview": "Jan is a boy growing up in 1930s Siam in a wealthy, dysfunctional family where sex has a huge impact on everyone's lives. Jan is viewed by his father as cursed, since his mother died giving birth to him.",
+  "tagline": "Asia's erotic phenomenon!",
+  "posterPath": "/vE9h8C2FiOLXwli7NsTcn2MyWm6.jpg",
+  "backdropPath": "/vvEt03Fzgc4NujpknFfR1LrXgno.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/vvEt03Fzgc4NujpknFfR1LrXgno.jpg",
+    "/euLwJxmq9ffcTwunyvZLVrgH7LP.jpg",
+    "/femsB7Q9n3RaYX8h4zwgfhTJ9xh.jpg"
+  ],
+  "releaseDate": "2001-09-28",
+  "runtime": 113,
+  "voteAverage": "5.88",
+  "popularity": "4.028",
+  "popularityScore": 1934,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "BLU-RAY",
+  "director": "Nonzee Nimibutr",
+  "directorTmdbId": null,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 9281,
+      "name": "Tai Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 5346,
+      "name": "Applause Pictures",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 738,
+      "name": "sexuality"
+    },
+    {
+      "id": 190370,
+      "name": "erotic movie"
+    },
+    {
+      "id": 209076,
+      "name": "siam"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 104402,
+  "watchlistCount": 87,
+  "favouriteCount": 30,
+  "shareCount": 7,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-04-03T09:55:21.190Z",
+  "updatedAt": "2026-04-03T09:55:21.190Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2a9b243c-f1a5-4c42-b04c-1f3d29223f1e",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 134724,
+      "name": "Suwinit Panjamawat",
+      "character": "Young Jan Dara",
+      "profilePath": "/118GHdARz8B39vU6VEk79LlgIz0.jpg",
+      "order": 0
+    },
+    {
+      "id": "db269832-1858-44a0-b006-690c8f9d9f85",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 64357,
+      "name": "Santisuk Promsiri",
+      "character": "Luang Wissanandacha",
+      "profilePath": "/grGMsczoVmp1hlZMKT1V7j1gP0I.jpg",
+      "order": 1
+    },
+    {
+      "id": "598f66aa-1158-4c3d-9d3b-348a546d1ae4",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 54615,
+      "name": "Christy Chung Lai-Tai",
+      "character": "Miss Boonlueang",
+      "profilePath": "/rQQNS5IrnDytJinm8RqJ4lJBjd7.jpg",
+      "order": 2
+    },
+    {
+      "id": "24ac8ae0-969e-4937-be6d-be7e5cb49d14",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 1346044,
+      "name": "Egkarat Sarasook",
+      "character": "Jan Dara",
+      "profilePath": "/ymC07qh0KCH0ZiliG0TzYw1J5w1.jpg",
+      "order": 3
+    },
+    {
+      "id": "c6890f78-68b5-4790-8884-dc2e9f2753a9",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 552426,
+      "name": "Wipawee Charoenpura",
+      "character": "Mrs. Waad",
+      "profilePath": "/rnIYfEJNyLVxu4BGYuBZvPzvtpR.jpg",
+      "order": 4
+    },
+    {
+      "id": "751216bb-953e-499a-9c4d-f692f3b5753b",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 31043,
+      "name": "Patharawarin Timkul",
+      "character": "Miss Kaew",
+      "profilePath": "/nmg6KQPv6yuePo33FCYA5WRKcoY.jpg",
+      "order": 5
+    },
+    {
+      "id": "f4f759b7-8ae4-4ba0-ab33-55f8aa7d308b",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 3935549,
+      "name": "Thana Komentiti",
+      "character": "Hyacinth's Father",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "e51d1b5f-bd80-4b0f-89b3-868407310900",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 2262809,
+      "name": "Sasithorn Panichnok",
+      "character": "Hyacinth",
+      "profilePath": "/eCaBtPuy0JcDCqaxhBwTMQb6hhw.jpg",
+      "order": 7
+    },
+    {
+      "id": "fa3a3b87-b121-4692-aa25-4dab3b5aa9f9",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 3935540,
+      "name": "Kanchit Thamthong",
+      "character": "Ken Krathingthong",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "0544a678-ee4b-40e6-8df0-2406c891e091",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 3935544,
+      "name": "Wanlapa Promnaul",
+      "character": "Dara",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "f7ee0119-2773-42ff-ad39-5993f32ca5e8",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 120258,
+      "name": "Jenjira Pongpas",
+      "character": "Poom",
+      "profilePath": "/2ky0Ma8V198NQlHobOoOorrpDnl.jpg",
+      "order": 10
+    },
+    {
+      "id": "3d6c718e-ff3d-4f68-b197-428b94c7f9d0",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 1656871,
+      "name": "Sukanya Kongkawong",
+      "character": "Saisoi",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "b74fb725-c793-4834-b34a-d0245439d037",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 1340162,
+      "name": "Namgneun Boonnak",
+      "character": "Lady Chom",
+      "profilePath": "/wX80PlXhYr9x0So045pdeJ4o9ZO.jpg",
+      "order": 12
+    },
+    {
+      "id": "b5776f63-3c54-4cd2-a73d-e0a9b1cb8917",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 3935555,
+      "name": "Niwat Pibulsiri",
+      "character": "Grandfather",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "1d944ada-6ef1-4014-97ab-abfa38e53097",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 3935557,
+      "name": "Pornprom Saibour",
+      "character": "Waen",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "384b43ba-cf15-455e-883d-67eef879f64b",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 3935558,
+      "name": "Tanai Tanachanun",
+      "character": "Jom",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "a913e2af-4d7f-4829-9a55-2a997b2cb044",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 3935560,
+      "name": "Surasak Buaploy",
+      "character": "District Chief",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "d969ebc2-33eb-4446-8f9f-8aecb518e875",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 3935562,
+      "name": "Saroj Glinsaroj",
+      "character": "Driver",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "ca6614c6-58f6-45af-bf67-f23e150674fe",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 3935564,
+      "name": "Amornrat Sangthong",
+      "character": "Nian",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "b3b324fa-a59d-40f8-9a49-808001c9f247",
+      "movieId": "ebdbd7f0-d038-4516-9e3f-14e269e3bfe2",
+      "tmdbPersonId": 1135338,
+      "name": "Nirut Saosudchart",
+      "character": "Henchman #1",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

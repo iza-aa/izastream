@@ -1,0 +1,159 @@
+{
+  "slug": "yoroi-shinden-samurai-troopers-2026",
+  "id": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+  "title": "Yoroi-Shinden Samurai Troopers",
+  "overview": "The Demon World once plunged the Human World into terror. With the seal broken and hordes of Demon Soldiers launching an invasion, five young warriors rushed to humanity's rescue. They were called the Samurai Troopers, and now their battle begins anew!",
+  "tagline": null,
+  "posterPath": "/lwByWzKRGP3iLsEoUTblWPLmpyS.jpg",
+  "backdropPath": "/wKILy6ADkaCIbfnam27jWWwlzx9.jpg",
+  "logoPath": "/c2IELSHGFn0j3urtl3mzoHUBQW0.png",
+  "firstAirDate": "2026-01-06",
+  "voteAverage": "7.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c36702ae-ee9f-43c9-99c5-0b0ec5d009c7",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbPersonId": 2392463,
+      "name": "Hiiro Ishibashi",
+      "character": "Gai (voice)",
+      "profilePath": "/xDfX7mWq67zoymw5V7vEu22pf5r.jpg",
+      "order": 0
+    },
+    {
+      "id": "d13e6ecb-d303-4bf2-843d-c211823ef002",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbPersonId": 1606164,
+      "name": "Junya Enoki",
+      "character": "Kaito Uesugi (voice)",
+      "profilePath": "/vBnNL3Jqy0zkS3ZgsXZmvDM9Dfz.jpg",
+      "order": 1
+    },
+    {
+      "id": "c3241c01-daeb-45c3-ba85-d507ac13698c",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbPersonId": 1325230,
+      "name": "Ayumu Murase",
+      "character": "Musashi Hojo (voice)",
+      "profilePath": "/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg",
+      "order": 2
+    },
+    {
+      "id": "88c7f1f3-4cf0-4197-a590-52750635ecc4",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbPersonId": 1563016,
+      "name": "Shunsuke Takeuchi",
+      "character": "Yamato Hojo (voice)",
+      "profilePath": "/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg",
+      "order": 3
+    },
+    {
+      "id": "13be024f-89b1-43bc-aba2-e70dd491b638",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbPersonId": 1975220,
+      "name": "Kentaro Kumagai",
+      "character": "Shion Ishida (voice)",
+      "profilePath": "/hsSdTc4PBuLOQedZMsTS6AHvC8l.jpg",
+      "order": 4
+    },
+    {
+      "id": "8a111ae8-be3d-4e34-bf59-ceb1c78298ce",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbPersonId": 1613352,
+      "name": "Toshiki Masuda",
+      "character": "Ryusei Oda (voice)",
+      "profilePath": "/oMAk5Pu3aazmwFwiVOgyU7iW5ut.jpg",
+      "order": 5
+    },
+    {
+      "id": "1c7a4685-006a-4c1f-a2eb-84fbfc903c80",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbPersonId": 1691384,
+      "name": "Lynn",
+      "character": "Mirei Aragaki (voice)",
+      "profilePath": "/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg",
+      "order": 6
+    },
+    {
+      "id": "bfb363cb-56b9-4064-9353-0b14eea0c66a",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbPersonId": 24647,
+      "name": "Katsuyuki Konishi",
+      "character": "Ramaga (voice)",
+      "profilePath": "/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg",
+      "order": 7
+    },
+    {
+      "id": "dda2bd4b-cf89-4db1-9d86-c31c3fa56b4a",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbPersonId": 1253431,
+      "name": "Takuya Sato",
+      "character": "Sasuke (voice)",
+      "profilePath": "/xZgoTs6DOSneHkoOWL751pQzLru.jpg",
+      "order": 8
+    },
+    {
+      "id": "6d504e9a-1936-4fe1-ab34-0d07f5387792",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbPersonId": 122647,
+      "name": "Kohsuke Toriumi",
+      "character": "Saizo (voice)",
+      "profilePath": "/vlRQ77taCCKh7itCZn3IWJUiYQr.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4eb8c76b-fefe-4a0a-a563-8987de43db2a",
+      "tvSeriesId": "499ca1a4-2fee-4b43-96a5-e992cbf0db68",
+      "tmdbId": 460440,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/gTJXC84z3pq9VxVGjbStvMP0I2g.jpg",
+      "airDate": "2026-01-06",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-10-06T06:56:21.141Z",
+      "updatedAt": "2026-10-06T07:00:24.993Z"
+    }
+  ]
+}

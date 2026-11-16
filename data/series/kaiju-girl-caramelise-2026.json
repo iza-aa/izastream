@@ -1,0 +1,152 @@
+{
+  "slug": "kaiju-girl-caramelise-2026",
+  "id": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+  "title": "KAIJU GIRL CARAMELISE",
+  "overview": "Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!",
+  "tagline": null,
+  "posterPath": "/jnzPR4Pb8T8zwOl6k5ekuW3MSBa.jpg",
+  "backdropPath": "/vvbIW2xspYigrgTHTmTSzVDgfKl.jpg",
+  "logoPath": "/2VL66zj0PkOBeanYQ6ckiAFVR7G.png",
+  "firstAirDate": "2026-07-03",
+  "voteAverage": "7.90",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "90fac2db-80f8-4911-b6e2-b93ec33ee3e6",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbPersonId": 5892199,
+      "name": "Hikari Senga",
+      "character": "Kuroe Akaishi (voice)",
+      "profilePath": "/mjyriDKbzXRo5IicBnvIokDWtFH.jpg",
+      "order": 0
+    },
+    {
+      "id": "069e356e-7b16-4262-b581-2863e46e435b",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbPersonId": 3217990,
+      "name": "Daishi Kajita",
+      "character": "Arata Minami (voice)",
+      "profilePath": "/pWUWU65HiEvUbWGv6GL5YyZDJmG.jpg",
+      "order": 1
+    },
+    {
+      "id": "aca35f53-0b5f-47d0-9577-4c3a77dfeacd",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbPersonId": 1888529,
+      "name": "Akira Sekine",
+      "character": "Manatsu Tomosato (voice)",
+      "profilePath": "/czYoPzAEK1gI7RxRiPyDSFYRm5x.jpg",
+      "order": 2
+    },
+    {
+      "id": "b1daaabf-8fd4-4dc1-a58f-6a6e3b2f875c",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbPersonId": 1124536,
+      "name": "Haruka Shiraishi",
+      "character": "Raimu Kono (voice)",
+      "profilePath": "/hrQxTVNGLi3jXC7v4kETArpA0dV.jpg",
+      "order": 3
+    },
+    {
+      "id": "4169cb86-57d5-4ac9-8d42-d0a6c264c8ac",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbPersonId": 77931,
+      "name": "Kotono Mitsuishi",
+      "character": "Rinko Akaishi (voice)",
+      "profilePath": "/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg",
+      "order": 4
+    },
+    {
+      "id": "a1ceb135-b2e3-4884-8da8-7af10a942f55",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbPersonId": 24647,
+      "name": "Katsuyuki Konishi",
+      "character": "Kotaro Hibino (voice)",
+      "profilePath": "/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg",
+      "order": 5
+    },
+    {
+      "id": "f6b9d52b-7649-4c04-89ab-3baf97e5c30e",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbPersonId": 1325964,
+      "name": "Eriko Matsui",
+      "character": "Jumbo King (voice)",
+      "profilePath": "/atMgu6hwHQisLA2tK8aVmevZYh6.jpg",
+      "order": 6
+    },
+    {
+      "id": "e04e906a-9c64-4b3b-9bc1-9fba5698f9ab",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbPersonId": 1325230,
+      "name": "Ayumu Murase",
+      "character": "Alex (voice)",
+      "profilePath": "/3aGM6KpcCIEKOXP9510tzaKc8uw.jpg",
+      "order": 500
+    },
+    {
+      "id": "2200b098-b00c-4e9d-b373-a0885a72bde8",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbPersonId": 1845268,
+      "name": "Kentaro Tone",
+      "character": "Fried (voice)",
+      "profilePath": "/9IZ9SpSV0P4bJBN8ALll7IYMLG2.jpg",
+      "order": 501
+    },
+    {
+      "id": "5a86ff17-d4e1-4e31-a27e-7bdaa9d36155",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbPersonId": 1960712,
+      "name": "Natsue Sasamoto",
+      "character": "Girl",
+      "profilePath": "/cao8lzCnb80CdSxMPkjBQbWep5q.jpg",
+      "order": 502
+    }
+  ],
+  "seasons": [
+    {
+      "id": "0dd84ab1-cf6b-4b6d-93a6-7ad6c2a08873",
+      "tvSeriesId": "ac725c87-84cb-4ca5-b6e7-916be591116b",
+      "tmdbId": 490647,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/lTijg7xbdB8Ay2SvCc9Ut706DXX.jpg",
+      "airDate": "2026-07-03",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-24T17:28:39.016Z",
+      "updatedAt": "2026-09-24T17:29:58.859Z"
+    }
+  ]
+}

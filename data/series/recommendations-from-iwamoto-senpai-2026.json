@@ -1,0 +1,134 @@
+{
+  "slug": "recommendations-from-iwamoto-senpai-2026",
+  "id": "1b1b1e2d-ca8e-457f-8fea-da4ea9b97823",
+  "title": "Recommendations from Iwamoto-Senpai",
+  "overview": "1910s, Japan. A town with mysterious black snow. Kodo Iwamoto, a student at a military school dedicated to studying the paranormal, is sent to investigate. There, he meets a boy who believes he’s sick, but Kodo recognizes the illness as something else: supernatural abilities. Kodo recruits the boy to the school and sets off across the country, chasing mysteries and searching for others like him.",
+  "tagline": null,
+  "posterPath": "/4Yc6I7jwpu3ThgElYESVMaRuPvd.jpg",
+  "backdropPath": "/wqRNyl1Qrj6ckeJMdCbVyZqdqSl.jpg",
+  "logoPath": "/87kwfjMHH8cSPqNEHadcWsGGm2f.png",
+  "firstAirDate": "2026-07-04",
+  "voteAverage": "6.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "dd136968-58e6-44e4-b675-2b63fd54a8b9",
+      "tvSeriesId": "1b1b1e2d-ca8e-457f-8fea-da4ea9b97823",
+      "tmdbPersonId": 2106489,
+      "name": "Taito Ban",
+      "character": "Kodo Iwamoto (voice)",
+      "profilePath": "/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg",
+      "order": 0
+    },
+    {
+      "id": "adba6880-5e30-424c-81c2-bf7d021419f3",
+      "tvSeriesId": "1b1b1e2d-ca8e-457f-8fea-da4ea9b97823",
+      "tmdbPersonId": 2864258,
+      "name": "Yuki Sakakihara",
+      "character": "Kai Haramachi (voice)",
+      "profilePath": "/4Jj08itCNpPrN1Sr3uv26h1p740.jpg",
+      "order": 1
+    },
+    {
+      "id": "58e9ef63-2aa4-4f39-ab87-d9c7bb25cb21",
+      "tvSeriesId": "1b1b1e2d-ca8e-457f-8fea-da4ea9b97823",
+      "tmdbPersonId": 2022018,
+      "name": "Kent Ito",
+      "character": "Soichiro Amaha (voice)",
+      "profilePath": "/oX9zpjSNyPzbivui2HoMUziDmGh.jpg",
+      "order": 2
+    },
+    {
+      "id": "46196711-85c6-4a5a-8aa9-78bfb9993b12",
+      "tvSeriesId": "1b1b1e2d-ca8e-457f-8fea-da4ea9b97823",
+      "tmdbPersonId": 81244,
+      "name": "Akira Ishida",
+      "character": "Bokyo Kizujo (voice)",
+      "profilePath": "/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg",
+      "order": 3
+    },
+    {
+      "id": "2c20da44-931d-4965-9e63-91eb5a5a4ee6",
+      "tvSeriesId": "1b1b1e2d-ca8e-457f-8fea-da4ea9b97823",
+      "tmdbPersonId": 2652077,
+      "name": "Masaya Fukunishi",
+      "character": "Oni Okuaki (voice)",
+      "profilePath": "/8paIbTobS6266x57pIhJCq3mBJh.jpg",
+      "order": 4
+    },
+    {
+      "id": "38ffa783-06db-4878-be7e-3fc92b22eaa1",
+      "tvSeriesId": "1b1b1e2d-ca8e-457f-8fea-da4ea9b97823",
+      "tmdbPersonId": 1613381,
+      "name": "Takuma Nagatsuka",
+      "character": "Shizuma Aonuma (voice)",
+      "profilePath": "/5IdSSkG5qDJ36MPX3R6oLPk557K.jpg",
+      "order": 5
+    },
+    {
+      "id": "011bfdca-3fa7-45db-bb7b-e3a98c0b71a6",
+      "tvSeriesId": "1b1b1e2d-ca8e-457f-8fea-da4ea9b97823",
+      "tmdbPersonId": 2410694,
+      "name": "Gen Sato",
+      "character": "Ryu Sazame (voice)",
+      "profilePath": "/gdKxR84xGgU19eqWlPKEGZsiID6.jpg",
+      "order": 6
+    },
+    {
+      "id": "593c6c81-5024-415d-9ae9-efa6dda8e804",
+      "tvSeriesId": "1b1b1e2d-ca8e-457f-8fea-da4ea9b97823",
+      "tmdbPersonId": 3457321,
+      "name": "Shinnosuke Tokudome",
+      "character": "Mizuhi Awadama (voice)",
+      "profilePath": "/nt57RoIE4SuAslb4BNIXVoYxGwO.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ee5e7510-098f-4bb7-b604-988b209c1c52",
+      "tvSeriesId": "1b1b1e2d-ca8e-457f-8fea-da4ea9b97823",
+      "tmdbId": 520137,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/4Yc6I7jwpu3ThgElYESVMaRuPvd.jpg",
+      "airDate": "2026-07-04",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-30T16:02:54.409Z",
+      "updatedAt": "2026-10-01T15:59:40.478Z"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "this-love-doesnt-have-long-beans-2024",
+  "id": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+  "title": "This Love Doesn't Have Long Beans",
+  "overview": "Model Plawan, a pad kaprao enthusiast, is hired to train under stern Chef Oab, aiming to win his heart and become his successor.",
+  "tagline": null,
+  "posterPath": "/8JWGotah8kRzwufFvXXvrkZzeYZ.jpg",
+  "backdropPath": "/qSoShinVzMUK0QhtMGoiOD7SJE1.jpg",
+  "logoPath": "/xHs7tVDJ3aISNUZvPRn4DUfAvqo.png",
+  "firstAirDate": "2024-07-05",
+  "voteAverage": "7.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a66dcf78-5df9-4286-b5ca-90fb85d9422a",
+      "tvSeriesId": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+      "tmdbPersonId": 1345320,
+      "name": "Hemmawich Kwanamphaiphan",
+      "character": "Oab",
+      "profilePath": "/1VHmkaTaU1lv3WsLPsXvloLEMle.jpg",
+      "order": 0
+    },
+    {
+      "id": "55c98d63-b0f0-4ceb-b563-116a5fbb8aa5",
+      "tvSeriesId": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+      "tmdbPersonId": 2728558,
+      "name": "Thanapon Aiemkumchai",
+      "character": "Plawan",
+      "profilePath": "/jkXSHggxNBKIhPgGLNrYFjrcWDX.jpg",
+      "order": 1
+    },
+    {
+      "id": "9651a838-bf89-4fa8-88a0-418d33e4524e",
+      "tvSeriesId": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+      "tmdbPersonId": 3595369,
+      "name": "Pantach Kankham",
+      "character": "JJ",
+      "profilePath": "/nqWU5E3kbgi4377XKyyApxP20A4.jpg",
+      "order": 2
+    },
+    {
+      "id": "37a84ef6-83df-4f2e-8418-999f6d73e850",
+      "tvSeriesId": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+      "tmdbPersonId": 2666135,
+      "name": "Atthanin Thaninphanuwiwat",
+      "character": "Methas",
+      "profilePath": "/d4HbkIfCNSOOXL9WYNkmbQIWUrx.jpg",
+      "order": 3
+    },
+    {
+      "id": "61a479ee-03bd-4549-9d23-1da47e28be49",
+      "tvSeriesId": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+      "tmdbPersonId": 3769119,
+      "name": "Kiettisak Vatanavitsakul",
+      "character": "Nubnueng",
+      "profilePath": "/7K35YhfB0VmTOy4O9BFfP5tEZnf.jpg",
+      "order": 4
+    },
+    {
+      "id": "6a2367c6-9993-44a2-a0f7-c03b61615bab",
+      "tvSeriesId": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+      "tmdbPersonId": 4324704,
+      "name": "Asre Wattanayakul",
+      "character": "Otto",
+      "profilePath": "/jUNXXSdQ0k0ied0t1ZXLiyzHES4.jpg",
+      "order": 5
+    },
+    {
+      "id": "2f0f0f20-e462-4025-ad10-45d1bc1ac278",
+      "tvSeriesId": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+      "tmdbPersonId": 3595667,
+      "name": "Tanawat Hudchaleelaha",
+      "character": "Pansip",
+      "profilePath": "/f54fgXRHXgmI4Cf3eqYpMp1ckKU.jpg",
+      "order": 6
+    },
+    {
+      "id": "abd092ce-67c1-4b81-8fe6-72cb0c05dc45",
+      "tvSeriesId": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+      "tmdbPersonId": 4759007,
+      "name": "Kasama Khamtanit",
+      "character": "Kluea",
+      "profilePath": "/lFA2TUTSsD9GJPsNbgxSnzizKk5.jpg",
+      "order": 7
+    },
+    {
+      "id": "027d3f4c-7600-442b-a208-660aa80edbfa",
+      "tvSeriesId": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+      "tmdbPersonId": 4759013,
+      "name": "Jiratchaya Kittavornsakul",
+      "character": "Khaosuay",
+      "profilePath": "/dFEtzDhoMJzKqQTiZzJEWuY9tMw.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "976af7ef-3e3a-4b59-b3c0-b8fdc71fdb84",
+      "tvSeriesId": "3a447b5a-2f3b-41a4-91b5-927ac50ca3eb",
+      "tmdbId": 383810,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Model Plawan, a pad kaprao enthusiast, is hired to train under stern Chef Oab, aiming to win his heart and become his successor.",
+      "posterPath": "/5JzcSf9I0ZcsIYVlDxTvBPVZ4u3.jpg",
+      "airDate": "2024-07-05",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-06-15T19:09:43.578Z",
+      "updatedAt": "2026-06-15T19:12:28.921Z"
+    }
+  ]
+}

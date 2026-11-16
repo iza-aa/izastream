@@ -1,0 +1,138 @@
+{
+  "slug": "shine-2025",
+  "id": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+  "title": "Shine",
+  "overview": "In 1969 Bangkok, idealistic economist Trin meets carefree musician Tanwa amid political unrest, sparking a forbidden romance that tests their beliefs.",
+  "tagline": "We love. We fight. We shine.",
+  "posterPath": "/wRVei6yluFs8JrA1yP8FrEG5djy.jpg",
+  "backdropPath": "/bnsm6aeVDxXRg39uJZLjDhQvxyz.jpg",
+  "logoPath": "/7ggCcji5McEF4bwXMmiHdFuHPDi.png",
+  "firstAirDate": "2025-08-02",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "1de0078f-f038-4fba-87f2-c36e7584a1cb",
+      "tmdbId": 10752,
+      "name": "War",
+      "slug": "war",
+      "createdAt": "2026-04-02T13:49:04.263Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b36dcce2-9407-4797-a36a-4d33573b0de7",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbPersonId": 3030320,
+      "name": "Nattawin Wattanagitiphat",
+      "character": "Trin",
+      "profilePath": "/jE8fUezSByytab72ywC1ZelLl1e.jpg",
+      "order": 0
+    },
+    {
+      "id": "2b7766a8-550b-481e-b723-203509d62b8b",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbPersonId": 3030319,
+      "name": "Phakphum Romsaithong",
+      "character": "Tanwa",
+      "profilePath": "/yNdJB94CnVXfGPACgtwBrVXezmh.jpg",
+      "order": 1
+    },
+    {
+      "id": "4733fb7c-9a5a-461d-9499-7b323fb4b16b",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbPersonId": 1259426,
+      "name": "Yuke Songpaisan",
+      "character": "Krailert",
+      "profilePath": "/uylW0Rv8SLM97vtBHy95eBiOEz.jpg",
+      "order": 2
+    },
+    {
+      "id": "a74c9a96-61ce-4e9e-a986-975694dad8cb",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbPersonId": 3294119,
+      "name": "Yotsawat Tawapee",
+      "character": "Naran",
+      "profilePath": "/oEhco9gGsYh5skWYlOJ6g1frlsN.jpg",
+      "order": 3
+    },
+    {
+      "id": "d7237920-3dc7-4c5d-acaf-092699fd79d7",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbPersonId": 5500821,
+      "name": "Peter Deriy",
+      "character": "Victor",
+      "profilePath": "/urDkJewquuNwtK3toSxlWQNwncP.jpg",
+      "order": 4
+    },
+    {
+      "id": "8dfb1c31-0845-445b-87ab-7d56efad6a3a",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbPersonId": 4023239,
+      "name": "Thanawat Shinawatra",
+      "character": "Wut",
+      "profilePath": "/5fpjGQvmO0RyHKklOxyCvm2tH1H.jpg",
+      "order": 5
+    },
+    {
+      "id": "c11ae33a-4972-48d0-9bf8-2ed4b95fac3f",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbPersonId": 4023245,
+      "name": "Athens Werapatanakul",
+      "character": "Tiva",
+      "profilePath": "/jGJhkTe8ADmMEdU8NvIL67Dts7l.jpg",
+      "order": 6
+    },
+    {
+      "id": "1607c028-31c4-4d88-9574-a07ff74056d4",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbPersonId": 4023261,
+      "name": "Pawat Akkradetsakul",
+      "character": "Narong",
+      "profilePath": "/5U6TquwibqbYgBKpuvStq8HIsDm.jpg",
+      "order": 7
+    },
+    {
+      "id": "c85635bc-e676-4df5-bfe7-acc7848fc137",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbPersonId": 5060721,
+      "name": "Senam Rakphu",
+      "character": "Nuch",
+      "profilePath": "/vdGyKnFbz5ZpWhLLm4evH7pwFM0.jpg",
+      "order": 8
+    },
+    {
+      "id": "9cfabc71-2cd6-48cd-a2c1-103eebdc86d6",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbPersonId": 570948,
+      "name": "Pimolrat Pisolyabutr",
+      "character": "Dhevi",
+      "profilePath": "/20h6Ll8diuOPkmKdIGxLLxjGOxr.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "67651fb9-aa37-48b7-95b9-b832630efd46",
+      "tvSeriesId": "9b0c44ca-0632-43c6-8a10-558fa3482aba",
+      "tmdbId": 376950,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "In 1969 Bangkok, idealistic economist Trin meets carefree musician Tanwa amid political unrest, sparking a forbidden romance that tests their beliefs.",
+      "posterPath": "/2idBtZ9gR5IOcF8EO5s8NcUXafI.jpg",
+      "airDate": "2025-08-02",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-08-04T05:48:32.111Z",
+      "updatedAt": "2026-08-04T05:49:16.863Z"
+    }
+  ]
+}

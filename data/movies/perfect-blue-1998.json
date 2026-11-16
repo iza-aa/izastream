@@ -1,0 +1,477 @@
+{
+  "slug": "perfect-blue-1998",
+  "id": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+  "tmdbId": 10494,
+  "imdbId": "tt0156887",
+  "title": "Perfect Blue",
+  "originalTitle": "PERFECT BLUE",
+  "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.",
+  "tagline": "\"excuse me... who are you?\"",
+  "posterPath": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+  "backdropPath": "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+  "logoPath": "/uaESAR4vXDKnPa0aBvIGu2JgRHH.png",
+  "backdrops": [
+    "/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+    "/1YRtgjLb5xxUb2rsNRnr54Oc0B2.jpg",
+    "/A1Larywbw79kZQqkvCEiPHJqdLN.jpg",
+    "/dVanL4a1kx0mXeZSOhVWSiJ27Pa.jpg",
+    "/ns4vN9p3Z0inYlhh4q9vYXUw3zp.jpg",
+    "/tSkeqUxitsSpjgjThGh7nimCa1K.jpg",
+    "/fWxuKES1cQMKsQTtdORYkhpr9Yq.jpg",
+    "/wqNks7mG1SR8FXQyFnoCW9WksP8.jpg",
+    "/wLQ4Xj8IYBBp5pzQPHlTfxHHK47.jpg",
+    "/hufoIl9u3j0dOKeQy5NUWFK7Kt2.jpg"
+  ],
+  "releaseDate": "1998-02-28",
+  "runtime": 81,
+  "voteAverage": "8.31",
+  "popularity": null,
+  "popularityScore": 653,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=RrWausp8zDQ",
+  "quality": "BLU-RAY",
+  "director": "Satoshi Kon",
+  "directorTmdbId": 40333,
+  "directorProfilePath": "/b7Oqg1bjS0e2iEzEjYWnsyVVagt.jpg",
+  "productionCompanies": [
+    {
+      "id": 3464,
+      "name": "Madhouse",
+      "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png"
+    },
+    {
+      "id": 185544,
+      "name": "Rex Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 201821,
+      "name": "Kotobuki Seihan Printing",
+      "logo_path": null
+    },
+    {
+      "id": 4868,
+      "name": "Asahi Broadcasting Corporation",
+      "logo_path": "/3ExeT4zGXBFU7ei1crOvuzKnc1z.png"
+    },
+    {
+      "id": 201822,
+      "name": "Fangs",
+      "logo_path": null
+    },
+    {
+      "id": 30652,
+      "name": "ONIRO",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3658,
+      "name": "career"
+    },
+    {
+      "id": 570,
+      "name": "rape"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 2340,
+      "name": "paranoia"
+    },
+    {
+      "id": 6844,
+      "name": "stalker"
+    },
+    {
+      "id": 6562,
+      "name": "celebrity"
+    },
+    {
+      "id": 10229,
+      "name": "singer"
+    },
+    {
+      "id": 10333,
+      "name": "stalking"
+    },
+    {
+      "id": 10232,
+      "name": "fame"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 12565,
+      "name": "psychological thriller"
+    },
+    {
+      "id": 41329,
+      "name": "mental illness"
+    },
+    {
+      "id": 41410,
+      "name": "madness"
+    },
+    {
+      "id": 156761,
+      "name": "split personality"
+    },
+    {
+      "id": 161919,
+      "name": "adult animation"
+    },
+    {
+      "id": 186849,
+      "name": "literary adaptation"
+    },
+    {
+      "id": 202519,
+      "name": "j-pop"
+    },
+    {
+      "id": 208915,
+      "name": "celebrity worship"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    },
+    {
+      "id": 266244,
+      "name": "aspiring actress"
+    },
+    {
+      "id": 285569,
+      "name": "idolatry"
+    },
+    {
+      "id": 288394,
+      "name": "suspense"
+    },
+    {
+      "id": 295907,
+      "name": "psychological horror"
+    },
+    {
+      "id": 308818,
+      "name": "avant garde"
+    },
+    {
+      "id": 309029,
+      "name": "psychological drama"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 21051,
+  "watchlistCount": 480,
+  "favouriteCount": 121,
+  "shareCount": 19,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-31T00:52:46.321Z",
+  "updatedAt": "2026-08-31T00:55:01.081Z",
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "54f166c0-dcce-4668-8813-836734b7f5e9",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 65437,
+      "name": "Junko Iwao",
+      "character": "Mima Kirigoe (voice)",
+      "profilePath": "/bKyMLT1MgDTnXafsq2ur32VMwY5.jpg",
+      "order": 0
+    },
+    {
+      "id": "9d440d36-5c32-48a5-aaf5-ba456717bae2",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 65424,
+      "name": "Rica Matsumoto",
+      "character": "Rumi (voice)",
+      "profilePath": "/8kGjV2Ke6MVaR2UGtO9YpFkvuTu.jpg",
+      "order": 1
+    },
+    {
+      "id": "257a1275-ba74-4a75-a497-8ed1a452172d",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 553949,
+      "name": "Shiho Niiyama",
+      "character": "Rei (voice)",
+      "profilePath": "/pP8onCIEUgXMyEQIADMkAvQfMrk.jpg",
+      "order": 2
+    },
+    {
+      "id": "8105a904-e999-4908-acc7-6beb4c0269fc",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 1685,
+      "name": "Masaaki Okura",
+      "character": "Mamoru Uchida (voice)",
+      "profilePath": "/lQmV0Nzww7i3cmbr2ToqGJ5q6qr.jpg",
+      "order": 3
+    },
+    {
+      "id": "68fdb539-ff9e-4902-be60-bdda43810386",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 65438,
+      "name": "Shinpachi Tsuji",
+      "character": "Tadokoro (voice)",
+      "profilePath": "/af5ILJbixauO84bsuLOr8XSU9yd.jpg",
+      "order": 4
+    },
+    {
+      "id": "62222925-23a3-475a-9be5-dad57e78faaf",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 553950,
+      "name": "Emiko Furukawa",
+      "character": "Yukiko (voice)",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "5b70d032-859b-4183-97b4-a8129f2e4836",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 84509,
+      "name": "Yosuke Akimoto",
+      "character": "Tejima (voice)",
+      "profilePath": "/uzBTKym7osTko49r5odq86nPKT5.jpg",
+      "order": 6
+    },
+    {
+      "id": "3dac982f-629c-4d89-9366-3cccdd185bee",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 235337,
+      "name": "Yoku Shioya",
+      "character": "Takao Shibuya (voice)",
+      "profilePath": "/zJCaOJWub2g8ZlXuH8vE9yaBVy1.jpg",
+      "order": 7
+    },
+    {
+      "id": "4b7fe3de-abcf-4003-a9ac-9562481359f9",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 226637,
+      "name": "Hideyuki Hori",
+      "character": "Sakuragi (voice)",
+      "profilePath": "/r07AnLi1EMS4hJf5fQF3Y9SjR4q.jpg",
+      "order": 8
+    },
+    {
+      "id": "7e376278-9cb7-4163-983e-f28134b36c76",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 81851,
+      "name": "Emi Shinohara",
+      "character": "Eri Ochiai (voice)",
+      "profilePath": "/ryGauSE9aoEh5DFMrlFw3H8sATC.jpg",
+      "order": 9
+    },
+    {
+      "id": "cd6f0ca0-933d-416a-8973-55562608c091",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 111531,
+      "name": "Masashi Ebara",
+      "character": "Murano (voice)",
+      "profilePath": "/xJPCatQLQi75zc9YfWZo0gSpynq.jpg",
+      "order": 10
+    },
+    {
+      "id": "1915ab3c-3cc9-4d4f-86e7-6963de47a40f",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 216454,
+      "name": "Kiyoyuki Yanada",
+      "character": "Kantoku (voice)",
+      "profilePath": "/rczC3GZJDzfMyilcnKPG9OD1F0R.jpg",
+      "order": 11
+    },
+    {
+      "id": "3115f900-e6f6-4f38-a72c-8e35124c0665",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 90566,
+      "name": "Toru Furusawa",
+      "character": "Yada (voice)",
+      "profilePath": "/2XeXCdOFW1oDyniPIYozxsH3oM9.jpg",
+      "order": 12
+    },
+    {
+      "id": "afd59f0a-63fa-457a-af5c-d34d4b0f9718",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 553951,
+      "name": "Teiya Ichiryusai",
+      "character": "Mima's Mother (voice)",
+      "profilePath": "/bErWAc4TM2Vyz411qAKbkU7YtmC.jpg",
+      "order": 13
+    },
+    {
+      "id": "434d3927-b539-43c5-8c6d-d17c83c37f48",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 62318,
+      "name": "Shin-ichiro Miki",
+      "character": "Taku (voice)",
+      "profilePath": "/49Mg6xn69XlVDPPBDwxtNxes5zJ.jpg",
+      "order": 14
+    },
+    {
+      "id": "be2ac8cb-2be4-48d4-9662-b6bf4a14f455",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 553953,
+      "name": "Megumi Tano",
+      "character": "Child (voice)",
+      "profilePath": "/eadVJaXIxQdYHXgY4KtkynnLdBz.jpg",
+      "order": 15
+    },
+    {
+      "id": "67437e3f-8754-4c38-b2aa-49a63fa534f7",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 1247943,
+      "name": "Emi Motoi",
+      "character": "Child (voice)",
+      "profilePath": "/1Rs5SpEH0rsooDUMH78YO2wb4XD.jpg",
+      "order": 16
+    },
+    {
+      "id": "33c00cd8-ff1d-45aa-955f-fb28eb6960cb",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 553954,
+      "name": "Akio Suyama",
+      "character": "Tadashi Doi (voice)",
+      "profilePath": "/hDqMgo8Ud1xQPq4EhIWKmk39W1.jpg",
+      "order": 17
+    },
+    {
+      "id": "d4f5cb93-c455-42f6-827d-c015ede79ebe",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 553955,
+      "name": "Osamu Hosoi",
+      "character": "Company Employee (voice)",
+      "profilePath": "/mAncdPTy72a4fIScxV3e2NdRdQ3.jpg",
+      "order": 18
+    },
+    {
+      "id": "303610f5-24fb-4045-99a9-28d2a7a95fcd",
+      "movieId": "bbeb13b0-e08d-4c1f-875a-a96ca751eb08",
+      "tmdbPersonId": 550662,
+      "name": "Koichi Tochika",
+      "character": "Red (voice)",
+      "profilePath": "/wZYe5RmOLYIhpesKEaFIxz7YN7G.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "cheever",
+    "displayName": "Cheever"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

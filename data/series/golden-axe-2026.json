@@ -1,0 +1,100 @@
+{
+  "slug": "golden-axe-2026",
+  "id": "dbd791ec-d53a-4a8a-b453-52981a3ec048",
+  "title": "Golden Axe",
+  "overview": "Legendary warriors Ax Battler, Tyris Flare, and Gilius Thunderhead reunite to save Yuria from the evil giant Death Adder, who just won't seem to stay dead. Their quest is complicated by Hampton Squib, an inexperienced and wildly underprepared adventurer whose dream of heroism far exceeds his abilities. Forced to work together despite their flaws, they must find a way to stop Death Adder once and for all.",
+  "tagline": null,
+  "posterPath": "/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+  "backdropPath": "/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
+  "logoPath": "/1HwmReqhvTkTMQRcPJq7TLtb4kW.png",
+  "firstAirDate": "2026-09-16",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "529daa2b-3214-442c-8fb6-f2fdb88d8a6a",
+      "tvSeriesId": "dbd791ec-d53a-4a8a-b453-52981a3ec048",
+      "tmdbPersonId": 29528,
+      "name": "Matthew Rhys",
+      "character": "Gilius Thunderhead (voice)",
+      "profilePath": "/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg",
+      "order": 0
+    },
+    {
+      "id": "4c3589b8-0b9e-4976-8fe1-222200fc048e",
+      "tvSeriesId": "dbd791ec-d53a-4a8a-b453-52981a3ec048",
+      "tmdbPersonId": 205179,
+      "name": "Danny Pudi",
+      "character": "Hampton Squib (voice)",
+      "profilePath": "/w0zT8Y2dQHU8FgV03NJoHJE6tmD.jpg",
+      "order": 1
+    },
+    {
+      "id": "b6d7b4df-2fc1-4c4d-883d-90537d6c6e5c",
+      "tvSeriesId": "dbd791ec-d53a-4a8a-b453-52981a3ec048",
+      "tmdbPersonId": 2655972,
+      "name": "Lisa Gilroy",
+      "character": "Tyris Flare (voice)",
+      "profilePath": "/zEv5PRAKeQo7a3yCGhm2DJwf20B.jpg",
+      "order": 2
+    },
+    {
+      "id": "202c645e-72ba-4509-a333-143f098f7512",
+      "tvSeriesId": "dbd791ec-d53a-4a8a-b453-52981a3ec048",
+      "tmdbPersonId": 934219,
+      "name": "Liam McIntyre",
+      "character": "Ax Battler (voice)",
+      "profilePath": "/vTw11F1awNW8AlxInljEsK96cNB.jpg",
+      "order": 3
+    },
+    {
+      "id": "3dc110c5-ab44-4e7e-b15a-ce14048fc7e9",
+      "tvSeriesId": "dbd791ec-d53a-4a8a-b453-52981a3ec048",
+      "tmdbPersonId": 2039030,
+      "name": "Carl Tart",
+      "character": "Chronos 'Evil' Lait (voice)",
+      "profilePath": "/tSGLxpTVzO3NotWtc3wkzNPdhlR.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "de2b7524-ddb4-4484-beca-78d676fdd09f",
+      "tvSeriesId": "dbd791ec-d53a-4a8a-b453-52981a3ec048",
+      "tmdbId": 389000,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+      "airDate": "2026-09-16",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-17T08:00:36.383Z",
+      "updatedAt": "2026-09-17T08:04:06.911Z"
+    }
+  ]
+}

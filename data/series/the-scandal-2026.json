@@ -1,0 +1,131 @@
+{
+  "slug": "the-scandal-2026",
+  "id": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+  "title": "The Scandal",
+  "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+  "tagline": "Desire what is forbidden.",
+  "posterPath": "/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg",
+  "backdropPath": "/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+  "logoPath": "/l6YIvpcx7XmKhZYGbA6SwVH5ney.png",
+  "firstAirDate": "2026-09-18",
+  "voteAverage": "6.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "38ff6bfa-65a3-4f34-abff-f3a80ed11e36",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbPersonId": 86889,
+      "name": "Son Ye-jin",
+      "character": "Lady Cho",
+      "profilePath": "/i6fASFvO3mUceZJvipn4RiLHA44.jpg",
+      "order": 0
+    },
+    {
+      "id": "8aafaf03-d493-4fea-a13c-088cbf80b73b",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbPersonId": 1253391,
+      "name": "Ji Chang-wook",
+      "character": "Cho Won",
+      "profilePath": "/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg",
+      "order": 1
+    },
+    {
+      "id": "adc9370f-765b-46cf-9540-80356f76d66d",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbPersonId": 1523043,
+      "name": "Nana",
+      "character": "Ahn Hui-yeon",
+      "profilePath": "/zEjVBD734pLcNQrZESkKTNhKl6z.jpg",
+      "order": 2
+    },
+    {
+      "id": "bb482ec2-9a81-462d-85a9-4f8629ee409f",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbPersonId": 1258626,
+      "name": "Han Seon-hwa",
+      "character": "So-ok's Mom",
+      "profilePath": "/daP8g9eByOuJnnKUROrKwAGU1Yp.jpg",
+      "order": 3
+    },
+    {
+      "id": "72bcd3aa-4c2e-45b5-82f2-363befacaa64",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbPersonId": 4180803,
+      "name": "Shin Youn-ha",
+      "character": "Lee So-ok",
+      "profilePath": "/9F8XXBvdziId1BwW1EwZbY8hOiB.jpg",
+      "order": 4
+    },
+    {
+      "id": "d8fbae50-ff43-4494-aa1a-39598ba18c18",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbPersonId": 3286721,
+      "name": "Kang Ji-eun",
+      "character": "Lady Jeonggyeong",
+      "profilePath": "/2godIG1dfY3T1akTDsstvStYPh4.jpg",
+      "order": 5
+    },
+    {
+      "id": "fd632034-e0a7-4366-9262-13cdda3ec139",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbPersonId": 6009552,
+      "name": "Kwon Do-kyun",
+      "character": "Chil-seong",
+      "profilePath": "/glk5bE5fOixuInd8mgAl2jlojg5.jpg",
+      "order": 6
+    },
+    {
+      "id": "f3a459c2-fc5a-4006-a6ef-c4ef3018fd2b",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbPersonId": 2064247,
+      "name": "Kang Chan-hee",
+      "character": "Kwon In-ho",
+      "profilePath": "/2vBAQc9BKRAePO0NQcSp90KHMpk.jpg",
+      "order": 7
+    },
+    {
+      "id": "92f6e195-7f9a-4643-9724-3ac4bd594d71",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbPersonId": 4001822,
+      "name": "Kang Myung-soo",
+      "character": "Commander of the royal guard",
+      "profilePath": "/nB9agTqlkI4e4eyAnznfGPQzYLS.jpg",
+      "order": 8
+    },
+    {
+      "id": "33f76abd-9b31-4b9d-8048-dff7d80c9a2c",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbPersonId": 4286222,
+      "name": "DEMIAN",
+      "character": "",
+      "profilePath": "/xEArWURRsIJ3Bcd9QGHavT3ejxj.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "5b2249a8-3e3e-477a-9316-56220cb53f88",
+      "tvSeriesId": "5edd51d8-e3d5-46f4-813c-99a941d5b967",
+      "tmdbId": 425060,
+      "seasonNumber": 1,
+      "name": "Limited Series",
+      "overview": "",
+      "posterPath": "/p9aMpHszakaeM1hzMzr6OGT9AgC.jpg",
+      "airDate": "2026-09-18",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-18T15:27:49.202Z",
+      "updatedAt": "2026-09-20T19:43:03.854Z"
+    }
+  ]
+}

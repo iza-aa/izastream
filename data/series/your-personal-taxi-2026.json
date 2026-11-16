@@ -1,0 +1,131 @@
+{
+  "slug": "your-personal-taxi-2026",
+  "id": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+  "title": "Your Personal Taxi",
+  "overview": "In an unusual taxi, passengers open up about their lives, sharing personal stories alongside songs that hold special meaning to them.",
+  "tagline": null,
+  "posterPath": "/600463FEirm57sAsFcD55iGbVrE.jpg",
+  "backdropPath": "/vk1wrUULLVeFNfVKSV5Q1L7ViGF.jpg",
+  "logoPath": "/uhJIQPerTMbJRoYomzbitzHeewj.png",
+  "firstAirDate": "2026-10-01",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6dece862-2bb5-4529-b26e-3b585064159f",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbPersonId": 63442,
+      "name": "Cha Tae-hyun",
+      "character": "Ko Gi Sa",
+      "profilePath": "/fzMKBBQaBeK6V0dJnPMWHFaJx8T.jpg",
+      "order": 0
+    },
+    {
+      "id": "f1e4d993-83c3-461f-9f65-8359fbbd6a71",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbPersonId": 1108037,
+      "name": "Im Se-mi",
+      "character": "",
+      "profilePath": "/WZhJWf02ara2TkOWDqKUOVHw35.jpg",
+      "order": 1
+    },
+    {
+      "id": "960a07a6-7aaf-4038-b616-f34f2171c028",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbPersonId": 2353710,
+      "name": "Kwak Yoon-gy",
+      "character": "",
+      "profilePath": "/fEn1Fkw9E3gLEcg1loL4uBlmeNX.jpg",
+      "order": 2
+    },
+    {
+      "id": "4df8b422-21f1-4f0f-b703-3da129d588e6",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbPersonId": 2839957,
+      "name": "Joo Jong-hyuk",
+      "character": "",
+      "profilePath": "/yEGS1L0Lo0aBMGU10EJLukcjbXH.jpg",
+      "order": 3
+    },
+    {
+      "id": "d80699f9-b41a-4a4c-8596-83ecf73908e3",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbPersonId": 3673215,
+      "name": "Lee Da-eun",
+      "character": "",
+      "profilePath": "/ccnG7V1xpwTgzKdT7eD39Vrb0X5.jpg",
+      "order": 4
+    },
+    {
+      "id": "97568592-14d6-4350-8db1-fb3a22291bba",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbPersonId": 1916075,
+      "name": "Lee Kyoo-hyung",
+      "character": "",
+      "profilePath": "/8F7s9MNKfks21VMTsW8iTc9VK09.jpg",
+      "order": 5
+    },
+    {
+      "id": "9cbe281e-b682-4765-9ddd-2d987234830b",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbPersonId": 2141531,
+      "name": "Ahn Ji-ho",
+      "character": "",
+      "profilePath": "/9fWhH0j84Ou72CSEdOpNB79X7QG.jpg",
+      "order": 6
+    },
+    {
+      "id": "9e8e2cda-5c6e-49ad-9a7c-6858a7a06ffe",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbPersonId": 239927,
+      "name": "Im Ha-ryong",
+      "character": "",
+      "profilePath": "/u3GvkCflbBNEwFHnuQqWrVGppM2.jpg",
+      "order": 7
+    },
+    {
+      "id": "30ba6fac-b471-402e-9f5b-01083466e082",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbPersonId": 1351055,
+      "name": "Ye Su-jeong",
+      "character": "",
+      "profilePath": "/rwGPhu8Ge36eMkrOlzfdKKFargw.jpg",
+      "order": 8
+    },
+    {
+      "id": "8ba0054e-f42d-4d4d-9e2c-f0e0fc562dc1",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbPersonId": 2273915,
+      "name": "Hyun Bong-sik",
+      "character": "",
+      "profilePath": "/aawP5E8gMwxs88qlvXux0vBBLYp.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "6f850694-0c6e-400a-b83e-6841c4dc1f7d",
+      "tvSeriesId": "37288931-6d66-4f66-8b22-09c99d5c0be2",
+      "tmdbId": 540230,
+      "seasonNumber": 1,
+      "name": "Limited Series",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-10-01",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-08T05:20:47.454Z",
+      "updatedAt": "2026-10-08T05:21:30.085Z"
+    }
+  ]
+}

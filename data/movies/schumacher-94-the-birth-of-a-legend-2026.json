@@ -1,0 +1,262 @@
+{
+  "slug": "schumacher-94-the-birth-of-a-legend-2026",
+  "id": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+  "tmdbId": 1752355,
+  "imdbId": "tt39453404",
+  "title": "Schumacher '94 - The Birth of a Legend",
+  "originalTitle": "Schumacher '94 - Die Geburt einer Legende",
+  "overview": "Michael Schumacher's first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 season.",
+  "tagline": "One goal. One season. The start of something great.",
+  "posterPath": "/em19DrMkLSinf04NEhiRxTnVupI.jpg",
+  "backdropPath": "/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+  "logoPath": "/6Pe5edu21xxE8hkgKPsDHRDicTL.png",
+  "backdrops": [
+    "/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+    "/dLTiU10kWQFLzkJ6CFoAyZHeRQT.jpg",
+    "/m9fArxPiZzSdZikSrLk90lkplq0.jpg"
+  ],
+  "releaseDate": "2026-10-02",
+  "runtime": 105,
+  "voteAverage": "9.20",
+  "popularity": null,
+  "popularityScore": 71,
+  "originalLanguage": "de",
+  "country": "DE",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=7fDrlNje1iU",
+  "quality": "WEB-DL",
+  "director": "Christin Freitag",
+  "directorTmdbId": 1467602,
+  "directorProfilePath": "/lleExyD9ci9AyMW8y6PyTCrDvYv.jpg",
+  "productionCompanies": [
+    {
+      "id": 279016,
+      "name": "Leonine Documentaries",
+      "logo_path": null
+    },
+    {
+      "id": 105151,
+      "name": "i&u Studios",
+      "logo_path": "/fKv0e4Yq2pCTzpCk0Wg9QL78SW7.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 159290,
+      "name": "sports documentary"
+    },
+    {
+      "id": 233981,
+      "name": "formula one (f1)"
+    },
+    {
+      "id": 336863,
+      "name": "motor sports"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1861,
+  "watchlistCount": 32,
+  "favouriteCount": 8,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-03T16:05:33.357Z",
+  "updatedAt": "2026-10-03T16:06:04.868Z",
+  "genres": [
+    {
+      "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+      "tmdbId": 99,
+      "name": "Documentary",
+      "slug": "documentary",
+      "createdAt": "2026-04-02T13:53:46.408Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "947edd8a-aeb6-4beb-916c-ad50f8f429a8",
+      "movieId": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+      "tmdbPersonId": 216299,
+      "name": "Michael Schumacher",
+      "character": "Self (archive footage)",
+      "profilePath": "/soIayrvI5LVk7XTn644rAYGeiCd.jpg",
+      "order": 0
+    },
+    {
+      "id": "1319d010-641d-4434-81e2-705be5b41b2a",
+      "movieId": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+      "tmdbPersonId": 3179450,
+      "name": "Corinna Schumacher",
+      "character": "Self",
+      "profilePath": "/5pQZ1CxzlwCP5QVEY8FyXu7Z6za.jpg",
+      "order": 1
+    },
+    {
+      "id": "21f55fd9-1b83-4f91-ac07-f94336e9b136",
+      "movieId": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+      "tmdbPersonId": 90142,
+      "name": "Flavio Briatore",
+      "character": "Self",
+      "profilePath": "/1JQHb2ttMYrZhNPC7bV0xu1o4CD.jpg",
+      "order": 2
+    },
+    {
+      "id": "74653d92-049f-4599-a2cc-73fd4c8e3eb3",
+      "movieId": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+      "tmdbPersonId": 1112222,
+      "name": "Bernie Ecclestone",
+      "character": "Self",
+      "profilePath": "/5HR6bsn3Ny5tiDhojZWe2ptZ23Q.jpg",
+      "order": 3
+    },
+    {
+      "id": "e98fefb1-9c4b-4396-9361-51e1f44d17b9",
+      "movieId": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+      "tmdbPersonId": 557264,
+      "name": "David Coulthard",
+      "character": "Self",
+      "profilePath": "/bEA5d0uJ7zico1CNVWvuVggNuHm.jpg",
+      "order": 4
+    },
+    {
+      "id": "d96ddb88-73d5-4847-9653-dc60ca91dde8",
+      "movieId": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+      "tmdbPersonId": 3179485,
+      "name": "Willi Weber",
+      "character": "Self",
+      "profilePath": "/cug9HtDHGk15mBj6xzi4ZstNzU0.jpg",
+      "order": 5
+    },
+    {
+      "id": "059af55c-03f9-4c7f-b56f-e32fb6d00d66",
+      "movieId": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+      "tmdbPersonId": 1428240,
+      "name": "Kai Ebel",
+      "character": "Self",
+      "profilePath": "/b3Gn2mTzRUne184HPhJfcWCuhFa.jpg",
+      "order": 6
+    },
+    {
+      "id": "adf59ede-dccc-4a37-b69e-d9c21850bc68",
+      "movieId": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+      "tmdbPersonId": 2337672,
+      "name": "Heiko Waßer",
+      "character": "Self",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "29a38d4f-1ec6-4c4e-b1e1-54b9caa0c3c2",
+      "movieId": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+      "tmdbPersonId": 5048063,
+      "name": "Pat Symonds",
+      "character": "Self",
+      "profilePath": "/bdu5JK7UbjtRmOWDZYK9Gw5pD2z.jpg",
+      "order": 8
+    },
+    {
+      "id": "b1815788-1d2c-4d33-99d4-d4b9156a4552",
+      "movieId": "2a0c7f25-08e5-4a3f-98b7-51be4eb8cef8",
+      "tmdbPersonId": 1357877,
+      "name": "Lennart Betzgen",
+      "character": "Michael Schumacher",
+      "profilePath": "/nbXF5vR9Rl4ETppFBPjPiuwURoR.jpg",
+      "order": 9
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

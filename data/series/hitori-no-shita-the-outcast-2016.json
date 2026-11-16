@@ -1,0 +1,222 @@
+{
+  "slug": "hitori-no-shita-the-outcast-2016",
+  "id": "709455f9-b892-4ed2-9f45-5515806e723c",
+  "title": "Hitori No Shita - The Outcast",
+  "overview": "Zhang Chulan leads a very common college student's life until he finds himself caught up in a terrible incident that happened in a small village. As he was walking through a graveyard, he is assaulted by zombies. Thinking that it was over for him, a mysterious girl carrying a sword suddenly saves him and disappears.",
+  "tagline": null,
+  "posterPath": "/i3Vg5SKaWWNjMvK3CsuK5itIrzG.jpg",
+  "backdropPath": "/tRQMZPYWQTOygIeGZ7rmmQaeq1z.jpg",
+  "logoPath": "/jKuWHJM1H0cJ2whFCfLgdt6Y7q1.png",
+  "firstAirDate": "2016-07-09",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 5,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8fe65f78-fe43-4894-aea9-671aabeb4475",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbPersonId": 2121692,
+      "name": "Xiao Liansha",
+      "character": "Feng Baobao (voice)",
+      "profilePath": "/bo9Q7QJ6qZ6Rm6R0HMqtnhli2yP.jpg",
+      "order": 0
+    },
+    {
+      "id": "429c0c4f-ea3f-478e-9b54-ddf1e619a656",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbPersonId": 1853547,
+      "name": "Sheng Feng",
+      "character": "Xu Si (voice)",
+      "profilePath": "/1IB7v7KhJWfTTylZHhFXHw5SVFR.jpg",
+      "order": 1
+    },
+    {
+      "id": "28536eff-736e-4d9d-b5e7-e62444c6868a",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbPersonId": 2339317,
+      "name": "Yuntu Cao",
+      "character": "Zhang Chulan (voice)",
+      "profilePath": "/9qSDFftuxOJh2vKw255g0RsAV3h.jpg",
+      "order": 2
+    },
+    {
+      "id": "fa078b0b-f325-45f3-baae-f0d3d79a9f06",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbPersonId": 1907244,
+      "name": "Shan Xin",
+      "character": "Xia He (voice)",
+      "profilePath": "/3QLlwAkrcI0On0nA7tPBulGglxG.jpg",
+      "order": 3
+    },
+    {
+      "id": "ae878775-7a4a-44c9-8d0a-fbf4f7bf67fc",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbPersonId": 1674221,
+      "name": "Ajie",
+      "character": "Zhang Lingyu (voice)",
+      "profilePath": "/AaXR7HBOkyrLlM93cycAt6i9NDE.jpg",
+      "order": 4
+    },
+    {
+      "id": "1b71a4c1-4ea7-4fbe-b13a-4d5f4b2b2fe3",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbPersonId": 2199309,
+      "name": "Wang Chenguang",
+      "character": "Lu Liang (voice)",
+      "profilePath": "/ktb82m8jkcFvqev4KKiPfUBliQE.jpg",
+      "order": 5
+    },
+    {
+      "id": "f591f2c0-b36d-4dc4-961e-bdde626df8d6",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbPersonId": 1837238,
+      "name": "Baomu Zhongyang",
+      "character": "Wang Ye (voice)",
+      "profilePath": "/ivP7HNs61U6LFWmqXE2zEUIbwph.jpg",
+      "order": 6
+    },
+    {
+      "id": "1bce46cd-e2ca-498f-b6c0-9458c88b4dda",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbPersonId": 2895807,
+      "name": "Peng Yao",
+      "character": "诸葛青 (voice)",
+      "profilePath": "/r7zpq7zv4paCEX72XdBWS7aE7pj.jpg",
+      "order": 7
+    },
+    {
+      "id": "6266481f-35d6-45e1-ba50-c0e590040efd",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbPersonId": 2156485,
+      "name": "Tong Xinzhu",
+      "character": "柳妍妍 (voice)",
+      "profilePath": "/kZzS7YnlKqfLMi3GzC2pjRQmAIb.jpg",
+      "order": 8
+    },
+    {
+      "id": "8d912fba-64eb-4aa4-8b4a-2e0d60acc676",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbPersonId": 1837240,
+      "name": "Guo Zhengjian",
+      "character": "张怀义/张锡林 (voice)",
+      "profilePath": "/fscl7o3OV5Ik0QHiAHq7D3I5V9U.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "0e20008a-f32b-4ee6-8524-cef49474969a",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbId": 97739,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "In the first season, the protagonist, Chou Soran, hiding that he is an “outsider” (someone able to use special abilities) encounters a mysterious girl named Fuu Houhou who hold the secret of eternal life.\n\nTogether, they will join the Raten Tournament where they will try to solve the mysteries related to themselves.\n\nIn this 2nd season that marks the beginning of this fighting tournament between Outsiders, mysteries will gradually be unveiled and new characters will appear.",
+      "posterPath": "/wLM1vckoF5tv4uzRRqI9a6ojM11.jpg",
+      "airDate": "2017-10-27",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-10-15T03:47:40.753Z",
+      "updatedAt": "2026-10-17T17:24:11.685Z"
+    },
+    {
+      "id": "827eb031-3e10-4caf-ba24-3d38efeae5d0",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbId": 153415,
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "overview": "After Raten Taishou, Wang Ye had no choice but went home. Because of Wang's \"Fuukou Qimen\", peace never comes to him. Wang has to ask 'Na Dou Tong' for help due to Zhuge Qin's suggestion. Feng Lan and Feng Baobao are coming to help him. How does Zhang Chulan find out the biggest boss? What would happen to Zhuge Qin and Wang Ye then? Who is the person wants Wang's \"FuuKou Qimen\"?",
+      "posterPath": "/vt0gM9BOU1en4R5OYWcGJ4unItA.jpg",
+      "airDate": "2020-04-24",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-15T03:47:40.753Z",
+      "updatedAt": "2026-10-16T17:44:07.971Z"
+    },
+    {
+      "id": "6f9c7d31-d0ac-4443-8cee-c4203fc8e64a",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbId": 212695,
+      "seasonNumber": 4,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/sxPoDohPLeoYGJozhfUG3zlj1ik.jpg",
+      "airDate": "2021-09-24",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-15T03:47:40.753Z",
+      "updatedAt": "2026-10-16T17:42:06.171Z"
+    },
+    {
+      "id": "766e68af-bd8d-4d28-8d27-197cbcf311da",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbId": 319343,
+      "seasonNumber": 5,
+      "name": "Season 5",
+      "overview": "Zhang Chulan, Feng Baobao and others chase Chen Duo to Biyao Village. While finding out the truth about Chen Duo's murder of Liao Zhong. The disposal of Ma Xianhong and the Cultivation Furnace has also been prepared. The night is dark and windy and it' s time to set fire to the village. The Battle of Biyou Village is coming!",
+      "posterPath": "/vD5EMdFxi9WFabhWFZKQGBP7wEM.jpg",
+      "airDate": "2022-12-09",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-15T03:47:40.753Z",
+      "updatedAt": "2026-10-16T17:40:17.390Z"
+    },
+    {
+      "id": "a259dfa2-190c-4440-a22e-6404903a1695",
+      "tvSeriesId": "709455f9-b892-4ed2-9f45-5515806e723c",
+      "tmdbId": 447115,
+      "seasonNumber": 6,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/hUWG3tS2nQDjjilB7v2WQXSNkIP.jpg",
+      "airDate": "2026-01-02",
+      "episodeCount": 26,
+      "isPublished": true,
+      "createdAt": "2026-10-15T03:47:40.753Z",
+      "updatedAt": "2026-10-15T04:07:19.389Z"
+    }
+  ]
+}

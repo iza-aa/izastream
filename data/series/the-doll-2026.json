@@ -1,0 +1,95 @@
+{
+  "slug": "the-doll-2026",
+  "id": "fab5af64-1e55-456c-b853-9bebdb263954",
+  "title": "The Doll",
+  "overview": "When Stanisław falls in love with the aristocratic Izabela, he dedicates his entire life to winning her over.",
+  "tagline": null,
+  "posterPath": "/zJSceCJMF7C6AtdRycZjNjavCT.jpg",
+  "backdropPath": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
+  "logoPath": "/v61zyREQIx8BUBcXxgzvLqQHyz.png",
+  "firstAirDate": "2026-09-16",
+  "voteAverage": "5.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3d65d5a7-8f0d-42df-8886-1c9e4d6b8c61",
+      "tvSeriesId": "fab5af64-1e55-456c-b853-9bebdb263954",
+      "tmdbPersonId": 1873160,
+      "name": "Sandra Drzymalska",
+      "character": "Izabela Łęcka",
+      "profilePath": "/qO4jn3TiQ0Ig1Zf1DhHVCb4lYoe.jpg",
+      "order": 0
+    },
+    {
+      "id": "b53c7181-95c5-46f3-ae28-5df2049b9808",
+      "tvSeriesId": "fab5af64-1e55-456c-b853-9bebdb263954",
+      "tmdbPersonId": 980177,
+      "name": "Tomasz Schuchardt",
+      "character": "Stanisław Wokulski",
+      "profilePath": "/2WOX4dBr97itzYzNqEUbxXrYeE3.jpg",
+      "order": 1
+    },
+    {
+      "id": "8fad5118-8ece-4159-a119-b35fd404bbf4",
+      "tvSeriesId": "fab5af64-1e55-456c-b853-9bebdb263954",
+      "tmdbPersonId": 1177167,
+      "name": "Dariusz Chojnacki",
+      "character": "Ignacy Rzecki",
+      "profilePath": "/uzdik3FJwIbbOKusISw6Wkytqqk.jpg",
+      "order": 2
+    },
+    {
+      "id": "332a26b2-2472-4c1f-8ea8-b6d762125021",
+      "tvSeriesId": "fab5af64-1e55-456c-b853-9bebdb263954",
+      "tmdbPersonId": 144001,
+      "name": "Jacek Braciak",
+      "character": "Tomasz Łęcki",
+      "profilePath": "/c5gcI2kIvi7pjXr2BpdMDmAYpMd.jpg",
+      "order": 3
+    },
+    {
+      "id": "c62a3f93-78e8-482b-a3d3-e162fb6be1f7",
+      "tvSeriesId": "fab5af64-1e55-456c-b853-9bebdb263954",
+      "tmdbPersonId": 1866603,
+      "name": "Julia Wyszyńska",
+      "character": "Panna Florentyna",
+      "profilePath": "/10L2QRI6T1At67tJNcckONedIyM.jpg",
+      "order": 4
+    },
+    {
+      "id": "6f5b25db-fef6-430b-b8f6-ead28d0ec808",
+      "tvSeriesId": "fab5af64-1e55-456c-b853-9bebdb263954",
+      "tmdbPersonId": 591258,
+      "name": "Magdalena Cielecka",
+      "character": "Kazimiera Wąsowska",
+      "profilePath": "/5lL9yMqYrUAnoi8Twq782YDbL7P.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ef7509fc-5152-4e67-bbba-15d1a0488d77",
+      "tvSeriesId": "fab5af64-1e55-456c-b853-9bebdb263954",
+      "tmdbId": 463481,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/qLWiTE7Vw5erBwAgaOOzLZgH1an.jpg",
+      "airDate": "2026-09-16",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-09-17T08:04:43.929Z",
+      "updatedAt": "2026-09-17T08:06:44.209Z"
+    }
+  ]
+}

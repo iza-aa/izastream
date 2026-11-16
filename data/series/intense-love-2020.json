@@ -1,0 +1,138 @@
+{
+  "slug": "intense-love-2020",
+  "id": "1987de16-f92f-459c-a096-ff2c603689c8",
+  "title": "Intense Love",
+  "overview": "A love story between a genius doctor and an actress, both determined to reject their parents' arranged marriages, only to discover that love is something destined for them.",
+  "tagline": null,
+  "posterPath": "/AoZkiH36rBWUx9B5hxTNKOICDFC.jpg",
+  "backdropPath": "/cxjw3o5eKITs60J6by6yZfxcCvK.jpg",
+  "logoPath": "/sJAbTPqFQk5dzARuBA6Uyb4wZQ.png",
+  "firstAirDate": "2020-05-02",
+  "voteAverage": "7.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6ab3078d-6ccc-4b9b-96ba-7573178df572",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbPersonId": 1675026,
+      "name": "Zhang Yuxi",
+      "character": "Su Jinbei",
+      "profilePath": "/kV8fo6QheqYPzJEQZA5bFvHeUtw.jpg",
+      "order": 0
+    },
+    {
+      "id": "dca1113c-4151-4409-98ec-ca5dc42aa776",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbPersonId": 2493492,
+      "name": "Ding Yuxi",
+      "character": "Zhou Shiyun",
+      "profilePath": "/ellcOuCs2mo1Oh9zO2Qhb0OoZ4d.jpg",
+      "order": 1
+    },
+    {
+      "id": "66c3d69d-0d58-4987-93c1-03eada6e1c5b",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbPersonId": 2916833,
+      "name": "Wanyan Luorong",
+      "character": "Xiao Yuansong",
+      "profilePath": "/k8U05P4rCPVGTfUAwjLEh3wFGqS.jpg",
+      "order": 2
+    },
+    {
+      "id": "6550b26e-896e-41df-9d4f-38139d5d1448",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbPersonId": 2742124,
+      "name": "Wu Yang",
+      "character": "Wu Di",
+      "profilePath": "/aHWmdKjx8i15H0VstjQh3WqGYDJ.jpg",
+      "order": 3
+    },
+    {
+      "id": "b9623f72-63eb-44f9-b7d9-acf75f596c5d",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbPersonId": 2397849,
+      "name": "Lin Xinyi",
+      "character": "Zhou Suying",
+      "profilePath": "/2KJ8LOwnQp9jMqRd2v72QD4LBa6.jpg",
+      "order": 4
+    },
+    {
+      "id": "e1903fa0-9f7e-41a8-b164-54775e0f6bfb",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbPersonId": 2680326,
+      "name": "Zhang Yao",
+      "character": "Gao Zitong",
+      "profilePath": "/uQqFvtZp7bCGJLPPCWsOadPlb19.jpg",
+      "order": 5
+    },
+    {
+      "id": "877b6aef-2200-4fab-84be-be66c4af5013",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbPersonId": 2844582,
+      "name": "Zhang Zhe",
+      "character": "Su Jinbei (voice)",
+      "profilePath": "/lmOs5BVt0iHqHNBbhuFwNfjfDrL.jpg",
+      "order": 6
+    },
+    {
+      "id": "752ad37c-6393-4e11-8e5f-738faf30dc92",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbPersonId": 2185754,
+      "name": "Yang Tianxiang",
+      "character": "Zhou Shiyun (voice)",
+      "profilePath": "/jEwKu9VEtl0ecc6oA264U3iJV08.jpg",
+      "order": 7
+    },
+    {
+      "id": "98bf8681-c44f-4b43-89e8-3fccad80ff31",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbPersonId": 4388968,
+      "name": "Yi Fan",
+      "character": "Xiao Yuansong (voice)",
+      "profilePath": "/r43cCyKPtx2WJsa3HMYPWYoaiQH.jpg",
+      "order": 8
+    },
+    {
+      "id": "6c1b94f0-947f-4516-8f0a-475e2aebc3c4",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbPersonId": 3091125,
+      "name": "Qiu Qiu",
+      "character": "Wu Di (voice)",
+      "profilePath": "/g9eAyjW1gxEU4YQUOETP1zQVzDJ.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "757fae55-06aa-4494-adff-bfd612324077",
+      "tvSeriesId": "1987de16-f92f-459c-a096-ff2c603689c8",
+      "tmdbId": 149786,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/z46cmvzs7ldyntDM65YsVSTsfe5.jpg",
+      "airDate": "2020-05-02",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-09-03T14:10:30.071Z",
+      "updatedAt": "2026-09-03T14:16:03.518Z"
+    }
+  ]
+}

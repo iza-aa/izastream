@@ -1,0 +1,425 @@
+{
+  "slug": "insidious-out-of-the-further-2026",
+  "id": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+  "tmdbId": 1291595,
+  "imdbId": "tt32393988",
+  "title": "Insidious: Out of the Further",
+  "originalTitle": "Insidious: Out of the Further",
+  "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+  "tagline": "Evil found a way out.",
+  "posterPath": "/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+  "backdropPath": "/w2xDGa1252imRPgCbiY48AbkRBn.jpg",
+  "logoPath": "/iGjbP4jYzzbINDtd9kScypQOlmw.png",
+  "backdrops": [
+    "/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+    "/w2xDGa1252imRPgCbiY48AbkRBn.jpg",
+    "/prGSGD56ihQCaexXldXYpeESBeM.jpg",
+    "/wb5aN4g09LFfsIWj5xyjM5t8mQi.jpg",
+    "/juday8QWmjKAfIx7jbOEHzhAt4T.jpg",
+    "/xktdBsGfPQWl4DG3QLXpOB1Xd8u.jpg",
+    "/8ujQlfBsLwNDs1lHmGxDMYkUrRT.jpg",
+    "/yoBvGHXCSsgI93ozbcvYAg1LPiy.jpg",
+    "/9BcIcWgOA2z5wljNPL9VqtsoL6e.jpg",
+    "/eYPqH7vDCCfP4ozHYV8uuLxOzX2.jpg"
+  ],
+  "releaseDate": "2026-08-19",
+  "runtime": 106,
+  "voteAverage": "6.50",
+  "popularity": null,
+  "popularityScore": 9148,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=gXjurDkYnEM",
+  "quality": "WEB-DL",
+  "director": "Jacob Chase",
+  "directorTmdbId": 131873,
+  "directorProfilePath": "/fY8IuZAuH6mT7SivVD7XKmIkCYJ.jpg",
+  "productionCompanies": [
+    {
+      "id": 3172,
+      "name": "Blumhouse Productions",
+      "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png"
+    },
+    {
+      "id": 3287,
+      "name": "Screen Gems",
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png"
+    },
+    {
+      "id": 11341,
+      "name": "Stage 6 Films",
+      "logo_path": "/eZuaGAonSPXsmXR44huTBXgPUSd.png"
+    },
+    {
+      "id": 76907,
+      "name": "Atomic Monster",
+      "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png"
+    },
+    {
+      "id": 22213,
+      "name": "TSG Entertainment",
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 3358,
+      "name": "haunted house"
+    },
+    {
+      "id": 6158,
+      "name": "cult"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 10114,
+      "name": "evil spirit"
+    },
+    {
+      "id": 15001,
+      "name": "demon"
+    },
+    {
+      "id": 33780,
+      "name": "dentist"
+    },
+    {
+      "id": 223914,
+      "name": "other dimension"
+    },
+    {
+      "id": 240315,
+      "name": "mother daughter relationship"
+    },
+    {
+      "id": 241161,
+      "name": "insidious"
+    },
+    {
+      "id": 256183,
+      "name": "supernatural horror"
+    },
+    {
+      "id": 315058,
+      "name": "horror"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 315601,
+  "watchlistCount": 690,
+  "favouriteCount": 308,
+  "shareCount": 274,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:53:02.588Z",
+  "updatedAt": "2026-10-05T17:54:04.251Z",
+  "genres": [
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ae435afa-757d-4053-b0f4-eba8871b2703",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 2769222,
+      "name": "Amelia Eve",
+      "character": "Gemma Hall",
+      "profilePath": "/zByezQpnVomv2hhxY0BiNaVA0P2.jpg",
+      "order": 0
+    },
+    {
+      "id": "68bf1de3-8b99-4e24-b78e-572dd1d01c88",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 5426738,
+      "name": "Island Austin",
+      "character": "Maya Hall",
+      "profilePath": "/663fMDrygvPYcV4L567iHVzEfXD.jpg",
+      "order": 1
+    },
+    {
+      "id": "a0db5a0c-f770-40cc-9d7f-e44d68bbca6b",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 1602972,
+      "name": "Brandon Perea",
+      "character": "Nick Mendoza",
+      "profilePath": "/hEzljVgsho0Uwd8tg7AGB5Uy3Lr.jpg",
+      "order": 2
+    },
+    {
+      "id": "65088404-5199-4b88-826a-a4a00ab2f863",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 7401,
+      "name": "Lin Shaye",
+      "character": "Elise Rainier",
+      "profilePath": "/aL87Za52elH81zMiXQn5C7AXAeg.jpg",
+      "order": 3
+    },
+    {
+      "id": "51be0384-a785-4697-845b-5954438a14fc",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 1399526,
+      "name": "Maisie Richardson-Sellers",
+      "character": "Clare",
+      "profilePath": "/7Rue8ZtZ8uLb1x0YC9viieunoC0.jpg",
+      "order": 4
+    },
+    {
+      "id": "3f9210a7-4f35-418a-989c-004f98523e3b",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 55585,
+      "name": "Sam Spruell",
+      "character": "Cyrus Lam",
+      "profilePath": "/nTyK3HlqdlJZqjpwTVf4Xo5LkYw.jpg",
+      "order": 5
+    },
+    {
+      "id": "6db5aa8c-15c7-4fae-ba6b-73fcc5bebcd8",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 2143439,
+      "name": "Joseph Lopez",
+      "character": "Lester",
+      "profilePath": "/tmhwEUByCT6iXlxmJvpTsX97Css.jpg",
+      "order": 6
+    },
+    {
+      "id": "7f8da803-156d-41ab-9e9a-d52225e5a60a",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 1547432,
+      "name": "Robina Beard",
+      "character": "Edna",
+      "profilePath": "/meXi83rata9p6LqRiRhqI8MPLvj.jpg",
+      "order": 7
+    },
+    {
+      "id": "129cb8eb-b241-4f79-96f0-5ffc3417bc43",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 1507371,
+      "name": "Susan Gray",
+      "character": "Patsy",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "a2b85893-5151-46f8-8b2c-035bf449a9c7",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 187400,
+      "name": "Laura Gordon",
+      "character": "Ingrid Lilith Hall",
+      "profilePath": "/7Gro37r1iqm4Wiyf2QlvMPgSeza.jpg",
+      "order": 9
+    },
+    {
+      "id": "37dff03d-feac-4b02-996e-942e08198bbd",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 5415260,
+      "name": "Charli Penton",
+      "character": "Young Gemma",
+      "profilePath": "/1zHWlcfqZ8rwlNAb70k5XbitBUI.jpg",
+      "order": 10
+    },
+    {
+      "id": "9f4867e2-9297-44e8-833a-aa703bd6c6ee",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 1702244,
+      "name": "Zahra Newman",
+      "character": "Liz",
+      "profilePath": "/auBhD3wWucl5PuDaftnXmBPcSeL.jpg",
+      "order": 11
+    },
+    {
+      "id": "df8e9787-538a-4411-96c4-950a032c6009",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 78962,
+      "name": "Andy McPhee",
+      "character": "Mr. Sullivan",
+      "profilePath": "/uC0QWuaaOoIcLl6f5ebkFgTyF1r.jpg",
+      "order": 12
+    },
+    {
+      "id": "e36c64a7-8e32-4d96-939c-8541c8e0cb60",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 1225076,
+      "name": "Julie Nihill",
+      "character": "Mrs. Sullivan",
+      "profilePath": "/fI53s741uyiZQgNpSeXvyz1ZKx.jpg",
+      "order": 13
+    },
+    {
+      "id": "c31a7f89-7db8-4f32-80f0-f5ad3d40c0c7",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 1538825,
+      "name": "Ben Keller",
+      "character": "Young Lester",
+      "profilePath": "/r6nRGBCYpJMa2iMJAhXCyyh16Xq.jpg",
+      "order": 14
+    },
+    {
+      "id": "b9ba680d-c2b1-4cdb-add9-4fe790efe640",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 6430374,
+      "name": "Emma Campbell",
+      "character": "Young Edna",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "9e77866e-840a-4bda-b396-2d02cddaf46e",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 1530772,
+      "name": "Keith Brockett",
+      "character": "Dr. Benji",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "47d4e854-cf08-46e8-8758-01653c5b9897",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 6430627,
+      "name": "Ethan Smith",
+      "character": "Nervous Patient",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "d73a5aee-ca41-416d-9d5b-54bb624df87d",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 6430630,
+      "name": "Larry",
+      "character": "Radar",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "c3c4d30b-86b8-4a01-bba3-c9487cf3e3d2",
+      "movieId": "4ed2974b-fe5c-449f-b070-bd52e3e466ce",
+      "tmdbPersonId": 6430633,
+      "name": "Ld",
+      "character": "Radar",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [
+    {
+      "id": "044e905c-c443-4758-930a-aeacef706760",
+      "translationKey": "insidious",
+      "slug": "insidious",
+      "title": "Insidious",
+      "kind": "franchise"
+    }
+  ],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

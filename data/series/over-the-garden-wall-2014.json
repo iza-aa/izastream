@@ -1,0 +1,166 @@
+{
+  "slug": "over-the-garden-wall-2014",
+  "id": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+  "title": "Over the Garden Wall",
+  "overview": "Two brothers, Wirt and Greg, find themselves lost in the Unknown; a strange forest adrift in time. With the help of a wise old Woodsman and a foul-tempered bluebird named Beatrice, Wirt and Greg must travel across this strange land, in hope of finding their way home. Join them as they encounter surprises and obstacles on their journey through the wood.",
+  "tagline": "Will you take a peek?",
+  "posterPath": "/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg",
+  "backdropPath": "/hozufHEzqIRpqJrlyGDqnsyFrAQ.jpg",
+  "logoPath": "/sPl6poQk09OvmbbwUNGArha7UEq.png",
+  "firstAirDate": "2014-11-03",
+  "voteAverage": "8.56",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0214c67f-6b0b-48e1-8e62-152a01203292",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbPersonId": 109,
+      "name": "Elijah Wood",
+      "character": "Wirt (voice)",
+      "profilePath": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg",
+      "order": 0
+    },
+    {
+      "id": "43a9dd3e-e341-4bc1-89e7-653e5d535b75",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbPersonId": 1386297,
+      "name": "Collin Dean",
+      "character": "Gregory (voice)",
+      "profilePath": "/zh58W7LjGDh9sF4ZhKspb9tPIlL.jpg",
+      "order": 1
+    },
+    {
+      "id": "729b28b1-5238-4824-bc3a-f1c418c3cfcf",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbPersonId": 15091,
+      "name": "Melanie Lynskey",
+      "character": "Beatrice (voice)",
+      "profilePath": "/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg",
+      "order": 2
+    },
+    {
+      "id": "95ee8a5f-58d3-4721-814e-9a86121a9b79",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbPersonId": 1028318,
+      "name": "Samuel Ramey",
+      "character": "The Beast (voice)",
+      "profilePath": "/mRUQ73oT1qBBWRhJ1ZgtXpi3O5O.jpg",
+      "order": 3
+    },
+    {
+      "id": "0028710d-9112-4949-b362-e5ce4b7a1a58",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbPersonId": 1062,
+      "name": "Christopher Lloyd",
+      "character": "The Woodsman (voice)",
+      "profilePath": "/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg",
+      "order": 4
+    },
+    {
+      "id": "c29e3359-f098-4c8e-b75d-22e699827687",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbPersonId": 2091698,
+      "name": "Janet Klein",
+      "character": "Miss Langtree (voice)",
+      "profilePath": "/ydlZZUc84YcnhXqKX9Rp6rruHZm.jpg",
+      "order": 500
+    },
+    {
+      "id": "2b7a186d-fc1c-4d7a-bf4f-8f1acff1fc9b",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbPersonId": 266422,
+      "name": "Deborah Voigt",
+      "character": "Queen of the Clouds / Additional Voices (voice)",
+      "profilePath": "/oofK3iDXS6FDclhHK8mDWwTWFC5.jpg",
+      "order": 501
+    },
+    {
+      "id": "8e2cad9e-d8f4-4a18-ba16-06173abc8bc7",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbPersonId": 6591,
+      "name": "Chris Isaak",
+      "character": "Enoch / Additional Voices (voice)",
+      "profilePath": "/aOajdDbGFem2M3umBGFKZXyiKfJ.jpg",
+      "order": 503
+    },
+    {
+      "id": "a0136a3f-e149-46e4-ad6a-d55787e4d607",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbPersonId": 2091697,
+      "name": "Frank Fairfield",
+      "character": "Additional Voices (voice)",
+      "profilePath": null,
+      "order": 504
+    },
+    {
+      "id": "c4c1a3e3-3e5f-4199-b3a8-f840194d231b",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbPersonId": 539,
+      "name": "Thomas Lennon",
+      "character": "Jimmy Brown (voice)",
+      "profilePath": "/s8pw7BfuMxN7P0p5XJ9POfod7zW.jpg",
+      "order": 505
+    }
+  ],
+  "seasons": [
+    {
+      "id": "89330acd-1a84-4cc7-b2c2-ea8449e24abf",
+      "tvSeriesId": "420425a0-9fee-4d81-ab9c-3db2435cc4d4",
+      "tmdbId": 63459,
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/n6uzlVfxoyTW1TbT51RpLi55Jtt.jpg",
+      "airDate": "2014-11-03",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-17T05:39:14.643Z",
+      "updatedAt": "2026-10-17T05:40:07.987Z"
+    }
+  ]
+}

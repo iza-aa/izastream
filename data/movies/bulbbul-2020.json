@@ -1,0 +1,363 @@
+{
+  "slug": "bulbbul-2020",
+  "id": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+  "tmdbId": 714338,
+  "imdbId": "tt12393526",
+  "title": "Bulbbul",
+  "originalTitle": "बुलबुल",
+  "overview": "A child bride grows up to be an enigmatic woman presiding over her household, harboring a painful past as supernatural murders of men plague her village.",
+  "tagline": "A fairy tale like no other",
+  "posterPath": "/4XYEqHqvcf6vxFhNyeKZz5xbUfV.jpg",
+  "backdropPath": "/rfxj5AoOuvbqi0019TVZLy6gyCC.jpg",
+  "logoPath": "/1NbaNqnw9WGRKGbqxnaqw66Almt.png",
+  "backdrops": [
+    "/rfxj5AoOuvbqi0019TVZLy6gyCC.jpg",
+    "/hwBFGNabkGv2ZIyFUnCTSSmprf7.jpg",
+    "/kIszdVMM7Dezzrs0P7jUcMkG3o8.jpg",
+    "/dsJAVBhiTj06mNpiBXBTUKiyDYu.jpg",
+    "/fGbQJnaNXbi4DlqG24VyoPZfIyr.jpg",
+    "/vzw3GovUYyBiXWXI2JduB5zSCrz.jpg",
+    "/g9Kf10ZJWJMn8IgsVDjwi51qFCw.jpg",
+    "/xQ9FOR3bZcnPmJZdprunIVNViaL.jpg",
+    "/reXYjWDbjjjj6ybL83KjYIpoFB8.jpg",
+    "/jPv7yKUhldGA64MXx0BBYhfpf3W.jpg"
+  ],
+  "releaseDate": "2020-06-24",
+  "runtime": 94,
+  "voteAverage": "6.55",
+  "popularity": null,
+  "popularityScore": 75,
+  "originalLanguage": "hi",
+  "country": "IN",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=4MGReT9-cAg",
+  "quality": "WEB-DL",
+  "director": "Anvita Dutt",
+  "directorTmdbId": 1147472,
+  "directorProfilePath": "/ayAdNgOEDktAo0Sp8CVZYeUGSEC.jpg",
+  "productionCompanies": [
+    {
+      "id": 80879,
+      "name": "Clean Slate Films",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 616,
+      "name": "witch"
+    },
+    {
+      "id": 570,
+      "name": "rape"
+    },
+    {
+      "id": 5331,
+      "name": "village"
+    },
+    {
+      "id": 6337,
+      "name": "patriarchy"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 10614,
+      "name": "tragedy"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 161166,
+      "name": "misogyny"
+    },
+    {
+      "id": 164811,
+      "name": "child marriage"
+    },
+    {
+      "id": 178856,
+      "name": "folklore"
+    },
+    {
+      "id": 194451,
+      "name": "social issues"
+    },
+    {
+      "id": 202371,
+      "name": "aggressive"
+    },
+    {
+      "id": 256183,
+      "name": "supernatural horror"
+    },
+    {
+      "id": 325806,
+      "name": "empathetic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 776,
+  "watchlistCount": 7,
+  "favouriteCount": 3,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-17T17:16:37.314Z",
+  "updatedAt": "2026-10-17T17:16:44.669Z",
+  "genres": [
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d30f97cf-141c-41b3-8c34-e2781bc3d4de",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 2100209,
+      "name": "Triptii Dimri",
+      "character": "Bulbbul",
+      "profilePath": "/d4eKm8PqGPHdInHB6zzFDclJbxc.jpg",
+      "order": 0
+    },
+    {
+      "id": "bb67bfb4-acc3-4959-baee-c5317a303a9d",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 1059474,
+      "name": "Avinash Tiwary",
+      "character": "Satya",
+      "profilePath": "/bJWzCbCHPFui0lgWIRDEattNntn.jpg",
+      "order": 1
+    },
+    {
+      "id": "328709db-7cfb-4ff9-9ac7-18a5e39838cf",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 86212,
+      "name": "Rahul Bose",
+      "character": "Indranil / Mahendra",
+      "profilePath": "/6T0xhsganOB8SI48HCGd99XKj9l.jpg",
+      "order": 2
+    },
+    {
+      "id": "03c13709-80eb-4e57-96ca-0ec94f406ca5",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 1021524,
+      "name": "Parambrata Chatterjee",
+      "character": "Sudip",
+      "profilePath": "/f0vKFvgiyBvdgiXOFKpnnb6AfbG.jpg",
+      "order": 3
+    },
+    {
+      "id": "0b8f07c9-1c4b-4cd9-80c7-1feaa9466283",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 150409,
+      "name": "Paoli Dam",
+      "character": "Binodini",
+      "profilePath": "/v6zhy4xBOYcDRhGEKC9LFPnFG1m.jpg",
+      "order": 4
+    },
+    {
+      "id": "c48a5844-1fd1-400e-a13c-884828173431",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 2684810,
+      "name": "Ruchi Mahajan",
+      "character": "Little Bulbbul",
+      "profilePath": "/6dkdB2VpWhDO2sUb1STISW60cTv.jpg",
+      "order": 5
+    },
+    {
+      "id": "7f4e23d5-6b25-4ecf-85cf-ef5f7a685478",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 2684809,
+      "name": "Varun Buddhadev",
+      "character": "Little Satya",
+      "profilePath": "/u5TGHF81UZwCBuDrv7D3x3DPYuC.jpg",
+      "order": 6
+    },
+    {
+      "id": "732db600-b475-4510-9992-95f1f47b50a2",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 1755492,
+      "name": "Veera Kapur Ee",
+      "character": "Pishima",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "0ba98106-24c4-4a2a-b1ec-58e95d2b55c1",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 1791414,
+      "name": "Sameer Deshpande",
+      "character": "Bulbbul's Father",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "5b40aeb9-9551-4a80-a279-26ad9e8c4ce8",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 4544567,
+      "name": "Subhasis Chakraborty",
+      "character": "Master Dinkar",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "eb81a49d-a872-4fe8-95b2-2ea8d9c07e3e",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 2202721,
+      "name": "Vishwanath Chatterjee",
+      "character": "Gaadiwaan",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "56681c28-91e4-4714-a655-619257665507",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 5620725,
+      "name": "Subhasish Ghosh",
+      "character": "Kotwal",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "64701a9b-7362-4d0a-845e-5c67e577e10c",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 5620726,
+      "name": "Debashree Majumdar",
+      "character": "Indranil's Maashi",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "07abe753-6587-4211-931c-d1b7e83a43be",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 5620727,
+      "name": "Debashish Sen",
+      "character": "Pundit",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "7388005f-7b7d-4e59-bceb-812b4c220b1e",
+      "movieId": "6bad6eef-5cf4-4bd2-a9a3-1354c2b2a16c",
+      "tmdbPersonId": 5620729,
+      "name": "Chandraprakash Thakur",
+      "character": "Gowrinath",
+      "profilePath": null,
+      "order": 14
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

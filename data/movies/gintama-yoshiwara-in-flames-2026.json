@@ -1,0 +1,365 @@
+{
+  "slug": "gintama-yoshiwara-in-flames-2026",
+  "id": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+  "tmdbId": 1530941,
+  "imdbId": "tt37931873",
+  "title": "Gintama: Yoshiwara in Flames",
+  "originalTitle": "新劇場版 銀魂 -吉原大炎上-",
+  "overview": "Upon meeting a young boy named Seita who makes a living as a pickpocket, Gintoki discovers that he is pickpocketing out of a desire to meet his long-lost mother, Hinowa, Yoshiwara's number one courtesan. Gintoki and his friends venture to Yoshiwara to fulfill Seita's wish, but standing in their way is Housen, the Night King who rules Yoshiwara.",
+  "tagline": null,
+  "posterPath": "/ih3mFlEZzsN9uQT7P4Zvaq4GkSm.jpg",
+  "backdropPath": "/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
+  "logoPath": "/zFDyPWBNx1h41PDMIblEApVyhBt.png",
+  "backdrops": [
+    "/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
+    "/sS8kgDkLWAi0Mx57DauMI5ZIZuu.jpg",
+    "/7TOhvfBj80ogAbYsnczkRpHu4dd.jpg",
+    "/f9ZTYO1iFF1Od1MZ6ddMRm0WuLl.jpg",
+    "/pjMdLAu2F8rZifgM9WwNvNiNwms.jpg",
+    "/alsg3PJ4lj0ghu4P8mLbAyOqZmv.jpg",
+    "/wvupVcSnWcBneIolJwBDUL7LttN.jpg",
+    "/4iMo0ATi69DYe8scCGlWXgK5j9B.jpg",
+    "/wbXEePZscKNNRtdvp81Xx04VXhB.jpg",
+    "/tZfr8U41uZjMZ71hPMyIZSLbVHw.jpg"
+  ],
+  "releaseDate": "2026-02-13",
+  "runtime": 124,
+  "voteAverage": "8.40",
+  "popularity": null,
+  "popularityScore": 314,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "WEB-DL",
+  "director": "Naoya Ando",
+  "directorTmdbId": 2378273,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 3627,
+      "name": "Warner Bros. Japan",
+      "logo_path": "/pBfPYpzg5o3EoBPfrFKzTRi8MGr.png"
+    },
+    {
+      "id": 74440,
+      "name": "BN Pictures",
+      "logo_path": "/mf1nS1bfySc1XM5EmPZp4qsAOoy.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1462,
+      "name": "samurai"
+    },
+    {
+      "id": 13141,
+      "name": "based on manga"
+    },
+    {
+      "id": 207826,
+      "name": "shounen"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 6504,
+  "watchlistCount": 49,
+  "favouriteCount": 20,
+  "shareCount": 3,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-29T13:20:36.991Z",
+  "updatedAt": "2026-09-29T13:24:20.126Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "37b2d1b2-15af-4a25-bbf3-088b918eaf12",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 144655,
+      "name": "Tomokazu Sugita",
+      "character": "Gintoki Sakata (voice)",
+      "profilePath": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg",
+      "order": 0
+    },
+    {
+      "id": "a9541315-1c2f-4bbf-a431-3027db85c71c",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 40331,
+      "name": "Daisuke Sakaguchi",
+      "character": "Shinpachi Shimura (voice)",
+      "profilePath": "/cP9lnoYSCyIpSlUkZN4k6RoD7fF.jpg",
+      "order": 1
+    },
+    {
+      "id": "74ff6556-68af-44c9-83db-a180232bd0b9",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 83928,
+      "name": "Rie Kugimiya",
+      "character": "Kagura (voice)",
+      "profilePath": "/xHonhNFpTpz9zCVXLAF7D4OuHLv.jpg",
+      "order": 2
+    },
+    {
+      "id": "9f6f473e-401e-4d38-a40d-4e8e525eb1ac",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 224413,
+      "name": "Satoshi Hino",
+      "character": "Kamui (voice)",
+      "profilePath": "/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg",
+      "order": 3
+    },
+    {
+      "id": "f54df9a9-19ff-4c5b-ba66-47a32c4b01ed",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 222340,
+      "name": "Yuhko Kaida",
+      "character": "Tsukuyo (voice)",
+      "profilePath": "/wttsRGyYySLPfNcDtAbNLVizHLx.jpg",
+      "order": 4
+    },
+    {
+      "id": "13f7c72c-5840-4877-a414-2c1255a78a61",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 122481,
+      "name": "Banjo Ginga",
+      "character": "Housen (voice)",
+      "profilePath": "/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg",
+      "order": 5
+    },
+    {
+      "id": "fb023295-47d1-44fb-8805-3cecc8482004",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 1201637,
+      "name": "Yuko Sanpei",
+      "character": "Seita (voice)",
+      "profilePath": "/gms4G7ZRIQYXI9zsorkQr8aHnOU.jpg",
+      "order": 6
+    },
+    {
+      "id": "b38b8116-cc69-475d-89ae-4fd9d5dbe90b",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 101913,
+      "name": "Kikuko Inoue",
+      "character": "Hinowa (voice)",
+      "profilePath": "/pPxGWy53FgYSC79zmxblmHe0gI3.jpg",
+      "order": 7
+    },
+    {
+      "id": "18e2d2ea-e7de-4651-aaa5-ae7dc4bc297f",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 552683,
+      "name": "Hochu Otsuka",
+      "character": "Abuto (voice)",
+      "profilePath": "/3RHQcrsWnAFK6AifSis1lMq08cR.jpg",
+      "order": 8
+    },
+    {
+      "id": "8d0327d5-2909-495d-aac0-e5ce371567b1",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 68472,
+      "name": "Kappei Yamaguchi",
+      "character": "Inorin (voice)",
+      "profilePath": "/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg",
+      "order": 9
+    },
+    {
+      "id": "c92afbdc-0079-4fcb-b5de-c02dfef33398",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 81244,
+      "name": "Akira Ishida",
+      "character": "Kotaro Katsura (voice)",
+      "profilePath": "/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg",
+      "order": 10
+    },
+    {
+      "id": "b18dc0ed-27ad-462c-afa6-c6d7517596b3",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 221770,
+      "name": "Susumu Chiba",
+      "character": "Isao Kondo (voice)",
+      "profilePath": "/3nUZrr5ghmqGxBgEfgX0wVMeUnN.jpg",
+      "order": 11
+    },
+    {
+      "id": "6a5bf8f2-2b4d-4672-ae6c-5397b04abf58",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 84507,
+      "name": "Kazuya Nakai",
+      "character": "Toshiro Hijikata (voice)",
+      "profilePath": "/cOHSa0FBrG3u9P6g8A56sInkvod.jpg",
+      "order": 12
+    },
+    {
+      "id": "cc090579-990d-4b92-9879-467b9cbc677c",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 9726,
+      "name": "Kenichi Suzumura",
+      "character": "Okita Sogo (voice)",
+      "profilePath": "/vFqjmIjxfgBkh3ZmUin7QETV0sy.jpg",
+      "order": 13
+    },
+    {
+      "id": "48d052f5-645b-4deb-8be3-e1271f6bab99",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 1247661,
+      "name": "Tetsuharu Ota",
+      "character": "Sagaru Yamazaki (voice)",
+      "profilePath": "/sXdWjjABXXo1a4Y8wCekjcibt2C.jpg",
+      "order": 14
+    },
+    {
+      "id": "c6a9dce0-5888-4d71-8637-6d845a9e318c",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 1241505,
+      "name": "Kujira",
+      "character": "Otose (voice)",
+      "profilePath": "/dL2u3VyRBswwTEW4E8lbsHbqzeZ.jpg",
+      "order": 15
+    },
+    {
+      "id": "f778a9cb-edf7-4e04-9d90-f639d2aabbe3",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 1253092,
+      "name": "Yuu Sugimoto",
+      "character": "Catherine (voice)",
+      "profilePath": "/4PcHOX096CVBcnd8Nmfbzwhxln8.jpg",
+      "order": 16
+    },
+    {
+      "id": "1d779b3a-246c-4d10-9b3d-28f80a39d7e6",
+      "movieId": "5dc022cc-662c-47f3-ae71-6b17cd580179",
+      "tmdbPersonId": 1239107,
+      "name": "Omi Minami",
+      "character": "Tama (voice)",
+      "profilePath": "/vDSjFbxQgd8xUhfKWnfn06ClDom.jpg",
+      "order": 17
+    }
+  ],
+  "requestedBy": {
+    "username": "nyatanya",
+    "displayName": "Tanya"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

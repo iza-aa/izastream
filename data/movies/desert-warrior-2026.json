@@ -1,0 +1,427 @@
+{
+  "slug": "desert-warrior-2026",
+  "id": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+  "tmdbId": 898704,
+  "imdbId": "tt13570066",
+  "title": "Desert Warrior",
+  "originalTitle": "Desert Warrior",
+  "overview": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
+  "tagline": "One warrior must unite them all.",
+  "posterPath": "/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
+  "backdropPath": "/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",
+  "logoPath": "/b4lU2TpTDeKgkZq1K6qPvcLWhy6.png",
+  "backdrops": [
+    "/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",
+    "/x7x0v71kbl0nuWLX7nJY1YiKuan.jpg",
+    "/jiISkXckJnRjgXGvVXOf7XnukI3.jpg",
+    "/lzrFleYAVX0x6qLKOwGl16slqD9.jpg",
+    "/uwPHNODiQSHtvt9lnaQ6OxNKgnB.jpg",
+    "/yILTnLXRsN5U7bGLWJ1U0eEDtIc.jpg",
+    "/eorlI7F4hS8loDAQlByEbleROph.jpg",
+    "/pFaSXyTNwb2att3v7ZElQ7tlip5.jpg",
+    "/pVUJBXetBwfC9DRsPvjR2Be2RxO.jpg",
+    "/8uJBbEDcODFi6zVHfaVNv1gYxM1.jpg"
+  ],
+  "releaseDate": "2026-04-23",
+  "runtime": 127,
+  "voteAverage": "6.12",
+  "popularity": null,
+  "popularityScore": 428,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=fraAGOuT3sA",
+  "quality": "WEB-DL",
+  "director": "Rupert Wyatt",
+  "directorTmdbId": 77357,
+  "directorProfilePath": "/m3KzS9wnfgAWD0ppIKQEQcTtM1S.jpg",
+  "productionCompanies": [
+    {
+      "id": 145428,
+      "name": "MBC Studios",
+      "logo_path": "/dgUV94AxFEumfIICKEg5UdCCU3k.png"
+    },
+    {
+      "id": 124233,
+      "name": "JB Pictures",
+      "logo_path": null
+    },
+    {
+      "id": 110799,
+      "name": "AGC Studios",
+      "logo_path": "/eHjtiQJjrGQTooEsBmPSYoUnNB.png"
+    },
+    {
+      "id": 299933,
+      "name": "Studio Mechanical",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7376,
+      "name": "princess"
+    },
+    {
+      "id": 5174,
+      "name": "saudi arabia"
+    },
+    {
+      "id": 2280,
+      "name": "emperor"
+    },
+    {
+      "id": 8754,
+      "name": "concubine"
+    },
+    {
+      "id": 10718,
+      "name": "fugitive"
+    },
+    {
+      "id": 15060,
+      "name": "period drama"
+    },
+    {
+      "id": 18034,
+      "name": "desert"
+    },
+    {
+      "id": 33344,
+      "name": "bandit"
+    },
+    {
+      "id": 192772,
+      "name": "historical drama"
+    },
+    {
+      "id": 229607,
+      "name": "female warrior"
+    },
+    {
+      "id": 244668,
+      "name": "tribes"
+    },
+    {
+      "id": 251618,
+      "name": "7th century"
+    },
+    {
+      "id": 278700,
+      "name": "historical epic"
+    },
+    {
+      "id": 282133,
+      "name": "father and daughter"
+    },
+    {
+      "id": 324284,
+      "name": "war drama"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 10741,
+  "watchlistCount": 44,
+  "favouriteCount": 17,
+  "shareCount": 3,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-03T16:09:34.461Z",
+  "updatedAt": "2026-10-03T16:12:44.174Z",
+  "genres": [
+    {
+      "id": "1de0078f-f038-4fba-87f2-c36e7584a1cb",
+      "tmdbId": 10752,
+      "name": "War",
+      "slug": "war",
+      "createdAt": "2026-04-02T13:49:04.263Z"
+    },
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+      "tmdbId": 36,
+      "name": "History",
+      "slug": "history",
+      "createdAt": "2026-04-02T13:49:17.126Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "523b1aea-9c21-40c6-a122-dfbd2f058de7",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 53650,
+      "name": "Anthony Mackie",
+      "character": "Hanzala",
+      "profilePath": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+      "order": 0
+    },
+    {
+      "id": "44c3a235-a2c4-46a6-9c7b-bc2eb9180390",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 1257937,
+      "name": "Aiysha Hart",
+      "character": "Princess Hind",
+      "profilePath": "/ilIvkFvqgyDrlKpJwNcDpAITeNd.jpg",
+      "order": 1
+    },
+    {
+      "id": "eed1ae67-736b-4d68-b623-5b5102dae1b0",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 20667,
+      "name": "Sami Bouajila",
+      "character": "Hani",
+      "profilePath": "/q903sFX1TVcFH7ySSRKbPhBTdS.jpg",
+      "order": 2
+    },
+    {
+      "id": "16e323ad-c4dc-4cf7-9476-68b858abdf1f",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 82191,
+      "name": "Sharlto Copley",
+      "character": "Jalabzeen",
+      "profilePath": "/em89OJJvBRX7kNJJPASmNKQujsC.jpg",
+      "order": 3
+    },
+    {
+      "id": "a8fc2295-2aeb-4307-a2a7-7c286edbcda4",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 2282,
+      "name": "Ben Kingsley",
+      "character": "Emperor Kisra II",
+      "profilePath": "/k3Dmu49B2akwDvgqy52MOxznI59.jpg",
+      "order": 4
+    },
+    {
+      "id": "9fee7ba6-ad92-4377-9595-9e4537b1ce62",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 70577,
+      "name": "Ghassan Massoud",
+      "character": "King Numan",
+      "profilePath": "/cJuAOuB6M8XortdpdZbz64VIImB.jpg",
+      "order": 5
+    },
+    {
+      "id": "2c3362ce-3dc7-4531-98db-bd27983bf285",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 1563830,
+      "name": "Lamis Ammar",
+      "character": "Medicine Woman",
+      "profilePath": "/qNWpwJOXepQaoIDs1zLly0caRJi.jpg",
+      "order": 6
+    },
+    {
+      "id": "414a5d1f-b52d-4172-9682-d7b464f3d8c5",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 28031,
+      "name": "Ramsey Faragallah",
+      "character": "Ibn Qabisah",
+      "profilePath": "/lxjwDvvfenkjUI1n8qwO13QmhEv.jpg",
+      "order": 7
+    },
+    {
+      "id": "2087eb09-a15f-4d24-b51e-06c47b12f2a2",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 2256775,
+      "name": "Saïd Boumazoughe",
+      "character": "Samir",
+      "profilePath": "/5aOxePnZD6X1rMYXueN7aKUl7u9.jpg",
+      "order": 8
+    },
+    {
+      "id": "a0a16fc9-055e-4a16-83be-2efe0cb75719",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 1389576,
+      "name": "Younes Bouab",
+      "character": "Aasif",
+      "profilePath": "/vlZtenkbtcUB6nt6qyfRjYRzshR.jpg",
+      "order": 9
+    },
+    {
+      "id": "4b3da4d3-404e-4a3a-8626-d35ffb76f421",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 1454942,
+      "name": "Géza Röhrig",
+      "character": "Al Hamerz",
+      "profilePath": "/3XrYcL5wC1wQnmqJautgZK3XuiM.jpg",
+      "order": 10
+    },
+    {
+      "id": "1aafa53b-04ca-4bff-bb8d-b4c9c2a70776",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 1507227,
+      "name": "Alain Saadeh",
+      "character": "Yazid",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "ff7598c7-ab29-452f-845f-b2296e99f4d8",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 4309627,
+      "name": "Omar Al-Atawi",
+      "character": "Shepherd Boy",
+      "profilePath": "/5hqJkOGAsmXgR78WDEneFBVK6D3.jpg",
+      "order": 12
+    },
+    {
+      "id": "217a52cb-12ee-4456-bdfa-8315856ee0dd",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 6246040,
+      "name": "Saeed Salman Al-Atawi",
+      "character": "Shepherd",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "bb2feed2-8b76-44b9-90a4-0721e6bc3514",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 35434,
+      "name": "Numan Acar",
+      "character": "Ebn Wael",
+      "profilePath": "/krAYCiFQGreNOOqtTLX3v6TlHk5.jpg",
+      "order": 14
+    },
+    {
+      "id": "af0612b5-2ccb-4783-b230-753ba5523da9",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 26197,
+      "name": "Nabil Elouahabi",
+      "character": "Taif",
+      "profilePath": "/gBWJGBBIWyAFv5rGv3hw3hwmEls.jpg",
+      "order": 15
+    },
+    {
+      "id": "6c11ac35-88f2-4a2a-afed-988daa0c003c",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 1840,
+      "name": "Gordon Brown",
+      "character": "Kardarigan",
+      "profilePath": "/tKnkIuEUr2U4MKtm0opQUfkv7q.jpg",
+      "order": 16
+    },
+    {
+      "id": "d50ccb87-849d-4054-ab8c-d4791b8bbcb3",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 3007345,
+      "name": "Mustapha Touki",
+      "character": "Market Trader",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "371d41d6-f7b8-4bea-a75b-7e57fa3b013b",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 4575370,
+      "name": "Mohammed Hamdan",
+      "character": "Young Hot Blood",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "573f8ce3-c89a-4c36-a1c3-a92da542728c",
+      "movieId": "59c02bd6-88a0-43ce-8d7c-af8f57bc40b0",
+      "tmdbPersonId": 6246042,
+      "name": "Ehab Khalifah",
+      "character": "Wealthy Merchant",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

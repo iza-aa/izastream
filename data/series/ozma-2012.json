@@ -1,0 +1,100 @@
+{
+  "slug": "ozma-2012",
+  "id": "764f07d2-2e49-40e3-88b0-1715b8a82cc2",
+  "title": "Ozma",
+  "overview": "Ozma is a 2012 Japanese anime television series, based on an unused script from 1980 written by manga author Leiji Matsumoto.\n\nThe story is set on Earth in the future when abnormal activity on the sun devastates Earth's atmosphere and covers the entire planet in a sea of sand. Sam pursues Ozma, an enemy of his brother. One day, Sam encounters Maya, who is being chased by the Theseus army.",
+  "tagline": null,
+  "posterPath": "/oVpeA47pBOwOZlUFX83jVLOLxy3.jpg",
+  "backdropPath": "/iG0WZ0KHmXGkijPzYUjUjXhEJ85.jpg",
+  "logoPath": "/nm49O3rs8KJJNyC72sY8bwGoCoN.png",
+  "firstAirDate": "2012-03-16",
+  "voteAverage": "6.30",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a7bba3e4-b798-4e37-8bed-a2477c4038bc",
+      "tvSeriesId": "764f07d2-2e49-40e3-88b0-1715b8a82cc2",
+      "tmdbPersonId": 90134,
+      "name": "Tetsuya Kakihara",
+      "character": "Sam Coin",
+      "profilePath": "/80DeAD6DYh030wsyUygFqDpNkSj.jpg",
+      "order": 0
+    },
+    {
+      "id": "5b87926d-8a9f-4f19-8876-4ccdd25c1bcf",
+      "tvSeriesId": "764f07d2-2e49-40e3-88b0-1715b8a82cc2",
+      "tmdbPersonId": 89835,
+      "name": "Ayumi Fujimura",
+      "character": "Mimei",
+      "profilePath": "/zITmioEbXjrhybAOBNS3CAyy2QQ.jpg",
+      "order": 1
+    },
+    {
+      "id": "cebe5b9b-1a8c-4395-b455-70e69bc70f0a",
+      "tvSeriesId": "764f07d2-2e49-40e3-88b0-1715b8a82cc2",
+      "tmdbPersonId": 89883,
+      "name": "Rie Tanaka",
+      "character": "Maya",
+      "profilePath": "/wBWsjzwpFovyHDv027zU0oZyWHd.jpg",
+      "order": 2
+    },
+    {
+      "id": "cf57b3f0-f20b-4c5f-b605-c9962d8fe026",
+      "tvSeriesId": "764f07d2-2e49-40e3-88b0-1715b8a82cc2",
+      "tmdbPersonId": 34923,
+      "name": "Atsuko Tanaka",
+      "character": "Binas",
+      "profilePath": "/pacuup8TMK9SFsSJOY8jlbyzkFt.jpg",
+      "order": 3
+    },
+    {
+      "id": "e424cb39-44a7-481e-83a2-558b83a3074c",
+      "tvSeriesId": "764f07d2-2e49-40e3-88b0-1715b8a82cc2",
+      "tmdbPersonId": 144773,
+      "name": "Show Hayami",
+      "character": "Gido Gairaa",
+      "profilePath": "/HU9LZJdb4H8coHiSaHiUprcFm1.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "c44e25b3-1e52-40aa-aefe-660895fa10bc",
+      "tvSeriesId": "764f07d2-2e49-40e3-88b0-1715b8a82cc2",
+      "tmdbId": 53662,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/57DtPlzquIaYAmU2P4ERWwIQiPl.jpg",
+      "airDate": "2012-03-15",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-08-26T18:45:49.027Z",
+      "updatedAt": "2026-08-26T18:46:58.600Z"
+    }
+  ]
+}

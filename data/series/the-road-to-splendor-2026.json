@@ -1,0 +1,131 @@
+{
+  "slug": "the-road-to-splendor-2026",
+  "id": "831eb87d-6123-406a-af63-c6accae96646",
+  "title": "The Road to Splendor",
+  "overview": "After being falsely accused of a scandal that ruins her reputation, noblewoman Fu Tingyun escapes with the help of salt smuggler Zhao Ling. Together, they expose government corruption and navigate the treacherous world of court politics. As they seek justice and uncover the truth behind her past, their bond deepens, leading them to a new beginning.",
+  "tagline": null,
+  "posterPath": "/32xB4tvOEixN0XUuL43I8qy9ghg.jpg",
+  "backdropPath": "/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
+  "logoPath": "/gHMrOM8AidR6XeuA1d7Ww2MtdTO.png",
+  "firstAirDate": "2026-08-09",
+  "voteAverage": "7.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4d78bf68-1e7c-4c26-81e4-a45db94c7338",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbPersonId": 2493492,
+      "name": "Ding Yuxi",
+      "character": "Zhao Ling",
+      "profilePath": "/ellcOuCs2mo1Oh9zO2Qhb0OoZ4d.jpg",
+      "order": 0
+    },
+    {
+      "id": "6ba510e7-b4b0-4026-8e20-2b408d9574fc",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbPersonId": 1780718,
+      "name": "Deng Enxi",
+      "character": "Fu Tingyun",
+      "profilePath": "/mljbAriACCCSNYAe6bDMiCFgViu.jpg",
+      "order": 1
+    },
+    {
+      "id": "dbcd0f96-b321-4fd8-868d-dd3245af2d0f",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbPersonId": 3451480,
+      "name": "Fan Shiran",
+      "character": "Fan Yake",
+      "profilePath": "/l8NLIJWLSP5J5tplzUM0XKtL6xC.jpg",
+      "order": 2
+    },
+    {
+      "id": "6b15ada8-e4ea-4e76-b00d-d8a0cce94efd",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbPersonId": 3843832,
+      "name": "Dong Zifan",
+      "character": "Yu Jingxiu",
+      "profilePath": "/x97b3NOgk9RuPCOeWjZJ21vC0gK.jpg",
+      "order": 3
+    },
+    {
+      "id": "6460dfae-976a-44fc-ad5e-95b35ab8dbfc",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbPersonId": 2313585,
+      "name": "Shi Yueling",
+      "character": "Madame Xie",
+      "profilePath": "/22Te9NaqIzGXX4kThku6gnec7n2.jpg",
+      "order": 502
+    },
+    {
+      "id": "7d4dc732-dc98-491f-b7c3-c2a2f5e9f43a",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbPersonId": 2389969,
+      "name": "Wen Zhengrong",
+      "character": "Mrs. Yu",
+      "profilePath": "/q9gdTw1WFKuK3GPko9cE4T9umQu.jpg",
+      "order": 503
+    },
+    {
+      "id": "3e838c1e-5c9d-4a3c-980e-025df32a2d46",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbPersonId": 2997895,
+      "name": "Zhang Jingwei",
+      "character": "Yang Yucheng",
+      "profilePath": "/kW7EyUHD90GBykTOEm5lXbrgD5C.jpg",
+      "order": 506
+    },
+    {
+      "id": "90932f3e-0239-464d-9b34-278c9a40bbf1",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbPersonId": 4117341,
+      "name": "Zhang Enshuo",
+      "character": "Young A Sen",
+      "profilePath": "/lQhRqrp8biaWeZq5BZ8Xm42MDpU.jpg",
+      "order": 507
+    },
+    {
+      "id": "a93c5a49-4cf4-46a5-be29-30fd2c61f0c9",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbPersonId": 1190190,
+      "name": "Zhang Chenghe",
+      "character": "Mo Yi",
+      "profilePath": "/q4ct7gMawQvQIylDRvyxB4gtfRq.jpg",
+      "order": 514
+    },
+    {
+      "id": "23781f56-b769-49fc-b56c-61d3761d65a4",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbPersonId": 1087177,
+      "name": "Zhao Yuanyuan",
+      "character": "Zheng Sanniang",
+      "profilePath": "/qe3dmYAfAhbrr8K5GTqr2CDqMny.jpg",
+      "order": 516
+    }
+  ],
+  "seasons": [
+    {
+      "id": "38597a61-e326-4dff-b5e9-14364f3d22fb",
+      "tvSeriesId": "831eb87d-6123-406a-af63-c6accae96646",
+      "tmdbId": 448558,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Zhao Ling, a bold and loyal underground salt dealer, may come from humble origins, but he carries grand ambitions. He crosses paths with Fu Tingyun, a noble heiress wrongfully accused of an illicit affair. Forced to flee together, they face trials from both family and court. Battling against fate, their bond grows through hardship eventually forging a legendary love.",
+      "posterPath": "/A2pcXDon8cFwHlFMs8veksmRG7Z.jpg",
+      "airDate": "2026-08-09",
+      "episodeCount": 36,
+      "isPublished": true,
+      "createdAt": "2026-08-30T04:43:49.186Z",
+      "updatedAt": "2026-08-30T04:49:19.066Z"
+    }
+  ]
+}

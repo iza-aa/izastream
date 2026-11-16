@@ -1,0 +1,281 @@
+{
+  "slug": "the-butchers-blade-2026",
+  "id": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+  "tmdbId": 1609125,
+  "imdbId": "tt39314786",
+  "title": "The Butcher's Blade",
+  "originalTitle": "手遮天",
+  "overview": "Local constable Xue Buyi keeps his distance from corrupt colleagues until he is framed for the theft of thousands of dollars in relief funds. Now he must choose: fight to clear his name or uphold the law he's sworn to obey.",
+  "tagline": null,
+  "posterPath": "/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg",
+  "backdropPath": "/zYrldkWrMQO529xKQP7qRZUFKCD.jpg",
+  "logoPath": "/voabMbcaRrRWz5ppVOkunEvZMxI.png",
+  "backdrops": [
+    "/zYrldkWrMQO529xKQP7qRZUFKCD.jpg",
+    "/jQWeoYBs4CbQXRwB1qlSlGVonxn.jpg"
+  ],
+  "releaseDate": "2026-01-08",
+  "runtime": 90,
+  "voteAverage": "6.56",
+  "popularity": null,
+  "popularityScore": 310,
+  "originalLanguage": "zh",
+  "country": "CN",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "WEB-DL",
+  "director": "Liu Wenpu",
+  "directorTmdbId": 3700434,
+  "directorProfilePath": "/4Baj4P1hTtjXjDBlnDCMAkzF3IH.jpg",
+  "productionCompanies": [
+    {
+      "id": 285675,
+      "name": "Cavelries Film Co., Ltd.",
+      "logo_path": null
+    },
+    {
+      "id": 48460,
+      "name": "Youku",
+      "logo_path": "/7m3BMwdstKRqw7qg5vSYW2S0HrR.png"
+    },
+    {
+      "id": 131587,
+      "name": "Lian Ray Pictures",
+      "logo_path": "/vtQSkfAuPHoBtlEbUpsjs5kVfG6.png"
+    },
+    {
+      "id": 285676,
+      "name": "Shenzhen Sanxin Film Industry Co., Ltd.",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 12995,
+      "name": "historical fiction"
+    },
+    {
+      "id": 195013,
+      "name": "costume drama"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 9232,
+  "watchlistCount": 41,
+  "favouriteCount": 10,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-09T18:47:33.927Z",
+  "updatedAt": "2026-10-09T18:51:07.012Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7ca950b0-bab5-4533-95f0-fcaec95589f6",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 2430202,
+      "name": "Liu Fengchao",
+      "character": "Xue Buyi",
+      "profilePath": "/uVxSCAmbA33JidS7Tf9ScDa19Wg.jpg",
+      "order": 0
+    },
+    {
+      "id": "673094e2-9a9e-40f4-befb-2981913623b3",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 1457880,
+      "name": "Chunyu Shanshan",
+      "character": "Huang Shining",
+      "profilePath": "/soMA9uxdUFUZyXK94vSaeiEcJjJ.jpg",
+      "order": 1
+    },
+    {
+      "id": "f7ebde11-91d0-4a9b-b3cd-9382c8eb83e1",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 2227997,
+      "name": "Yuan Fufu",
+      "character": "Li Zhen",
+      "profilePath": "/seoHyRWtk7p4qo1GIiBHvlY3xWn.jpg",
+      "order": 2
+    },
+    {
+      "id": "55b95e93-1023-4ac6-90e8-c2c14722aee4",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 3178235,
+      "name": "Liu Enshang",
+      "character": "Wei Dengkui",
+      "profilePath": "/xXOeueALMRBZKjdNzMNj01jTW0q.jpg",
+      "order": 3
+    },
+    {
+      "id": "357d11f6-8e47-42f4-9673-bfac7e8e0c79",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 2580771,
+      "name": "Gao Weiman",
+      "character": "Yin Erniang",
+      "profilePath": "/4n8XToC5mCFiEryIfy2qr2gEfEj.jpg",
+      "order": 4
+    },
+    {
+      "id": "0cd5d2cc-4503-4be1-940e-0e02d1020d78",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 2765300,
+      "name": "Liu Ben",
+      "character": "Zhang Wenshan",
+      "profilePath": "/v32cIOWmaTZCZAudnspC1eSOvIz.jpg",
+      "order": 5
+    },
+    {
+      "id": "e8a00337-5d7a-4270-8fd1-9b8240cdcf98",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 3788433,
+      "name": "Li Yunhe",
+      "character": "Seven-Faced Fox",
+      "profilePath": "/2h6V50YU01FgrBsrMtffi4EfGw3.jpg",
+      "order": 6
+    },
+    {
+      "id": "c072a9b1-bb68-4211-b96d-a6c3ed006492",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 3041335,
+      "name": "Gao Yi",
+      "character": "Yang Shouxin",
+      "profilePath": "/ioOeGt0Yq4kmX4B6xOxgN6OSPfu.jpg",
+      "order": 7
+    },
+    {
+      "id": "574f888a-6e1d-4a69-96db-1131778e0cb5",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 2950162,
+      "name": "Huang Tao",
+      "character": "Young Master Chen",
+      "profilePath": "/hdDvTSyrQN95uRuq0AgcoCDJuDc.jpg",
+      "order": 8
+    },
+    {
+      "id": "97c25d6c-dfdb-4901-9464-80077b2f9bf2",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 5928621,
+      "name": "Liang Dongyu",
+      "character": "Nine-Tattooed Dragon",
+      "profilePath": "/lKEy27Eb9cWxqb3stAnzmf2XJXG.jpg",
+      "order": 9
+    },
+    {
+      "id": "57364142-f9e1-4def-bf07-f4b5a05b65c7",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 4219226,
+      "name": "Liu Chao",
+      "character": "Xu'er",
+      "profilePath": "/1RzIYCCcgMIVNGbHnHVcCUBB3gk.jpg",
+      "order": 10
+    },
+    {
+      "id": "601a7cdb-f5b9-4e33-8799-97c8cc0535a0",
+      "movieId": "57e873b8-7bc4-4ac7-8b22-6716a00b184a",
+      "tmdbPersonId": 4321392,
+      "name": "Qian Geng",
+      "character": "Xu Da",
+      "profilePath": "/yxyg95WZ4fsnZZH7MrwPmDuFtOF.jpg",
+      "order": 11
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

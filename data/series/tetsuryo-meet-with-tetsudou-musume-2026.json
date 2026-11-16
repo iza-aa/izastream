@@ -1,0 +1,138 @@
+{
+  "slug": "tetsuryo-meet-with-tetsudou-musume-2026",
+  "id": "f6707c37-62d6-48be-8b83-da25d6906627",
+  "title": "TETSURYO! Meet with Tetsudou Musume",
+  "overview": "Misaki wants to escape her everyday life and set out on a journey somewhere. And while she doesn’t yet know what she will be in the future, Misaki knows for certain that she wants to find something she is passionate about. Soon after arriving on campus to start her college life, she meets the members of the Railway Travel Club. Misaki’s heart now beats with excitement for the new world that lies ahead on the railway.",
+  "tagline": null,
+  "posterPath": "/rvByMyqAdcziOnJQkQYa8ghNueF.jpg",
+  "backdropPath": "/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
+  "logoPath": "/yi9tqIr0fhIAcqygZCLfpzKRq6n.png",
+  "firstAirDate": "2026-10-09",
+  "voteAverage": "6.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 4,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "00bad86a-e145-4b9e-987a-3b3c6aeb9ca5",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbPersonId": 5200573,
+      "name": "May Tachibana",
+      "character": "Misaki Sata (voice)",
+      "profilePath": "/yqeZxV1HUplB4REeJXkSOrdyEMj.jpg",
+      "order": 0
+    },
+    {
+      "id": "c2f78085-5723-4d6f-89f7-d1365dfe1786",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbPersonId": 5848280,
+      "name": "Mao Shouji",
+      "character": "Kodama Orihara (voice)",
+      "profilePath": "/cXt1a15URCFIwrKqJC9IryVLn8T.jpg",
+      "order": 1
+    },
+    {
+      "id": "8ef7e699-f683-4146-a267-e503eed57721",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbPersonId": 4551940,
+      "name": "Haruna Fukushima",
+      "character": "Ushio Yagami (voice)",
+      "profilePath": "/hsfcKOnfn6oblVwAdk7V15QqlX.jpg",
+      "order": 2
+    },
+    {
+      "id": "2c546990-792f-419c-a52c-479dade4ce57",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbPersonId": 3533574,
+      "name": "Hika Tsukishiro",
+      "character": "Usa Harutachi (voice)",
+      "profilePath": "/iJU59ru8Rv9sIHd5kMznFDZktZr.jpg",
+      "order": 3
+    },
+    {
+      "id": "70cea0bb-7343-4fd6-be12-ec92707195df",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbPersonId": 3309472,
+      "name": "Fuka Izumi",
+      "character": "Yayoi Nakano (voice)",
+      "profilePath": "/nTC0TuLp4Ek3b08DG9lhwVJHwlW.jpg",
+      "order": 4
+    },
+    {
+      "id": "1ffc2e1b-fa67-41a3-89cd-fb7901d57432",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbPersonId": 2167409,
+      "name": "Yukari Anzai",
+      "character": "Arisa Nishiura (voice)",
+      "profilePath": "/g9IZrHbU87Ez4PWoIHTny88y6gc.jpg",
+      "order": 5
+    },
+    {
+      "id": "9c0ba18f-c98b-4cf2-98ab-6133d25f96d8",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbPersonId": 2140829,
+      "name": "Yuki Nakashima",
+      "character": "Chihaya Asakura (voice)",
+      "profilePath": "/zFFDjAZ0Bj2lmjBBcGdDMYUm2yG.jpg",
+      "order": 6
+    },
+    {
+      "id": "b1af31a9-1daf-48bb-9b52-abb808ff7a73",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbPersonId": 1254672,
+      "name": "Asami Seto",
+      "character": "Sakie Ashio (voice)",
+      "profilePath": "/iKKCPgKrNd4pJ0iBOC1SBZy2Y4Y.jpg",
+      "order": 7
+    },
+    {
+      "id": "8d0e1eec-5343-4844-a73f-2b6942fe85be",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbPersonId": 2864386,
+      "name": "Hana Hishikawa",
+      "character": "Shiina Igusa (voice)",
+      "profilePath": "/epCzuP9ZmBMonKK2Z6FOKoq2b7k.jpg",
+      "order": 8
+    },
+    {
+      "id": "5492d9cf-79db-47b5-9791-a7ce616243cc",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbPersonId": 1256547,
+      "name": "Ayaka Ohashi",
+      "character": "Juri Okuwa (voice)",
+      "profilePath": "/2nvtejsD4sc6QNlPhGedKvr3VS1.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "276d0386-09dd-484a-94b4-fd40266eaf4b",
+      "tvSeriesId": "f6707c37-62d6-48be-8b83-da25d6906627",
+      "tmdbId": 477952,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9UpqTFeteXZp3ccTMIte9oVkzpu.jpg",
+      "airDate": "2026-10-09",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-25T05:24:19.118Z",
+      "updatedAt": "2026-11-08T04:09:46.382Z"
+    }
+  ]
+}

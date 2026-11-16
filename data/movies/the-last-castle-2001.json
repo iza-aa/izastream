@@ -1,0 +1,388 @@
+{
+  "slug": "the-last-castle-2001",
+  "id": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+  "tmdbId": 2100,
+  "imdbId": "tt0272020",
+  "title": "The Last Castle",
+  "originalTitle": "The Last Castle",
+  "overview": "A court-martialed general rallies together 1200 inmates to rise against the system that put him away.",
+  "tagline": "A castle can only have one king.",
+  "posterPath": "/pYnUfauPVK6g8IRO2REYl4TUZ2p.jpg",
+  "backdropPath": "/mYnCnyGxdtXo2PDhhyFT0er9sp5.jpg",
+  "logoPath": "/vXaSqp3Ja97xKbk1mkp6yXRqBpE.png",
+  "backdrops": [
+    "/mYnCnyGxdtXo2PDhhyFT0er9sp5.jpg",
+    "/bYJyQqqJV30RJX6VPE3Rz1lPZhH.jpg",
+    "/qDznalKGJQMoeK3ALLVepQS8FRL.jpg",
+    "/8SoFol5d15HrdABfRk7HpXZ3WrY.jpg",
+    "/xFWzNFDW42ikAyraxHAABNpl3Iq.jpg",
+    "/nbYjJ5qAH5TCYUd9WnA7BRsO6LH.jpg",
+    "/j4L8e1iliREhR2GvG5PUf0a8fcM.jpg",
+    "/z9BOLX5fVeeIX3Y8iufuZlOcMkC.jpg",
+    "/lG50KOqJ6pnyHVCC6y4dpKkKCW0.jpg",
+    "/7vj9IVB4xF7zZQNI1C3tOIHwVb8.jpg"
+  ],
+  "releaseDate": "2001-10-19",
+  "runtime": 131,
+  "voteAverage": "7.20",
+  "popularity": null,
+  "popularityScore": 262,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=THWd2Qtp_mo",
+  "quality": "WEB-DL",
+  "director": "Rod Lurie",
+  "directorTmdbId": 21526,
+  "directorProfilePath": "/csMmRRZBBEjrEqdUCkmwH0I2e6o.jpg",
+  "productionCompanies": [
+    {
+      "id": 7,
+      "name": "DreamWorks Pictures",
+      "logo_path": "/zcKhWbxFJ4CohZ9dLBMxmOArTVn.png"
+    },
+    {
+      "id": 12245,
+      "name": "Robert Lawrence Productions",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 1402,
+      "name": "general"
+    },
+    {
+      "id": 11109,
+      "name": "military officer"
+    },
+    {
+      "id": 5340,
+      "name": "investigation"
+    },
+    {
+      "id": 6217,
+      "name": "coercion"
+    },
+    {
+      "id": 158455,
+      "name": "oppression"
+    },
+    {
+      "id": 185454,
+      "name": "us military"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 3135,
+  "watchlistCount": 10,
+  "favouriteCount": 7,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-15T19:33:48.050Z",
+  "updatedAt": "2026-10-15T19:35:08.392Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4ed5e3c7-6102-49e6-ab17-f3ac865ea3ad",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 4135,
+      "name": "Robert Redford",
+      "character": "Lt. Gen. Eugene Irwin",
+      "profilePath": "/m5ayL8ASLdaaFYzqJZNYvrKRuhD.jpg",
+      "order": 0
+    },
+    {
+      "id": "7295094c-40b0-4eaf-9a4e-4c940f799ad8",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 4691,
+      "name": "James Gandolfini",
+      "character": "Col. Winter",
+      "profilePath": "/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg",
+      "order": 1
+    },
+    {
+      "id": "df9b929c-4bec-4880-894f-5902bc2545ce",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 103,
+      "name": "Mark Ruffalo",
+      "character": "Yates",
+      "profilePath": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg",
+      "order": 2
+    },
+    {
+      "id": "605360ae-a452-4a20-a455-3ec01180c2ac",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 18792,
+      "name": "Delroy Lindo",
+      "character": "Gen. Wheeler",
+      "profilePath": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg",
+      "order": 3
+    },
+    {
+      "id": "efb29062-860b-402c-96f5-75fd9cc6b75d",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 5365,
+      "name": "Clifton Collins Jr.",
+      "character": "Cp. Ramov Aguilar",
+      "profilePath": "/xfD0scqaPvAxKCPHYLo8553Le5g.jpg",
+      "order": 4
+    },
+    {
+      "id": "4efc5a10-3554-4cdf-9e38-baa0cdf2c764",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 80380,
+      "name": "Kristen Shaw",
+      "character": "Clerk (Staff Sgt.)",
+      "profilePath": "/hfcBzxtH76An6f17CPQRRx8hCfd.jpg",
+      "order": 5
+    },
+    {
+      "id": "ab64d99b-7170-4c6c-8805-10f62ea1b474",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 3137,
+      "name": "Paul Calderon",
+      "character": "Dellwo",
+      "profilePath": "/xIORhcIDmFMlaS3ZS3em1QiTkt5.jpg",
+      "order": 6
+    },
+    {
+      "id": "eb92793a-25c9-4d2d-9bd8-681ebef88c18",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 80978,
+      "name": "Brian Goodman",
+      "character": "Beaupre",
+      "profilePath": "/kvRS1QA7YuYhlFO3M8GbnOtvXts.jpg",
+      "order": 7
+    },
+    {
+      "id": "b1ca4b5a-2c76-4be1-9ea7-886a6b58bdfe",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 21530,
+      "name": "Steve Burton",
+      "character": "Cap. Peretz",
+      "profilePath": "/57CLC5pCHjgrgU6YJtyMHMSHwLY.jpg",
+      "order": 8
+    },
+    {
+      "id": "6490c140-cbda-4b62-b55d-17c18efbd6e8",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 21532,
+      "name": "Sam Ball",
+      "character": "Duffy",
+      "profilePath": "/cjwDBnmlRTy2sVsplXGOIHC5ldM.jpg",
+      "order": 9
+    },
+    {
+      "id": "d14ca03f-0cd8-4fab-9173-68f56978c25e",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 21533,
+      "name": "Jeremy Childs",
+      "character": "Cutbush",
+      "profilePath": "/5UQzw4CcIQj3FVRZ22hAFMOxe5r.jpg",
+      "order": 10
+    },
+    {
+      "id": "0edce197-8cc3-40ea-84fd-2587338dcb43",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 21535,
+      "name": "George W. Scott",
+      "character": "Thumper",
+      "profilePath": "/zuzfHLGsgrxujoPxfIjGzhkVEK6.jpg",
+      "order": 11
+    },
+    {
+      "id": "07faa610-1834-4145-9584-3c6b359b6c46",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 1931758,
+      "name": "Steve Sandfort",
+      "character": "Inmate",
+      "profilePath": "/zY6D0zG7ne9PUIdH9jAMN8dJVHW.jpg",
+      "order": 12
+    },
+    {
+      "id": "4559ec4e-0c38-4e51-b2e8-f4c198312577",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 124304,
+      "name": "Michael Irby",
+      "character": "Enriquez",
+      "profilePath": "/9cX8pKujyAlOyqGSAgvKNdA3qRj.jpg",
+      "order": 13
+    },
+    {
+      "id": "9d964b82-b4fa-4b18-838c-5013a2d33dd4",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 40053,
+      "name": "Frank Military",
+      "character": "Doc",
+      "profilePath": "/hQ20dsHcFzKdWTciJL8qmVQ4s9d.jpg",
+      "order": 14
+    },
+    {
+      "id": "f0ebd7b9-c5cc-47aa-8ae9-c053e1110b53",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 1233899,
+      "name": "Nick Kokich",
+      "character": "Pvt. Niebolt",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "6213a648-8572-45d4-b1b3-22039e9fd72b",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 944159,
+      "name": "David Alford",
+      "character": "Corp. Zamorro",
+      "profilePath": "/9BU7iIq3WOiKH2NX2e4yBMrRNYV.jpg",
+      "order": 16
+    },
+    {
+      "id": "d0ebf3a0-4a35-4456-81a0-6c93d5acf428",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 2678358,
+      "name": "Dean Hall",
+      "character": "Harris",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "0dbb1da8-ab0e-48ab-8bfb-29b28ad93f15",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 128211,
+      "name": "Peg Allen",
+      "character": "Secretary (Kelly)",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "19ff14de-91ef-4278-882d-de3f2af3a1dc",
+      "movieId": "6490d24c-fc9d-433c-bd63-0a648f24753d",
+      "tmdbPersonId": 2264248,
+      "name": "Rick Vito",
+      "character": "Red Team Leader",
+      "profilePath": "/kgm3rzERCAzcj5otNv4Qg4ZrsKC.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "guntureka",
+    "displayName": "Guntur Eka Putra"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,612 @@
+{
+  "slug": "magic-repo-man-dumped-by-my-party-ill-cash-in-with-a-cute-support-fairy-to-become-the-strongest-2026",
+  "id": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+  "tmdbId": 333622,
+  "imdbId": "tt43650419",
+  "title": "Magic Repo Man: Dumped by My Party, I'll Cash In with a Cute Support Fairy to Become the Strongest!",
+  "originalTitle": "貸した魔力は【リボ払い】で強制徴収",
+  "overview": "In a world where magical Gifts determine your destiny, Lent’s rare ability lets him lend his magic points to others. He forms an adventuring party called the Skypiercers with his friends, helping them become powerful heroes, only to be later cast aside as dead weight. Furious, Lent awakens the true power of his Gift: Forced Collection, the power to repossess magic. His revenge starts now.",
+  "tagline": null,
+  "posterPath": "/jPItUZ3PnbkGii2JS0QCeyNgLxt.jpg",
+  "backdropPath": "/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
+  "logoPath": "/v8S7tFMqpiAYn65Xfu0kH9rCvYL.png",
+  "backdrops": [
+    "/fXCe8Tuh8pJ9BnU13kh1vLfjwIo.jpg",
+    "/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
+    "/9zo8R2dlftorSAzm1409fy7E76F.jpg",
+    "/6cuEz4FtVsHalw8U85w2D8nrmWD.jpg"
+  ],
+  "firstAirDate": "2026-10-04",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "voteAverage": "7.50",
+  "popularity": null,
+  "popularityScore": 528,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "trailerUrl": null,
+  "status": "Returning Series",
+  "networks": [
+    {
+      "id": 12,
+      "name": "HTB",
+      "logo_path": "/7wuTb7iMz5yLoJ8hIyBnUxqR3mP.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 103,
+      "name": "tv asahi",
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 576,
+      "name": "Nagoya TV",
+      "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1278,
+      "name": "KBC",
+      "logo_path": "/49D825cN3Zb4slobKyGqIaI3Fx9.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1410,
+      "name": "ABC TV",
+      "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3756,
+      "name": "NCC",
+      "logo_path": "/qEIIHhehdHtTQ4fhuXrA29mbzmo.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4794,
+      "name": "OAB",
+      "logo_path": "/zJwB70bgRT6rTDqgAlHiqwRT4y7.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4798,
+      "name": "ABA",
+      "logo_path": "/mXNVO8Wok1ClD7IO68PxyqBiGZZ.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6270,
+      "name": "Niigata Television Network 21",
+      "logo_path": "/xnHINTAs2GnfXJ3lalaQ0se8aup.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6284,
+      "name": "khb",
+      "logo_path": "/wKeS1TYkJVcV9tGPnvb92IugawP.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6285,
+      "name": "KFB",
+      "logo_path": "/kNRmEa1EtmNOSc8CKMwdGfkXIyV.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6288,
+      "name": "HOME",
+      "logo_path": "/gm3ksoi7zQMWpHsJJDzotTwF2GM.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6289,
+      "name": "KSB",
+      "logo_path": "/u9XEQkReRr35KxxMic1vPjJv3qo.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6290,
+      "name": "Kagoshima Broadcasting",
+      "logo_path": "/kgfTkjNRsR0f2QEiaXf2fymKB6V.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6365,
+      "name": "Iwate Asahi TV",
+      "logo_path": "/zt6uycUeRmG8aiYRw420P5y4Xi0.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6366,
+      "name": "Akita Asahi Broadcasting",
+      "logo_path": "/dmSnk8fI8hpQOyCIrUDhj3TxTT8.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6367,
+      "name": "Yamagata Television System",
+      "logo_path": "/kAfR2xtRjdVhEoLPPSJJSBqIFLx.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6368,
+      "name": "Shizuoka Asahi TV",
+      "logo_path": "/34nBfbkqxcjrbpVraEfI6MkCvgY.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6369,
+      "name": "Asahi Broadcasting Nagano",
+      "logo_path": "/ztA2E1CY6L3aF2roadAOHtLiDCP.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6370,
+      "name": "Hokuriku Asahi Broadcasting",
+      "logo_path": "/onsaMWqPfrINyAfgi2FnP8conv1.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6372,
+      "name": "Ehime Asahi TV",
+      "logo_path": "/oF2QyQlm3yurCqIrohMC3UQZbxw.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6373,
+      "name": "Yamaguchi Asahi Broadcasting",
+      "logo_path": "/6iuVpZdxAE8lgPENUBuwzCspYF7.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6374,
+      "name": "Kumamoto Asahi Broadcasting",
+      "logo_path": "/qBX8z5bj0EISsASQo5IE76BYpu5.png",
+      "origin_country": "JP"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 109486,
+      "name": "SynergySP",
+      "logo_path": "/5sKwEOp3RdoAukp6qHwSE8MoTit.png"
+    },
+    {
+      "id": 9300,
+      "name": "TV Asahi",
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png"
+    },
+    {
+      "id": 209105,
+      "name": "TV Asahi Music",
+      "logo_path": "/9FetaezkNMCYycfLnm5e2l1gedc.png"
+    },
+    {
+      "id": 210006,
+      "name": "Flex Comix",
+      "logo_path": "/rmM9sCsz8j2ctRlm3V9YDvfhFlO.png"
+    },
+    {
+      "id": 313164,
+      "name": "Kotobukiya",
+      "logo_path": null
+    },
+    {
+      "id": 188144,
+      "name": "BS Asahi",
+      "logo_path": "/tft4KzwjS3okGiN6duB3qwHkIX1.png"
+    },
+    {
+      "id": 181285,
+      "name": "Bushiroad Move",
+      "logo_path": "/xHaPH1Yp50iEH7HOEwhxKTYRC6w.png"
+    },
+    {
+      "id": 134892,
+      "name": "ABEMA",
+      "logo_path": "/euHs3v7wg48dr580eeilS1gZStQ.png"
+    },
+    {
+      "id": 81209,
+      "name": "Ray",
+      "logo_path": "/4I2wT82jKeHQ7HzmdNqBFYJK44j.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 5149,
+      "name": "banishment"
+    },
+    {
+      "id": 9748,
+      "name": "revenge"
+    },
+    {
+      "id": 10085,
+      "name": "betrayal"
+    },
+    {
+      "id": 13141,
+      "name": "based on manga"
+    },
+    {
+      "id": 175428,
+      "name": "adventurer"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    },
+    {
+      "id": 251513,
+      "name": "supernatural power"
+    },
+    {
+      "id": 293198,
+      "name": "fantasy"
+    },
+    {
+      "id": 322942,
+      "name": "adventure"
+    }
+  ],
+  "createdBy": [],
+  "importedBy": "1816a61f-edb4-4e70-aed6-788e8f5ab078",
+  "viewCount": 1789,
+  "watchlistCount": 26,
+  "favouriteCount": 7,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T18:34:30.246Z",
+  "updatedAt": "2026-11-09T02:57:53.927Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "seasons": [
+    {
+      "id": "91426772-b8cc-4901-b1b1-0a048bd69cb1",
+      "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+      "tmdbId": 540544,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/jPItUZ3PnbkGii2JS0QCeyNgLxt.jpg",
+      "airDate": "2026-10-04",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-26T15:32:49.223Z",
+      "updatedAt": "2026-11-09T02:57:53.923Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4adc17d3-a7e8-442e-9002-396b7476ec67",
+      "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+      "tmdbPersonId": 2710568,
+      "name": "Reiji Kawashima",
+      "character": "Lent (voice)",
+      "profilePath": "/tJriYA3tctzKP3ZnAwsxkey9iyU.jpg",
+      "order": 0
+    },
+    {
+      "id": "3023321f-3ada-486c-8502-054ee6975f7c",
+      "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+      "tmdbPersonId": 1157126,
+      "name": "Emiri Kato",
+      "character": "Empee (voice)",
+      "profilePath": "/m0zqjeg65sEe5TTy4mKqgwXVipI.jpg",
+      "order": 1
+    },
+    {
+      "id": "49012650-6786-441b-866c-55e86e9f7712",
+      "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+      "tmdbPersonId": 1781175,
+      "name": "Risae Matsuda",
+      "character": "Linka (voice)",
+      "profilePath": "/7bUMIZ3S1Wc73d5wgNCyiLYUhyU.jpg",
+      "order": 2
+    },
+    {
+      "id": "57bb21b3-0140-4fb3-90ff-f6556b218947",
+      "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+      "tmdbPersonId": 1991242,
+      "name": "Daiki Hamano",
+      "character": "Guy (voice)",
+      "profilePath": "/bykeH3Rhmx9PPFegYNi6s310cNa.jpg",
+      "order": 3
+    },
+    {
+      "id": "f6445988-6d7e-42d8-8493-d5e429fb5898",
+      "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+      "tmdbPersonId": 1888529,
+      "name": "Akira Sekine",
+      "character": "Misa (voice)",
+      "profilePath": "/czYoPzAEK1gI7RxRiPyDSFYRm5x.jpg",
+      "order": 4
+    },
+    {
+      "id": "69f62985-7810-4552-9ae5-7c5a2f9c6d29",
+      "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+      "tmdbPersonId": 1123401,
+      "name": "Yu Kobayashi",
+      "character": "Elle (voice)",
+      "profilePath": "/p3OKrnliz2C8ub14Pn5pN3T8Q9B.jpg",
+      "order": 5
+    },
+    {
+      "id": "d95835cd-a4c3-4392-8c7c-4bcd0f74779f",
+      "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+      "tmdbPersonId": 110665,
+      "name": "Daisuke Namikawa",
+      "character": "Roger (voice)",
+      "profilePath": "/iw0X8oDutxaBAri3Ifga8nhdUJK.jpg",
+      "order": 6
+    }
+  ],
+  "defaultSeason": {
+    "id": "91426772-b8cc-4901-b1b1-0a048bd69cb1",
+    "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+    "tmdbId": 540544,
+    "seasonNumber": 1,
+    "name": "Season 1",
+    "overview": "",
+    "posterPath": "/jPItUZ3PnbkGii2JS0QCeyNgLxt.jpg",
+    "airDate": "2026-10-04",
+    "episodeCount": 12,
+    "isPublished": true,
+    "createdAt": "2026-10-26T15:32:49.223Z",
+    "updatedAt": "2026-11-09T02:57:53.923Z",
+    "episodes": [
+      {
+        "id": "679475d8-7f3b-4f42-a8af-25fc43a0462a",
+        "seasonId": "91426772-b8cc-4901-b1b1-0a048bd69cb1",
+        "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+        "tmdbId": 7760525,
+        "episodeNumber": 1,
+        "name": "Kicked Out",
+        "overview": "Ungrateful for his contributions, Lent's adventuring party cruelly kicks him out for being a burden.",
+        "stillPath": "/t7clNzFom2Frq63LkYZ7AdcCMl6.jpg",
+        "airDate": "2026-10-04",
+        "runtime": 23,
+        "voteAverage": "9",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:32:49.223Z",
+        "updatedAt": "2026-11-09T02:57:53.924Z",
+        "hasVideo": true
+      },
+      {
+        "id": "cb958031-566a-403c-8eb1-e00ad92d6a2c",
+        "seasonId": "91426772-b8cc-4901-b1b1-0a048bd69cb1",
+        "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+        "tmdbId": 7903852,
+        "episodeNumber": 2,
+        "name": "Contract",
+        "overview": "Lent's gift fairy explains the features of his newly evolved gift, Infinite Magic Storage.",
+        "stillPath": "/k7rI5wU5fCwLq5BFYj37jdXqPEW.jpg",
+        "airDate": "2026-10-11",
+        "runtime": 23,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:32:49.223Z",
+        "updatedAt": "2026-11-09T02:57:53.924Z",
+        "hasVideo": true
+      },
+      {
+        "id": "1b5e8e3f-fd07-4aa2-864b-3cdc24e220a5",
+        "seasonId": "91426772-b8cc-4901-b1b1-0a048bd69cb1",
+        "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+        "tmdbId": 7903853,
+        "episodeNumber": 3,
+        "name": "Investment",
+        "overview": "Lent travels to Melva to build up his strength by slaying monsters.",
+        "stillPath": "/cfqmbE73mIM0F8N3nKmk3TDRbiZ.jpg",
+        "airDate": "2026-10-18",
+        "runtime": 23,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:32:49.223Z",
+        "updatedAt": "2026-11-09T02:57:53.924Z",
+        "hasVideo": true
+      },
+      {
+        "id": "b0b7e569-0935-4262-a56f-21bfc9a2b644",
+        "seasonId": "91426772-b8cc-4901-b1b1-0a048bd69cb1",
+        "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+        "tmdbId": 7903854,
+        "episodeNumber": 4,
+        "name": "Powerful Foe",
+        "overview": "Lent explores the Melva Labyrinth with Empee while the Skypiercers desperately search for him.",
+        "stillPath": "/uq0OFfDNAguzmYetC33cuPQMb3g.jpg",
+        "airDate": "2026-10-25",
+        "runtime": 23,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:32:49.223Z",
+        "updatedAt": "2026-11-09T02:57:53.924Z",
+        "hasVideo": true
+      },
+      {
+        "id": "00112768-b303-466a-9327-a5d651662aff",
+        "seasonId": "91426772-b8cc-4901-b1b1-0a048bd69cb1",
+        "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+        "tmdbId": 7903855,
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "Linka is abandoned by her party, and Lent takes on the powerful Quad Skeleton in order to save her.",
+        "stillPath": "/r96csfxvmvWqvUwKramVpbZm0XS.jpg",
+        "airDate": "2026-11-01",
+        "runtime": 23,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:32:49.223Z",
+        "updatedAt": "2026-11-09T02:57:53.924Z",
+        "hasVideo": true
+      },
+      {
+        "id": "7fcaec7f-1a40-4dfc-9fb5-3d216b8e6aff",
+        "seasonId": "91426772-b8cc-4901-b1b1-0a048bd69cb1",
+        "tvSeriesId": "16461f1a-a39d-46ec-bb59-0fe08c0117b6",
+        "tmdbId": 7903856,
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "The Skypiercers struggle against weak enemies, while Lent and Linka fight for the first time together.",
+        "stillPath": "/mgzqbFkjUEAyHccaOLDPH9flW14.jpg",
+        "airDate": "2026-11-08",
+        "runtime": 23,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:32:49.223Z",
+        "updatedAt": "2026-11-09T02:58:04.833Z",
+        "hasVideo": true
+      }
+    ]
+  },
+  "requestedBy": null,
+  "collections": [],
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

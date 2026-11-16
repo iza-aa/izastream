@@ -1,0 +1,369 @@
+{
+  "slug": "virginia-woolfs-night-and-day-2026",
+  "id": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+  "tmdbId": 1291375,
+  "imdbId": "tt27802226",
+  "title": "Virginia Woolf's Night & Day",
+  "originalTitle": "Virginia Woolf's Night & Day",
+  "overview": "In 1910 London, independent-minded Katharine Hilbery defies her family's expectations of marriage to pursue a career in astronomy. But when her father pressures her into an unwanted engagement, her resolve is tested. Through new friendships—including a bold suffragette and a thoughtful editor—Katharine begins to question the limits placed on her by society, love, and tradition, ultimately searching for a path that is truly her own.",
+  "tagline": "Claim your space.",
+  "posterPath": "/6psNzdIymhnN8KQggL4tiZRNIXg.jpg",
+  "backdropPath": "/1whoQ0wcc0GE7a5cSNG6CEhGMYu.jpg",
+  "logoPath": "/3WeLV1pWLf2lNnRs47omu3C1dqF.png",
+  "backdrops": [
+    "/1whoQ0wcc0GE7a5cSNG6CEhGMYu.jpg",
+    "/jHnMIPDCjhr8LOEVlclyeRMUcTp.jpg",
+    "/8GStZ55MT4VFYJQGi9Azv3b5kvG.jpg",
+    "/1vCQ4gvwLTabGMfXFYDF4qVofzI.jpg",
+    "/sKxUV6Y1dldbELgEuUTlNx3TaVh.jpg",
+    "/eKyg1EjLx12iwrzPrYAwnE6UJ8X.jpg",
+    "/veF8aXIqpKnWN1HMRTG6S6IiCaW.jpg"
+  ],
+  "releaseDate": "2026-06-19",
+  "runtime": 95,
+  "voteAverage": "6.33",
+  "popularity": null,
+  "popularityScore": 73,
+  "originalLanguage": "en",
+  "country": "GB",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=X6wM6lAT48k",
+  "quality": "WEB-DL",
+  "director": "Tina Gharavi",
+  "directorTmdbId": 1149198,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 20782,
+      "name": "WestEnd Films",
+      "logo_path": "/tTfJjcJHmVPBbPv3q1ATtaX5mFf.png"
+    },
+    {
+      "id": 229112,
+      "name": "GLISK",
+      "logo_path": null
+    },
+    {
+      "id": 245123,
+      "name": "Filmhedge",
+      "logo_path": "/6k6YK6MFE64FWRvf3jpD70mxbHq.png"
+    },
+    {
+      "id": 118917,
+      "name": "Asterisk Films",
+      "logo_path": null
+    },
+    {
+      "id": 22309,
+      "name": "Piccadilly Pictures",
+      "logo_path": null
+    },
+    {
+      "id": 88565,
+      "name": "M.Y.R.A. Entertainment",
+      "logo_path": "/AmSa26x5bHWfY1FPwx9eDve7KAk.png"
+    },
+    {
+      "id": 51909,
+      "name": "Star Mountain Pictures",
+      "logo_path": null
+    },
+    {
+      "id": 24145,
+      "name": "Wild Bunch Germany",
+      "logo_path": "/fp5JJvHZFHAqylqXRCoX99ut3zw.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 205850,
+      "name": "turn of the century"
+    },
+    {
+      "id": 285398,
+      "name": "20th century"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 3842,
+  "watchlistCount": 57,
+  "favouriteCount": 18,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-29T17:54:09.823Z",
+  "updatedAt": "2026-09-29T17:54:17.702Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2f13b2d1-0038-4881-b850-0b3f0a5d9a74",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 58754,
+      "name": "Haley Bennett",
+      "character": "Katharine Hilbery",
+      "profilePath": "/7PcEtEemT7T8JNsdUQjaiV8TxEY.jpg",
+      "order": 0
+    },
+    {
+      "id": "acbd4aca-8603-4d47-9559-f3b20c026ab6",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 25409,
+      "name": "Elyas M'Barek",
+      "character": "Ralph Denham",
+      "profilePath": "/3MnTQczEaDsUOXaojXre6mOjxZi.jpg",
+      "order": 1
+    },
+    {
+      "id": "fd9064b9-ebb0-4cd5-831d-b2cdc959dba9",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 1060422,
+      "name": "Lily Allen",
+      "character": "Mary Datchet",
+      "profilePath": "/eFd1agkLtzEGfFY2IStCjPUxiWe.jpg",
+      "order": 2
+    },
+    {
+      "id": "7632d229-a250-49ab-8d46-8fbdfc2f237e",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 212285,
+      "name": "Jack Whitehall",
+      "character": "William Rodney",
+      "profilePath": "/qBHLpjH3Dad9ZoZsrcMplIPwkHC.jpg",
+      "order": 3
+    },
+    {
+      "id": "f1e874dc-6456-47b3-8102-94dccb4a2025",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 12094,
+      "name": "Jennifer Saunders",
+      "character": "Bess Hilbery",
+      "profilePath": "/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg",
+      "order": 4
+    },
+    {
+      "id": "3452911b-0f8b-4ded-a27c-465b1479c1bc",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 9191,
+      "name": "Timothy Spall",
+      "character": "Terence Hilbery",
+      "profilePath": "/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg",
+      "order": 5
+    },
+    {
+      "id": "63c1a1b9-5c43-4da8-a007-bf2e298ee60f",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 1965817,
+      "name": "Misia Butler",
+      "character": "Cyril Otway",
+      "profilePath": "/ndyExCCNvH4SkFoZoiiTlRN781m.jpg",
+      "order": 6
+    },
+    {
+      "id": "61a61cb7-eaa7-4756-87a6-f44310e70328",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 9144,
+      "name": "Sally Phillips",
+      "character": "Cousin Joan",
+      "profilePath": "/xLEMZhksdCEO8HUhQLNetkETLdr.jpg",
+      "order": 7
+    },
+    {
+      "id": "58ef9227-6934-4441-a46b-975deafb2cae",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 1017259,
+      "name": "Simon Phillips",
+      "character": "Sir Francis Otway",
+      "profilePath": "/uGD1Wm0AIFCOcOoY9kdONGdpXMC.jpg",
+      "order": 8
+    },
+    {
+      "id": "4ed0b84e-fb34-4efd-b177-45c41197cbff",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 2432459,
+      "name": "Camilla Borghesani",
+      "character": "Cassandra Otway",
+      "profilePath": "/aQl2ukNs2SkeMMUrJ2sXAlGSFRT.jpg",
+      "order": 9
+    },
+    {
+      "id": "d6982e6c-07ff-43cb-b4c4-f40e958f6bcc",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 1543094,
+      "name": "Erika Linder",
+      "character": "Virginia Woolf",
+      "profilePath": "/kuHbhuXrkbpTeVQBibKSxAGEpPU.jpg",
+      "order": 10
+    },
+    {
+      "id": "bde6b315-dc27-4956-ae57-ac51bb892b69",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 1835489,
+      "name": "Nick Blakeley",
+      "character": "Mr Herbert",
+      "profilePath": "/tnoGQ2JfrJDZiMp9Cu9pnCyGP4C.jpg",
+      "order": 11
+    },
+    {
+      "id": "0d3dd284-da26-416c-941c-70dd7814486c",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 218329,
+      "name": "Elizabeth Edmonds",
+      "character": "Aunt Celia",
+      "profilePath": "/uNwcaLQLCphWLmInf0xu3fIThxK.jpg",
+      "order": 12
+    },
+    {
+      "id": "933b3a07-18c8-4a65-94f8-a9390ea9af9c",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 126042,
+      "name": "Alex Macqueen",
+      "character": "Sir Alexander Holmes",
+      "profilePath": "/d8hfBJcYNXf3GJPFzKpOfkwLUg0.jpg",
+      "order": 13
+    },
+    {
+      "id": "0d2b1fe8-ad47-4dc2-af98-4831796f4550",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 3006237,
+      "name": "Nadine Shah",
+      "character": "Sally Seal",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "934d9858-59f3-4de0-8637-380b40eea1d6",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 5672303,
+      "name": "Ivan Andrienko",
+      "character": "Reverend Datchet",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "e845f96d-46e8-47fe-960e-75aec1f6869a",
+      "movieId": "53a8d200-77eb-4cc7-80ba-8c0da5a7ce82",
+      "tmdbPersonId": 5101981,
+      "name": "Will Joseph",
+      "character": "Mostyn Otway",
+      "profilePath": "/etdqND8x29CUfTVr7sa2EBxvdtN.jpg",
+      "order": 16
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "please-excuse-my-younger-brothers-2026",
+  "id": "0a77cb8a-3908-4226-9d7a-6d0a0f430d56",
+  "title": "Please Excuse My Younger Brothers",
+  "overview": "High school sophomore Ito was excited for a new dad when her mom remarried, but she may have gained more than she bargained for when she found four younger stepbrothers waiting at home. There’s blunt but secretly caring Gen, calm Raku, reclusive Syu, and cheerful little Rui. Now, Ito must go from the quiet of being an only child to learning how to be the eldest sister of a lively household.",
+  "tagline": null,
+  "posterPath": "/x280gtjgwPxsVFqYmMEKXPjFgBr.jpg",
+  "backdropPath": "/YZQGBP5nXPG3JjLoccdA13Oeea.jpg",
+  "logoPath": "/oyuJyrVM7HGf2MGy7rRC7gJqBQw.png",
+  "firstAirDate": "2026-07-04",
+  "voteAverage": "8.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 18,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3f6f75d6-b859-42b0-b53f-9d5ee0ca7795",
+      "tvSeriesId": "0a77cb8a-3908-4226-9d7a-6d0a0f430d56",
+      "tmdbPersonId": 1324931,
+      "name": "Naomi Ohzora",
+      "character": "Ito Narita (voice)",
+      "profilePath": "/qygKX6EtfvPdnPsMM0d41mPztP2.jpg",
+      "order": 0
+    },
+    {
+      "id": "e6b26ef3-d2f7-4340-93d4-f40b0e6422c0",
+      "tvSeriesId": "0a77cb8a-3908-4226-9d7a-6d0a0f430d56",
+      "tmdbPersonId": 1613352,
+      "name": "Toshiki Masuda",
+      "character": "Gen Narita (voice)",
+      "profilePath": "/oMAk5Pu3aazmwFwiVOgyU7iW5ut.jpg",
+      "order": 1
+    },
+    {
+      "id": "ff953b50-fd93-4c4b-8e14-f587bd49c721",
+      "tvSeriesId": "0a77cb8a-3908-4226-9d7a-6d0a0f430d56",
+      "tmdbPersonId": 1613379,
+      "name": "Taku Yashiro",
+      "character": "Raku Narita (voice)",
+      "profilePath": "/eVdB6myaNJ4h38UU9hHHlsaCWHn.jpg",
+      "order": 2
+    }
+  ],
+  "seasons": [
+    {
+      "id": "41d4b4dc-e925-4b54-aea5-50da7b0a221a",
+      "tvSeriesId": "0a77cb8a-3908-4226-9d7a-6d0a0f430d56",
+      "tmdbId": 488172,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/x280gtjgwPxsVFqYmMEKXPjFgBr.jpg",
+      "airDate": "2026-07-04",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-10-25T05:21:24.148Z",
+      "updatedAt": "2026-11-16T02:50:30.234Z"
+    }
+  ]
+}

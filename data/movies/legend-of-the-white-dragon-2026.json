@@ -1,0 +1,362 @@
+{
+  "slug": "legend-of-the-white-dragon-2026",
+  "id": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+  "tmdbId": 843352,
+  "imdbId": "tt12446086",
+  "title": "Legend of the White Dragon",
+  "originalTitle": "Legend of the White Dragon",
+  "overview": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
+  "tagline": "Legends never die.",
+  "posterPath": "/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
+  "backdropPath": "/wAxWdF6JVNh9O4RBAPeo4ZC5D8t.jpg",
+  "logoPath": "/lpz2s32fiYwe9OVv5BmdjSC8BTF.png",
+  "backdrops": [
+    "/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+    "/e0iMTtSD9DvZ4NbN9dUFfpZQFNk.jpg",
+    "/3xiLFw1af1NtAxIcgLaGNVCJtFJ.jpg",
+    "/dYJfNrdyBZI5mBuxYtIe4ubsKb7.jpg",
+    "/t3fQNmjp8dSzXe7iYOTQ3hFuH9.jpg",
+    "/toZe1cNI5KlIsCSQcHrB5affO8D.jpg",
+    "/dWmn2AS5MIeu8QoLB5donbXzHw4.jpg",
+    "/smBftYjwUZiYpFQALwyZO7iHR98.jpg",
+    "/4YbKiRr12m6jNOaGGSPuC3m4oYj.jpg",
+    "/8k2pEyYJ8JJ3gT0cI7ljNcpjxQ7.jpg"
+  ],
+  "releaseDate": "2026-08-28",
+  "runtime": 97,
+  "voteAverage": "6.12",
+  "popularity": null,
+  "popularityScore": 156,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=eqcTr34Y1Zw",
+  "quality": "WEB-DL",
+  "director": "Aaron Schoenke",
+  "directorTmdbId": 1309082,
+  "directorProfilePath": "/3p6fPXzK3sC5CRR1EQNNdOlTkcc.jpg",
+  "productionCompanies": [
+    {
+      "id": 146996,
+      "name": "Bat in the Sun Productions",
+      "logo_path": "/4cg9hnuwuDiKFTX2XoyD5E57Uv9.png"
+    },
+    {
+      "id": 139207,
+      "name": "Paradox House",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9715,
+      "name": "superhero"
+    },
+    {
+      "id": 11436,
+      "name": "redemption"
+    },
+    {
+      "id": 10718,
+      "name": "fugitive"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 6322,
+  "watchlistCount": 42,
+  "favouriteCount": 7,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-29T13:15:52.940Z",
+  "updatedAt": "2026-09-29T13:58:55.599Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "fa81fd3f-0223-486b-8d43-80c85ed17d91",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 50098,
+      "name": "Jason David Frank",
+      "character": "Erik Reed / White Dragon",
+      "profilePath": "/lR7VkHYktJTgim0UGpafC1t8gLS.jpg",
+      "order": 0
+    },
+    {
+      "id": "b7409d21-3329-4816-8347-ea9c5a416b42",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 1309082,
+      "name": "Aaron Schoenke",
+      "character": "Jai / Dragon Prime",
+      "profilePath": "/3p6fPXzK3sC5CRR1EQNNdOlTkcc.jpg",
+      "order": 1
+    },
+    {
+      "id": "ef68a24c-ffd0-422f-b7f1-4f3d602f2e48",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 170413,
+      "name": "Jason Faunt",
+      "character": "Connor",
+      "profilePath": "/q77cLcg8waE30E87Lc9MSjx13T6.jpg",
+      "order": 2
+    },
+    {
+      "id": "4c8630c9-07c9-4c4e-9b5b-e87248ef1aae",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 83274,
+      "name": "Rachele Brooke Smith",
+      "character": "Iris",
+      "profilePath": "/8g6FOJ918pzh3tjRYiKZwyiM5B2.jpg",
+      "order": 3
+    },
+    {
+      "id": "c015d5de-8ad2-4fc8-a654-7655aebc7219",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 147,
+      "name": "Michael Madsen",
+      "character": "Max Reed",
+      "profilePath": "/fvr2EXEPrVwsF2JlfRp0Olbj4g8.jpg",
+      "order": 4
+    },
+    {
+      "id": "50328b5e-a4c4-4d77-9271-860c82445ab1",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 1350469,
+      "name": "Andrew Bachelor",
+      "character": "U.R.I.",
+      "profilePath": "/dReXjimiVOydELw2ASQwRcStkbo.jpg",
+      "order": 5
+    },
+    {
+      "id": "6b21ebb0-beaa-4d9b-98d1-0e21c840c6be",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 116774,
+      "name": "David Ramsey",
+      "character": "Mayor Trevon Sterns",
+      "profilePath": "/bZWO7WfBYI8iojTFozzqN2X3RWL.jpg",
+      "order": 6
+    },
+    {
+      "id": "a5373bf3-20c7-4cfd-8aeb-d31343e692d8",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 18702,
+      "name": "Mark Dacascos",
+      "character": "Xang",
+      "profilePath": "/trOACuJz1KzhB51qe6asaxRuxrh.jpg",
+      "order": 7
+    },
+    {
+      "id": "89e62164-b892-41e4-bdd9-8114a99a8e63",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 1749772,
+      "name": "Chalet Lizette Brannan",
+      "character": "Jade",
+      "profilePath": "/wmiGKkowQn2f6DqwkZOD90AkhzU.jpg",
+      "order": 8
+    },
+    {
+      "id": "4f6210b0-1446-455c-9498-a38209988594",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 1016433,
+      "name": "Kevin Porter",
+      "character": "Lighthouse",
+      "profilePath": "/wEgU4DLvR3DNClIJPTXkcOc7D57.jpg",
+      "order": 9
+    },
+    {
+      "id": "2a263ce8-ddf5-49d1-9be0-036a2b3acfc9",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 1003801,
+      "name": "Ciara Hanna",
+      "character": "Vanessa",
+      "profilePath": "/o9ZXZiAOE5FAJuvQyPIgs9xeUVA.jpg",
+      "order": 10
+    },
+    {
+      "id": "8d365f61-9e9c-4197-97da-81125c7ce54a",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 1527565,
+      "name": "Mayling Ng",
+      "character": "Tek Boh",
+      "profilePath": "/ffQlGCqXcESQtOuRHX5sgINqYUq.jpg",
+      "order": 11
+    },
+    {
+      "id": "76d362d8-4803-494c-8409-3474aa6d19c0",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 1441209,
+      "name": "Lola Blanc",
+      "character": "Sasha",
+      "profilePath": "/vOkE7XMsTHOQt1U11StSHCQawVP.jpg",
+      "order": 12
+    },
+    {
+      "id": "634d2fde-f907-4bb7-9a6d-18c0a81fd2db",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 94149,
+      "name": "Ron Roggé",
+      "character": "Commissioner Lewis",
+      "profilePath": "/qzfx0IrtwxoQQHeU0cjMJeyHVR1.jpg",
+      "order": 13
+    },
+    {
+      "id": "5ac1d040-cf44-4b34-b979-385cecfdaa3a",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 2887148,
+      "name": "Nicole Fong",
+      "character": "April",
+      "profilePath": "/ubVqWZUimDKgxrZ5XaIPGYoAMYx.jpg",
+      "order": 14
+    },
+    {
+      "id": "16e12ffd-8cba-4190-89bb-976afb2ffa2e",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 4262617,
+      "name": "Jenna Frank",
+      "character": "Ashley",
+      "profilePath": "/y7O39zywqzUI4r3mJTKXG4OTD5K.jpg",
+      "order": 15
+    },
+    {
+      "id": "9db78b64-fedb-4db9-a043-b0ef57337e39",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 158360,
+      "name": "Lenore Zann",
+      "character": "Marie Summers",
+      "profilePath": "/qOuxxt2zybggVDl1NiQloVIVFNU.jpg",
+      "order": 16
+    },
+    {
+      "id": "94ec93d0-75c0-4591-8f59-3978617fcdde",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 1168704,
+      "name": "Amy Johnston",
+      "character": "Detective Baumont",
+      "profilePath": "/mZ35eWr4m2I4ufswUAwx7v0D8ZF.jpg",
+      "order": 17
+    },
+    {
+      "id": "4de1844b-790b-45e5-a00a-a6dc8c41a13b",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 52365,
+      "name": "Cerina Vincent",
+      "character": "Rebecca Reed",
+      "profilePath": "/sSesg0JZhZEsGn8FAymQbUsZ2lw.jpg",
+      "order": 18
+    },
+    {
+      "id": "de325a45-fd02-4a24-9182-0f7454d0ff58",
+      "movieId": "7cd14baa-fa13-4690-b6dd-fa87493e60cc",
+      "tmdbPersonId": 1485053,
+      "name": "Orion Acaba",
+      "character": "Alvardo",
+      "profilePath": "/6liFVScStYWrIEtau7WhGFXfKsX.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

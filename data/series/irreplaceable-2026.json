@@ -1,0 +1,131 @@
+{
+  "slug": "irreplaceable-2026",
+  "id": "06467652-f436-47b7-8efe-1d259dcbf538",
+  "title": "Irreplaceable",
+  "overview": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
+  "tagline": null,
+  "posterPath": "/uvdFDRZUUZarJirBQAjYk2yIkMi.jpg",
+  "backdropPath": "/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg",
+  "logoPath": "/xBnvEGOa9fdK2F5Ttle5v77tzTS.svg",
+  "firstAirDate": "2026-09-28",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "82431237-1152-491d-8807-ccbf1cc8aa77",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbPersonId": 2113005,
+      "name": "Zhao Jinmai",
+      "character": "Xu Chi",
+      "profilePath": "/hndhOhSK0GAMi1qQaacacl3aHzO.jpg",
+      "order": 0
+    },
+    {
+      "id": "1dc320f1-9424-4365-b22e-98b083323af9",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbPersonId": 1712691,
+      "name": "Wei Daxun",
+      "character": "Ye Xinzhi",
+      "profilePath": "/8zDh8Tp6xbVSpxr307alnGqUiJP.jpg",
+      "order": 1
+    },
+    {
+      "id": "12a04699-55ec-485a-8492-4c643662b3f3",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbPersonId": 2407983,
+      "name": "Zhou Qi",
+      "character": "Zhao Heng",
+      "profilePath": "/p8mUtx6C5o6jVYQ86eSOMvN3ZTz.jpg",
+      "order": 2
+    },
+    {
+      "id": "73bbffd0-257a-4b14-92c8-0b3cc264af3e",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbPersonId": 1018707,
+      "name": "Michelle Bai",
+      "character": "Lin Long",
+      "profilePath": "/nfrH7OSmsk6tYrpDQMJrKmMAZ5K.jpg",
+      "order": 3
+    },
+    {
+      "id": "bf0d7bc8-6712-4c23-9ed7-8e69d67161bc",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbPersonId": 2164832,
+      "name": "Hu Yixuan",
+      "character": "Bu Tianna",
+      "profilePath": "/vOa4szQkowRT34eNPvjwwJKqBAN.jpg",
+      "order": 4
+    },
+    {
+      "id": "ff8c3cff-307c-4bdd-9153-2729afedfe8e",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbPersonId": 5363993,
+      "name": "Tian Xuanning",
+      "character": "Deng Anran",
+      "profilePath": "/vaUH8rLS3PeRLEqeDykskrcs9GN.jpg",
+      "order": 5
+    },
+    {
+      "id": "5fa5638a-028f-4f93-863e-2a65169ca38b",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbPersonId": 3094351,
+      "name": "Gao Maotong",
+      "character": "Ou Lizheng",
+      "profilePath": "/hbKO08mqWrH1OHoXKehnRxE4MTC.jpg",
+      "order": 6
+    },
+    {
+      "id": "d1b64c5e-4fad-4e09-b1b5-62dc32f544d3",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbPersonId": 2091754,
+      "name": "Wang Yuanke",
+      "character": "Shasha",
+      "profilePath": "/mmBKZFjoyz9PvPScmk6IFIz1XKz.jpg",
+      "order": 7
+    },
+    {
+      "id": "a4a09e52-0c22-4004-93ad-d789e3a9e3d2",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbPersonId": 1371573,
+      "name": "Xi Wang",
+      "character": "Xin Di",
+      "profilePath": "/zKIhHre4B64eWegn6bPoBMd4mCH.jpg",
+      "order": 8
+    },
+    {
+      "id": "b68a802e-7f05-41b1-8db0-455e8bf58602",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbPersonId": 3856258,
+      "name": "Hana Lin",
+      "character": "Su Su",
+      "profilePath": "/uO7gpoyUOuMGchUcVf83HlRLlRr.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "c11100c2-1136-4d8b-a028-c5b806be6c40",
+      "tvSeriesId": "06467652-f436-47b7-8efe-1d259dcbf538",
+      "tmdbId": 469101,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-09-28",
+      "episodeCount": 20,
+      "isPublished": true,
+      "createdAt": "2026-10-17T16:00:02.068Z",
+      "updatedAt": "2026-10-17T16:07:05.277Z"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "slug": "bad-genius-2017",
+  "id": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+  "tmdbId": 455714,
+  "imdbId": "tt6788942",
+  "title": "Bad Genius",
+  "originalTitle": "ฉลาดเกมส์โกง",
+  "overview": "Lynn, a brilliant student, after helping her friends to get the grades they need, develops the idea of starting a much bigger exam-cheating business.",
+  "tagline": "Genius students with one mission... Turning exam answers into millions.",
+  "posterPath": "/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg",
+  "backdropPath": "/6qTpufRgDkl0M2zRPewozYD1g5y.jpg",
+  "logoPath": "/zpewhbnA9V1shVXlVUbq0LYmIsf.png",
+  "backdrops": [
+    "/6qTpufRgDkl0M2zRPewozYD1g5y.jpg",
+    "/nwyVvGvqDJosUODOJn96Xmrf9rL.jpg",
+    "/zXiMIZKRg9UbUKIAy8M5Mpsk8fa.jpg",
+    "/gOgBpD5NivnWIqZYTBFSmAtziuJ.jpg",
+    "/fMML7EfXnVyulUUYzVF0vDPxpvn.jpg",
+    "/lu2gC4gM5L80gJV1TMFpUwQ50wS.jpg",
+    "/4ZKbRZRunYLgneaXmFuHhtpHwes.jpg",
+    "/2BErJCAHJdWwxOYcLmzlIvvfYtY.jpg",
+    "/x0ryfbcmFsqHQjkIRP6Kx5Zccjf.jpg",
+    "/4KKrTVv4gggy4W9TdQf3vikxPhQ.jpg"
+  ],
+  "releaseDate": "2017-05-03",
+  "runtime": 130,
+  "voteAverage": "7.86",
+  "popularity": "3.404",
+  "popularityScore": 320,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=CLdhN4oMxCQ",
+  "quality": "BLU-RAY",
+  "director": "Nattawut Poonpiriya",
+  "directorTmdbId": null,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 8450,
+      "name": "Jor Kwang Films",
+      "logo_path": "/A9Fyxru0SLt09ygbqahW4z2i6y4.png"
+    },
+    {
+      "id": 93758,
+      "name": "GDH 559",
+      "logo_path": "/g5TvAwkWnZyoZtVTpGo9eQT2EQ1.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5657,
+      "name": "australia"
+    },
+    {
+      "id": 2921,
+      "name": "school friend"
+    },
+    {
+      "id": 6270,
+      "name": "high school"
+    },
+    {
+      "id": 1332,
+      "name": "cheating"
+    },
+    {
+      "id": 3434,
+      "name": "thailand"
+    },
+    {
+      "id": 240303,
+      "name": "father daughter relationship"
+    }
+  ],
+  "importedBy": "b07dbd00-847c-4b35-838a-56f4ed0ad1f4",
+  "viewCount": 15041,
+  "watchlistCount": 73,
+  "favouriteCount": 42,
+  "shareCount": 9,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-04-03T09:51:34.121Z",
+  "updatedAt": "2026-04-03T09:51:34.121Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "894d133d-6775-4f07-8b56-5732e2f3d321",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 1809206,
+      "name": "Chutimon Chuengcharoensukying",
+      "character": "Lynn",
+      "profilePath": "/7R9ntFHCOh9FHeSByO9ElqrtCBl.jpg",
+      "order": 0
+    },
+    {
+      "id": "65121591-27ac-4567-bc92-fb63f90d44bd",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 1353678,
+      "name": "Chanon Santinatornkul",
+      "character": "Bank",
+      "profilePath": "/osG0qvkXtpO0DPiZKlSllAVjTlE.jpg",
+      "order": 1
+    },
+    {
+      "id": "f0e9c095-a9b0-4962-a16a-d0cbdecbd821",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 1772988,
+      "name": "Eisaya Hosuwan",
+      "character": "Grace",
+      "profilePath": "/svWWPIe9KmkAfFDFFTm3vH0zHfC.jpg",
+      "order": 2
+    },
+    {
+      "id": "8886f4d2-9433-48f3-971f-c3a098014b96",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 1809208,
+      "name": "Teeradon Supapunpinyo",
+      "character": "Pat",
+      "profilePath": "/vgpjzR4Hitaw8p2sj6VHwUrhTJZ.jpg",
+      "order": 3
+    },
+    {
+      "id": "8e460874-07ed-4090-99b9-d97c8a31649e",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 1743358,
+      "name": "Thaneth Warakulnukroh",
+      "character": "Lynn's Father",
+      "profilePath": "/jQBCefKZTK1U1BusbpH0OWpYjXB.jpg",
+      "order": 4
+    },
+    {
+      "id": "e1135947-4dd6-4788-85fd-32c261087147",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 1659249,
+      "name": "Sarinrat Thomas",
+      "character": "Headmistress",
+      "profilePath": "/jLASvduuxm0sFhaagMv6NCGYH8Q.jpg",
+      "order": 5
+    },
+    {
+      "id": "b3f3a731-e91f-421a-bcd1-161a5a581dd6",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 1809216,
+      "name": "Ego Mikitas",
+      "character": "Test Centre Supervisor",
+      "profilePath": "/6bpMVYgZVbrpWiEFn2jNwaYQWv4.jpg",
+      "order": 6
+    },
+    {
+      "id": "beca6160-74aa-4c2d-9a1b-14732be582f4",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 2115378,
+      "name": "Pasin Kuansataporn",
+      "character": "Tong",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "f183f2a3-1323-42d3-a36f-d4671e3e8969",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 521673,
+      "name": "Sahajak Boonthanakit",
+      "character": "Pat's Father",
+      "profilePath": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg",
+      "order": 8
+    },
+    {
+      "id": "c019b66e-7a4a-4d90-8084-638449f4b5c0",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 3590031,
+      "name": "Kanjana Vinaipanid",
+      "character": "Pat's Mother",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "bbb14a4e-4b02-423e-9e35-21461c352764",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 3590032,
+      "name": "Yuthapong Varanukrohchoke",
+      "character": "Mr. Sophon",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "3e7f84e8-bab8-440d-ad63-fe479080e6e0",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 1338255,
+      "name": "Nopawat Likitwong",
+      "character": "Exam Proctor",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "aee95b27-e0dd-4f1c-a2d4-31524cf7651f",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 2098569,
+      "name": "Vittawin Veeravidhayanant",
+      "character": "Pat's Friend 1",
+      "profilePath": "/i61i9HdL6WZm4ThG9clrhetUOaz.jpg",
+      "order": 12
+    },
+    {
+      "id": "370f6ec5-13d3-4cf7-9143-8b1bf81d51fc",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 3590035,
+      "name": "Suwijak Mahatthanachotwanich",
+      "character": "Pat's Friend 2",
+      "profilePath": "/2D8Ojyqlzy0iISk1AJUYHELwQBO.jpg",
+      "order": 13
+    },
+    {
+      "id": "41d991f5-37e0-4ea1-95e1-939edd6ce3ba",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 3590036,
+      "name": "Narwin Rathlertkarn",
+      "character": "Pat's Friend 3",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "6b5bd39d-b094-4045-9a90-87cc5277ebc4",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 3590037,
+      "name": "Thanawat Sutat Na Ayutthaya",
+      "character": "Pat's Friend 4",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "72cb649c-34a0-410b-8e88-c2ba1690aa44",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 3590039,
+      "name": "Thanachart Phinyocheep",
+      "character": "Pat's Friend 5",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "99c43302-5176-4587-b472-fea37bd39ac7",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 2148099,
+      "name": "Pitchatorn Santinatornkul",
+      "character": "STIC Client 1",
+      "profilePath": "/erWNWBnS1Zv7v55RxFTNL6SEyQv.jpg",
+      "order": 17
+    },
+    {
+      "id": "0d0e0f65-12e0-48cc-baf0-a01c436480e5",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 3590043,
+      "name": "Thanwalai Pornjirattikal",
+      "character": "STIC Client 2",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "308e7c7f-1cb9-4add-8dc8-33e487a825e9",
+      "movieId": "6c6b7729-aad9-4705-9780-2aa4621ff1f5",
+      "tmdbPersonId": 2668793,
+      "name": "Natchanok Kamonrattananan",
+      "character": "STIC Client 3",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

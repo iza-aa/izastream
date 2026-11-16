@@ -1,0 +1,86 @@
+{
+  "slug": "gbrb-farm-operation-go-go-farm-2026",
+  "id": "51ae8e7e-9c0e-4bae-8807-14a802d6c1b2",
+  "title": "GBRB: Farm Operation - Go Go Farm",
+  "overview": "The GBRB crew returns for a new challenge as Lee Kwang Soo, Kim Woo Bin, and Doh Kyung Soo swap city life for the ranch. Spending several days alongside experienced ranchers, the trio learns the essentials of raising dairy cows and horses while experiencing the hard work and philosophy behind livestock farming. From feeding animals to tackling demanding daily tasks, the three celebrities approach every mission with determination, humor, and plenty of mishaps. Their playful chemistry and growing bond with the animals create both hilarious and heartwarming moments. Blending comedy, friendship, and the charm of rural life, the show offers a refreshing look at ranch life and the unexpected rewards of working together in nature.",
+  "tagline": null,
+  "posterPath": "/hNPL1tkrz4QFGJkZWpyTqgAn6GE.jpg",
+  "backdropPath": "/e59plRzye9BXMqCsEzCtz6O67Am.jpg",
+  "logoPath": "/oEKB4InXWFMZl5kmVirLerhegJd.png",
+  "firstAirDate": "2026-06-19",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f269fba0-7a03-4854-b43e-3570738bdca8",
+      "tvSeriesId": "51ae8e7e-9c0e-4bae-8807-14a802d6c1b2",
+      "tmdbPersonId": 1326172,
+      "name": "Lee Kwang-soo",
+      "character": "Self",
+      "profilePath": "/eqjZXCV4EutnoVxZwOveK6Nl5W9.jpg",
+      "order": 0
+    },
+    {
+      "id": "75066b57-6028-40f1-9f2a-63096cb79a8d",
+      "tvSeriesId": "51ae8e7e-9c0e-4bae-8807-14a802d6c1b2",
+      "tmdbPersonId": 1257671,
+      "name": "Kim Woo-bin",
+      "character": "Self",
+      "profilePath": "/AjMMxxWbTNdafyWuY41xAHFPVou.jpg",
+      "order": 1
+    },
+    {
+      "id": "4e5c5f70-f44d-42c8-96dd-b124c027fdda",
+      "tvSeriesId": "51ae8e7e-9c0e-4bae-8807-14a802d6c1b2",
+      "tmdbPersonId": 1470219,
+      "name": "Doh Kyung-soo",
+      "character": "Self",
+      "profilePath": "/fYjYGWxYydmVxPle1h6QoeRk2b0.jpg",
+      "order": 2
+    },
+    {
+      "id": "dcb61d66-0665-4612-9aba-625be43f095b",
+      "tvSeriesId": "51ae8e7e-9c0e-4bae-8807-14a802d6c1b2",
+      "tmdbPersonId": 3214029,
+      "name": "Moon Sang-hoon",
+      "character": "Self",
+      "profilePath": "/t0bqsFpDdW6rQgecC8QoQKr6DkV.jpg",
+      "order": 500
+    },
+    {
+      "id": "279cf5dd-aa67-4cae-9a8b-cfb0bdf9fcd9",
+      "tvSeriesId": "51ae8e7e-9c0e-4bae-8807-14a802d6c1b2",
+      "tmdbPersonId": 2256407,
+      "name": "Shin Ye-eun",
+      "character": "Self",
+      "profilePath": "/dGJRM6rEdk9NLdryDUg172XK5ip.jpg",
+      "order": 501
+    }
+  ],
+  "seasons": [
+    {
+      "id": "0acba22f-2dbe-4250-b70f-eecb3d6bce29",
+      "tvSeriesId": "51ae8e7e-9c0e-4bae-8807-14a802d6c1b2",
+      "tmdbId": 519174,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/hNPL1tkrz4QFGJkZWpyTqgAn6GE.jpg",
+      "airDate": "2026-06-19",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-09-03T19:05:38.369Z",
+      "updatedAt": "2026-09-03T19:09:47.007Z"
+    }
+  ]
+}

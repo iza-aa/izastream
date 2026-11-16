@@ -1,0 +1,396 @@
+{
+  "slug": "idiots-2026",
+  "id": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+  "tmdbId": 445466,
+  "imdbId": "tt6628920",
+  "title": "Idiots",
+  "originalTitle": "Idiots",
+  "overview": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem.",
+  "tagline": "They're doing their best.",
+  "posterPath": "/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+  "backdropPath": "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
+  "logoPath": "/rIoXGajfPTsaajbdu8XIMTXRfM.png",
+  "backdrops": [
+    "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
+    "/ekyoTI99J7uGquYHl724lvylO7s.jpg",
+    "/hsoeOmnFMPI8hbKatDBHxkCqQSd.jpg",
+    "/qpeijpZIDBeJvVV9CJjMGJtkKh.jpg",
+    "/cWWKFcsW9Hi0bVPXTQGeYb2Upi8.jpg",
+    "/oq5PIxgGU6Xi0W7j7wg4YCmJykm.jpg",
+    "/jFU2DMRZ7aF16n2n5Z4Saf929Eb.jpg",
+    "/nIWNvRVcSngoO5mJnfI7PM0LTHf.jpg",
+    "/coVXp7pZDa4AZNxDUkGnLjJce2d.jpg",
+    "/eowHIN9fRaq1YViHeCO7s7vpqiv.jpg"
+  ],
+  "releaseDate": "2026-08-20",
+  "runtime": 100,
+  "voteAverage": "6.82",
+  "popularity": null,
+  "popularityScore": 158,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=UoAf0LNAn30",
+  "quality": "WEB-DL",
+  "director": "Macon Blair",
+  "directorTmdbId": 209513,
+  "directorProfilePath": "/sNhgAh7TBBYNGR2ExnINXIQ4U5x.jpg",
+  "productionCompanies": [
+    {
+      "id": 215935,
+      "name": "Gramercy Park Media",
+      "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png"
+    },
+    {
+      "id": 233099,
+      "name": "Peachtree Media Partners",
+      "logo_path": null
+    },
+    {
+      "id": 20848,
+      "name": "Rough House Pictures",
+      "logo_path": "/xfQxrdf3WumiLoaMS2F3xWO6nKF.png"
+    },
+    {
+      "id": 125043,
+      "name": "Bonneville Pictures",
+      "logo_path": null
+    },
+    {
+      "id": 304790,
+      "name": "NewStar Financing",
+      "logo_path": null
+    },
+    {
+      "id": 302754,
+      "name": "Cosmic Distribution",
+      "logo_path": null
+    },
+    {
+      "id": 20312,
+      "name": "TPC",
+      "logo_path": "/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png"
+    },
+    {
+      "id": 311790,
+      "name": "William Morris Entertainment",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4791,
+      "name": "rehabilitation centre"
+    },
+    {
+      "id": 7312,
+      "name": "road trip"
+    },
+    {
+      "id": 156294,
+      "name": "rich kid"
+    },
+    {
+      "id": 159315,
+      "name": "mental health"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 15449,
+  "watchlistCount": 82,
+  "favouriteCount": 20,
+  "shareCount": 9,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-23T06:08:41.406Z",
+  "updatedAt": "2026-09-23T06:08:55.552Z",
+  "genres": [
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d63ad74c-11de-4bd3-8fb0-3afaabad6f1c",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 54697,
+      "name": "Dave Franco",
+      "character": "Mark",
+      "profilePath": "/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg",
+      "order": 0
+    },
+    {
+      "id": "58afb329-8760-4295-aab6-59356d6b7094",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 1371398,
+      "name": "O'Shea Jackson Jr.",
+      "character": "Davis",
+      "profilePath": "/kXJ02sXvnExbGNJ11piC6d6WMOc.jpg",
+      "order": 1
+    },
+    {
+      "id": "8881ed5f-6fa0-44f4-b0ab-828e06d14b5b",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 2803710,
+      "name": "Mason Thames",
+      "character": "Sheridan",
+      "profilePath": "/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg",
+      "order": 2
+    },
+    {
+      "id": "86a2dc72-9fa3-4d74-9f24-46c57c4c907c",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 934289,
+      "name": "Kiernan Shipka",
+      "character": "Irina Anastas",
+      "profilePath": "/5r7JAew3ngO4KZj7PaD6rn4wa4p.jpg",
+      "order": 3
+    },
+    {
+      "id": "fdd5b393-a958-4bf0-81d9-458a6a0c3c88",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 22970,
+      "name": "Peter Dinklage",
+      "character": "Karl 'Koko' Sandoz",
+      "profilePath": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg",
+      "order": 4
+    },
+    {
+      "id": "d9793521-65d5-4d5c-822d-036e350e139c",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 85139,
+      "name": "Nicholas Braun",
+      "character": "Joe Thom Pell Aka Pricka Bush Da Werewoof",
+      "profilePath": "/b2I6bZptuld3pjlVkYIy4DtMKGg.jpg",
+      "order": 5
+    },
+    {
+      "id": "3b13bcc9-c9d7-42d9-a5e0-66a986cabda1",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 156744,
+      "name": "Lynn Wanlass",
+      "character": "Bodha 'Baba' Anastas",
+      "profilePath": "/nOtCDEZj55NZ30FSfGLD4wiMQLK.jpg",
+      "order": 6
+    },
+    {
+      "id": "506fd844-6dc3-4c3a-bf0e-e11f4bbecb86",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 209513,
+      "name": "Macon Blair",
+      "character": "D.D, His Buddy",
+      "profilePath": "/sNhgAh7TBBYNGR2ExnINXIQ4U5x.jpg",
+      "order": 7
+    },
+    {
+      "id": "9f96f5c5-2131-48f4-8da0-d14b1d6cb8a1",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 1477896,
+      "name": "Grace Junot",
+      "character": "India Worsham Dorindo",
+      "profilePath": "/hI2bpmjmEFtAjknOuguMzX6VC3W.jpg",
+      "order": 8
+    },
+    {
+      "id": "24a5f37c-abf8-4f97-9e71-912b897453b0",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 1029854,
+      "name": "Lee Eddy",
+      "character": "Celeste Waingro, Attorney at Law",
+      "profilePath": "/gIcP0EGRB0BmKyanp2VK9RyoGtA.jpg",
+      "order": 9
+    },
+    {
+      "id": "fda95db9-aa3a-4051-bb8a-a440ae651eef",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 2457170,
+      "name": "Melanie Loren",
+      "character": "Alyssa 'Lissy' Dandry",
+      "profilePath": "/wBdZaVflXe2oeTzFuYzi1FgAMwE.jpg",
+      "order": 10
+    },
+    {
+      "id": "313cbcb5-25a3-4a48-95be-5322554b62a2",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 2806735,
+      "name": "Najah Bradley",
+      "character": "Crystal Dandry",
+      "profilePath": "/5OkYi0rQ8Q0boR6pnkaCCQGrK73.jpg",
+      "order": 11
+    },
+    {
+      "id": "fe55c175-d529-4e71-b115-90f025fcd47e",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 1193151,
+      "name": "Killer Mike",
+      "character": "Pastor William Armstrong",
+      "profilePath": "/d08VHgYhyFmeqzh8JdCPY4CkF1l.jpg",
+      "order": 12
+    },
+    {
+      "id": "f91e5d3a-42be-45d3-8261-dd94ca7a25b7",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 3741001,
+      "name": "Dana Elaine",
+      "character": "The Counselor",
+      "profilePath": "/ouOevTO5825v6XMTQOj1kPTZgtY.jpg",
+      "order": 13
+    },
+    {
+      "id": "63d330eb-1d49-4e4e-b921-d61fd85b210e",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 4510525,
+      "name": "Mark Helms",
+      "character": "Tow Truck Mark",
+      "profilePath": "/mJRv0wA4Ei8JIoDa8www373z8ZS.jpg",
+      "order": 14
+    },
+    {
+      "id": "7f812111-0d3b-4fa1-bff4-4439fda4fc64",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 2254587,
+      "name": "Jeffrey Wells",
+      "character": "Brian, His Boss",
+      "profilePath": "/n7nqnREQLYkNufjE5HMzeen85qE.jpg",
+      "order": 15
+    },
+    {
+      "id": "8f2e72d8-f4f5-4cbe-834f-22c1b471697f",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 86938,
+      "name": "Tim Ware",
+      "character": "Mr. Kurtz",
+      "profilePath": "/sZope09mLYOPaRT32DYIPxNH6Q1.jpg",
+      "order": 16
+    },
+    {
+      "id": "9888a732-73a3-415b-8794-b8d7160ce929",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 3697838,
+      "name": "Judy McDowell",
+      "character": "Mrs. Kurtz",
+      "profilePath": "/v3mTNbFsVGcHxW5u1WhEy6ko7UK.jpg",
+      "order": 17
+    },
+    {
+      "id": "acbcc743-79d8-4040-ba45-150e82f36418",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 2773176,
+      "name": "Shontelle Thrash",
+      "character": "Mrs. Cheatham",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "ce4171ae-8930-4d81-8c69-c1f499723ebf",
+      "movieId": "26af854d-bbf6-48de-85d3-48fe5eab9081",
+      "tmdbPersonId": 4866794,
+      "name": "Kael Copeland",
+      "character": "Jarrod",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

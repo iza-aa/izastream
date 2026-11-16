@@ -1,0 +1,434 @@
+{
+  "slug": "ice-cream-man-2026",
+  "id": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+  "tmdbId": 1477712,
+  "imdbId": "tt36893729",
+  "title": "Ice Cream Man",
+  "originalTitle": "Ice Cream Man",
+  "overview": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+  "tagline": "We all scream.",
+  "posterPath": "/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+  "backdropPath": "/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
+  "logoPath": "/dmHPwUjYNECPpcldxbXZITxYkHD.png",
+  "backdrops": [
+    "/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
+    "/giekwhdwa8SFtfPi0mOn5uvkXJ0.jpg",
+    "/75pK9Dj1CheZFItgld9TVvb2P4x.jpg",
+    "/vcR1Wihux5AzUcFXApQEmXNLpKg.jpg",
+    "/yVnhi77S17Mk9pKx2wq6FKMF5hn.jpg",
+    "/wvIqjDBEcdqcRMFUsvmzPzYjBU4.jpg",
+    "/fq2AuM8grV6a0IYzB21VR9g87Bs.jpg",
+    "/dQdGkXZB5cZi8mfvMH2zRZLC3Ni.jpg",
+    "/xF70Kpez8OMRJRjMuNMDzWlN2y7.jpg",
+    "/e3rYUzhsCXvmIVk2FPTgDcZ8tkf.jpg"
+  ],
+  "releaseDate": "2026-08-03",
+  "runtime": 86,
+  "voteAverage": "4.50",
+  "popularity": null,
+  "popularityScore": 599,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=Cgw3zNmFtRo",
+  "quality": "WEB-DL",
+  "director": "Eli Roth",
+  "directorTmdbId": 16847,
+  "directorProfilePath": "/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg",
+  "productionCompanies": [
+    {
+      "id": 258079,
+      "name": "The Horror Section",
+      "logo_path": "/2cvSE4rsBLKXqK13tWtAJe7afAS.png"
+    },
+    {
+      "id": 221429,
+      "name": "Media Capital Technologies",
+      "logo_path": "/rWqW00ts1tZ0efwyacZlGnVd6PB.png"
+    },
+    {
+      "id": 5056,
+      "name": "Head Gear Films",
+      "logo_path": "/ok7CQyn0RPEuI0upznPoo93YE6H.png"
+    },
+    {
+      "id": 62657,
+      "name": "Mass Appeal",
+      "logo_path": "/lrjP8bqSziFpahMsE13qImlWLBQ.png"
+    },
+    {
+      "id": 25954,
+      "name": "Metrol Technology",
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png"
+    },
+    {
+      "id": 1778,
+      "name": "dentsu",
+      "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png"
+    },
+    {
+      "id": 252730,
+      "name": "Sixth Dimension",
+      "logo_path": "/4mXx4PAP9ivHVZ0WAjvyKTI8hGK.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10292,
+      "name": "gore"
+    },
+    {
+      "id": 9826,
+      "name": "murder"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 13088,
+      "name": "summer"
+    },
+    {
+      "id": 14546,
+      "name": "massacre"
+    },
+    {
+      "id": 156153,
+      "name": "ice cream"
+    },
+    {
+      "id": 157481,
+      "name": "ice cream man  "
+    },
+    {
+      "id": 179430,
+      "name": "aftercreditsstinger"
+    },
+    {
+      "id": 190624,
+      "name": "killer child"
+    },
+    {
+      "id": 251620,
+      "name": "town"
+    },
+    {
+      "id": 281237,
+      "name": "independent film"
+    },
+    {
+      "id": 309974,
+      "name": "absurd"
+    },
+    {
+      "id": 374887,
+      "name": "ai generated"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 21253,
+  "watchlistCount": 96,
+  "favouriteCount": 33,
+  "shareCount": 17,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-21T19:15:53.123Z",
+  "updatedAt": "2026-09-21T19:16:28.241Z",
+  "genres": [
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "5ecfa5a8-2c56-4c5e-824c-34661406cb59",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 1359997,
+      "name": "Ari Millen",
+      "character": "The Ice Cream Man / Jonathan Smiley",
+      "profilePath": "/x2hFdgnrJ1er0VpteRcqTr8aWTT.jpg",
+      "order": 0
+    },
+    {
+      "id": "df67c0e8-d388-499c-9c5a-69863e6be095",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 2229334,
+      "name": "Charlie Zeltzer",
+      "character": "Jared",
+      "profilePath": "/ytbrQ4R1iiRD3I0qdAddVfgooD7.jpg",
+      "order": 1
+    },
+    {
+      "id": "d037f1ca-84ce-49a2-8bb9-95bebe4d090a",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 4659751,
+      "name": "Kole Parks",
+      "character": "Benji",
+      "profilePath": "/aDfVA0VYWtaFyzKrc6xyoBV0Gcd.jpg",
+      "order": 2
+    },
+    {
+      "id": "bc6ea4b7-d972-42af-a361-a3b1dc055626",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 4058530,
+      "name": "Shiloh O’Reilly",
+      "character": "Tommy",
+      "profilePath": "/ogT1ycS4CoOassN1GeCaS7qVcgO.jpg",
+      "order": 3
+    },
+    {
+      "id": "77bcbcf5-c6c0-4e02-b698-b56f06f99a47",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 5813338,
+      "name": "Kiori Mirza Waldman",
+      "character": "Mia",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "02de2585-0df0-49c8-95a3-380be6a0746a",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 1516081,
+      "name": "Sarah Abbott",
+      "character": "Lizzie",
+      "profilePath": "/riLNrHSQNFL2jgT3IRhIYOiBCXG.jpg",
+      "order": 5
+    },
+    {
+      "id": "82a4e3ab-a0d7-4a0e-801d-920843235faa",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 1356013,
+      "name": "Benjamin Byron Davis",
+      "character": "The Priest",
+      "profilePath": "/5WHDh9l9Ylsbf5ZKt3nQ4FRweUi.jpg",
+      "order": 6
+    },
+    {
+      "id": "4d3981a0-87be-476d-b1fb-be1a579edf64",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 139419,
+      "name": "Karen Cliche",
+      "character": "Alison",
+      "profilePath": "/fVXdJyDRVDo7C5tTHauDm9zDvi9.jpg",
+      "order": 7
+    },
+    {
+      "id": "a356377c-1d96-415a-8dc4-c5fc6bbd7f42",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 4702557,
+      "name": "Dylan Hawco",
+      "character": "Chris",
+      "profilePath": "/scuhT7GDRFIXP2Iw7Yz2Mplq7oW.jpg",
+      "order": 8
+    },
+    {
+      "id": "28867a5d-0206-4577-a9ef-adef2e27a307",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 16847,
+      "name": "Eli Roth",
+      "character": "Marty",
+      "profilePath": "/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg",
+      "order": 9
+    },
+    {
+      "id": "053b5c63-8eab-48fa-8311-72fdb25d9fcf",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 4265534,
+      "name": "Charlie Storey",
+      "character": "Piper",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "ffcf084e-a81c-4d2b-9cb5-77d0d813750f",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 4422983,
+      "name": "Andriah Bryan",
+      "character": "Mrs. Valentine",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "3e8026c3-b754-49d9-9891-16e442adea3c",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 171726,
+      "name": "Darrin Baker",
+      "character": "Principal Maloney",
+      "profilePath": "/jZxcxDEyIeg9x3zvycnnOatCgdf.jpg",
+      "order": 12
+    },
+    {
+      "id": "0be1fc70-e155-4c82-9397-01b443eea448",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 1279082,
+      "name": "Rodrigo Fernandez-Stoll",
+      "character": "Mr. Hamlin",
+      "profilePath": "/n7Py821noR7f7y99Rad2yOKhLtB.jpg",
+      "order": 13
+    },
+    {
+      "id": "52e7a713-e842-49a0-b453-b24a4792e893",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 1457916,
+      "name": "Alex Armbruster",
+      "character": "Jogger",
+      "profilePath": "/m3qv0sxwsMohW4kK6hf8gYuGll7.jpg",
+      "order": 14
+    },
+    {
+      "id": "924db93f-3883-4009-8cdb-9e49465eb540",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 3320729,
+      "name": "Lochlan Ray Miller",
+      "character": "Boy with Pennies #1",
+      "profilePath": "/yHgvyIz2sFcUl8HuoqJe6GQc6bF.jpg",
+      "order": 15
+    },
+    {
+      "id": "58167569-7077-4649-a4bf-3bf0c375ca42",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 1450407,
+      "name": "Lorenzo Antonucci",
+      "character": "Terry",
+      "profilePath": "/rUPpfC8HwWdwB8NNP1m1zLPIhlH.jpg",
+      "order": 16
+    },
+    {
+      "id": "221bdf50-b16a-4053-9788-ef4ef4787098",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 2442234,
+      "name": "Carina Battrick",
+      "character": "Marcella",
+      "profilePath": "/pVpmyGnkTCUuUNMRbHpdqOpSZK6.jpg",
+      "order": 17
+    },
+    {
+      "id": "2366f1d8-541c-41e8-ab44-4a6a7b18abb5",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 5564038,
+      "name": "Tyler Ronald",
+      "character": "SSE Kid Force Fed Ice Cream",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "e11b628b-b2c2-4d63-bf04-e1f4501668ea",
+      "movieId": "0ecc00d6-75ef-4ae7-ace8-efd52fb70754",
+      "tmdbPersonId": 1128322,
+      "name": "Amanda Barker",
+      "character": "Heather Henderson",
+      "profilePath": "/aAIGBMacq63TQes2GrwWI9RciMK.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

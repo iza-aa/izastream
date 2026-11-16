@@ -1,0 +1,395 @@
+{
+  "slug": "barbie-in-a-mermaid-tale-2010",
+  "id": "7694c6e9-924e-427c-8d01-678cedd70a58",
+  "tmdbId": 34134,
+  "imdbId": "tt1610301",
+  "title": "Barbie in A Mermaid Tale",
+  "originalTitle": "Barbie in A Mermaid Tale",
+  "overview": "Barbie stars as Merliah, a surfer who learns a shocking secret: she's a mermaid! She and her dolphin friend set out for an undersea adventure to rescue her mother, the queen of Oceana.",
+  "tagline": "Barbie Makes A Big Splash!",
+  "posterPath": "/jtOlo3AaXVBnqfMeKGFrZUMPFui.jpg",
+  "backdropPath": "/csSEukCACMBPgqDgujDBHG4bfpj.jpg",
+  "logoPath": "/g7ggaDZP23P3LhLv94tWsvHV1Za.png",
+  "backdrops": [
+    "/csSEukCACMBPgqDgujDBHG4bfpj.jpg",
+    "/irsjJi75OwQjjDMRWXMQyng5YuJ.jpg",
+    "/zILioxeMOhrtUUYD2KqY2JOGdNn.jpg",
+    "/6IzoVEwsW8nJghAPfkLBlMWNJSj.jpg",
+    "/8EvIbdMom0QfC77KJ1r8YnEXEgN.jpg",
+    "/jaUq0VGfTETeoxN5l7gLE7gqgiK.jpg",
+    "/lFNADy1elNHpUxML41Mi7JRstey.jpg",
+    "/nX6OlpBCqnJFVj4tRL1YLQNdBHE.jpg",
+    "/pibpQ8ujmTHqvAmHSWnfVB7szyD.jpg",
+    "/rqkl7qEGwOXIIVeCJh6JB6BOUW1.jpg"
+  ],
+  "releaseDate": "2010-01-25",
+  "runtime": 75,
+  "voteAverage": "7.26",
+  "popularity": null,
+  "popularityScore": 1134,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=hfYKJdIPvRA",
+  "quality": "WEB-DL",
+  "director": "Adam Wood",
+  "directorTmdbId": 8054,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 102897,
+      "name": "Rainmaker Entertainment",
+      "logo_path": "/ackYRJXIse2uoLDawNVs1HzEJgm.png"
+    },
+    {
+      "id": 6220,
+      "name": "Mattel",
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png"
+    },
+    {
+      "id": 49983,
+      "name": "Mattel Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 299272,
+      "name": "Universal Studios Home Entertainment",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7376,
+      "name": "princess"
+    },
+    {
+      "id": 5349,
+      "name": "surfing"
+    },
+    {
+      "id": 1671,
+      "name": "surfboard"
+    },
+    {
+      "id": 966,
+      "name": "beach"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 5938,
+      "name": "mermaid"
+    },
+    {
+      "id": 9828,
+      "name": "surf"
+    },
+    {
+      "id": 10542,
+      "name": "based on toy"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 195269,
+      "name": "magical creature"
+    },
+    {
+      "id": 204905,
+      "name": "talking fish"
+    },
+    {
+      "id": 269484,
+      "name": "female surfer"
+    },
+    {
+      "id": 278823,
+      "name": "3d animation"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 8318,
+  "watchlistCount": 41,
+  "favouriteCount": 31,
+  "shareCount": 4,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-15T19:24:03.253Z",
+  "updatedAt": "2026-10-15T19:25:11.057Z",
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "271eb556-2947-4dc3-be86-c9dcc8eedc08",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 74358,
+      "name": "Kelly Sheridan",
+      "character": "Merliah (voice)",
+      "profilePath": "/sxg2oRxwAEWd2Y8baJarjwC1XPA.jpg",
+      "order": 0
+    },
+    {
+      "id": "0fd95d38-0904-4c3b-88f8-162407151349",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 45923,
+      "name": "Kathleen Barr",
+      "character": "Eris / Snouts (voice)",
+      "profilePath": "/l7dk7Lki6dLfKVcPGrTq9aYWZj.jpg",
+      "order": 1
+    },
+    {
+      "id": "2be9e591-c4d8-44f2-bc7f-20b5c81878d2",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 74360,
+      "name": "Tabitha St. Germain",
+      "character": "Zuma / Deanne (voice)",
+      "profilePath": "/bscsV3Gg7bmaZvvcbyS1265QaVT.jpg",
+      "order": 2
+    },
+    {
+      "id": "cf7e084c-21b1-4453-8407-cc2ad213780b",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 108338,
+      "name": "Peter Mel",
+      "character": "Surf Announcer (voice)",
+      "profilePath": "/nzLNA0ZEDdJCesfkKg00vXGozqR.jpg",
+      "order": 3
+    },
+    {
+      "id": "7803c0b8-8251-4cda-979d-f5a4bd8f5db2",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 50097,
+      "name": "Nakia Burrise",
+      "character": "Fallon (voice)",
+      "profilePath": "/4bZyZcppMNjkG8JBhh36DIk0ePv.jpg",
+      "order": 4
+    },
+    {
+      "id": "519b1ffc-4da0-4321-b137-d69424f0e744",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 85432,
+      "name": "Maryke Hendrikse",
+      "character": "Hadley (voice)",
+      "profilePath": "/9iMFnpg5VmZvNWJ7Lo9AlvemoMb.jpg",
+      "order": 5
+    },
+    {
+      "id": "56f0e215-2eae-4d90-bcad-91ed627b70ed",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 28475,
+      "name": "Emma Pierson",
+      "character": "Kayla (voice)",
+      "profilePath": "/qoKSjpBsuC103a9V3IcnVDjpbF.jpg",
+      "order": 6
+    },
+    {
+      "id": "2569443b-a33b-4e19-aab0-30519dba1bff",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 1221471,
+      "name": "Ciara Janson",
+      "character": "Xylie (voice)",
+      "profilePath": "/MmZ2OD3wGnyDVWBDFUrOdmRBIZ.jpg",
+      "order": 7
+    },
+    {
+      "id": "c369bd8e-4647-44ee-a4c6-42deb907afb4",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 26089,
+      "name": "Garry Chalk",
+      "character": "Break (voice)",
+      "profilePath": "/jESGnBSP0OjFxJejN1OPsjXA9sJ.jpg",
+      "order": 8
+    },
+    {
+      "id": "ca101764-19b6-438c-9594-867bfd4e5424",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 74370,
+      "name": "Nicole Oliver",
+      "character": "Calissa (voice)",
+      "profilePath": "/plAsVfhTrYaU78JrZbJSQ4uXpX1.jpg",
+      "order": 9
+    },
+    {
+      "id": "2cea8c68-fc13-4c6d-9a6a-db5ff752aed4",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 63797,
+      "name": "Alistair Abell",
+      "character": "Remo / Pufferazzi (voice)",
+      "profilePath": "/3IAmQJ8s2WqZDQscbVoyWFV7LaL.jpg",
+      "order": 10
+    },
+    {
+      "id": "d5ef4a79-c9c9-4474-9dd3-d26a45b9fece",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 74368,
+      "name": "Andrea Libman",
+      "character": "Dee (voice)",
+      "profilePath": "/6R2ekkbQ7OFsktfasLvXzhd0IJ.jpg",
+      "order": 11
+    },
+    {
+      "id": "cdeaf51c-034e-4e52-aa4b-a7dd8efda58f",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 221843,
+      "name": "Shannon Chan-Kent",
+      "character": "Deandra (voice)",
+      "profilePath": "/pt8rq0yQXPHxXBDi1xbeVBjfqiD.jpg",
+      "order": 12
+    },
+    {
+      "id": "624d0513-f699-4f7d-b67a-effcc04477e3",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 126224,
+      "name": "Ellen Kennedy",
+      "character": "Lipstick Fish / Syrenka (voice)",
+      "profilePath": "/GMbnND7ZOi7J9Dnk2hVI3Rqzlc.jpg",
+      "order": 13
+    },
+    {
+      "id": "bd3ecef2-3cb0-4aa5-a29a-7e5e89d6f238",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 74363,
+      "name": "Scott McNeil",
+      "character": "Syrenka's Pet Fish (voice)",
+      "profilePath": "/rjiHH4krrSdipdSUdSUjvODKJM2.jpg",
+      "order": 14
+    },
+    {
+      "id": "e9816918-7827-4271-be69-d481b537b6b5",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 85429,
+      "name": "Melissa Lyons",
+      "character": "Merliah (singing voice)",
+      "profilePath": "/a5SG08rWuvBGdbUQVFZJ1Fb2SLU.jpg",
+      "order": 15
+    },
+    {
+      "id": "40e7a8b6-7f16-432c-9098-b98de790bcdb",
+      "movieId": "7694c6e9-924e-427c-8d01-678cedd70a58",
+      "tmdbPersonId": 59243,
+      "name": "Alex Ferris",
+      "character": "Dreamfish (voice)",
+      "profilePath": "/d5TXrALTXoiYpXXjrCfzD4JzL78.jpg",
+      "order": 16
+    }
+  ],
+  "requestedBy": {
+    "username": "knra",
+    "displayName": "siluman"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

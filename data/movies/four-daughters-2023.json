@@ -1,0 +1,287 @@
+{
+  "slug": "four-daughters-2023",
+  "id": "0152c662-1318-4839-ab8a-adc5e7cc97e4",
+  "tmdbId": 1069193,
+  "imdbId": "tt27502426",
+  "title": "Four Daughters",
+  "originalTitle": "Les Filles d'Olfa",
+  "overview": "Between light and darkness stands Olfa, a Tunisian woman and the mother of four daughters. One day, her two older daughters disappear. To fill in their absence, the filmmaker Kaouther Ben Hania invites professional actresses and invents a unique cinema experience that will lift the veil on Olfa and her daughters' life stories. An intimate journey of hope, rebellion, violence, transmission and sisterhood that will question the very foundations of our societies.",
+  "tagline": null,
+  "posterPath": "/iSpJ6fg1OOSO30IUkZskZDufVzN.jpg",
+  "backdropPath": "/k7bPM2CFFpJfGgSmY1B9EG9xmnI.jpg",
+  "logoPath": "/qkDG2Q63vGrMQU0pQYoBuPyDUEt.png",
+  "backdrops": [
+    "/k7bPM2CFFpJfGgSmY1B9EG9xmnI.jpg",
+    "/tVTw678zRSpxhUQV9K5Q8KJNVRq.jpg",
+    "/wyLPzcxegrRpxEfokMYbh3Wevko.jpg",
+    "/jWKEcfAVizXyMlvH6pMApZRQEdP.jpg",
+    "/kVi2C7Arv6BAAbdXIY5ZhTNrBof.jpg",
+    "/kNWatNlnnxZXaPLtZ5hgykSh4Gp.jpg",
+    "/npxJvxdDF9O2TTxQjvMJedGiOxW.jpg"
+  ],
+  "releaseDate": "2023-07-05",
+  "runtime": 108,
+  "voteAverage": "7.40",
+  "popularity": null,
+  "popularityScore": 13,
+  "originalLanguage": "fr",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=OUsu78a5phM",
+  "quality": "WEB-DL",
+  "director": "Kaouther Ben Hania",
+  "directorTmdbId": 1381379,
+  "directorProfilePath": "/4tUq5FvpfdqLjQLEr4dwoGiXg7f.jpg",
+  "productionCompanies": [
+    {
+      "id": 75445,
+      "name": "Tanit Films",
+      "logo_path": "/50IoGWPcL7wSYz3DTm8bptWGuwy.png"
+    },
+    {
+      "id": 71842,
+      "name": "Cinétéléfilms",
+      "logo_path": "/zmB7hLD7n4Wxr7o3Vj9o9988vZB.png"
+    },
+    {
+      "id": 32545,
+      "name": "Twenty Twenty Vision Filmproduktion",
+      "logo_path": "/oivNQ1dScP0yynYm10xGAkyBLSf.png"
+    },
+    {
+      "id": 182170,
+      "name": "Red Sea Fund",
+      "logo_path": "/6EGyh2pU5vt5H8Rc3Ze6PrpUxP6.png"
+    },
+    {
+      "id": 11237,
+      "name": "ZDF/Arte",
+      "logo_path": "/nzPEges9ftjCDQWru0qrIfTX8OR.png"
+    },
+    {
+      "id": 73552,
+      "name": "jour2fête",
+      "logo_path": "/l6yuBMYHwyLU72HHlW9rknLtzeH.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 15061,
+      "name": "docudrama"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 321464,
+      "name": "intense"
+    },
+    {
+      "id": 323809,
+      "name": "depressing"
+    },
+    {
+      "id": 327631,
+      "name": "four daughters"
+    },
+    {
+      "id": 327632,
+      "name": "chrysaor"
+    },
+    {
+      "id": 327633,
+      "name": "kaouther ben hania"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 443,
+  "watchlistCount": 7,
+  "favouriteCount": 1,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-18T09:19:13.450Z",
+  "updatedAt": "2026-09-18T09:19:38.231Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+      "tmdbId": 99,
+      "name": "Documentary",
+      "slug": "documentary",
+      "createdAt": "2026-04-02T13:53:46.408Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0d50ff13-3566-4e9d-9cb0-95c29b81e21b",
+      "movieId": "0152c662-1318-4839-ab8a-adc5e7cc97e4",
+      "tmdbPersonId": 4032109,
+      "name": "Olfa Hamrouni",
+      "character": "Self",
+      "profilePath": null,
+      "order": 0
+    },
+    {
+      "id": "19063f88-a9b8-4b5f-b43c-5829b4a68ce1",
+      "movieId": "0152c662-1318-4839-ab8a-adc5e7cc97e4",
+      "tmdbPersonId": 4032110,
+      "name": "Eya Chikhaoui",
+      "character": "Self",
+      "profilePath": null,
+      "order": 1
+    },
+    {
+      "id": "2c221ac9-e9fb-4bfc-82a6-31bdaf701196",
+      "movieId": "0152c662-1318-4839-ab8a-adc5e7cc97e4",
+      "tmdbPersonId": 4032111,
+      "name": "Tayssir Chikhaoui",
+      "character": "Self",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "c17785cb-2f6d-49b1-9e02-7fab083bfac4",
+      "movieId": "0152c662-1318-4839-ab8a-adc5e7cc97e4",
+      "tmdbPersonId": 4032108,
+      "name": "Nour Karoui",
+      "character": "Rahma Chikhaoui",
+      "profilePath": "/pm7dCKouXzYXfkjLPdnyZz9Fgku.jpg",
+      "order": 3
+    },
+    {
+      "id": "34a98f56-e59c-4f7a-833f-23413c9d9486",
+      "movieId": "0152c662-1318-4839-ab8a-adc5e7cc97e4",
+      "tmdbPersonId": 3487919,
+      "name": "Ichraq Matar",
+      "character": "Ghofrane Chikaoui",
+      "profilePath": "/wGrZJ8CFsljgBQIeZagCqkIH4md.jpg",
+      "order": 4
+    },
+    {
+      "id": "1d33384c-bb3b-4e4f-bb21-465c5236c93e",
+      "movieId": "0152c662-1318-4839-ab8a-adc5e7cc97e4",
+      "tmdbPersonId": 1576595,
+      "name": "Majd Mastoura",
+      "character": "The Man",
+      "profilePath": "/thTcznNzdzfomVh5OV9TOSUs5ft.jpg",
+      "order": 5
+    },
+    {
+      "id": "e522cd07-2718-435c-9f4b-7f4a92cfe602",
+      "movieId": "0152c662-1318-4839-ab8a-adc5e7cc97e4",
+      "tmdbPersonId": 226438,
+      "name": "Hend Sabry",
+      "character": "Olfa",
+      "profilePath": "/o8Cn0nzoUpsA6d8dORsZJWGVTCB.jpg",
+      "order": 6
+    },
+    {
+      "id": "84a7675b-b44d-4104-a00d-07cb797e0a6a",
+      "movieId": "0152c662-1318-4839-ab8a-adc5e7cc97e4",
+      "tmdbPersonId": 5692422,
+      "name": "Zine El-Abidine Ben Ali",
+      "character": "Self",
+      "profilePath": null,
+      "order": 7
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

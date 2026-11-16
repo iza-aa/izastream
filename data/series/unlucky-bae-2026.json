@@ -1,0 +1,125 @@
+{
+  "slug": "unlucky-bae-2026",
+  "id": "00d7a240-4f65-4481-b290-5a6f2d79ac65",
+  "title": "Unlucky Bae",
+  "overview": "After a drunken ritual goes wrong, Rin accidentally curses an innocent business student. To fix the mess, he stays close — only to fall in love.",
+  "tagline": null,
+  "posterPath": "/1jPxJWwPIEy6wmFt3444RjqSz6X.jpg",
+  "backdropPath": "/opFWidR2ITRQv6fjukb7hJk7xsi.jpg",
+  "logoPath": "/u2ZqODtwTsz9g26JtLsdLgcMlkL.png",
+  "firstAirDate": "2026-08-06",
+  "voteAverage": "7.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "448e5630-c160-43d7-9d32-344cebec0569",
+      "tvSeriesId": "00d7a240-4f65-4481-b290-5a6f2d79ac65",
+      "tmdbPersonId": 1601205,
+      "name": "Nattapat Nimjirawat",
+      "character": "Rin",
+      "profilePath": "/rltyvbPYVI9ahRi5FNsqou8iAaw.jpg",
+      "order": 0
+    },
+    {
+      "id": "58d2b509-96dc-4929-8894-18415953d87b",
+      "tvSeriesId": "00d7a240-4f65-4481-b290-5a6f2d79ac65",
+      "tmdbPersonId": 5675793,
+      "name": "Tupthong Suwanrakanont",
+      "character": "Khobfah",
+      "profilePath": "/g2kjW0TUS8XSmsK9cMoR5BiGAVp.jpg",
+      "order": 1
+    },
+    {
+      "id": "0496093f-c489-4a2c-86f4-bbe7cd9fe511",
+      "tvSeriesId": "00d7a240-4f65-4481-b290-5a6f2d79ac65",
+      "tmdbPersonId": 2777417,
+      "name": "Napat Patcharachavalit",
+      "character": "Krit",
+      "profilePath": "/2smMFUwHxQQoVsNGZaun14JmO00.jpg",
+      "order": 2
+    },
+    {
+      "id": "05ee448b-48c1-49f9-9adc-c8180ce0c6a0",
+      "tvSeriesId": "00d7a240-4f65-4481-b290-5a6f2d79ac65",
+      "tmdbPersonId": 4567539,
+      "name": "Panachkorn Rueksiriaree",
+      "character": "Moji",
+      "profilePath": "/bljimxDOQ8JDn4bYWG8VcDMZLGB.jpg",
+      "order": 3
+    },
+    {
+      "id": "a1a79040-9003-44d0-bfec-4b72c0258131",
+      "tvSeriesId": "00d7a240-4f65-4481-b290-5a6f2d79ac65",
+      "tmdbPersonId": 4986364,
+      "name": "Nutnicha Sangmanee",
+      "character": "Ginny",
+      "profilePath": "/AnuNuqP8krS6i9xwqLh1fOZsUCj.jpg",
+      "order": 4
+    },
+    {
+      "id": "32ca1627-0a5b-4b4a-bdf3-b839fc67c323",
+      "tvSeriesId": "00d7a240-4f65-4481-b290-5a6f2d79ac65",
+      "tmdbPersonId": 5675795,
+      "name": "Tiranat Kittisattho",
+      "character": "Ohm",
+      "profilePath": "/zxQk7fczty5PGb7snCmQRWD1hFk.jpg",
+      "order": 5
+    },
+    {
+      "id": "197f7865-e495-45f5-bbb2-6dc0cfc7e1fa",
+      "tvSeriesId": "00d7a240-4f65-4481-b290-5a6f2d79ac65",
+      "tmdbPersonId": 5840085,
+      "name": "Namassakarn Trangkhasombat",
+      "character": "Danthai",
+      "profilePath": "/326GkFpRAZmbAEi5oKu8UVChI1H.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ba9840aa-25b5-4ebb-a588-73b63d1beb0a",
+      "tvSeriesId": "00d7a240-4f65-4481-b290-5a6f2d79ac65",
+      "tmdbId": 486436,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "After a drunken ritual goes wrong, Rin accidentally curses an innocent business student. To fix the mess, he stays close — only to fall in love.",
+      "posterPath": "/24mPnsoHXuKbhLukrCoIwlA7qcn.jpg",
+      "airDate": "2026-08-06",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-09T16:10:06.652Z",
+      "updatedAt": "2026-10-09T16:11:30.538Z"
+    }
+  ]
+}

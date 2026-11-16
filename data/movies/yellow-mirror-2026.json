@@ -1,0 +1,285 @@
+{
+  "slug": "yellow-mirror-2026",
+  "id": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+  "tmdbId": 1729723,
+  "imdbId": "tt43141030",
+  "title": "Yellow Mirror",
+  "originalTitle": "Yellow Mirror",
+  "overview": "A defective lamp reveals a heartbreaking truth about what Homer believes is reality, and an AI-powered tablet befriends and controls Maggie. The Simpsons struggle to find the light through two dark tales of the curious and bizarre.",
+  "tagline": null,
+  "posterPath": "/ePafPnFV817iSOs9I6EB805EGX2.jpg",
+  "backdropPath": "/qKdkPfBASoy7dmOEklAeAtNHXm9.jpg",
+  "logoPath": "/v3tBPXzkDSxcQO7RWh7q6dbrPb3.png",
+  "backdrops": [
+    "/ykYnM1Lc9GH8vq88szXqztRhZPN.jpg",
+    "/qKdkPfBASoy7dmOEklAeAtNHXm9.jpg"
+  ],
+  "releaseDate": "2026-08-26",
+  "runtime": 27,
+  "voteAverage": "10.00",
+  "popularity": null,
+  "popularityScore": 68,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=zNyZ6OlMbh0",
+  "quality": "WEB-DL",
+  "director": "Matthew Faughnan",
+  "directorTmdbId": 1710643,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 18,
+      "name": "Gracie Films",
+      "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png"
+    },
+    {
+      "id": 154887,
+      "name": "20th Television Animation",
+      "logo_path": "/wLFPu95hIMmyLR5hdtvYaMuK0tG.png"
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 4855,
+  "watchlistCount": 30,
+  "favouriteCount": 7,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-27T03:40:19.645Z",
+  "updatedAt": "2026-08-27T03:40:56.755Z",
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7fcae3bb-1e70-4ef4-aad2-efe9dc550e8e",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 198,
+      "name": "Dan Castellaneta",
+      "character": "Homer Simpson / Barney Gumble (voice)",
+      "profilePath": "/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg",
+      "order": 0
+    },
+    {
+      "id": "e0590db8-08a6-4a62-96c6-aaaa870246e5",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 200,
+      "name": "Nancy Cartwright",
+      "character": "Bart Simpson (voice)",
+      "profilePath": "/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg",
+      "order": 1
+    },
+    {
+      "id": "faa53385-6bd2-4c80-999d-e27a19ace3ef",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 199,
+      "name": "Julie Kavner",
+      "character": "Marge Simpson (voice)",
+      "profilePath": "/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg",
+      "order": 2
+    },
+    {
+      "id": "2fe3d5a0-c150-4be3-8ad4-53a120bc4419",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 5586,
+      "name": "Yeardley Smith",
+      "character": "Lisa Simpson (voice)",
+      "profilePath": "/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg",
+      "order": 3
+    },
+    {
+      "id": "72522268-5a22-4cc8-a755-8cdf901f2415",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 2079729,
+      "name": "Patti Harrison",
+      "character": "Hailey (voice)",
+      "profilePath": "/n9h4QmVkRzdOVqKTQoQESIbDjuX.jpg",
+      "order": 4
+    },
+    {
+      "id": "44af3f8c-a41b-4975-a5fb-f511dcd36dbe",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 3416,
+      "name": "Demi Moore",
+      "character": "Lydia (voice)",
+      "profilePath": "/wApParZYBDi4yxekjfxjKEifJYh.jpg",
+      "order": 5
+    },
+    {
+      "id": "2b89772f-24bf-4bf1-ad12-6534b54ea542",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 6008,
+      "name": "Harry Shearer",
+      "character": "Lenny Leonard (voice)",
+      "profilePath": "/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg",
+      "order": 6
+    },
+    {
+      "id": "725079fd-40d4-40bd-8125-96d8d4bef659",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 110141,
+      "name": "Alex Désert",
+      "character": "Carl Carlson (voice)",
+      "profilePath": "/iz5fLxrOTKYUkpUmGXgVfCfIZxn.jpg",
+      "order": 7
+    },
+    {
+      "id": "6119c1c3-d436-4845-b35d-77eec7e1536a",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 5587,
+      "name": "Hank Azaria",
+      "character": "(voice)",
+      "profilePath": "/uON3TWSySIy8wbDhkSzmFTDM6XO.jpg",
+      "order": 8
+    },
+    {
+      "id": "39c1a9d2-c77c-46df-a098-4ed80bea4ce7",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 34983,
+      "name": "Tress MacNeille",
+      "character": "(voice)",
+      "profilePath": "/gI2LsgByvSffQY34vabVnPmrHzw.jpg",
+      "order": 9
+    },
+    {
+      "id": "798cf770-fc30-4278-8e1a-099744ceefdd",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 1216346,
+      "name": "Chris Edgerly",
+      "character": "(voice)",
+      "profilePath": "/bjkN9Ugv6Kd3Z3y9p9DgWAc10Q7.jpg",
+      "order": 10
+    },
+    {
+      "id": "54fd5410-b534-421c-a3cb-675953f55705",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 6262092,
+      "name": "Kai Omine",
+      "character": "(voice)",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "efa17cbb-1cb1-4b27-a1ad-abf92a036c29",
+      "movieId": "17bf6ef9-11b6-44df-90cf-9bb6fd03db8a",
+      "tmdbPersonId": 197,
+      "name": "David Silverman",
+      "character": "(voice)",
+      "profilePath": "/4ia152M03hntrS7FBHveRx2VeuP.jpg",
+      "order": 12
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

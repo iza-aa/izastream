@@ -1,0 +1,159 @@
+{
+  "slug": "the-detective-is-already-dead-2021",
+  "id": "b0d9e882-e928-4d8f-b51d-85204793de21",
+  "title": "The Detective Is Already Dead",
+  "overview": "After thwarting a hijacking with beautiful, silver-haired detective Siesta, Kimihiko leads a life of globe-trotting and crime-solving—until Siesta dies. A year later, a new case will open old wounds as it threads murder, conspiracy, and his dead partner!",
+  "tagline": null,
+  "posterPath": "/8gCOlj0bXa2cQnXSl4wRX5tVIA0.jpg",
+  "backdropPath": "/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
+  "logoPath": "/xW9w2SwltKRfMHEfbor60RUQabj.png",
+  "firstAirDate": "2021-07-04",
+  "voteAverage": "5.70",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 17,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "624316d1-d091-4679-943e-3c85a10388fc",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbPersonId": 2944453,
+      "name": "Arata Nagai",
+      "character": "Kimihiko Kimizuka (voice)",
+      "profilePath": "/2pBl4uYHU0TKAj3bTivTOaPbtnf.jpg",
+      "order": 0
+    },
+    {
+      "id": "fb8397dc-cce3-497c-a4d8-1f0314054bd3",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbPersonId": 2076433,
+      "name": "Saki Miyashita",
+      "character": "Siesta (voice)",
+      "profilePath": "/5I1KqliJdfISImVZN7nw8DrqEdA.jpg",
+      "order": 1
+    },
+    {
+      "id": "ba4db8c1-674f-4a5d-bccc-cd1f67ca732c",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbPersonId": 1072776,
+      "name": "Ayana Taketatsu",
+      "character": "Nagisa Natsunagi (voice)",
+      "profilePath": "/7p9BhK5EZtHvXWhFa1WejhoNst3.jpg",
+      "order": 2
+    },
+    {
+      "id": "c81d74c6-9cc5-4edc-8c7c-8b7a5b7a8993",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbPersonId": 1695709,
+      "name": "Kanon Takao",
+      "character": "Yui Saikawa (voice)",
+      "profilePath": "/w3h6h9R29uRsOv01qbk94ym2msm.jpg",
+      "order": 3
+    },
+    {
+      "id": "9a6df7bb-479a-47e3-b23f-3c97f70808e9",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbPersonId": 2944458,
+      "name": "Saho Shirasu",
+      "character": "Charlotte Arisaka Anderson (voice)",
+      "profilePath": "/2iNYxiui27dvP30WiYtVquO1HCN.jpg",
+      "order": 4
+    },
+    {
+      "id": "8114ff2d-38bf-4945-b0fe-b99b95550d00",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbPersonId": 1564652,
+      "name": "Maria Naganawa",
+      "character": "Alicia (voice)",
+      "profilePath": "/tt0j0z34Oq3MyvDA3VeizskWcw4.jpg",
+      "order": 5
+    },
+    {
+      "id": "d321c38d-eff1-41fe-82c2-403280a1157a",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbPersonId": 233590,
+      "name": "Yoshitsugu Matsuoka",
+      "character": "Bat (voice)",
+      "profilePath": "/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg",
+      "order": 6
+    },
+    {
+      "id": "102ea1ae-ebc4-41c3-b1d2-92ac8a8e67c6",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbPersonId": 1254300,
+      "name": "Mai Fuchigami",
+      "character": "Fuubi Kase (voice)",
+      "profilePath": "/rWYdSVyjdyKoWj9SbJRTMJmYgbJ.jpg",
+      "order": 7
+    },
+    {
+      "id": "af42a56d-5934-42d8-8afe-e52d778c8600",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbPersonId": 84508,
+      "name": "Takehito Koyasu",
+      "character": "Chameleon (voice)",
+      "profilePath": "/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg",
+      "order": 8
+    },
+    {
+      "id": "6b2161c9-c4db-4e97-8bce-016ed8ee76bb",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbPersonId": 3152755,
+      "name": "Nanae Yasuoka",
+      "character": "(voice)",
+      "profilePath": null,
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "7c2ebbf8-2c26-4324-8e1b-ba3671c4e0eb",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbId": 177393,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/8gCOlj0bXa2cQnXSl4wRX5tVIA0.jpg",
+      "airDate": "2021-07-04",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-24T00:33:01.521Z",
+      "updatedAt": "2026-11-14T05:25:39.453Z"
+    },
+    {
+      "id": "a8fadac5-57e8-4033-88e0-fb6f53e65555",
+      "tvSeriesId": "b0d9e882-e928-4d8f-b51d-85204793de21",
+      "tmdbId": 301978,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/gob5oouCFv74rO3MaVAm3hKqc7r.jpg",
+      "airDate": "2026-10-07",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-10-24T00:33:01.521Z",
+      "updatedAt": "2026-11-14T05:25:39.455Z"
+    }
+  ]
+}

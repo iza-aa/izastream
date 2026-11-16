@@ -1,0 +1,446 @@
+{
+  "slug": "moana-2026",
+  "id": "d5cd5744-177f-458d-9b68-4682d8704937",
+  "tmdbId": 1108427,
+  "imdbId": "tt27419466",
+  "title": "Moana",
+  "originalTitle": "Moana",
+  "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+  "tagline": "The ocean chose her for a reason.",
+  "posterPath": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+  "backdropPath": "/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
+  "logoPath": "/pRHIM8liJBYy1Z4wNgAizqCOuOU.png",
+  "backdrops": [
+    "/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
+    "/1Qf5ClZJpmEPJgBqBB03UvCVXzO.jpg",
+    "/ogv0eTxwCVcrfKYsl2GKH4hNHJL.jpg",
+    "/lrXHXd0sFoKInEygRxu6aNiA9Xu.jpg",
+    "/lniL0aoEvuWxfZOcZss7vWQfi1x.jpg",
+    "/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
+    "/ltaMOWWmKx34SHRhPdiwrosdnmo.jpg",
+    "/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+    "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+    "/osddZwcZTago2rjNmEWMJOBI0zC.jpg"
+  ],
+  "releaseDate": "2026-07-08",
+  "runtime": 115,
+  "voteAverage": "6.10",
+  "popularity": null,
+  "popularityScore": 2957,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
+  "quality": "WEB-DL",
+  "director": "Thomas Kail",
+  "directorTmdbId": 1485823,
+  "directorProfilePath": "/eZx5j2AARIZcrSVpTFyD5fAJWsn.jpg",
+  "productionCompanies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png"
+    },
+    {
+      "id": 73669,
+      "name": "Seven Bucks Productions",
+      "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png"
+    },
+    {
+      "id": 34081,
+      "name": "Flynn Picture Company",
+      "logo_path": null
+    },
+    {
+      "id": 122645,
+      "name": "5000 Broadway Productions",
+      "logo_path": "/ujqjqvWtJxP24nAwmRvksaPTDoo.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 544,
+      "name": "sailboat"
+    },
+    {
+      "id": 658,
+      "name": "sea"
+    },
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 270,
+      "name": "ocean"
+    },
+    {
+      "id": 2982,
+      "name": "leaving one's family"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 10541,
+      "name": "curse"
+    },
+    {
+      "id": 157155,
+      "name": "explorer"
+    },
+    {
+      "id": 165317,
+      "name": "based on movie"
+    },
+    {
+      "id": 180548,
+      "name": "demigod"
+    },
+    {
+      "id": 180803,
+      "name": "polynesia"
+    },
+    {
+      "id": 208649,
+      "name": "sea adventure"
+    },
+    {
+      "id": 223089,
+      "name": "giant crab"
+    },
+    {
+      "id": 234183,
+      "name": "animal sidekick"
+    },
+    {
+      "id": 236465,
+      "name": "seafarer"
+    },
+    {
+      "id": 245230,
+      "name": "live action remake"
+    },
+    {
+      "id": 347753,
+      "name": "female explorer"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 272342,
+  "watchlistCount": 538,
+  "favouriteCount": 234,
+  "shareCount": 181,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-07T19:39:19.329Z",
+  "updatedAt": "2026-09-07T19:40:42.138Z",
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "330c0b83-08f2-4ec1-b5a9-0401eecef12c",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 4247263,
+      "name": "Catherine Lagaʻaia",
+      "character": "Moana",
+      "profilePath": "/2KRIRDwy1CtY7Bge3aqVZrORelc.jpg",
+      "order": 0
+    },
+    {
+      "id": "340071e1-f526-42d0-b1c8-b56b812802c5",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 18918,
+      "name": "Dwayne Johnson",
+      "character": "Maui",
+      "profilePath": "/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg",
+      "order": 1
+    },
+    {
+      "id": "5510c43d-629f-4995-a900-a3ff0e281648",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 7241,
+      "name": "Rena Owen",
+      "character": "Gramma Tala",
+      "profilePath": "/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg",
+      "order": 2
+    },
+    {
+      "id": "54ca18d5-228b-44fc-8712-5922b14468f4",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 205406,
+      "name": "John Tui",
+      "character": "Chief Tui",
+      "profilePath": "/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg",
+      "order": 3
+    },
+    {
+      "id": "8ced75de-4b04-4f76-97cd-67b2bacf5e6f",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 1753341,
+      "name": "Frankie Adams",
+      "character": "Sina",
+      "profilePath": "/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg",
+      "order": 4
+    },
+    {
+      "id": "c4b18707-0811-4ade-b125-68fc692b4e45",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 55936,
+      "name": "Jemaine Clement",
+      "character": "Tamatoa (voice)",
+      "profilePath": "/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg",
+      "order": 5
+    },
+    {
+      "id": "99eaa22b-0605-4d30-9330-a4da869f0342",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 6337289,
+      "name": "Emma Puahi-Shapazian",
+      "character": "Moana (4 years old)",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "8ddcf257-065f-423e-b6cf-ec38ba2a8b50",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 6337288,
+      "name": "Amaya Masoli",
+      "character": "Moana (8 years old)",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "ca7d16b6-ad05-4b91-9588-4e0df8166149",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 1869261,
+      "name": "Sam Puefua",
+      "character": "Village Fisherman",
+      "profilePath": "/iDcFUBYJMMPf2TIynGHu6U23cWI.jpg",
+      "order": 8
+    },
+    {
+      "id": "bbee351e-7f7b-474a-afb6-6c396966c0ff",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 6352141,
+      "name": "Sione Milford",
+      "character": "Coconut Farmer",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "bfec2982-7c65-42f6-8e6f-b04cf8dc8ae1",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 3371253,
+      "name": "Kapeneta Te'o-Tafiti",
+      "character": "Coconut Farmer",
+      "profilePath": "/bLR7ydoZq6l7FAaUoXrm0LenyuV.jpg",
+      "order": 10
+    },
+    {
+      "id": "c3a93bd6-d7ca-4fb2-b40d-9003afbbddb9",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 2469823,
+      "name": "Eric Scanlan",
+      "character": "Tulafale",
+      "profilePath": "/aNPlEfrnBZUP33clsQgLtupXXjU.jpg",
+      "order": 11
+    },
+    {
+      "id": "e29c1e1f-1016-49f0-8781-21853c01db5c",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 2738913,
+      "name": "Moses Goods",
+      "character": "Elder Luaʻiufi",
+      "profilePath": "/vo9EoB4dB4gRAtDLX2q0fV7aQvf.jpg",
+      "order": 12
+    },
+    {
+      "id": "3810be56-61b6-467b-8166-27ee049d589a",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 6352143,
+      "name": "La Masae Fa‘amausili-Siliato",
+      "character": "Elder Ope",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "107af0dc-e21e-4c23-9503-508f87439357",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 6352145,
+      "name": "Ehulani Hope Kāne",
+      "character": "Village Elder",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "80df808e-5154-4b7d-a6fc-62d0dad00475",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 6352146,
+      "name": "Hanalē Ka‘anapu",
+      "character": "Village Elder",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "cb76cb79-59a4-4c15-9887-646e45079369",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 5429641,
+      "name": "Michael Alisa",
+      "character": "Tautaivasa",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "ef4efcf2-1d35-4d91-a91f-c69a75e059da",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 3619291,
+      "name": "Michael Metuakore",
+      "character": "Younger Navigator",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "db2e0d04-f8ab-43aa-903c-974ae6cac129",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 2341452,
+      "name": "Patricia Fa'asua",
+      "character": "Villager",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "5678b46e-640e-4c21-93ac-7a94c3b2c7e0",
+      "movieId": "d5cd5744-177f-458d-9b68-4682d8704937",
+      "tmdbPersonId": 6352148,
+      "name": "Malosi Scanlan",
+      "character": "Pushy Farmer",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

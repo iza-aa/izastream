@@ -1,0 +1,152 @@
+{
+  "slug": "boys-over-flowers-2005",
+  "id": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+  "title": "BOYS OVER FLOWERS",
+  "overview": "Set at a famous high school for the super-wealthy, this is a puppy love story centered on Tsukushi Makino, a poor girl, and the F4 gang of rich kids headed by the rough and fearless Prince Charming, Tsukasa Domyoji.",
+  "tagline": null,
+  "posterPath": "/6gJc7zQoYfEWAmWOJLT1NVLlwJP.jpg",
+  "backdropPath": "/AuoLDbzBOrDKIVRAMwiu4aaDjsh.jpg",
+  "logoPath": "/r3gcNg5j0eLhyroeUd5veHyw7eb.png",
+  "firstAirDate": "2005-10-21",
+  "voteAverage": "8.08",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 20,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "9513044d-9b03-4e54-8d9b-4229d89fc3ae",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbPersonId": 124401,
+      "name": "Mao Inoue",
+      "character": "Tsukushi Makino",
+      "profilePath": "/6PearnCbFJnQx0diGqjRFbIDcYD.jpg",
+      "order": 0
+    },
+    {
+      "id": "9aeb26db-000e-4e62-90a8-835f90e846d0",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbPersonId": 107531,
+      "name": "Jun Matsumoto",
+      "character": "Tsukasa Dōmyōji",
+      "profilePath": "/3baNO7NwuOOLMfaZfY4tt64ST3g.jpg",
+      "order": 1
+    },
+    {
+      "id": "67ace4cd-046c-4909-86d7-baeb708485aa",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbPersonId": 46364,
+      "name": "Shun Oguri",
+      "character": "Rui Hanazawa",
+      "profilePath": "/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg",
+      "order": 2
+    },
+    {
+      "id": "2a124ce1-e83e-4a40-aadc-d7a8d6d84195",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbPersonId": 84044,
+      "name": "Shota Matsuda",
+      "character": "Sōjirō Nishikado",
+      "profilePath": "/1fPZ4JY1Zh4gROMFRhs4d5mOgyO.jpg",
+      "order": 3
+    },
+    {
+      "id": "45ff6c28-2338-493b-81df-f51eee6508a9",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbPersonId": 92487,
+      "name": "Tsuyoshi Abe",
+      "character": "Akira Mimasaka",
+      "profilePath": "/3lJVGiYOHWfvfE1bA7bma62iWt.jpg",
+      "order": 4
+    },
+    {
+      "id": "bd4eaba9-bcd4-4123-9d40-5700ca3366c9",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbPersonId": 228072,
+      "name": "Toma Ikuta",
+      "character": "Junpei Oribe",
+      "profilePath": "/3tDQDEbG1XdPtp8N9oxw53rWw3o.jpg",
+      "order": 5
+    },
+    {
+      "id": "184098bf-7ab1-4d2b-9a7d-173fd1481543",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbPersonId": 123851,
+      "name": "Mako Ishino",
+      "character": "Chieko Makino",
+      "profilePath": "/3Jf2mYMQfQQucjFFQydGOCTanMC.jpg",
+      "order": 6
+    },
+    {
+      "id": "a5e42f85-052b-492a-b23f-8596311e0c56",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbPersonId": 87872,
+      "name": "Megumi Sato",
+      "character": "Sakurako Sanjo",
+      "profilePath": "/bQYLUAeJxi5yWZwDTm6oCMEAbnF.jpg",
+      "order": 7
+    },
+    {
+      "id": "3cd72347-bbfd-4b43-a6fa-97065de2b065",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbPersonId": 1246499,
+      "name": "Aki Nishihara",
+      "character": "Yuki Matsuoka",
+      "profilePath": "/9QbxDQuofn1ykSZmd24Q2VkoJZd.jpg",
+      "order": 8
+    },
+    {
+      "id": "f7e3ec51-7ed8-4f09-9eae-9cbccab75410",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbPersonId": 1246500,
+      "name": "Aki Fukada",
+      "character": "Erika Ayuhara",
+      "profilePath": "/6iOjCRky6Jo4LPVdfKruTnRVR07.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "012566a2-d2ae-41a6-b62b-a9f1add5258b",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbId": 28352,
+      "seasonNumber": 1,
+      "name": "BOYS OVER FLOWERS",
+      "overview": "Tsukushi Makino is a student at the super-prestigious Eitoku Academy, a seat of learning for some of the children of Japan’s wealthiest individuals. Somewhat intimidated by the school and its rich-kid students, she wants nothing except to stay below the radar and unnoticed during her time at the school. She has one girlfriend at the school, but does not speak to anyone else.\n\nAll that changes on the day her friend spills juice all over the pristine white shirt of Tsukasa Dōmyōji, the most aggressive and spoilt member of the so-called \"Flower Four\" or \"F4\".",
+      "posterPath": "/4BnIDyFAPAz8r2XStYEJyUiXpZF.jpg",
+      "airDate": "2005-10-21",
+      "episodeCount": 9,
+      "isPublished": true,
+      "createdAt": "2026-08-27T05:29:20.694Z",
+      "updatedAt": "2026-08-27T05:32:08.701Z"
+    },
+    {
+      "id": "12433f9f-6bf3-416b-8a41-9d359a37fce4",
+      "tvSeriesId": "430ccd0d-8a38-42c1-96c9-83bc32d63582",
+      "tmdbId": 28353,
+      "seasonNumber": 2,
+      "name": "BOYS OVER FLOWERS 2 (returns)",
+      "overview": "It's been a year since Tsukasa Dōmyōji left for New York, but Tsukushi Makino refuses to accept his reasons for going alone. Following him to New York, Makino is convinced she'll be able to find Dōmyōji and make him explain himself, but her adventures in New York turn out to be much different than those she had planned.",
+      "posterPath": "/xHINm3jhOYT253bnOd2n1DknzFD.jpg",
+      "airDate": "2007-01-05",
+      "episodeCount": 11,
+      "isPublished": true,
+      "createdAt": "2026-08-27T05:29:20.694Z",
+      "updatedAt": "2026-08-27T05:32:10.545Z"
+    }
+  ]
+}

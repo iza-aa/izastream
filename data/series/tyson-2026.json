@@ -1,0 +1,50 @@
+{
+  "slug": "tyson-2026",
+  "id": "b49a66f1-396f-4162-b6d7-5b4b75f7fac9",
+  "title": "TYSON",
+  "overview": "Explore the explosive life of Mike Tyson — one of the most feared and fascinating figures in sports history.",
+  "tagline": null,
+  "posterPath": "/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+  "backdropPath": "/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
+  "logoPath": "/bexRfKCRpdOoDe73n0iABeNlSKz.png",
+  "firstAirDate": "2026-10-13",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+      "tmdbId": 99,
+      "name": "Documentary",
+      "slug": "documentary",
+      "createdAt": "2026-04-02T13:53:46.408Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "bb365601-89ce-4159-aed6-32a2e4ebeed1",
+      "tvSeriesId": "b49a66f1-396f-4162-b6d7-5b4b75f7fac9",
+      "tmdbPersonId": 80757,
+      "name": "Mike Tyson",
+      "character": "Self",
+      "profilePath": "/7eI1WK9985q8XiUgg3rDjOwa3MR.jpg",
+      "order": 0
+    }
+  ],
+  "seasons": [
+    {
+      "id": "bce9ce24-f5cd-4c6f-a9b5-622ef91f0e17",
+      "tvSeriesId": "b49a66f1-396f-4162-b6d7-5b4b75f7fac9",
+      "tmdbId": 544468,
+      "seasonNumber": 1,
+      "name": "Limited Series",
+      "overview": "",
+      "posterPath": "/c74AWPtTUGhTV7u7bcTdyMHQoqi.jpg",
+      "airDate": "2026-10-13",
+      "episodeCount": 4,
+      "isPublished": true,
+      "createdAt": "2026-10-14T04:52:09.977Z",
+      "updatedAt": "2026-10-14T04:52:29.568Z"
+    }
+  ]
+}

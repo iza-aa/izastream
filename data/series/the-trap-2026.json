@@ -1,0 +1,138 @@
+{
+  "slug": "the-trap-2026",
+  "id": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+  "title": "The Trap",
+  "overview": "Follow famous author Lisa Konrad, who has not left her house for a decade after witnessing the murder of her sister. One night she sees who she believes was the murdered on television, and decides to use herself as bait to catch them.",
+  "tagline": null,
+  "posterPath": "/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
+  "backdropPath": "/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+  "logoPath": "/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
+  "firstAirDate": "2026-10-13",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "eced35ef-998e-47b6-a2be-ef39c6dcfa4e",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbPersonId": 1075108,
+      "name": "Friederike Becht",
+      "character": "Lisa Konrad",
+      "profilePath": "/uxvEF4bF60ipQnM5QStX8Wbnnse.jpg",
+      "order": 0
+    },
+    {
+      "id": "06423f8a-3c3f-45c1-b56e-06e7003162ae",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbPersonId": 5853,
+      "name": "Hans Löw",
+      "character": "Robert Lenzen",
+      "profilePath": "/eu2VBm55a9aQNKEtFY9qKGm5ya5.jpg",
+      "order": 1
+    },
+    {
+      "id": "d5d1b5c5-ad1a-41c5-bc1a-4cdadd3af326",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbPersonId": 1257219,
+      "name": "Alexander Schubert",
+      "character": "",
+      "profilePath": "/dWRleMp2Qqs7dpae56Tzpxv5yEJ.jpg",
+      "order": 2
+    },
+    {
+      "id": "d79bfdca-a19b-4fba-bdf1-63b233de4f7b",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbPersonId": 6489326,
+      "name": "Katja Ponickau",
+      "character": "",
+      "profilePath": "/34stNsJekzoUx2tOlmoEQw4oDkk.jpg",
+      "order": 3
+    },
+    {
+      "id": "3663b9c4-82e5-4e8a-bd3e-652cb2099bc4",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbPersonId": 3287900,
+      "name": "Naila Schuberth",
+      "character": "Toni",
+      "profilePath": "/evYmtGc11LWZNlwSUeBun4w0yOu.jpg",
+      "order": 4
+    },
+    {
+      "id": "7a5c4bd2-e94b-4cc2-8d17-ccebdef4f0e3",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbPersonId": 3003092,
+      "name": "Josephine Thiesen",
+      "character": "",
+      "profilePath": "/1YThG6A6GDI5sgUfxKOjZvWmKlE.jpg",
+      "order": 5
+    },
+    {
+      "id": "0ef91a21-7dfb-42b7-b1c6-e9da63205959",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbPersonId": 35382,
+      "name": "Matthias Brandt",
+      "character": "",
+      "profilePath": "/4hsgiicaXbQvgUkyWmTlaSTqk91.jpg",
+      "order": 6
+    },
+    {
+      "id": "be369a36-dc3b-4ddc-b840-8d304025f035",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbPersonId": 15483,
+      "name": "Anna Schudt",
+      "character": "",
+      "profilePath": "/5b8DG26iAbZmAzgOapN0N46tSye.jpg",
+      "order": 7
+    },
+    {
+      "id": "c92821e3-7671-4a24-800b-a20bef892e97",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbPersonId": 1366985,
+      "name": "Michael Klammer",
+      "character": "",
+      "profilePath": "/u47AlkNpQm0AMr9zY1DnFqXQJxW.jpg",
+      "order": 8
+    },
+    {
+      "id": "77facea3-d34a-40c1-8b5c-abddbf9f54fb",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbPersonId": 2961258,
+      "name": "Malaya Stern Takeda",
+      "character": "",
+      "profilePath": "/yWTDo2UTmW83Tq68j4miBIDhuq4.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "91a2ce55-1544-413f-b7c8-e1fbb2bd0101",
+      "tvSeriesId": "dd53ca45-d9f9-4782-8697-65da2eb28865",
+      "tmdbId": 440436,
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
+      "airDate": "2026-10-13",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-10-14T04:52:34.977Z",
+      "updatedAt": "2026-10-14T04:53:11.933Z"
+    }
+  ]
+}

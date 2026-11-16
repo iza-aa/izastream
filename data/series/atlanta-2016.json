@@ -1,0 +1,180 @@
+{
+  "slug": "atlanta-2016",
+  "id": "5151055a-bba6-426d-ba3a-42806da4c667",
+  "title": "Atlanta",
+  "overview": "Two cousins work through the Atlanta music scene in order to better their lives and the lives of their families.",
+  "tagline": "A side of the city you've never seen.",
+  "posterPath": "/pEj6EyG0RiLup2lWVnhmBYya5AA.jpg",
+  "backdropPath": "/xPqStbj9FUlqtEvGBRlhuJzyWnO.jpg",
+  "logoPath": "/sKabvFrND1dh0rI7MJBZRP8HZdD.png",
+  "firstAirDate": "2016-09-06",
+  "voteAverage": "8.04",
+  "numberOfSeasons": 4,
+  "numberOfEpisodes": 41,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "63a8c6f1-93b3-4f94-b365-20f50163a000",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbPersonId": 119589,
+      "name": "Donald Glover",
+      "character": "Earnest 'Earn' Marks",
+      "profilePath": "/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg",
+      "order": 0
+    },
+    {
+      "id": "80b49369-1a7b-4b9d-9d30-cc0232023e13",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbPersonId": 226366,
+      "name": "Brian Tyree Henry",
+      "character": "Alfred 'Paper Boi' Miles",
+      "profilePath": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg",
+      "order": 1
+    },
+    {
+      "id": "80042170-e56f-48c3-9107-cf09ddd27057",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbPersonId": 1200864,
+      "name": "LaKeith Stanfield",
+      "character": "Darius Epps",
+      "profilePath": "/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg",
+      "order": 2
+    },
+    {
+      "id": "c191641b-3866-49fc-9e55-63b0b899cb8d",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbPersonId": 1545693,
+      "name": "Zazie Beetz",
+      "character": "Vanessa 'Van' Keefer",
+      "profilePath": "/ijrT4pvALvxU0gphea4YxDnDh6e.jpg",
+      "order": 3
+    },
+    {
+      "id": "7c3c572e-6fb0-439d-8102-eccd50e7a162",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbPersonId": 1755293,
+      "name": "Aaron Tyler",
+      "character": "Event Staff (uncredited)",
+      "profilePath": "/68K4qaa0Cnc2HJfJ2WLwQw7vsWZ.jpg",
+      "order": 500
+    },
+    {
+      "id": "83eb7e8d-4f48-4a88-8ded-170d5f45c59a",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbPersonId": 1689401,
+      "name": "Candace B. Harris",
+      "character": "Fast Food Cashier",
+      "profilePath": "/hs961wGb2DC7fACEOwSIYeAQeLy.jpg",
+      "order": 501
+    },
+    {
+      "id": "17268d97-0272-4477-8a51-b0d87f0b767b",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbPersonId": 210346,
+      "name": "Keena Ferguson",
+      "character": "Crystal",
+      "profilePath": "/3YEiCsEaQnh7nwANJ9KxN7BlvRP.jpg",
+      "order": 502
+    },
+    {
+      "id": "e83bf4ee-d4eb-4ff6-93f2-f0c2c33c094f",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbPersonId": 58926,
+      "name": "Katt Williams",
+      "character": "Uncle Willy",
+      "profilePath": "/fYnrBTxywuWTHqoRkXj1lEvcNaO.jpg",
+      "order": 503
+    },
+    {
+      "id": "35820f1b-f490-4ddb-be12-ffd072ba03e0",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbPersonId": 2057959,
+      "name": "Austin Lowe",
+      "character": "Chris",
+      "profilePath": "/iePmySLjpsr9lHn63RlEh4FKw83.jpg",
+      "order": 504
+    },
+    {
+      "id": "c63d5c5b-5f32-4571-a558-ec5332722a07",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbPersonId": 2057974,
+      "name": "Nadjah Dabney",
+      "character": "Driver",
+      "profilePath": "/dMHB0WQbs2OE2XmisvbiPL6OFBW.jpg",
+      "order": 505
+    }
+  ],
+  "seasons": [
+    {
+      "id": "bbcda33e-4758-4115-9459-4f227a4e92d8",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbId": 74333,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Cousins Earnest \"Earn\" Marks and Alfred \"Paper Boi\" Miles work through the Atlanta music scene to better their lives and their families'.",
+      "posterPath": "/hPfdZeAk5oPveXMaJxKpjDCarP7.jpg",
+      "airDate": "2016-09-06",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-15T19:59:08.037Z",
+      "updatedAt": "2026-09-15T20:02:39.191Z"
+    },
+    {
+      "id": "b5094646-18a0-4999-8bc5-616a0c73e566",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbId": 97536,
+      "seasonNumber": 2,
+      "name": "Robbin' Season",
+      "overview": "Season Two takes place during a time when the city Earn and Alfred aka Paper Boi is going through some changes. \"Robbin' Season\" refers to the time around Christmas when, for the first time, there is an influx of money in an impoverished area, and people are trying to get that money and also get holiday gifts — which makes people very \"tense and desperate\" and often causes crime to increase.",
+      "posterPath": "/xVmzrYFAtKzqfbweGM8KSgOiEvT.jpg",
+      "airDate": "2018-03-01",
+      "episodeCount": 11,
+      "isPublished": true,
+      "createdAt": "2026-09-15T19:59:08.037Z",
+      "updatedAt": "2026-09-15T20:02:40.831Z"
+    },
+    {
+      "id": "859ca5f1-d160-45a1-a09a-4a38fafcf3f4",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbId": 218143,
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "overview": "Taking place almost entirely in Europe, Season Three finds Earn, Alfred / ‘Paper Boi,’ Darius  and Van in the midst of a successful European tour, as the group navigates their new surroundings as outsiders, and struggle to adjust to the newfound success they had aspired to.",
+      "posterPath": "/tCeTU943Edni7MtJPkVb1uNxJUD.jpg",
+      "airDate": "2022-03-24",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-15T19:59:08.037Z",
+      "updatedAt": "2026-09-15T20:02:42.384Z"
+    },
+    {
+      "id": "e3b90eac-c9af-46ac-9672-ec6f283ea92e",
+      "tvSeriesId": "5151055a-bba6-426d-ba3a-42806da4c667",
+      "tmdbId": 301785,
+      "seasonNumber": 4,
+      "name": "Season 4",
+      "overview": "Earn, Alfred ‘Paper Boi’ Miles, Darius, and Van are back in their hometown.  But the question is, has Atlanta changed, or have they?",
+      "posterPath": "/8HZyGMnPLVVb00rmrh6A2SbK9NX.jpg",
+      "airDate": "2022-09-15",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-15T19:59:08.037Z",
+      "updatedAt": "2026-09-15T20:02:43.765Z"
+    }
+  ]
+}

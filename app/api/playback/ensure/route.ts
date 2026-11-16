@@ -54,6 +54,14 @@ export async function POST(request: Request) {
   const existing = sessionPayload(slug, episodeId);
   if (existing) return NextResponse.json(existing);
 
+  // In Vercel serverless environment without remote CDP, return fallback immediately
+  if (process.env.VERCEL && !process.env.IDLIX_CDP) {
+    return NextResponse.json(
+      { status: "fallback", error: "Vercel serverless: browser daemon offline, fallback active" },
+      { status: 200 }
+    );
+  }
+
   const kind = entry.contentType === "movie" ? "movie" : "series";
   const lockKey = `${slug}:${kind}:${episodeId ?? "default"}`;
   let pending = locks.get(lockKey);

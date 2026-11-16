@@ -1,0 +1,222 @@
+{
+  "slug": "malcolm-in-the-middle-2000",
+  "id": "0e401306-5f0f-489a-a378-edc506f5d44f",
+  "title": "Malcolm in the Middle",
+  "overview": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
+  "tagline": "Family. The weirdest people you'll ever meet.",
+  "posterPath": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg",
+  "backdropPath": "/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
+  "logoPath": "/7aXcNVcQpKYkz07j6pmwyBBiRG3.png",
+  "firstAirDate": "2000-01-09",
+  "voteAverage": "8.47",
+  "numberOfSeasons": 7,
+  "numberOfEpisodes": 151,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "054716b6-9931-43ec-909b-9cadca70690d",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbPersonId": 51391,
+      "name": "Frankie Muniz",
+      "character": "Malcolm",
+      "profilePath": "/tBckW8eJHv4vz8B3DJYH1rLAtyN.jpg",
+      "order": 0
+    },
+    {
+      "id": "23748732-a2d4-4767-a925-3d978363f621",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbPersonId": 27725,
+      "name": "Jane Kaczmarek",
+      "character": "Lois",
+      "profilePath": "/feFWEstrs4gHDIYNMACdvMGdNb9.jpg",
+      "order": 1
+    },
+    {
+      "id": "feca500b-16f0-40fe-b3e6-318d7d34669d",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbPersonId": 17419,
+      "name": "Bryan Cranston",
+      "character": "Hal",
+      "profilePath": "/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg",
+      "order": 2
+    },
+    {
+      "id": "363ea949-3d43-45fb-9272-82a1fde5cdc4",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbPersonId": 51392,
+      "name": "Justin Berfield",
+      "character": "Reese",
+      "profilePath": "/1FRN8DKGUcCSLwQlZaIpwJkk5jT.jpg",
+      "order": 3
+    },
+    {
+      "id": "fa4d9956-ef05-4ca8-abac-af989d8fc733",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbPersonId": 17190,
+      "name": "Erik Per Sullivan",
+      "character": "Dewey",
+      "profilePath": "/alyd7YBgfCCQxUuYgChifjINToT.jpg",
+      "order": 4
+    },
+    {
+      "id": "1dee2a7f-97f3-4854-908a-2338a9ef2b6e",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbPersonId": 35769,
+      "name": "Christopher Masterson",
+      "character": "Francis",
+      "profilePath": "/vDpW40I1UMul7j4ZwGylPuWHteC.jpg",
+      "order": 5
+    },
+    {
+      "id": "16e53745-bbb6-4c4c-af6b-d0e09f832180",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbPersonId": 1228714,
+      "name": "James Rodriguez",
+      "character": "Jamie",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "308c033b-0769-499f-84e5-6ee887e0989a",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbPersonId": 1228717,
+      "name": "Lukas Rodriguez",
+      "character": "Jamie",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "644f1695-0d04-4281-8e3c-3df06018ee92",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbPersonId": 1340628,
+      "name": "Kasan Butcher",
+      "character": "Joe",
+      "profilePath": "/ziPtBb3W8r0WoniqZ5RmU6Jo9VI.jpg",
+      "order": 882
+    },
+    {
+      "id": "bf9c21f8-e1ab-4713-8001-827c9e62e7f0",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbPersonId": 1473,
+      "name": "Daniel von Bargen",
+      "character": "Commandant Edwin Spangler",
+      "profilePath": "/2S03pvALrrAkXU8TdDSuYevtdBc.jpg",
+      "order": 920
+    }
+  ],
+  "seasons": [
+    {
+      "id": "5d74cb86-82ea-47de-9470-b71d5142b0b6",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbId": 5950,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Malcolm, a gifted 11-year-old with an IQ of 165, navigates life in a chaotic household with his overbearing mother Lois, quirky father Hal, and mischievous brothers Reese, Dewey, and Francis. As he adjusts to being placed in a class for gifted students, Malcolm deals with the typical trials of adolescence amidst his family’s antics.",
+      "posterPath": "/G5EFqmf5rg1fk6ZtA1cfnTiTc3.jpg",
+      "airDate": "2000-01-09",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-08-28T19:50:28.603Z",
+      "updatedAt": "2026-08-28T20:16:44.624Z"
+    },
+    {
+      "id": "21e896ef-66f2-41f2-8e8a-913061058303",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbId": 5947,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "The family’s misadventures continue as Malcolm faces new challenges at school and home. Reese explores his culinary talents, Dewey’s imagination runs wild, and Francis’s escapades at military school add to the family’s chaos.",
+      "posterPath": "/uftxEWbn3OSykTy4DX4BrdVeiuv.jpg",
+      "airDate": "2000-11-05",
+      "episodeCount": 25,
+      "isPublished": true,
+      "createdAt": "2026-08-28T19:50:28.603Z",
+      "updatedAt": "2026-08-28T20:16:46.817Z"
+    },
+    {
+      "id": "6c268a1f-14d0-4cce-bada-35a8d27a85ae",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbId": 5948,
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "overview": "Francis leaves military school to work at a resort in Alaska, encountering new challenges under his strict boss, Lavernia. Back home, Malcolm and his brothers continue to stir up trouble, leading to humorous and unpredictable situations.",
+      "posterPath": "/lfavii4Auc4DC7nNVhHO8QskthI.jpg",
+      "airDate": "2001-11-11",
+      "episodeCount": 22,
+      "isPublished": true,
+      "createdAt": "2026-08-28T19:50:28.603Z",
+      "updatedAt": "2026-08-28T20:16:48.542Z"
+    },
+    {
+      "id": "135ca60e-1a7c-4f7d-b1fc-5d8f4e9cf622",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbId": 5945,
+      "seasonNumber": 4,
+      "name": "Season 4",
+      "overview": "The family dynamics shift with the arrival of baby Jamie. Malcolm navigates teenage life, including romantic interests and school pressures, while Hal and Lois juggle parenting their growing brood.",
+      "posterPath": "/4nYINLSqOB6T3tV9OX6VAF1Xy1Q.jpg",
+      "airDate": "2002-11-03",
+      "episodeCount": 22,
+      "isPublished": true,
+      "createdAt": "2026-08-28T19:50:28.603Z",
+      "updatedAt": "2026-08-28T20:16:50.321Z"
+    },
+    {
+      "id": "edd3658d-6c76-4977-b858-8c6d92341e31",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbId": 5949,
+      "seasonNumber": 5,
+      "name": "Season 5",
+      "overview": "Malcolm and his brothers find themselves in various predicaments, from neighborhood block parties to school projects gone awry. Francis’s life on the ranch presents its own set of challenges, adding to the family’s ongoing adventures.",
+      "posterPath": "/dF9Q0J90Lfswj30OHPOySZPwAg0.jpg",
+      "airDate": "2003-11-02",
+      "episodeCount": 22,
+      "isPublished": true,
+      "createdAt": "2026-08-28T19:50:28.603Z",
+      "updatedAt": "2026-08-28T20:16:51.941Z"
+    },
+    {
+      "id": "a9f328a0-8828-4b24-aca7-4c6c391b22b0",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbId": 5944,
+      "seasonNumber": 6,
+      "name": "Season 6",
+      "overview": "As Malcolm enters his senior year, he faces the pressures of impending adulthood. Reese and Dewey continue their usual antics, and Hal and Lois deal with the complexities of raising their unconventional family.",
+      "posterPath": "/i1gHRFFEcPVcnmwQXEwnU9X9pfa.jpg",
+      "airDate": "2004-11-07",
+      "episodeCount": 22,
+      "isPublished": true,
+      "createdAt": "2026-08-28T19:50:28.603Z",
+      "updatedAt": "2026-08-28T20:16:53.647Z"
+    },
+    {
+      "id": "85753696-051a-4df5-baef-acce74fb687c",
+      "tvSeriesId": "0e401306-5f0f-489a-a378-edc506f5d44f",
+      "tmdbId": 5946,
+      "seasonNumber": 7,
+      "name": "Season 7",
+      "overview": "In the final season, Malcolm prepares for graduation and contemplates his future. The family’s journey culminates in a series of events that highlight their growth, resilience, and the enduring bond that holds them together.",
+      "posterPath": "/uLv7ysyJZVAZWIADKJISYUX0B1Y.jpg",
+      "airDate": "2005-09-30",
+      "episodeCount": 22,
+      "isPublished": true,
+      "createdAt": "2026-08-28T19:50:28.603Z",
+      "updatedAt": "2026-08-28T20:16:55.400Z"
+    }
+  ]
+}

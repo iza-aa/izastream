@@ -1,0 +1,131 @@
+{
+  "slug": "my-only-sunshine-2026",
+  "id": "649b9625-958a-433c-b16d-d77fc9af860d",
+  "title": "My Only Sunshine",
+  "overview": "When Sun’s love, Rafah, falls for a famous actress, she dives into the entertainment world, where ambition, romance, and rivalry blur the lines between dreams and desire.",
+  "tagline": null,
+  "posterPath": "/qKvkzMcMyJqwfXJ1Yf8htggdOtE.jpg",
+  "backdropPath": "/t9Xkzc5AqM7uGydyMmLaipe73QX.jpg",
+  "logoPath": "/oNFSOQ11xuaR7o6sBRaG743WG9a.png",
+  "firstAirDate": "2026-02-25",
+  "voteAverage": "6.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 11,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2f877fda-9231-471a-b484-12f081ed41e0",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbPersonId": 4350741,
+      "name": "Aphichaya Kamnoetsirikun",
+      "character": "'Flint' Rafa",
+      "profilePath": "/5lHOdjKQoGmMwIerXnIeaIZCCka.jpg",
+      "order": 0
+    },
+    {
+      "id": "363874b8-4a50-44de-a1b4-ee6826e72e85",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbPersonId": 4995172,
+      "name": "Siripath Sarakune",
+      "character": "'Sun' Athita",
+      "profilePath": "/byguJmjoTJFAoqwc5cyR2g1BIEy.jpg",
+      "order": 1
+    },
+    {
+      "id": "4d6831f9-1caf-459a-a773-96d32405dfc6",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbPersonId": 4366430,
+      "name": "Danita Choktadaporn",
+      "character": "Irin",
+      "profilePath": "/92m0tAZcMCFJdlUeP9QIQbL6GFF.jpg",
+      "order": 2
+    },
+    {
+      "id": "f2da2efb-08ee-4512-93f6-e27e347858a5",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbPersonId": 5250698,
+      "name": "Deviyabha Uddhachandra",
+      "character": "Peach",
+      "profilePath": "/lNfmhZlq0hx0MPJnXchyaj97GZ2.jpg",
+      "order": 3
+    },
+    {
+      "id": "4295bbf2-4944-4f36-9009-4466c1a60bc1",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbPersonId": 4514957,
+      "name": "Pataravadee Thitivoodtikul",
+      "character": "Fay",
+      "profilePath": "/5uf3MHwWGMTgXfDCiEsdgCisun7.jpg",
+      "order": 4
+    },
+    {
+      "id": "48aeaf30-3a7a-4a6c-9c0a-7e6414096b05",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbPersonId": 5250701,
+      "name": "Dangtawan Ho",
+      "character": "Mu Ham",
+      "profilePath": "/q3eVMkDIOF3xayRGlxJh60K7YcL.jpg",
+      "order": 5
+    },
+    {
+      "id": "011e1cd7-6cb7-425d-a893-6d4296f0b82b",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbPersonId": 5250703,
+      "name": "Supatsorn Suriyakul",
+      "character": "Natcha",
+      "profilePath": "/54zqUeBwCmSSxhk7JuYiPKnhYEx.jpg",
+      "order": 6
+    },
+    {
+      "id": "98c4224d-84f6-4b25-9f13-6e2182bb2e98",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbPersonId": 5437482,
+      "name": "Parima Peamkaroonrath",
+      "character": "Cute",
+      "profilePath": "/bs5M7q8yviFdzetSQMhHkXmQaoi.jpg",
+      "order": 7
+    },
+    {
+      "id": "b549f58e-bc79-4d08-ba30-a96716a9da0b",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbPersonId": 5938712,
+      "name": "Chotiros Srimongkol",
+      "character": "Maya",
+      "profilePath": "/sqHq75DersvB57ECzfYPPcHArxG.jpg",
+      "order": 8
+    },
+    {
+      "id": "93c9325c-dc5d-484f-bb20-3907959f221b",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbPersonId": 4699173,
+      "name": "Wacharanon Seeduan",
+      "character": "Win",
+      "profilePath": "/voQiabeVFRu6RKwBgB9RrQgA9wW.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "53491e1e-8a2a-4355-8c4f-338464aa0ecb",
+      "tvSeriesId": "649b9625-958a-433c-b16d-d77fc9af860d",
+      "tmdbId": 427763,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/fezYDAVpseRTI7qKTUA6xiWcaHU.jpg",
+      "airDate": "2026-02-25",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-05-23T06:38:37.958Z",
+      "updatedAt": "2026-05-23T06:40:03.723Z"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "past-life-present-love-2024",
+  "id": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+  "title": "Past Life, Present Love",
+  "overview": "After a family emergency forces Mild to end her engagement and rush home, a car crash unexpectedly brings back her lost love with a bizarre twist.",
+  "tagline": null,
+  "posterPath": "/cPdX87SqdeJYvakekZTiAckxn68.jpg",
+  "backdropPath": "/kSb9PBuaQEsGzO4vlcrWvqBnPnC.jpg",
+  "logoPath": "/1B7UERhfdbySCUDwkwCtrmWc1GY.png",
+  "firstAirDate": "2024-09-23",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7e164700-5087-4a7b-b4b0-08785dc8c339",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbPersonId": 2088429,
+      "name": "Thanapat Kawila",
+      "character": "Theethat",
+      "profilePath": "/ipYSLweZmM4WkaPG9VnIjVANrg4.jpg",
+      "order": 0
+    },
+    {
+      "id": "92ee3887-6c5c-4ca2-947c-fa169682a6dc",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbPersonId": 1259628,
+      "name": "Pechaya Wattanamontree",
+      "character": "Mild",
+      "profilePath": "/cQDRSAMmtA3PeUDS7XF15sDUzbO.jpg",
+      "order": 1
+    },
+    {
+      "id": "8aed76dc-3438-44b2-bc76-ce264da5cb92",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbPersonId": 565528,
+      "name": "Sinjai Plengpanich",
+      "character": "Rampha",
+      "profilePath": "/aKhbILxNLfWjSUa2WPMU5Jjd7yA.jpg",
+      "order": 2
+    },
+    {
+      "id": "90180db6-d4e5-495c-b20f-8f2a34363088",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbPersonId": 3841505,
+      "name": "Nattaya Thongsaen",
+      "character": "Emika",
+      "profilePath": "/dZSJJqCPHadHlZ4ReVZAth2GdIN.jpg",
+      "order": 3
+    },
+    {
+      "id": "49f5ceec-fead-4f5f-9719-bd93e6dd15eb",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbPersonId": 1338440,
+      "name": "Jaron Sorat",
+      "character": "Non",
+      "profilePath": "/gR2Pe8hU6OItMONH0mksQnNMkUx.jpg",
+      "order": 4
+    },
+    {
+      "id": "0d79da7f-1672-4180-a062-91f66c68d249",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbPersonId": 2602117,
+      "name": "Phollawat Manuprasert",
+      "character": "Pramot",
+      "profilePath": "/dINspxsEyG554WJHfii2YeeHdwy.jpg",
+      "order": 5
+    },
+    {
+      "id": "0535af4f-dd3e-403a-bd1a-7e73a3d33eb1",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbPersonId": 4212079,
+      "name": "Kittipol Kesmanee",
+      "character": "Songsin",
+      "profilePath": "/uvbbXOVu1tc2wVEAt3ObYbUQjLw.jpg",
+      "order": 6
+    },
+    {
+      "id": "7333aa49-7930-4fa1-b6c5-1b1f5a85cfce",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbPersonId": 2373088,
+      "name": "Yuranunt Pamornmontri",
+      "character": "Thana",
+      "profilePath": "/1eGjnVBcyYspcUJSx1Z0qYr6L4F.jpg",
+      "order": 7
+    },
+    {
+      "id": "74075939-4ce2-4b80-a81b-c1cbd56e2fc7",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbPersonId": 2602114,
+      "name": "Sawanya Paisarnpayak",
+      "character": "Alisa",
+      "profilePath": "/f4VsAjndbkTWU1M55tWK8eqIMH0.jpg",
+      "order": 8
+    },
+    {
+      "id": "9edf75ab-b650-4da5-84b1-df511923f0c0",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbPersonId": 1286041,
+      "name": "Pharunyoo Rojanawuttitham",
+      "character": "Phasu",
+      "profilePath": "/bHggFJllwGqgHscLC0Oq8aU3LC6.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1706a02b-3fe0-40f3-a745-26976d455d68",
+      "tvSeriesId": "155e2d75-b7fd-45c9-89f1-63f3bf165425",
+      "tmdbId": 382121,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "After a family emergency forces Mild to end her engagement and rush home, a car crash unexpectedly brings back her lost love with a bizarre twist.",
+      "posterPath": "/oGN1Q6cShjjGDtTVGp6PPROpve.jpg",
+      "airDate": "2024-09-23",
+      "episodeCount": 23,
+      "isPublished": true,
+      "createdAt": "2026-10-07T08:27:20.334Z",
+      "updatedAt": "2026-10-07T08:51:32.560Z"
+    }
+  ]
+}

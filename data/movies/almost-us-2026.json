@@ -1,0 +1,247 @@
+{
+  "slug": "almost-us-2026",
+  "id": "554e400f-d6f4-4aac-b211-21e10061ba78",
+  "tmdbId": 1600338,
+  "imdbId": "tt39734954",
+  "title": "Almost Us",
+  "originalTitle": "Almost Us",
+  "overview": "RR has always been in love with his best friend, Janine. But she's infatuated with Kenzo, the star of her own fan fiction. When he finds a way for Janine to meet Kenzo, will he risk his own happiness just for her to have her own happiness?",
+  "tagline": null,
+  "posterPath": "/gQurSKUKrCFHa90ydVJRtSMyjLB.jpg",
+  "backdropPath": "/hvRkyD3qMS982jSP5GhfGzHPFKa.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/hvRkyD3qMS982jSP5GhfGzHPFKa.jpg",
+    "/uTNKcxGc7YeViSovcJ0UNPeiUuW.jpg"
+  ],
+  "releaseDate": "2026-05-06",
+  "runtime": 102,
+  "voteAverage": "10.00",
+  "popularity": null,
+  "popularityScore": 267,
+  "originalLanguage": "tl",
+  "country": "PH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=7Syb_uhtdN0",
+  "quality": "WEB-DL",
+  "director": "Dan Villegas",
+  "directorTmdbId": 1193499,
+  "directorProfilePath": "/nmeTwVZAAm4iClWYo8cwv83HhAH.jpg",
+  "productionCompanies": [
+    {
+      "id": 97110,
+      "name": "Project 8 Projects",
+      "logo_path": "/1toa2pYfVKn3EyIJv2S8yC4ADbX.png"
+    },
+    {
+      "id": 8238,
+      "name": "Regal Entertainment",
+      "logo_path": "/3f3SS3sep9V3Nf7RAxNd5UUEw1E.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 324429,
+      "name": "romantic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 11882,
+  "watchlistCount": 71,
+  "favouriteCount": 18,
+  "shareCount": 7,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-10T05:16:59.471Z",
+  "updatedAt": "2026-09-10T05:17:07.781Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "eb714a29-1d74-4d41-a5ca-828fc82b7838",
+      "movieId": "554e400f-d6f4-4aac-b211-21e10061ba78",
+      "tmdbPersonId": 5258444,
+      "name": "JM Ibarra",
+      "character": "RR",
+      "profilePath": "/7W330cXLM7QCrjyyHUn7MBvyRQ5.jpg",
+      "order": 0
+    },
+    {
+      "id": "3dc87d47-b9d0-4af1-98d7-f54d3b94f6e3",
+      "movieId": "554e400f-d6f4-4aac-b211-21e10061ba78",
+      "tmdbPersonId": 5258443,
+      "name": "Fyang Smith",
+      "character": "Janine",
+      "profilePath": "/dQTvoTw9v3Y4PKHcIR64PNnAtI1.jpg",
+      "order": 1
+    },
+    {
+      "id": "7c1923ed-34c1-44de-888c-ac565f994d94",
+      "movieId": "554e400f-d6f4-4aac-b211-21e10061ba78",
+      "tmdbPersonId": 3820819,
+      "name": "Yukii Takahashi",
+      "character": "",
+      "profilePath": "/aVgo9kLgg0dlfs2dKiAwcizMHs1.jpg",
+      "order": 2
+    },
+    {
+      "id": "b702c839-321a-49a4-a6a5-8f91aec3097b",
+      "movieId": "554e400f-d6f4-4aac-b211-21e10061ba78",
+      "tmdbPersonId": 4785067,
+      "name": "Sam Samarita",
+      "character": "",
+      "profilePath": null,
+      "order": 3
+    },
+    {
+      "id": "f0e55621-1cf4-4cbb-b01c-31144b8e3ed5",
+      "movieId": "554e400f-d6f4-4aac-b211-21e10061ba78",
+      "tmdbPersonId": 1858847,
+      "name": "JM Salvado",
+      "character": "",
+      "profilePath": "/4P3gUlScvsAV4MOQPZUJrbuGBww.jpg",
+      "order": 4
+    },
+    {
+      "id": "8dd9265b-b620-4c48-923c-db5da2172175",
+      "movieId": "554e400f-d6f4-4aac-b211-21e10061ba78",
+      "tmdbPersonId": 5855689,
+      "name": "Baus Rufo",
+      "character": "",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "19533be3-7c17-408b-8ce4-c9ccc9ee6aad",
+      "movieId": "554e400f-d6f4-4aac-b211-21e10061ba78",
+      "tmdbPersonId": 1349625,
+      "name": "Che Ramos",
+      "character": "",
+      "profilePath": "/eay1HacUgiJFur7tzVYVIpfauaW.jpg",
+      "order": 6
+    },
+    {
+      "id": "0fadf84c-f13f-441c-8608-8437f127b6c3",
+      "movieId": "554e400f-d6f4-4aac-b211-21e10061ba78",
+      "tmdbPersonId": 1490437,
+      "name": "Lotlot Bustamante",
+      "character": "",
+      "profilePath": "/gFpF5BTN99Y4X2EiwquiLP4lSto.jpg",
+      "order": 7
+    },
+    {
+      "id": "4f5e99fb-a9f2-4c9a-a3a7-476f72d952c1",
+      "movieId": "554e400f-d6f4-4aac-b211-21e10061ba78",
+      "tmdbPersonId": 4278180,
+      "name": "Dustin Yu",
+      "character": "Kenzo",
+      "profilePath": "/15Xb6Jdc9b7SBAOhsi9LJstrVl.jpg",
+      "order": 8
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "chasing-love-2026",
+  "id": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+  "title": "Chasing Love",
+  "overview": "Song, a hot nerd and food researcher, arranged a one-night stand with a mysterious woman under a strict condition: no strings attached. However, the other party broke the terms, asking for an emotional connection. Song ended the steamy encounter and walked away.\n\nBut the world really is round. That woman turned out to be Piangrawin—the daughter of the president of the company where Song worked. And Piangrawin wasn’t letting go easily. She pursued her with puppy-like devotion, entangling Song's heart and routine with reckless charm. She even claimed she’d already named their future child.",
+  "tagline": null,
+  "posterPath": "/qcAnXu9nUJgtnesr6M12xAduJOz.jpg",
+  "backdropPath": "/1gai54mpPozYCFCv1PlY94KPIvI.jpg",
+  "logoPath": "/kAulhXfyYpRrAM67ZiuC1SmCJ4b.png",
+  "firstAirDate": "2026-05-29",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "822bb7ee-d8fd-4deb-890f-c71a39db0d83",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbPersonId": 5968590,
+      "name": "Chanidapa Sommitthanakul",
+      "character": "Song",
+      "profilePath": "/rQuIhDSrpywfE4xjXDeRbBpryiJ.jpg",
+      "order": 0
+    },
+    {
+      "id": "2c6bc3dd-3464-45db-a581-b26e45a3c6ea",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbPersonId": 5968592,
+      "name": "Natchaya Vongbut",
+      "character": "Piangrawin",
+      "profilePath": "/kTpM37sxBbs50iIaAAd1hx9A0RN.jpg",
+      "order": 1
+    },
+    {
+      "id": "2bf44b31-23ba-4359-85e3-fe885709e3cd",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbPersonId": 5896612,
+      "name": "Apisara Lertwisettheerakul",
+      "character": "Ploy",
+      "profilePath": "/pkLROUEwRPNMqrGdeQq2RdyTAsB.jpg",
+      "order": 2
+    },
+    {
+      "id": "5919ae11-db00-4e3c-904e-8eb3303d9fd8",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbPersonId": 4718095,
+      "name": "Onnalin Lilaburanathanakun",
+      "character": "Ple",
+      "profilePath": "/jPRI2mQoVPpwSmqoYdS5I8t27OI.jpg",
+      "order": 3
+    },
+    {
+      "id": "49d82ff5-8c2e-4d99-98fa-c7bd08256e2d",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbPersonId": 2190304,
+      "name": "Sirinart Sugandharat",
+      "character": "Matmi",
+      "profilePath": "/tTPmjfr3dmW5p9GHfivzMHswlrN.jpg",
+      "order": 4
+    },
+    {
+      "id": "f81c358a-e2ea-4521-815e-3b64499c59a8",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbPersonId": 5788673,
+      "name": "Nuttharat Papirom",
+      "character": "Rin",
+      "profilePath": "/aDa1dNHZGmc6XHRboSjsycLTgYQ.jpg",
+      "order": 5
+    },
+    {
+      "id": "7fa9bb6a-ff9c-4a25-81b7-7b62b5d5b93e",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbPersonId": 1340823,
+      "name": "Duangdao Jarujinda",
+      "character": "Duangphamorn [The Chatphimuk matriarch]",
+      "profilePath": "/ZjoEby9ezDvnxcwHl1QyGA7nyX.jpg",
+      "order": 6
+    },
+    {
+      "id": "a2f6320f-b79b-41db-9eea-01487906a0a6",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbPersonId": 1336416,
+      "name": "Duangjai Hathaikarn",
+      "character": "Salika [Song's grandmother]",
+      "profilePath": "/p2JR61KtL93QwGJjwzxbdtQRrW1.jpg",
+      "order": 7
+    },
+    {
+      "id": "b3de033c-bc41-4e6e-85f0-c3af06a4bafd",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbPersonId": 3306192,
+      "name": "Tewin Surachardkait",
+      "character": "",
+      "profilePath": "/fhHj8A9mSZaWRA15Lxvw45i3pcB.jpg",
+      "order": 8
+    },
+    {
+      "id": "7e63ecea-99a4-420f-8dac-0027ab111329",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbPersonId": 6021246,
+      "name": "Thitaree Paksirichayanon",
+      "character": "",
+      "profilePath": "/kxQNk8cBOW43atgTW6D1C7c2Emf.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "733c60e3-1070-464b-8476-d1f1b425fd0c",
+      "tvSeriesId": "b20fb9b4-08ea-4ec2-b0a6-665422c5fe90",
+      "tmdbId": 497554,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/qcAnXu9nUJgtnesr6M12xAduJOz.jpg",
+      "airDate": "2026-05-29",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-07-18T05:25:54.566Z",
+      "updatedAt": "2026-07-18T05:29:21.093Z"
+    }
+  ]
+}

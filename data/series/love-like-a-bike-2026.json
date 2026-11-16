@@ -1,0 +1,145 @@
+{
+  "slug": "love-like-a-bike-2026",
+  "id": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+  "title": "Love Like a Bike",
+  "overview": "Three brothers running a bike cafe embark on a cycling journey to heal past traumas and find love in the sun-drenched streets of Pattaya.",
+  "tagline": "Ready to love?",
+  "posterPath": "/j9rOVTr82lppG50UX5DzNuogO5m.jpg",
+  "backdropPath": "/uDl0O11G4ZJolJR5j2W5GdSCOv2.jpg",
+  "logoPath": "/of7xQT6s74iatg0Dqo5nSlgnS6f.png",
+  "firstAirDate": "2026-03-02",
+  "voteAverage": "7.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 10,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ffb008c3-6a1c-4066-be4a-44ec2052e289",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbPersonId": 1833041,
+      "name": "Thanapon Jarujitranon",
+      "character": "Sailom",
+      "profilePath": "/hHc5xaj3Fww9iPjZ29aOTfWEOKh.jpg",
+      "order": 0
+    },
+    {
+      "id": "2753ec01-c5e7-4ef3-b062-eb1a78d7997c",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbPersonId": 1644138,
+      "name": "Masu Junyangdikul",
+      "character": "Nubnueng",
+      "profilePath": "/zEyJF6chyZhjmNR4dc4RaoMmpvh.jpg",
+      "order": 1
+    },
+    {
+      "id": "da18c8db-d461-4307-a6fd-cdeaca3d0df1",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbPersonId": 3329511,
+      "name": "Nannakun Pakapatpornpob",
+      "character": "DinDin",
+      "profilePath": "/9e16vxSKfZADALMjECJqJDKPY69.jpg",
+      "order": 2
+    },
+    {
+      "id": "a4b2337a-e578-4531-a8d7-e20f8306be43",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbPersonId": 2886524,
+      "name": "Nititorn Akkarachotsopon",
+      "character": "Tawan",
+      "profilePath": "/31XQhvkBoJRvqfGd1GST2IO4usE.jpg",
+      "order": 3
+    },
+    {
+      "id": "0fc2d9dc-391a-4d01-b62d-f9215112f37b",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbPersonId": 5075906,
+      "name": "Thanat Wanattapong",
+      "character": "Nava",
+      "profilePath": "/kkc9bo4Zxpev6UQV35xtes3OCff.jpg",
+      "order": 4
+    },
+    {
+      "id": "f8dd07a2-9541-4c3f-a9b7-652d90d90a2d",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbPersonId": 4418052,
+      "name": "Danny Luciano",
+      "character": "Sky",
+      "profilePath": "/aMOECIy1W8P6YllRJp5qLMTifN1.jpg",
+      "order": 5
+    },
+    {
+      "id": "ce7be299-62d1-4140-8b87-7a78029a96c7",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbPersonId": 4173260,
+      "name": "Nathanon Thananonchotikul",
+      "character": "Mickey",
+      "profilePath": "/6kDzp0NjswOzNtiaqWM12YRyeP.jpg",
+      "order": 6
+    },
+    {
+      "id": "144902c1-9d5b-4057-95c6-d2c7e12ad78a",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbPersonId": 5054872,
+      "name": "Teachin Paksa",
+      "character": "James",
+      "profilePath": "/c3wEyB4fHP2mmaCE9q85MEWfS7u.jpg",
+      "order": 7
+    },
+    {
+      "id": "a2b94c78-a515-4b25-9eee-6fbad0d6acb8",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbPersonId": 5081934,
+      "name": "Kanvara Baitong",
+      "character": "Lukso",
+      "profilePath": "/qHR7S132HiA1d5AlxP3oCIwtdFp.jpg",
+      "order": 8
+    },
+    {
+      "id": "1f3a2537-b33f-4ce0-aea6-31acd6fe12f4",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbPersonId": 1629442,
+      "name": "Dhanyabhorn Sondhikandha",
+      "character": "Phailin",
+      "profilePath": "/e83jbEqQiKrH5zJNWx4YHSRphX3.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "648e7b34-d210-4c22-b029-9fed4b1e5b9d",
+      "tvSeriesId": "d662ef16-ed95-4c6c-99a9-7ce62f042d78",
+      "tmdbId": 427721,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Three brothers running a bike cafe embark on a cycling journey to heal past traumas and find love in the sun-drenched streets of Pattaya.",
+      "posterPath": "/tjP9D8j2r2VOd3tNhUk5Gmy1yXN.jpg",
+      "airDate": "2026-03-02",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-05-23T16:39:11.811Z",
+      "updatedAt": "2026-05-23T16:40:06.841Z"
+    }
+  ]
+}

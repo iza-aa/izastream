@@ -1,0 +1,399 @@
+{
+  "slug": "roman-holiday-1953",
+  "id": "a13fba04-183b-4d74-9c56-c133bbc49185",
+  "tmdbId": 804,
+  "imdbId": "tt0046250",
+  "title": "Roman Holiday",
+  "originalTitle": "Roman Holiday",
+  "overview": "Overwhelmed by her suffocating schedule, touring European princess Ann takes off for a night while in Rome. When a sedative she took from her doctor kicks in, however, she falls asleep on a park bench and is found by an American reporter, Joe Bradley, who takes her back to his apartment for safety. At work the next morning, Joe finds out Ann's regal identity and bets his editor he can get exclusive interview with her, but romance soon gets in the way.",
+  "tagline": null,
+  "posterPath": "/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
+  "backdropPath": "/gzRISGjiDMj4xqYE9ES2KNIXxpo.jpg",
+  "logoPath": "/eX3vvRHZ9QIji2DHYWFe954A9eS.png",
+  "backdrops": [
+    "/gzRISGjiDMj4xqYE9ES2KNIXxpo.jpg",
+    "/n0MyuZW9WJBGCYhzhfCI3d4zlRo.jpg",
+    "/6f50k0bAekjxDvVvGC1SupJSzf4.jpg",
+    "/4psf8OdNFLVGz185HG2Z5vOYXmu.jpg",
+    "/9p2oLEbktIrmwaZWRJkUtuQiSH8.jpg",
+    "/in7WNYBki83iV1R7i46QCKXxXuC.jpg",
+    "/pecoDAQwlwxmVJE7xpZ8kgP11l9.jpg",
+    "/ct70AlkWzvBQ8wKSyIGMNzAZ2SZ.jpg",
+    "/9qYxlwnRKjc6WXoAVHl2xH9WeHK.jpg",
+    "/h9wfJiv6GqtzaSTwtN576hl0hJM.jpg"
+  ],
+  "releaseDate": "1953-08-26",
+  "runtime": 119,
+  "voteAverage": "7.89",
+  "popularity": null,
+  "popularityScore": 330,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=2vm2FdHg7Io",
+  "quality": "BLU-RAY",
+  "director": "William Wyler",
+  "directorTmdbId": 10001,
+  "directorProfilePath": "/lcuY8HJaw9FAq1osItPsiTQXLzh.jpg",
+  "productionCompanies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1691,
+      "name": "dance"
+    },
+    {
+      "id": 588,
+      "name": "rome, italy"
+    },
+    {
+      "id": 6025,
+      "name": "photography"
+    },
+    {
+      "id": 1422,
+      "name": "boat"
+    },
+    {
+      "id": 1308,
+      "name": "secret identity"
+    },
+    {
+      "id": 2051,
+      "name": "intelligence"
+    },
+    {
+      "id": 4123,
+      "name": "embassy"
+    },
+    {
+      "id": 3691,
+      "name": "forbidden love"
+    },
+    {
+      "id": 4674,
+      "name": "sightseeing"
+    },
+    {
+      "id": 4263,
+      "name": "duty"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1468,
+  "watchlistCount": 98,
+  "favouriteCount": 24,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T17:14:58.917Z",
+  "updatedAt": "2026-10-25T17:19:17.237Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "302871a7-ae1b-4eed-ab0d-bc3e49b828ec",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 8487,
+      "name": "Gregory Peck",
+      "character": "Joe Bradley",
+      "profilePath": "/8EkjKu6OJPpEwpARpxVh6yd1f9k.jpg",
+      "order": 0
+    },
+    {
+      "id": "b571c86d-aca3-4cf5-bbfa-c59f16e62a15",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 1932,
+      "name": "Audrey Hepburn",
+      "character": "Princess Ann",
+      "profilePath": "/wg3RRHA5jV755dV0ksQ9g0Nc2xE.jpg",
+      "order": 1
+    },
+    {
+      "id": "99afd6b7-253d-4387-83f5-68d11a51ea4f",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 11998,
+      "name": "Eddie Albert",
+      "character": "Irving Radovich",
+      "profilePath": "/kYAYnVuU15SHkKf6CWTNzFV27Qx.jpg",
+      "order": 2
+    },
+    {
+      "id": "5a2e031f-97ef-45bb-b741-d0220d907ba8",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 11999,
+      "name": "Hartley Power",
+      "character": "Mr. Hennessy",
+      "profilePath": "/q4v37vnq4iqkTkvzpBfLQeUjd6c.jpg",
+      "order": 3
+    },
+    {
+      "id": "82418be5-5813-45aa-83ea-214b2fa3ffc5",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 12000,
+      "name": "Harcourt Williams",
+      "character": "Ambassador",
+      "profilePath": "/oAt2rpN9lvLNkVqo7Ez33dG6kXY.jpg",
+      "order": 4
+    },
+    {
+      "id": "1042b29c-a4ae-4f8e-9473-f1eed936563f",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 12001,
+      "name": "Margaret Rawlings",
+      "character": "Countess Vereberg",
+      "profilePath": "/1G1jFDSOytz5L4g5EofO5L40enh.jpg",
+      "order": 5
+    },
+    {
+      "id": "6c52022e-2546-456b-9c29-50e7f230db2a",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 12002,
+      "name": "Tullio Carminati",
+      "character": "General Provno",
+      "profilePath": "/dMeoF46we9MvKT3vM5MU25p1skX.jpg",
+      "order": 6
+    },
+    {
+      "id": "3b545823-4004-40ec-9df1-eeb05b46630a",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 12003,
+      "name": "Paolo Carlini",
+      "character": "Mario Delani",
+      "profilePath": "/nz4Xzsyng0mfKuQK4I1aFsAmeIj.jpg",
+      "order": 7
+    },
+    {
+      "id": "43674cc1-e0fd-477b-a1ed-1db8c9f64fd9",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 12004,
+      "name": "Claudio Ermelli",
+      "character": "Giovanni",
+      "profilePath": "/gHubQDNnbK8iIvYRmXlr4ksCyjC.jpg",
+      "order": 8
+    },
+    {
+      "id": "5d1cc6f6-47ef-44db-96e9-0b88cb2fb2b0",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 12005,
+      "name": "Paola Borboni",
+      "character": "Charwoman",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "cbe533b6-c68c-446b-bacb-4e0cb6338af9",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 12006,
+      "name": "Alfredo Rizzo",
+      "character": "Cab Driver",
+      "profilePath": "/zXk9W7YeOtbdR3UzNYQAMu4paHh.jpg",
+      "order": 10
+    },
+    {
+      "id": "ba7a1740-9a8f-40ed-bd6c-392c6f773304",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 1315106,
+      "name": "Laura Solari",
+      "character": "Hennessy's Secretary",
+      "profilePath": "/apTrJOSKs5Zv6AVFFZHsiDjtAn2.jpg",
+      "order": 11
+    },
+    {
+      "id": "3683222f-14f9-41ce-9fdc-ec6ee0651759",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 1489908,
+      "name": "Gorella Gori",
+      "character": "Shoe Seller",
+      "profilePath": "/rqNl6ooawSjtm9vmJArP368l6wk.jpg",
+      "order": 12
+    },
+    {
+      "id": "4c8e326c-dadd-4ff8-b6c9-711cbe4e3016",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 1560722,
+      "name": "Armando Annuale",
+      "character": "Admiral Dancing with Princess (uncredited)",
+      "profilePath": "/NiF4XtFqIEa24fHDq3jeTHjfp9.jpg",
+      "order": 13
+    },
+    {
+      "id": "4f4b2d8c-9e7f-4504-890a-d38546ce179f",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 131306,
+      "name": "Maurizio Arena",
+      "character": "Young Boy with Car (uncredited)",
+      "profilePath": "/zeaaWwwsKojZwKPwv8MlBrb6BxP.jpg",
+      "order": 14
+    },
+    {
+      "id": "0030ed10-bc6c-459b-b6b5-be1f7daccb61",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 228864,
+      "name": "Gildo Bocci",
+      "character": "Flower Seller (uncredited)",
+      "profilePath": "/aJ9dgcPo4seK4BC5VcKjtG6Adxs.jpg",
+      "order": 15
+    },
+    {
+      "id": "439e6d5a-9821-4fc3-9541-9b723df693f8",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 39431,
+      "name": "Andrea Esterhazy",
+      "character": "Embassy Aide (uncredited)",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "159df31b-7427-4c86-b461-22142f69e8f1",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 1454254,
+      "name": "George Higgins",
+      "character": "Correspondent at Poker Game (uncredited)",
+      "profilePath": "/zkUIm9CHlw0gb7QtNOWjINdlaCg.jpg",
+      "order": 17
+    },
+    {
+      "id": "7c7034cb-e3b1-4f04-940a-b29a86b07181",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 1124231,
+      "name": "Richard McNamara",
+      "character": "Correspondent at Poker Game (uncredited)",
+      "profilePath": "/2PKcoXxsxmWHkxXyZHt06sPM0s0.jpg",
+      "order": 18
+    },
+    {
+      "id": "c32308cf-049e-4a9b-9438-d9d0e15f26c3",
+      "movieId": "a13fba04-183b-4d74-9c56-c133bbc49185",
+      "tmdbPersonId": 999782,
+      "name": "Luigi Moneta",
+      "character": "Old Man Dancing with Princess (uncredited)",
+      "profilePath": "/o42ZonJEUsVLRsdBCcUoc7I87R4.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "serviceac",
+    "displayName": "My MJ"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "the-water-2026",
+  "id": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+  "title": "The Water",
+  "overview": "When Apo Wathinwanit, the heir to the Wathin Group hotel chain, meets a troublemaker, Chonlada, the new receptionist who comes to cause chaos and change the life of a talented female executive who is always focused on work. A relationship full of tricks, between a game of hate and love, which will reach the finish line first?",
+  "tagline": null,
+  "posterPath": "/hPGRtuthwLU1uxDnV1ofiHlLaUb.jpg",
+  "backdropPath": "/dwnJMaGvRZqwZi3jKVlYvTC8ww0.jpg",
+  "logoPath": "/dEgvvfplrfcyU8LhHxELF6WEJ5Y.png",
+  "firstAirDate": "2026-03-21",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c7d9bf7d-e331-49e0-af86-2db5a3e15184",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbPersonId": 3882129,
+      "name": "Engfa Waraha",
+      "character": "'Nam' Apo Wathinwanit",
+      "profilePath": "/uShBQDEb99sWzibKUM3IfylG5Tw.jpg",
+      "order": 0
+    },
+    {
+      "id": "d5e3b250-7f3a-4bd2-9e1b-678c5deb7b45",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbPersonId": 3882126,
+      "name": "Charlotte Austin",
+      "character": "'Lada' Chonlada Khunanon",
+      "profilePath": "/c5IVqgoWZbatJkJZKLDJ9jpy5nb.jpg",
+      "order": 1
+    },
+    {
+      "id": "ab6c66ca-15e9-4963-8656-f1b8f3c864ff",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbPersonId": 4002086,
+      "name": "Thanthip Thaweesinthanat",
+      "character": "'Fah' Farin",
+      "profilePath": "/6dwsht19I5NY79z19J14Dnrmd3f.jpg",
+      "order": 2
+    },
+    {
+      "id": "8eed77ab-cf0d-4614-957b-2d00e861dde2",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbPersonId": 5680313,
+      "name": "Suchita Oxman",
+      "character": "Net",
+      "profilePath": "/6Za3Cb8wZRv8P2JLdMZqN1suyRU.jpg",
+      "order": 3
+    },
+    {
+      "id": "b2d64269-95cf-4a84-b27f-09c91f73a7a9",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbPersonId": 4887284,
+      "name": "Panichada Kongsawanya",
+      "character": "Preem",
+      "profilePath": "/mB8CBDAfvuaSr3nuCXCrfXI1WVJ.jpg",
+      "order": 4
+    },
+    {
+      "id": "1989632e-1e87-4467-883b-a966b5dae6db",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbPersonId": 2728240,
+      "name": "Chutima Sodaphak",
+      "character": "'Nus' Nussara",
+      "profilePath": "/gNmhxRkP05k5IDZGjTzkqF421eS.jpg",
+      "order": 5
+    },
+    {
+      "id": "74b409a3-7766-4162-ad3b-4451ebd999d4",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbPersonId": 3380426,
+      "name": "Sarocha Chankimha",
+      "character": "'Lom' Wayo Wathinwanit",
+      "profilePath": "/xX6EZ24ZRFp8THxrAVLkL7Z0i4R.jpg",
+      "order": 6
+    },
+    {
+      "id": "9fd19843-1186-4203-8f06-7e80842025b0",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbPersonId": 2162310,
+      "name": "Milin Watinthanakit",
+      "character": "'Fai' Atjima Wathinwanit",
+      "profilePath": "/3KhAB8S2UmhjEjmriTQv7gCaw7a.jpg",
+      "order": 7
+    },
+    {
+      "id": "3648fc3d-4e53-4745-b431-24207824701a",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbPersonId": 1834148,
+      "name": "Lapisara Intarasut",
+      "character": "'Din' Kasama Wathinwanit",
+      "profilePath": "/zGNQQWRnv0b0lmHrl4DufYufn2F.jpg",
+      "order": 8
+    },
+    {
+      "id": "6519d6c1-acf8-472a-90c7-ff1a26ee1f7a",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbPersonId": 5923572,
+      "name": "Panthita Jencharoentham",
+      "character": "'Rose' Thippapha Amornjinda",
+      "profilePath": "/ucIfsPkxeu6n0VnnjK7xKnaSdSf.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "787f7828-c77f-41d0-bd22-5488e9f0c8f3",
+      "tvSeriesId": "8ee458d6-51f2-4fe6-a845-969a637e8ec6",
+      "tmdbId": 447574,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/aJNcfoQ0vKekJCIpfGIWVk9i0Uk.jpg",
+      "airDate": "2026-03-21",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-05-17T06:31:18.863Z",
+      "updatedAt": "2026-05-17T06:33:03.924Z"
+    }
+  ]
+}

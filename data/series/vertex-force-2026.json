@@ -1,0 +1,484 @@
+{
+  "slug": "vertex-force-2026",
+  "id": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+  "tmdbId": 317259,
+  "imdbId": "tt42487863",
+  "title": "VERTEX FORCE",
+  "originalTitle": "バーテックスフォース",
+  "overview": "Akira Todo has always lived in the shadow of his sister, Haruka, who secretly wields their father’s mysterious “Engine.” But when a mysterious enemy comes for his family, Akira is forced into a battle that threatens the entire world. He may have inherited none of his father’s power, but now he must find a way to fight back. Or risk losing everything he cares about.",
+  "tagline": null,
+  "posterPath": "/zWFF0Fu10qjcoBf9Akm0ytC0o8z.jpg",
+  "backdropPath": "/wNjJs2OronJm8jK4Y35R6kjH3sy.jpg",
+  "logoPath": "/iSjwz1HozhoefU5EdRgURcDSUOG.png",
+  "backdrops": [
+    "/wNjJs2OronJm8jK4Y35R6kjH3sy.jpg",
+    "/3xQOUOz4oX1MxDl3rORrMMig3Xx.jpg"
+  ],
+  "firstAirDate": "2026-10-03",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "voteAverage": "0.00",
+  "popularity": null,
+  "popularityScore": 170,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "trailerUrl": null,
+  "status": "Returning Series",
+  "networks": [
+    {
+      "id": 343,
+      "name": "Gunma TV",
+      "logo_path": "/9rNqtDYAnD6yTOutvHI3synSEs2.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 614,
+      "name": "TOKYO MX",
+      "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 861,
+      "name": "BS11",
+      "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2478,
+      "name": "Tochigi TV",
+      "logo_path": "/2v82HpzoKRveJEJcGHkeTcktMRM.png",
+      "origin_country": "JP"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 90500,
+      "name": "Shogakukan Music & Digital Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 2883,
+      "name": "Aniplex",
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png"
+    },
+    {
+      "id": 133695,
+      "name": "U-NEXT",
+      "logo_path": "/xhbd4zDn0iJ1vwj9TcSvtAFEc6w.png"
+    },
+    {
+      "id": 43682,
+      "name": "SANKYO",
+      "logo_path": "/3OTFn2ZFNtfPdPCamfmdyrUy1fI.png"
+    },
+    {
+      "id": 157002,
+      "name": "Tokyo MX",
+      "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png"
+    },
+    {
+      "id": 118502,
+      "name": "BS11",
+      "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png"
+    },
+    {
+      "id": 3466,
+      "name": "movic",
+      "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png"
+    },
+    {
+      "id": 86839,
+      "name": "ABC Animation",
+      "logo_path": "/cnOJAkVVmKZLIzmgw4fRRZ2dctT.png"
+    },
+    {
+      "id": 81418,
+      "name": "Nagoya Broadcasting Network",
+      "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10046,
+      "name": "mecha"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    }
+  ],
+  "createdBy": [],
+  "importedBy": "1816a61f-edb4-4e70-aed6-788e8f5ab078",
+  "viewCount": 735,
+  "watchlistCount": 12,
+  "favouriteCount": 5,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T18:32:23.861Z",
+  "updatedAt": "2026-11-16T02:50:02.115Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "seasons": [
+    {
+      "id": "9b8fa32e-53a5-44e4-833c-e3bbc7db70b1",
+      "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+      "tmdbId": 506505,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/zWFF0Fu10qjcoBf9Akm0ytC0o8z.jpg",
+      "airDate": "2026-10-03",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-26T15:15:10.262Z",
+      "updatedAt": "2026-11-16T02:50:02.112Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "775e5521-a798-494f-a984-eb9e8287995b",
+      "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+      "tmdbPersonId": 1645397,
+      "name": "Makoto Koichi",
+      "character": "Akira Todo (voice)",
+      "profilePath": "/gpslQDgkGoL3Ap9QsK1nljeGPKJ.jpg",
+      "order": 0
+    },
+    {
+      "id": "98e6494c-57e6-42ea-9bb7-727b51913dc1",
+      "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+      "tmdbPersonId": 1779027,
+      "name": "Kaede Hondo",
+      "character": "Haruka Todo (voice)",
+      "profilePath": "/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg",
+      "order": 1
+    },
+    {
+      "id": "71a39be1-f789-472a-865a-40dda4e2ff4e",
+      "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+      "tmdbPersonId": 1220947,
+      "name": "Ami Koshimizu",
+      "character": "Eleanor Northbrook (voice)",
+      "profilePath": "/e5sU0stGjTMtFoj0jjHH7OFUqYC.jpg",
+      "order": 2
+    },
+    {
+      "id": "2df7036a-164f-44e2-99ba-b2f0f21f19af",
+      "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+      "tmdbPersonId": 1164931,
+      "name": "Megumi Han",
+      "character": "Lala Zudenstein (voice)",
+      "profilePath": "/cwnwrPg1YvB19TbfouC4ShGPmbQ.jpg",
+      "order": 3
+    },
+    {
+      "id": "b95679e8-c052-4697-84e1-7261561ad12f",
+      "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+      "tmdbPersonId": 1492982,
+      "name": "Rie Takahashi",
+      "character": "Yoko Nishina (voice)",
+      "profilePath": "/aeB7z0cBTASdjKOjQriBAO6hYq4.jpg",
+      "order": 4
+    },
+    {
+      "id": "b324a4eb-0430-4dc8-95a3-360640ae1257",
+      "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+      "tmdbPersonId": 2534630,
+      "name": "Kazuki Ura",
+      "character": "Alan (voice)",
+      "profilePath": "/7eUgENWREmWSMnLPUFCQhvUSpdI.jpg",
+      "order": 5
+    },
+    {
+      "id": "013ee22a-3dc6-4e29-82b3-3830c68c9df8",
+      "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+      "tmdbPersonId": 24651,
+      "name": "Nana Mizuki",
+      "character": "EDVA (voice)",
+      "profilePath": "/rQBo7HyjTIqeB7hIofb7uJFhiVs.jpg",
+      "order": 6
+    }
+  ],
+  "defaultSeason": {
+    "id": "9b8fa32e-53a5-44e4-833c-e3bbc7db70b1",
+    "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+    "tmdbId": 506505,
+    "seasonNumber": 1,
+    "name": "Season 1",
+    "overview": "",
+    "posterPath": "/zWFF0Fu10qjcoBf9Akm0ytC0o8z.jpg",
+    "airDate": "2026-10-03",
+    "episodeCount": 12,
+    "isPublished": true,
+    "createdAt": "2026-10-26T15:15:10.262Z",
+    "updatedAt": "2026-11-16T02:50:02.112Z",
+    "episodes": [
+      {
+        "id": "98b5d3d7-2678-42db-ac94-995559301159",
+        "seasonId": "9b8fa32e-53a5-44e4-833c-e3bbc7db70b1",
+        "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+        "tmdbId": 7068443,
+        "episodeNumber": 1,
+        "name": "Engine, Ignition",
+        "overview": "When the global network is disrupted, Haruka must use a power inherited from her father to protect her family.",
+        "stillPath": "/wkmBgLCbPWxQwgLNcxZFzaiJjmb.jpg",
+        "airDate": "2026-10-03",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:15:10.262Z",
+        "updatedAt": "2026-11-16T02:50:02.113Z",
+        "hasVideo": true
+      },
+      {
+        "id": "7b70ad7b-29b7-435b-b31e-f1122cd6409f",
+        "seasonId": "9b8fa32e-53a5-44e4-833c-e3bbc7db70b1",
+        "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+        "tmdbId": 7903799,
+        "episodeNumber": 2,
+        "name": "Vertex",
+        "overview": "Just after Akira's hidden power reveals itself, two unfamiliar women appear before him.",
+        "stillPath": "/9imyMMMLZmxq5MyHrW3MoxYJygS.jpg",
+        "airDate": "2026-10-10",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:15:10.262Z",
+        "updatedAt": "2026-11-16T02:50:02.113Z",
+        "hasVideo": true
+      },
+      {
+        "id": "959f80b6-3a7f-4faa-b193-8a35b9860dca",
+        "seasonId": "9b8fa32e-53a5-44e4-833c-e3bbc7db70b1",
+        "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+        "tmdbId": 7903800,
+        "episodeNumber": 3,
+        "name": "Ardent Feelings",
+        "overview": "Haruka and Akira depart for Hokkaido with Eleanor and Lala to find the fifth Vertex.",
+        "stillPath": "/w8D7EJQJSd5ly7gGVMg3vGzRIG4.jpg",
+        "airDate": "2026-10-17",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:15:10.262Z",
+        "updatedAt": "2026-11-16T02:50:02.113Z",
+        "hasVideo": true
+      },
+      {
+        "id": "7829d809-3914-47f9-9336-56c36d4a4a04",
+        "seasonId": "9b8fa32e-53a5-44e4-833c-e3bbc7db70b1",
+        "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+        "tmdbId": 7903801,
+        "episodeNumber": 4,
+        "name": "Brother and Sister",
+        "overview": "On a deserted island, Lala devises a plan to use Akira as bait to lure EDVA to them.",
+        "stillPath": "/ywrvwTF1lQXbZmg2OddKNVHzrFd.jpg",
+        "airDate": "2026-10-24",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:15:10.262Z",
+        "updatedAt": "2026-11-16T02:50:02.113Z",
+        "hasVideo": true
+      },
+      {
+        "id": "afa6af45-1208-4e24-a929-03155e446dde",
+        "seasonId": "9b8fa32e-53a5-44e4-833c-e3bbc7db70b1",
+        "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+        "tmdbId": 7903802,
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "As Lala works through the night alone to analyze the Battlenoid, the other four decide to make coffee for her.",
+        "stillPath": "/x5elk9D9mjORgklaes2vS538c6X.jpg",
+        "airDate": "2026-10-31",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:15:10.262Z",
+        "updatedAt": "2026-11-16T02:50:02.113Z",
+        "hasVideo": true
+      },
+      {
+        "id": "bb95dde3-045a-4eb4-aba8-f7194322258f",
+        "seasonId": "9b8fa32e-53a5-44e4-833c-e3bbc7db70b1",
+        "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+        "tmdbId": 7903803,
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "The five Vertex visit a populated island to buy food, but its residents have evacuated due to a typhoon.",
+        "stillPath": "/l6TJsqUOTvU5Rll45EazSgHhYCa.jpg",
+        "airDate": "2026-11-07",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:15:10.262Z",
+        "updatedAt": "2026-11-16T02:50:02.113Z",
+        "hasVideo": true
+      },
+      {
+        "id": "097716fd-1262-4d94-b01f-88a6ac048bc4",
+        "seasonId": "9b8fa32e-53a5-44e4-833c-e3bbc7db70b1",
+        "tvSeriesId": "5fec9e25-1f44-43ab-a0c2-6307e96e2a33",
+        "tmdbId": 7903804,
+        "episodeNumber": 7,
+        "name": "Episode 7",
+        "overview": "Lala comes up with a way to defeat EDVA, but putting the plan into action isn't so easy.",
+        "stillPath": "/3rAQyO1fHeVC70WPDY13hAuK2fB.jpg",
+        "airDate": "2026-11-14",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:15:10.262Z",
+        "updatedAt": "2026-11-16T02:50:10.038Z",
+        "hasVideo": true
+      }
+    ]
+  },
+  "requestedBy": null,
+  "collections": [],
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

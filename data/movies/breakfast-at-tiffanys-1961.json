@@ -1,0 +1,424 @@
+{
+  "slug": "breakfast-at-tiffanys-1961",
+  "id": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+  "tmdbId": 164,
+  "imdbId": "tt0054698",
+  "title": "Breakfast at Tiffany's",
+  "originalTitle": "Breakfast at Tiffany's",
+  "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+  "tagline": "Audrey Hepburn plays that daring, darling Holly Golightly to a new high in entertainment delight!",
+  "posterPath": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+  "backdropPath": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+  "logoPath": "/ivMDA5GLgIMfYmpnXMVbRipBKiw.svg",
+  "backdrops": [
+    "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+    "/AkE1Qi82ezyU9xUorYLXA4eMdvt.jpg",
+    "/Aic1UCFdjI7qjnYrKTAE0q7ZI5b.jpg",
+    "/xt51KynU907zIUbvs0vpUyg1rb6.jpg",
+    "/1HMoIkfVHckgXFWrabQS7uXPF3W.jpg",
+    "/wUJVYrNxfXQ3g7AmDb57pcGs9HW.jpg",
+    "/l7ryifDaGstkBC8e0QNuE4TcqyJ.jpg",
+    "/8NsBphsuPgoR0wskmCIOP6mI5zO.jpg",
+    "/j4fEmte79AWEHH3w759CtrO9gac.jpg",
+    "/cdA4zwiIPiDEBCMbfIS7V1KGE5S.jpg"
+  ],
+  "releaseDate": "1961-10-06",
+  "runtime": 115,
+  "voteAverage": "7.61",
+  "popularity": null,
+  "popularityScore": 750,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=KlZ4fYqjGJI",
+  "quality": "BLU-RAY",
+  "director": "Blake Edwards",
+  "directorTmdbId": 1927,
+  "directorProfilePath": "/tEUBu225EVmJKGxJSX936OvRet5.jpg",
+  "productionCompanies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+      "id": 11355,
+      "name": "Jurow-Shepherd",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 2038,
+      "name": "love of one's life"
+    },
+    {
+      "id": 978,
+      "name": "broken engagement"
+    },
+    {
+      "id": 977,
+      "name": "cat"
+    },
+    {
+      "id": 6197,
+      "name": "store window"
+    },
+    {
+      "id": 3170,
+      "name": "cigarette"
+    },
+    {
+      "id": 11678,
+      "name": "free spirit"
+    },
+    {
+      "id": 13028,
+      "name": "writer"
+    },
+    {
+      "id": 33626,
+      "name": "millionaire"
+    },
+    {
+      "id": 156237,
+      "name": "jewelry store"
+    },
+    {
+      "id": 157286,
+      "name": "gold digger"
+    },
+    {
+      "id": 157799,
+      "name": "older woman younger man relationship"
+    },
+    {
+      "id": 241404,
+      "name": "kept man"
+    },
+    {
+      "id": 295332,
+      "name": "rich woman"
+    },
+    {
+      "id": 295959,
+      "name": "best friends"
+    },
+    {
+      "id": 303437,
+      "name": "yellowface"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 3748,
+  "watchlistCount": 148,
+  "favouriteCount": 21,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T17:15:13.486Z",
+  "updatedAt": "2026-10-25T17:19:24.363Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e15a6e85-c3d8-42cc-b9b0-acb6377c9ebd",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1932,
+      "name": "Audrey Hepburn",
+      "character": "Holly Golightly",
+      "profilePath": "/wg3RRHA5jV755dV0ksQ9g0Nc2xE.jpg",
+      "order": 0
+    },
+    {
+      "id": "fc6fb0b1-9890-4940-a6f2-a027277c2011",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1933,
+      "name": "George Peppard",
+      "character": "Paul Varjak",
+      "profilePath": "/td2SN1HGqgGsWLi4YhReMYvH2ik.jpg",
+      "order": 1
+    },
+    {
+      "id": "953d3063-0ce5-4f3e-ad39-485b53d5e3fe",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1934,
+      "name": "Patricia Neal",
+      "character": "2E Failenson",
+      "profilePath": "/spdaTjYnm2TfYsOUYIM9zGdr4Ym.jpg",
+      "order": 2
+    },
+    {
+      "id": "0ad780c8-83b3-4da2-8424-2e40b0a3772c",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1935,
+      "name": "Buddy Ebsen",
+      "character": "Doc Golightly",
+      "profilePath": "/iY3zvIzWDhsrcYoL6jjGONp4Wjv.jpg",
+      "order": 3
+    },
+    {
+      "id": "bdd19578-9c20-4fe3-8074-19571b2ca3b6",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1936,
+      "name": "Martin Balsam",
+      "character": "O.J. Berman",
+      "profilePath": "/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg",
+      "order": 4
+    },
+    {
+      "id": "50cfd307-c291-4cd1-8353-aeca6339f846",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1942,
+      "name": "José Luis de Vilallonga",
+      "character": "José da Silva Pereira",
+      "profilePath": "/iMNDTL2oTnoqKt1SdvFA3YXLY2G.jpg",
+      "order": 5
+    },
+    {
+      "id": "a99d6733-4ff0-4d7a-a97d-c8e6ca696dd5",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1943,
+      "name": "John McGiver",
+      "character": "Tiffany's Salesman",
+      "profilePath": "/ky81gCZvR78UetAil1tAcfv07LN.jpg",
+      "order": 6
+    },
+    {
+      "id": "a91124ff-7fd0-4e48-ae29-f9ae9af62c95",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1944,
+      "name": "Alan Reed",
+      "character": "Sally Tomato",
+      "profilePath": "/ilsEwVPUTQ6f9qSdRtraGhZ5BG6.jpg",
+      "order": 7
+    },
+    {
+      "id": "3d8c170f-a3a5-4116-8d4e-a779fd4e59b3",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1945,
+      "name": "Dorothy Whitney",
+      "character": "Mag Wildwood",
+      "profilePath": "/xy09PaLivM3JFEJXyxy8iz8kLg6.jpg",
+      "order": 8
+    },
+    {
+      "id": "45634e40-070a-43e7-a25a-9c732f2e3970",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1946,
+      "name": "Beverly Powers",
+      "character": "Nightclub Stripper",
+      "profilePath": "/kaMVTp0v0hRhGyjLBZ4ezlsW6ZC.jpg",
+      "order": 9
+    },
+    {
+      "id": "33f88e31-a484-4b77-b858-3a4e0d5af8b1",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1947,
+      "name": "Stanley Adams",
+      "character": "Rusty Trawler",
+      "profilePath": "/zcOvq0nh5llUce33ozlqD8r1Eyc.jpg",
+      "order": 10
+    },
+    {
+      "id": "cb61bfa2-f172-4644-85c8-f70ab180208b",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1948,
+      "name": "Claude Stroud",
+      "character": "Sid Arbuck",
+      "profilePath": "/eIOgT3he6ZrvtudFKDBVPHl8cMi.jpg",
+      "order": 11
+    },
+    {
+      "id": "dcbe0f84-5a74-4b26-8371-3706eeff56e9",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1949,
+      "name": "Elvia Allman",
+      "character": "Librarian",
+      "profilePath": "/r8MDamNJNwi83TXXn4lt41PtmTD.jpg",
+      "order": 12
+    },
+    {
+      "id": "57c8c073-3a5e-465d-9671-3c43572549d9",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1937,
+      "name": "Mickey Rooney",
+      "character": "Mr. Yunioshi",
+      "profilePath": "/eYuayEC3xhXQf3Z1Cy6AVMEcgZb.jpg",
+      "order": 13
+    },
+    {
+      "id": "575aab3b-87af-4d76-98b3-fcc974ec77ab",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 1541923,
+      "name": "Don Anderson",
+      "character": "Bartender (uncredited)",
+      "profilePath": "/pioS7pK1czOZUyU1WyvrSrnV4CZ.jpg",
+      "order": 14
+    },
+    {
+      "id": "1f4b818e-6f79-4f90-a87d-0b2c00f71975",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 161040,
+      "name": "Al Avalon",
+      "character": "Spieler at Strip Club (uncredited)",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "65b762c1-489c-4f21-a92f-886178c6e525",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 35732,
+      "name": "Janet Banzet",
+      "character": "Woman (uncredited)",
+      "profilePath": "/fR2NHyri5nuZlrauJnJLpwK6ci9.jpg",
+      "order": 16
+    },
+    {
+      "id": "0c980d3c-0f03-44ea-babf-2cc108d59e80",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 33923,
+      "name": "Mel Blanc",
+      "character": "Holly's Drunk Visitor (voice) (uncredited)",
+      "profilePath": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+      "order": 17
+    },
+    {
+      "id": "5fb7e535-73dd-4420-8759-245396f220d4",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 2952981,
+      "name": "Joe Scott",
+      "character": "Party Guest (uncredited)",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "6ec30f08-6b5e-411d-b9ad-e2cd772c84a5",
+      "movieId": "e6ddbbfc-4330-4d56-9ae2-a16be50578f3",
+      "tmdbPersonId": 2565997,
+      "name": "Jim Michael",
+      "character": "Strip Club Patron (uncredited)",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "zoyathefirst",
+    "displayName": "Sheika Amandha"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,406 @@
+{
+  "slug": "the-last-sunrise-2026",
+  "id": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+  "tmdbId": 1516698,
+  "imdbId": "tt37654096",
+  "title": "The Last Sunrise",
+  "originalTitle": "The Last Sunrise",
+  "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+  "tagline": "One summer to feel everything.",
+  "posterPath": "/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+  "backdropPath": "/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
+  "logoPath": "/huW0TRfi1OKLbpNkb9VzU5zJVf2.png",
+  "backdrops": [
+    "/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
+    "/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
+    "/pwLmG6Vv9IMNGGzFCqa8qTUPJG.jpg",
+    "/l0pVYq6TeaC8qEovFn9yZBsAE2N.jpg",
+    "/rZfuAUL0CHcTwAXoo1LwwGx2qCb.jpg",
+    "/chX2k23ykyB6ExE9VIB8oUOg5pz.jpg",
+    "/kKRSBBHtK200kmhrZYXQr66Txva.jpg",
+    "/3QVlp3ws1wor0bUU14YzQleUX5W.jpg",
+    "/j4KaGXBJl0yTPhSMYJks7JeL1a0.jpg",
+    "/uCCwBYfALXsXNinOT7kZgwUbGQg.jpg"
+  ],
+  "releaseDate": "2026-08-26",
+  "runtime": 107,
+  "voteAverage": "8.20",
+  "popularity": null,
+  "popularityScore": 3246,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=NhI2UpkFAFw",
+  "quality": "WEB-DL",
+  "director": "Carlson Young",
+  "directorTmdbId": 965770,
+  "directorProfilePath": "/bIxM7fwCU90GzXlvvcdDwjjPX9o.jpg",
+  "productionCompanies": [
+    {
+      "id": 210099,
+      "name": "Amazon MGM Studios",
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+      "id": 158529,
+      "name": "Ethea Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 220517,
+      "name": "Luber-Roklin Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 202263,
+      "name": "Pitt Street Productions",
+      "logo_path": null
+    },
+    {
+      "id": 308708,
+      "name": "Aquarius Films",
+      "logo_path": null
+    },
+    {
+      "id": 308732,
+      "name": "The Last Sunrise",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 514,
+      "name": "spain"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 10481,
+      "name": "tension"
+    },
+    {
+      "id": 13088,
+      "name": "summer"
+    },
+    {
+      "id": 291068,
+      "name": "chronic illness"
+    },
+    {
+      "id": 325769,
+      "name": "appreciative"
+    },
+    {
+      "id": 325773,
+      "name": "audacious"
+    },
+    {
+      "id": 325784,
+      "name": "comforting"
+    },
+    {
+      "id": 325809,
+      "name": "enthusiastic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 119334,
+  "watchlistCount": 635,
+  "favouriteCount": 272,
+  "shareCount": 54,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-27T03:41:12.027Z",
+  "updatedAt": "2026-08-27T03:41:30.682Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f6c5040d-8f0d-40ed-b1d0-09f9de7fa55a",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 2071463,
+      "name": "Maia Reficco",
+      "character": "Oriah 'Ry' Pera",
+      "profilePath": "/brPJjB7K3zkqKhmKkCTr5cGZXUy.jpg",
+      "order": 0
+    },
+    {
+      "id": "cad05a2e-f87f-4f63-b62f-10f64073eddf",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 52605,
+      "name": "Eva Longoria",
+      "character": "Isolde Pera",
+      "profilePath": "/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg",
+      "order": 1
+    },
+    {
+      "id": "19d066c1-20a1-4c0b-b312-aca2b1e1fe55",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 2649290,
+      "name": "Fernando Lindez",
+      "character": "Julián",
+      "profilePath": "/quHSt84xNfEqCk9v5fv3qVxlbaX.jpg",
+      "order": 2
+    },
+    {
+      "id": "c51c94c2-1e47-4bbe-91fe-a0d7ca949376",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 2167148,
+      "name": "Chloé Sweetlove",
+      "character": "Amara",
+      "profilePath": "/pjwHAPDzyKojzK47hjZ9RNzZ1yR.jpg",
+      "order": 3
+    },
+    {
+      "id": "1bb489af-bdf8-463c-add3-54ef19432f9b",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 1121031,
+      "name": "Andrés Velencoso",
+      "character": "Mateo",
+      "profilePath": "/gzQlzEWYWDNDfAEH2pk8VR30xDe.jpg",
+      "order": 4
+    },
+    {
+      "id": "b7716f8a-4fe6-4e68-a733-95254d4f80e1",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 1587318,
+      "name": "Stefanie Martini",
+      "character": "Lena",
+      "profilePath": "/lDBFCC3JnQCd2RnZGlkVNyUvUc5.jpg",
+      "order": 5
+    },
+    {
+      "id": "407b2bca-7267-4929-9f21-51a461a8d09b",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 1379411,
+      "name": "Sabrina Bartlett",
+      "character": "Prisha",
+      "profilePath": "/qizoRuIHcKme66ASppsOliEjRmX.jpg",
+      "order": 6
+    },
+    {
+      "id": "557170b1-0146-4319-847e-92e5376c1d80",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 5321100,
+      "name": "Àlex Peracaula",
+      "character": "Carlos",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "8bfa3f95-2d24-42b8-bdbe-9f508db624c0",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 3204229,
+      "name": "Molly B. Thomas",
+      "character": "Sofia",
+      "profilePath": "/pDZvlDpuk1pz6sZ7JTYhY6WdEEQ.jpg",
+      "order": 8
+    },
+    {
+      "id": "c785a894-65fc-48ed-885c-1e0902c79c82",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 3119942,
+      "name": "Razan Nassar",
+      "character": "Chloe",
+      "profilePath": "/4PpGRgPl5glsSQaoZSLRAv4hCJW.jpg",
+      "order": 9
+    },
+    {
+      "id": "95f4ca01-575a-4696-818d-e114bf3eab90",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 17528,
+      "name": "Javier Coromina",
+      "character": "Doctor (Spain)",
+      "profilePath": "/sEC7un29W1pkYfxCMRufpSWrW42.jpg",
+      "order": 10
+    },
+    {
+      "id": "f79e3db9-1562-4bd7-8951-3b51d8f5518d",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 6437075,
+      "name": "Pedro Morla",
+      "character": "Fisherman",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "7dbf72f7-0674-464a-99b7-5eab04db80fe",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 6437077,
+      "name": "Isabelle Fournet",
+      "character": "Hotel Manager",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "49b8af74-f04a-40cc-817b-45da76aaa53e",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 6437078,
+      "name": "Josep Sanchez",
+      "character": "EMT",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "d79d6e5e-5c87-4101-8764-fbf579f5dab3",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 2090235,
+      "name": "Pedro Calvo",
+      "character": "Artist",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "2fea6852-d915-400b-8ca8-119fcd2a4a6c",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 1907736,
+      "name": "Stephan Wiks",
+      "character": "Doctor (U.S.)",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "6c00c9ea-0265-4834-bda2-7a3e9f85e8f6",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 6437081,
+      "name": "Xavi Cañellas",
+      "character": "Vendor",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "1c183b7a-3ce0-478d-b6c2-ab7dcbac0eb7",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 6437082,
+      "name": "Muminu Diallo",
+      "character": "Nurse",
+      "profilePath": "/6O5yon9q7ne5TW4gyIBLByLfnoz.jpg",
+      "order": 17
+    },
+    {
+      "id": "48df4939-99bc-482d-9f2f-19020a6c1475",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 2869562,
+      "name": "Marian Vilalta",
+      "character": "Emergency Nurse",
+      "profilePath": "/mIitfQoBbxD7EY73rqR8TB64NZP.jpg",
+      "order": 18
+    },
+    {
+      "id": "5c8e99ed-782d-4b51-8430-72a635c823e7",
+      "movieId": "e85f5d1f-15f1-4401-acbc-ed68ef310efa",
+      "tmdbPersonId": 5578718,
+      "name": "Juan Gabriel Roig",
+      "character": "Julian's Friend",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "the-trembling-of-cicada-2026",
+  "id": "30e2f2ac-e35e-4a66-a70c-d6616ce6b3e9",
+  "title": "The Trembling of Cicada",
+  "overview": "Three legal professionals with troubled pasts become entangled in complex criminal cases, where psychological warfare, hidden agendas, and long-buried secrets blur the line between hunter and prey.",
+  "tagline": null,
+  "posterPath": "/xYMrGTKKk2yBPIiJQ955tpfOGLM.jpg",
+  "backdropPath": "/32quYTPi9s0SUITI6xUVkYR1bwf.jpg",
+  "logoPath": "/a8hemvwPLyQ6uZG8WRiI2hRRcxa.png",
+  "firstAirDate": "2026-08-20",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8377155e-5740-44c4-849a-7f88ab189e02",
+      "tvSeriesId": "30e2f2ac-e35e-4a66-a70c-d6616ce6b3e9",
+      "tmdbPersonId": 1815238,
+      "name": "Zhong Chuxi",
+      "character": "Ding Ning",
+      "profilePath": "/tkEzMiPQykYsSC5wIZ9TkHs5OIg.jpg",
+      "order": 0
+    },
+    {
+      "id": "2cbec6ec-2255-47b7-bd88-eadfdb202a48",
+      "tvSeriesId": "30e2f2ac-e35e-4a66-a70c-d6616ce6b3e9",
+      "tmdbPersonId": 63584,
+      "name": "Francis Ng",
+      "character": "Yu Songfan",
+      "profilePath": "/AoIwNpo9wkDTWO86RusrAFG9hAt.jpg",
+      "order": 1
+    },
+    {
+      "id": "9756d8c7-897e-487c-abce-0b0bdc0ac8ea",
+      "tvSeriesId": "30e2f2ac-e35e-4a66-a70c-d6616ce6b3e9",
+      "tmdbPersonId": 3283116,
+      "name": "Zheng Yunlong",
+      "character": "Zhao Yijie",
+      "profilePath": "/zKlCAobEntJ3ANg1WgshCutj08U.jpg",
+      "order": 2
+    },
+    {
+      "id": "c710f8f0-b748-41aa-a524-35f94e935082",
+      "tvSeriesId": "30e2f2ac-e35e-4a66-a70c-d6616ce6b3e9",
+      "tmdbPersonId": 2407930,
+      "name": "Wu Xingjian",
+      "character": "Zhou Hao",
+      "profilePath": "/h2DP3AVrkG6AHjAwA0qF3uA9iTE.jpg",
+      "order": 3
+    },
+    {
+      "id": "7d5e576c-5480-4d98-b006-90149056addc",
+      "tvSeriesId": "30e2f2ac-e35e-4a66-a70c-d6616ce6b3e9",
+      "tmdbPersonId": 2288957,
+      "name": "Yi Daqian",
+      "character": "Fan Dong",
+      "profilePath": "/ndoTYEzy44C3Gwp8z863iALbf0u.jpg",
+      "order": 4
+    },
+    {
+      "id": "5a214508-2353-45df-8095-7b51ebca0bc5",
+      "tvSeriesId": "30e2f2ac-e35e-4a66-a70c-d6616ce6b3e9",
+      "tmdbPersonId": 1518226,
+      "name": "Han Dong",
+      "character": "",
+      "profilePath": "/85yojZHWpgEpOb8sE3VqTeuXrNq.jpg",
+      "order": 500
+    },
+    {
+      "id": "a53db4a0-c24c-4b85-8518-162f97923699",
+      "tvSeriesId": "30e2f2ac-e35e-4a66-a70c-d6616ce6b3e9",
+      "tmdbPersonId": 5036384,
+      "name": "Ye Quanxi",
+      "character": "",
+      "profilePath": "/slyOgWHtwPPB0z1v3oE8b6t369s.jpg",
+      "order": 501
+    },
+    {
+      "id": "14247ea1-fcd1-419d-a15e-49acb04996b1",
+      "tvSeriesId": "30e2f2ac-e35e-4a66-a70c-d6616ce6b3e9",
+      "tmdbPersonId": 1353664,
+      "name": "Wei Yibo",
+      "character": "",
+      "profilePath": "/bfh57S7vUK5Dzok3CTYKF78uOwo.jpg",
+      "order": 502
+    }
+  ],
+  "seasons": [
+    {
+      "id": "19398d1d-5c57-48ce-b2a8-7b9312b5eb47",
+      "tvSeriesId": "30e2f2ac-e35e-4a66-a70c-d6616ce6b3e9",
+      "tmdbId": 444170,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/nt2rrYRZZSGA43vnGyf8HMqRpHg.jpg",
+      "airDate": "2026-08-20",
+      "episodeCount": 21,
+      "isPublished": true,
+      "createdAt": "2026-09-08T16:46:10.967Z",
+      "updatedAt": "2026-09-08T16:48:35.711Z"
+    }
+  ]
+}

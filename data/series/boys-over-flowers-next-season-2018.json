@@ -1,0 +1,120 @@
+{
+  "slug": "boys-over-flowers-next-season-2018",
+  "id": "0e4b4d46-75c0-4835-8fae-9a1f06380912",
+  "title": "Boys Over Flowers: Next Season",
+  "overview": "The setting of the drama takes place 10 years after the F4 graduated from Eitoku Academy. Edogawa Oto is the daughter of a former company president. Her life completely changed after their family business went bankrupt. Her fiance is Hase Tenma, the popular student council president of the rival school. With declining enrollment due to a recession and the rise of a rival school, Eitoku Academy is now ruled by the Correct5 whose leader is Kakuragi Haruto. The group seeks out, then runs out, any students whose families haven’t made appropriate donations to the school. When Haruto and Oto discover each other’s secrets — that Haruto buys self-help items to get stronger, and that Oto is poor and works at a convenience store – they promise to keep each other’s secret.",
+  "tagline": "Boys Over Flowers 2",
+  "posterPath": "/hGznocCo5wssoQgH2cADxJ5hn1s.jpg",
+  "backdropPath": "/6KKwTSG7QmSg5duqeHO7Yk4tlTk.jpg",
+  "logoPath": null,
+  "firstAirDate": "2018-04-17",
+  "voteAverage": "7.78",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 11,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f5dd82a4-62dc-42a8-bb5b-63470a163627",
+      "tvSeriesId": "0e4b4d46-75c0-4835-8fae-9a1f06380912",
+      "tmdbPersonId": 2013493,
+      "name": "Sho Hirano",
+      "character": "Haruto Kaguragi",
+      "profilePath": "/2M9Z6G9TCKuIrgnaHaaYoc44dJL.jpg",
+      "order": 0
+    },
+    {
+      "id": "e9e7042e-0c3e-4419-bf56-cebf7f4017d7",
+      "tvSeriesId": "0e4b4d46-75c0-4835-8fae-9a1f06380912",
+      "tmdbPersonId": 1034362,
+      "name": "Tatsuomi Hamada",
+      "character": "Kaito Taira",
+      "profilePath": "/ukMeez5uM6AjwPDv7dud0uMeIKZ.jpg",
+      "order": 1
+    },
+    {
+      "id": "a9184b09-9edd-49fe-91b2-11f6cb88c85a",
+      "tvSeriesId": "0e4b4d46-75c0-4835-8fae-9a1f06380912",
+      "tmdbPersonId": 1348015,
+      "name": "Hana Sugisaki",
+      "character": "Oto Edogawa",
+      "profilePath": "/uMdZegIX39id7QdYfnYPkpdFLFo.jpg",
+      "order": 2
+    },
+    {
+      "id": "6a217966-5b7d-4386-8fa3-b701e37ca551",
+      "tvSeriesId": "0e4b4d46-75c0-4835-8fae-9a1f06380912",
+      "tmdbPersonId": 1255318,
+      "name": "Taishi Nakagawa",
+      "character": "Tenma Hase",
+      "profilePath": "/gvUJ1Ge1ERLnYwqb4cJVCXQQIYA.jpg",
+      "order": 3
+    },
+    {
+      "id": "3625cd33-a8e5-4474-9a29-3075d23500da",
+      "tvSeriesId": "0e4b4d46-75c0-4835-8fae-9a1f06380912",
+      "tmdbPersonId": 46364,
+      "name": "Shun Oguri",
+      "character": "Rui Hanazawa- Guest Role",
+      "profilePath": "/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg",
+      "order": 4
+    },
+    {
+      "id": "baa90986-7282-4591-ba78-b24ddafb4203",
+      "tvSeriesId": "0e4b4d46-75c0-4835-8fae-9a1f06380912",
+      "tmdbPersonId": 107531,
+      "name": "Jun Matsumoto",
+      "character": "Tsukasa Domyouji - Guest Role",
+      "profilePath": "/3baNO7NwuOOLMfaZfY4tt64ST3g.jpg",
+      "order": 5
+    },
+    {
+      "id": "598be980-fa8a-4498-8254-75446ac776d6",
+      "tvSeriesId": "0e4b4d46-75c0-4835-8fae-9a1f06380912",
+      "tmdbPersonId": 1919754,
+      "name": "Mio Imada",
+      "character": "Maya Airi",
+      "profilePath": "/1RiNJI6v9rBvATZ59m0CAZCFOpI.jpg",
+      "order": 6
+    },
+    {
+      "id": "4355e6e0-4903-41e2-b551-efc19cb645e6",
+      "tvSeriesId": "0e4b4d46-75c0-4835-8fae-9a1f06380912",
+      "tmdbPersonId": 2993276,
+      "name": "Ryota Nagano",
+      "character": "Eibi Sugimaru [Young]",
+      "profilePath": "/fq8kRaQxMsIMFIbJU4xF4ImKlCL.jpg",
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1f1f86ef-1abc-409d-91a4-2e11344b2f37",
+      "tvSeriesId": "0e4b4d46-75c0-4835-8fae-9a1f06380912",
+      "tmdbId": 102932,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2018-04-17",
+      "episodeCount": 11,
+      "isPublished": true,
+      "createdAt": "2026-08-27T05:36:00.273Z",
+      "updatedAt": "2026-08-27T05:37:29.927Z"
+    }
+  ]
+}

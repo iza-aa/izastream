@@ -1,0 +1,389 @@
+{
+  "slug": "mobile-suit-gundam-hathaway-the-sorcery-of-nymph-circe-2026",
+  "id": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+  "tmdbId": 910850,
+  "imdbId": "tt32915652",
+  "title": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
+  "originalTitle": "機動戦士ガンダム  閃光のハサウェイ キルケーの魔女",
+  "overview": "Haunted by past trauma, Hathaway Noa is drawn to a mysterious girl named Gigi Andalucia, whose strange powers stir memories within him. While swayed by her cryptic words, he continues preparing for Mafty's mission -- the attack on the Adelaide Conference. Meanwhile, Kenneth Sleg of the Earth Federation Forces prepares a defense operation for the Adelaide Conference and a plan to eliminate Mafty and is approached by Handley Yoxon of the Criminal Police Organization with a secret proposal. As Hathaway and Kenneth pursue their respective goals, Gigi also sets off for Hong Kong to fulfill her own role.",
+  "tagline": null,
+  "posterPath": "/6YkVpc9Dn1L2FHNlLOybpSKeGc7.jpg",
+  "backdropPath": "/4ZTD67RhUOcI8WVP1Kmd1LFFc7d.jpg",
+  "logoPath": "/eU41ncZnyB8sYytYwgSc9x7nKcw.png",
+  "backdrops": [
+    "/dp9FPgUwPc2XIXYct2cQ1PgFv7f.jpg",
+    "/4ZTD67RhUOcI8WVP1Kmd1LFFc7d.jpg",
+    "/sEuG29UN64q1X8srWK5WS6MpRM4.jpg",
+    "/14T5fKjeHaF8M7unB9Dt5vWsSlk.jpg",
+    "/sYOhcKnz6pIIAADlv7qMRTjAPHJ.jpg",
+    "/8JHwp0UyU702UC4mICBFXIdraST.jpg",
+    "/sMT7Qa2Yi4zYDdro8dXB0INP16O.jpg",
+    "/3Nj7jazpk4YxHyKeTyHssuCqgAQ.jpg"
+  ],
+  "releaseDate": "2026-01-30",
+  "runtime": 115,
+  "voteAverage": "6.90",
+  "popularity": null,
+  "popularityScore": 234,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=pD7eBqTy__E",
+  "quality": "WEB-DL",
+  "director": "Shukou Murase",
+  "directorTmdbId": 1222157,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 3153,
+      "name": "SUNRISE",
+      "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png"
+    },
+    {
+      "id": 173132,
+      "name": "Bandai Namco Filmworks",
+      "logo_path": "/yV9EORK2ZwdMg45K10PuVh6LlM3.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 10046,
+      "name": "mecha"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    },
+    {
+      "id": 211628,
+      "name": "real robot"
+    },
+    {
+      "id": 288168,
+      "name": "gundam"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 11081,
+  "watchlistCount": 106,
+  "favouriteCount": 42,
+  "shareCount": 8,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-31T20:01:56.816Z",
+  "updatedAt": "2026-08-31T20:02:09.708Z",
+  "genres": [
+    {
+      "id": "1de0078f-f038-4fba-87f2-c36e7584a1cb",
+      "tmdbId": 10752,
+      "name": "War",
+      "slug": "war",
+      "createdAt": "2026-04-02T13:49:04.263Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "659d3494-5bfa-4b64-9134-c5ec37cfda51",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 1065297,
+      "name": "Kensho Ono",
+      "character": "Hathaway Noa (voice)",
+      "profilePath": "/wUYJ3HIeygHfh4rAqupE4RPoG3W.jpg",
+      "order": 0
+    },
+    {
+      "id": "9a4398b2-787c-4dc6-8082-0917274aef9a",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 1452028,
+      "name": "Reina Ueda",
+      "character": "Gigi Andalucia (voice)",
+      "profilePath": "/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg",
+      "order": 1
+    },
+    {
+      "id": "cb5ddc79-f6fb-4b2e-8cfc-3bc821a28fac",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 9721,
+      "name": "Junichi Suwabe",
+      "character": "Kenneth Sleg (voice)",
+      "profilePath": "/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg",
+      "order": 2
+    },
+    {
+      "id": "249274b7-061c-4a03-a15a-e79023960999",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 1388751,
+      "name": "Soma Saito",
+      "character": "Lane Aim (voice)",
+      "profilePath": "/8W8Y02Jmjivw0kk5PDih9dqiyd9.jpg",
+      "order": 3
+    },
+    {
+      "id": "98ec864c-05c1-445a-8340-e69ab354fed9",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 135524,
+      "name": "Kenjiro Tsuda",
+      "character": "Gawman Nobile (voice)",
+      "profilePath": "/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg",
+      "order": 4
+    },
+    {
+      "id": "04017a3c-1204-4bb4-ba65-215318abe4ce",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 1224288,
+      "name": "Yui Ishikawa",
+      "character": "Emeralda Zubin (voice)",
+      "profilePath": "/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg",
+      "order": 5
+    },
+    {
+      "id": "1dfc5aa5-261d-4266-bbc7-a828b134bf46",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 1566511,
+      "name": "Fukushi Ochiai",
+      "character": "Raymond Cain (voice)",
+      "profilePath": "/xE2FoiUjb9N51J7jg0U8eGmfK19.jpg",
+      "order": 6
+    },
+    {
+      "id": "6d6daeab-f41e-41a7-a53e-ce5c5d9e89dd",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 1563016,
+      "name": "Shunsuke Takeuchi",
+      "character": "Iram Masam (voice)",
+      "profilePath": "/p1bD76bPptJ41mKRtv0mIr8ZcvO.jpg",
+      "order": 7
+    },
+    {
+      "id": "07a28a40-7e57-4536-a47e-88de00f08232",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 221773,
+      "name": "Saori Hayami",
+      "character": "Kelia Dace (voice)",
+      "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg",
+      "order": 8
+    },
+    {
+      "id": "ba5de369-ef56-4106-947c-f3ea79276e95",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 2440223,
+      "name": "Misato Matsuoka",
+      "character": "Mihessia Hence (voice)",
+      "profilePath": "/zSB8zgGwFGFq2EL3cWobQifsIXt.jpg",
+      "order": 9
+    },
+    {
+      "id": "2e13ca2d-3b0f-4f1f-a92d-38696d090cfe",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 1885279,
+      "name": "Kohei Amasaki",
+      "character": "Fencer Mayne (voice)",
+      "profilePath": "/tnN5jLiLjcDa7qn88uLb1iAfivL.jpg",
+      "order": 10
+    },
+    {
+      "id": "fca93491-54c7-4144-8c56-8d8820aeeba5",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 3106016,
+      "name": "Hikaru Tanaka",
+      "character": "Golf (voice)",
+      "profilePath": "/jKLQhWJ9ZW32TKK9NN3pksf39XX.jpg",
+      "order": 11
+    },
+    {
+      "id": "79522ba9-d1f4-4681-b6e8-d7584e2fd10a",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 3026022,
+      "name": "Yu Miyazaki",
+      "character": "Civet Anhern (voice)",
+      "profilePath": "/o3qDWIt80Gwx1GZcFnDR8Z6C4lM.jpg",
+      "order": 12
+    },
+    {
+      "id": "f1c792a4-d014-4d3a-b50d-fe00b48dc920",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 1991244,
+      "name": "Ryunosuke Watanuki",
+      "character": "Hendrix Hio (voice)",
+      "profilePath": "/cJBw6vHWD4u9dAdBFA7CUqKUj9A.jpg",
+      "order": 13
+    },
+    {
+      "id": "9c269e8d-2839-475d-9bd6-71b3febda083",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 3699014,
+      "name": "Shunpei Kusano",
+      "character": "Maximilian Nikolai (voice)",
+      "profilePath": "/bonc9S8NmKIU3G7BRzpA5okIeNQ.jpg",
+      "order": 14
+    },
+    {
+      "id": "5acaeb69-d99c-4842-8616-95c539d5d72b",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 2889712,
+      "name": "Anna Nagase",
+      "character": "Julia Suga (voice)",
+      "profilePath": "/748FmLCklgnN8hrlBZ4bNsF4zpk.jpg",
+      "order": 15
+    },
+    {
+      "id": "b9116c4c-24fd-4bba-9757-7c81e23e07d6",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 3181377,
+      "name": "Masaya Yamazaki",
+      "character": "Hala Morley",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "d10edb45-6960-4500-87d7-bccbe1adb4f6",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 3294723,
+      "name": "Kazuki Kyan",
+      "character": "Rod Hein (voice)",
+      "profilePath": "/jp2ULRxdlLLtpTldMTLkSFMQC7q.jpg",
+      "order": 17
+    },
+    {
+      "id": "ebdda428-27ff-47f7-bffb-712290970703",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 6130639,
+      "name": "Hinata Sato",
+      "character": "Betchy (voice)",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "c8db972d-7447-4b4e-a368-6c5c79475a90",
+      "movieId": "00f8efbd-f264-4156-8db7-091f1a12e4e0",
+      "tmdbPersonId": 2989321,
+      "name": "Shuichi Uchida",
+      "character": "Ridorick (voice)",
+      "profilePath": "/bh12DGF8laiTU58aLV2QHP8gTdC.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "vettel16",
+    "displayName": "vettel16"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

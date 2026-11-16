@@ -1,0 +1,131 @@
+{
+  "slug": "unchained-love-2022",
+  "id": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+  "title": "Unchained Love",
+  "overview": "During the reign of Long Hua, court power struggles intertwine with a forbidden romance. Xiao Duo, a formidable eunuch conspiring with Prince Fu to seize the throne, rescues Bu Yinlou, a tribute lady meant to die for the late emperor. Forced into each other’s lives, they slowly fall in love despite their unequal status. Their bond deepens on a journey to Jiangnan, but threats from rival factions, the palace, and Xiao Duo’s hidden identity place them in constant danger. Caught between love and ambition, they must navigate betrayal and sacrifice as fate pushes them toward a perilous future.",
+  "tagline": null,
+  "posterPath": "/5rVOrFXaQJYrjhU78gkK465ZGEs.jpg",
+  "backdropPath": "/rKE5OrH34U2CG5gC3PxE1eRFemC.jpg",
+  "logoPath": "/vY39P1kfIY95QiqJYAvIiroJqcZ.png",
+  "firstAirDate": "2022-12-27",
+  "voteAverage": "6.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "45bb9ff9-ddaa-441f-b9be-3d6fd958206c",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbPersonId": 2050456,
+      "name": "Dylan Wang",
+      "character": "Xiao Duo",
+      "profilePath": "/7YITQE9XpeaOIWJsV6TTzaPilSW.jpg",
+      "order": 0
+    },
+    {
+      "id": "49a8e276-34e7-40ee-9e7c-c27729cc0b89",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbPersonId": 2085448,
+      "name": "Chen Yuqi",
+      "character": "Bu Yinlou",
+      "profilePath": "/zRPQ7suBiQoCUEzt9BHtzKkxSAx.jpg",
+      "order": 1
+    },
+    {
+      "id": "ca74ef7e-93fe-4e74-a866-24bfc0d632cd",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbPersonId": 2337443,
+      "name": "Peter Ho",
+      "character": "Murong Gaogong",
+      "profilePath": "/7zXa53TqSE0jU5HWeF3K8iweC19.jpg",
+      "order": 2
+    },
+    {
+      "id": "a791b995-84b0-4048-9c6b-3f4798bd5575",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbPersonId": 2308991,
+      "name": "Zeng Li",
+      "character": "Empress Anrong",
+      "profilePath": "/zE2j5wq5X8R6ymkj6CHhbNOHUpg.jpg",
+      "order": 3
+    },
+    {
+      "id": "3333ffb5-5a5a-4541-a6fe-47ea8b6467da",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbPersonId": 2325917,
+      "name": "He Nan",
+      "character": "Tong Yun",
+      "profilePath": "/5mkgprDlDC3TwnPwa8neUBx75C2.jpg",
+      "order": 4
+    },
+    {
+      "id": "45127fea-cb91-40fc-9f15-6eb9e0dc0750",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbPersonId": 1621704,
+      "name": "Wang Yuexin",
+      "character": "Cao Chun-ang",
+      "profilePath": "/4TRMnqMLTwM5TWLQQQaenf66NTB.jpg",
+      "order": 5
+    },
+    {
+      "id": "aeda16b5-e9c8-47b7-b226-ab494e2f1ce8",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbPersonId": 2456864,
+      "name": "Guan Chang",
+      "character": "Murong Wanwan",
+      "profilePath": "/f6VPfWlvXkiok0rHSLLArCwBHNa.jpg",
+      "order": 6
+    },
+    {
+      "id": "66406394-4394-4a95-a1eb-a360d361f50a",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbPersonId": 3701723,
+      "name": "Han Yiting",
+      "character": "Yuwen Liangxu",
+      "profilePath": "/gZw940FCf7tj40dNIYMDzSbtJZ2.jpg",
+      "order": 7
+    },
+    {
+      "id": "43cf73b7-81d9-43d4-a8c2-10f8792175cd",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbPersonId": 3655504,
+      "name": "Cheng Zi",
+      "character": "Bu Yinge",
+      "profilePath": "/vBGpB3OTJ5hSaK7PbZdl7g3oz0m.jpg",
+      "order": 8
+    },
+    {
+      "id": "4cfc2a68-88a7-4602-a9fc-a9956c497eba",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbPersonId": 2200165,
+      "name": "Kang Kang",
+      "character": "Yuwen Liangshi",
+      "profilePath": "/5pKWFZf8Htl3TFoVi5gWwjreleh.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "3eccfcff-507d-40e5-a054-99d30bd630e9",
+      "tvSeriesId": "27a65b6d-95a2-4a64-953a-4621ff3b4368",
+      "tmdbId": 308744,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/t2krEuESnDG6QB3QgPm8z6jpPxY.jpg",
+      "airDate": "2022-12-27",
+      "episodeCount": 36,
+      "isPublished": true,
+      "createdAt": "2026-09-02T15:31:59.481Z",
+      "updatedAt": "2026-09-02T15:43:55.049Z"
+    }
+  ]
+}

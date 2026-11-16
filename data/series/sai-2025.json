@@ -1,0 +1,131 @@
+{
+  "slug": "sai-2025",
+  "id": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+  "title": "Sai",
+  "overview": "A mysterious man appears before six individuals, each struggling with their own issues, as an impending disaster disrupts their lives, unraveling suspense and psychological tension.",
+  "tagline": null,
+  "posterPath": "/bP2ZuTtP4sG1S2DWESjnRqUNfQ3.jpg",
+  "backdropPath": "/7CxmJkk8UzqGKRXIiKuR2nok5FU.jpg",
+  "logoPath": null,
+  "firstAirDate": "2025-04-06",
+  "voteAverage": "7.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ce712158-7963-490b-8ea5-8e113e625614",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbPersonId": 46691,
+      "name": "Teruyuki Kagawa",
+      "character": "Mysterious Man",
+      "profilePath": "/5pQwTpjkjOI4Ul5NL0vVTA3tEFI.jpg",
+      "order": 0
+    },
+    {
+      "id": "854c1f40-f0af-4515-80e2-4987dabd770d",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbPersonId": 1744548,
+      "name": "Anne Nakamura",
+      "character": "Midori Domoto",
+      "profilePath": "/1E74om6R0oaTedZoBfJ768kuisi.jpg",
+      "order": 1
+    },
+    {
+      "id": "ae8ea1bc-d80a-4fcc-bbde-963319168f18",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbPersonId": 930345,
+      "name": "Pistol Takehara",
+      "character": "Tsuyoshi Iida",
+      "profilePath": "/lRtjDTiRCAExtMF4IdXPziXVkaW.jpg",
+      "order": 2
+    },
+    {
+      "id": "7599f370-d1ff-47c2-a393-94e4d3b75f19",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbPersonId": 72932,
+      "name": "Ryuhei Matsuda",
+      "character": "Shinichiro Kuramoto",
+      "profilePath": "/bRjLZSINa4n10JOdkPwNVdv4JfR.jpg",
+      "order": 3
+    },
+    {
+      "id": "26f8dd1c-ad7e-4c1e-b934-ac703550c9a6",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbPersonId": 2018504,
+      "name": "Sena Nakajima",
+      "character": "Yuri Kitagawa",
+      "profilePath": "/o6oCJO0rtgwCEFSb8Yc4MuhPSp1.jpg",
+      "order": 4
+    },
+    {
+      "id": "5def7482-923d-40d2-a569-84d8d8cc5060",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbPersonId": 1466336,
+      "name": "Chika Uchida",
+      "character": "Iori Sakiyama",
+      "profilePath": "/bPq1EY6NqNEkmc16gdXbrSJWUL8.jpg",
+      "order": 5
+    },
+    {
+      "id": "7bd774bf-08e6-4d5d-9896-6583e0ff3315",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbPersonId": 3000189,
+      "name": "Miyachika Kaito",
+      "character": "Daiki Kikuchi",
+      "profilePath": "/t0V2fMcj36D20qR85UP0e0GMTak.jpg",
+      "order": 6
+    },
+    {
+      "id": "ce2c22d5-582f-4bae-ac04-8c2b2a760796",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbPersonId": 2298936,
+      "name": "Jiro",
+      "character": "Fumiya Kishi",
+      "profilePath": "/dYubMnPvxyhqeeAnvU1DfHZbd8J.jpg",
+      "order": 7
+    },
+    {
+      "id": "e20045ce-1ae7-4254-82d5-57a8ef38eb1b",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbPersonId": 134829,
+      "name": "Maki Sakai",
+      "character": "Misae Okahashi",
+      "profilePath": "/pIUqUvagooKEg40MfiurOjPvCgY.jpg",
+      "order": 8
+    },
+    {
+      "id": "a85a9383-2365-4bce-b24d-42026c73014a",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbPersonId": 1241709,
+      "name": "Yumi Adachi",
+      "character": "Micchan",
+      "profilePath": "/g4UvMSxsTNluTdoNnjI5bgA9pyx.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "04e0154d-eefb-4477-9588-9b45d88c3282",
+      "tvSeriesId": "e0752b5b-28ca-4cb0-a7d6-2b8d40b8c1f8",
+      "tmdbId": 431749,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/vsabXXWarDsv8vaQz5mp1bXSS3z.jpg",
+      "airDate": "2025-04-06",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-09-22T20:47:55.905Z",
+      "updatedAt": "2026-09-22T20:49:25.153Z"
+    }
+  ]
+}

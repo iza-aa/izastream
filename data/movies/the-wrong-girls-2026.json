@@ -1,0 +1,404 @@
+{
+  "slug": "the-wrong-girls-2026",
+  "id": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+  "tmdbId": 1226699,
+  "imdbId": "tt35060353",
+  "title": "The Wrong Girls",
+  "originalTitle": "The Wrong Girls",
+  "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+  "tagline": "Best buds. Worst adults.",
+  "posterPath": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+  "backdropPath": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+  "logoPath": "/50Uw26nfG9grIsosp3M06aCWoOD.png",
+  "backdrops": [
+    "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+    "/uvtlptgAtnkUqVLzuMvoUBYQC4v.jpg",
+    "/nhcaXjP4C9uve3LhSS8gLc7PpyY.jpg",
+    "/1jrG9IDfNXiK8QZ219w5mdA941T.jpg",
+    "/7Z6uYJ5wGDVzIMHryeU0TfUYOqc.jpg",
+    "/7rO9kjZiZRgfflT8caIMskzIUEA.jpg",
+    "/xmCm8cDAIRHyHXZTjfM3UDzEwaP.jpg",
+    "/wodpwSTAahwqO6U0B9VXNpnr6ag.jpg",
+    "/lH4dVGIEJ6kmeQKxvfsYV8PTO04.jpg",
+    "/uQX0yo76Ll4GaJo3ksA5Kxok5JG.jpg"
+  ],
+  "releaseDate": "2026-08-14",
+  "runtime": 99,
+  "voteAverage": "5.38",
+  "popularity": null,
+  "popularityScore": 34,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=zrcg8YHSys8",
+  "quality": "WEB-DL",
+  "director": "Dylan Meyer",
+  "directorTmdbId": 1492313,
+  "directorProfilePath": "/aVZxHLEPf3mKcVOHZWGz7aAzueQ.jpg",
+  "productionCompanies": [
+    {
+      "id": 223375,
+      "name": "Nevermind",
+      "logo_path": null
+    },
+    {
+      "id": 16615,
+      "name": "Point Grey Pictures",
+      "logo_path": "/5au3v0r2brGaegO9EQ0nodLkmQ1.png"
+    },
+    {
+      "id": 183820,
+      "name": "Savage Rose Films",
+      "logo_path": "/5ZB3wEMBoOjHvWx2Yek5JM1EvUp.png"
+    },
+    {
+      "id": 90733,
+      "name": "NEON",
+      "logo_path": "/3K9wCZTyDgop3ITK1rDi6T2PckE.png"
+    },
+    {
+      "id": 234649,
+      "name": "100 Zeros",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1475,
+      "name": "telepathy"
+    },
+    {
+      "id": 10325,
+      "name": "mistaken identity"
+    },
+    {
+      "id": 5248,
+      "name": "female friendship"
+    },
+    {
+      "id": 12670,
+      "name": "los angeles, california"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 188748,
+      "name": "talking cat"
+    },
+    {
+      "id": 249845,
+      "name": "experimental drug"
+    },
+    {
+      "id": 281237,
+      "name": "independent film"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1830,
+  "watchlistCount": 22,
+  "favouriteCount": 3,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-01T19:11:54.403Z",
+  "updatedAt": "2026-09-01T19:11:59.539Z",
+  "genres": [
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ed49cdad-a504-4bfd-a5d7-732c94128b80",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 37917,
+      "name": "Kristen Stewart",
+      "character": "Frankie / Frances",
+      "profilePath": "/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg",
+      "order": 0
+    },
+    {
+      "id": "d752fb2f-cd29-43ee-9bf8-195b726613b6",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 61178,
+      "name": "Alia Shawkat",
+      "character": "Molly",
+      "profilePath": "/aUc0hlILKfDKhlKnWQliGjkQL9a.jpg",
+      "order": 1
+    },
+    {
+      "id": "0ca3ae30-61bc-4eea-958d-89940ab256be",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 1200864,
+      "name": "LaKeith Stanfield",
+      "character": "Not Metal Head Dave",
+      "profilePath": "/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg",
+      "order": 2
+    },
+    {
+      "id": "55838c39-200c-426c-92df-5f1aeab3a962",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 2220282,
+      "name": "Zack Fox",
+      "character": "Josh",
+      "profilePath": "/dYAAoPXh2WSndYAFDd9kxtFZkHe.jpg",
+      "order": 3
+    },
+    {
+      "id": "3c4e1d1b-182d-4c57-ab8e-1f6980f0bc81",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 25147,
+      "name": "Tony Hale",
+      "character": "Martin Flynn",
+      "profilePath": "/3dEyZgTye0Ec17VGKp0mJ3aU6ty.jpg",
+      "order": 4
+    },
+    {
+      "id": "8ace958a-4489-46ae-ad2b-759f0e91f3fb",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 2743857,
+      "name": "Chris Estrada",
+      "character": "Jose",
+      "profilePath": "/aieoVVdLTMMFpXXkzJ8buqwiGkS.jpg",
+      "order": 5
+    },
+    {
+      "id": "d71a4816-2cf4-4a11-8a01-177058a97bc7",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 2800617,
+      "name": "Thomas La Barbera Christensen",
+      "character": "Axel",
+      "profilePath": "/1ODOFBOYkR52d2dzN4t3NAs8TLF.jpg",
+      "order": 6
+    },
+    {
+      "id": "2fe7149d-db76-4518-9be3-68fb657e61ec",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 1590291,
+      "name": "Thor Knai",
+      "character": "Dagmar",
+      "profilePath": "/zndOn7faw9U7tVT5Vid2LIhFWGF.jpg",
+      "order": 7
+    },
+    {
+      "id": "781b6f98-635d-4cf0-a22d-2bb6c1261ea1",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 2048719,
+      "name": "Thomas Nicholson",
+      "character": "Fritz",
+      "profilePath": "/pU1mvfa5f8k3qXT2rS3Xzy4KH6n.jpg",
+      "order": 8
+    },
+    {
+      "id": "8f8fd90c-bcc7-402d-ada2-8fb8e751ceeb",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 19274,
+      "name": "Seth Rogen",
+      "character": "Dio (voice)",
+      "profilePath": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+      "order": 9
+    },
+    {
+      "id": "0f356c4a-2b2c-42b3-bc61-97f1369c1221",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 466505,
+      "name": "Kumail Nanjiani",
+      "character": "GG (voice)",
+      "profilePath": "/9EyrK1Cv7ey1h1GgmsVAOn45w6G.jpg",
+      "order": 10
+    },
+    {
+      "id": "b88c3789-27e5-4bd2-90f4-1da7c5cbd845",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 1240487,
+      "name": "Kate McKinnon",
+      "character": "Dr. Olsen",
+      "profilePath": "/2cNetzianFcxPQbyOQnkAIkKUZE.jpg",
+      "order": 11
+    },
+    {
+      "id": "3cd718c1-47d5-4e8f-8298-f05a0a9677c7",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 16935,
+      "name": "Geena Davis",
+      "character": "Dr. Chapman",
+      "profilePath": "/jNsZLedzKPuyUmgnvpRpP5oG3Wr.jpg",
+      "order": 12
+    },
+    {
+      "id": "2cb6ff48-16f8-4145-bb44-4a303fb604a7",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 112,
+      "name": "Cate Blanchett",
+      "character": "Deep Sea Expert (voice)",
+      "profilePath": "/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg",
+      "order": 13
+    },
+    {
+      "id": "8fd7eb6c-ad2d-410c-a0c0-17cabaad5aa1",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 2938269,
+      "name": "Taj Cross",
+      "character": "Kai",
+      "profilePath": "/kHas3vjqJS9NPdJB7lRqodD8ZOy.jpg",
+      "order": 14
+    },
+    {
+      "id": "cc55824d-2c3c-4225-bdf1-683327ec0133",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 1090375,
+      "name": "Morgan Krantz",
+      "character": "Mike Z",
+      "profilePath": "/6Qg4j29llJzikTFbVfNJdREa8kO.jpg",
+      "order": 15
+    },
+    {
+      "id": "dc4300b0-726c-4c76-8f2c-e4eb5dcdb57f",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 1281758,
+      "name": "Sugar Lyn Beard",
+      "character": "Mr. Kock",
+      "profilePath": "/8AIFKRJ9bdW91PRXfx3Rx35xZQB.jpg",
+      "order": 16
+    },
+    {
+      "id": "99c0ce83-2dae-4fda-8852-f38c4c1b6358",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 1260966,
+      "name": "Zed Cutsinger",
+      "character": "Young Martin Flynn",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "66942ece-67d3-48ed-a4f2-298bb30dc1e9",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 5314303,
+      "name": "Marisa Dabice",
+      "character": "Mannequin Pussy",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "cb99ad11-56ad-45e9-a549-282007e004d6",
+      "movieId": "407506eb-a4fc-4f20-a569-5b8f9e5a042c",
+      "tmdbPersonId": 5330359,
+      "name": "Kaleen Reading",
+      "character": "Mannequin Pussy",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "i-love-a-lot-of-you-2025",
+  "id": "7a050d1e-c20e-46d5-ab5d-e3539b98185e",
+  "title": "I Love ‘A Lot Of’ You",
+  "overview": "Sun is tasked by the father of Sairung, a woman with dissociative identity disorder, to make all five of her personalities fall for him in an effort to fix her. One of her personalities, Manmok, becomes determined to throw him out of their lives.",
+  "tagline": "",
+  "posterPath": "/kMFMxCaVtMY1lnpJXBMNW7Zeo9S.jpg",
+  "backdropPath": "/noJOZyPOgCsNDPNPpWGWePhsnpJ.jpg",
+  "logoPath": "/lYs35ln0WvkJ5waNz54WN8BVZhx.png",
+  "firstAirDate": "2025-05-17",
+  "voteAverage": "8.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "9bb3aab5-7f89-4e93-8669-694182680838",
+      "tvSeriesId": "7a050d1e-c20e-46d5-ab5d-e3539b98185e",
+      "tmdbPersonId": 1872288,
+      "name": "Korapat Kirdpan",
+      "character": "Sun",
+      "profilePath": "/adjXW5d1AvIW5thb5XjhDNtgBUn.jpg",
+      "order": 0
+    },
+    {
+      "id": "0099705e-8f46-4922-bc44-d501f0637fc8",
+      "tvSeriesId": "7a050d1e-c20e-46d5-ab5d-e3539b98185e",
+      "tmdbPersonId": 3875985,
+      "name": "Atitaya Tribudarak",
+      "character": "Fahsai / Praifon / Storm / Sairung / Manmork",
+      "profilePath": "/nVrABeRHxC81ZTtfzAmzF358JFK.jpg",
+      "order": 1
+    },
+    {
+      "id": "b8f16650-5f05-4417-af43-7cc361431dd0",
+      "tvSeriesId": "7a050d1e-c20e-46d5-ab5d-e3539b98185e",
+      "tmdbPersonId": 3028905,
+      "name": "Thanawin Teeraphosukarn",
+      "character": "De",
+      "profilePath": "/hP5vHthG5cMPYTMDcZh6gw24EiT.jpg",
+      "order": 2
+    },
+    {
+      "id": "d8830848-9f34-4775-8c82-9f51c5a7ace9",
+      "tvSeriesId": "7a050d1e-c20e-46d5-ab5d-e3539b98185e",
+      "tmdbPersonId": 3455290,
+      "name": "Panachai Sriariyarungruang",
+      "character": "Phat",
+      "profilePath": "/aucLoUNUHBfEYtWiQewskbC9TkZ.jpg",
+      "order": 3
+    },
+    {
+      "id": "db525b70-e7e2-4003-a5ad-2f2129907e2c",
+      "tvSeriesId": "7a050d1e-c20e-46d5-ab5d-e3539b98185e",
+      "tmdbPersonId": 3788947,
+      "name": "Nachcha Chuedang",
+      "character": "Kutji",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "4a1236e0-e4f9-4a76-9e70-979996e7711f",
+      "tvSeriesId": "7a050d1e-c20e-46d5-ab5d-e3539b98185e",
+      "tmdbPersonId": 3481842,
+      "name": "Yutthana Boonaom",
+      "character": "",
+      "profilePath": "/6J1i2zIMzhwuBw4jHQw3JoFm5Yd.jpg",
+      "order": 5
+    },
+    {
+      "id": "7c675f4f-89e4-45db-9e26-214628a1a6b4",
+      "tvSeriesId": "7a050d1e-c20e-46d5-ab5d-e3539b98185e",
+      "tmdbPersonId": 2398475,
+      "name": "Apasiri Nitibhon",
+      "character": "",
+      "profilePath": "/yGuaZcWRowFq5E7ws0vCReikoR8.jpg",
+      "order": 500
+    },
+    {
+      "id": "1b316d15-89db-48a2-92c5-8cf04f75d396",
+      "tvSeriesId": "7a050d1e-c20e-46d5-ab5d-e3539b98185e",
+      "tmdbPersonId": 4275631,
+      "name": "Teeradech Vitheepanich",
+      "character": "Chin [Sun's friend]",
+      "profilePath": "/sX1wId112tDTCmoAI72zkcsOxxf.jpg",
+      "order": 501
+    }
+  ],
+  "seasons": [
+    {
+      "id": "01b827d0-1e77-4dcc-a034-737edef97355",
+      "tvSeriesId": "7a050d1e-c20e-46d5-ab5d-e3539b98185e",
+      "tmdbId": 430496,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/kMFMxCaVtMY1lnpJXBMNW7Zeo9S.jpg",
+      "airDate": "2025-05-17",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:39:12.789Z",
+      "updatedAt": "2026-04-02T17:39:12.789Z"
+    }
+  ]
+}

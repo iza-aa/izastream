@@ -1,0 +1,368 @@
+{
+  "slug": "horrible-bosses-2-2014",
+  "id": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+  "tmdbId": 227159,
+  "imdbId": "tt2170439",
+  "title": "Horrible Bosses 2",
+  "originalTitle": "Horrible Bosses 2",
+  "overview": "Dale, Kurt and Nick decide to start their own business but things don't go as planned because of a slick investor, prompting the trio to pull off a harebrained and misguided kidnapping scheme.",
+  "tagline": "New crime. Same tools.",
+  "posterPath": "/boBOkwIqgrs8noxBUSDkkicKa4K.jpg",
+  "backdropPath": "/5CUtGZASj2UqomudRG1RZOt5QbG.jpg",
+  "logoPath": "/hwWgfkn4ySer0rg8TVG4afrxLAY.png",
+  "backdrops": [
+    "/5CUtGZASj2UqomudRG1RZOt5QbG.jpg",
+    "/bjefQWXw04dL11qJUKmCQza4OVj.jpg",
+    "/4hL0heZjSo28XUt0pp8gLZZbX59.jpg",
+    "/zU9ApjrR0MUtMjVNAJFayZe2szD.jpg",
+    "/fK38dUW6X4v4LB70acZMmd7cvMM.jpg",
+    "/qXORgOQz57Kp1dwsH6EDxoh6x3l.jpg",
+    "/sgyIzRYXDPUs5HXJzU0qUIudBwo.jpg",
+    "/24LoL77igPwhXsWleT05LWRGtCy.jpg",
+    "/3Zrdg6uggvvx5go2MjLzGM47Vp0.jpg",
+    "/fAuq2n4S0Y5n3qw6HMesVElCsz.jpg"
+  ],
+  "releaseDate": "2014-11-12",
+  "runtime": 108,
+  "voteAverage": "6.18",
+  "popularity": null,
+  "popularityScore": 61,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=utriEZFno0E",
+  "quality": "BLU-RAY",
+  "director": "Sean Anders",
+  "directorTmdbId": 74619,
+  "directorProfilePath": "/vWO1FiGZPOL4FdhbxeykOXRfcXJ.jpg",
+  "productionCompanies": [
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+      "id": 6363,
+      "name": "BenderSpink",
+      "logo_path": null
+    },
+    {
+      "id": 41624,
+      "name": "RatPac Entertainment",
+      "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 378,
+      "name": "prison"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 5906,
+      "name": "sex addiction"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 183728,
+      "name": "sex tape"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1891,
+  "watchlistCount": 7,
+  "favouriteCount": 3,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-31T00:51:58.684Z",
+  "updatedAt": "2026-08-31T00:53:13.576Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "5881cae3-ff70-45f2-95ea-d3b926410cfd",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 23532,
+      "name": "Jason Bateman",
+      "character": "Nick Hendricks",
+      "profilePath": "/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg",
+      "order": 0
+    },
+    {
+      "id": "2b3c16ee-957c-49ad-95f8-2b88a6120a7c",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 58224,
+      "name": "Jason Sudeikis",
+      "character": "Kurt Buckman",
+      "profilePath": "/uuacnP9DOHMsmj8FhBi0cWWDgrn.jpg",
+      "order": 1
+    },
+    {
+      "id": "66b7afa0-46d6-4194-87cb-1e71db3d1fa4",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 95101,
+      "name": "Charlie Day",
+      "character": "Dale Arbus",
+      "profilePath": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg",
+      "order": 2
+    },
+    {
+      "id": "bf52c2e2-4c73-4cc6-a206-f5552d100416",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 4491,
+      "name": "Jennifer Aniston",
+      "character": "Julia Harris",
+      "profilePath": "/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg",
+      "order": 3
+    },
+    {
+      "id": "ea999007-9bf0-4def-af91-7caf6b93ac7c",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 62064,
+      "name": "Chris Pine",
+      "character": "Rex Hanson",
+      "profilePath": "/vSe6sIsdtcoqBhuWRXynahFg8Vf.jpg",
+      "order": 4
+    },
+    {
+      "id": "8fed8f75-5a75-41ad-8694-2e0d10445c96",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 27319,
+      "name": "Christoph Waltz",
+      "character": "Bert Hanson",
+      "profilePath": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg",
+      "order": 5
+    },
+    {
+      "id": "f3f4f06b-7738-4078-9c33-c2a9e2a69d7d",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 134,
+      "name": "Jamie Foxx",
+      "character": "Motherfucker Jones",
+      "profilePath": "/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg",
+      "order": 6
+    },
+    {
+      "id": "b0c907aa-1a67-402f-82e4-c47d42b0d028",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 1979,
+      "name": "Kevin Spacey",
+      "character": "Dave Harken",
+      "profilePath": "/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg",
+      "order": 7
+    },
+    {
+      "id": "08690acb-4076-4ffd-84a9-6df05874d812",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 783,
+      "name": "Jonathan Banks",
+      "character": "Detective Hatcher",
+      "profilePath": "/bswk26L13PvY4iMTwUTAsepXCLv.jpg",
+      "order": 8
+    },
+    {
+      "id": "3107c5df-306e-4958-bf07-c8157d9c1e37",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 41662,
+      "name": "Lindsay Sloane",
+      "character": "Stacy Arbus",
+      "profilePath": "/sbUraumaXThpJ6ewhLuxWNn0dOf.jpg",
+      "order": 9
+    },
+    {
+      "id": "1f835cbf-613f-40de-8b5e-c020fbb95fcb",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 298410,
+      "name": "Keegan-Michael Key",
+      "character": "Mike",
+      "profilePath": "/xmdzYXP9j87a43FSiL138nLesuS.jpg",
+      "order": 10
+    },
+    {
+      "id": "bfa893f5-6deb-49b1-9be3-f451ec78da24",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 107791,
+      "name": "Kelly Stables",
+      "character": "Rachel",
+      "profilePath": "/6ysySZJHJxWYk3KRs6GNG21BoOc.jpg",
+      "order": 11
+    },
+    {
+      "id": "106c6f90-041f-417c-b2c4-950a30d69abf",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 61113,
+      "name": "Jerry Lambert",
+      "character": "Skip",
+      "profilePath": "/s72Qp4DjJgHFLFXFxJExjAE69tJ.jpg",
+      "order": 12
+    },
+    {
+      "id": "1246a6f2-8bb0-41f1-83e5-8da678ba5e09",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 1429453,
+      "name": "Sam Richardson",
+      "character": "Producer",
+      "profilePath": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+      "order": 13
+    },
+    {
+      "id": "d2ca5e02-0937-4953-8027-ce3832cd7364",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 132312,
+      "name": "Brianne Howey",
+      "character": "Candy",
+      "profilePath": "/cyy56FAt2mMWR4tWo53pIbw6eCk.jpg",
+      "order": 14
+    },
+    {
+      "id": "0b59f3ab-3147-4212-9d67-33f9acf3c42e",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 180527,
+      "name": "Lidia Porto",
+      "character": "Lupe",
+      "profilePath": "/ukInRHpe2XZxv261eYqnav9WjQw.jpg",
+      "order": 15
+    },
+    {
+      "id": "cf2792b6-b954-46a5-b0e4-a8b3db37f6c1",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 1429456,
+      "name": "Jaye Razor",
+      "character": "Ray",
+      "profilePath": "/g81PODZQ0lLmVrsdnU8XboArtOh.jpg",
+      "order": 16
+    },
+    {
+      "id": "51eb8748-35c2-4a28-b1d9-deaf04d2a422",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 111684,
+      "name": "Lennon Parham",
+      "character": "Roz",
+      "profilePath": "/88WOY8C1Wt33w0iTobULMsyBFk7.jpg",
+      "order": 17
+    },
+    {
+      "id": "86c3d5d0-dbd6-4f2b-aa65-3582ba1d54bd",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 80595,
+      "name": "Rob Huebel",
+      "character": "Pinkberry Executive",
+      "profilePath": "/uHz2fiBMRz2E6GmAH5sRJNvKHWI.jpg",
+      "order": 18
+    },
+    {
+      "id": "e1d44819-91ee-4d52-856c-db4ef14bb39a",
+      "movieId": "d662a3f8-222b-4170-b8ac-2429b17ef014",
+      "tmdbPersonId": 170635,
+      "name": "Andy Buckley",
+      "character": "Surveillance Audio Agent",
+      "profilePath": "/urkCCe0bizypCkQ9bZhFhDzvskE.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

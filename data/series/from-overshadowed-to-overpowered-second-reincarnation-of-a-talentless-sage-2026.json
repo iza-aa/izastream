@@ -1,0 +1,150 @@
+{
+  "slug": "from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage-2026",
+  "id": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+  "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+  "overview": "The great sage Ephtal dies in despair after failing to reach the peak of magic—but 400 years later, he’s reborn with all his memories and power intact! In a world where magic has decayed and ancient spells are treated as miracles, Ephtal storms into a prestigious magic academy to reclaim the true art of sorcery. As his power shakes the world, long-forgotten legends begin to awaken!",
+  "tagline": null,
+  "posterPath": "/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
+  "backdropPath": "/44cpdAd87SSmOVew1Y4LsEWjqPf.jpg",
+  "logoPath": "/9dyXrYjscuRcO82gpzNaDpvdEUF.png",
+  "firstAirDate": "2026-07-02",
+  "voteAverage": "7.31",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c19d28fd-a301-4895-882c-3f6a13f9b308",
+      "tvSeriesId": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+      "tmdbPersonId": 3128816,
+      "name": "Shuichiro Umeda",
+      "character": "Ephtal (voice)",
+      "profilePath": "/dCr870q8ojD6qpD1hmS1sdvh2pe.jpg",
+      "order": 0
+    },
+    {
+      "id": "b0cd5d37-90c4-4e80-bd77-241869e46291",
+      "tvSeriesId": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+      "tmdbPersonId": 3536962,
+      "name": "Reo Osanai",
+      "character": "Anastasia (voice)",
+      "profilePath": "/7ZOvawcW1Vhu8bzdtDSgbljrbM4.jpg",
+      "order": 1
+    },
+    {
+      "id": "dc256839-7683-4b55-a3c5-6132b08594e9",
+      "tvSeriesId": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+      "tmdbPersonId": 1124536,
+      "name": "Haruka Shiraishi",
+      "character": "Maria (voice)",
+      "profilePath": "/hrQxTVNGLi3jXC7v4kETArpA0dV.jpg",
+      "order": 2
+    },
+    {
+      "id": "8f9571f2-1557-4272-8f11-c3b188c8d54d",
+      "tvSeriesId": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+      "tmdbPersonId": 1157126,
+      "name": "Emiri Kato",
+      "character": "Iria (voice)",
+      "profilePath": "/m0zqjeg65sEe5TTy4mKqgwXVipI.jpg",
+      "order": 3
+    },
+    {
+      "id": "cb99f1b3-8df5-472a-83dc-ffd19ba78f9f",
+      "tvSeriesId": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+      "tmdbPersonId": 1096528,
+      "name": "Daisuke Hirakawa",
+      "character": "Fraser (voice)",
+      "profilePath": "/8uDi5NxFdxFvfVyo4n5CeOSLWEf.jpg",
+      "order": 4
+    },
+    {
+      "id": "304d4ad6-f927-4bbf-807f-cbeb41d8bfef",
+      "tvSeriesId": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+      "tmdbPersonId": 81363,
+      "name": "Kentaro Ito",
+      "character": "Joachim (voice)",
+      "profilePath": "/fIoreUBVEWcRLZanJlHUSQAjpeE.jpg",
+      "order": 5
+    },
+    {
+      "id": "81395ba7-f3ef-4c32-a222-3617b4ad869e",
+      "tvSeriesId": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+      "tmdbPersonId": 1243811,
+      "name": "Naomi Kusumi",
+      "character": "Duke of Alcott (voice)",
+      "profilePath": "/uxRwh4kUUBOe4fSFEHEEmk9Yc4j.jpg",
+      "order": 6
+    },
+    {
+      "id": "723a1ce7-d8e9-4005-a43b-ca99bc7b86a0",
+      "tvSeriesId": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+      "tmdbPersonId": 2652077,
+      "name": "Masaya Fukunishi",
+      "character": "Edwards (voice)",
+      "profilePath": "/8paIbTobS6266x57pIhJCq3mBJh.jpg",
+      "order": 7
+    },
+    {
+      "id": "779206d0-0733-4578-b1f9-ad288ab84b72",
+      "tvSeriesId": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+      "tmdbPersonId": 1251325,
+      "name": "Tsuyoshi Koyama",
+      "character": "Moria (voice)",
+      "profilePath": "/xm7AT3bF4ARZvbx87ixXT8rNFgs.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d9bc7896-63ad-4e41-970e-349b67e1d0d7",
+      "tvSeriesId": "645adb7a-5c5e-421c-9b91-f81a78cabbe0",
+      "tmdbId": 501475,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/p4TE3kK2iyuADfDYIRDTxjahdNa.jpg",
+      "airDate": "2026-07-02",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-07T04:14:12.029Z",
+      "updatedAt": "2026-10-07T04:16:17.186Z"
+    }
+  ]
+}

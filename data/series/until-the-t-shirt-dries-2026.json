@@ -1,0 +1,138 @@
+{
+  "slug": "until-the-t-shirt-dries-2026",
+  "id": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+  "title": "Until the T-Shirt Dries",
+  "overview": "A sudden summer accident shatters the peaceful lives of two couples, dragging a happily married editor into a web of grief, human selfishness, and her husband's hidden secrets.",
+  "tagline": null,
+  "posterPath": "/xVZvNASRqY91hD09g1cXHpErhGX.jpg",
+  "backdropPath": "/j9rHrq3mz0hHchk3EJksCco9LJW.jpg",
+  "logoPath": "/84eyOn4Fxb5rU0PC7HnfrFAAnSB.png",
+  "firstAirDate": "2026-07-10",
+  "voteAverage": "5.10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c8cd0f6a-b8ae-428a-9604-103d713217df",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbPersonId": 84028,
+      "name": "Yu Aoi",
+      "character": "Sakiko Seo",
+      "profilePath": "/xxZuHK0Be3caq3iTe03rbfzC5xB.jpg",
+      "order": 0
+    },
+    {
+      "id": "9490fdc3-94f5-42c4-bd13-8c8b9c52ba8e",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbPersonId": 1505062,
+      "name": "Ayumu Nakajima",
+      "character": "Itsuki Sonoda",
+      "profilePath": "/kK3N0wjhicPGKia5Cn4fRJTCT6y.jpg",
+      "order": 1
+    },
+    {
+      "id": "a307e057-7fd7-4789-b727-249c8048e420",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbPersonId": 2389740,
+      "name": "Fumiya Takahashi",
+      "character": "Naoto Yano",
+      "profilePath": "/aNdoFv1zPypM3nxR5T7LfpfKLZR.jpg",
+      "order": 2
+    },
+    {
+      "id": "104a52e2-5168-4579-b6c3-9b9655c8cb47",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbPersonId": 228079,
+      "name": "Kaho",
+      "character": "Azusa Sonoda",
+      "profilePath": "/s0ykmnef8yU6rf0ZLOaf6GMBbpb.jpg",
+      "order": 3
+    },
+    {
+      "id": "aa49bb40-bf4d-4734-987a-2110e679af86",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbPersonId": 79037,
+      "name": "Kenichi Matsuyama",
+      "character": "Mitsuru Seo",
+      "profilePath": "/sMrWJWLM5xJVtHfSqxArh5k61PS.jpg",
+      "order": 4
+    },
+    {
+      "id": "2006ee64-aaff-4b0d-a6cc-051da68aacfe",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbPersonId": 6447738,
+      "name": "Kaoru Kubota",
+      "character": "Sho Sonoda",
+      "profilePath": "/r6UeQ80tfBAILzMtIE724lq23mZ.jpg",
+      "order": 5
+    },
+    {
+      "id": "17141add-f00d-4f82-9fb9-754aa0d020a0",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbPersonId": 1030277,
+      "name": "Asami Usuda",
+      "character": "Chizuru Oida",
+      "profilePath": "/ycZupRv1wPn7bKaB0mYEKOpakyw.jpg",
+      "order": 6
+    },
+    {
+      "id": "91a8e18d-2a7a-4507-929c-be3eb1114205",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbPersonId": 123739,
+      "name": "Lily Franky",
+      "character": "Koji Miyauchi",
+      "profilePath": "/daVDG4IhIkSK2L0h58od5LKiclV.jpg",
+      "order": 7
+    },
+    {
+      "id": "dab63f15-c35a-4c62-931f-22f6fc21e11d",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbPersonId": 6429355,
+      "name": "Towa Sato",
+      "character": "Mitsuru Seo (child)",
+      "profilePath": "/2DpjJaWX7h0BelKvzoV1zgYVlxQ.jpg",
+      "order": 500
+    },
+    {
+      "id": "bab1e303-31cf-4464-97dd-a82d11975984",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbPersonId": 2053787,
+      "name": "Asuka Saito",
+      "character": "Miki Sonoda",
+      "profilePath": "/2sOZRKPNqKAazTsFzzqJtna7Fnz.jpg",
+      "order": 501
+    }
+  ],
+  "seasons": [
+    {
+      "id": "adc80c30-446d-41d5-9f00-1c88f246d4db",
+      "tvSeriesId": "1d4f11c2-dfbc-4c91-b5b3-230b00ce3b2a",
+      "tmdbId": 516517,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/fTm88yMnUcrMHfVWjcOGIyMyyrL.jpg",
+      "airDate": "2026-07-10",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-22T20:50:53.015Z",
+      "updatedAt": "2026-09-22T20:54:53.183Z"
+    }
+  ]
+}

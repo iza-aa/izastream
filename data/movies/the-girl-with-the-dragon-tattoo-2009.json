@@ -1,0 +1,476 @@
+{
+  "slug": "the-girl-with-the-dragon-tattoo-2009",
+  "id": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+  "tmdbId": 15472,
+  "imdbId": "tt1132620",
+  "title": "The Girl with the Dragon Tattoo",
+  "originalTitle": "Män som hatar kvinnor",
+  "overview": "Swedish thriller based on Stieg Larsson's novel about a male journalist and a young female hacker. In the opening of the movie, Mikael Blomkvist, a middle-aged publisher for the magazine Millennium, loses a libel case brought by corrupt Swedish industrialist Hans-Erik Wennerström. Nevertheless, he is hired by Henrik Vanger in order to solve a cold case, the disappearance of Vanger's niece",
+  "tagline": "Based on the Worldwide Best Seller",
+  "posterPath": "/r2pFUXKK20KD9RE3yybpQsNynRE.jpg",
+  "backdropPath": "/dPE25PbaeE6fCR2SQb4H4MeBmml.jpg",
+  "logoPath": "/3fs3p1cdOypEa19Zb7KcYt4OOHv.png",
+  "backdrops": [
+    "/cDWeeLr98KojqRSLlxeHml4hUiz.jpg",
+    "/dPE25PbaeE6fCR2SQb4H4MeBmml.jpg",
+    "/4LRemkftqYK7OmmP88rJLTvGYHu.jpg",
+    "/emyRoFK145dnlAcXMbMwcQ3bRCj.jpg",
+    "/2I8OM0vqpbqfFGylHSEnxpiB245.jpg",
+    "/j2Lz5QRfkFAwVXZnAhoFe0YfXXF.jpg",
+    "/p4FiEQxSDJAk1N7qAejAycAQ3pA.jpg",
+    "/anwcPHSz5PwkRCyLxNLRqEn3pLa.jpg",
+    "/mA5yIqCtn6HoKIzSq1HkNuNI6ki.jpg",
+    "/aRffMBiwNEdh057W1k4xQWqMJj2.jpg"
+  ],
+  "releaseDate": "2009-02-27",
+  "runtime": 152,
+  "voteAverage": "7.54",
+  "popularity": null,
+  "popularityScore": 76,
+  "originalLanguage": "sv",
+  "country": "SE",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=rIrjgFphVIc",
+  "quality": "WEB-DL",
+  "director": "Niels Arden Oplev",
+  "directorTmdbId": 19346,
+  "directorProfilePath": "/yGdxpPjMhIaeGaJL8TsVSpDuEbh.jpg",
+  "productionCompanies": [
+    {
+      "id": 118,
+      "name": "Det Danske Filminstitut",
+      "logo_path": "/AiBorgNTCS1lT1FdFPYheax9jfF.png"
+    },
+    {
+      "id": 235,
+      "name": "Nordisk Film Denmark",
+      "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png"
+    },
+    {
+      "id": 4606,
+      "name": "ZDF",
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png"
+    },
+    {
+      "id": 5746,
+      "name": "Yellow Bird",
+      "logo_path": "/sWgSj9muRStENKBoIoaDK6OZmDu.png"
+    },
+    {
+      "id": 33821,
+      "name": "Film Capital Stockholm",
+      "logo_path": "/fygjYD07KphyW2zrcpFxk1J2SzE.png"
+    },
+    {
+      "id": 33822,
+      "name": "Spiltan Underhållning",
+      "logo_path": null
+    },
+    {
+      "id": 5403,
+      "name": "Nordisk Film & TV Fond",
+      "logo_path": "/fAz2WhTpoMxutBA92JqlfeHEGuz.png"
+    },
+    {
+      "id": 2302,
+      "name": "Svenska Filminstitutet",
+      "logo_path": "/rPXEdpqwFycAY9ZgrAJXv13qcWW.png"
+    },
+    {
+      "id": 2999,
+      "name": "SVT",
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png"
+    },
+    {
+      "id": 2801,
+      "name": "Film i Väst",
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 736,
+      "name": "journalist"
+    },
+    {
+      "id": 2041,
+      "name": "island"
+    },
+    {
+      "id": 910,
+      "name": "bondage"
+    },
+    {
+      "id": 570,
+      "name": "rape"
+    },
+    {
+      "id": 2660,
+      "name": "strong woman"
+    },
+    {
+      "id": 2157,
+      "name": "hacker"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 2652,
+      "name": "nazi"
+    },
+    {
+      "id": 3405,
+      "name": "blow job"
+    },
+    {
+      "id": 10371,
+      "name": "antisocial personality disorder"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 12570,
+      "name": "whodunit"
+    },
+    {
+      "id": 155744,
+      "name": "newspaper man"
+    },
+    {
+      "id": 159468,
+      "name": "millennium"
+    },
+    {
+      "id": 191731,
+      "name": "female empowerment"
+    },
+    {
+      "id": 236429,
+      "name": "locked room mystery"
+    },
+    {
+      "id": 239934,
+      "name": "girl with piercings"
+    },
+    {
+      "id": 285237,
+      "name": "woman murder"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5165,
+  "watchlistCount": 53,
+  "favouriteCount": 13,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-14T10:04:09.408Z",
+  "updatedAt": "2026-09-14T10:10:36.809Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0e995921-764e-4804-bc4c-700d8ba3c4f1",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 6283,
+      "name": "Michael Nyqvist",
+      "character": "Mikael Blomkvist",
+      "profilePath": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+      "order": 0
+    },
+    {
+      "id": "b6ac0f4b-1282-4faf-bf21-e5872c9fe415",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 87722,
+      "name": "Noomi Rapace",
+      "character": "Lisbeth Salander",
+      "profilePath": "/m0J6ZqEyNljqF1DXBoC9DcMStHP.jpg",
+      "order": 1
+    },
+    {
+      "id": "8c5193e9-77b6-4b1f-9948-2cddc090e7c5",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 79196,
+      "name": "Lena Endre",
+      "character": "Erika Berger",
+      "profilePath": "/hWrqTNGRnXNhAIuVkOyxIhyCW1I.jpg",
+      "order": 2
+    },
+    {
+      "id": "3b1b0d60-180d-4ef2-afec-1cee25db4704",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 87723,
+      "name": "Sven-Bertil Taube",
+      "character": "Henrik Vanger",
+      "profilePath": "/gJgxkITQasJZaze5A4h8ddoh8N4.jpg",
+      "order": 3
+    },
+    {
+      "id": "7e952a01-02b5-4c75-9276-0f97bbcd20e4",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 74709,
+      "name": "Peter Haber",
+      "character": "Martin Vanger",
+      "profilePath": "/e6jnPrQiUs3wyEP9OVWd7sMse6B.jpg",
+      "order": 4
+    },
+    {
+      "id": "218c533d-5f0b-4887-a8e9-132c4bd14ed5",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 21193,
+      "name": "Peter Andersson",
+      "character": "Nils Bjurman",
+      "profilePath": "/3QrCFAESqlCgwg10KLv1Wre0sKL.jpg",
+      "order": 5
+    },
+    {
+      "id": "3f659bcd-01bc-4bab-975f-d33280d068ee",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 87724,
+      "name": "Marika Lagercrantz",
+      "character": "Cecilia Vanger",
+      "profilePath": "/ya50fGUyUD1PfCopwgwr79O1O9w.jpg",
+      "order": 6
+    },
+    {
+      "id": "5378e9ab-88d1-44d4-bdc3-36f9b5d113d3",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 47070,
+      "name": "Ingvar Hirdwall",
+      "character": "Dirch Frode",
+      "profilePath": "/fcoLF3kEQJ5nDuYaFESiyRGTL8U.jpg",
+      "order": 7
+    },
+    {
+      "id": "b4e20dac-b5ec-40cc-9a12-433e42d9ea79",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 55002,
+      "name": "Björn Granath",
+      "character": "Gustav Morell",
+      "profilePath": "/x6H9cCe7yModCopeskGdcOKnONX.jpg",
+      "order": 8
+    },
+    {
+      "id": "36618b4b-12f8-4e15-825d-c261146c0302",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 46866,
+      "name": "Ewa Fröling",
+      "character": "Harriet Vanger",
+      "profilePath": "/6CILCzlzTJKjKlvqqvLqyOatvxb.jpg",
+      "order": 9
+    },
+    {
+      "id": "29e0dee7-314a-46d4-804f-28f495693b6d",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 92897,
+      "name": "Michalis Koutsogiannakis",
+      "character": "Dragan Armanskij",
+      "profilePath": "/i0SPzpHpQRi4gfqDk8tGYQ6t289.jpg",
+      "order": 10
+    },
+    {
+      "id": "fac5f846-223c-4be1-93c5-c34e3ae8162b",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 79270,
+      "name": "Annika Hallin",
+      "character": "Annika Giannini",
+      "profilePath": "/w0xkKmLS2AeXKB6HqrUqeq5LzRC.jpg",
+      "order": 11
+    },
+    {
+      "id": "f69f370d-e8af-4209-a29b-a8de04541963",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 83899,
+      "name": "Sofia Ledarp",
+      "character": "Malin Erikson",
+      "profilePath": "/rvUygwmSbc2K8Gv4x6PnCaJWUE0.jpg",
+      "order": 12
+    },
+    {
+      "id": "cb9ed2b6-3244-4cae-b092-409b52c02325",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 87727,
+      "name": "Tomas Köhler",
+      "character": "Plague",
+      "profilePath": "/qIv1hPMwWrOxns28FJMk2MmnMNb.jpg",
+      "order": 13
+    },
+    {
+      "id": "51814050-d6c2-4ed0-bada-6a1da6037ee3",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 93236,
+      "name": "David Dencik",
+      "character": "Janne Dahlman",
+      "profilePath": "/2BPsGhw8lGhe6HNs1aLu4Q1XeVn.jpg",
+      "order": 14
+    },
+    {
+      "id": "dd5f46f2-67d4-4b05-9f2b-8f11c80da416",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 55886,
+      "name": "Stefan Sauk",
+      "character": "Hans-Erik Wennerström",
+      "profilePath": "/qme8GguBQ47UMVvmqbBh5oRwhLy.jpg",
+      "order": 15
+    },
+    {
+      "id": "d71368fa-236f-4638-9d8f-a6999f682535",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 87725,
+      "name": "Gösta Bredefeldt",
+      "character": "Harald Vanger",
+      "profilePath": "/1oPiTHh6dP3QDtVHwuImHUMR4FN.jpg",
+      "order": 16
+    },
+    {
+      "id": "c9e569ff-2b9e-4220-b6d1-1db844bf4966",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 71356,
+      "name": "Fredrik Ohlsson",
+      "character": "Gunnar Brännlund",
+      "profilePath": "/tFdwuoyXKGkHcAWzUtHnmwB2baR.jpg",
+      "order": 17
+    },
+    {
+      "id": "1c9327d2-7a33-4678-a0c3-93e0fc88c9bc",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 83895,
+      "name": "Jacob Ericksson",
+      "character": "Christer Malm",
+      "profilePath": "/8l9EzEu6c788jrNpdU9x5HF19qb.jpg",
+      "order": 18
+    },
+    {
+      "id": "c1984977-230d-47c4-80b7-98bb405f5f96",
+      "movieId": "adc2de87-c2d5-45f0-8e7d-5b0a7728d377",
+      "tmdbPersonId": 6662,
+      "name": "Gunnel Lindblom",
+      "character": "Isabella Vanger",
+      "profilePath": "/93heWge7LBJtmTlvVUvCHRogcmJ.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

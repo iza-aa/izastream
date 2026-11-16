@@ -1,0 +1,344 @@
+{
+  "slug": "the-blue-lagoon-1980",
+  "id": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+  "tmdbId": 5689,
+  "imdbId": "tt0080453",
+  "title": "The Blue Lagoon",
+  "originalTitle": "The Blue Lagoon",
+  "overview": "Two small children and a ship's cook survive a shipwreck and find safety on an idyllic tropical island. Soon, however, the cook dies and the young boy and girl are left on their own. Days become years and Emmeline and Richard make a home for themselves surrounded by exotic creatures and nature's beauty. But will they ever see civilization again?",
+  "tagline": "A story of natural love.",
+  "posterPath": "/hg57Zr63A96mpIQKHxOjHYqCVhI.jpg",
+  "backdropPath": "/4HYBkZPz2Gb7LWXludvvOfATzGS.jpg",
+  "logoPath": "/xVEf0xTtEYlj2oXhH6drUgbYCKg.png",
+  "backdrops": [
+    "/4HYBkZPz2Gb7LWXludvvOfATzGS.jpg",
+    "/2xagOHMigCGhFveiAJHh72UV1fR.jpg",
+    "/kMvC3UMjhWQrpeOrOOH36NlC5dL.jpg",
+    "/c0T0oWjN1nZomMMcW2oOQQJn1sm.jpg",
+    "/2YR0rDqiUMN0ucwflXrRPk0yPdI.jpg",
+    "/w0yhJUXJc2lhEPnfuWKjcerN3kt.jpg",
+    "/wD0xjsLz3ajh3mdiRhcJQTY5Q7B.jpg",
+    "/jftdEZwBrZpaspPdx1sKy4z38oX.jpg",
+    "/tSXYoqjCgPqlNuPNTCBbXJM5kYj.jpg",
+    "/2QhkyYJU7gj4zbWJe0XtXxIxeBI.jpg"
+  ],
+  "releaseDate": "1980-07-05",
+  "runtime": 104,
+  "voteAverage": "6.14",
+  "popularity": null,
+  "popularityScore": 1309,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=A0UapwJIJn8",
+  "quality": "WEB-DL",
+  "director": "Randal Kleiser",
+  "directorTmdbId": 8876,
+  "directorProfilePath": "/t0HFkRWh3K06XhyTuJTvsVAd0Hh.jpg",
+  "productionCompanies": [
+    {
+      "id": 5,
+      "name": "Columbia Pictures",
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 566,
+      "name": "sexual identity"
+    },
+    {
+      "id": 2580,
+      "name": "shipwreck"
+    },
+    {
+      "id": 4232,
+      "name": "melancholy"
+    },
+    {
+      "id": 4663,
+      "name": "lovers"
+    },
+    {
+      "id": 9743,
+      "name": "stranded"
+    },
+    {
+      "id": 10792,
+      "name": "marooned"
+    },
+    {
+      "id": 11823,
+      "name": "pacific island"
+    },
+    {
+      "id": 155746,
+      "name": "deserted island"
+    },
+    {
+      "id": 157524,
+      "name": "tropical island"
+    },
+    {
+      "id": 179578,
+      "name": "lost at sea"
+    },
+    {
+      "id": 281659,
+      "name": "wistful"
+    },
+    {
+      "id": 315323,
+      "name": "incredulous"
+    },
+    {
+      "id": 319319,
+      "name": "sentimental"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 15172,
+  "watchlistCount": 30,
+  "favouriteCount": 17,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:28:29.346Z",
+  "updatedAt": "2026-10-05T17:38:57.522Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6d327f72-bbf7-49a9-983b-46649088283f",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 15110,
+      "name": "Brooke Shields",
+      "character": "Emmeline",
+      "profilePath": "/qpLcTp5D6t0S0TtNK85VOYwDmTL.jpg",
+      "order": 0
+    },
+    {
+      "id": "7fbee846-76fc-4289-a545-eb5cbfb99152",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 42740,
+      "name": "Christopher Atkins",
+      "character": "Richard",
+      "profilePath": "/jLuwUuLaPaLYHUJ8pqzNwnr2IyG.jpg",
+      "order": 1
+    },
+    {
+      "id": "a264620b-fba5-419a-bc38-2dacf614cbab",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 7192,
+      "name": "Leo McKern",
+      "character": "Paddy Button",
+      "profilePath": "/yzVoghBAj7iK8dsVu39TNrLpfvE.jpg",
+      "order": 2
+    },
+    {
+      "id": "91f56228-d0f0-4f06-9b0f-911d4fe8ccfb",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 10775,
+      "name": "William Daniels",
+      "character": "Arthur Lestrange",
+      "profilePath": "/1SCR6im2maiASfTD5h7r0g9dU78.jpg",
+      "order": 3
+    },
+    {
+      "id": "27763040-b16b-49cb-84be-a6ca1b9e9343",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 44841,
+      "name": "Jeffrey Kleiser",
+      "character": "Lookout",
+      "profilePath": "/a9ordebyzn7hkbUPIaAYUAcTCdK.jpg",
+      "order": 4
+    },
+    {
+      "id": "a9804921-2c89-47cc-a672-223a0edfb874",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 44843,
+      "name": "Gus Mercurio",
+      "character": "Officer",
+      "profilePath": "/2VIvK34X1NeAEvWqyMU9lFbGVsZ.jpg",
+      "order": 5
+    },
+    {
+      "id": "5962da67-e897-4807-b9d1-c1d3fbb83028",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 136853,
+      "name": "Elva Josephson",
+      "character": "Young Emmeline",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "588f9016-fe0b-478c-afe4-d8e13c6356ca",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 136854,
+      "name": "Glenn Kohan",
+      "character": "Young Richard",
+      "profilePath": "/o4XJVupALFf5585d5Q4N2hpShGh.jpg",
+      "order": 7
+    },
+    {
+      "id": "bb91c981-28c1-400e-b756-929c8a5325bf",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 1037039,
+      "name": "Bradley Pryce",
+      "character": "Little Paddy",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "d5072480-c189-4aab-8935-4ff8616fa12e",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 1296157,
+      "name": "Chad Timmerman",
+      "character": "Infant Paddy",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "03a1ba27-500d-4ff3-9ef5-ad4fbbd9975d",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 136855,
+      "name": "Gert Jacoby",
+      "character": "Sailor",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "3e8fc6b1-a718-4308-a32c-b811b06e05db",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 136856,
+      "name": "Alex Hamilton",
+      "character": "Sailor",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "d7d0703c-d8a6-4552-9fe1-9c80dc93ccf8",
+      "movieId": "44a018b5-8389-41f3-bfcc-6d9ae36e33d1",
+      "tmdbPersonId": 136857,
+      "name": "Richard Evanson",
+      "character": "Sailor",
+      "profilePath": null,
+      "order": 12
+    }
+  ],
+  "requestedBy": {
+    "username": "deller",
+    "displayName": "Deller"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

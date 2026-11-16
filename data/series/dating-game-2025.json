@@ -1,0 +1,138 @@
+{
+  "slug": "dating-game-2025",
+  "id": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+  "title": "Dating Game",
+  "overview": "When his favorite romance game is axed, a reformed otaku must team up with its icy CEO to save it—if they don't destroy each other first.",
+  "tagline": "",
+  "posterPath": "/y3NtO9snCde8nS8qlOJSCW1vb5m.jpg",
+  "backdropPath": "/xbzVjNFrcfTZX3gbwFJfeFHRYpv.jpg",
+  "logoPath": "/e2kKxEW2XtdxpbK60i8ClYBkDfz.png",
+  "firstAirDate": "2025-07-14",
+  "voteAverage": "5.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "45fdaa1c-bc09-4c82-abaf-97c90095def7",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbPersonId": 2293430,
+      "name": "Koji Mukai",
+      "character": "Junji Sakurai",
+      "profilePath": "/mezG5erue8tMEVcZ5se8dg2RiQW.jpg",
+      "order": 0
+    },
+    {
+      "id": "73d56ff1-8caf-44d7-8897-313bc91043c0",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbPersonId": 1190450,
+      "name": "Chutavuth Pattarakampol",
+      "character": "Hill",
+      "profilePath": "/1LBYp6MPa3tXQIr5DI2LJFk7XqW.jpg",
+      "order": 1
+    },
+    {
+      "id": "ae45a1cc-d166-4df8-8c21-6672a9a7192f",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbPersonId": 2453348,
+      "name": "Natouch Siripongthon",
+      "character": "Phat",
+      "profilePath": "/pQxpYvlSofqMU3tZMZbUSWzvnbI.jpg",
+      "order": 2
+    },
+    {
+      "id": "1c4ff993-4cfe-4560-ab78-8f34f28f65be",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbPersonId": 2395337,
+      "name": "Tantachj Tharinpirom",
+      "character": "Bay",
+      "profilePath": "/467gmBu3S0WcGHa7tqB962ynX1M.jpg",
+      "order": 3
+    },
+    {
+      "id": "2e0d5945-4f6f-4646-af76-b533c4ff00ae",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbPersonId": 2709662,
+      "name": "Natticha Chantaravareelrkha",
+      "character": "Eens",
+      "profilePath": "/bpZfFaZRRWejjQ6XFGPExjAAJUY.jpg",
+      "order": 4
+    },
+    {
+      "id": "8d39ccf5-0031-4051-aa48-d4ee1af57626",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbPersonId": 2214738,
+      "name": "Chatchawit Techarukpong",
+      "character": "Art",
+      "profilePath": "/8TzHVNq9FPGsY5ArtccLFEYhL0r.jpg",
+      "order": 5
+    },
+    {
+      "id": "2cf64da8-c1b2-4cee-9fcc-3b2203441a6e",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbPersonId": 2771765,
+      "name": "Ratchapong Anomakiti",
+      "character": "Phao",
+      "profilePath": "/8kCAyYe7H7Fakg8nJesbZdZNSHj.jpg",
+      "order": 6
+    },
+    {
+      "id": "9bc85fcc-3049-41b0-9530-a62231741280",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbPersonId": 5278588,
+      "name": "Bannawat Rueangarayachai",
+      "character": "Hojun",
+      "profilePath": "/giqNX84Skx33QZaKfpoWa4SFldR.jpg",
+      "order": 7
+    },
+    {
+      "id": "d5fe5221-be45-44ae-9ac7-67c45f4267cb",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbPersonId": 5278611,
+      "name": "Okata Supitchaya",
+      "character": "Playwa",
+      "profilePath": "/zVjS6FuLXmwmtvXPVKqg90IDv5Q.jpg",
+      "order": 8
+    },
+    {
+      "id": "4276423a-ce11-4653-a257-211598091f06",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbPersonId": 5469779,
+      "name": "Sarut Teertrakul",
+      "character": "Boom",
+      "profilePath": null,
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "da8fa4ed-5411-4ee2-8dd5-27420432ae17",
+      "tvSeriesId": "289e1c40-50de-4648-96f6-ca6d6d6b40da",
+      "tmdbId": 441517,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "When his favorite romance game is axed, a reformed otaku must team up with its icy CEO to save it—if they don't destroy each other first.",
+      "posterPath": "/5zvJc4bGzX6eNbDDeRhyq9LOOFA.jpg",
+      "airDate": "2025-07-14",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:40:37.007Z",
+      "updatedAt": "2026-04-02T17:40:37.007Z"
+    }
+  ]
+}

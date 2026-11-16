@@ -1,0 +1,363 @@
+{
+  "slug": "the-whisper-man-2026",
+  "id": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+  "tmdbId": 860508,
+  "imdbId": "tt11561116",
+  "title": "The Whisper Man",
+  "originalTitle": "The Whisper Man",
+  "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+  "tagline": "If you leave the door half open, soon you'll hear the whispers spoken.",
+  "posterPath": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+  "backdropPath": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+  "logoPath": "/psbs6IPLdZEASeSGFs9RHe9pGhs.png",
+  "backdrops": [
+    "/wHWJ1d9hqZ2iY0057xoLm3I3m8r.jpg",
+    "/vxqyAKDjfqlkUWWIJMSfhAnFbNk.jpg",
+    "/d0krmJICW2EL2rvmsQPotM9YJLR.jpg",
+    "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+    "/73QharKvAXInHnr51Pv54coqkIv.jpg",
+    "/x1U3jLiURn0O9F09pIy6HSla2h4.jpg",
+    "/wQ0joNJPgmAXyMSVrrUoOhodkIx.jpg",
+    "/rHGJWs4XjO88QL4o9PWY618CVY8.jpg",
+    "/uTl8jEmTuLiJ7eXofNGKniXZvOJ.jpg"
+  ],
+  "releaseDate": "2026-08-28",
+  "runtime": 111,
+  "voteAverage": "5.30",
+  "popularity": null,
+  "popularityScore": 120,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=ZHRR-1CKYIQ",
+  "quality": "WEB-DL",
+  "director": "James Ashcroft",
+  "directorTmdbId": 33308,
+  "directorProfilePath": "/8L5zCGtinBJWAflYIThDcdbqBw0.jpg",
+  "productionCompanies": [
+    {
+      "id": 106544,
+      "name": "AGBO",
+      "logo_path": "/psd84iF7PTGrKf4yFOStKj8JbAh.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 10714,
+      "name": "serial killer"
+    },
+    {
+      "id": 240119,
+      "name": "father son relationship"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 11872,
+  "watchlistCount": 82,
+  "favouriteCount": 22,
+  "shareCount": 6,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-28T12:18:44.981Z",
+  "updatedAt": "2026-08-28T12:19:21.749Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "03992f6f-8bea-4b72-b5c0-a1f73d5dc666",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 36801,
+      "name": "Adam Scott",
+      "character": "Tom Kennedy",
+      "profilePath": "/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg",
+      "order": 0
+    },
+    {
+      "id": "03eca328-0b29-4733-a429-e7559e99cca0",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 380,
+      "name": "Robert De Niro",
+      "character": "Pete Willis",
+      "profilePath": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg",
+      "order": 1
+    },
+    {
+      "id": "2095ae96-e36b-4486-89c2-34c88eab269a",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 11705,
+      "name": "Michelle Monaghan",
+      "character": "Amanda Beck",
+      "profilePath": "/uK1qhSzKd9gkDh3p1H5e2PWMYyH.jpg",
+      "order": 2
+    },
+    {
+      "id": "2dcd851a-47c3-428b-9848-71857a99f832",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 184581,
+      "name": "Hamish Linklater",
+      "character": "Norman Collins",
+      "profilePath": "/ksTXQnWuKvmcVcbmHrvGaDof0P2.jpg",
+      "order": 3
+    },
+    {
+      "id": "3e2b1f76-de7f-480d-bc62-affc6a1bef86",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 1586047,
+      "name": "Owen Teague",
+      "character": "George",
+      "profilePath": "/tgCkGE0LIggyjMmgSwHhpZAkfJs.jpg",
+      "order": 4
+    },
+    {
+      "id": "7cdcbe08-d72a-4f62-9d9f-5bed520fcee6",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 5374936,
+      "name": "Acston Luca Porto",
+      "character": "Jake Kennedy",
+      "profilePath": "/ipskTQQ9QQ6fYExuKlVgoAYWpAJ.jpg",
+      "order": 5
+    },
+    {
+      "id": "da4d4e0b-6b14-4858-a0ee-5ba173ac9ed2",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 2232,
+      "name": "Michael Keaton",
+      "character": "Frank Carter",
+      "profilePath": "/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg",
+      "order": 6
+    },
+    {
+      "id": "7e039b68-ee38-4867-9687-f55a6c9a28a1",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 3911,
+      "name": "John Carroll Lynch",
+      "character": "",
+      "profilePath": "/lXlHxLK91U2l3yb77Tw32yEHJyT.jpg",
+      "order": 7
+    },
+    {
+      "id": "131da2c7-5881-467b-a952-21f45ac5c346",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 2302213,
+      "name": "Jacob Berger",
+      "character": "NJ Prison Guard",
+      "profilePath": "/l09xHIyFBqty9gOe5Sjj9m1pnux.jpg",
+      "order": 8
+    },
+    {
+      "id": "b2cf0d69-b110-404e-a2c4-77f1efc74114",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 1136135,
+      "name": "Will Brill",
+      "character": "Sgt. John Dyson",
+      "profilePath": "/eTPXcvxlquT8ppKnwAe2a3CzI90.jpg",
+      "order": 9
+    },
+    {
+      "id": "8eec7279-9ab1-4b63-a204-311519e95b8d",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 59458,
+      "name": "Myrna Cabello",
+      "character": "Mrs. Spencer",
+      "profilePath": "/1AqsWCSN1fRAQI41f2LQHYAb5xV.jpg",
+      "order": 10
+    },
+    {
+      "id": "13e0df95-dba3-406b-9e0e-2ab471ec1b30",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 1344726,
+      "name": "Jeffrey Mowery",
+      "character": "Quaker Member",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "e89c9d0c-2194-4b70-b513-972ceff36c19",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 3527387,
+      "name": "Ura Yoana Sánchez",
+      "character": "Interview Cop #1",
+      "profilePath": "/nbV2Z0hMLCEHkFoB8m8oB6Q8WLL.jpg",
+      "order": 12
+    },
+    {
+      "id": "18ef502d-2159-4237-85f6-ece983c6f7ac",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 1375047,
+      "name": "Josh Bonzie",
+      "character": "Officer Minogue",
+      "profilePath": "/nAZAbiNDb0HBqG4hHUXwRzKJcz9.jpg",
+      "order": 13
+    },
+    {
+      "id": "f54f9f18-89d6-427a-9398-16bebe2b90ab",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 1269707,
+      "name": "Robert Aberdeen",
+      "character": "Self - Quaker #1",
+      "profilePath": "/6yr4Xy4iYRynHK2qHccNwPfYAIu.jpg",
+      "order": 14
+    },
+    {
+      "id": "93eea91c-06d3-414c-a598-bc247e5d450f",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 4329135,
+      "name": "Alyse Alan Louis",
+      "character": "Carter's Wife",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "9a0f1020-5e8f-4a43-91a2-a9a84499e2b0",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 2469401,
+      "name": "James P. Harkins",
+      "character": "Quarry Officer #2",
+      "profilePath": "/syWufrTFTjrBCkKQ0VOoQlda7e8.jpg",
+      "order": 16
+    },
+    {
+      "id": "02eb06d3-3609-422f-b98d-e3e23aa6d8cc",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 2615398,
+      "name": "Zoya Bogomolova",
+      "character": "School Kid",
+      "profilePath": "/jeMyhDaVxiCC3Kb2vJ3kyLG7PH8.jpg",
+      "order": 17
+    },
+    {
+      "id": "4a96c206-e24b-4c18-ade8-aaf6dae9e7ef",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 2112041,
+      "name": "Arsi Nami",
+      "character": "Tv Station Editor",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "a02093b8-991a-42a0-be89-c115bfa0a917",
+      "movieId": "7d382f19-2e9f-43b4-913b-6d100b3bcf1f",
+      "tmdbPersonId": 1521804,
+      "name": "Lorenzo Beronilla",
+      "character": "Actor Forensics",
+      "profilePath": "/lzD4LwcpYbSBbQ1x9d9AAGJDVxh.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

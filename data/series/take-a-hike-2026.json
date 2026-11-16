@@ -1,0 +1,77 @@
+{
+  "slug": "take-a-hike-2026",
+  "id": "ab1f108d-7bb9-43ab-9436-71628f7d160e",
+  "title": "Take a Hike!",
+  "overview": "Four celebrity hiking newbies end up forming a club to tackle Korea's snow‑capped peaks. Can they figure out why on earth people go to the mountains?",
+  "tagline": null,
+  "posterPath": "/ya3p0meUJJ92gjFRFcZ1C3TJ0nO.jpg",
+  "backdropPath": "/giJzZvC9p6QdSi9tCgcOJZcw2hY.jpg",
+  "logoPath": "/mwzUeJo80O5D8jWfaDN4TDLEqjZ.png",
+  "firstAirDate": "2026-08-18",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0192c94c-24eb-4460-8fac-6f9704c2779d",
+      "tvSeriesId": "ab1f108d-7bb9-43ab-9436-71628f7d160e",
+      "tmdbPersonId": 3320705,
+      "name": "Car, the garden",
+      "character": "Self",
+      "profilePath": "/bMlyqSAIrOg4ghrfdtA9SePO2mH.jpg",
+      "order": 0
+    },
+    {
+      "id": "72e28c97-b66b-4112-93a6-9fe70b462d0e",
+      "tvSeriesId": "ab1f108d-7bb9-43ab-9436-71628f7d160e",
+      "tmdbPersonId": 4933168,
+      "name": "Yoon Do-woon",
+      "character": "Self",
+      "profilePath": "/mUSbxzVTEyZpkbFvj6lut4zbB9B.jpg",
+      "order": 1
+    },
+    {
+      "id": "67104073-43d0-45c3-9b37-edce62c27e5f",
+      "tvSeriesId": "ab1f108d-7bb9-43ab-9436-71628f7d160e",
+      "tmdbPersonId": 1674542,
+      "name": "Lee Chae-min",
+      "character": "Self",
+      "profilePath": "/yQGS5oyhglwF8zHlGQkN52zMK5K.jpg",
+      "order": 2
+    },
+    {
+      "id": "83b7c3f4-e919-459c-b633-cc8673f1d93f",
+      "tvSeriesId": "ab1f108d-7bb9-43ab-9436-71628f7d160e",
+      "tmdbPersonId": 5785644,
+      "name": "Tarzzan",
+      "character": "Self",
+      "profilePath": "/29WE9KX6aw2Zlr4patgEuuQ92Bh.jpg",
+      "order": 3
+    }
+  ],
+  "seasons": [
+    {
+      "id": "a2b78a06-7293-4606-9a1d-4264f35dd804",
+      "tvSeriesId": "ab1f108d-7bb9-43ab-9436-71628f7d160e",
+      "tmdbId": 525744,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/2Oh5cQFjM8CSW2JE8XVW0ezBtu6.jpg",
+      "airDate": "2026-08-18",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-09T02:35:18.942Z",
+      "updatedAt": "2026-10-09T02:36:07.438Z"
+    }
+  ]
+}

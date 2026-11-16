@@ -1,0 +1,104 @@
+{
+  "slug": "the-girls-a-khloe-kardashian-project-2026",
+  "id": "13b22ed4-1816-4270-957c-01da9b68db5f",
+  "title": "The Girls: A Khloé Kardashian Project",
+  "overview": "They're building empires. They're building families. They're always unfiltered. Welcome to The Girls, where Khloé Kardashian's inner circle of real-life besties are raising babies, running businesses, and surviving brutally honest group chats. From surprise proposals to solo parenting, glam getaways to growing pains, this is the new era of reality TV where the chaos is couture — and the bonds are unbreakable.",
+  "tagline": "Welcome to her inner circle.",
+  "posterPath": "/8P12ytuz41DKCBSpjX3Ntev177Z.jpg",
+  "backdropPath": "/3wbETP2ujDBQ1GdajfVwTDJTKoe.jpg",
+  "logoPath": "/79NCHHxpuiOV02wlkypJgU3WBfN.png",
+  "firstAirDate": "2026-08-21",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2a7f8a26-b7d5-4f5b-856e-f3211338d159",
+      "tvSeriesId": "13b22ed4-1816-4270-957c-01da9b68db5f",
+      "tmdbPersonId": 2340722,
+      "name": "Natalie Halcro",
+      "character": "Self",
+      "profilePath": "/5pksennsieXkgfWWA5UzTR7rp5f.jpg",
+      "order": 0
+    },
+    {
+      "id": "8fb5c86b-a63d-44bf-b3d4-b1397eac289d",
+      "tvSeriesId": "13b22ed4-1816-4270-957c-01da9b68db5f",
+      "tmdbPersonId": 1568595,
+      "name": "Malika Haqq",
+      "character": "Self",
+      "profilePath": "/zNSEX5BnhwGgIAbfohNu4XtToJj.jpg",
+      "order": 1
+    },
+    {
+      "id": "6b0c4fb7-630d-4708-980a-c76c1c25e8b0",
+      "tvSeriesId": "13b22ed4-1816-4270-957c-01da9b68db5f",
+      "tmdbPersonId": 1234262,
+      "name": "Khadijah Haqq McCray",
+      "character": "Self",
+      "profilePath": "/oYP5ZIP3GdHssUz0ST2CcDlmJ9y.jpg",
+      "order": 2
+    },
+    {
+      "id": "2bd46a1b-b6d4-4016-9eed-36ba94cda9e3",
+      "tvSeriesId": "13b22ed4-1816-4270-957c-01da9b68db5f",
+      "tmdbPersonId": 3853609,
+      "name": "Nicole Lynn Williams",
+      "character": "Self",
+      "profilePath": "/tcSotM2zncdP4jJqeZgnDTblIQY.jpg",
+      "order": 3
+    },
+    {
+      "id": "041b186f-cc9a-414e-a525-8a4e559830d3",
+      "tvSeriesId": "13b22ed4-1816-4270-957c-01da9b68db5f",
+      "tmdbPersonId": 6164568,
+      "name": "Yris Palmer",
+      "character": "Self",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "8c928672-7c2b-486c-8fa9-998f0dfa79e6",
+      "tvSeriesId": "13b22ed4-1816-4270-957c-01da9b68db5f",
+      "tmdbPersonId": 2340724,
+      "name": "Olivia Pierson",
+      "character": "Self",
+      "profilePath": "/5drHXCUHdyjowUtFwi4g9zlR1L9.jpg",
+      "order": 5
+    },
+    {
+      "id": "4916c6c6-0a1e-4ab0-be03-9b853278c3e4",
+      "tvSeriesId": "13b22ed4-1816-4270-957c-01da9b68db5f",
+      "tmdbPersonId": 1255872,
+      "name": "Khloé Kardashian",
+      "character": "Self",
+      "profilePath": "/9KozpelrLI11rGVnP81ZHqAxGsx.jpg",
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "e991308e-5406-4752-8f04-14078c26e0fb",
+      "tvSeriesId": "13b22ed4-1816-4270-957c-01da9b68db5f",
+      "tmdbId": 533739,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/8P12ytuz41DKCBSpjX3Ntev177Z.jpg",
+      "airDate": "2026-08-21",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-09-11T10:54:56.825Z",
+      "updatedAt": "2026-09-11T10:55:23.689Z"
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "slug": "mercury-rising-1998",
+  "id": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+  "tmdbId": 8838,
+  "imdbId": "tt0120749",
+  "title": "Mercury Rising",
+  "originalTitle": "Mercury Rising",
+  "overview": "Renegade FBI agent Art Jeffries protects a nine-year-old autistic boy who has cracked the government's new \"unbreakable\" code.",
+  "tagline": "Someone knows too much.",
+  "posterPath": "/60AAso6I2TzQCy2SjqtzPni8csA.jpg",
+  "backdropPath": "/5EkowLSlfQT50KbeHzhvbdyaIoI.jpg",
+  "logoPath": "/3zHBvY0OOfRJ14EyERGZLPG762u.png",
+  "backdrops": [
+    "/5EkowLSlfQT50KbeHzhvbdyaIoI.jpg",
+    "/eXEepDsh5Rh7tCN7aKfcgJ6600H.jpg",
+    "/8OcNbb2xo4vZ6ELelnCcG8d5Z7X.jpg",
+    "/sK1y4LrrYs3iZKPfYsiVcABToxd.jpg",
+    "/xwvGF0NDxnDBOwPSCpMVmaCmfN3.jpg",
+    "/1ocbxZutX8M85887S5K1H4Kzpka.jpg",
+    "/cAbnjD3GH8WtJ9Gknn9CjlyIj8I.jpg",
+    "/bRltP2Jw714l9DDNHMXNdITs7bo.jpg",
+    "/i6hfitZ3zP5DgPKVXDU2jQYqxpA.jpg",
+    "/3P50lZOVYz2BXasJwdBpaC5morl.jpg"
+  ],
+  "releaseDate": "1998-04-03",
+  "runtime": 111,
+  "voteAverage": "6.30",
+  "popularity": null,
+  "popularityScore": 24,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=jkAGQJZFEmg",
+  "quality": "BLU-RAY",
+  "director": "Harold Becker",
+  "directorTmdbId": 23213,
+  "directorProfilePath": "/a68PQMWKXeB8rbdkxiR6RwshzBd.jpg",
+  "productionCompanies": [
+    {
+      "id": 33,
+      "name": "Universal Pictures",
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+      "id": 23,
+      "name": "Imagine Entertainment",
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 782,
+      "name": "assassin"
+    },
+    {
+      "id": 4654,
+      "name": "undercover agent"
+    },
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 1812,
+      "name": "fbi"
+    },
+    {
+      "id": 1646,
+      "name": "autism"
+    },
+    {
+      "id": 3432,
+      "name": "bangkok, thailand"
+    },
+    {
+      "id": 3635,
+      "name": "national security agency (nsa)"
+    },
+    {
+      "id": 10656,
+      "name": "child in peril"
+    },
+    {
+      "id": 10410,
+      "name": "conspiracy"
+    },
+    {
+      "id": 181318,
+      "name": "asperger's syndrome"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 567,
+  "watchlistCount": 5,
+  "favouriteCount": 2,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-03T12:42:10.201Z",
+  "updatedAt": "2026-10-03T12:42:17.258Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "552b46fc-505a-4c66-866a-12987e1692e6",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 62,
+      "name": "Bruce Willis",
+      "character": "Art Jeffries",
+      "profilePath": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg",
+      "order": 0
+    },
+    {
+      "id": "d3acc775-946a-4185-9ab1-4c7fa1c07f50",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 7447,
+      "name": "Alec Baldwin",
+      "character": "Nicholas Kudrow",
+      "profilePath": "/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg",
+      "order": 1
+    },
+    {
+      "id": "51efe409-ef85-475d-a1c5-c03d7259b47d",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 8186,
+      "name": "Miko Hughes",
+      "character": "Simon Lynch",
+      "profilePath": "/6oBM2RVDryymOi966ZkCNEDEsws.jpg",
+      "order": 2
+    },
+    {
+      "id": "a76cab54-7875-44e0-91bd-f6fc61ec6961",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 8687,
+      "name": "Chi McBride",
+      "character": "Tommy B. Jordan",
+      "profilePath": "/cesCeJZ5gSywA9lTYReB5uhkfek.jpg",
+      "order": 3
+    },
+    {
+      "id": "7b2991f3-79c1-4b10-9634-eeb0cab47cff",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 21165,
+      "name": "Kim Dickens",
+      "character": "Stacey",
+      "profilePath": "/yr6kstI1hdLP6LXz2xyBB4ovduj.jpg",
+      "order": 4
+    },
+    {
+      "id": "553e5de0-1213-4e29-85c9-1c726b06e913",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 53963,
+      "name": "Robert Stanton",
+      "character": "Dean Crandell",
+      "profilePath": "/9MGtabbO2H3kVeehCzRlhQjFe4T.jpg",
+      "order": 5
+    },
+    {
+      "id": "aa963f3a-8b06-4e59-aeeb-26555ce189a1",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 154883,
+      "name": "Bodhi Elfman",
+      "character": "Leo Pedranski",
+      "profilePath": "/jQSJxARZYfznOKIDvBdYhXeFMvP.jpg",
+      "order": 6
+    },
+    {
+      "id": "f4a97dc9-a617-45b3-a984-14da6af51d2a",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 7465,
+      "name": "Carrie Preston",
+      "character": "Emily Lang",
+      "profilePath": "/Aawu3RmB8ZDha13XIjtDDQF9XfD.jpg",
+      "order": 7
+    },
+    {
+      "id": "c5a12518-992c-41aa-bbd7-28c5095cff9e",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 156038,
+      "name": "Lindsey Ginter",
+      "character": "Peter Burrell",
+      "profilePath": "/wktPUBjRcOCTXZzXL4Rt9c1d9t7.jpg",
+      "order": 8
+    },
+    {
+      "id": "a375c7b5-56c9-4c3f-b9c1-97fc31d58728",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 53,
+      "name": "Peter Stormare",
+      "character": "Shayes",
+      "profilePath": "/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg",
+      "order": 9
+    },
+    {
+      "id": "b0b673ca-8bf8-4cdc-91bb-429a3efa7c25",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 27116,
+      "name": "Kevin Conway",
+      "character": "Lomax",
+      "profilePath": "/803hyktASensafHsdvDCnlzWK8k.jpg",
+      "order": 10
+    },
+    {
+      "id": "78fca678-9038-43ba-9ff6-ccb4f810ade4",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 3911,
+      "name": "John Carroll Lynch",
+      "character": "Martin Lynch",
+      "profilePath": "/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg",
+      "order": 11
+    },
+    {
+      "id": "2d2fb108-d4cc-42f6-8ad7-cb657973be86",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 946447,
+      "name": "Kelley Hazen",
+      "character": "Jenny Lynch",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "c5b96bf8-97b6-4a1c-8f44-1f3fe455accb",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 4735,
+      "name": "John Doman",
+      "character": "Supervisor Hartley",
+      "profilePath": "/2HQRXWb6QrUFHJtJrgY8zpLP8u8.jpg",
+      "order": 13
+    },
+    {
+      "id": "39d9ad1b-3ea5-4733-8aff-0972fcbe6ef7",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 18262,
+      "name": "Richard Riehle",
+      "character": "Edgar Halstrom",
+      "profilePath": "/wgjBsgpzRvardVXZhNGixSw63g2.jpg",
+      "order": 14
+    },
+    {
+      "id": "09246ded-1d0a-4193-9384-f2137e206621",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 9186,
+      "name": "Chad Lindberg",
+      "character": "James",
+      "profilePath": "/sUaxwqrwYjZGtLcRH3rsyBd1L9d.jpg",
+      "order": 15
+    },
+    {
+      "id": "498bd470-5fc7-4be4-b1b6-21bc518d4b58",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 58739,
+      "name": "Hank Harris",
+      "character": "Isaac",
+      "profilePath": "/eSen8ub5SAnzqSel1brB7Ju76aa.jpg",
+      "order": 16
+    },
+    {
+      "id": "537fabab-ecca-49de-874c-ef2b5c93f558",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 20187,
+      "name": "Camryn Manheim",
+      "character": "Dr. London",
+      "profilePath": "/jBriBpXLkgJW7ONUIMuK1k99Ywp.jpg",
+      "order": 17
+    },
+    {
+      "id": "612f09f7-576d-4181-9868-2fc8fd78da48",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 21675,
+      "name": "Jack Conley",
+      "character": "Detective Nichols",
+      "profilePath": "/78bceHx2BdTJLhhomIbpQKm15TR.jpg",
+      "order": 18
+    },
+    {
+      "id": "dda7e663-f8a1-43a2-aa54-f64cb9a008f9",
+      "movieId": "bebd284b-e0f8-47d4-afef-3f5885358ef4",
+      "tmdbPersonId": 156731,
+      "name": "Maricela Ochoa",
+      "character": "Charlayne",
+      "profilePath": "/npbluIR0kHMD33u2qswmRA7Y2Bv.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "rubiresin",
+    "displayName": "rubi"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

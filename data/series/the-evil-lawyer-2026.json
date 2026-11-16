@@ -1,0 +1,84 @@
+{
+  "slug": "the-evil-lawyer-2026",
+  "id": "a1329e5b-7047-41a7-83e5-fe4ccac1008c",
+  "title": "The Evil Lawyer",
+  "overview": "Framed for a brutal crime he didn't commit, a young attorney puts his life in the hands of a callous defense lawyer to clear his name and find the truth.",
+  "tagline": null,
+  "posterPath": "/srwzPdGdkCdDzmhBpNoOGwNrBNf.jpg",
+  "backdropPath": "/tD1AbmwKLSXInlvqS3eZCeKjNfu.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-06-11",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8eb7ee76-f5e7-4223-ae2d-098e4faf41c9",
+      "tvSeriesId": "a1329e5b-7047-41a7-83e5-fe4ccac1008c",
+      "tmdbPersonId": 1206367,
+      "name": "Rhatha Phongam",
+      "character": "Jittri",
+      "profilePath": "/wt4hoBCSl1YTY8pRhPuKlcmH8m0.jpg",
+      "order": 0
+    },
+    {
+      "id": "a1810d30-2215-4f85-b243-d0cdb5709913",
+      "tvSeriesId": "a1329e5b-7047-41a7-83e5-fe4ccac1008c",
+      "tmdbPersonId": 2100736,
+      "name": "Nat Kitcharit",
+      "character": "Mek",
+      "profilePath": "/clpTGzwkqnA0jhLJVw1OIxbXiap.jpg",
+      "order": 1
+    },
+    {
+      "id": "4b4e6286-a3af-47a8-9e60-d76f8e2ed0b6",
+      "tvSeriesId": "a1329e5b-7047-41a7-83e5-fe4ccac1008c",
+      "tmdbPersonId": 2388385,
+      "name": "Atchareeya Potipipittanakorn",
+      "character": "Ang",
+      "profilePath": "/g7VPUBV5hkZYikTjY60fEahhT6X.jpg",
+      "order": 2
+    },
+    {
+      "id": "e4dd5efc-f2b9-425b-b9c3-e067ca37d2fe",
+      "tvSeriesId": "a1329e5b-7047-41a7-83e5-fe4ccac1008c",
+      "tmdbPersonId": 1259528,
+      "name": "Songsit Roongnophakunsri",
+      "character": "Anan",
+      "profilePath": "/6sh6H6UYyUDPxw3gPXzdp2ERy4m.jpg",
+      "order": 3
+    }
+  ],
+  "seasons": [
+    {
+      "id": "667b71f4-3a58-481c-9180-1b9c6e2f9fdc",
+      "tvSeriesId": "a1329e5b-7047-41a7-83e5-fe4ccac1008c",
+      "tmdbId": 519620,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/1xVfGMogjedmwtomxxeXi2VsCSe.jpg",
+      "airDate": "2026-06-11",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-06-12T07:35:38.571Z",
+      "updatedAt": "2026-06-12T07:39:01.505Z"
+    }
+  ]
+}

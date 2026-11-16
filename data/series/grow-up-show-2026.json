@@ -1,0 +1,138 @@
+{
+  "slug": "grow-up-show-2026",
+  "id": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+  "title": "Grow Up Show",
+  "overview": "Step right up to 1950s Japan! The postwar economy is booming, but the Sunflower Circus is not. Led by ringmaster Maria, the cash-strapped troupe tours the country in desperate competition for a spot in the Circus Collection–an elite global festival. When circus prodigy Mizuka Tsurumaki joins their ranks, the Sunflower Circus’s fortune shifts, finally giving them a shot at big top glory.",
+  "tagline": "We're bringing the circus to you!",
+  "posterPath": "/f5xG4oxOWnGVpAqgOj1RgIT3qOi.jpg",
+  "backdropPath": "/kVX2lGqrPfXcRypZGnV2jn3h9rm.jpg",
+  "logoPath": "/pVD7TPFxnmtuYCIKunncBZ0hTXZ.png",
+  "firstAirDate": "2026-07-05",
+  "voteAverage": "6.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6086f82b-6592-49d2-9de8-87e353c5a293",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbPersonId": 5571139,
+      "name": "Tomoka Noda",
+      "character": "Mizuka Tsurumaki (voice)",
+      "profilePath": "/a2NPwogW1frfGLHlcp1VmXMYQQv.jpg",
+      "order": 0
+    },
+    {
+      "id": "1f925cef-6dc2-4125-bd4d-4ebec9e7d4c6",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbPersonId": 4484572,
+      "name": "Shiori Kurosaki",
+      "character": "Ouka Kawasumi (voice)",
+      "profilePath": "/2tAkVamausxVk41bewOLsLLo7vs.jpg",
+      "order": 1
+    },
+    {
+      "id": "349b8afa-c7ea-48a1-8b82-cb55b0259a92",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbPersonId": 3536962,
+      "name": "Reo Osanai",
+      "character": "Imari Agano (voice)",
+      "profilePath": "/7ZOvawcW1Vhu8bzdtDSgbljrbM4.jpg",
+      "order": 2
+    },
+    {
+      "id": "6f3e27f2-1178-41ee-a6d2-cade142383e6",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbPersonId": 5129821,
+      "name": "Nanako Ando",
+      "character": "Isuzu Ikazuchi (voice)",
+      "profilePath": "/znscd8gM2x7i6NSlB87S98LQUZ4.jpg",
+      "order": 3
+    },
+    {
+      "id": "0673ea10-550e-412b-9188-5df72d6ddfba",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbPersonId": 2004086,
+      "name": "Tomori Kusunoki",
+      "character": "Aoi Yura (voice)",
+      "profilePath": "/iiGJPsLAnOoqmkNjLWCvbbDJw50.jpg",
+      "order": 4
+    },
+    {
+      "id": "f0a556c5-a0c4-4cf1-8c0d-d44d16d133b2",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbPersonId": 2431907,
+      "name": "Yuko Natsuyoshi",
+      "character": "Akane Yura (voice)",
+      "profilePath": "/62JhZDG70JAzht71e1B0Y7Ny14r.jpg",
+      "order": 5
+    },
+    {
+      "id": "c52a69b9-0c7d-4b5e-b742-621a89c6e774",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbPersonId": 2395774,
+      "name": "Yuna Kamakura",
+      "character": "Shizuku Sakawa (voice)",
+      "profilePath": "/rFZqFUwGyB8RJk5fRZKomffJ90p.jpg",
+      "order": 6
+    },
+    {
+      "id": "4cbd6b5e-fb0e-4588-9543-ff878d3270ca",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbPersonId": 2411059,
+      "name": "Yuka Iwahashi",
+      "character": "Svietlana (voice)",
+      "profilePath": "/7LosFDwp9YPNh2cZV0MSEaB0lWy.jpg",
+      "order": 7
+    },
+    {
+      "id": "f6d28a6b-42d3-4980-8b5a-2b01aa4b4098",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbPersonId": 83928,
+      "name": "Rie Kugimiya",
+      "character": "Maria (voice)",
+      "profilePath": "/xHonhNFpTpz9zCVXLAF7D4OuHLv.jpg",
+      "order": 8
+    },
+    {
+      "id": "dd6fffa0-ddd8-4cd8-a653-062b325285f9",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbPersonId": 1254671,
+      "name": "Ai Kayano",
+      "character": "Rin Mamiya (voice)",
+      "profilePath": "/l8ywp387rfdAS7mOExe3cEZnsk0.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1f3b091b-eb0a-4c9c-97ce-72c84a61e4ad",
+      "tvSeriesId": "74bd9dec-53f5-45d8-9073-5f68196227c8",
+      "tmdbId": 465619,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/oDPi9dFaMGETfnNl8miwDj1OMxI.jpg",
+      "airDate": "2026-07-05",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-10-12T03:06:06.370Z",
+      "updatedAt": "2026-10-12T03:07:49.445Z"
+    }
+  ]
+}

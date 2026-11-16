@@ -1,0 +1,84 @@
+{
+  "slug": "inside-the-circle-2026",
+  "id": "cca96aee-b00b-4251-94b3-8e6f93c39fa4",
+  "title": "Inside The Circle",
+  "overview": "Four lifelong friends are caught in a web of blackmail when a leaked video threatens to expose the secrets that could destroy their friendship.",
+  "tagline": null,
+  "posterPath": "/3JpnP8fYVb9B9FuvdGT4ZkRRYZJ.jpg",
+  "backdropPath": "/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-10-07",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1c87461b-024a-4e2f-bbec-da8f46601a5c",
+      "tvSeriesId": "cca96aee-b00b-4251-94b3-8e6f93c39fa4",
+      "tmdbPersonId": 544440,
+      "name": "Zuria Vega",
+      "character": "Amelia",
+      "profilePath": "/oaTw6Qz48KMY7xwAYOAJZ8HFIFb.jpg",
+      "order": 0
+    },
+    {
+      "id": "db7563e5-1ff1-4130-9f29-78e5733e148a",
+      "tvSeriesId": "cca96aee-b00b-4251-94b3-8e6f93c39fa4",
+      "tmdbPersonId": 937314,
+      "name": "Osvaldo Benavides",
+      "character": "",
+      "profilePath": "/unlKWACoUgegUUA4p4zkMmkJkya.jpg",
+      "order": 1
+    },
+    {
+      "id": "5517be5d-58c5-439b-bf0d-06ae9de6c08a",
+      "tvSeriesId": "cca96aee-b00b-4251-94b3-8e6f93c39fa4",
+      "tmdbPersonId": 1439157,
+      "name": "Raúl Briones",
+      "character": "",
+      "profilePath": "/hMSBFmVdlXSxUIotM7MoPs8lkqP.jpg",
+      "order": 2
+    },
+    {
+      "id": "6e4a0a3b-77b6-49dc-ac13-1a48d7ba910b",
+      "tvSeriesId": "cca96aee-b00b-4251-94b3-8e6f93c39fa4",
+      "tmdbPersonId": 85560,
+      "name": "Michel Brown",
+      "character": "",
+      "profilePath": "/4a4KLHBaDbB8MHDCqOsKMfBqxDR.jpg",
+      "order": 3
+    }
+  ],
+  "seasons": [
+    {
+      "id": "98aedcb1-00d6-42d2-bbf3-4991aa5655d3",
+      "tvSeriesId": "cca96aee-b00b-4251-94b3-8e6f93c39fa4",
+      "tmdbId": 453974,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-10-07",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-07T17:06:48.886Z",
+      "updatedAt": "2026-10-07T17:11:09.286Z"
+    }
+  ]
+}

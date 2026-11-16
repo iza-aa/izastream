@@ -1,0 +1,129 @@
+{
+  "slug": "our-dating-story-the-experienced-you-and-the-inexperienced-me-2023",
+  "id": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+  "title": "Our Dating Story: The Experienced You and the Inexperienced Me",
+  "overview": "Ryuto Kashima is the school's gloomy introvert, and he's got a crush on Runa Shirakawa, the popular girl. After losing a bet to classmates, he confesses his feelings to Runa one day. Shocked and secretly just as inexperienced as Ryuto, Runa agrees to date him. The relationship grows between two people who are as similar as they are different. Will their young love blossom? Time will tell!",
+  "tagline": null,
+  "posterPath": "/nNKQNAyOO4d1zrpQGXESSkdzfUD.jpg",
+  "backdropPath": "/ce1xzt58q7RsrAKOSB7hpXMqaSJ.jpg",
+  "logoPath": "/zrMeYHyh7KEKJmmr1nPcDdC7ipy.png",
+  "firstAirDate": "2023-10-06",
+  "voteAverage": "6.91",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "18884191-512f-4199-a71e-8c840e4ffb9c",
+      "tvSeriesId": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+      "tmdbPersonId": 1256603,
+      "name": "Natsuki Hanae",
+      "character": "Ryuto Kashima (voice)",
+      "profilePath": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg",
+      "order": 0
+    },
+    {
+      "id": "fd58b28b-427a-48f6-954f-c4b62f691e16",
+      "tvSeriesId": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+      "tmdbPersonId": 1339189,
+      "name": "Saori Onishi",
+      "character": "Runa Shirakawa (voice)",
+      "profilePath": "/cziKB19QMFJ6DQDtxTn07uRY2hq.jpg",
+      "order": 1
+    },
+    {
+      "id": "67b33e66-9485-48a1-8ee3-042f2d269c61",
+      "tvSeriesId": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+      "tmdbPersonId": 2251986,
+      "name": "Aoi Koga",
+      "character": "Maria Kurose (voice)",
+      "profilePath": "/uVpwheVV4aPROyY1toYv3v5HSPD.jpg",
+      "order": 2
+    },
+    {
+      "id": "4435983b-728c-4b24-954e-825bc739b9e1",
+      "tvSeriesId": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+      "tmdbPersonId": 1491332,
+      "name": "Ayaka Fukuhara",
+      "character": "Nikoru Yamana (voice)",
+      "profilePath": "/ldfOv94R1qdPO9404cfu6bogqmj.jpg",
+      "order": 3
+    },
+    {
+      "id": "db076894-760b-49be-907f-efcf87d492a3",
+      "tvSeriesId": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+      "tmdbPersonId": 2004086,
+      "name": "Tomori Kusunoki",
+      "character": "Akari Tanikita (voice)",
+      "profilePath": "/iiGJPsLAnOoqmkNjLWCvbbDJw50.jpg",
+      "order": 4
+    },
+    {
+      "id": "fe0e9a53-87c3-48b9-b3ff-79064accc187",
+      "tvSeriesId": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+      "tmdbPersonId": 1566511,
+      "name": "Fukushi Ochiai",
+      "character": "Yūsuke Ijichi (voice)",
+      "profilePath": "/xE2FoiUjb9N51J7jg0U8eGmfK19.jpg",
+      "order": 5
+    },
+    {
+      "id": "f34029c6-7634-444d-80a9-f984784b40c6",
+      "tvSeriesId": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+      "tmdbPersonId": 40331,
+      "name": "Daisuke Sakaguchi",
+      "character": "Ren Nishina (voice)",
+      "profilePath": "/cP9lnoYSCyIpSlUkZN4k6RoD7fF.jpg",
+      "order": 6
+    },
+    {
+      "id": "6c297f7c-a2e4-415f-b18a-9ae86f045609",
+      "tvSeriesId": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+      "tmdbPersonId": 1249235,
+      "name": "Tomoaki Maeno",
+      "character": "Shūgo Sekiya (voice)",
+      "profilePath": "/w3lEuXSbEyzzNyO3YnxsF6wm2N5.jpg",
+      "order": 7
+    },
+    {
+      "id": "89b35da3-0195-4b4d-87ab-d2a360413d7b",
+      "tvSeriesId": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+      "tmdbPersonId": 4311356,
+      "name": "KUN",
+      "character": "KEN (voice)",
+      "profilePath": null,
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "a45de620-defb-4a2c-ae70-ee4296b6bab9",
+      "tvSeriesId": "6509d3b2-0ee6-4615-8432-7f92e2568b91",
+      "tmdbId": 307941,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xaetnad274SyIVgaAW5kY0RRaeH.jpg",
+      "airDate": "2023-10-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-08-30T13:30:41.874Z",
+      "updatedAt": "2026-08-30T13:31:47.811Z"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "slug": "pet-sematary-ii-1992",
+  "id": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+  "tmdbId": 10906,
+  "imdbId": "tt0105128",
+  "title": "Pet Sematary II",
+  "originalTitle": "Pet Sematary II",
+  "overview": "The \"sematary\" is up to its old zombie-raising tricks again. This time, the protagonists are Jeff Matthews, whose mother died in a Hollywood stage accident, and Drew Gilbert, a boy coping with an abusive stepfather.",
+  "tagline": "Raise some hell.",
+  "posterPath": "/9g6ngNlHOfMfQnaKkw9468p67d4.jpg",
+  "backdropPath": "/yLGlSNfVVidVeanH6vY8ZntdPiy.jpg",
+  "logoPath": "/azNSy1Z2lk2LgpCjLUG2GBKVKt7.png",
+  "backdrops": [
+    "/v9UmZt6zFT21vpK54ko8RhaygLX.jpg",
+    "/oNYWTNMfO26cSxnil8GT0cpJVR5.jpg",
+    "/yLGlSNfVVidVeanH6vY8ZntdPiy.jpg",
+    "/do3RXPOvnMjbJQCM0kJ87husGe6.jpg",
+    "/l9mO9iXvZdpFe7IbndwxUmPZFlT.jpg",
+    "/gl90aTgRCnRnBd5bVsas5NZfQ3F.jpg",
+    "/dwaweserRRoGd4zwEi0pf8Y3flL.jpg",
+    "/mtXh4YTIlBX3mW2bUxjfbOIxIOn.jpg",
+    "/zr1BTWwwSo9sOQRjDfupwz9acwP.jpg",
+    "/eeA4PqAnUtAzMT7ITySR0HNQ9vU.jpg"
+  ],
+  "releaseDate": "1992-08-28",
+  "runtime": 100,
+  "voteAverage": "5.48",
+  "popularity": null,
+  "popularityScore": 9,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=hdn56hGq5O0",
+  "quality": "WEB-DL",
+  "director": "Mary Lambert",
+  "directorTmdbId": 56263,
+  "directorProfilePath": "/q8Fir0mq5t0iBbwjaERCvYPofzI.jpg",
+  "productionCompanies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+      "id": 3264,
+      "name": "Columbus Circle Films",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 240,
+      "name": "underdog"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 2735,
+      "name": "veterinarian"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 6506,
+      "name": "resurrection"
+    },
+    {
+      "id": 6669,
+      "name": "stepfather"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 9720,
+      "name": "woods"
+    },
+    {
+      "id": 12377,
+      "name": "zombie"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 157488,
+      "name": "pet cemetery"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 741,
+  "watchlistCount": 5,
+  "favouriteCount": 0,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-10T05:14:22.116Z",
+  "updatedAt": "2026-09-10T05:14:59.932Z",
+  "genres": [
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c7c0b500-43eb-40e8-9990-07548ce28b78",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 820,
+      "name": "Edward Furlong",
+      "character": "Jeff Matthews",
+      "profilePath": "/e221dMIBgb6Lk092GIkHB9ohQF1.jpg",
+      "order": 0
+    },
+    {
+      "id": "27b919cc-e4cc-45d0-92b0-07555cfd8658",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 11085,
+      "name": "Anthony Edwards",
+      "character": "Chase Matthews",
+      "profilePath": "/rP88gP87pa3je6Viem3081tESIV.jpg",
+      "order": 1
+    },
+    {
+      "id": "d8489cac-d1ec-45b1-8db8-c1184cc750db",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 6574,
+      "name": "Clancy Brown",
+      "character": "Sheriff Gus Gilbert",
+      "profilePath": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg",
+      "order": 2
+    },
+    {
+      "id": "3a34c9dd-c556-4489-9b1c-56c29889259a",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 57422,
+      "name": "Jared Rushton",
+      "character": "Clyde Parker",
+      "profilePath": "/vxH7gfxznPWWKB5zE0J0lsOApgP.jpg",
+      "order": 3
+    },
+    {
+      "id": "4a174a6f-43d1-4193-96ac-d0dbb392632c",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 4761,
+      "name": "Darlanne Fluegel",
+      "character": "Renee Hallow",
+      "profilePath": "/rXmishEsaMzo0fwf0QyEbK2JhUk.jpg",
+      "order": 4
+    },
+    {
+      "id": "81dd5a04-2cf5-4c55-aea3-8f1630ed7bbf",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 2140105,
+      "name": "Jason McGuire",
+      "character": "Drew Gilbert",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "f0719776-fdbb-4932-9251-ef6c07141f73",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 5601,
+      "name": "Sarah Trigger",
+      "character": "Marjorie Hargrove",
+      "profilePath": "/f1I9f9ELzfTaLceBzd7Oqcf06PI.jpg",
+      "order": 6
+    },
+    {
+      "id": "97107522-b404-4f43-bbbc-40af528a6f63",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 1224165,
+      "name": "Lisa Waltz",
+      "character": "Amanda Gilbert",
+      "profilePath": "/tWjamTvyrmCVQ21V2Ts2I9yCwWs.jpg",
+      "order": 7
+    },
+    {
+      "id": "39ea5eaa-8b0d-4f50-aebf-828d391e7ea6",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 2107077,
+      "name": "Jim Peck",
+      "character": "Quentin Yolander",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "983d96eb-e1d7-4c6a-90af-a39c9b6eaa66",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 1720060,
+      "name": "Len Hunt",
+      "character": "Director",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "38046683-8df5-439b-a5d6-5dd55f4740e0",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 136905,
+      "name": "Reid Binion",
+      "character": "Brad",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "8f72c049-c861-40bd-a9c1-9c44bfb44d59",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 1002621,
+      "name": "Dave Ratajczak",
+      "character": "Stevie",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "7e78662e-6d36-494b-b07e-2ba4d10d495e",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 1500669,
+      "name": "Lucius Houghton",
+      "character": "Puppeteer",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "80e9c53a-c2a8-4ded-bd12-221bbf088c3b",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 41019,
+      "name": "Wilbur Fitzgerald",
+      "character": "First assistant director",
+      "profilePath": "/2s0MtvrLkzb4zGQyLeJLmUWoEWU.jpg",
+      "order": 13
+    },
+    {
+      "id": "f9d677b1-2cb5-48d3-ac8f-d808e61eb966",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 1397731,
+      "name": "Elizabeth Ziegler",
+      "character": "Steadicam Operator",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "509f088b-c115-4408-921a-781a966936a4",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 1205993,
+      "name": "Ken Fisher",
+      "character": "Assistant Steadicam",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "5b7df747-b901-4771-8885-b961d4c0d72b",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 99042,
+      "name": "Gil Roper",
+      "character": "Electrician",
+      "profilePath": "/x53HwoQLMFOLhBI0FwiN77Tnv1X.jpg",
+      "order": 16
+    },
+    {
+      "id": "47053eaa-5575-47d5-8d76-9cce680ef60f",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 32494,
+      "name": "Robert Easton",
+      "character": "Priest",
+      "profilePath": "/17cLA9SHPbACHPrTfh5yfzS1ZJM.jpg",
+      "order": 17
+    },
+    {
+      "id": "02519df0-ed94-4472-baaf-7b54ba5d9f4d",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 1381096,
+      "name": "Judson Vaughn",
+      "character": "Reporter",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "c5f5c23f-fc5b-47b7-9667-02c7a18c66d8",
+      "movieId": "ec84aa30-4226-46b7-b49f-87c54cfaa062",
+      "tmdbPersonId": 1609023,
+      "name": "Bruce Evers",
+      "character": "Mover",
+      "profilePath": "/r1rKmmimCagn9ljIrbc1bh3kEK6.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

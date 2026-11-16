@@ -1,0 +1,86 @@
+{
+  "slug": "not-a-stranger-2026",
+  "id": "d60cfb44-c4a5-4fce-91d0-13c426c744bd",
+  "title": "Not a Stranger",
+  "overview": "After giving birth, painter Funda put her career on hold to focus on her child. Ready to return to painting, she finally finds the nanny she has been searching for: Nazlı. But the mysterious and increasingly unsettling woman soon begins to disrupt the seemingly peaceful lives of Funda and her husband İlker. What begins as a simple employment arrangement develops into a dangerous psychological game in which desire, secrets and loyalty are put to the test.",
+  "tagline": null,
+  "posterPath": "/tgBRNtynz81e0DE4bWo8XwTbCw9.jpg",
+  "backdropPath": "/vPQ4Ctn8MS6NBP73duf0GHtbziU.jpg",
+  "logoPath": "/2uS1GQnNdvrycLfEzfiBsSsiGO1.png",
+  "firstAirDate": "2026-09-17",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8e92ea54-e5c0-4acf-8b21-44ff62f55911",
+      "tvSeriesId": "d60cfb44-c4a5-4fce-91d0-13c426c744bd",
+      "tmdbPersonId": 1969653,
+      "name": "Melis Sezen",
+      "character": "Nazlı",
+      "profilePath": "/kiTyCXXX1s6vtwtjKGCYKkhwTsx.jpg",
+      "order": 0
+    },
+    {
+      "id": "8fa90b30-2b66-4b96-bdd0-4cb27f046254",
+      "tvSeriesId": "d60cfb44-c4a5-4fce-91d0-13c426c744bd",
+      "tmdbPersonId": 1494304,
+      "name": "Elçin Sangu",
+      "character": "Funda",
+      "profilePath": "/5jGVTT2ykGro046rvKP75y7Mnyi.jpg",
+      "order": 1
+    },
+    {
+      "id": "c158b254-871f-41b4-b4fe-8a47373b6fb6",
+      "tvSeriesId": "d60cfb44-c4a5-4fce-91d0-13c426c744bd",
+      "tmdbPersonId": 1584426,
+      "name": "Ozan Dolunay",
+      "character": "İlker",
+      "profilePath": "/vLXxGS3DOlK5C8nbAPVndWurnmu.jpg",
+      "order": 2
+    },
+    {
+      "id": "9835d292-2c91-4ae7-ae44-1a18546d7e9c",
+      "tvSeriesId": "d60cfb44-c4a5-4fce-91d0-13c426c744bd",
+      "tmdbPersonId": 120877,
+      "name": "Cemal Hünal",
+      "character": "Kemal",
+      "profilePath": "/fR3xGBAeOaLVI0W4XGsR9khWE3O.jpg",
+      "order": 3
+    },
+    {
+      "id": "83613503-13f7-49d3-87dc-ba4995e14b84",
+      "tvSeriesId": "d60cfb44-c4a5-4fce-91d0-13c426c744bd",
+      "tmdbPersonId": 3475166,
+      "name": "Efe Taşdelen",
+      "character": "Emre",
+      "profilePath": "/zNxVyYTQmzCvBNOrsL4KwdoFF9i.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "bbdab28b-87de-434d-acc3-08f64f4528c8",
+      "tvSeriesId": "d60cfb44-c4a5-4fce-91d0-13c426c744bd",
+      "tmdbId": 513011,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/nTYNtUEbd7KAY4qPNKikGuppHv5.jpg",
+      "airDate": "2026-09-17",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-18T06:08:59.941Z",
+      "updatedAt": "2026-09-18T07:11:50.402Z"
+    }
+  ]
+}

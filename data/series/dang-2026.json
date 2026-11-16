@@ -1,0 +1,75 @@
+{
+  "slug": "dang-2026",
+  "id": "f50445ed-10c0-41af-be96-5c2c3a97370e",
+  "title": "DANG!",
+  "overview": "Follow a brother and sister whose fun, messy lives in New York City are interrupted when their worst nightmare comes true: Their high-achieving older sister shows up and wants to hang out with them.",
+  "tagline": null,
+  "posterPath": "/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+  "backdropPath": "/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg",
+  "logoPath": "/bRyUIj9iXzKiGUgmU2U7yd0QgWM.png",
+  "firstAirDate": "2026-09-08",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0b8e60f3-e2a0-4e24-9994-41e66f55f531",
+      "tvSeriesId": "f50445ed-10c0-41af-be96-5c2c3a97370e",
+      "tmdbPersonId": 1381186,
+      "name": "Stephanie Hsu",
+      "character": "Ruthie DANG",
+      "profilePath": "/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg",
+      "order": 0
+    },
+    {
+      "id": "ca24a698-a8fe-47b0-afbe-6907cbcc8564",
+      "tvSeriesId": "f50445ed-10c0-41af-be96-5c2c3a97370e",
+      "tmdbPersonId": 1708292,
+      "name": "Andrew Law",
+      "character": "Andrew DANG",
+      "profilePath": "/ambF0ZmnMhHxZAd7cNHFLwur8Tt.jpg",
+      "order": 1
+    },
+    {
+      "id": "275f1334-61c5-4ad9-8532-82b036890986",
+      "tvSeriesId": "f50445ed-10c0-41af-be96-5c2c3a97370e",
+      "tmdbPersonId": 2392602,
+      "name": "Poppy Liu",
+      "character": "Eunice DANG",
+      "profilePath": "/i36QkUChZN7K8BQa1ReaZHes6L4.jpg",
+      "order": 2
+    }
+  ],
+  "seasons": [
+    {
+      "id": "5bdd5994-3765-4d17-b66d-bef0361b7258",
+      "tvSeriesId": "f50445ed-10c0-41af-be96-5c2c3a97370e",
+      "tmdbId": 501351,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xv7DwFj1kg1vHUxaPLtjLixJVni.jpg",
+      "airDate": "2026-09-08",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-09T08:11:36.525Z",
+      "updatedAt": "2026-09-09T08:14:55.414Z"
+    }
+  ]
+}

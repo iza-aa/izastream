@@ -1,0 +1,440 @@
+{
+  "slug": "the-abyss-1989",
+  "id": "b033208a-1fdb-4628-9e01-75b5b223c734",
+  "tmdbId": 2756,
+  "imdbId": "tt0096754",
+  "title": "The Abyss",
+  "originalTitle": "The Abyss",
+  "overview": "A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.",
+  "tagline": "When you get there, you will understand.",
+  "posterPath": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+  "backdropPath": "/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
+  "logoPath": "/1vyNTKrptFXzcIomt6PvKMMrhWZ.png",
+  "backdrops": [
+    "/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
+    "/xLzkWj2C6zCWyFT8Z7tKKtfrwcR.jpg",
+    "/exhoC0qre9beg8isvJZxnF4MT7I.jpg",
+    "/jFgto0r4FBKuIqfy60sHm8igzAs.jpg",
+    "/2opqafWMeWuQFU3IbAGbOipLeim.jpg",
+    "/izmvX6XipaoL60FrWKKw0Gyhg5J.jpg",
+    "/5GC485jVntz4UENbw9bOb5gI8mP.jpg",
+    "/mvyXAeLtrOa2xjNQsVF5UyR37El.jpg",
+    "/Arn6wcFOb2nVbX8h4IruyrQtcU6.jpg",
+    "/teyJzKFKzzhg9nyPZpMAdOSISrC.jpg"
+  ],
+  "releaseDate": "1989-08-09",
+  "runtime": 140,
+  "voteAverage": "7.36",
+  "popularity": null,
+  "popularityScore": 182,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=7cCVYAcIIAo",
+  "quality": "WEB-DL",
+  "director": "James Cameron",
+  "directorTmdbId": 2710,
+  "directorProfilePath": "/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg",
+  "productionCompanies": [
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png"
+    },
+    {
+      "id": 1280,
+      "name": "Pacific Western",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 658,
+      "name": "sea"
+    },
+    {
+      "id": 3243,
+      "name": "flying saucer"
+    },
+    {
+      "id": 339,
+      "name": "submarine"
+    },
+    {
+      "id": 270,
+      "name": "ocean"
+    },
+    {
+      "id": 2772,
+      "name": "diving suit"
+    },
+    {
+      "id": 3269,
+      "name": "secret mission"
+    },
+    {
+      "id": 6255,
+      "name": "insanity"
+    },
+    {
+      "id": 3312,
+      "name": "nuclear missile"
+    },
+    {
+      "id": 4410,
+      "name": "u.s. navy"
+    },
+    {
+      "id": 4862,
+      "name": "alien life-form"
+    },
+    {
+      "id": 9738,
+      "name": "ufo"
+    },
+    {
+      "id": 4949,
+      "name": "warning"
+    },
+    {
+      "id": 10503,
+      "name": "scuba diving"
+    },
+    {
+      "id": 14785,
+      "name": "underwater"
+    },
+    {
+      "id": 155334,
+      "name": "scuba"
+    },
+    {
+      "id": 161293,
+      "name": "extraterrestrial life form"
+    },
+    {
+      "id": 162351,
+      "name": "deepsea"
+    },
+    {
+      "id": 177406,
+      "name": "message"
+    },
+    {
+      "id": 185477,
+      "name": "trapped underwater "
+    },
+    {
+      "id": 233020,
+      "name": "thalassophobia"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1948,
+  "watchlistCount": 22,
+  "favouriteCount": 11,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-17T17:16:10.592Z",
+  "updatedAt": "2026-10-17T17:16:16.336Z",
+  "genres": [
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "dcbc14e7-5dcb-4250-9dfb-90870e65005f",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 228,
+      "name": "Ed Harris",
+      "character": "Virgil 'Bud' Brigman",
+      "profilePath": "/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg",
+      "order": 0
+    },
+    {
+      "id": "7094c5a8-6275-4192-aac9-8cec5f8946a1",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 1161,
+      "name": "Mary Elizabeth Mastrantonio",
+      "character": "Lindsey Brigman",
+      "profilePath": "/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg",
+      "order": 1
+    },
+    {
+      "id": "253f2985-c6f2-40c0-9c50-19b1dcd03524",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 2712,
+      "name": "Michael Biehn",
+      "character": "Lieutenant Hiram Coffey",
+      "profilePath": "/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg",
+      "order": 2
+    },
+    {
+      "id": "c32aac6f-8656-4c41-b3d9-d22d5321d767",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 30151,
+      "name": "Leo Burmester",
+      "character": "Catton ‘Catfish’ De Vries",
+      "profilePath": "/o7ZXSICrTDzhxIyd95HBwVjBi1f.jpg",
+      "order": 3
+    },
+    {
+      "id": "d2ff89cd-481b-428f-9615-b69355a5ecf1",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 18342,
+      "name": "Todd Graff",
+      "character": "Alan 'Hippy' Carnes",
+      "profilePath": "/nA8idC01PtLDWBdxWgan7RFiIMz.jpg",
+      "order": 4
+    },
+    {
+      "id": "99eab72f-6b8d-4959-b9c4-e17ff652049a",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 60118,
+      "name": "John Bedford Lloyd",
+      "character": "Jammer Willis",
+      "profilePath": "/tyNDFeQgf2dyjBZtRAskz1lZG1I.jpg",
+      "order": 5
+    },
+    {
+      "id": "2b131a7a-329e-4d75-a613-930167b49908",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 1984,
+      "name": "Kimberly Scott",
+      "character": "Lisa 'One Night' Standing",
+      "profilePath": "/nt6Pu18aULdQ0CNzdvNtBa2FIxX.jpg",
+      "order": 6
+    },
+    {
+      "id": "ef24a57b-1e52-4cd7-b47a-003e0b9ed95e",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 1534,
+      "name": "Chris Elliott",
+      "character": "Bendix",
+      "profilePath": "/oZFGgyDCZaanGfco1UdfxM4rHAJ.jpg",
+      "order": 7
+    },
+    {
+      "id": "e2b4a633-1e90-4963-be22-e92c0d0aae7c",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 21757,
+      "name": "J.C. Quinn",
+      "character": "Arliss 'Sonny' Dawson",
+      "profilePath": "/3ZebZIsQoTDnLnwYaLLluytXer8.jpg",
+      "order": 8
+    },
+    {
+      "id": "eeeb13dc-e20e-4385-8696-b34f0181b969",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 948563,
+      "name": "Pierce Oliver Brewer, Jr.",
+      "character": "Lew Finler",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "75b57797-9422-4de7-bb3c-ff88b2a92868",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 951985,
+      "name": "George Robert Klek",
+      "character": "Wilhite",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "fd933466-9781-4e11-acb3-60f503d9c9d4",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 551894,
+      "name": "Christopher Murphy",
+      "character": "Schoenick",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "9ae70805-00c4-4af3-babe-48e1ce87176d",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 4732,
+      "name": "Adam Nelson",
+      "character": "Ensign Monk",
+      "profilePath": "/j6NLNkyr4qLEfBYpPMt7ojFgoXQ.jpg",
+      "order": 12
+    },
+    {
+      "id": "631c6ce8-57ae-45cb-bd34-c51d3f42dab5",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 14663,
+      "name": "Dick Warlock",
+      "character": "Dwight Perry",
+      "profilePath": "/w9uZDDmAB6DVLGu6fSrvUXnQ9Gz.jpg",
+      "order": 13
+    },
+    {
+      "id": "148d8e78-e4a2-44bb-94f7-9d9232e2f816",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 15442,
+      "name": "Jimmie Ray Weeks",
+      "character": "Leland McBride",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "bd5ba518-ab17-4332-937f-04d3cf52a572",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 97944,
+      "name": "J. Kenneth Campbell",
+      "character": "DeMarco",
+      "profilePath": "/kSMHA2TMWWJc1GGpdud8abVZbGA.jpg",
+      "order": 15
+    },
+    {
+      "id": "575d6617-e356-4b7b-b2dd-e310535bbbb1",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 156819,
+      "name": "Peter Ratray",
+      "character": "Captain",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "0943a819-294c-4580-93c3-08f2c32c6833",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 87118,
+      "name": "Michael Beach",
+      "character": "Barnes",
+      "profilePath": "/7gCBCpK2OSzuUWk5iTZds9NjqkF.jpg",
+      "order": 17
+    },
+    {
+      "id": "7f07e65b-2bb7-4fd8-b13c-4dbb99a0323f",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 38570,
+      "name": "Ken Jenkins",
+      "character": "Gerard Kirkhill",
+      "profilePath": "/basRrWk50y03ydjm0DW8A6AxH1o.jpg",
+      "order": 18
+    },
+    {
+      "id": "71885d0e-ec6a-4c35-8758-3b268219b86f",
+      "movieId": "b033208a-1fdb-4628-9e01-75b5b223c734",
+      "tmdbPersonId": 1044,
+      "name": "Michael Chapman",
+      "character": "Dr. Berg",
+      "profilePath": "/vFFWHlwwIgWoi2NPoVq3uzikCnM.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "a2hfi",
+    "displayName": "rfrdnsyh"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

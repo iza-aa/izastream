@@ -1,0 +1,381 @@
+{
+  "slug": "unabomber-2026",
+  "id": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+  "tmdbId": 1492640,
+  "imdbId": "tt6933238",
+  "title": "UNABOMBER",
+  "originalTitle": "UNABOMBER",
+  "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+  "tagline": "Where brilliance ends, the madness begins.",
+  "posterPath": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+  "backdropPath": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+  "logoPath": "/uzfKF1RAAbKEgQXaSl0x14zAfIN.png",
+  "backdrops": [
+    "/kLqPRuoLtyM6Y7DW6t0CqptIEIB.jpg",
+    "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+    "/fADahnU1BPuErlIcALx65eJdtQo.jpg",
+    "/rWCFHYttXNqtJUFG3IAYkrLHFAp.jpg",
+    "/plhba5CxcoLJ4SUxx9kTIh3zrhZ.jpg",
+    "/mv0XjCvYXBC5VsIGaAqgCMMDNKW.jpg",
+    "/nzg7KDuoEuvXHstjlo4pM9FIX2Y.jpg",
+    "/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
+    "/6hpwxdbXHZd6bPmDlPp5AVGvlE6.jpg",
+    "/bVHDem6kgAn2UrENIA3Xr0dNcgN.jpg"
+  ],
+  "releaseDate": "2026-09-25",
+  "runtime": 101,
+  "voteAverage": "6.97",
+  "popularity": null,
+  "popularityScore": 187,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=B3tR6qQjbgI",
+  "quality": "WEB-DL",
+  "director": "Janus Metz",
+  "directorTmdbId": 118606,
+  "directorProfilePath": "/nF7PSaUIufGNNYUpgo2arPxMp0D.jpg",
+  "productionCompanies": [
+    {
+      "id": 2531,
+      "name": "MRC",
+      "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png"
+    },
+    {
+      "id": 84792,
+      "name": "2.0 Entertainment",
+      "logo_path": "/7Rfr3Zu6QnHpXW2VdSEzUminAQd.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 258,
+      "name": "bomb"
+    },
+    {
+      "id": 1812,
+      "name": "fbi"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 13015,
+      "name": "terrorism"
+    },
+    {
+      "id": 237224,
+      "name": "mk ultra"
+    },
+    {
+      "id": 360939,
+      "name": "biopic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 6880,
+  "watchlistCount": 112,
+  "favouriteCount": 24,
+  "shareCount": 5,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-29T13:16:11.755Z",
+  "updatedAt": "2026-09-29T13:17:12.518Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0ebb03e2-ba69-440c-914d-5de804cebc13",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 934,
+      "name": "Russell Crowe",
+      "character": "Henry Murray",
+      "profilePath": "/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg",
+      "order": 0
+    },
+    {
+      "id": "71f92795-4d41-41db-b550-ecb833da00a3",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 1277188,
+      "name": "Jacob Tremblay",
+      "character": "Ted Kaczynski",
+      "profilePath": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg",
+      "order": 1
+    },
+    {
+      "id": "a42b8390-416c-4db7-84e3-95d8ccba53c8",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 94185,
+      "name": "Shailene Woodley",
+      "character": "Joanne Miller",
+      "profilePath": "/gL2NvHKW9wAH3qkZuJ76ULUiArB.jpg",
+      "order": 2
+    },
+    {
+      "id": "d179cccb-391d-41d4-968f-da611ffc181c",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 82809,
+      "name": "Annabelle Wallis",
+      "character": "Christiana Morgan",
+      "profilePath": "/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg",
+      "order": 3
+    },
+    {
+      "id": "8e8db865-eb14-4ef8-9027-7c02c2d9a0ed",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 23498,
+      "name": "Alexander Ludwig",
+      "character": "Leo Driver",
+      "profilePath": "/3KpzKT4iGhNivSISQMe6EwpAmCi.jpg",
+      "order": 4
+    },
+    {
+      "id": "ce3ed0a1-da57-4393-b5b2-42d74047e247",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 212776,
+      "name": "Marc Menchaca",
+      "character": "Eddie Turrell",
+      "profilePath": "/fL0LmdBwau30M4AFPVJrpLRXXsU.jpg",
+      "order": 5
+    },
+    {
+      "id": "bbfec9f5-76d8-4f7b-b540-8e681cdbbeea",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 1336329,
+      "name": "Steven Ogg",
+      "character": "Dean Kaplan",
+      "profilePath": "/dorBNAwR8qpB13pe0zd3OkFjqWR.jpg",
+      "order": 6
+    },
+    {
+      "id": "0f448323-eca6-4ca3-9e72-ddb06666b669",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 7013,
+      "name": "Mark Camacho",
+      "character": "Bill Ford",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "327c1b41-220a-4efd-b7ce-29e515262b83",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 2358880,
+      "name": "David Webster",
+      "character": "Roy",
+      "profilePath": "/gWQ9r3s8fAsmEs0hvKBSgZppWEQ.jpg",
+      "order": 8
+    },
+    {
+      "id": "528bf59f-6f62-491b-a825-0f691cc9cd22",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 7039,
+      "name": "Bruce Ramsay",
+      "character": "Turk Kaczynski",
+      "profilePath": "/xvVbXMzHqZ0kMs77EScQ76S4gWH.jpg",
+      "order": 9
+    },
+    {
+      "id": "81f1014b-ac6e-432e-9064-2261e43bef41",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 1674952,
+      "name": "Michelle Leblanc",
+      "character": "Wanda Kaczynski",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "74b276a8-b247-45bc-b505-37f6fd14aede",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 1560344,
+      "name": "Gus Halper",
+      "character": "Mr. C",
+      "profilePath": "/50KfZII4TVqgYngoAjPgdxhwESP.jpg",
+      "order": 11
+    },
+    {
+      "id": "6efa11e7-6400-483a-917b-2f19f7202059",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 4317843,
+      "name": "William Kosovic",
+      "character": "David Kaczynski (8 years old)",
+      "profilePath": "/cvZfGqmFkehA32phRUxXi83lPgM.jpg",
+      "order": 12
+    },
+    {
+      "id": "d0ecceed-c8db-4392-9ba3-c80bdf43404b",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 565222,
+      "name": "Matthew Kevin Anderson",
+      "character": "David Kaczynski (51 Years Old)",
+      "profilePath": "/lSCwDQjV2qaPapwq5q77aQW2Ndv.jpg",
+      "order": 13
+    },
+    {
+      "id": "0d30471f-186e-448b-b676-5eb4728039f3",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 6172,
+      "name": "Tanya Clarke",
+      "character": "Susan Mosser",
+      "profilePath": "/sxJxNhLEPy2B00bf2q16YKEhkj3.jpg",
+      "order": 14
+    },
+    {
+      "id": "40ac52e0-b7bd-4653-be5d-bde0226dbef9",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 1906040,
+      "name": "Emily Lê",
+      "character": "Tess Vu",
+      "profilePath": "/xqEnskkrG6bPwF8rFBTxEZdLLom.jpg",
+      "order": 15
+    },
+    {
+      "id": "57467e1a-a172-4e91-9490-17ea4cdbbcb9",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 4102150,
+      "name": "Veronica Bergr",
+      "character": "Joyce",
+      "profilePath": "/cITRRzqiRVUvamgK5tXW0M6mc0O.jpg",
+      "order": 16
+    },
+    {
+      "id": "10b1020f-866d-4e77-b6a3-724af2a048f8",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 2755458,
+      "name": "Madison Seguin",
+      "character": "Susie",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "febeee08-9c1b-4f41-bfac-0394005836c4",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 1299570,
+      "name": "Michael Laurence",
+      "character": "Older Ted",
+      "profilePath": "/vlP9ZPscnR59mAHaYGzxzS4VfAJ.jpg",
+      "order": 18
+    },
+    {
+      "id": "61dbc7f7-1085-45f6-94e2-3cd7f149b9b7",
+      "movieId": "ffb5e44e-32d1-42c8-99ff-77e864e25c80",
+      "tmdbPersonId": 85812,
+      "name": "Michael Buie",
+      "character": "Tom Mosser",
+      "profilePath": "/3FILC7nQPFTYDkJys8y94gZoMfk.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,342 @@
+{
+  "slug": "libang-libu-2026",
+  "id": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+  "tmdbId": 1624564,
+  "imdbId": "tt37594685",
+  "title": "Libang Libu",
+  "originalTitle": "Libang Libu",
+  "overview": "A production team is filming at the home of one of their crew members' parents in a village in Perak. Trouble starts from day one, and even more challenges arise in the days that follow.",
+  "tagline": null,
+  "posterPath": "/jM6ET38Xa0OECB3fIWMdYvQlJo5.jpg",
+  "backdropPath": "/68hiIlYXQlqCbkJ6X2xHC6ImLS2.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/68hiIlYXQlqCbkJ6X2xHC6ImLS2.jpg"
+  ],
+  "releaseDate": "2026-04-23",
+  "runtime": 107,
+  "voteAverage": "8.50",
+  "popularity": null,
+  "popularityScore": 106,
+  "originalLanguage": "ms",
+  "country": "MY",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=6P7y1tVU7N0",
+  "quality": "WEB-DL",
+  "director": "Bobby Husaini",
+  "directorTmdbId": 4576167,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 80955,
+      "name": "Tangerine Films",
+      "logo_path": null
+    },
+    {
+      "id": 21361,
+      "name": "Skop Productions Sdn. Bhd.",
+      "logo_path": "/1nkM6TsM8LkCZGrprQotQR6oD3H.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5331,
+      "name": "village"
+    },
+    {
+      "id": 299344,
+      "name": "filmmaker"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 7546,
+  "watchlistCount": 14,
+  "favouriteCount": 8,
+  "shareCount": 6,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-11T12:40:12.379Z",
+  "updatedAt": "2026-09-11T12:40:33.973Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b95f9119-ffa3-4e01-a6f6-f15b43b823f3",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1254718,
+      "name": "Amerul Affendi",
+      "character": "Man Filem",
+      "profilePath": "/blGlpxqvj96M7dsnyExbNRye3cA.jpg",
+      "order": 0
+    },
+    {
+      "id": "df1bd19d-caa9-4b7a-a4f4-fcb031afe27d",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1285331,
+      "name": "Beto Kusyairy",
+      "character": "Along Alid",
+      "profilePath": "/4Pi8tzycj9JGmCpvqAlJlKDQE21.jpg",
+      "order": 1
+    },
+    {
+      "id": "9bcdc86f-f7a5-4361-aa81-282036ff007c",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1179474,
+      "name": "Nabila Huda",
+      "character": "Timah Lebor",
+      "profilePath": "/5eJJddVlGSkh4vExtF4TmfNFh7G.jpg",
+      "order": 2
+    },
+    {
+      "id": "4ec81fc9-b731-4065-a075-f42be95dc5f4",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 2271063,
+      "name": "Ozlynn Waty",
+      "character": "Yong Leha",
+      "profilePath": "/gMYeDXh1ZB31z5bzM9TLSTZFhFu.jpg",
+      "order": 3
+    },
+    {
+      "id": "4015d118-43e7-443d-b39b-940c99e9c5b7",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 559398,
+      "name": "Sara Ali",
+      "character": "Boy Ad",
+      "profilePath": "/qRrypczChmf9vTrlYtL0Dep5Lt4.jpg",
+      "order": 4
+    },
+    {
+      "id": "e5ab2f33-5f13-41f9-90cc-9221876d5e00",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1297348,
+      "name": "Nadia Aqilah",
+      "character": "Chom",
+      "profilePath": "/iNMKmklngcCc984m3I2Kxv8QFOd.jpg",
+      "order": 5
+    },
+    {
+      "id": "ee27bece-ed99-444b-bb03-57a0ce4b2760",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1296366,
+      "name": "Abdul Razak Ahmad",
+      "character": "Andak Meor",
+      "profilePath": "/hVX3MpO08M7SBZF3se60s7iSws.jpg",
+      "order": 6
+    },
+    {
+      "id": "564b5108-4b1c-49c7-a7b8-ca07aec38b2d",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1210281,
+      "name": "Sabri Yunus",
+      "character": "Pokyie / Ayah Megat",
+      "profilePath": "/y01wTaLSeZ8wDuhEJcV3bq4qoU8.jpg",
+      "order": 7
+    },
+    {
+      "id": "397147b3-e600-455b-bbab-8a0710087a61",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1062448,
+      "name": "Zahiril Adzim",
+      "character": "Amir Daniel",
+      "profilePath": "/dbBIPozCwznZRj9XEzaBAEy0GzQ.jpg",
+      "order": 8
+    },
+    {
+      "id": "3a926013-3419-4cd3-8aa8-99604cb8bd96",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1276005,
+      "name": "Azhan Rani",
+      "character": "Make Up Artist",
+      "profilePath": "/rPjVRhZz2i6eN579OK9osvezO1z.jpg",
+      "order": 9
+    },
+    {
+      "id": "96e440d8-f759-42f3-9eb9-694fc5897870",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1267268,
+      "name": "Alvin Wong",
+      "character": "Silver Pang",
+      "profilePath": "/qkS66zRIpfGBCK9IuGyJuq2wKGC.jpg",
+      "order": 10
+    },
+    {
+      "id": "043e3684-75c0-4204-8449-1005f6934099",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 2291090,
+      "name": "Joyce Harn",
+      "character": "Joyce Ooi",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "cd9cb110-5548-422d-a2ce-48870f064918",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1810110,
+      "name": "Anas Ridzuan",
+      "character": "Samad",
+      "profilePath": "/gxIyE9EwsBK2yWonXQCgUsOo5sL.jpg",
+      "order": 12
+    },
+    {
+      "id": "9139e9ab-78ca-45d9-a943-20a32db618a0",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1291617,
+      "name": "Syazwan Zulkifly",
+      "character": "Kapak",
+      "profilePath": "/fW5UbuyfxcMComm9oQjcvMI3StK.jpg",
+      "order": 13
+    },
+    {
+      "id": "36b48a11-1f15-4fcb-aa91-8898f4c431f4",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1466715,
+      "name": "Kodi Rasheed",
+      "character": "Lan Naga",
+      "profilePath": "/mYqHT5ADVBs5iw4DyT3u3c1QCft.jpg",
+      "order": 14
+    },
+    {
+      "id": "a0a21da7-0741-49a1-9029-98f195cb544e",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 2385426,
+      "name": "Fikry Ibrahim",
+      "character": "Shakoor Rahman",
+      "profilePath": "/j8hq0ywJo1TvW2KY7ZPbOWGxA2b.jpg",
+      "order": 15
+    },
+    {
+      "id": "b658998c-9fe4-4046-804b-452077f5fba7",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 4793686,
+      "name": "John Bear",
+      "character": "Adik-Adik Alid 1",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "afcd0fa9-e260-43d8-bb6c-840728af4db8",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 3730154,
+      "name": "Wan Chai",
+      "character": "Adik-Adik Alid 2",
+      "profilePath": "/okJR6uliogqyx8B9sR1xvEXfyi4.jpg",
+      "order": 17
+    },
+    {
+      "id": "4ef70ddf-b94f-4158-bf1b-1f6613f8e890",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 6159187,
+      "name": "Rahamat Akmal",
+      "character": "Adik-Adik Alid 3",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "b521c736-ed02-490b-936a-fecf8edb8def",
+      "movieId": "86572f7c-b5f2-44f2-a5ae-82163d865304",
+      "tmdbPersonId": 1265337,
+      "name": "Niezam Zaidi",
+      "character": "Adik-Adik Alid 3",
+      "profilePath": "/iJCZftH11e72LP3LBzVkr564DX8.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

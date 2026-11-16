@@ -1,0 +1,166 @@
+{
+  "slug": "nisekoi-2014",
+  "id": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+  "title": "Nisekoi",
+  "overview": "Raku Ichijo is an average high school student. He also happens to be the sole heir to the head of a Yakuza Family called the Shuei-gumi. 10 years ago, Raku made a promise… a secret promise with a girl he met. They promised one another that they will “get married when they reunite.” Since then, Raku never let go of the pendant the girl gave him.",
+  "tagline": null,
+  "posterPath": "/vYfnw5eRLrne4ZLDaRdHgvGyys7.jpg",
+  "backdropPath": "/cY7FuCOp9RdbOrZ6rmTvnOpknSJ.jpg",
+  "logoPath": "/scplxDxHoW6SL5QOCL6zHUMHNS7.png",
+  "firstAirDate": "2014-01-11",
+  "voteAverage": "8.20",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "940c984c-403a-4d4e-9745-19e6a5a39cf6",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbPersonId": 1254052,
+      "name": "Koki Uchiyama",
+      "character": "Raku Ichijou (voice)",
+      "profilePath": "/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg",
+      "order": 0
+    },
+    {
+      "id": "a372f560-eef6-4eb3-a98f-8c687e02c1aa",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbPersonId": 1168909,
+      "name": "Nao Toyama",
+      "character": "Chitoge Kirisaki (voice)",
+      "profilePath": "/6WJDd1z946yFfZBgpC7dWi0FyQw.jpg",
+      "order": 1
+    },
+    {
+      "id": "093d63e9-d9fd-4781-b53a-c31d59712c2c",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbPersonId": 119143,
+      "name": "Kana Hanazawa",
+      "character": "Kosaki Onodera (voice)",
+      "profilePath": "/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg",
+      "order": 2
+    },
+    {
+      "id": "e47501a9-c5bc-45e7-8cf3-e3751dac5761",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbPersonId": 84508,
+      "name": "Takehito Koyasu",
+      "character": "Claude",
+      "profilePath": "/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg",
+      "order": 3
+    },
+    {
+      "id": "d3c9308e-cc9c-4409-9618-3d181015105f",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbPersonId": 1255653,
+      "name": "Manami Numakura",
+      "character": "Paula McCoy",
+      "profilePath": "/eDbMXgeTCA2D6i7894Ag43RADrk.jpg",
+      "order": 4
+    },
+    {
+      "id": "aa0b33af-1e29-4833-aa0b-2fd0575033eb",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbPersonId": 1324575,
+      "name": "Kotori Koiwai",
+      "character": "Fuu-chan",
+      "profilePath": "/uhPL5AuE4vIPNLRhxqET276YBbD.jpg",
+      "order": 5
+    },
+    {
+      "id": "0167db8f-b681-49aa-9880-c608889118aa",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbPersonId": 227879,
+      "name": "Kana Asumi",
+      "character": "Tachibana Marika",
+      "profilePath": "/5GroiCPTO6PcYaZQXTGWltoT1kq.jpg",
+      "order": 6
+    },
+    {
+      "id": "4df8a93c-eca2-4ae7-b263-b86ee120332a",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbPersonId": 1321070,
+      "name": "Yumi Uchiyama",
+      "character": "Miyamoto Ruri",
+      "profilePath": "/JvavoF3YOLCf4LHfl4XvYobANE.jpg",
+      "order": 7
+    },
+    {
+      "id": "d8e410f0-cea9-407c-9da2-f177ab7c52fa",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbPersonId": 1281498,
+      "name": "Mikako Komatsu",
+      "character": "Tsugumi Seishirou",
+      "profilePath": "/13tQEZ1tLdOmi7oGoRJ4xep1ODQ.jpg",
+      "order": 8
+    },
+    {
+      "id": "03c003bc-fd9d-4264-8956-ef160161a7bc",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbPersonId": 992869,
+      "name": "Ayane Sakura",
+      "character": "Onodera Haru",
+      "profilePath": "/yPbTmntASE9psPIMhNGU5oo6vIH.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "05496a71-fc5f-407a-9959-0cbda1ccbb4f",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbId": 135310,
+      "seasonNumber": 0,
+      "name": "Specials",
+      "overview": "4 OVA's and 1 recap of Nisekoi.",
+      "posterPath": "/aSVUbzPgjS04pI28STYAgSLmOxK.jpg",
+      "airDate": "2014-10-03",
+      "episodeCount": 4,
+      "isPublished": true,
+      "createdAt": "2026-09-30T19:44:56.716Z",
+      "updatedAt": "2026-09-30T20:09:09.572Z"
+    },
+    {
+      "id": "521990ae-77ea-4fd1-a302-eecd4bb1961d",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbId": 66601,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Raku Ichijo is an average high school student. He also happens to be the sole heir to the head of a Yakuza Family called the Shuei-gumi. 10 years ago, Raku made a promise… a secret promise with a girl he met. They promised one another that they will “get married when they reunite.” Since then, Raku never let go of the pendant the girl gave him.",
+      "posterPath": "/uOgM7UH9fiAeDgc1Wo8MsYZJDuW.jpg",
+      "airDate": "2014-01-11",
+      "episodeCount": 20,
+      "isPublished": true,
+      "createdAt": "2026-09-30T19:44:56.716Z",
+      "updatedAt": "2026-09-30T20:09:11.087Z"
+    },
+    {
+      "id": "32ff36ce-df4b-4fd2-81e5-c4a003c6e87d",
+      "tvSeriesId": "01ee1bb6-522c-476a-bf3d-33e10a2583cb",
+      "tmdbId": 80462,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "The relationship antics continue as Chitoge starts to realize that she is actually in love with Raku and Kosaki's younger sister Haru, who wants to protect her sister from the supposedly-depraved Raku, gets added to the mix. Other highlights include the introductions of Hana (Chitoge's mother) and Paula McCoy (Seishiro's assassin rival) and Kosaki's brief stint as a magical girl.",
+      "posterPath": "/pACmVoUr0UeZkP9Tc5J1HAixVdH.jpg",
+      "airDate": "2015-04-10",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-30T19:44:56.716Z",
+      "updatedAt": "2026-09-30T20:09:12.773Z"
+    }
+  ]
+}

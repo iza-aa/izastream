@@ -1,0 +1,479 @@
+{
+  "slug": "the-kings-speech-2010",
+  "id": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+  "tmdbId": 45269,
+  "imdbId": "tt1504320",
+  "title": "The King's Speech",
+  "originalTitle": "The King's Speech",
+  "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+  "tagline": "Find your voice.",
+  "posterPath": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+  "backdropPath": "/m4MGxxEgAMqIX9x8MCg5pYeyYjU.jpg",
+  "logoPath": "/rJaDn7qfbc6yE9EcTHcTWAON9gO.png",
+  "backdrops": [
+    "/m4MGxxEgAMqIX9x8MCg5pYeyYjU.jpg",
+    "/6dyqfaPdeM5Z22ylw9ZTyjROBo7.jpg",
+    "/yNn9JR1PwVij1XrtZDH3gXo2QWA.jpg",
+    "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+    "/wSQI27EibzgeddPIpkmAThZWdjM.jpg",
+    "/i0BjjJUsnS4SvH3HmVdE4WsUhrL.jpg",
+    "/k654tIKRti2ypYRJLilMYTkTW40.jpg",
+    "/peur479Oa9RtUYSg5IK6iOQjGMB.jpg",
+    "/fCa6T2835lxplZdUaPpzzDCXhIR.jpg",
+    "/6AlvdLdiSgAHk4uiN4unotnpg4f.jpg"
+  ],
+  "releaseDate": "2010-11-26",
+  "runtime": 118,
+  "voteAverage": "7.73",
+  "popularity": null,
+  "popularityScore": 122,
+  "originalLanguage": "en",
+  "country": "GB",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=HXMqX9s67kY",
+  "quality": "WEB-DL",
+  "director": "Tom Hooper",
+  "directorTmdbId": 70500,
+  "directorProfilePath": "/w9Z3dlJDtWBXo4rIxGI0XY896j2.jpg",
+  "productionCompanies": [
+    {
+      "id": 308,
+      "name": "The Weinstein Company",
+      "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png"
+    },
+    {
+      "id": 2452,
+      "name": "UK Film Council",
+      "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png"
+    },
+    {
+      "id": 253658,
+      "name": "Momentum Pictures",
+      "logo_path": "/iUuPGtxzqvRSeP2W6dRW2PkdRBV.png"
+    },
+    {
+      "id": 7309,
+      "name": "Aegis Film Fund",
+      "logo_path": null
+    },
+    {
+      "id": 7493,
+      "name": "FilmNation Entertainment",
+      "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png"
+    },
+    {
+      "id": 7217,
+      "name": "See-Saw Films",
+      "logo_path": "/vFbexaF70wSMUHRA6Fy6UcuA1ju.png"
+    },
+    {
+      "id": 5005,
+      "name": "Bedlam Productions",
+      "logo_path": "/letEuggPWBjO3HVu1QKAy5DoJZU.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1025,
+      "name": "great britain"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 6038,
+      "name": "marriage"
+    },
+    {
+      "id": 3101,
+      "name": "stutter"
+    },
+    {
+      "id": 2471,
+      "name": "monarchy"
+    },
+    {
+      "id": 3998,
+      "name": "palace"
+    },
+    {
+      "id": 2135,
+      "name": "radio"
+    },
+    {
+      "id": 4305,
+      "name": "radio transmission"
+    },
+    {
+      "id": 4833,
+      "name": "royal family"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 10201,
+      "name": "death of father"
+    },
+    {
+      "id": 6001,
+      "name": "speech"
+    },
+    {
+      "id": 9920,
+      "name": "royalty"
+    },
+    {
+      "id": 12995,
+      "name": "historical fiction"
+    },
+    {
+      "id": 15060,
+      "name": "period drama"
+    },
+    {
+      "id": 186686,
+      "name": "king of england"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    },
+    {
+      "id": 215634,
+      "name": "british royal family"
+    },
+    {
+      "id": 220649,
+      "name": "british monarchy"
+    },
+    {
+      "id": 243503,
+      "name": "winston churchill"
+    },
+    {
+      "id": 250293,
+      "name": "stammering"
+    },
+    {
+      "id": 252806,
+      "name": "speech therapy"
+    },
+    {
+      "id": 261315,
+      "name": "corgi"
+    },
+    {
+      "id": 267876,
+      "name": "relaxed"
+    },
+    {
+      "id": 319397,
+      "name": "witty"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1882,
+  "watchlistCount": 25,
+  "favouriteCount": 6,
+  "shareCount": 7,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:31:45.554Z",
+  "updatedAt": "2026-10-05T17:39:07.814Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+      "tmdbId": 36,
+      "name": "History",
+      "slug": "history",
+      "createdAt": "2026-04-02T13:49:17.126Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d30f6d60-81cd-4bfa-9330-404f286827e4",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 5472,
+      "name": "Colin Firth",
+      "character": "King George VI",
+      "profilePath": "/z6wxnkqSTnzO1tcBui0ss7ehdm9.jpg",
+      "order": 0
+    },
+    {
+      "id": "d5bde756-0705-4178-8336-f153bd3fe2e8",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 118,
+      "name": "Geoffrey Rush",
+      "character": "Lionel Logue",
+      "profilePath": "/npXFjaFQzBNroCEPllGPTZ5IisA.jpg",
+      "order": 1
+    },
+    {
+      "id": "aa7110b1-c0e0-43e1-9400-63321bf25f0b",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 1283,
+      "name": "Helena Bonham Carter",
+      "character": "Queen Elizabeth",
+      "profilePath": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg",
+      "order": 2
+    },
+    {
+      "id": "e8f72440-09ba-4b6e-8e66-bc87ac33c77b",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 529,
+      "name": "Guy Pearce",
+      "character": "King Edward VIII",
+      "profilePath": "/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg",
+      "order": 3
+    },
+    {
+      "id": "05c78a73-4416-426b-baa4-a12854682fd9",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 9191,
+      "name": "Timothy Spall",
+      "character": "Winston Churchill",
+      "profilePath": "/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg",
+      "order": 4
+    },
+    {
+      "id": "7f30a84c-b7f1-42f2-91f4-4bf64cf0fa72",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 5658,
+      "name": "Michael Gambon",
+      "character": "King George V",
+      "profilePath": "/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg",
+      "order": 5
+    },
+    {
+      "id": "b09fa4d1-d6c3-4341-9bca-182f2d0b458c",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 49971,
+      "name": "Jennifer Ehle",
+      "character": "Myrtle Logue",
+      "profilePath": "/kMddVKineLFpxsUoGrb3E6edkOv.jpg",
+      "order": 6
+    },
+    {
+      "id": "1c06fb5b-ba87-4c8d-89a9-79d5268b7d9e",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 937,
+      "name": "Derek Jacobi",
+      "character": "Archbishop Cosmo Lang",
+      "profilePath": "/yHENzHZSVpnNrqsoATuDSMiQflf.jpg",
+      "order": 7
+    },
+    {
+      "id": "5054fdac-7d81-4929-b332-8bf46774750c",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 548169,
+      "name": "Freya Wilson",
+      "character": "Princess Elizabeth",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "a5d81afa-af17-4e1e-b94d-a57cc8c0723c",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 224878,
+      "name": "Ramona Marquez",
+      "character": "Princess Margaret",
+      "profilePath": "/mNQ1TrYD4u8IYWbSUh7MFwSeTGe.jpg",
+      "order": 9
+    },
+    {
+      "id": "d6db41a5-f5aa-47b2-a05c-5f6a39ec6ced",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 1222025,
+      "name": "Richard Dixon",
+      "character": "Private Secretary",
+      "profilePath": "/rhMlmS9dE6pyy4qnZGRzlRrGlhh.jpg",
+      "order": 10
+    },
+    {
+      "id": "333210b5-aaff-435f-9618-f5bd28034429",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 121606,
+      "name": "Robert Portal",
+      "character": "Equerry",
+      "profilePath": "/n1HEjfvZrxTShTZ1HncsWJ5Sib7.jpg",
+      "order": 11
+    },
+    {
+      "id": "fc82a005-75eb-4cfa-b5e9-e5a4bb7d4e0a",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 201665,
+      "name": "Eve Best",
+      "character": "Wallis Simpson",
+      "profilePath": "/oE0JEJS9un0FLpe3u5FxL1nvxLJ.jpg",
+      "order": 12
+    },
+    {
+      "id": "a4aa28c0-32dd-4afd-ae9a-6852597434ec",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 1231626,
+      "name": "Paul Trussell",
+      "character": "Chauffeur",
+      "profilePath": "/pujxgR8s6bP1SHlvKpKVZoY6TCF.jpg",
+      "order": 13
+    },
+    {
+      "id": "93fc3078-2cd8-44f4-a4bd-a4be76c0fa41",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 40311,
+      "name": "Adrian Scarborough",
+      "character": "BBC Radio Announcer",
+      "profilePath": "/4YTIIoKDECRRaceheSJ6zw8ELZf.jpg",
+      "order": 14
+    },
+    {
+      "id": "6079776a-03f9-4c97-8c62-a6e61c9a28af",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 176191,
+      "name": "Andrew Havill",
+      "character": "Robert Wood",
+      "profilePath": "/135ru0B7vX7PXGQ7IjbDnBshk1C.jpg",
+      "order": 15
+    },
+    {
+      "id": "7e27697b-27b6-44a6-997a-f0f240060fbe",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 1356913,
+      "name": "Charles Armstrong",
+      "character": "BBC Technician",
+      "profilePath": "/yu9WMFZSdrSaHtHfgbgknrs9TPr.jpg",
+      "order": 16
+    },
+    {
+      "id": "afcbf628-3ace-44bc-be19-316281994e89",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 27660,
+      "name": "Roger Hammond",
+      "character": "Dr. Blandine Bentham",
+      "profilePath": "/7HYiv8lqGJPILsjPicVBIIa5HOR.jpg",
+      "order": 17
+    },
+    {
+      "id": "ff357dcb-3fe3-40a7-b898-96a99a89941e",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 1356914,
+      "name": "Calum Gittins",
+      "character": "Laurie Logue",
+      "profilePath": "/kdEA3FVUM6JKLAWYAO0L75wimsx.jpg",
+      "order": 18
+    },
+    {
+      "id": "ded4fe80-bc77-41f8-9348-9bdcb6176cf7",
+      "movieId": "38574be4-aca4-444b-b664-6c3e74e9afb5",
+      "tmdbPersonId": 515313,
+      "name": "Dominic Applewhite",
+      "character": "Valentine Logue",
+      "profilePath": "/bwk1Wgtct7bmTTuOFDsecQf5Coj.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

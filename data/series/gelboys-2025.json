@@ -1,0 +1,131 @@
+{
+  "slug": "gelboys-2025",
+  "id": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+  "title": "GELBOYS",
+  "overview": "High schooler Fou4Mod falls for Chian at Siam Square. When he learns Chian's also with TikToker Bua, he uses his friend Babin to spark jealousy.",
+  "tagline": "\"No-status Status\", Deal?",
+  "posterPath": "/kfgAUxIsN4KPRuiogFMapKQXrv7.jpg",
+  "backdropPath": "/7kFK3pRqAJ7NyjCjHEMxibUTEed.jpg",
+  "logoPath": "/7fLrGcUQ7AFHBCiUadaeEF9Lzjn.png",
+  "firstAirDate": "2025-02-08",
+  "voteAverage": "8.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b4101723-f559-4cfd-9531-921ea081cba8",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbPersonId": 3065201,
+      "name": "Chayapak Tunprayoon",
+      "character": "Fou4Mod",
+      "profilePath": "/yy5vGSTHVHKaUcwuSZDFtZFIDUz.jpg",
+      "order": 0
+    },
+    {
+      "id": "9726bc66-d0ac-4cb0-a17e-982c1c1fa4b7",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbPersonId": 3435628,
+      "name": "Monthapoom Sumonvarangkul",
+      "character": "Chian",
+      "profilePath": "/hcIw1jCdwA8vlDUeICyVh0kyqGD.jpg",
+      "order": 1
+    },
+    {
+      "id": "125f4c04-4e3d-458b-95e1-723dd888b5c4",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbPersonId": 4411289,
+      "name": "Mahidol Pibulsonggram",
+      "character": "Baabin",
+      "profilePath": "/tvED8K7aTZPFTd7WCfxCtwR0LNg.jpg",
+      "order": 2
+    },
+    {
+      "id": "da69e396-60f4-477f-ab1a-b59a54222106",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbPersonId": 5042902,
+      "name": "Leon Brocco",
+      "character": "Bua",
+      "profilePath": "/rn9WMpWMYsW6mOI1A0vSEXgP2ps.jpg",
+      "order": 3
+    },
+    {
+      "id": "e262a2e8-294a-434c-861e-fc6c351aa2c8",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbPersonId": 2903676,
+      "name": "Peerada Namwong",
+      "character": "Faifa",
+      "profilePath": "/p3w88h75BkCaDQKf1NtnNYXLTzh.jpg",
+      "order": 4
+    },
+    {
+      "id": "2a1f0e9c-e73e-450e-a7c1-6187ed0e3039",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbPersonId": 5265956,
+      "name": "Jirapat Pakkawin",
+      "character": "Chuan",
+      "profilePath": "/yrG9vGEVdW5YkRAakvuEyeNhsvQ.jpg",
+      "order": 5
+    },
+    {
+      "id": "902e88b4-4585-43a6-82d8-b72c14c4a68e",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbPersonId": 5265957,
+      "name": "Phordee Satitpunwaycha",
+      "character": "Pao",
+      "profilePath": "/1oAOWK6bGXdli8x2SBSg3H0b2DB.jpg",
+      "order": 6
+    },
+    {
+      "id": "34aeb408-cb50-4690-ae08-3108306097b2",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbPersonId": 4339017,
+      "name": "Chintub Duangkaew",
+      "character": "Mai",
+      "profilePath": "/kHobyu8fDtpczKYed4wHTHyVa34.jpg",
+      "order": 7
+    },
+    {
+      "id": "ef1f6a19-8583-4724-a2a1-b581ee6f9cb6",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbPersonId": 5265960,
+      "name": "Thananya Thitiworachot",
+      "character": "FayeFangKaew",
+      "profilePath": "/f1N1cY0lhq5Uq0S5QxN9hHtCSDd.jpg",
+      "order": 8
+    },
+    {
+      "id": "1806c8d2-05e9-4206-9b0e-cd6ca66dfd3f",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbPersonId": 4670939,
+      "name": "Tatchaya Supatanyasatit",
+      "character": "Street Interviewer",
+      "profilePath": "/phUJacPIL4N3K6SD3Kgbins7HKN.jpg",
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "011568c5-3506-4dcf-b208-7a75898bec6d",
+      "tvSeriesId": "6692c5a4-7046-45ca-bc0f-7756f9775ff6",
+      "tmdbId": 426819,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "High schooler Fou4Mod falls for Chian at Siam Square. When he learns Chian's also with TikToker Bua, he uses his friend Babin to spark jealousy.",
+      "posterPath": "/ohbGJQtypMLgr6D0JwIRHVGydZm.jpg",
+      "airDate": "2025-02-08",
+      "episodeCount": 7,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:38:50.728Z",
+      "updatedAt": "2026-04-02T17:38:50.728Z"
+    }
+  ]
+}

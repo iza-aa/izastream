@@ -1,0 +1,145 @@
+{
+  "slug": "so-whats-wrong-with-getting-reborn-as-a-goblin-2026",
+  "id": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+  "title": "So What's Wrong with Getting Reborn as a Goblin?",
+  "overview": "When office worker Akira Yagami gives his life saving a child, he awakens in another world as a weak goblin. But luckily, he’s granted a unique skill that extends his lifespan decades beyond their species limit and allows him to inherit the abilities of fallen goblins. In a realm of powerful races like demons and elves, Akira’s rise to becoming the strongest goblin begins.",
+  "tagline": null,
+  "posterPath": "/3EMDTHdIMRRKbNCjTkAGg1hMiCG.jpg",
+  "backdropPath": "/3knNVqZlEdwYPwYBWQechjvRzx0.jpg",
+  "logoPath": "/rrfcUelVro1vO4vR9ZjE2vrUKNe.png",
+  "firstAirDate": "2026-10-05",
+  "voteAverage": "9.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "36561ab4-15aa-41fc-a089-eee7d2685591",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbPersonId": 3651176,
+      "name": "Kikunosuke Toya",
+      "character": "Akira (voice)",
+      "profilePath": "/tSAHe7tjN7luUD1Tx5yPSCuCnuD.jpg",
+      "order": 0
+    },
+    {
+      "id": "e1f181d2-03b7-4b98-bca5-e7204e89bd35",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbPersonId": 1072774,
+      "name": "Yoko Hikasa",
+      "character": "Karen (voice)",
+      "profilePath": "/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg",
+      "order": 1
+    },
+    {
+      "id": "d2717a1b-86f1-44de-9979-da0f50f3381e",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbPersonId": 4776137,
+      "name": "Azusa Tachibana",
+      "character": "Chloe (voice)",
+      "profilePath": "/jMfPIQOYOLUUCcu6oJFcLJXmkQA.jpg",
+      "order": 2
+    },
+    {
+      "id": "139d67f1-bd30-4170-8b6c-55854a0a04b1",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbPersonId": 122481,
+      "name": "Banjo Ginga",
+      "character": "Simon (voice)",
+      "profilePath": "/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg",
+      "order": 3
+    },
+    {
+      "id": "8321d713-6659-4743-9a5c-bd76beccf117",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbPersonId": 2206133,
+      "name": "Sayumi Suzushiro",
+      "character": "Eirene (voice)",
+      "profilePath": "/7wEX0bXCs2djnp0dKsCqmMKZpZV.jpg",
+      "order": 4
+    },
+    {
+      "id": "5a01feff-fa5c-48d9-bbad-27d5f483b84d",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbPersonId": 1161472,
+      "name": "Mao Ichimichi",
+      "character": "Dike (voice)",
+      "profilePath": "/a3cflYtrlFK0LXfWODgLDO7E7CP.jpg",
+      "order": 5
+    },
+    {
+      "id": "7a6035a4-8ed0-4c44-9051-0d301c482052",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbPersonId": 3080027,
+      "name": "Wakana Kuramochi",
+      "character": "Eunomia (voice)",
+      "profilePath": "/xQJa1LDearn5rf1TAOmVveuXzl.jpg",
+      "order": 6
+    },
+    {
+      "id": "bdecc8f7-0618-4b39-acf5-c89a0e6d9a6e",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbPersonId": 1256603,
+      "name": "Natsuki Hanae",
+      "character": "Albert (voice)",
+      "profilePath": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg",
+      "order": 7
+    },
+    {
+      "id": "92e9fecf-1f16-4b3a-8e19-c0873684b0fb",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbPersonId": 203268,
+      "name": "Yukari Tamura",
+      "character": "Creation of Heaven and Earth (voice)",
+      "profilePath": "/AigHQPetpcKee62ekHsYFSpQeWE.jpg",
+      "order": 8
+    },
+    {
+      "id": "d5b915b7-5f51-41b4-af02-eead30ba1ef4",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbPersonId": 119145,
+      "name": "Hiro Shimono",
+      "character": "Izuiizu (voice)",
+      "profilePath": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "40d7d10e-bf0e-4a9b-ba45-12811f28b7fc",
+      "tvSeriesId": "afeb34ff-0baf-45e4-ae76-ab8c89c52e71",
+      "tmdbId": 505389,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/3EMDTHdIMRRKbNCjTkAGg1hMiCG.jpg",
+      "airDate": "2026-10-05",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-20T01:46:44.155Z",
+      "updatedAt": "2026-11-03T17:40:32.495Z"
+    }
+  ]
+}

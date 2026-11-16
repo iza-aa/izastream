@@ -1,0 +1,131 @@
+{
+  "slug": "my-little-lover-minami-kun-no-koibito-2015",
+  "id": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+  "title": "My Little Lover - Minami Kun no Koibito",
+  "overview": "Shun'ichi Minami possesses good looks and does well academically in high school. Chiyomi Horikiri is a bright girl who likes dancing. They were childhood friends and also their first loves, but after Shun'ichi Minami's father disappeared they hardly talk. On a storming night, Chiyomi Horikiri has an argument with her parents over her future course and leaves home. While trying to avoid the rain, Chiyomi Horikiri wishes that she go back to her childhood. Suddenly, Chiyomi becomes 15 cm tall. Shun'ichi Minami happens to see tiny Chiyomi Horikiri. She tells him that she doesn't want anyone else to see her, and Shun'ichi Minami takes her his home.",
+  "tagline": null,
+  "posterPath": "/lLLXWjuFzEJmnsLUVlyoV7wqCEs.jpg",
+  "backdropPath": "/xM7ji9UVBRFJo2rzp8bxW4Xasl2.jpg",
+  "logoPath": "/8UkYBF6pplTp4oT1aj6ccDdXkZ.png",
+  "firstAirDate": "2015-11-10",
+  "voteAverage": "5.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4e17ac30-b648-44bf-8294-a01a10664e8a",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbPersonId": 1255318,
+      "name": "Taishi Nakagawa",
+      "character": "Shun'ichi Minami",
+      "profilePath": "/gvUJ1Ge1ERLnYwqb4cJVCXQQIYA.jpg",
+      "order": 0
+    },
+    {
+      "id": "e20f1aff-df5c-4a95-bba4-99b778600c63",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbPersonId": 1446601,
+      "name": "Maika Yamamoto",
+      "character": "Chiyomi Horikiri",
+      "profilePath": "/tMZ230XFpBKZXvy4aChYwMHp8dA.jpg",
+      "order": 1
+    },
+    {
+      "id": "f8b02d78-55eb-4029-989d-ce9469c0a336",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbPersonId": 1745971,
+      "name": "Mirai Suzuki",
+      "character": "Riku Takagi",
+      "profilePath": "/p1ORXHNwVM130R87e26j3d0PrKT.jpg",
+      "order": 2
+    },
+    {
+      "id": "212590f4-f983-4544-ad05-1312a887d5b2",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbPersonId": 1186983,
+      "name": "Erina Nakayama",
+      "character": "Sayori Nomura",
+      "profilePath": "/gXMkvjqrvz6vUIeFJb3KlEIc53q.jpg",
+      "order": 3
+    },
+    {
+      "id": "f050b124-38d0-4440-b6a3-daad8474cbbf",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbPersonId": 1696211,
+      "name": "Moe Sasaki",
+      "character": "Ami Mikimoto",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "35feb06d-97ae-4920-b222-d3320d2bbc3e",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbPersonId": 1745973,
+      "name": "Ai Yoshikawa",
+      "character": "Asuka Horikiri",
+      "profilePath": "/vfW8aVL3vcbJsMsWpMddO9tprsn.jpg",
+      "order": 5
+    },
+    {
+      "id": "a55e51a2-b56d-41ea-bd66-89331f202108",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbPersonId": 228081,
+      "name": "Naomi Akimoto",
+      "character": "Ritsuko Horikiri",
+      "profilePath": "/5M2Mt2dNYf1a1ZHafVReZIfFe0A.jpg",
+      "order": 6
+    },
+    {
+      "id": "30323c6b-0be8-4337-8f76-2dae55f2515e",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbPersonId": 1074995,
+      "name": "Koichi Ohori",
+      "character": "Jouji Horikiri",
+      "profilePath": "/iPtHJNsqHVa9Vic59Naa8DvSivX.jpg",
+      "order": 7
+    },
+    {
+      "id": "abf9eb93-0f8f-4a9d-a3d0-494b36e5217b",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbPersonId": 1246051,
+      "name": "Narimi Arimori",
+      "character": "Emiko Minami",
+      "profilePath": "/ddYpWdmS4qFePqMe8BmZM663AqM.jpg",
+      "order": 8
+    },
+    {
+      "id": "ae304738-06b4-4584-a919-0c5e7c23838d",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbPersonId": 96049,
+      "name": "Ichirôta Miyakawa",
+      "character": "Noboru Minami",
+      "profilePath": "/lm5dz4XMaNgMJOp15FWkGAi3DvH.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "6222e836-8cb8-4b7a-9cb4-88e779aebc0f",
+      "tvSeriesId": "dbef04ec-3150-48c0-934a-43ff3809e8f8",
+      "tmdbId": 75075,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/lZCTPDzd6Zml6CYpfXQlUgJnj7I.jpg",
+      "airDate": "2015-11-10",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-02T19:29:21.828Z",
+      "updatedAt": "2026-09-02T19:31:01.516Z"
+    }
+  ]
+}

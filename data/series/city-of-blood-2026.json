@@ -1,0 +1,131 @@
+{
+  "slug": "city-of-blood-2026",
+  "id": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+  "title": "City of Blood",
+  "overview": "Berlin — a city-state on the brink. While a privileged few live beneath a climate-controlled dome, those outside struggle to survive in a world ravaged by heat, corruption, and crime. After years apart, sisters Bea and Phoebe are reunited and uncover a dark secret: Vampires are determined to seize political power — and blood has become the city's new currency.",
+  "tagline": null,
+  "posterPath": "/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+  "backdropPath": "/nAEIr2b9M9ya8SXOTA1bDDMjhCA.jpg",
+  "logoPath": "/uSjG3n64Zn1MdhJd0sftGxYVJuO.png",
+  "firstAirDate": "2026-09-16",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1747843a-412b-4f55-be19-21af26650b31",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbPersonId": 2454083,
+      "name": "Lea Drinda",
+      "character": "Bea Hoffmann",
+      "profilePath": "/1HYkiGcfdo9Gc5klqbRHpn1jJ4P.jpg",
+      "order": 0
+    },
+    {
+      "id": "5e571c02-a931-4dd3-ac5a-153d0567563b",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbPersonId": 2136059,
+      "name": "Soma Pysall",
+      "character": "Phoebe Kaya",
+      "profilePath": "/n6FI3M8AeMQnm1MjActLjo4rrfC.jpg",
+      "order": 1
+    },
+    {
+      "id": "39f84984-8050-4f23-8c1e-98165ba68338",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbPersonId": 1397634,
+      "name": "Franz Hartwig",
+      "character": "Johan Moderson",
+      "profilePath": "/x1sAXpEBTRVFq0yc6xkWuX166Lc.jpg",
+      "order": 2
+    },
+    {
+      "id": "ce480fec-d90f-4f49-b125-2549d4edcd48",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbPersonId": 1327315,
+      "name": "David Schütter",
+      "character": "Oliver Lawal",
+      "profilePath": "/eCyL55l0fb9tccOQfdCGCd7XKAf.jpg",
+      "order": 3
+    },
+    {
+      "id": "940ab492-3b22-45c0-b69a-37024f3005ba",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbPersonId": 4585394,
+      "name": "Mouataz Alshaltouh",
+      "character": "Yassin",
+      "profilePath": "/24189XQS0pUOZjHSMXuGJyT73cI.jpg",
+      "order": 4
+    },
+    {
+      "id": "d15f6d44-5b42-4aa3-805a-c37188b8c5c5",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbPersonId": 73926,
+      "name": "Jördis Triebel",
+      "character": "Laura Hoffmann",
+      "profilePath": "/ccKpVED4GwvqpbDpSDvZ5a7Be2Z.jpg",
+      "order": 5
+    },
+    {
+      "id": "78ad06cb-2773-4bef-9a25-3632033bacb9",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbPersonId": 43358,
+      "name": "Jenny Schily",
+      "character": "Szen",
+      "profilePath": "/uLSzbVgZCL2v80G5eP2KIbExnVo.jpg",
+      "order": 6
+    },
+    {
+      "id": "4ce5c8bc-65e2-4f65-8c17-ef08c10d7c92",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbPersonId": 111420,
+      "name": "Lars Eidinger",
+      "character": "Zeno Gennardi",
+      "profilePath": "/l42T2eq3UTlQWsGlpIJUTyyp7sp.jpg",
+      "order": 7
+    },
+    {
+      "id": "974a4a5f-fb95-4d9f-be42-30e2c06c373e",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbPersonId": 57064,
+      "name": "Melika Foroutan",
+      "character": "Farah Lawal",
+      "profilePath": "/nlXZFeqhXGbR5KePkO4UCcEUfg4.jpg",
+      "order": 8
+    },
+    {
+      "id": "34906c37-a0ee-4d72-8f16-4d8c33fbe5b9",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbPersonId": 13805,
+      "name": "Dagmar Manzel",
+      "character": "Hilda Klein",
+      "profilePath": "/eCG8xLUcMbmnYJUXBRnUCldw1zf.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "53361129-98f1-4618-8489-425db1c7c9a3",
+      "tvSeriesId": "d7aeb00a-5303-4c9a-b688-d3288aae123a",
+      "tmdbId": 537849,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/Njr0Rlb4CobAfrGE8NVffYDGqx.jpg",
+      "airDate": "2026-09-16",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-17T08:07:08.632Z",
+      "updatedAt": "2026-09-17T08:07:43.521Z"
+    }
+  ]
+}

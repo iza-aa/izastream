@@ -1,0 +1,82 @@
+{
+  "slug": "the-grand-tour-2026",
+  "id": "b1ec2349-0e17-4126-923e-4a0dda9a2c71",
+  "title": "The Grand Tour",
+  "overview": "Welcome to The Grand Tour. The world's greatest motoring show returns with new presenters - Thomas Holland, James Engelsman and Francis Bourgeois - and its trademark blend of global adventure, incredible vehicles, epic stunts and strong opinions.",
+  "tagline": "Same show. New knobs.",
+  "posterPath": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+  "backdropPath": "/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg",
+  "logoPath": "/bqDtRM7GmwWi087vPRO2NiaWPdd.png",
+  "firstAirDate": "2026-09-04",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    },
+    {
+      "id": "1975a672-7f79-4a44-be9b-5ea96fbaaf48",
+      "tmdbId": 10767,
+      "name": "Talk",
+      "slug": "talk",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "739fb904-238f-4c84-a0ef-48e15239cac5",
+      "tvSeriesId": "b1ec2349-0e17-4126-923e-4a0dda9a2c71",
+      "tmdbPersonId": 3740526,
+      "name": "Francis Bourgeois",
+      "character": "Self - Host",
+      "profilePath": "/AmbhXWf7rbshCWM108moloujdnQ.jpg",
+      "order": 0
+    },
+    {
+      "id": "6e7a5246-38b3-418c-ad3f-1c8b1f258297",
+      "tvSeriesId": "b1ec2349-0e17-4126-923e-4a0dda9a2c71",
+      "tmdbPersonId": 6364711,
+      "name": "James Engelsman",
+      "character": "Self - Host",
+      "profilePath": null,
+      "order": 1
+    },
+    {
+      "id": "31c2f21a-056f-49ef-9943-f937e18695ad",
+      "tvSeriesId": "b1ec2349-0e17-4126-923e-4a0dda9a2c71",
+      "tmdbPersonId": 6364713,
+      "name": "Thomas Holland",
+      "character": "Self - Host",
+      "profilePath": null,
+      "order": 2
+    }
+  ],
+  "seasons": [
+    {
+      "id": "dde18172-70f4-41b5-838e-2945a0719154",
+      "tvSeriesId": "b1ec2349-0e17-4126-923e-4a0dda9a2c71",
+      "tmdbId": 531872,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+      "airDate": "2026-09-04",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-09-05T16:29:34.867Z",
+      "updatedAt": "2026-09-05T16:30:05.888Z"
+    }
+  ]
+}

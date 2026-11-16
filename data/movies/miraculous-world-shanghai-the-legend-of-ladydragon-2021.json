@@ -1,0 +1,404 @@
+{
+  "slug": "miraculous-world-shanghai-the-legend-of-ladydragon-2021",
+  "id": "63532818-723d-46c0-a948-059932bd9eda",
+  "tmdbId": 726684,
+  "imdbId": "tt12816634",
+  "title": "Miraculous World: Shanghai - The Legend of Ladydragon",
+  "originalTitle": "Miraculous World : Shanghai, la légende de Ladydragon",
+  "overview": "On school break, Marinette heads to Shanghai to meet Adrien. But after arriving, Marinette loses all her stuff, including the Miraculous that allows her to turn into Ladybug!",
+  "tagline": "New city, new challenges.",
+  "posterPath": "/ouUf9zIq8PzGROyWunyEhubfFMS.jpg",
+  "backdropPath": "/rlNnwObbMu5G2FaOUlacnUIdIIA.jpg",
+  "logoPath": "/e2F7CQ5NnBThini9M8uwP8wfgEB.png",
+  "backdrops": [
+    "/rlNnwObbMu5G2FaOUlacnUIdIIA.jpg",
+    "/zns0x1f9G6xTD1kEa6w4rZQ5i5R.jpg",
+    "/c3TomSLsIFDazF1njAo9bqGWJRp.jpg",
+    "/wRACb11diBNFudRWmKjZ3z2Lu4q.jpg",
+    "/A05HrLKk2LlSxC7KVi1VrjkRrTF.jpg",
+    "/aI2bsQT6wJMpB5qo0V32LSGQW51.jpg",
+    "/nKDWmJw0mVyc2BAT5ZQ1PXVmZph.jpg",
+    "/kUURkGASmcFhKj6W0hczlIBnScs.jpg",
+    "/lHhc60NXYzswU4TvKSo45nY9Jzs.jpg",
+    "/ueqL6VVkqb98d6ct6eyEtHb1XCB.jpg"
+  ],
+  "releaseDate": "2021-05-15",
+  "runtime": 54,
+  "voteAverage": "7.91",
+  "popularity": null,
+  "popularityScore": 87,
+  "originalLanguage": "fr",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=TF63WzwuBcM",
+  "quality": "WEB-DL",
+  "director": "Thomas Astruc",
+  "directorTmdbId": 1565301,
+  "directorProfilePath": "/uIb3EHr8VeQuXxSG0oVjaTZXwD3.jpg",
+  "productionCompanies": [
+    {
+      "id": 79650,
+      "name": "ZAG Entertainment",
+      "logo_path": "/bUAfLFkb0xhmY5UsO7cWvo8Pt6A.png"
+    },
+    {
+      "id": 35136,
+      "name": "Method Animation",
+      "logo_path": "/lhGOKiuEls3KiWigu1hbvrqUP68.png"
+    },
+    {
+      "id": 200506,
+      "name": "Gravity Animation",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 780,
+      "name": "kung fu"
+    },
+    {
+      "id": 2682,
+      "name": "shanghai, china"
+    },
+    {
+      "id": 9715,
+      "name": "superhero"
+    },
+    {
+      "id": 12554,
+      "name": "dragon"
+    },
+    {
+      "id": 208349,
+      "name": "kids"
+    },
+    {
+      "id": 269769,
+      "name": "based on tv series"
+    },
+    {
+      "id": 278823,
+      "name": "3d animation"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1005,
+  "watchlistCount": 14,
+  "favouriteCount": 5,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:37:38.602Z",
+  "updatedAt": "2026-10-05T17:40:08.412Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c7a61d7e-0ec5-4259-afde-606d293916a8",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1762588,
+      "name": "Anouck Hautbois",
+      "character": "Marinette / Ladybug (voice)",
+      "profilePath": "/yHBoYywjBecWuzI9ir2LKBzliRP.jpg",
+      "order": 0
+    },
+    {
+      "id": "066f9e6d-d800-43e3-8cea-8811a0fef0dd",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1889718,
+      "name": "Geneviève Doang",
+      "character": "Fei / Ladydragon (voice)",
+      "profilePath": "/flp8M2Rgkrvu5EpjygKulUQ1XFB.jpg",
+      "order": 1
+    },
+    {
+      "id": "d7b92e3b-2726-451c-afa0-1310da87e395",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1558832,
+      "name": "Benjamin Bollen",
+      "character": "Adrien / Chat Noir (voice)",
+      "profilePath": "/v39WarohjEdNCexiM5wF6CCMwG1.jpg",
+      "order": 2
+    },
+    {
+      "id": "2404894c-3588-4bdc-bd1d-48155080cb82",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1758915,
+      "name": "Antoine Tomé",
+      "character": "Gabriel / Papillon (voice)",
+      "profilePath": "/2rxz83TmtO2rHJuabTMkbIFCtqx.jpg",
+      "order": 3
+    },
+    {
+      "id": "777e0647-c8ff-4ec5-af24-dd3358208f37",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1414404,
+      "name": "Fabrice Lelyon",
+      "character": "Cash (voice)",
+      "profilePath": "/iL9bnAvyuV73bJNRkbqT7gm95dD.jpg",
+      "order": 4
+    },
+    {
+      "id": "85679974-7d86-4380-af85-99ff3fd6255e",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 2180444,
+      "name": "Nicolas Justamon",
+      "character": "Mei Shi (voice)",
+      "profilePath": "/l378YC6NY1A7w6ZqC1kGlHpkH90.jpg",
+      "order": 5
+    },
+    {
+      "id": "c082c0b6-3e7c-41da-9227-b40c31dcd252",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1019987,
+      "name": "Bing Yin",
+      "character": "Wang (voice)",
+      "profilePath": "/AiwAuBLK8XjuZ4e5hPFCteQr7yf.jpg",
+      "order": 6
+    },
+    {
+      "id": "01300a52-45cc-4652-8b60-35e951908b4e",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1762590,
+      "name": "Fanny Bloc",
+      "character": "Alya (voice)",
+      "profilePath": "/uEKWnfCrFPx18OBkVZgFvtHwjqN.jpg",
+      "order": 7
+    },
+    {
+      "id": "728a9a62-0a35-4337-bd7a-90a6c3de77ca",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1373143,
+      "name": "Marie Nonnenmacher",
+      "character": "Tikki (voice)",
+      "profilePath": "/hDnrMOYbEFmaxm2yngxy3gpd3Hy.jpg",
+      "order": 8
+    },
+    {
+      "id": "1cc22f51-a440-4d87-ac42-5b275366bd71",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1762589,
+      "name": "Thierry Kazazian",
+      "character": "Plagg (voice)",
+      "profilePath": "/7sqA1L6pwKmmBccMdmzNJwlXBWk.jpg",
+      "order": 9
+    },
+    {
+      "id": "e0887045-afe2-4301-b66e-de4632bcafc5",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1364266,
+      "name": "Martial Le Minoux",
+      "character": "Nooroo / Long / Tom (voice)",
+      "profilePath": "/fwVHuPoEv8j4VjBTibizOAAIga1.jpg",
+      "order": 10
+    },
+    {
+      "id": "d7dcc78f-a7b3-4a91-92ea-5d4c44ac7b85",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 2889967,
+      "name": "Jessie Lambotte",
+      "character": "Sabine / Xiong (voice)",
+      "profilePath": "/4QdWEK2eZnhBAl7UmAQF1yUgngO.jpg",
+      "order": 11
+    },
+    {
+      "id": "18f76435-926a-450e-b880-f00f885408c4",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1762591,
+      "name": "Marie Chevalot",
+      "character": "Nathalie / She (voice)",
+      "profilePath": "/tHvk1jTWad3kb27c2v0zN0T2eFz.jpg",
+      "order": 12
+    },
+    {
+      "id": "18b9819d-7d3a-48c8-93e6-386288b9c2c9",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1444806,
+      "name": "Jérémy Prévost",
+      "character": "Shifu / Hou / Bastille (voice)",
+      "profilePath": "/aL2Fez3Le2cCK6rw3xkaCIxvFMT.jpg",
+      "order": 13
+    },
+    {
+      "id": "993d4b3a-5344-4300-adf5-6e4fe815fc57",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 150485,
+      "name": "Fily Keita",
+      "character": "Tang (voice)",
+      "profilePath": "/jel7tV05IEkt9B1zWErNi1YImkp.jpg",
+      "order": 14
+    },
+    {
+      "id": "b3708b3b-6f5c-4aae-8b81-65f3e5e731b2",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 2487016,
+      "name": "Anatole Yun",
+      "character": "Chung (voice)",
+      "profilePath": "/s39tDgDPPSX1flAHJnojCN6LuaA.jpg",
+      "order": 15
+    },
+    {
+      "id": "1207b3d7-167d-4664-810b-333ba2fd5a4a",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1651578,
+      "name": "Yun Lai",
+      "character": "Kang (voice)",
+      "profilePath": "/78gHELddtW2Gg8N2Nf8XtPIpbOT.jpg",
+      "order": 16
+    },
+    {
+      "id": "3299c91f-062f-4088-8888-578e9af56949",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 2565013,
+      "name": "Xun Liang",
+      "character": "Jiao / Chung (voice)",
+      "profilePath": "/83GXZXt66BhxZpjiNQhXR8iLn55.jpg",
+      "order": 17
+    },
+    {
+      "id": "34c8c17e-ad0e-4ffa-8acd-4bcb28573b8b",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 3612357,
+      "name": "Valentine Zhou",
+      "character": "TV Presenter (voice)",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "dead9b6d-a8ee-4b5d-af82-a30c4a593a6a",
+      "movieId": "63532818-723d-46c0-a948-059932bd9eda",
+      "tmdbPersonId": 1362693,
+      "name": "Yilin Yang",
+      "character": "Extra Characters (voice)",
+      "profilePath": "/s5NPAywEWMxRXbtioC12jJ8C9HV.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,254 @@
+{
+  "slug": "shark-frenzy-2026",
+  "id": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+  "tmdbId": 1712454,
+  "imdbId": "tt41517310",
+  "title": "Shark Frenzy",
+  "originalTitle": "Shark Frenzy",
+  "overview": "A family vacation goes wrong when their daughter and her friends get lost at sea on a fishing boat. When that boat is destroyed, they survive in a row boat, then the open ocean. Her parents race to find her as sharks circle ever closer in a deadly fight for survival.",
+  "tagline": "A fun day on the water may be their last…",
+  "posterPath": "/A1dZIibysmc8fi5W4q18oJ2aSo4.jpg",
+  "backdropPath": "/zMlGEj11wRFdvu5riJJ5nekPo94.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/zMlGEj11wRFdvu5riJJ5nekPo94.jpg"
+  ],
+  "releaseDate": "2026-07-17",
+  "runtime": 82,
+  "voteAverage": "5.50",
+  "popularity": null,
+  "popularityScore": 624,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=cuxEkqbuQxk",
+  "quality": "WEB-DL",
+  "director": "Ryan Ebert",
+  "directorTmdbId": 2427740,
+  "directorProfilePath": "/7TWzBqJY7KkM9PoJBENXSMxzLut.jpg",
+  "productionCompanies": [
+    {
+      "id": 1311,
+      "name": "The Asylum",
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png"
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 34301,
+  "watchlistCount": 83,
+  "favouriteCount": 21,
+  "shareCount": 15,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-18T17:00:58.845Z",
+  "updatedAt": "2026-09-18T17:01:02.594Z",
+  "genres": [
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3ef38f51-0734-4c0d-9acb-89312bf7920d",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 77321,
+      "name": "David Chokachi",
+      "character": "Robb Miller",
+      "profilePath": "/j5RTusstv11K2xMHdEIBjrWsGle.jpg",
+      "order": 0
+    },
+    {
+      "id": "6a080977-2253-4b6c-98de-3adb7d51b3e0",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 6273569,
+      "name": "Sophia Sabol",
+      "character": "Toni Miller",
+      "profilePath": "/f78FzhU9hZkUwCDzpyeYdRLsHEu.jpg",
+      "order": 1
+    },
+    {
+      "id": "bbf664ea-b243-439b-b340-303f4800af45",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 2823696,
+      "name": "Sarafina King",
+      "character": "Bev Miller",
+      "profilePath": "/hGtqwRTa8AuCPzIsSXlSnpqoK5B.jpg",
+      "order": 2
+    },
+    {
+      "id": "f5c0c9aa-306c-4286-a764-9d1a64e34e70",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 5648893,
+      "name": "Brian Latimer",
+      "character": "Ed Hughes",
+      "profilePath": "/1RhN9DNJbaS52tKYhMMIUBxIH9G.jpg",
+      "order": 3
+    },
+    {
+      "id": "c9d9f183-0a81-4ba3-9206-782f91c58922",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 5913858,
+      "name": "Emily Huffines",
+      "character": "Steph Hughes",
+      "profilePath": "/aflrrHZ4YxZhS0yNSUdj41FrUMC.jpg",
+      "order": 4
+    },
+    {
+      "id": "2bd522ea-2c4c-4615-8f30-82332fcd6a04",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 6085457,
+      "name": "Daniel Cobden",
+      "character": "Danny Miller",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "118ae4d2-000a-43d8-8eb3-3eebdceff80c",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 5337173,
+      "name": "Thandiwe McMillan",
+      "character": "Chelsea",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "5c97b832-fabb-4cd5-8933-788cb7e427c4",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 5671474,
+      "name": "Paul Fisher III",
+      "character": "Jason",
+      "profilePath": "/fBf4oyWseOod385L7T6bS8CO8iZ.jpg",
+      "order": 7
+    },
+    {
+      "id": "cbf7d48b-703c-4820-af4e-96de50b2dabf",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 3841314,
+      "name": "Lester G. Reynolds",
+      "character": "Com. Matt Davis",
+      "profilePath": "/zBGETMVW5HJTYwa1J2Cd19jApST.jpg",
+      "order": 8
+    },
+    {
+      "id": "1abf335f-e2c0-4353-8cea-644464a7b4bd",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 2542673,
+      "name": "Ed Spinelli",
+      "character": "Brad Hughes",
+      "profilePath": "/3tolZ7XBSsymd0HpLnp8Mmp1L7O.jpg",
+      "order": 9
+    },
+    {
+      "id": "ddd75a99-c269-4a25-a96b-665bac2ef286",
+      "movieId": "da499faf-3a24-4e0e-9bbf-997e8ad4ca64",
+      "tmdbPersonId": 6316611,
+      "name": "Keenan Warda",
+      "character": "Aaron",
+      "profilePath": null,
+      "order": 10
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "did-someone-happen-to-mention-me-2026",
+  "id": "77022fbc-76ca-4b36-8122-202a0438f294",
+  "title": "Did Someone Happen to Mention Me?",
+  "overview": "Gen Takasegawa, the first Japanese actor to play the lead role at London's Shakespeare’s Globe Theatre, has been unable to return to Japan for some time. After two years, he finally makes his way back home, only to find out that he is suddenly and completely forgotten by the entire world.",
+  "tagline": null,
+  "posterPath": "/4zNytZ6R4awYY9vFBNdENkT4hPC.jpg",
+  "backdropPath": "/osn5oJ5c6ahsHNg631ep2DNbU2L.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-10-22",
+  "voteAverage": "8.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b26932d8-8251-4f7f-bf6b-9df2f22613f5",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbPersonId": 18056,
+      "name": "Koji Yakusho",
+      "character": "Gen Takasegawa",
+      "profilePath": "/r2WyVRyl6EJgyPKUJCB7D9cKYPE.jpg",
+      "order": 0
+    },
+    {
+      "id": "aaa24434-12b7-4a70-8d2a-ac3d2348e9a5",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbPersonId": 1041465,
+      "name": "Kento Kaku",
+      "character": "Tetsu Okamoto",
+      "profilePath": "/1c7WZIRaQTUoKlD0LSDWB5n15X6.jpg",
+      "order": 1
+    },
+    {
+      "id": "527a96ff-b0a8-43e8-b2af-a8c3dd7bdae3",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbPersonId": 79037,
+      "name": "Kenichi Matsuyama",
+      "character": "Kazuki Kawashima",
+      "profilePath": "/j7zwtoLF6A7d8xSU9kjgz664nQw.jpg",
+      "order": 2
+    },
+    {
+      "id": "83eaa9b7-92c9-4b08-85f7-eacbc7fe3422",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbPersonId": 1357295,
+      "name": "Yoh Yoshida",
+      "character": "Yoko Nonomura",
+      "profilePath": "/3grR0n3XfGyv6nSB35LjjvKfmCI.jpg",
+      "order": 3
+    },
+    {
+      "id": "0aab5001-402e-4ed5-801f-87d9a8d759f7",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbPersonId": 2010199,
+      "name": "Shusaku Kamikawa",
+      "character": "Oomori",
+      "profilePath": "/nnXWcfLqdkAupAgoRMkrzF3l2fB.jpg",
+      "order": 4
+    },
+    {
+      "id": "60cfd8f3-9bb6-4ded-9931-1ce14b4fc71a",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbPersonId": 83528,
+      "name": "Noriko Eguchi",
+      "character": "Machiko Takasegawa",
+      "profilePath": "/6lsnjQk0QvlJGg7rZqK1nROFU31.jpg",
+      "order": 5
+    },
+    {
+      "id": "dd129acc-703a-4d67-83ea-96df66e32910",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbPersonId": 2797433,
+      "name": "Yuumi Kawai",
+      "character": "Ema Nonomura",
+      "profilePath": "/pcYp2J96Kt0M2MuLE6BRb6b6nGG.jpg",
+      "order": 6
+    },
+    {
+      "id": "bb6146c6-650a-46c0-91d4-1f17fedfe9c1",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbPersonId": 554406,
+      "name": "Masatoshi Hamada",
+      "character": "Daichi Mibu",
+      "profilePath": "/mOlpsOu4ZgYXAC5AQAyHgGtqiD3.jpg",
+      "order": 7
+    },
+    {
+      "id": "b412cbf6-7be5-4e82-b324-b945166b466f",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbPersonId": 134829,
+      "name": "Maki Sakai",
+      "character": "Chizimi",
+      "profilePath": "/pIUqUvagooKEg40MfiurOjPvCgY.jpg",
+      "order": 8
+    },
+    {
+      "id": "ab5eaf27-f9d8-406c-b4c9-1a6333063f33",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbPersonId": 1502230,
+      "name": "Hayato Isomura",
+      "character": "Takeru Murai",
+      "profilePath": "/iK0x2LJDgz07ebDf2fwFaw4D7qz.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "546b40a6-8984-43ff-a6cc-81e4d6a8c6e6",
+      "tvSeriesId": "77022fbc-76ca-4b36-8122-202a0438f294",
+      "tmdbId": 474922,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/fDwpR6oVx1TsxvelEQQIXnb3zYx.jpg",
+      "airDate": "2026-10-22",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-24T10:12:37.719Z",
+      "updatedAt": "2026-10-24T10:13:38.249Z"
+    }
+  ]
+}

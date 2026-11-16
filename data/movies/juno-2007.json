@@ -1,0 +1,413 @@
+{
+  "slug": "juno-2007",
+  "id": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+  "tmdbId": 7326,
+  "imdbId": "tt0467406",
+  "title": "Juno",
+  "originalTitle": "Juno",
+  "overview": "Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff, makes an unusual decision regarding her unborn child.",
+  "tagline": "A comedy about growing up… and the bumps along the way.",
+  "posterPath": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+  "backdropPath": "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+  "logoPath": "/lqDLkjx5eEPKqgDbaaXPfF3GDEU.png",
+  "backdrops": [
+    "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg",
+    "/8K7ts1ewqZz00sOObpTRSljLdBv.jpg",
+    "/cqorawG2l70olHLIf0Mgvhb5XMf.jpg",
+    "/8PFbwqxOpRRlT9iYsiXxU6qs6JH.jpg",
+    "/hHDLTu6zrA427iLRDavTwNb9Tf0.jpg",
+    "/qjBCj1g90vD1WTrsbcAwa8GMCIk.jpg",
+    "/qvx7yELTveTi7gzJU1FZAKz06Nz.jpg",
+    "/isSyVnqVmSOqVo3JQvVDJnaE3hr.jpg",
+    "/8C2SAHYvhcUTF86QVUR3r5d9hkQ.jpg",
+    "/sRW9lPTkHV5h6ZZkQj9UiO3iESp.jpg"
+  ],
+  "releaseDate": "2007-12-05",
+  "runtime": 96,
+  "voteAverage": "7.06",
+  "popularity": null,
+  "popularityScore": 544,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=miy1fE-8Z0U",
+  "quality": "WEB-DL",
+  "director": "Jason Reitman",
+  "directorTmdbId": 52443,
+  "directorProfilePath": "/eNNN1dwfB6b6p2hoEG1xyoa7H2p.jpg",
+  "productionCompanies": [
+    {
+      "id": 771,
+      "name": "Mandate Pictures",
+      "logo_path": "/fQpEeXgCVsXQkVVFMMjrrkOFja3.png"
+    },
+    {
+      "id": 2130,
+      "name": "Mr. Mudd",
+      "logo_path": "/g0lqeY2FvhzXcOI6z8RVXbORRUY.png"
+    },
+    {
+      "id": 43,
+      "name": "Fox Searchlight Pictures",
+      "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1525,
+      "name": "puberty"
+    },
+    {
+      "id": 2201,
+      "name": "first time"
+    },
+    {
+      "id": 1412,
+      "name": "becoming an adult"
+    },
+    {
+      "id": 738,
+      "name": "sexuality"
+    },
+    {
+      "id": 3725,
+      "name": "pregnancy"
+    },
+    {
+      "id": 2393,
+      "name": "adoption"
+    },
+    {
+      "id": 5825,
+      "name": "precocity"
+    },
+    {
+      "id": 6281,
+      "name": "partnership"
+    },
+    {
+      "id": 5808,
+      "name": "pregnant minor"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 173186,
+      "name": "teenage pregnancy"
+    },
+    {
+      "id": 325824,
+      "name": "hopeful"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 7184,
+  "watchlistCount": 123,
+  "favouriteCount": 31,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-03T12:59:30.531Z",
+  "updatedAt": "2026-10-03T13:03:44.694Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "47022a72-ee26-460a-a955-14b0022532ea",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 27578,
+      "name": "Elliot Page",
+      "character": "Juno MacGuff",
+      "profilePath": "/wSdlM4Qyoi5AGj5eIIp8Bm0Sfkz.jpg",
+      "order": 0
+    },
+    {
+      "id": "8b1b5bf5-97f3-4753-9dc5-fe09dce18644",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 39995,
+      "name": "Michael Cera",
+      "character": "Paulie Bleeker",
+      "profilePath": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg",
+      "order": 1
+    },
+    {
+      "id": "135a5133-0cf9-4821-ae6f-74c366d86d23",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 9278,
+      "name": "Jennifer Garner",
+      "character": "Vanessa Loring",
+      "profilePath": "/eiX083VOa0RCGSgwENZgVi5MgDi.jpg",
+      "order": 2
+    },
+    {
+      "id": "1af15966-87b9-41c3-a9e4-3801021a0a63",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 23532,
+      "name": "Jason Bateman",
+      "character": "Mark Loring",
+      "profilePath": "/8e6mt0vGjPo6eW52gqRuXy5YnfN.jpg",
+      "order": 3
+    },
+    {
+      "id": "90941ffe-0c80-4da0-9240-f3d34e4f3af3",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 18999,
+      "name": "J.K. Simmons",
+      "character": "Mac MacGuff",
+      "profilePath": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg",
+      "order": 4
+    },
+    {
+      "id": "af08fd6f-86b8-46bf-a440-f3e8e9730d8a",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 19,
+      "name": "Allison Janney",
+      "character": "Bren MacGuff",
+      "profilePath": "/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg",
+      "order": 5
+    },
+    {
+      "id": "b4987f9a-179b-4bf3-9350-90e747d238a8",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 52442,
+      "name": "Olivia Thirlby",
+      "character": "Leah",
+      "profilePath": "/x9ZlUX617wi9li2TJ5UuYpHzPfN.jpg",
+      "order": 6
+    },
+    {
+      "id": "f294bd2a-3104-48fe-8b65-1c222afdd62e",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 52457,
+      "name": "Eileen Pedde",
+      "character": "Gerta Rauss",
+      "profilePath": "/unjd0sAVtNhdIJAxzx49RfeVevy.jpg",
+      "order": 7
+    },
+    {
+      "id": "f485ed19-0853-41a8-9085-8cc88590c3eb",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 11678,
+      "name": "Rainn Wilson",
+      "character": "Rollo",
+      "profilePath": "/yRTElSeC3q9nBqBuleI6OODlDMS.jpg",
+      "order": 8
+    },
+    {
+      "id": "c98c1d74-f4ab-46a9-99e5-1050b1b12996",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 52458,
+      "name": "Daniel Clark",
+      "character": "Steve Rendazo",
+      "profilePath": "/m7uqo9bbljmCAT0Xcjea6IpgnAb.jpg",
+      "order": 9
+    },
+    {
+      "id": "73d7e853-09be-4ab3-bfc5-f0a39aeef00a",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 1369082,
+      "name": "Darla Fay",
+      "character": "Bleeker's Mom",
+      "profilePath": "/iJaT9mjw7um8iuBiaFpvsn3jX1m.jpg",
+      "order": 10
+    },
+    {
+      "id": "63c420c3-aa24-444d-aa89-061b0e7c7759",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 85616,
+      "name": "Aman Johal",
+      "character": "Vijay",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "c11d7776-aa5d-4aec-9926-472e04f89b37",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 82791,
+      "name": "Valerie Tian",
+      "character": "Su-Chin",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "abf5fd3a-1ceb-4241-9d38-ddcacd368843",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 64914,
+      "name": "Emily Perkins",
+      "character": "Punk Receptionist",
+      "profilePath": "/d00jeauQboyhmBoJDDGKt5s3IyD.jpg",
+      "order": 13
+    },
+    {
+      "id": "0bf7f3b8-ccd4-448a-a8f5-26c59f71bbdb",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 1093538,
+      "name": "Kaaren de Zilva",
+      "character": "Ultrasound Technician",
+      "profilePath": "/ij8Adx5ODCIP8QExjNNg1qlBnQr.jpg",
+      "order": 14
+    },
+    {
+      "id": "13a4868e-56e0-4a60-a209-200d68ebf234",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 230868,
+      "name": "Steven Christopher Parker",
+      "character": "Guy Lab Partner",
+      "profilePath": "/mAgdDucfAl5uT1NXVaLSoxNUcco.jpg",
+      "order": 15
+    },
+    {
+      "id": "0f8291b5-2dfa-444f-bb50-f00427402afc",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 85144,
+      "name": "Candice King",
+      "character": "Amanda, Girl Lab Partner",
+      "profilePath": "/bdcXZbX1JsNVTWd28wzqUgDphWy.jpg",
+      "order": 16
+    },
+    {
+      "id": "422fdea5-b40b-48e6-a357-ab9c17f5f6f7",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 135802,
+      "name": "Sierra Pitkin",
+      "character": "Liberty Bell",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "e7650415-7782-4a71-b947-e942c787adf1",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 229679,
+      "name": "Cut Chemist",
+      "character": "Chemistry Teacher",
+      "profilePath": "/qiJYNV8hJ5IlRJYodwI3r0Y9IQs.jpg",
+      "order": 18
+    },
+    {
+      "id": "0732c574-fa6c-4ff3-93eb-108fd0cb6c82",
+      "movieId": "7f94c09c-1069-43e5-b57b-1cb3cf0d6d62",
+      "tmdbPersonId": 209723,
+      "name": "Eve Harlow",
+      "character": "Tough Girl",
+      "profilePath": "/yz9MjN9vqLZPya9tYNx6uVsdMiL.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "albarn",
+    "displayName": "hyuugaeri"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

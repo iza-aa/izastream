@@ -1,0 +1,624 @@
+{
+  "slug": "im-looking-for-zombie-2026",
+  "id": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+  "tmdbId": 301139,
+  "imdbId": "tt43691424",
+  "title": "#I'm Looking for Zombie",
+  "originalTitle": "#ゾンビさがしてます",
+  "overview": "It may be a ruined city ravaged by zombies, but to Aki and her friends, it's amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they've never felt more alive.",
+  "tagline": null,
+  "posterPath": "/c26lzZbNEJTX5zxhlLSYEZerS3V.jpg",
+  "backdropPath": "/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+  "logoPath": "/1SMygZPB6m392uOgvixy0OyijUJ.png",
+  "backdrops": [
+    "/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+    "/gEbVNBlxBVvyphlpDBUqGNpfXNc.jpg",
+    "/5yvOOmSEn6KhuY6MZygSN8Cl3zl.jpg",
+    "/9ViNpdwhuypw5SjR5Zq7L2IJLxY.jpg"
+  ],
+  "firstAirDate": "2026-10-03",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "voteAverage": "8.00",
+  "popularity": null,
+  "popularityScore": 204,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "trailerUrl": "https://www.youtube.com/watch?v=_0kVb8-uRSI",
+  "status": "Returning Series",
+  "networks": [
+    {
+      "id": 12,
+      "name": "HTB",
+      "logo_path": "/7wuTb7iMz5yLoJ8hIyBnUxqR3mP.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 103,
+      "name": "tv asahi",
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 576,
+      "name": "Nagoya TV",
+      "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1278,
+      "name": "KBC",
+      "logo_path": "/49D825cN3Zb4slobKyGqIaI3Fx9.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1410,
+      "name": "ABC TV",
+      "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3756,
+      "name": "NCC",
+      "logo_path": "/qEIIHhehdHtTQ4fhuXrA29mbzmo.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4794,
+      "name": "OAB",
+      "logo_path": "/zJwB70bgRT6rTDqgAlHiqwRT4y7.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4798,
+      "name": "ABA",
+      "logo_path": "/mXNVO8Wok1ClD7IO68PxyqBiGZZ.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6270,
+      "name": "Niigata Television Network 21",
+      "logo_path": "/xnHINTAs2GnfXJ3lalaQ0se8aup.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6284,
+      "name": "khb",
+      "logo_path": "/wKeS1TYkJVcV9tGPnvb92IugawP.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6285,
+      "name": "KFB",
+      "logo_path": "/kNRmEa1EtmNOSc8CKMwdGfkXIyV.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6288,
+      "name": "HOME",
+      "logo_path": "/gm3ksoi7zQMWpHsJJDzotTwF2GM.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6289,
+      "name": "KSB",
+      "logo_path": "/u9XEQkReRr35KxxMic1vPjJv3qo.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6290,
+      "name": "Kagoshima Broadcasting",
+      "logo_path": "/kgfTkjNRsR0f2QEiaXf2fymKB6V.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6365,
+      "name": "Iwate Asahi TV",
+      "logo_path": "/zt6uycUeRmG8aiYRw420P5y4Xi0.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6367,
+      "name": "Yamagata Television System",
+      "logo_path": "/kAfR2xtRjdVhEoLPPSJJSBqIFLx.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6368,
+      "name": "Shizuoka Asahi TV",
+      "logo_path": "/34nBfbkqxcjrbpVraEfI6MkCvgY.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6369,
+      "name": "Asahi Broadcasting Nagano",
+      "logo_path": "/ztA2E1CY6L3aF2roadAOHtLiDCP.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6370,
+      "name": "Hokuriku Asahi Broadcasting",
+      "logo_path": "/onsaMWqPfrINyAfgi2FnP8conv1.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6372,
+      "name": "Ehime Asahi TV",
+      "logo_path": "/oF2QyQlm3yurCqIrohMC3UQZbxw.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6373,
+      "name": "Yamaguchi Asahi Broadcasting",
+      "logo_path": "/6iuVpZdxAE8lgPENUBuwzCspYF7.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6374,
+      "name": "Kumamoto Asahi Broadcasting",
+      "logo_path": "/qBX8z5bj0EISsASQo5IE76BYpu5.png",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6375,
+      "name": "Ryu-Q Asahi Broadcasting",
+      "logo_path": "/7hIrDssIDTG2sGLdq1IfYddv9tz.png",
+      "origin_country": "JP"
+    }
+  ],
+  "productionCompanies": [
+    {
+      "id": 69265,
+      "name": "Studio Comet",
+      "logo_path": "/5wdB99cH5b8ZpffhKqAywRCpGKR.png"
+    },
+    {
+      "id": 2073,
+      "name": "KADOKAWA",
+      "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png"
+    },
+    {
+      "id": 9300,
+      "name": "TV Asahi",
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png"
+    },
+    {
+      "id": 187932,
+      "name": "armabianca",
+      "logo_path": "/5qlRgi2XlCSyKdN8wMSiLrA5uKO.png"
+    },
+    {
+      "id": 163691,
+      "name": "Jinnan Studio",
+      "logo_path": "/24qBOdAWHBTz9YjDoQwPrL1uyMw.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4458,
+      "name": "post-apocalyptic future"
+    },
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 10349,
+      "name": "survival"
+    },
+    {
+      "id": 10683,
+      "name": "coming of age"
+    },
+    {
+      "id": 12377,
+      "name": "zombie"
+    },
+    {
+      "id": 13141,
+      "name": "based on manga"
+    },
+    {
+      "id": 50009,
+      "name": "survival horror"
+    },
+    {
+      "id": 186565,
+      "name": "zombie apocalypse"
+    },
+    {
+      "id": 189092,
+      "name": "journey"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    },
+    {
+      "id": 240303,
+      "name": "father daughter relationship"
+    },
+    {
+      "id": 246313,
+      "name": "isolated community"
+    },
+    {
+      "id": 293194,
+      "name": "youth"
+    }
+  ],
+  "createdBy": [],
+  "importedBy": "1816a61f-edb4-4e70-aed6-788e8f5ab078",
+  "viewCount": 920,
+  "watchlistCount": 18,
+  "favouriteCount": 7,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T18:31:07.196Z",
+  "updatedAt": "2026-11-16T02:49:08.268Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d7d26a2e-a561-47e6-8079-a9c2c9e04ffe",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbId": 476173,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/c26lzZbNEJTX5zxhlLSYEZerS3V.jpg",
+      "airDate": "2026-10-03",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-26T15:16:26.073Z",
+      "updatedAt": "2026-11-16T02:48:55.990Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "69375552-cbe5-4b28-a955-51bf92e9488a",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbPersonId": 2803258,
+      "name": "Miyari Nemoto",
+      "character": "Aki (voice)",
+      "profilePath": "/q6gtn88XdzscIBtxGT05GQrNIXF.jpg",
+      "order": 0
+    },
+    {
+      "id": "3e912b36-cc1b-4ea3-ab55-9ed31ec71452",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbPersonId": 1691384,
+      "name": "Lynn",
+      "character": "Natsuki (voice)",
+      "profilePath": "/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg",
+      "order": 1
+    },
+    {
+      "id": "9158bcee-7c04-4712-a65b-e9f5e7aae71a",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbPersonId": 2183701,
+      "name": "Toshiya Miyata",
+      "character": "Haru (voice)",
+      "profilePath": "/6g0HUHtLaddU3q3hV4qF46bkzYB.jpg",
+      "order": 2
+    },
+    {
+      "id": "da81b529-5d8b-419e-bee3-b292b052c334",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbPersonId": 1587124,
+      "name": "Hibiku Yamamura",
+      "character": "Yū (voice)",
+      "profilePath": "/7mZ02XdjbbO0AnsX5Fwr23ZFe3G.jpg",
+      "order": 3
+    },
+    {
+      "id": "e0a4ed2a-7c06-42a2-8290-99cb6995c874",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbPersonId": 1922616,
+      "name": "Yuka Nukui",
+      "character": "Sakura (voice)",
+      "profilePath": "/bTFcrrgj9B8QAXa1NKqlsrdwWka.jpg",
+      "order": 4
+    },
+    {
+      "id": "55e04952-681c-44e9-a5e0-d0c93b8228a1",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbPersonId": 1072774,
+      "name": "Yoko Hikasa",
+      "character": "Mikazuki (voice)",
+      "profilePath": "/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg",
+      "order": 5
+    },
+    {
+      "id": "35bdcacd-9669-4bd1-96a1-1ba10e5a65c8",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbPersonId": 1645397,
+      "name": "Makoto Koichi",
+      "character": "Tōka (voice)",
+      "profilePath": "/gpslQDgkGoL3Ap9QsK1nljeGPKJ.jpg",
+      "order": 6
+    },
+    {
+      "id": "44e058c1-ddff-4c05-8188-695d3e7d70a5",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbPersonId": 2394855,
+      "name": "Tomoyo Takayanagi",
+      "character": "Takamo (voice)",
+      "profilePath": "/hc7zoKWJMwUBLCZEKXro6TotqZS.jpg",
+      "order": 7
+    },
+    {
+      "id": "6d945121-724d-40a1-b802-c59153ebe000",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbPersonId": 3521404,
+      "name": "Aino Shimada",
+      "character": "Saigo (voice)",
+      "profilePath": "/3uSfLSPk7wnlxEzki1p7IDuShl8.jpg",
+      "order": 8
+    },
+    {
+      "id": "ce84533a-12b1-4423-b959-b162b4301c0a",
+      "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+      "tmdbPersonId": 122647,
+      "name": "Kohsuke Toriumi",
+      "character": "Aki's father (voice)",
+      "profilePath": "/vlRQ77taCCKh7itCZn3IWJUiYQr.jpg",
+      "order": 9
+    }
+  ],
+  "defaultSeason": {
+    "id": "d7d26a2e-a561-47e6-8079-a9c2c9e04ffe",
+    "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+    "tmdbId": 476173,
+    "seasonNumber": 1,
+    "name": "Season 1",
+    "overview": "",
+    "posterPath": "/c26lzZbNEJTX5zxhlLSYEZerS3V.jpg",
+    "airDate": "2026-10-03",
+    "episodeCount": 12,
+    "isPublished": true,
+    "createdAt": "2026-10-26T15:16:26.073Z",
+    "updatedAt": "2026-11-16T02:48:55.990Z",
+    "episodes": [
+      {
+        "id": "913b6ed4-2161-47b4-ae0e-bc4b5f296972",
+        "seasonId": "d7d26a2e-a561-47e6-8079-a9c2c9e04ffe",
+        "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+        "tmdbId": 6542483,
+        "episodeNumber": 1,
+        "name": "I'm Looking for My Dad",
+        "overview": "13 years after the \"Red Day,\" Aki leaves the village with Natsuki and Haru to search for her father.",
+        "stillPath": "/9ViNpdwhuypw5SjR5Zq7L2IJLxY.jpg",
+        "airDate": "2026-10-03",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:16:26.073Z",
+        "updatedAt": "2026-11-16T02:48:55.990Z",
+        "hasVideo": true
+      },
+      {
+        "id": "f3dca245-cd97-4934-b52d-d1240721b4e4",
+        "seasonId": "d7d26a2e-a561-47e6-8079-a9c2c9e04ffe",
+        "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+        "tmdbId": 7903657,
+        "episodeNumber": 2,
+        "name": "I'm Looking for My Friends",
+        "overview": "Aki and her group meet Mikazuki, who is searching for her friends.",
+        "stillPath": "/xumCA4pVDIMC4qRrk94WoopGndN.jpg",
+        "airDate": "2026-10-10",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:16:26.073Z",
+        "updatedAt": "2026-11-16T02:48:55.990Z",
+        "hasVideo": true
+      },
+      {
+        "id": "c0d075ae-58b9-4466-a0d3-4ddb46d4e117",
+        "seasonId": "d7d26a2e-a561-47e6-8079-a9c2c9e04ffe",
+        "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+        "tmdbId": 7903658,
+        "episodeNumber": 3,
+        "name": "I’m Looking for a Photo Shop",
+        "overview": "Aki and her group go out to find a photo shop to develop the film left in her dad's camera.",
+        "stillPath": "/yNkz6obKiU4P3bblyKq5r0YInoe.jpg",
+        "airDate": "2026-10-17",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:16:26.073Z",
+        "updatedAt": "2026-11-16T02:48:55.990Z",
+        "hasVideo": true
+      },
+      {
+        "id": "b7bdf6f5-66d7-4cbb-879a-6a4cfe8b3e08",
+        "seasonId": "d7d26a2e-a561-47e6-8079-a9c2c9e04ffe",
+        "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+        "tmdbId": 7903659,
+        "episodeNumber": 4,
+        "name": "I'm Looking for a Hospital",
+        "overview": "Aki and Yu set out to find a hospital to treat Natsuki's wound.",
+        "stillPath": "/gII2dKQsTOOqZ1BPQEW97eyvmpL.jpg",
+        "airDate": "2026-10-24",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:16:26.073Z",
+        "updatedAt": "2026-11-16T02:48:55.990Z",
+        "hasVideo": true
+      },
+      {
+        "id": "ff813987-a388-4b0a-b3cb-13e79770acf6",
+        "seasonId": "d7d26a2e-a561-47e6-8079-a9c2c9e04ffe",
+        "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+        "tmdbId": 7903660,
+        "episodeNumber": 5,
+        "name": "Episode 5",
+        "overview": "Yu and Haru meet Toka while looking for parts to fix the car.",
+        "stillPath": "/nRWiN9o84RZ1NvdAfa6kn2FeTB8.jpg",
+        "airDate": "2026-10-31",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:16:26.073Z",
+        "updatedAt": "2026-11-16T02:48:55.990Z",
+        "hasVideo": true
+      },
+      {
+        "id": "4247e88b-f0b3-4910-bb31-7c0458b4bcae",
+        "seasonId": "d7d26a2e-a561-47e6-8079-a9c2c9e04ffe",
+        "tvSeriesId": "aabfb989-9e3a-454b-a5bb-bf41c628ba41",
+        "tmdbId": 7903661,
+        "episodeNumber": 6,
+        "name": "Episode 6",
+        "overview": "On their way to Tokyo Tower, the group takes a detour to explore the base built by Takamo and her people.",
+        "stillPath": "/7QjzXxYsV288H5UjaZBcMh4n9z0.jpg",
+        "airDate": "2026-11-07",
+        "runtime": 24,
+        "voteAverage": "0",
+        "quality": null,
+        "viewCount": 0,
+        "shareCount": 0,
+        "isPublished": true,
+        "createdAt": "2026-10-26T15:16:26.073Z",
+        "updatedAt": "2026-11-16T02:49:04.377Z",
+        "hasVideo": false
+      }
+    ]
+  },
+  "requestedBy": null,
+  "collections": [],
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

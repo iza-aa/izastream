@@ -1,0 +1,393 @@
+{
+  "slug": "the-last-kiss-2026",
+  "id": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+  "tmdbId": 1318467,
+  "imdbId": "tt33253206",
+  "title": "The Last Kiss",
+  "originalTitle": "The Last Kiss",
+  "overview": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the death of anyone she kisses. After a vision reveals her crush is doomed to die in a strange murder spree targeting her closest friends, she races to unmask the killer before the mystery becomes a massacre.",
+  "tagline": "Some goodbyes last forever.",
+  "posterPath": "/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+  "backdropPath": "/klLupmrAUykQMrmFVBjbr0nreiI.jpg",
+  "logoPath": "/qL3jhyoMSweX3mJ8h9ZsKGLDwOB.png",
+  "backdrops": [
+    "/axlPrPBwdlhcWFnjLLpAH1CEP96.jpg",
+    "/klLupmrAUykQMrmFVBjbr0nreiI.jpg",
+    "/pcrzyKsfZclcMKM7tIc9NjSIWGU.jpg",
+    "/A8qiGvOJxFucIJzJfjv73i0egUW.jpg",
+    "/q1SUISNJqt57FMv4ctXTlXcdJhR.jpg",
+    "/vvqcUxwVggQtFed1DWKPPskkgfG.jpg",
+    "/sfPglervmMJYC8vUD370V5bASSp.jpg",
+    "/uGxdQAstE7IiPYqMMFTJys0wEtP.jpg",
+    "/f2GNUsRmOy5sSVCLnOWnjwzjvra.jpg",
+    "/hiWITP9sqpUGnYrjDv1SlLVtsKG.jpg"
+  ],
+  "releaseDate": "2026-09-15",
+  "runtime": 97,
+  "voteAverage": "6.33",
+  "popularity": null,
+  "popularityScore": 165,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=lAKtuOVkAgU",
+  "quality": "WEB-DL",
+  "director": "Yoko Okumura",
+  "directorTmdbId": 1951740,
+  "directorProfilePath": "/bIOsosaeMEuONToPbFo9PSWlF7O.jpg",
+  "productionCompanies": [
+    {
+      "id": 3172,
+      "name": "Blumhouse Productions",
+      "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png"
+    },
+    {
+      "id": 138783,
+      "name": "Man in a Tree Productions",
+      "logo_path": "/yxGIUMfUlxJ7yG6wwI0EOHzHLhy.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 5091,
+      "name": "kiss"
+    },
+    {
+      "id": 10170,
+      "name": "premonition"
+    },
+    {
+      "id": 10541,
+      "name": "curse"
+    },
+    {
+      "id": 12339,
+      "name": "slasher"
+    },
+    {
+      "id": 34079,
+      "name": "death"
+    },
+    {
+      "id": 208635,
+      "name": "traumatic experience"
+    },
+    {
+      "id": 256183,
+      "name": "supernatural horror"
+    },
+    {
+      "id": 309060,
+      "name": "teen horror"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5198,
+  "watchlistCount": 56,
+  "favouriteCount": 10,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-18T09:29:33.669Z",
+  "updatedAt": "2026-09-18T09:29:45.095Z",
+  "genres": [
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a7799e2e-e06f-47e7-8a09-eccbbc637f7e",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 1172108,
+      "name": "Mckenna Grace",
+      "character": "Laurel Hansen",
+      "profilePath": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg",
+      "order": 0
+    },
+    {
+      "id": "9e90eaf7-43d6-4371-b87e-3fa9c4d35e7d",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 3449368,
+      "name": "Arkira Chantaratananond",
+      "character": "Poppy Yang",
+      "profilePath": "/zfD2LkIJAk4q3a1IJIxqOYOrV6Y.jpg",
+      "order": 1
+    },
+    {
+      "id": "a328ef72-6b07-4871-b1cb-ea44f8af2c1b",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 1650148,
+      "name": "Jaden Michael",
+      "character": "Evan Geller",
+      "profilePath": "/xXhbEcicacePnh7cH012Ji6JUFq.jpg",
+      "order": 2
+    },
+    {
+      "id": "fbdece4c-9910-43a6-9cbb-3c27daabbcad",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 2234168,
+      "name": "Riley Davis",
+      "character": "Tyler McKinney",
+      "profilePath": "/7DFWO0dqsyI6WvV1JpV9xXeZD5m.jpg",
+      "order": 3
+    },
+    {
+      "id": "9213fb1f-d758-4c2f-b1dd-903d348f2590",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 984711,
+      "name": "Kate Drummond",
+      "character": "Diane Hansen",
+      "profilePath": "/p3yXIxHI2zvgn2MI9yXaAvoTBHN.jpg",
+      "order": 4
+    },
+    {
+      "id": "417ad7a5-a5a7-4db8-9459-db3d85ce1f46",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 1014293,
+      "name": "Samantha Espie",
+      "character": "Ranger Pauline",
+      "profilePath": "/pY56TYcyaREBSb9TtyeauJ88O3x.jpg",
+      "order": 5
+    },
+    {
+      "id": "9bfdc0b4-6a82-456c-935d-a988a7905d02",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 3624549,
+      "name": "Cooper Levy",
+      "character": "Chuck Beasley",
+      "profilePath": "/cffy89cf47GLzJxdXsGu7meuEyb.jpg",
+      "order": 6
+    },
+    {
+      "id": "b03eb5be-876a-4a6f-8b66-c93183846e90",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 3465111,
+      "name": "Eve Edwards",
+      "character": "Bree Williams",
+      "profilePath": "/lwdf4exkA8foHw7w9SWoLHxQSzu.jpg",
+      "order": 7
+    },
+    {
+      "id": "ada27d12-d0d8-40bd-98a9-7fce995785bf",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 5919,
+      "name": "Stephanie Moore",
+      "character": "Shannon McKinney",
+      "profilePath": "/yywrsHi8RTyzK7QiCpfILKkZT63.jpg",
+      "order": 8
+    },
+    {
+      "id": "19366ab4-f370-42b7-8afc-acaebd2b8368",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 4702614,
+      "name": "Joseph Chiu",
+      "character": "Leo Brock",
+      "profilePath": "/A0Np2cChL7NMNgQv4iyJ6xZ8axW.jpg",
+      "order": 9
+    },
+    {
+      "id": "e479c458-5556-43e0-bf65-3aa76c6c54ef",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 1581107,
+      "name": "Ash Lee",
+      "character": "Principal Randy Yang",
+      "profilePath": "/4utuaXs7Li4puP7TcdVwq9Owhyx.jpg",
+      "order": 10
+    },
+    {
+      "id": "bb97f83e-47d9-4873-9d10-2a0a3f5fa0dc",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 2414683,
+      "name": "Bergman Freedman",
+      "character": "Noah Brock",
+      "profilePath": "/bkw19Fc5WFUwJ5CMnDsqK180tbR.jpg",
+      "order": 11
+    },
+    {
+      "id": "e028e71c-5002-445d-8e50-2319c40afcc5",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 4902657,
+      "name": "Jorel Hoffert",
+      "character": "Zolly Peppercorn",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "dacab5f0-2f37-4240-87e2-f18ff0ffa731",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 4602237,
+      "name": "Noah de Mel",
+      "character": "Chuck Bro",
+      "profilePath": "/4ptoMTcldBbr18qQ2kQ1nqJRlPX.jpg",
+      "order": 13
+    },
+    {
+      "id": "109620fa-478d-4f7b-a110-357ee9916860",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 1803507,
+      "name": "Tonjha Richardson",
+      "character": "Orderly",
+      "profilePath": "/1iLoB8CyXd6N7N9DkOT4T7LWyj5.jpg",
+      "order": 14
+    },
+    {
+      "id": "a3f87880-f31f-48fe-b810-4d0bb639fb17",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 6479550,
+      "name": "Katherine Ciz",
+      "character": "Cheerleader",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "294e0291-2b9c-4e30-b689-25f34b037b0d",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 6479551,
+      "name": "Thomas McMaster",
+      "character": "Cheerleader",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "f47b26de-f3d4-4796-973e-5bf425b0932e",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 4311472,
+      "name": "Kiera Osborne",
+      "character": "Cheerleader",
+      "profilePath": "/ddC4Xc7G5RMc3sl5QxJuljSm0eU.jpg",
+      "order": 17
+    },
+    {
+      "id": "3a3761c0-c893-4b35-9285-401e79e7e521",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 6479552,
+      "name": "Lauryn Wu",
+      "character": "Cheerleader",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "3114a8c4-b820-4299-8c99-68b93b50c02f",
+      "movieId": "6d88c57d-f73a-44bd-a52a-ee2d02ec0c36",
+      "tmdbPersonId": 5795178,
+      "name": "Tkaia Green",
+      "character": "Poppy’s Friend",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

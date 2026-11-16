@@ -1,0 +1,131 @@
+{
+  "slug": "until-the-sun-meets-the-star-2025",
+  "id": "e43edff1-08d4-4192-a266-0c6627980794",
+  "title": "Until the Sun Meets the Star",
+  "overview": "A childhood accident unknowingly ties Napdao to Khimhan, the son of the man who destroyed her family. Years later, they meet again, unaware of their past connection, and become entangled in a love triangle and a dangerous web of revenge when Napdao’s long-lost mother returns after 20 years in prison.",
+  "tagline": null,
+  "posterPath": "/9srsGyR7BMY1RorhRhxME1NVTad.jpg",
+  "backdropPath": "/pJ7skXITi3KrFvDZ1CMYpvbuvtS.jpg",
+  "logoPath": "/1ich8CCv2ap7aoiAQMvZJ0zgdSZ.png",
+  "firstAirDate": "2025-03-25",
+  "voteAverage": "9.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 19,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a6b63c4e-31a1-457f-a24e-ebf6ea5615e7",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbPersonId": 2602115,
+      "name": "Vachirawich Aranthanawong",
+      "character": "'Khim' Khimhan Bawornwisut",
+      "profilePath": "/f56RHtAKa31opj17YJ1Nmz8WRKm.jpg",
+      "order": 0
+    },
+    {
+      "id": "448f9cb5-e0b2-4286-b361-d5325a98739e",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbPersonId": 2517746,
+      "name": "Ranchrawee Uakoolwarawat",
+      "character": "Napdao Patheepkamol",
+      "profilePath": "/8SwbyFrWqiO9bRVpp2Ks0ZplFjU.jpg",
+      "order": 1
+    },
+    {
+      "id": "218f950d-aab5-4b90-87ca-d263cefb2a05",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbPersonId": 2758427,
+      "name": "Nichakoon Khajornborirak",
+      "character": "'Wee' Pathawee Bawornwisut",
+      "profilePath": "/b8Uv83nEherezFwdyRZsG1OPwTx.jpg",
+      "order": 2
+    },
+    {
+      "id": "63cbf36b-f191-40d0-9f2e-300de039ad95",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbPersonId": 3777119,
+      "name": "Thunyaphat Phatrathinchaicherin",
+      "character": "'Fah' Namfah Patheepkamol",
+      "profilePath": "/7df5htTaXrifGAriB7DwVK0oUDr.jpg",
+      "order": 3
+    },
+    {
+      "id": "e5f70553-3511-48b1-ae1f-68f753af6dc7",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbPersonId": 1353576,
+      "name": "Willie McIntosh",
+      "character": "Techit Bawornwisut",
+      "profilePath": "/4wHbr3a1yVquYB4MOzcDhKyx8ae.jpg",
+      "order": 4
+    },
+    {
+      "id": "5ced6e8c-2097-4a68-8e7c-0d45b8185c9a",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbPersonId": 1203876,
+      "name": "Arisara Wongchalee",
+      "character": "Miranti / Ratri",
+      "profilePath": "/p8KgolBImhMDs12qjzYiuYo9iUM.jpg",
+      "order": 5
+    },
+    {
+      "id": "6c3f3d77-8a63-4d22-9869-6294c1b0b6f9",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbPersonId": 5261943,
+      "name": "Dylan Bryant",
+      "character": "Talay",
+      "profilePath": "/c9neFKaGwfJS2Y5M72yUKr58RGM.jpg",
+      "order": 6
+    },
+    {
+      "id": "0cfaa487-6fe1-46e3-b0e0-03529034e55c",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbPersonId": 2731371,
+      "name": "Supapat Phoncharoenrat",
+      "character": "'Tawan' Phromtawan Bawornwisut",
+      "profilePath": "/z27xZY3dj0K0mIexcKohMOLsv1Z.jpg",
+      "order": 7
+    },
+    {
+      "id": "c315fbb2-af63-4afc-94c1-6b903b4ed318",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbPersonId": 4513387,
+      "name": "Mawin Taweepol",
+      "character": "'Pu' Montri Ruji-osa",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "1639e109-db67-4543-8a26-a6efb95bbacc",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbPersonId": 2073911,
+      "name": "Pinyadar Salinvarradar",
+      "character": "Yada Phakamas",
+      "profilePath": "/89dauZlcbtejcMUQnQVlkkDO2Ey.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "be8c202b-277a-42b2-8378-74382047acd4",
+      "tvSeriesId": "e43edff1-08d4-4192-a266-0c6627980794",
+      "tmdbId": 445736,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/4nh2ZtsnzcBpjPFPw4JqoAgQ4Ud.jpg",
+      "airDate": "2025-03-25",
+      "episodeCount": 19,
+      "isPublished": true,
+      "createdAt": "2026-04-02T19:34:41.871Z",
+      "updatedAt": "2026-04-02T19:34:41.871Z"
+    }
+  ]
+}

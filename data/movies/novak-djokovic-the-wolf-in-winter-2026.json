@@ -1,0 +1,234 @@
+{
+  "slug": "novak-djokovic-the-wolf-in-winter-2026",
+  "id": "7d42d01d-c6f0-4a91-9655-8b84297279be",
+  "tmdbId": 1626188,
+  "imdbId": "tt43676563",
+  "title": "Novak Djokovic: The Wolf in Winter",
+  "originalTitle": "Novak Djokovic: The Wolf in Winter",
+  "overview": "He's conquered every title in tennis, including an Olympic gold. So why is Novak Djokovic still playing? The Wolf in Winter embeds with the greatest tennis player of all time as he returned to the Australian Open in 2025, capturing the obsession, the preparation, and the fire that won't go out even when there's nothing left to prove.",
+  "tagline": null,
+  "posterPath": "/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+  "backdropPath": "/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
+  "logoPath": "/9ERKlLU1SIRsbHEeWuFT4iWh7kr.png",
+  "backdrops": [
+    "/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
+    "/tdT60vB49Lyfsg4A3fB1NJ3q6cF.jpg",
+    "/bTLjjbnmIioKYUP8CouSwKYpS5E.jpg",
+    "/qLrceDmNUBrpjC8WfrBYsVvUz8R.jpg"
+  ],
+  "releaseDate": "2026-08-20",
+  "runtime": 93,
+  "voteAverage": "8.67",
+  "popularity": null,
+  "popularityScore": 30,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=UQaKzMuyjlE",
+  "quality": "WEB-DL",
+  "director": "Jason Hehir",
+  "directorTmdbId": 1051351,
+  "directorProfilePath": "/bHbrDxdRSBWCkjqvvtX1AYItqBZ.jpg",
+  "productionCompanies": [
+    {
+      "id": 158748,
+      "name": "Words + Pictures",
+      "logo_path": "/ng3lP36qnejNNBiYxUvSsCVC1sC.png"
+    },
+    {
+      "id": 302707,
+      "name": "Sadoux Productions",
+      "logo_path": null
+    },
+    {
+      "id": 212901,
+      "name": "Little Room Films",
+      "logo_path": null
+    },
+    {
+      "id": 240585,
+      "name": "Sweet Relief",
+      "logo_path": null
+    },
+    {
+      "id": 302805,
+      "name": "Big Sam Productions",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6075,
+      "name": "sports"
+    },
+    {
+      "id": 1488,
+      "name": "tennis"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1139,
+  "watchlistCount": 3,
+  "favouriteCount": 2,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-27T03:37:24.882Z",
+  "updatedAt": "2026-08-27T03:37:35.975Z",
+  "genres": [
+    {
+      "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+      "tmdbId": 99,
+      "name": "Documentary",
+      "slug": "documentary",
+      "createdAt": "2026-04-02T13:53:46.408Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "da82fa64-0067-4646-aa71-929a23215d79",
+      "movieId": "7d42d01d-c6f0-4a91-9655-8b84297279be",
+      "tmdbPersonId": 1231873,
+      "name": "Novak Djokovic",
+      "character": "Self",
+      "profilePath": "/gg7hoMwmSVC15rdvS0JAEy5wlRr.jpg",
+      "order": 0
+    },
+    {
+      "id": "37d49f21-c7dc-4319-9e75-1588a9f28ee1",
+      "movieId": "7d42d01d-c6f0-4a91-9655-8b84297279be",
+      "tmdbPersonId": 1223645,
+      "name": "Andre Agassi",
+      "character": "Self",
+      "profilePath": "/7kBqtd1vKfNsQFDyqHQ8MsPNrFt.jpg",
+      "order": 1
+    },
+    {
+      "id": "ba8f0b03-e18f-4fc7-a3df-6a2354c34f00",
+      "movieId": "7d42d01d-c6f0-4a91-9655-8b84297279be",
+      "tmdbPersonId": 1214270,
+      "name": "Pete Sampras",
+      "character": "Self",
+      "profilePath": "/8apeQzxAcpPyXGyK92YaIcKH2bK.jpg",
+      "order": 2
+    },
+    {
+      "id": "49890a4b-5f25-42c1-8002-24c49e46b33e",
+      "movieId": "7d42d01d-c6f0-4a91-9655-8b84297279be",
+      "tmdbPersonId": 1565476,
+      "name": "Rafael Nadal",
+      "character": "Self",
+      "profilePath": "/skf0hyaWt86ZYF8HyvqEJpzAKOL.jpg",
+      "order": 3
+    },
+    {
+      "id": "166ca4fd-1368-4174-96f3-6698f148bc4c",
+      "movieId": "7d42d01d-c6f0-4a91-9655-8b84297279be",
+      "tmdbPersonId": 1097506,
+      "name": "Boris Becker",
+      "character": "Self",
+      "profilePath": "/jaArwerpyY01sivLipYHJ5Et0rS.jpg",
+      "order": 4
+    },
+    {
+      "id": "304bc675-5f51-4899-94ba-42453f3d07f5",
+      "movieId": "7d42d01d-c6f0-4a91-9655-8b84297279be",
+      "tmdbPersonId": 1247518,
+      "name": "Mary Carillo",
+      "character": "Self",
+      "profilePath": "/h5elJgaqpPxobbbZVm4ixf6NQ8G.jpg",
+      "order": 5
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,397 @@
+{
+  "slug": "call-me-mother-2025",
+  "id": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+  "tmdbId": 1510688,
+  "imdbId": "tt37539162",
+  "title": "Call Me Mother",
+  "originalTitle": "Call Me Mother",
+  "overview": "Twinkle is a single queer mother whose dream of officially adopting her son gets shaken when the boy's biological mother, Mara, unexpectedly reappears.",
+  "tagline": "How is a Mother made?",
+  "posterPath": "/kMc1VvhyRdK9w43jaurzfxmnH4x.jpg",
+  "backdropPath": "/1u9fonjCh0pjoJGSVV9g7Nc0PBD.jpg",
+  "logoPath": "/gw6cdhfXjUOn1llwzbiVm5tpho8.png",
+  "backdrops": [
+    "/1u9fonjCh0pjoJGSVV9g7Nc0PBD.jpg",
+    "/kZyaKZofa1DtxEPT5pUS2kfLsWj.jpg",
+    "/jpoZPuZ2n85oCzYdVJbr7DjtLBY.jpg",
+    "/dCqiXoMmlXcv7GUsnFxWHCb098a.jpg",
+    "/5LnjStpOjmjiAmXfqFwmCIFp00r.jpg",
+    "/gAwrQgNKgvHubIXAyTHQoWneiYD.jpg",
+    "/vZbg4BSg4H4f2INhtPlR1SpHgo9.jpg",
+    "/xUOFAnZqQiwkPg2FOfaaR9vuxA7.jpg"
+  ],
+  "releaseDate": "2025-12-25",
+  "runtime": 120,
+  "voteAverage": "6.50",
+  "popularity": null,
+  "popularityScore": 15,
+  "originalLanguage": "tl",
+  "country": "PH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=cFZmGrP108E",
+  "quality": "WEB-DL",
+  "director": "Jun Robles Lana",
+  "directorTmdbId": 591994,
+  "directorProfilePath": "/d7w0Fi1vBtcJKtx3PMjlMrAcLLP.jpg",
+  "productionCompanies": [
+    {
+      "id": 4676,
+      "name": "Star Cinema – ABS-CBN Film Productions",
+      "logo_path": "/fu7gOKwS2l2fiFlEQFamITFEWDk.png"
+    },
+    {
+      "id": 78999,
+      "name": "The IdeaFirst Company",
+      "logo_path": "/9qkTxdH9naTIdMHUx9HRrrxo1kb.png"
+    },
+    {
+      "id": 8356,
+      "name": "Viva Films",
+      "logo_path": "/tais5f60IAWlBZvkU8KwjGvBUc4.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2393,
+      "name": "adoption"
+    },
+    {
+      "id": 3797,
+      "name": "bicycle"
+    },
+    {
+      "id": 12354,
+      "name": "hong kong"
+    },
+    {
+      "id": 178364,
+      "name": "child custody"
+    },
+    {
+      "id": 188291,
+      "name": "disneyland"
+    },
+    {
+      "id": 207989,
+      "name": "struggles"
+    },
+    {
+      "id": 316832,
+      "name": "tense"
+    },
+    {
+      "id": 347151,
+      "name": "beauty pageant"
+    },
+    {
+      "id": 354940,
+      "name": "mmff"
+    },
+    {
+      "id": 356899,
+      "name": "a mother's special love"
+    },
+    {
+      "id": 363912,
+      "name": "gay mother"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 770,
+  "watchlistCount": 3,
+  "favouriteCount": 2,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-27T03:36:52.289Z",
+  "updatedAt": "2026-08-27T03:37:01.426Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "45cc4051-0156-4a93-a4ae-30fd7170921f",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 227376,
+      "name": "Vice Ganda",
+      "character": "Twinkle",
+      "profilePath": "/n6ykqOk6stPJ3lpBbnomiuijKR0.jpg",
+      "order": 0
+    },
+    {
+      "id": "a6139da0-c5cc-46ef-9e3e-a3b9db461f5e",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 1319222,
+      "name": "Nadine Lustre",
+      "character": "Mara",
+      "profilePath": "/e7Nb7XU3wiKX9PF7arRs2B8cKOL.jpg",
+      "order": 1
+    },
+    {
+      "id": "741c7903-c42b-44c9-b039-015c3252406a",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 5203314,
+      "name": "Lucas Andalio",
+      "character": "Angelo",
+      "profilePath": "/vAInYuYuLO46Fpbf9CYJOBLHFuC.jpg",
+      "order": 2
+    },
+    {
+      "id": "d5fc706e-0d9a-47cd-aa4b-a3255a8a90a3",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 142963,
+      "name": "Chanda Romero",
+      "character": "Mutya",
+      "profilePath": "/ei0WBIBt09NSit1vEh0B2q2KXaQ.jpg",
+      "order": 3
+    },
+    {
+      "id": "5013b06e-636c-4857-a07b-1fe587f59cee",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 142964,
+      "name": "Carmi Martin",
+      "character": "Mila",
+      "profilePath": "/c9AvauzO0dvnRvcOmSYCTbBq0SU.jpg",
+      "order": 4
+    },
+    {
+      "id": "82302feb-a713-4e0a-bb3e-df830572adb1",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 1131160,
+      "name": "Ces Quesada",
+      "character": "Rosa",
+      "profilePath": "/dFYAt3nZQg4LRmp7DPK9eokH1pv.jpg",
+      "order": 5
+    },
+    {
+      "id": "1bd59e64-58b8-4e32-9bb9-7c70e5eb0b7f",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 227372,
+      "name": "John Lapus",
+      "character": "Mama M",
+      "profilePath": "/4xLTLT6ihcqIJEbA9oVdCAlYE31.jpg",
+      "order": 6
+    },
+    {
+      "id": "0b16a86c-0176-4a2e-a5a6-920e1bd48b26",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 2144413,
+      "name": "Iyah Mina",
+      "character": "Ms./Mr. J",
+      "profilePath": "/wcDCPtBrbWxzIiG4rQSwVhYTr3U.jpg",
+      "order": 7
+    },
+    {
+      "id": "a849f248-563e-40f3-8ef9-21ad3d109ea8",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 1576190,
+      "name": "MC Muah",
+      "character": "Dorothy",
+      "profilePath": "/aNhai5odmSdY2zECFG10vRbXoNx.jpg",
+      "order": 8
+    },
+    {
+      "id": "ceef6809-d9d4-46ae-9a1c-e13ea918cf52",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 3438077,
+      "name": "River Joseph",
+      "character": "Anton",
+      "profilePath": "/3zpOnsNZ1rORe1wq6fijAqGjoNE.jpg",
+      "order": 9
+    },
+    {
+      "id": "3cdc8120-8a66-46ce-bf54-e0a9bd05295b",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 4095260,
+      "name": "Klarisse de Guzman",
+      "character": "Mayet",
+      "profilePath": "/rSfEalamxJIrlnawZ2Od17SYG1b.jpg",
+      "order": 10
+    },
+    {
+      "id": "888d49e4-957f-4792-887c-c9024aad923e",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 3132380,
+      "name": "Brent Manalo",
+      "character": "Marco",
+      "profilePath": "/rBskbTVUpAeQHLRuHLuSOff4csi.jpg",
+      "order": 11
+    },
+    {
+      "id": "5167f8a5-87a0-4f7b-ac24-8484507c801d",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 3328891,
+      "name": "Esnyr Ranollo",
+      "character": "Vince",
+      "profilePath": "/i3xMfmPCsDuk7pULlVt4O24By1C.jpg",
+      "order": 12
+    },
+    {
+      "id": "2a84d480-7b88-455f-8a29-b9f201e569c5",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 3371594,
+      "name": "Mika Salamanca",
+      "character": "Bea",
+      "profilePath": "/xld8Gfe7sCTjk0v3LT7TNWcoRJU.jpg",
+      "order": 13
+    },
+    {
+      "id": "0a8f8f3d-226c-47b8-9d8d-d3fe78f5c73f",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 5417791,
+      "name": "Shuvee Etrata",
+      "character": "Ria",
+      "profilePath": "/xfo3lnmw5tDELIW6vgGDHPHnp1T.jpg",
+      "order": 14
+    },
+    {
+      "id": "866607af-382c-4f58-821c-4a9ebffe0cf6",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 1082670,
+      "name": "Jennifer Sevilla",
+      "character": "Nanette",
+      "profilePath": "/6q9mfDa4I8Ucds8rQZSCLuv52IO.jpg",
+      "order": 15
+    },
+    {
+      "id": "1e9b412c-f4ff-4a40-9429-371d548dc641",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 1359946,
+      "name": "Robert Ortega",
+      "character": "Tony",
+      "profilePath": "/5omAtCxCxbYy06ZfOYS32KrpUlK.jpg",
+      "order": 16
+    },
+    {
+      "id": "1c88e6de-ce9b-4c60-b019-3e6106a9adf5",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 1457743,
+      "name": "Divine Tetay",
+      "character": "Pageant Coach",
+      "profilePath": "/dtEGZ9Mlc0Wv93nlk0REQzZ3FSH.jpg",
+      "order": 17
+    },
+    {
+      "id": "326b5717-f2b4-4752-ae09-0036c8463b32",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 567761,
+      "name": "Tanya Gomez",
+      "character": "Lawyer",
+      "profilePath": "/2zhNuuCzkUF5xzjfW5byTYiJzd6.jpg",
+      "order": 18
+    },
+    {
+      "id": "7be34528-f89a-45fc-b556-4f0f7f30ebfd",
+      "movieId": "70ab3ad6-54f3-49a0-a78b-79d82be2decf",
+      "tmdbPersonId": 575774,
+      "name": "Soliman Cruz",
+      "character": "Principal",
+      "profilePath": "/noiwqw825gQuidCEgROl2Nqsu5Z.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

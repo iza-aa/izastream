@@ -1,0 +1,113 @@
+{
+  "slug": "hometown-romance-2026",
+  "id": "2f6acfec-e5ed-454c-94dc-39ef0b280566",
+  "title": "Hometown Romance",
+  "overview": "Si, a high-society heiress, dreams of becoming the president of her family’s company. However, her parents give the position to her younger sister instead, believing Si is too spoiled and irresponsible, spending millions without a second thought. When the family business faces a crisis involving a crucial land lease renewal, negotiations fail—until Klaokavee, the landowner, makes an unusual proposal: she will renew the lease only if Si agrees to marry her. Despite their completely opposite lifestyles, this strange arrangement brings the two into an unexpected and complicated relationship.",
+  "tagline": "Love can change everything, and differences don’t matter at all — as long as the one thing you share is love.",
+  "posterPath": "/jItKgcQ47OWUotC3GveVHkVmBnC.jpg",
+  "backdropPath": "/sVY7OOR0JU3jd22cEjfItIGMiJG.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-04-03",
+  "voteAverage": "6.67",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "126f1df7-fe29-44cb-8bf1-11ece5c948d6",
+      "tvSeriesId": "2f6acfec-e5ed-454c-94dc-39ef0b280566",
+      "tmdbPersonId": 4157563,
+      "name": "Punyapat Wangpongsathaporn",
+      "character": "Klao",
+      "profilePath": "/fxRXaPc9flm7x4oJtidTj8tiEc8.jpg",
+      "order": 0
+    },
+    {
+      "id": "ca454a18-8327-4532-8846-5f4c34ee268b",
+      "tvSeriesId": "2f6acfec-e5ed-454c-94dc-39ef0b280566",
+      "tmdbPersonId": 4792015,
+      "name": "Saranphat Pedersen",
+      "character": "Si",
+      "profilePath": "/bgHyNB4QL4Qx4WDBJhiJ7e5IJ1d.jpg",
+      "order": 1
+    },
+    {
+      "id": "398fa70f-2779-46f4-8c6d-c815f91fa1d7",
+      "tvSeriesId": "2f6acfec-e5ed-454c-94dc-39ef0b280566",
+      "tmdbPersonId": 5968572,
+      "name": "Thanyares Chamnan",
+      "character": "Song",
+      "profilePath": "/kPnWQIkMxu0PkwSIWaHQFQNzSXQ.jpg",
+      "order": 2
+    },
+    {
+      "id": "9b4d6540-625c-458b-a5cb-d75550736d63",
+      "tvSeriesId": "2f6acfec-e5ed-454c-94dc-39ef0b280566",
+      "tmdbPersonId": 1342162,
+      "name": "Pisanu Chutanimsakul",
+      "character": "Si's Father",
+      "profilePath": "/abvjK2GOoQTzMkNUayCzgkMi2GR.jpg",
+      "order": 3
+    },
+    {
+      "id": "e723520d-1287-4b78-b9fc-2bc573a83788",
+      "tvSeriesId": "2f6acfec-e5ed-454c-94dc-39ef0b280566",
+      "tmdbPersonId": 111981,
+      "name": "Supakson Ruengsomboon",
+      "character": "Si's Mother",
+      "profilePath": "/xnz9oSdhvlwv4AJr2a5HLnbYXtc.jpg",
+      "order": 4
+    },
+    {
+      "id": "2c50a06c-eac1-4fc1-ac43-f7dff7cbca15",
+      "tvSeriesId": "2f6acfec-e5ed-454c-94dc-39ef0b280566",
+      "tmdbPersonId": 1960604,
+      "name": "Narupornkamol Chaisang",
+      "character": "Jane",
+      "profilePath": "/aw7u7wnAG7xWpA1XV1kxQG48BNg.jpg",
+      "order": 5
+    },
+    {
+      "id": "e4aaf2d6-6c62-4733-a150-c3e8805e29dd",
+      "tvSeriesId": "2f6acfec-e5ed-454c-94dc-39ef0b280566",
+      "tmdbPersonId": 5968207,
+      "name": "Supanut Satpan",
+      "character": "Bossu",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "040af7be-40c5-4c77-9349-9f77be600287",
+      "tvSeriesId": "2f6acfec-e5ed-454c-94dc-39ef0b280566",
+      "tmdbPersonId": 4759013,
+      "name": "Jiratchaya Kittavornsakul",
+      "character": "Tookta",
+      "profilePath": "/dFEtzDhoMJzKqQTiZzJEWuY9tMw.jpg",
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "18ac1591-be6a-47e9-bccf-5bf1ae7d339c",
+      "tvSeriesId": "2f6acfec-e5ed-454c-94dc-39ef0b280566",
+      "tmdbId": 497549,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Si, a high-society heiress, dreams of becoming the president of her family’s company. However, her parents give the position to her younger sister instead, believing Si is too spoiled and irresponsible, spending millions without a second thought. When the family business faces a crisis involving a crucial land lease renewal, negotiations fail—until Klaokavee, the landowner, makes an unusual proposal: she will renew the lease only if Si agrees to marry her. Despite their completely opposite lifestyles, this strange arrangement brings the two into an unexpected and complicated relationship.",
+      "posterPath": "/aXmLdcqjIQDsSJkvJtKG2rMzJlB.jpg",
+      "airDate": "2026-04-03",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-05-29T15:59:55.050Z",
+      "updatedAt": "2026-05-29T16:00:43.522Z"
+    }
+  ]
+}

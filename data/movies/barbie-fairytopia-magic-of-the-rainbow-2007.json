@@ -1,0 +1,354 @@
+{
+  "slug": "barbie-fairytopia-magic-of-the-rainbow-2007",
+  "id": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+  "tmdbId": 16962,
+  "imdbId": "tt1007920",
+  "title": "Barbie Fairytopia: Magic of the Rainbow",
+  "originalTitle": "Barbie Fairytopia: Magic of the Rainbow",
+  "overview": "Elina goes to a fairy school to learn dancing and fairy magic. The spring of the fairy land is soon threatened by evil Laverna who intends to prevent fairies from performing the annual vital rainbow dance. Elina must stop quarreling with her fellow students and unite them to save the first bud of the spring.",
+  "tagline": "Join Barbie as Elina in an all-new Fairytopia adventure!",
+  "posterPath": "/81w1LvhoL5AtQF0Lxe0GKUJCA7m.jpg",
+  "backdropPath": "/hMnZmxA7P6BXyqS6wEQJyOgGGaA.jpg",
+  "logoPath": "/qplRmdRAHwgbrXMpsaDyN2y3P5I.png",
+  "backdrops": [
+    "/hMnZmxA7P6BXyqS6wEQJyOgGGaA.jpg",
+    "/vMkeEe73U2l11T7udziysLzBRg9.jpg",
+    "/yFM0Ry7A7ned4lFZU35rFWP4dYV.jpg",
+    "/s5azCsEKNx56EjpDq72NlYmKFUI.jpg",
+    "/bkfOAG4O2Mw9xsTMaCAlbPZLaZJ.jpg",
+    "/oUjuUvi9MmBpq4lMGkbWc1vc8zt.jpg",
+    "/cPNG5bTnZxntaBRAXU28jaXMoIO.jpg",
+    "/brKBGDwWN9sqKDm2DQvWCdRwNFh.jpg"
+  ],
+  "releaseDate": "2007-03-13",
+  "runtime": 75,
+  "voteAverage": "6.89",
+  "popularity": null,
+  "popularityScore": 632,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=F31IC9ICl5A",
+  "quality": "WEB-DL",
+  "director": "William Lau",
+  "directorTmdbId": 80948,
+  "directorProfilePath": "/9N91RxoqoEQLpx8uRWdzMkjvSrg.jpg",
+  "productionCompanies": [
+    {
+      "id": 6220,
+      "name": "Mattel",
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png"
+    },
+    {
+      "id": 5024,
+      "name": "Mainframe Entertainment",
+      "logo_path": "/9CkYR0swSEj5iVi9bzx9erLnmzm.png"
+    },
+    {
+      "id": 49983,
+      "name": "Mattel Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 299272,
+      "name": "Universal Studios Home Entertainment",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 2710,
+      "name": "fairy"
+    },
+    {
+      "id": 10542,
+      "name": "based on toy"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 272909,
+      "name": "magic land"
+    },
+    {
+      "id": 278823,
+      "name": "3d animation"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 4498,
+  "watchlistCount": 27,
+  "favouriteCount": 27,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-15T19:23:32.015Z",
+  "updatedAt": "2026-10-15T19:24:50.121Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "504e7ce4-1c96-4b76-ba1c-f10ab5eb7a74",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 74358,
+      "name": "Kelly Sheridan",
+      "character": "Elina (voice)",
+      "profilePath": "/sxg2oRxwAEWd2Y8baJarjwC1XPA.jpg",
+      "order": 0
+    },
+    {
+      "id": "a4b798de-5962-4a92-803c-3de831aa23fc",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 74359,
+      "name": "Lee Tockar",
+      "character": "Bibble / Fungus #1 & #2 (voice)",
+      "profilePath": "/fMcf9MZAEemYicTZL3UUOrIVWex.jpg",
+      "order": 1
+    },
+    {
+      "id": "e79f7ccf-eafc-41dc-b50b-bee2c91e259c",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 45923,
+      "name": "Kathleen Barr",
+      "character": "Laverna (voice)",
+      "profilePath": "/l7dk7Lki6dLfKVcPGrTq9aYWZj.jpg",
+      "order": 2
+    },
+    {
+      "id": "eecf0367-3124-4a5e-9980-b1e0cf34b03d",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 74367,
+      "name": "Christopher Gaze",
+      "character": "Fungus Maximus (voice)",
+      "profilePath": "/rwdA9L7cHdMXI2GdzfyDG1wiU9I.jpg",
+      "order": 3
+    },
+    {
+      "id": "9eac5d98-d337-4ae2-b1e4-01484b27901b",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 74360,
+      "name": "Tabitha St. Germain",
+      "character": "Dandelion / Topaz (voice)",
+      "profilePath": "/bscsV3Gg7bmaZvvcbyS1265QaVT.jpg",
+      "order": 4
+    },
+    {
+      "id": "072c40d1-2180-4a71-84bf-87a611abfcb6",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 74361,
+      "name": "Venus Terzo",
+      "character": "Azura / Pixie #1 (voice)",
+      "profilePath": "/pzDAljgejPs0lieYRE8dGPt3Xdl.jpg",
+      "order": 5
+    },
+    {
+      "id": "d41ecac7-d39f-4095-98b8-ef0cc884bb3d",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 52718,
+      "name": "Andrew Francis",
+      "character": "Linden (voice)",
+      "profilePath": "/lvmgsIzCobciX8vDAX8wyBVDryq.jpg",
+      "order": 6
+    },
+    {
+      "id": "8a667c35-30d4-4be0-8020-0c0791e4a9c3",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 90201,
+      "name": "Sharon Alexander",
+      "character": "Sunburst (voice)",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "99ff57de-d801-4a15-910c-383a3e41cfa9",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 83424,
+      "name": "Peter New",
+      "character": "Tourmaline (voice)",
+      "profilePath": "/bT71ieZH2qhgxLNTPyorMlVp3PN.jpg",
+      "order": 8
+    },
+    {
+      "id": "49090f47-a7d1-460f-ac5c-dda9e08f44a4",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 74366,
+      "name": "Nancy Sorel",
+      "character": "Enchantress (voice)",
+      "profilePath": "/sD3BLIPrIxkxkFTpq6CFReVOCnf.jpg",
+      "order": 9
+    },
+    {
+      "id": "aa6fce27-6c11-4151-b41a-064c2fe76a76",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 160111,
+      "name": "Saffron Henderson",
+      "character": "Lumina (voice)",
+      "profilePath": "/5W6YBueoVtUvGsuzyzmEGkiaIpr.jpg",
+      "order": 10
+    },
+    {
+      "id": "cf530e78-5b0c-459b-a493-edf346f4dd66",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 74368,
+      "name": "Andrea Libman",
+      "character": "Shimmer / Pixie #2 (voice)",
+      "profilePath": "/6R2ekkbQ7OFsktfasLvXzhd0IJ.jpg",
+      "order": 11
+    },
+    {
+      "id": "62b2fb43-ae5f-4853-ba34-6d4a7456cb07",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 293984,
+      "name": "Lalainia Lindbjerg",
+      "character": "Glee (voice)",
+      "profilePath": "/z003AREgCXCTfsP3JE9lzkns6JM.jpg",
+      "order": 12
+    },
+    {
+      "id": "91f7663c-7ab6-4e39-a970-f6159999fc22",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 63797,
+      "name": "Alistair Abell",
+      "character": "Faban (voice)",
+      "profilePath": "/3IAmQJ8s2WqZDQscbVoyWFV7LaL.jpg",
+      "order": 13
+    },
+    {
+      "id": "3bc107e9-2b3b-4f8b-83f9-6244c9968a7c",
+      "movieId": "228f5597-4aa3-4481-ace6-78b4e0900bfb",
+      "tmdbPersonId": 94479,
+      "name": "Cathy Weseluck",
+      "character": "Dizzle (voice)",
+      "profilePath": "/jpvwGwZ9eDL6f2WCkbLk06WlObh.jpg",
+      "order": 14
+    }
+  ],
+  "requestedBy": {
+    "username": "arir",
+    "displayName": "Arir"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

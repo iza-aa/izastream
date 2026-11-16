@@ -1,0 +1,145 @@
+{
+  "slug": "kindred-2022",
+  "id": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+  "title": "Kindred",
+  "overview": "A young aspiring writer discovers secrets about her family's past when she finds herself mysteriously being pulled back and forth in time to a 19th century plantation.",
+  "tagline": "Question the ties that bind through time.",
+  "posterPath": "/iSrPT4PQmrVDGdp55cCShrpBMlj.jpg",
+  "backdropPath": "/nCy0y2zbHt8y7Behadt9SaYfE0Q.jpg",
+  "logoPath": "/w0WSzaLdjsPyoSF8AeKIn4lHYKL.png",
+  "firstAirDate": "2022-12-13",
+  "voteAverage": "6.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4664be00-dc69-449e-b8cf-ffe25d42fabe",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbPersonId": 3308114,
+      "name": "Mallori Johnson",
+      "character": "Dana James",
+      "profilePath": "/gP9sIAP3aflFbogBWRZGLJXiPJl.jpg",
+      "order": 0
+    },
+    {
+      "id": "9261911a-832e-4df9-8a62-9007421b5832",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbPersonId": 2066217,
+      "name": "Micah Stock",
+      "character": "Kevin Franklin",
+      "profilePath": "/vjSEK5zUAxodogOBRNj8bPN0q2n.jpg",
+      "order": 1
+    },
+    {
+      "id": "b84f08b3-2e04-4f2e-848a-77029d38e8f9",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbPersonId": 133212,
+      "name": "Ryan Kwanten",
+      "character": "Thomas Weylin",
+      "profilePath": "/vvbEabUWIeaHMBA2wrUChiLTjch.jpg",
+      "order": 2
+    },
+    {
+      "id": "0dcd905d-be06-4240-ae4d-5e3f84bdffb6",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbPersonId": 1782144,
+      "name": "Gayle Rankin",
+      "character": "Margaret Weylin",
+      "profilePath": "/xquFFe3xB3P0wTdYmO8vWPjH8zP.jpg",
+      "order": 3
+    },
+    {
+      "id": "f73fa1df-a3a2-4b3e-83ad-799b0c5126b7",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbPersonId": 2699159,
+      "name": "Austin Smith",
+      "character": "Luke",
+      "profilePath": "/am5idTErXWa2dInMlIAWX3DuZuv.jpg",
+      "order": 4
+    },
+    {
+      "id": "b7129547-534f-4426-997c-3e7bdb42791e",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbPersonId": 2252709,
+      "name": "Antoinette Crowe-Legacy",
+      "character": "",
+      "profilePath": "/3NLDeJ3bnUjPqvZAG7Wnq5HUpTV.jpg",
+      "order": 5
+    },
+    {
+      "id": "662e3ff9-2bb5-44c0-897f-731c1fce2987",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbPersonId": 2101012,
+      "name": "David Alexander Kaplan",
+      "character": "Rufus Weylin",
+      "profilePath": "/9TcsDzwifQ1yZ2AAghv32z4lgLp.jpg",
+      "order": 6
+    },
+    {
+      "id": "f6304537-9403-4a74-8597-9c6e472649da",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbPersonId": 3690190,
+      "name": "Jayden Braddock",
+      "character": "Ferguson The Affluent Male",
+      "profilePath": "/5NMbS8Z5bhQeeBy15x0VWcbAmDP.jpg",
+      "order": 7
+    },
+    {
+      "id": "c0ff9ed2-c462-4941-8f0c-494546074be7",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbPersonId": 2547617,
+      "name": "Jordan Preston Carter",
+      "character": "Cyrus",
+      "profilePath": "/dz7qBSjZ4pZGIdFFnBtQiPfy5lj.jpg",
+      "order": 500
+    },
+    {
+      "id": "b87cd160-0283-4eb2-ba47-9263eaf7ffd7",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbPersonId": 5824325,
+      "name": "Abigail Shannon",
+      "character": "Alice",
+      "profilePath": null,
+      "order": 501
+    }
+  ],
+  "seasons": [
+    {
+      "id": "eaa91c44-bfd9-4073-83d8-931ed8579bc1",
+      "tvSeriesId": "01e5920d-6258-4134-b3bb-bcaec356b5a0",
+      "tmdbId": 219459,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/iSrPT4PQmrVDGdp55cCShrpBMlj.jpg",
+      "airDate": "2022-12-13",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-14T04:49:46.649Z",
+      "updatedAt": "2026-10-14T04:50:19.895Z"
+    }
+  ]
+}

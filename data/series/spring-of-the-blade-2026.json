@@ -1,0 +1,131 @@
+{
+  "slug": "spring-of-the-blade-2026",
+  "id": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+  "title": "Spring of the Blade",
+  "overview": "After losing her mother as a child, Xie Qingyuan returns years later to uncover the truth and seek justice. Reuniting with Shen Run, once a fallen youth and now a righteous court official, they join forces to expose corruption and right past wrongs. Through shared dangers and unwavering support, they grow closer, devoting their lives to protecting each other and their people.",
+  "tagline": null,
+  "posterPath": "/uRWqHI4R4nOSPpRnbr8JjnpCmgx.jpg",
+  "backdropPath": "/k3aKIWf48yCKnbCjk2b2Tea32Vk.jpg",
+  "logoPath": "/Kh7lhtzZELrHupqBEsrsBOk7pJ.png",
+  "firstAirDate": "2026-09-17",
+  "voteAverage": "8.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0be7f0b9-77db-4f0f-98df-f4355b06c865",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbPersonId": 2091759,
+      "name": "Xu Kai",
+      "character": "Shen Run / Yan Rui",
+      "profilePath": "/wEfatQWa3v9tNtmgr5LOOmFSSJj.jpg",
+      "order": 0
+    },
+    {
+      "id": "7555c4ec-1d5d-4eed-9bb2-77b85f6df3e2",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbPersonId": 2440951,
+      "name": "Zhou Ye",
+      "character": "Xie Qingyuan / Chen Yunya",
+      "profilePath": "/alqSqe6RmhIkZ6eUcjDXS6QTJhS.jpg",
+      "order": 1
+    },
+    {
+      "id": "d1295a6f-04cc-40a0-bbc9-33b5c7284245",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbPersonId": 4993313,
+      "name": "Li Mei Yi Bing",
+      "character": "Young Chen Yunya",
+      "profilePath": "/2BI5Aia8R01TR9cbgyiEvoFsUU6.jpg",
+      "order": 500
+    },
+    {
+      "id": "0f152714-099a-4909-a33e-d1ff83c1a69d",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbPersonId": 1671010,
+      "name": "He Ziming",
+      "character": "Wei Changyan",
+      "profilePath": "/yh7CS770lyowIDMgNtPF10q8zps.jpg",
+      "order": 501
+    },
+    {
+      "id": "2ef9bc5a-bab1-413d-9f41-0976178e4440",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbPersonId": 237814,
+      "name": "Zhang Yao",
+      "character": "Mei Yinghua",
+      "profilePath": "/qOInCBHmm26HS2ExARULneGw3sq.jpg",
+      "order": 502
+    },
+    {
+      "id": "8f51f805-18f0-487b-8202-7ad5b6da2982",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbPersonId": 3258329,
+      "name": "Xiaojuan Huang",
+      "character": "Old Madame Xie",
+      "profilePath": null,
+      "order": 503
+    },
+    {
+      "id": "f5e3584b-b767-4236-925d-385bba710542",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbPersonId": 2252845,
+      "name": "Min Chunxiao",
+      "character": "Lian Fanqiao",
+      "profilePath": "/mHSPEPXzNf43eBT72BlK5qRX0iQ.jpg",
+      "order": 504
+    },
+    {
+      "id": "60462ab4-6f36-4bc4-8384-eaba553d112b",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbPersonId": 118726,
+      "name": "Miao Pu",
+      "character": "Hu Wenzhuo",
+      "profilePath": "/qC1Na8zzLfefZQ4hC6kc43GhiNr.jpg",
+      "order": 505
+    },
+    {
+      "id": "afc83a52-d1c0-4b94-8dfe-77cfaf017a66",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbPersonId": 3655534,
+      "name": "Zhang Bozhi",
+      "character": "Xie Zhengjun",
+      "profilePath": "/mIYdNgK2RKVTmEp0lYq1o4WYsrF.jpg",
+      "order": 506
+    },
+    {
+      "id": "381ba0c9-1639-40e8-8f6c-8fbe0df735ad",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbPersonId": 2443801,
+      "name": "Joyin Cai",
+      "character": "Jin Chunqing",
+      "profilePath": "/cZWXUZJWEIgJ56Cry4l5CmpcDUU.jpg",
+      "order": 509
+    }
+  ],
+  "seasons": [
+    {
+      "id": "704d12d7-9aaf-47ae-9cbf-91aeea3c27a1",
+      "tvSeriesId": "6a2281b1-d9e2-4818-a9cc-5e36537ec529",
+      "tmdbId": 463271,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/36wmaoKjRsLs6QyXex4VZPxMawQ.jpg",
+      "airDate": "2026-09-17",
+      "episodeCount": 30,
+      "isPublished": true,
+      "createdAt": "2026-10-11T15:02:58.510Z",
+      "updatedAt": "2026-10-11T15:07:47.237Z"
+    }
+  ]
+}

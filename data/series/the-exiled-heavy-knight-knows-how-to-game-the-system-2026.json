@@ -1,0 +1,123 @@
+{
+  "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system-2026",
+  "id": "974ec5a4-aeb2-430f-a647-d14de98dee6c",
+  "title": "The Exiled Heavy Knight Knows How to Game the System",
+  "overview": "Born into a prestigious family of master swordsmen, Elymas Edvaughn's future shatters when he awakens the so-called \"defective\" Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the \"weakest\" class.",
+  "tagline": null,
+  "posterPath": "/bADzMfofNWYdxLnlqNuMkO6du34.jpg",
+  "backdropPath": "/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
+  "logoPath": "/cViYa926pHMY1d1u5jkJkgmMugH.png",
+  "firstAirDate": "2026-07-03",
+  "voteAverage": "8.14",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 19,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b5d8f396-66af-4b0e-89cc-0244fae14c60",
+      "tvSeriesId": "974ec5a4-aeb2-430f-a647-d14de98dee6c",
+      "tmdbPersonId": 1279666,
+      "name": "Takeo Otsuka",
+      "character": "Elma Edvan (voice)",
+      "profilePath": "/wqeAMR0HOGUPBXz0TCNxDR51cQy.jpg",
+      "order": 0
+    },
+    {
+      "id": "1c789556-98db-4266-8792-b1b6b94844cf",
+      "tvSeriesId": "974ec5a4-aeb2-430f-a647-d14de98dee6c",
+      "tmdbPersonId": 2363904,
+      "name": "Shion Wakayama",
+      "character": "Luce Rubis (voice)",
+      "profilePath": "/b697ggFreuliEfl4TjLgxhJCQXr.jpg",
+      "order": 1
+    },
+    {
+      "id": "74731620-7d51-4065-a5d9-66b0e9b9b965",
+      "tvSeriesId": "974ec5a4-aeb2-430f-a647-d14de98dee6c",
+      "tmdbPersonId": 3269285,
+      "name": "Natsuko Abe",
+      "character": "Maris Edvan (voice)",
+      "profilePath": "/aX4Ay6DywnXs9DupOaqdxBfUJe8.jpg",
+      "order": 2
+    },
+    {
+      "id": "103cb255-de16-419e-b690-3d377d6a0592",
+      "tvSeriesId": "974ec5a4-aeb2-430f-a647-d14de98dee6c",
+      "tmdbPersonId": 1845268,
+      "name": "Kentaro Tone",
+      "character": "Isaac Edvan (voice)",
+      "profilePath": "/9IZ9SpSV0P4bJBN8ALll7IYMLG2.jpg",
+      "order": 3
+    },
+    {
+      "id": "e244cd38-a0e4-4249-a7f0-05cd790984e1",
+      "tvSeriesId": "974ec5a4-aeb2-430f-a647-d14de98dee6c",
+      "tmdbPersonId": 2312002,
+      "name": "Katsumi Fukuhara",
+      "character": "Klein (voice)",
+      "profilePath": "/ijpwBGoo3iPmb9v1Oh4Fz9CFzOx.jpg",
+      "order": 4
+    },
+    {
+      "id": "ee3d1f76-a0ee-4460-8bcb-81a4f6378857",
+      "tvSeriesId": "974ec5a4-aeb2-430f-a647-d14de98dee6c",
+      "tmdbPersonId": 2256610,
+      "name": "Miyuri Shimabukuro",
+      "character": "Reese (voice)",
+      "profilePath": "/rjhyRM2hn1deQG1V6cwC8AEEKNT.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1923a2a7-de4c-42ab-87e1-60a6007bfc52",
+      "tvSeriesId": "974ec5a4-aeb2-430f-a647-d14de98dee6c",
+      "tmdbId": 416915,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/bADzMfofNWYdxLnlqNuMkO6du34.jpg",
+      "airDate": "2026-07-03",
+      "episodeCount": 26,
+      "isPublished": true,
+      "createdAt": "2026-10-25T05:28:58.474Z",
+      "updatedAt": "2026-11-14T05:27:20.645Z"
+    }
+  ]
+}

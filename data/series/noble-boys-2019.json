@@ -1,0 +1,131 @@
+{
+  "slug": "noble-boys-2019",
+  "id": "06ba9e99-2201-447e-8be4-a513dd69e446",
+  "title": "Noble Boys",
+  "overview": "Three high school girls are chosen among 700,000 applicants to be on the reality show “Marry the Prince”. They must find their true love in the four princes they encounter.",
+  "tagline": null,
+  "posterPath": "/gELNYu7AoBE3bLiHeX8zSB6sql7.jpg",
+  "backdropPath": "/tbS9ICa9RGNGqj0d681U46hCc2f.jpg",
+  "logoPath": "/lZklERnlUNHLbFAcNm9kCh02d8a.png",
+  "firstAirDate": "2019-04-28",
+  "voteAverage": "7.60",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c5c2eebb-3f0c-46a6-a5a3-dfd056f1711e",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbPersonId": 1269294,
+      "name": "Yuna Taira",
+      "character": "相原 麦",
+      "profilePath": "/98rGALQXTfFwvtNxIaQH3iQ1Rln.jpg",
+      "order": 0
+    },
+    {
+      "id": "90add78f-68f0-4dea-952d-678718aadbff",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbPersonId": 1509729,
+      "name": "Rena Takeda",
+      "character": "大野 ふみの",
+      "profilePath": "/dPUhBBKWUvmglC5PbGbCUumat24.jpg",
+      "order": 1
+    },
+    {
+      "id": "36155f71-6373-4e90-b8af-98663594f747",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbPersonId": 1732479,
+      "name": "Natsumi Okamoto",
+      "character": "柴山 優",
+      "profilePath": "/7i2aN3CTtkpqb7S0Moangt3RM17.jpg",
+      "order": 2
+    },
+    {
+      "id": "4b7640e9-a486-4745-b202-e184baabd8a4",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbPersonId": 1502230,
+      "name": "Hayato Isomura",
+      "character": "二階堂 陸",
+      "profilePath": "/iK0x2LJDgz07ebDf2fwFaw4D7qz.jpg",
+      "order": 4
+    },
+    {
+      "id": "11d41447-bbf3-4248-83e4-46a3b90a66d3",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbPersonId": 1728012,
+      "name": "Hiroki Iijima",
+      "character": "西園寺 大雅",
+      "profilePath": "/p0gQ0y7M15KbQyAcm5yquKun7Op.jpg",
+      "order": 5
+    },
+    {
+      "id": "69bfeaff-e95d-4cc0-9c04-f468159420fd",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbPersonId": 1409122,
+      "name": "Yu Inaba",
+      "character": "薬袋 輝之進",
+      "profilePath": "/lFjKVCt43jAFrcCLmjjGO8kF9vA.jpg",
+      "order": 6
+    },
+    {
+      "id": "5e09306a-5e07-41ee-bb29-fdabb210bcfd",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbPersonId": 1373073,
+      "name": "Ryosuke Yamamoto",
+      "character": "伊達 達成",
+      "profilePath": "/rNpwAZuXBqrzAF6du14HhBF95NN.jpg",
+      "order": 7
+    },
+    {
+      "id": "f3f47aaa-b5ca-410d-85a8-2467f272a41b",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbPersonId": 1503066,
+      "name": "Jon Kabira",
+      "character": "ナレーション (voice)",
+      "profilePath": "/cB3mCihJ8hPBMN1eIcrQwy6QS8H.jpg",
+      "order": 8
+    },
+    {
+      "id": "cdc9e6c9-6e64-4acb-8e98-a0900edad08c",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbPersonId": 1127076,
+      "name": "Rio Yamashita",
+      "character": "福原堂 椿",
+      "profilePath": "/qa8zpuVEbGDuCY6oZApWWJY5Gjx.jpg",
+      "order": 9
+    },
+    {
+      "id": "eef853fb-b339-41d8-8e68-4e2d1e0d6ced",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbPersonId": 1922602,
+      "name": "Toshiyuki Someya",
+      "character": "武藤 巧",
+      "profilePath": "/1c5CoaQRX6knfbiCCQOG8ozfuf7.jpg",
+      "order": 10
+    }
+  ],
+  "seasons": [
+    {
+      "id": "164515ba-6241-4bb6-a434-34f28f8e824a",
+      "tvSeriesId": "06ba9e99-2201-447e-8be4-a513dd69e446",
+      "tmdbId": 124122,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/tgXaPGQrIbMkdFmm7qPghX9X6ts.jpg",
+      "airDate": "2019-04-28",
+      "episodeCount": 18,
+      "isPublished": true,
+      "createdAt": "2026-10-16T03:56:24.343Z",
+      "updatedAt": "2026-10-16T04:28:26.945Z"
+    }
+  ]
+}

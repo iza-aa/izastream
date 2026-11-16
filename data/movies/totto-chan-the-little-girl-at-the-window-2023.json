@@ -1,0 +1,325 @@
+{
+  "slug": "totto-chan-the-little-girl-at-the-window-2023",
+  "id": "ce3d5b09-5b4d-48ac-90ad-ca1afde0b116",
+  "tmdbId": 1106904,
+  "imdbId": "tt28347814",
+  "title": "Totto-chan: The Little Girl at the Window",
+  "originalTitle": "映画 窓ぎわのトットちゃん",
+  "overview": "This engaging series of childhood recollections tells of an unconventional school in Tokyo during World War II that combined learning with fun, freedom, and love. The school had old railroad cars for classrooms and was run by an extraordinary man – its founder and headmaster, Sōsaku Kobayashi – who deeply valued children's independence, and who was a firm believer in freedom of expression and activity.",
+  "tagline": "You really are a good kid.",
+  "posterPath": "/irzCGOpy1iohurWfPKk2tTkfPG2.jpg",
+  "backdropPath": "/yh0FK319pKiy12aSD2dEO2xekfX.jpg",
+  "logoPath": "/xHB07pztOa12IMvR1R2dQb10Mgy.png",
+  "backdrops": [
+    "/yh0FK319pKiy12aSD2dEO2xekfX.jpg",
+    "/vL6iYirX4vz38INriaCCpzwCyWN.jpg",
+    "/k9HQj09yPjxnXJpwvG6Hitgev06.jpg",
+    "/6xghXDuxpyjV2IW7PuPPt9ivmem.jpg",
+    "/pQnhPDKohcyxcylZJFB7j5G0IEZ.jpg",
+    "/yLmPCG4AhOG2jFGqklf0sXqVyBO.jpg",
+    "/bpSchgpBPB8arHQY27Jubw2w9rN.jpg",
+    "/z9qnflZgPANprpCyXPgzB9kAgqR.jpg",
+    "/6CqNTEgpMjR4qMEIpNIwtJSfo9T.jpg",
+    "/oI5TwgPV5kK1JfGfbPMNSpqf0i6.jpg"
+  ],
+  "releaseDate": "2023-12-08",
+  "runtime": 114,
+  "voteAverage": "7.40",
+  "popularity": null,
+  "popularityScore": 1025,
+  "originalLanguage": "ja",
+  "country": "JP",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "BLU-RAY",
+  "director": "Shinnosuke Yakuwa",
+  "directorTmdbId": 1350920,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 5141,
+      "name": "Shin-Ei Animation",
+      "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png"
+    },
+    {
+      "id": 882,
+      "name": "TOHO",
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png"
+    },
+    {
+      "id": 276621,
+      "name": "Totto-chan Production Committee",
+      "logo_path": null
+    },
+    {
+      "id": 1778,
+      "name": "dentsu",
+      "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png"
+    },
+    {
+      "id": 69968,
+      "name": "NBCUniversal Entertainment Japan",
+      "logo_path": "/cN8Qhl29ZrmWYgkYTS6CDhPK0A5.png"
+    },
+    {
+      "id": 276624,
+      "name": "Office Yoshida",
+      "logo_path": null
+    },
+    {
+      "id": 9300,
+      "name": "TV Asahi",
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png"
+    },
+    {
+      "id": 27720,
+      "name": "Tokyu Agency",
+      "logo_path": "/5kGVjY5jlDVIA0uYQs5KIsH96wT.png"
+    },
+    {
+      "id": 59118,
+      "name": "Kodansha",
+      "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 8102,
+      "name": "elementary school"
+    },
+    {
+      "id": 9914,
+      "name": "slice of life"
+    },
+    {
+      "id": 10873,
+      "name": "school"
+    },
+    {
+      "id": 14641,
+      "name": "based on memoir or autobiography"
+    },
+    {
+      "id": 15126,
+      "name": "historical"
+    },
+    {
+      "id": 185018,
+      "name": "autobiographical"
+    },
+    {
+      "id": 195593,
+      "name": "physical disability"
+    },
+    {
+      "id": 208349,
+      "name": "kids"
+    },
+    {
+      "id": 210024,
+      "name": "anime"
+    },
+    {
+      "id": 233330,
+      "name": "freedom of expression"
+    },
+    {
+      "id": 266927,
+      "name": "girlhood"
+    },
+    {
+      "id": 273967,
+      "name": "war"
+    },
+    {
+      "id": 326383,
+      "name": "unconventional schooling"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5727,
+  "watchlistCount": 136,
+  "favouriteCount": 38,
+  "shareCount": 10,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-25T17:26:27.751Z",
+  "updatedAt": "2026-10-25T17:26:39.495Z",
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "eb72df6e-1420-4750-a7f3-3b53079a7188",
+      "movieId": "ce3d5b09-5b4d-48ac-90ad-ca1afde0b116",
+      "tmdbPersonId": 4156800,
+      "name": "Liliana Ohno",
+      "character": "Totto-chan (voice)",
+      "profilePath": "/zkKPsEJZG2oQ5Eanq0kk9meSxfD.jpg",
+      "order": 0
+    },
+    {
+      "id": "b43e8c78-eed1-41d9-b441-23cc0c1d4578",
+      "movieId": "ce3d5b09-5b4d-48ac-90ad-ca1afde0b116",
+      "tmdbPersonId": 18056,
+      "name": "Koji Yakusho",
+      "character": "Sōsaku Kobayashi (voice)",
+      "profilePath": "/r2WyVRyl6EJgyPKUJCB7D9cKYPE.jpg",
+      "order": 1
+    },
+    {
+      "id": "3ac8b7a8-0eec-44fe-a2b4-7b92457e44b1",
+      "movieId": "ce3d5b09-5b4d-48ac-90ad-ca1afde0b116",
+      "tmdbPersonId": 46364,
+      "name": "Shun Oguri",
+      "character": "Moritsuna Kuroyanagi (voice)",
+      "profilePath": "/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg",
+      "order": 2
+    },
+    {
+      "id": "4b0c832a-e2c4-47ec-8dc0-07c4d568d3ff",
+      "movieId": "ce3d5b09-5b4d-48ac-90ad-ca1afde0b116",
+      "tmdbPersonId": 572020,
+      "name": "Anne Watanabe",
+      "character": "Chō Kuroyanagi (voice)",
+      "profilePath": "/kOtbhJgBYQFbRIGub1KfHXrkkTP.jpg",
+      "order": 3
+    },
+    {
+      "id": "702f6105-bf2d-40ec-a82d-6884851f1b5b",
+      "movieId": "ce3d5b09-5b4d-48ac-90ad-ca1afde0b116",
+      "tmdbPersonId": 1815948,
+      "name": "Karen Takizawa",
+      "character": "Miss Ōishi (voice)",
+      "profilePath": "/5jqe7vYpvVxN2EF1PAx2C2ZyThr.jpg",
+      "order": 4
+    },
+    {
+      "id": "26df7fb6-987a-4309-9125-b103753febf0",
+      "movieId": "ce3d5b09-5b4d-48ac-90ad-ca1afde0b116",
+      "tmdbPersonId": 4631550,
+      "name": "Tadaaki Yamada",
+      "character": "Migita (voice)",
+      "profilePath": "/g3wm0FqFKDPnY80cIoYE4Fd67fo.jpg",
+      "order": 5
+    }
+  ],
+  "requestedBy": {
+    "username": "sophsoph",
+    "displayName": "Sophie"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

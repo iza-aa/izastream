@@ -1,0 +1,86 @@
+{
+  "slug": "king-of-comedy-2026",
+  "id": "ae61bb09-98cd-499f-b4b2-589c30d1c83f",
+  "title": "King of Comedy",
+  "overview": "A spirited young villager and her reluctant ally race against a seven-day demolition deadline, battling viral mishaps, copyright disputes, and a rival village’s sabotage to save their coastal hometown—and find love along the way.",
+  "tagline": null,
+  "posterPath": "/dnzBSFuqgLjP8pyuWEvnQpF322c.jpg",
+  "backdropPath": "/9BhaeMG3jNvRC9FrdpHAeDtboPN.jpg",
+  "logoPath": "/5fdxKu8m3LmJ0mqEfTSovUNpe6W.png",
+  "firstAirDate": "2026-10-06",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8dd4f06f-b96d-4db8-8c7b-174f3967c58a",
+      "tvSeriesId": "ae61bb09-98cd-499f-b4b2-589c30d1c83f",
+      "tmdbPersonId": 2970787,
+      "name": "Jiang Long",
+      "character": "Zhou Ke",
+      "profilePath": "/gzeGCI47WIQgxEBeEUwxaZfs3k.jpg",
+      "order": 0
+    },
+    {
+      "id": "48af4052-c66f-4301-8123-b5aa0a9d6f2c",
+      "tvSeriesId": "ae61bb09-98cd-499f-b4b2-589c30d1c83f",
+      "tmdbPersonId": 2396870,
+      "name": "Yang Chaoyue",
+      "character": "Chen Jiazhen",
+      "profilePath": "/fIqlPh8S13ttFRTnHC2XZnmGc4C.jpg",
+      "order": 1
+    },
+    {
+      "id": "498b5c85-1214-4e9a-b1d2-e6e61648e6f2",
+      "tvSeriesId": "ae61bb09-98cd-499f-b4b2-589c30d1c83f",
+      "tmdbPersonId": 3271562,
+      "name": "Zhang Chi",
+      "character": "Chen Jiahao",
+      "profilePath": "/8cpnTxwKfojLHmI4GOMpQsW49LU.jpg",
+      "order": 2
+    },
+    {
+      "id": "d1d7c0db-ec4a-4807-a960-31d9086c90de",
+      "tvSeriesId": "ae61bb09-98cd-499f-b4b2-589c30d1c83f",
+      "tmdbPersonId": 2958042,
+      "name": "Jiang Shimeng",
+      "character": "Lin Ximei",
+      "profilePath": null,
+      "order": 3
+    },
+    {
+      "id": "5ed5703e-6098-4afc-afe7-f876a7a7083b",
+      "tvSeriesId": "ae61bb09-98cd-499f-b4b2-589c30d1c83f",
+      "tmdbPersonId": 3566740,
+      "name": "Song Muzi",
+      "character": "Chen Junnan",
+      "profilePath": "/i9KaDxU9vxcXb57wOBv3MrYUiR7.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "2e79620c-7840-45c0-b164-6aeddee221af",
+      "tvSeriesId": "ae61bb09-98cd-499f-b4b2-589c30d1c83f",
+      "tmdbId": 429961,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/eWjVTvT0BQG4aB5qaId1NzCbaWF.jpg",
+      "airDate": "2026-10-06",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-10-19T02:48:02.059Z",
+      "updatedAt": "2026-10-19T02:52:08.747Z"
+    }
+  ]
+}

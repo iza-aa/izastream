@@ -1,0 +1,152 @@
+{
+  "slug": "coven-academy-2026",
+  "id": "ef382ebd-2943-425d-9365-d1c1500ae888",
+  "title": "Coven Academy",
+  "overview": "A coven protects their magic school from a dark fate.",
+  "tagline": null,
+  "posterPath": "/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+  "backdropPath": "/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+  "logoPath": "/7WZylCL6enVUsRPnJpYW0B1I7oJ.png",
+  "firstAirDate": "2026-10-01",
+  "voteAverage": "7.10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 11,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2bc665c3-4e83-430d-83b8-9c998d2a65c4",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbPersonId": 1394686,
+      "name": "Malina Weissman",
+      "character": "Briar Roberts",
+      "profilePath": "/5alONfoc28zHqCC6GP1DAgYFQoU.jpg",
+      "order": 0
+    },
+    {
+      "id": "4689525f-71ae-48dc-b273-0d6db0dfc66c",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbPersonId": 1836114,
+      "name": "Malachi Barton",
+      "character": "Jake",
+      "profilePath": "/lmV6ParCZkniV1OQO71xxfjFjaG.jpg",
+      "order": 1
+    },
+    {
+      "id": "d3399c47-bcd9-46d6-8e0b-88739373ee6c",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbPersonId": 4404776,
+      "name": "Jordan Leftwich",
+      "character": "Sasha Baptiste",
+      "profilePath": "/yHvEhCqnPXaPFsIjYlLxZpjJFeA.jpg",
+      "order": 2
+    },
+    {
+      "id": "8739c057-acad-4c1f-83e2-1be07b69cefe",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbPersonId": 4673280,
+      "name": "Ora Duplass",
+      "character": "Tegan Kimball",
+      "profilePath": "/aUb9KQDx5NN3yTXjuYr0ixRFeKe.jpg",
+      "order": 3
+    },
+    {
+      "id": "e775517e-b234-405f-8639-a0b828ae3166",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbPersonId": 4945577,
+      "name": "Louis Thresher",
+      "character": "Ollie",
+      "profilePath": "/9LVXDj4w1cQqTbgveH2ftsXJOzD.jpg",
+      "order": 4
+    },
+    {
+      "id": "9e463627-4351-4472-a6a6-4fe03d627e5b",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbPersonId": 19187,
+      "name": "Tiffani Thiessen",
+      "character": "Miss Graves",
+      "profilePath": "/2L2lENLehoG1OPgxtugS9gG1bdy.jpg",
+      "order": 5
+    },
+    {
+      "id": "fdf508e6-a6ff-4113-8a8b-58da25b195df",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbPersonId": 50398,
+      "name": "Devon Sawa",
+      "character": "Mr. Cole",
+      "profilePath": "/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg",
+      "order": 6
+    },
+    {
+      "id": "65b2719b-0d15-4a63-ba23-b6d2ce8348dc",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbPersonId": 2390813,
+      "name": "Swayam Bhatia",
+      "character": "McKenna",
+      "profilePath": "/bls6jlbG5pvIo8OKPQNvWwwdpgk.jpg",
+      "order": 500
+    },
+    {
+      "id": "29efe8c9-9156-4c7e-a7ca-6d740b2bc220",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbPersonId": 2894471,
+      "name": "Brendon Tremblay",
+      "character": "Alexander",
+      "profilePath": "/pl8fWH1TIY3bAkZJrYL3V9Xt42w.jpg",
+      "order": 501
+    },
+    {
+      "id": "3b254eb1-913d-4324-a37f-9b74f09b1c7d",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbPersonId": 42710,
+      "name": "Keegan Connor Tracy",
+      "character": "Tamora Tomlinson",
+      "profilePath": "/lP5rlqK8YIqobtFghURPbNdN5zw.jpg",
+      "order": 502
+    }
+  ],
+  "seasons": [
+    {
+      "id": "0d47caae-a00c-408f-8440-e6701233711e",
+      "tvSeriesId": "ef382ebd-2943-425d-9365-d1c1500ae888",
+      "tmdbId": 470143,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+      "airDate": "2026-10-01",
+      "episodeCount": 21,
+      "isPublished": true,
+      "createdAt": "2026-10-08T16:27:28.620Z",
+      "updatedAt": "2026-10-08T16:45:48.211Z"
+    }
+  ]
+}

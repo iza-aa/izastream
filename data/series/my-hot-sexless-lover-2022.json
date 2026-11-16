@@ -1,0 +1,122 @@
+{
+  "slug": "my-hot-sexless-lover-2022",
+  "id": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+  "title": "My Hot Sexless Lover",
+  "overview": "A woman thinks her new boyfriend is “perfect,” but while he is handsome and fun, he says he’s not interested in intimacy. Can she convince him to change his mind?",
+  "tagline": null,
+  "posterPath": "/k53jCn2C9Cwk900SkVhrZWFGGS5.jpg",
+  "backdropPath": "/wRf5MKGtniJ8nqFvcEAg8l4xj14.jpg",
+  "logoPath": "/iapH293TyN4CCTAFap1kaBJy27W.png",
+  "firstAirDate": "2022-11-16",
+  "voteAverage": "5.67",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4c95ce5b-2fa6-4808-a612-7f2711573339",
+      "tvSeriesId": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+      "tmdbPersonId": 1255097,
+      "name": "Haruka Shimazaki",
+      "character": "Rei Mizukawa",
+      "profilePath": "/6VFFdnNu7Qh1OmoUGt1yW2KQH1I.jpg",
+      "order": 0
+    },
+    {
+      "id": "e1b10dfa-31ce-4bf6-85fb-10a64f59b925",
+      "tvSeriesId": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+      "tmdbPersonId": 2115306,
+      "name": "Keisuke Watanabe",
+      "character": "Shuto Arima",
+      "profilePath": "/6S69gUTZKmiFlFNS5VwxNm1u65Z.jpg",
+      "order": 1
+    },
+    {
+      "id": "02004928-458f-4295-9c26-9bd5c8330cc4",
+      "tvSeriesId": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+      "tmdbPersonId": 1241214,
+      "name": "Kanna Mori",
+      "character": "Miori Momoi",
+      "profilePath": "/8kXxQwwKbMHKJ6NiwazFiEC31xS.jpg",
+      "order": 2
+    },
+    {
+      "id": "ad3ee0c4-5169-470a-baa1-ef104130d995",
+      "tvSeriesId": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+      "tmdbPersonId": 2151547,
+      "name": "Seina Nakata",
+      "character": "Hitomi Sakakibara",
+      "profilePath": "/1xtLqzIm2K07Pwcp2XyiYh82czG.jpg",
+      "order": 3
+    },
+    {
+      "id": "e2b0f4d1-d7f2-43ac-942e-af8749727267",
+      "tvSeriesId": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+      "tmdbPersonId": 1565124,
+      "name": "Arata Horii",
+      "character": "Mamoru Okochi",
+      "profilePath": "/ctdZaNVwLuhcqT4GzuGFuG44Lnu.jpg",
+      "order": 4
+    },
+    {
+      "id": "838df620-4f88-4e04-a1cf-3b769baf021e",
+      "tvSeriesId": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+      "tmdbPersonId": 3883200,
+      "name": "Kosuke Honda",
+      "character": "Toshiki Minami",
+      "profilePath": "/4mHIXTjANn8zDSIVguYCI0iM0TU.jpg",
+      "order": 5
+    },
+    {
+      "id": "1253f6d4-d2df-414b-b015-fec147f74aa9",
+      "tvSeriesId": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+      "tmdbPersonId": 3562250,
+      "name": "Ikuma Nagatomo",
+      "character": "Yohei Saihara",
+      "profilePath": "/zTptHX1s4foB26LsFkX5c8ibLCI.jpg",
+      "order": 6
+    },
+    {
+      "id": "298ef207-c7c5-4388-a64f-908776e65978",
+      "tvSeriesId": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+      "tmdbPersonId": 3882974,
+      "name": "Riko Hisada",
+      "character": "Haruna Satou",
+      "profilePath": "/ajjmdA35hnLDpupPvL8zqAUDt57.jpg",
+      "order": 7
+    },
+    {
+      "id": "66510345-fac7-4f24-afb9-4f3a0a13bff5",
+      "tvSeriesId": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+      "tmdbPersonId": 3937057,
+      "name": "Minori Hazuki",
+      "character": "",
+      "profilePath": null,
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "fcda08c6-05a7-4901-aea0-ce4a4b690fc8",
+      "tvSeriesId": "c5bb3ad7-d568-411e-80f5-2ef6ff6b742d",
+      "tmdbId": 321753,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/8KIce4W9KN8FMT5o5gY955IX26P.jpg",
+      "airDate": "2022-11-16",
+      "episodeCount": 9,
+      "isPublished": true,
+      "createdAt": "2026-09-02T19:31:28.220Z",
+      "updatedAt": "2026-09-02T19:32:15.824Z"
+    }
+  ]
+}

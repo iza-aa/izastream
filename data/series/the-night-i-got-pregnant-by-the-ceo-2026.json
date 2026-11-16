@@ -1,0 +1,102 @@
+{
+  "slug": "the-night-i-got-pregnant-by-the-ceo-2026",
+  "id": "13b2ecb0-7659-4a52-a1df-9dc0b7be23d0",
+  "title": "The Night I Got Pregnant By the CEO",
+  "overview": "Hanai Shiori, who works in the sales department of a fashion distribution website, is suddenly dumped by her boyfriend Keiichi on their third anniversary. While she is in tears at a bar, a kind man approaches and gently speaks to her. Leaning on his kindness, Shiori ends up spending the night with him.\n\nAs time passes, Shiori discovers that she is pregnant. To make matters more complicated, the new company president who appears at her workplace turns out to be the very man from that night.",
+  "tagline": null,
+  "posterPath": "/zrAv5ht5ORQycrERpHvdy5R2SXG.jpg",
+  "backdropPath": "/lhgvPJjfTvgXLgzfgKiu2reWjit.jpg",
+  "logoPath": "/kuI6R61bus8ES8gsJbpbuLSBhL4.png",
+  "firstAirDate": "2026-04-16",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 9,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4d32b9eb-1dfc-4936-ade3-57c8bcd4d440",
+      "tvSeriesId": "13b2ecb0-7659-4a52-a1df-9dc0b7be23d0",
+      "tmdbPersonId": 2057237,
+      "name": "Mirei Sasaki",
+      "character": "Hanai Shiori",
+      "profilePath": "/1oDH0yzHT0lKRzSWiFTFBL0wLf2.jpg",
+      "order": 0
+    },
+    {
+      "id": "e89cb9e9-5220-47bd-9f64-0c2ccec6a3ab",
+      "tvSeriesId": "13b2ecb0-7659-4a52-a1df-9dc0b7be23d0",
+      "tmdbPersonId": 4888883,
+      "name": "Masahiro Moritsugu",
+      "character": "Seko Takahito",
+      "profilePath": null,
+      "order": 1
+    },
+    {
+      "id": "ab396fb7-8192-4eca-bda5-c63303823db7",
+      "tvSeriesId": "13b2ecb0-7659-4a52-a1df-9dc0b7be23d0",
+      "tmdbPersonId": 2089128,
+      "name": "Masanari Wada",
+      "character": "Yoshino Keiichi",
+      "profilePath": "/b1jhORTsto0Ejrfs1iuN5laDudK.jpg",
+      "order": 2
+    },
+    {
+      "id": "92063d56-54c3-45e5-b1aa-983452c9403d",
+      "tvSeriesId": "13b2ecb0-7659-4a52-a1df-9dc0b7be23d0",
+      "tmdbPersonId": 2634062,
+      "name": "Azusa Ohara",
+      "character": "Asakaze Rena",
+      "profilePath": "/oMTU8Blpgpf8HfnfVSwNE35nXPJ.jpg",
+      "order": 3
+    },
+    {
+      "id": "0570dd2a-387e-425e-a7bd-6ddcb4b21ce9",
+      "tvSeriesId": "13b2ecb0-7659-4a52-a1df-9dc0b7be23d0",
+      "tmdbPersonId": 4274655,
+      "name": "Tohko Asai",
+      "character": "Yuna",
+      "profilePath": "/6W7OHZvmm8xwbqC9CUZ4Y5vUii.jpg",
+      "order": 4
+    },
+    {
+      "id": "79864992-8acb-4fad-a08b-9e3e2bcc741b",
+      "tvSeriesId": "13b2ecb0-7659-4a52-a1df-9dc0b7be23d0",
+      "tmdbPersonId": 553443,
+      "name": "Satoshi Jinbo",
+      "character": "Seko Joichi",
+      "profilePath": "/8kVtQbERnvzw01Swx9OR4ASofLc.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4d255f4c-6e6c-4fe0-a16c-79165af80f11",
+      "tvSeriesId": "13b2ecb0-7659-4a52-a1df-9dc0b7be23d0",
+      "tmdbId": 507374,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/hRtwES9NRckXSjLjYwiAuMW2tAP.jpg",
+      "airDate": "2026-04-16",
+      "episodeCount": 9,
+      "isPublished": true,
+      "createdAt": "2026-09-02T19:38:20.548Z",
+      "updatedAt": "2026-09-02T19:39:02.765Z"
+    }
+  ]
+}

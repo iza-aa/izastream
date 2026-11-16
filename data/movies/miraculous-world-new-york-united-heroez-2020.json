@@ -1,0 +1,405 @@
+{
+  "slug": "miraculous-world-new-york-united-heroez-2020",
+  "id": "274a7380-7c4b-4939-b340-012dab1549ee",
+  "tmdbId": 755812,
+  "imdbId": "tt12816348",
+  "title": "Miraculous World: New York, United HeroeZ",
+  "originalTitle": "Miraculous World : New York, les héros unis",
+  "overview": "Marinette's class is headed to New York, the city of superheroes, for French-American Friendship Week. But the arrival of Hawk Moth will complicate everything.",
+  "tagline": "New city. Same duty.",
+  "posterPath": "/9YbyvcrHmY2SVbdfXpb8mC4Fy0g.jpg",
+  "backdropPath": "/2BZ7PC9aISswNXV2tugmjGiriaB.jpg",
+  "logoPath": "/zgIkSq5VLMCOTp0Mw8NbP64Lgb3.png",
+  "backdrops": [
+    "/2BZ7PC9aISswNXV2tugmjGiriaB.jpg",
+    "/21xoMd0yHDsFwd2fp2GqTsybHjL.jpg",
+    "/adlZgxAudw3ZPA0HUcDzSTKrH8B.jpg",
+    "/ps1WSfvhRxWOYraPtd8gXJu0wb9.jpg",
+    "/vnEWRABhnxY5Fnj68eRVxJIiae6.jpg",
+    "/qcsF85juZ9ujyhaYRFEokHHcv5T.jpg",
+    "/nQ3ElQpGSQag7OV5RVyteTgknxb.jpg",
+    "/8tYAF7CkyD5Mtg7Gs2eqwiOX3mc.jpg"
+  ],
+  "releaseDate": "2020-09-25",
+  "runtime": 61,
+  "voteAverage": "8.08",
+  "popularity": null,
+  "popularityScore": 92,
+  "originalLanguage": "fr",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=952fktHweJs",
+  "quality": "WEB-DL",
+  "director": "Thomas Astruc",
+  "directorTmdbId": 1565301,
+  "directorProfilePath": "/uIb3EHr8VeQuXxSG0oVjaTZXwD3.jpg",
+  "productionCompanies": [
+    {
+      "id": 79650,
+      "name": "ZAG Entertainment",
+      "logo_path": "/bUAfLFkb0xhmY5UsO7cWvo8Pt6A.png"
+    },
+    {
+      "id": 35136,
+      "name": "Method Animation",
+      "logo_path": "/lhGOKiuEls3KiWigu1hbvrqUP68.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 242,
+      "name": "new york city"
+    },
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 9715,
+      "name": "superhero"
+    },
+    {
+      "id": 14544,
+      "name": "robot"
+    },
+    {
+      "id": 208349,
+      "name": "kids"
+    },
+    {
+      "id": 269769,
+      "name": "based on tv series"
+    },
+    {
+      "id": 278823,
+      "name": "3d animation"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1412,
+  "watchlistCount": 20,
+  "favouriteCount": 8,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:37:36.765Z",
+  "updatedAt": "2026-10-05T17:39:58.008Z",
+  "genres": [
+    {
+      "id": "1c2d786d-320e-4cad-83bb-132b219ff7ff",
+      "tmdbId": 10770,
+      "name": "TV Movie",
+      "slug": "tv-movie",
+      "createdAt": "2026-04-02T13:51:04.105Z"
+    },
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c9b930b9-e432-473a-936e-21dea280b70d",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1762588,
+      "name": "Anouck Hautbois",
+      "character": "Marinette / Ladybug (voice)",
+      "profilePath": "/yHBoYywjBecWuzI9ir2LKBzliRP.jpg",
+      "order": 0
+    },
+    {
+      "id": "adef209e-1ed6-4a4d-8718-6213276a61ae",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1558832,
+      "name": "Benjamin Bollen",
+      "character": "Adrien / Chat Noir (voice)",
+      "profilePath": "/v39WarohjEdNCexiM5wF6CCMwG1.jpg",
+      "order": 1
+    },
+    {
+      "id": "882011b3-39f7-4709-8a59-be19b24a6e46",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1758915,
+      "name": "Antoine Tomé",
+      "character": "Gabriel / Papillon (voice)",
+      "profilePath": "/2rxz83TmtO2rHJuabTMkbIFCtqx.jpg",
+      "order": 2
+    },
+    {
+      "id": "0a2ed4ca-9451-4c62-8821-9bc23ad7d221",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 150485,
+      "name": "Fily Keita",
+      "character": "Aeon / Uncanny Valley (voice)",
+      "profilePath": "/jel7tV05IEkt9B1zWErNi1YImkp.jpg",
+      "order": 3
+    },
+    {
+      "id": "e743a3d9-9380-4294-8b2b-c743b93748be",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1874835,
+      "name": "Céline Melloul",
+      "character": "Jess (voice)",
+      "profilePath": "/v6uNETOuor81FbqMKCrivNsDpXl.jpg",
+      "order": 4
+    },
+    {
+      "id": "34f83344-aab2-43ec-82cd-e853c3642eda",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1762590,
+      "name": "Fanny Bloc",
+      "character": "Alya (voice)",
+      "profilePath": "/uEKWnfCrFPx18OBkVZgFvtHwjqN.jpg",
+      "order": 5
+    },
+    {
+      "id": "6cca434f-2c02-47f6-add9-6308dbc9d5e1",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1762592,
+      "name": "Alexandre Nguyen",
+      "character": "Nino / Kim (voice)",
+      "profilePath": "/2MWLitWeA7MdS7pC9dHSs0s4chN.jpg",
+      "order": 6
+    },
+    {
+      "id": "5133a0fa-66c7-4107-8e68-3d7f5e2e9bb6",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1373143,
+      "name": "Marie Nonnenmacher",
+      "character": "Tikki / Sabrina / Alix (voice)",
+      "profilePath": "/hDnrMOYbEFmaxm2yngxy3gpd3Hy.jpg",
+      "order": 7
+    },
+    {
+      "id": "e46d3d27-5b95-4ee8-a3fc-ccc65e3177a6",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1762589,
+      "name": "Thierry Kazazian",
+      "character": "Plagg (voice)",
+      "profilePath": "/7sqA1L6pwKmmBccMdmzNJwlXBWk.jpg",
+      "order": 8
+    },
+    {
+      "id": "8c5bd8c0-7cde-471f-ab87-e54579feb4a3",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1373235,
+      "name": "Nathalie Bienaimé",
+      "character": "Majestia (voice)",
+      "profilePath": "/gpbwcSg1cOMMPIx8A4hCNJa4sHx.jpg",
+      "order": 9
+    },
+    {
+      "id": "1cccef86-54f4-4d45-8db5-3c95c5d2b908",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 3612360,
+      "name": "Asto Montcho",
+      "character": "Mike (voice)",
+      "profilePath": "/o6GNwSWyQOPMQl8TeWLG3ivTtih.jpg",
+      "order": 10
+    },
+    {
+      "id": "431cf79b-83fd-41df-a940-ff4ddea0286e",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1983649,
+      "name": "Alan Aubert-Carlin",
+      "character": "Sparrow (voice)",
+      "profilePath": "/ryPScKdAQKMj5BhC88B0c12SHce.jpg",
+      "order": 11
+    },
+    {
+      "id": "fb7355ef-d712-458e-85e8-2712587cac00",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 3767177,
+      "name": "Mario Bastelica",
+      "character": "Knight Owl (voice)",
+      "profilePath": "/zMBnbCk8xQ0w92ebh8lPZFCMOdp.jpg",
+      "order": 12
+    },
+    {
+      "id": "5ddcbef2-7802-405d-8128-b6d885fe9945",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1596696,
+      "name": "Pauline Moingeon",
+      "character": "Barbara / Camilla (voice)",
+      "profilePath": "/lYDuVhxvHYRywtpGBGnBxwgiW6H.jpg",
+      "order": 13
+    },
+    {
+      "id": "9449a843-4470-4b1b-b17f-cebe68acbfe8",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 3111918,
+      "name": "Jean-Yves Brignon",
+      "character": "Dean (voice)",
+      "profilePath": "/oUVQmEuzNdxU7oPtu4e5Ub6PGzN.jpg",
+      "order": 14
+    },
+    {
+      "id": "9624e2bd-2645-4bdc-9146-841f0a2d73d4",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1762591,
+      "name": "Marie Chevalot",
+      "character": "Chloé / Nathalie / Mendeleiev (voice)",
+      "profilePath": "/tHvk1jTWad3kb27c2v0zN0T2eFz.jpg",
+      "order": 15
+    },
+    {
+      "id": "3910b46a-d899-4610-a3f1-6999b8fcf1dd",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 2889967,
+      "name": "Jessie Lambotte",
+      "character": "Rose / Bustier / Nadja (voice)",
+      "profilePath": "/4QdWEK2eZnhBAl7UmAQF1yUgngO.jpg",
+      "order": 16
+    },
+    {
+      "id": "9d3737c2-31b2-45c5-9472-a084afd89665",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 5535460,
+      "name": "Clara Soares",
+      "character": "Lila / Kagami / Clara Contard (voice)",
+      "profilePath": "/nPBty1OeKBVbM5EDWmwPHQpmY9Z.jpg",
+      "order": 17
+    },
+    {
+      "id": "c31a2f86-bbdb-4c79-b0a3-b60630ca47a6",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1309535,
+      "name": "Gauthier Battoue",
+      "character": "Luka (voice)",
+      "profilePath": "/3PooWwDmyJMF5wP8LLajgWs4lwB.jpg",
+      "order": 18
+    },
+    {
+      "id": "2015d280-a479-47f0-885e-04dcaf466c93",
+      "movieId": "274a7380-7c4b-4939-b340-012dab1549ee",
+      "tmdbPersonId": 1138041,
+      "name": "Gilbert Lévy",
+      "character": "Mr. Damoclès (voice)",
+      "profilePath": "/6sOxpBftOTMbviK3spaumQQW0k2.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

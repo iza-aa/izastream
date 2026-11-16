@@ -1,0 +1,138 @@
+{
+  "slug": "bad-genius-the-series-2025",
+  "id": "75e5b840-9d0b-424b-b726-88651a507ca0",
+  "title": "Bad Genius: The Series",
+  "overview": "The Philippine series adaptation of a global hit movie. A top scholar uncovers how the school profits from students and fights back—turning cheat sheets into a money-making scheme.",
+  "tagline": null,
+  "posterPath": "/nrX6x5qUivFijBxFrvy96mgV9RN.jpg",
+  "backdropPath": "/souN3ZcjNGWe7k0UOCPnToF4xdg.jpg",
+  "logoPath": "/kWuldjhkD3kWzgOyKCTDTU5GBMh.png",
+  "firstAirDate": "2025-07-17",
+  "voteAverage": "6.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 13,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b385c8aa-012d-4ce3-816c-49edda77d045",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbPersonId": 592003,
+      "name": "Jairus Aquino",
+      "character": "Tristan Bangkatsa / Bank",
+      "profilePath": "/eBs4G5bwbR5QphXhdkYqBC2Cqpi.jpg",
+      "order": 0
+    },
+    {
+      "id": "d2e79ef8-b2cb-4053-b8fd-e67638df4881",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbPersonId": 2038703,
+      "name": "Gab Lagman",
+      "character": "Patrick Joseph Tioseco",
+      "profilePath": "/494VOFraGOwUG8Gyrm1naYnZixP.jpg",
+      "order": 1
+    },
+    {
+      "id": "55d95516-d288-4fb4-8f7a-15471f836f6f",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbPersonId": 4420683,
+      "name": "Hyacinth Callado",
+      "character": "Grace Anne Dizon",
+      "profilePath": "/x4pKAjevMJE58SMFwzvpVAID76R.jpg",
+      "order": 2
+    },
+    {
+      "id": "1795f889-f34a-41aa-a01c-ecfc7a52e5b2",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbPersonId": 1234471,
+      "name": "Romnick Sarmenta",
+      "character": "",
+      "profilePath": "/lH183dNVqJx9Or6jwTzgDLZHdf4.jpg",
+      "order": 3
+    },
+    {
+      "id": "3bbe2d24-211e-4b5c-913a-0cb25cb80970",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbPersonId": 1058265,
+      "name": "Yayo Aguila",
+      "character": "",
+      "profilePath": "/gSOCogk9uEzpqFgRLVGbtNbOp38.jpg",
+      "order": 4
+    },
+    {
+      "id": "9fa69fe8-b951-4d8c-a475-50e677889959",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbPersonId": 225423,
+      "name": "Ruffa Gutierrez",
+      "character": "Principal Perez",
+      "profilePath": "/sFHSHoCgaAKYixFcG9GCk8dCv3v.jpg",
+      "order": 5
+    },
+    {
+      "id": "6a92cf58-20c6-45de-a9fe-e68f694d5976",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbPersonId": 1016497,
+      "name": "Irma Adlawan",
+      "character": "",
+      "profilePath": "/jISx5lYn0BBwsAz3jrwtJizQUGB.jpg",
+      "order": 6
+    },
+    {
+      "id": "ef0d62a3-6943-4a98-80bd-dd85e68335ec",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbPersonId": 1353052,
+      "name": "Joko Diaz",
+      "character": "",
+      "profilePath": "/6yL5qOmyhrA5frvjcodygrWrnkR.jpg",
+      "order": 7
+    },
+    {
+      "id": "f6684740-4f20-4108-9bac-5fc1514d3431",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbPersonId": 3397874,
+      "name": "Keagan De Jesus",
+      "character": "Ping",
+      "profilePath": "/oP4xtimAukOlNTcq3F4GETKVVxM.jpg",
+      "order": 8
+    },
+    {
+      "id": "c44f2029-2dd5-4159-82d9-3ea89542d04c",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbPersonId": 4924554,
+      "name": "Alex Payan",
+      "character": "Thirdy",
+      "profilePath": null,
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "b76deeac-3e8d-4587-a893-514ca914a584",
+      "tvSeriesId": "75e5b840-9d0b-424b-b726-88651a507ca0",
+      "tmdbId": 446819,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/nrX6x5qUivFijBxFrvy96mgV9RN.jpg",
+      "airDate": "2025-07-17",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-08-23T04:36:47.027Z",
+      "updatedAt": "2026-08-23T04:37:53.265Z"
+    }
+  ]
+}

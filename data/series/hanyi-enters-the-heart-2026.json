@@ -1,0 +1,104 @@
+{
+  "slug": "hanyi-enters-the-heart-2026",
+  "id": "42a164d1-6564-456c-86ac-b8ebf07db49a",
+  "title": "Hanyi Enters the Heart",
+  "overview": "After surviving her family's massacre as a child, a young woman assumes a new identity and spends years preparing for revenge. With an alliance of women at her side, she hunts down those responsible while searching for the mysterious figure behind the killings.",
+  "tagline": null,
+  "posterPath": "/6UkMIJux0QmZCnqZw0c6r3ABKl5.jpg",
+  "backdropPath": "/fg5aXSCTBF0aD867r0a9T4PByar.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-08-14",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4faa3279-3ebf-4f55-b10b-86539a03f41d",
+      "tvSeriesId": "42a164d1-6564-456c-86ac-b8ebf07db49a",
+      "tmdbPersonId": 2576412,
+      "name": "He Xuanlin",
+      "character": "Shen Li / Gu Hanyi",
+      "profilePath": "/sl26bOltBpCYAoYtHAovwRmtv8J.jpg",
+      "order": 0
+    },
+    {
+      "id": "1c54de43-6dc4-493c-9fa3-e47be6dec413",
+      "tvSeriesId": "42a164d1-6564-456c-86ac-b8ebf07db49a",
+      "tmdbPersonId": 3092054,
+      "name": "Zhan Yu",
+      "character": "Xie Yungui / Xiao Jue",
+      "profilePath": "/d6rEpIFyIURI30JNw0QPTECSh0x.jpg",
+      "order": 1
+    },
+    {
+      "id": "fe7285da-7fd7-463b-ab53-4da59eb5ef1d",
+      "tvSeriesId": "42a164d1-6564-456c-86ac-b8ebf07db49a",
+      "tmdbPersonId": 3956649,
+      "name": "Wen Chundi",
+      "character": "Xiao Jing / Grand General",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "dbe21eff-328c-43d3-bc59-9b6da0cbae86",
+      "tvSeriesId": "42a164d1-6564-456c-86ac-b8ebf07db49a",
+      "tmdbPersonId": 5361212,
+      "name": "Huang Wenqing",
+      "character": "Mei Qi / Mei Jiu",
+      "profilePath": "/kZqm5QuF4Umpl2iMutDNgKmuvbB.jpg",
+      "order": 3
+    },
+    {
+      "id": "4e3ec9e1-c910-40d7-af8c-ad7e816ec16a",
+      "tvSeriesId": "42a164d1-6564-456c-86ac-b8ebf07db49a",
+      "tmdbPersonId": 6308146,
+      "name": "Wang Canqi",
+      "character": "Zheng Shu",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "0455ce0c-39c9-4a7a-96b9-36bad27698d4",
+      "tvSeriesId": "42a164d1-6564-456c-86ac-b8ebf07db49a",
+      "tmdbPersonId": 5725902,
+      "name": "Wang Chenxin",
+      "character": "Yuwen Heng / Emperor",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "383ff9f5-c10f-4c5b-8079-c2e0ca5b3696",
+      "tvSeriesId": "42a164d1-6564-456c-86ac-b8ebf07db49a",
+      "tmdbPersonId": 3747398,
+      "name": "Hu Jian",
+      "character": "Cui Hong",
+      "profilePath": null,
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4f3a6f90-d972-413c-9626-32720b00bf2f",
+      "tvSeriesId": "42a164d1-6564-456c-86ac-b8ebf07db49a",
+      "tmdbId": 536152,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-08-14",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-09-02T15:27:17.331Z",
+      "updatedAt": "2026-09-02T15:51:33.735Z"
+    }
+  ]
+}

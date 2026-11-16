@@ -1,0 +1,399 @@
+{
+  "slug": "sacrifice-2026",
+  "id": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+  "tmdbId": 1284186,
+  "imdbId": "tt32268992",
+  "title": "Sacrifice",
+  "originalTitle": "Sacrifice",
+  "overview": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
+  "tagline": null,
+  "posterPath": "/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
+  "backdropPath": "/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
+  "logoPath": "/umsFgheNo6N37cUG3gT0wBo7p4Z.png",
+  "backdrops": [
+    "/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+    "/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
+    "/3kYnfR6PN20bD4zshZfGza6jA6f.jpg",
+    "/m4M86RLri1Mp9xLEO6fDwBrgIOI.jpg",
+    "/2h8Uc4iU6k3pVBa1DJB6OqHLk26.jpg",
+    "/dkQ95ve1iEyt738io4AJOmQgijJ.jpg",
+    "/tazF0s7Dg4i9lOaHBdW94KWOvT2.jpg",
+    "/fhEThyWfuMJzX56QS9AWOD0W8oO.jpg",
+    "/tj4qYXnb2N9syX8JKtaujltPrYj.jpg",
+    "/wKAryvg3GersIJSDLnGnd4NgWzQ.jpg"
+  ],
+  "releaseDate": "2026-04-09",
+  "runtime": 103,
+  "voteAverage": "5.30",
+  "popularity": null,
+  "popularityScore": 178,
+  "originalLanguage": "en",
+  "country": "GB",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=u5qW1gMMSVI",
+  "quality": "WEB-DL",
+  "director": "Romain Gavras",
+  "directorTmdbId": 78207,
+  "directorProfilePath": "/fdYJW1NoKKrwa5l6RLEsbdnruKE.jpg",
+  "productionCompanies": [
+    {
+      "id": 227077,
+      "name": "Mid March Media",
+      "logo_path": "/9pSCW1pXlXsJ0B3fBiyHyzRSylD.png"
+    },
+    {
+      "id": 76888,
+      "name": "Heretic",
+      "logo_path": "/eQzzrPMtHbgAxKgQysFH73mHaHF.png"
+    },
+    {
+      "id": 246220,
+      "name": "Lady Killer Productions",
+      "logo_path": null
+    },
+    {
+      "id": 78780,
+      "name": "Iconoclast",
+      "logo_path": "/3niMKWcBpqOh4C1PHAG4FSubsgp.png"
+    },
+    {
+      "id": 6705,
+      "name": "Film4 Productions",
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png"
+    },
+    {
+      "id": 118570,
+      "name": "GUCCI",
+      "logo_path": "/2LFzslIbEtan1ZazEilxJaPCBOs.png"
+    },
+    {
+      "id": 5056,
+      "name": "Head Gear Films",
+      "logo_path": "/ok7CQyn0RPEuI0upznPoo93YE6H.png"
+    },
+    {
+      "id": 25954,
+      "name": "Metrol Technology",
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 476,
+      "name": "self-fulfilling prophecy"
+    },
+    {
+      "id": 8201,
+      "name": "satire"
+    },
+    {
+      "id": 18233,
+      "name": "hostage situation"
+    },
+    {
+      "id": 33643,
+      "name": "radical"
+    },
+    {
+      "id": 162262,
+      "name": "movie star"
+    },
+    {
+      "id": 163163,
+      "name": "disciples"
+    },
+    {
+      "id": 196682,
+      "name": "rich man"
+    },
+    {
+      "id": 205607,
+      "name": "unlucky"
+    },
+    {
+      "id": 309533,
+      "name": "charity benefit"
+    },
+    {
+      "id": 312677,
+      "name": "existential crisis"
+    },
+    {
+      "id": 332431,
+      "name": "gala"
+    },
+    {
+      "id": 365952,
+      "name": "morality & choices"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 13090,
+  "watchlistCount": 182,
+  "favouriteCount": 36,
+  "shareCount": 5,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-12T16:54:01.690Z",
+  "updatedAt": "2026-10-12T16:54:46.122Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0eeaafec-ed1a-45f9-9a24-51f155d2c671",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 16828,
+      "name": "Chris Evans",
+      "character": "Mike Tyler",
+      "profilePath": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg",
+      "order": 0
+    },
+    {
+      "id": "86617f79-e725-4834-9ef7-ac082d6b8af3",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 1397778,
+      "name": "Anya Taylor-Joy",
+      "character": "Joan",
+      "profilePath": "/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg",
+      "order": 1
+    },
+    {
+      "id": "dcda26b1-adc8-46ad-90f4-c9685398a754",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 1925,
+      "name": "Vincent Cassel",
+      "character": "Ben Bracken",
+      "profilePath": "/ivUQfhn5olOmR5hthN8C8GThBV4.jpg",
+      "order": 2
+    },
+    {
+      "id": "97d60d8e-ce7b-4977-a465-eff039931ccd",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 3136,
+      "name": "Salma Hayek Pinault",
+      "character": "Gloria Bracken",
+      "profilePath": "/3j8MpAjyopkAc8mbNiDeXyqBmcS.jpg",
+      "order": 3
+    },
+    {
+      "id": "f0a71e70-743c-40af-bfe7-a5dcd9a57a53",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 6949,
+      "name": "John Malkovich",
+      "character": "Gunnar",
+      "profilePath": "/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg",
+      "order": 4
+    },
+    {
+      "id": "b18478bf-80e5-4002-ba70-9e53d5f2cf4c",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 1529997,
+      "name": "Charli xcx",
+      "character": "Mother Nature",
+      "profilePath": "/xnYIKjdP2anSMmDlFbJN3zZQMkC.jpg",
+      "order": 5
+    },
+    {
+      "id": "770ee579-4385-448d-b35f-3bb8e77702d9",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 1920166,
+      "name": "Yung Lean",
+      "character": "Arthur",
+      "profilePath": "/cTbH426TQvHua4LRBNCEEAj9CC4.jpg",
+      "order": 6
+    },
+    {
+      "id": "120b1a9e-9aee-4218-b9a8-75acc63f456a",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 1429453,
+      "name": "Sam Richardson",
+      "character": "Oliver",
+      "profilePath": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+      "order": 7
+    },
+    {
+      "id": "d7fe5870-54cf-4f16-881a-995b3efe43a5",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 1303071,
+      "name": "Jade Croot",
+      "character": "Louise",
+      "profilePath": "/j4DuuFPDdnEcDWFWCyBUuhhHkxg.jpg",
+      "order": 8
+    },
+    {
+      "id": "463af601-b43e-46db-961c-cded3418e120",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 3411764,
+      "name": "Ambika Mod",
+      "character": "Katie / Daughter Nature",
+      "profilePath": "/jN9HhFYPNMYIupFt6GzGnHAW88c.jpg",
+      "order": 9
+    },
+    {
+      "id": "055a4c0f-9f17-4913-aa83-e1792da88d7f",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 3840045,
+      "name": "Bebe Massey",
+      "character": "Young Joan",
+      "profilePath": "/5ZiQyrJ1yIESzUmi8D2t5xEfp5a.jpg",
+      "order": 10
+    },
+    {
+      "id": "b13cb599-7dde-451c-a615-767a74ea4dbd",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 1650331,
+      "name": "Jeremy O. Harris",
+      "character": "",
+      "profilePath": "/shwEgWh9wJ3hwvv9lgQeJBwHsfe.jpg",
+      "order": 11
+    },
+    {
+      "id": "8a372818-47c2-456b-9a77-8478713bdaaf",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 2537213,
+      "name": "Miriam Silverman",
+      "character": "",
+      "profilePath": "/w5QU4eXOl3FprQZ4wJcjIykk24z.jpg",
+      "order": 12
+    },
+    {
+      "id": "4997514e-79a2-4c5c-8f27-91aa9a420ab7",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 3654028,
+      "name": "Despoina Hariati",
+      "character": "",
+      "profilePath": "/hijOlB4rTj8qCOS11dPEgpEetDy.jpg",
+      "order": 13
+    },
+    {
+      "id": "ca298134-452e-4d33-a72b-9571d7d70c83",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 5787982,
+      "name": "Jennie Lattou",
+      "character": "Special Hero Gala",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "734b9aec-2312-42c4-90b5-261a924a53cd",
+      "movieId": "2187b8ba-3969-4f83-b094-0ba5ec75de69",
+      "tmdbPersonId": 5583598,
+      "name": "Rena Gioti",
+      "character": "Gala Guest",
+      "profilePath": null,
+      "order": 15
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

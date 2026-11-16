@@ -1,0 +1,131 @@
+{
+  "slug": "the-drop-a-snowfall-saga-2026",
+  "id": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+  "title": "The Drop: A Snowfall Saga",
+  "overview": "In 1990s Los Angeles, Wanda and Leon fight to take West Coast rap mainstream while gang wars erupt and record labels move to exploit hip hop culture for their own gain.",
+  "tagline": null,
+  "posterPath": "/tiLqDZQdVILCIt00MLwDvnXAttr.jpg",
+  "backdropPath": "/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
+  "logoPath": "/43wNg4tLfZFtiAYkzw7NoTa9Odp.png",
+  "firstAirDate": "2026-09-08",
+  "voteAverage": "5.30",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ddd0fe09-17f6-4cef-ad6e-4a889ce835d3",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbPersonId": 1389367,
+      "name": "Gail Bean",
+      "character": "Wanda Bell",
+      "profilePath": "/8Ez5A8hoDwTLiWXZ7xSNlJAvCu7.jpg",
+      "order": 0
+    },
+    {
+      "id": "81c1877d-1408-4b61-b63e-bca4d8422b16",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbPersonId": 1855369,
+      "name": "Isaiah John",
+      "character": "Leon Simmons",
+      "profilePath": "/mKCuf0BZFsBUYnSTPTHaUtxmKa0.jpg",
+      "order": 1
+    },
+    {
+      "id": "38b47cb3-ac4d-4d55-9107-d30cb6ec5be3",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbPersonId": 2104697,
+      "name": "Asante Blackk",
+      "character": "",
+      "profilePath": "/mB0FG4VH5HXvjFuZ3W8aJO1bfVu.jpg",
+      "order": 2
+    },
+    {
+      "id": "9b606455-9ca4-4421-aaeb-757be0afcdb8",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbPersonId": 1517472,
+      "name": "Peyton Alex Smith",
+      "character": "",
+      "profilePath": "/AkP5ljWX0zMVG2OUXu4Wk4KDyou.jpg",
+      "order": 3
+    },
+    {
+      "id": "89d001b8-ad5a-421f-86fd-643a9d370882",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbPersonId": 5795295,
+      "name": "Simmie Sims III",
+      "character": "",
+      "profilePath": "/m2Z6wlw0b3T8RHvEyJGFiX80jJS.jpg",
+      "order": 4
+    },
+    {
+      "id": "bdebd66f-3d12-41ce-9da8-41ec78a15e43",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbPersonId": 34,
+      "name": "Mykelti Williamson",
+      "character": "",
+      "profilePath": "/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg",
+      "order": 5
+    },
+    {
+      "id": "284f18a3-247b-4214-ab74-8a445eb89b9f",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbPersonId": 81725,
+      "name": "Nicki Micheaux",
+      "character": "",
+      "profilePath": "/xA92gKGUnnujmUrdjf7o9PLAaZb.jpg",
+      "order": 6
+    },
+    {
+      "id": "f5a38ae2-f8f2-47fc-b10a-89bdf0e65ad4",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbPersonId": 427978,
+      "name": "Brandon Mychal Smith",
+      "character": "",
+      "profilePath": "/5nKqpvHatEEjyQWXWIH3fABDDSe.jpg",
+      "order": 7
+    },
+    {
+      "id": "5f719f93-8485-40b7-bd66-90cc423a821c",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbPersonId": 1677397,
+      "name": "Isidora Goreshter",
+      "character": "",
+      "profilePath": "/rLy8wmjYw7LewisNawiuRuMtJCu.jpg",
+      "order": 8
+    },
+    {
+      "id": "21e5ece4-a7e9-47af-a32c-fad6c8501e5a",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbPersonId": 34489,
+      "name": "Eric Balfour",
+      "character": "",
+      "profilePath": "/tqlyRVgkNYIePcunx4johOOxY8h.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "dee1d606-f05a-4467-b69b-06e3ffa22a62",
+      "tvSeriesId": "c4ecd41c-6779-405c-927c-c2a006b370fe",
+      "tmdbId": 483274,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9qGjnLnMRx04KHiCWdrEAsMldGI.jpg",
+      "airDate": "2026-09-08",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-09T17:44:10.476Z",
+      "updatedAt": "2026-10-28T16:39:28.371Z"
+    }
+  ]
+}

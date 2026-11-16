@@ -1,0 +1,127 @@
+{
+  "slug": "last-seen-2026",
+  "id": "413ad48a-275e-47fc-b2b2-bcbd5e220422",
+  "title": "Last Seen",
+  "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
+  "tagline": "He's waited years for the truth to call.",
+  "posterPath": "/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
+  "backdropPath": "/hB7FJU3A0bY6mFrfF3CZOFZTWcI.jpg",
+  "logoPath": "/9wkVRKD4wxTflK0cRGcVnt0u1pD.png",
+  "firstAirDate": "2026-09-09",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "57152f17-0827-488a-b2e3-2e8db0a159ea",
+      "tvSeriesId": "413ad48a-275e-47fc-b2b2-bcbd5e220422",
+      "tmdbPersonId": 221032,
+      "name": "Patrick Brammall",
+      "character": "Ian Ridley",
+      "profilePath": "/l4IlGBxkYcCwqtfuKfWyHa9JCn6.jpg",
+      "order": 0
+    },
+    {
+      "id": "ce4fb016-c90b-40e9-9f66-7c47872387bf",
+      "tvSeriesId": "413ad48a-275e-47fc-b2b2-bcbd5e220422",
+      "tmdbPersonId": 129527,
+      "name": "Brendan Cowell",
+      "character": "Henry Reid",
+      "profilePath": "/9Bjc4wYjqAJXMwmy6rKsYq2PeWV.jpg",
+      "order": 1
+    },
+    {
+      "id": "fd1a7148-33e7-4a0c-ac0a-c0630729ee9a",
+      "tvSeriesId": "413ad48a-275e-47fc-b2b2-bcbd5e220422",
+      "tmdbPersonId": 76944,
+      "name": "Maxine Peake",
+      "character": "Jenna Reid",
+      "profilePath": "/uChlrL5WyeXhvGFaNvbzw1KqMgP.jpg",
+      "order": 2
+    },
+    {
+      "id": "adac6adb-23a6-4296-81ec-72f2e0f815df",
+      "tvSeriesId": "413ad48a-275e-47fc-b2b2-bcbd5e220422",
+      "tmdbPersonId": 1905861,
+      "name": "Jessica Wren",
+      "character": "Debbie Mcguire",
+      "profilePath": "/99Ap2TU7x1x8kQwA5LJryiooO9T.jpg",
+      "order": 3
+    },
+    {
+      "id": "48db6993-bfe3-42c3-816a-eb43d18bd16d",
+      "tvSeriesId": "413ad48a-275e-47fc-b2b2-bcbd5e220422",
+      "tmdbPersonId": 213202,
+      "name": "Daniel Henshall",
+      "character": "Donald Reid",
+      "profilePath": "/spfdesJvIoPTmZWMe5ncyMbnOV5.jpg",
+      "order": 4
+    },
+    {
+      "id": "d3a2ffcc-35ea-42bd-9ef6-2e19724b6756",
+      "tvSeriesId": "413ad48a-275e-47fc-b2b2-bcbd5e220422",
+      "tmdbPersonId": 5329983,
+      "name": "Chloe Jean Lourdes",
+      "character": "Sarah Reid",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "d64da301-49a8-41f3-ab36-7175303c09fc",
+      "tvSeriesId": "413ad48a-275e-47fc-b2b2-bcbd5e220422",
+      "tmdbPersonId": 1702244,
+      "name": "Zahra Newman",
+      "character": "Isabel 'Izzy' Pena",
+      "profilePath": "/auBhD3wWucl5PuDaftnXmBPcSeL.jpg",
+      "order": 6
+    },
+    {
+      "id": "36687bb6-73f3-4220-9d6c-18ea14ba282a",
+      "tvSeriesId": "413ad48a-275e-47fc-b2b2-bcbd5e220422",
+      "tmdbPersonId": 4591771,
+      "name": "Tobias Muhafidin",
+      "character": "Dean Ridley",
+      "profilePath": null,
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "92923e86-0c10-4f52-b2b4-ae3e9d124868",
+      "tvSeriesId": "413ad48a-275e-47fc-b2b2-bcbd5e220422",
+      "tmdbId": 400492,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
+      "airDate": "2026-09-09",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-09-09T08:15:44.877Z",
+      "updatedAt": "2026-10-07T09:10:02.790Z"
+    }
+  ]
+}

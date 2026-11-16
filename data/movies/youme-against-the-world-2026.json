@@ -1,0 +1,314 @@
+{
+  "slug": "youme-against-the-world-2026",
+  "id": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+  "tmdbId": 1641629,
+  "imdbId": "tt43617372",
+  "title": "You+Me – Against the World",
+  "originalTitle": "Toi+Moi - Seuls contre tous",
+  "overview": "Alma Lancaster, 18, leads a seemingly perfect life in a wealthy family, who believe she is studying law. In secret, she pursues her true dream — cinema. On campus, she meets 20-year-old Vadim Arcadi, a rebellious and magnetic solitaire with a troubled past. Forced to collaborate on a student film, they compete, get closer and start to fall in love – in spite of themselves. But someone is watching them. A mysterious figure begins to send anonymous threats, determined to separate them and expose secrets that could destroy Alma and Vadim.",
+  "tagline": "He runs from everything. Except her.",
+  "posterPath": "/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+  "backdropPath": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+  "logoPath": "/aXWC2XPcpn7Ta8KHzt1NCKXxJBi.png",
+  "backdrops": [
+    "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+    "/tWVntLeXNJCT3sX6yZZFzlDvF8.jpg",
+    "/b5khNPWewb9lTAD2hTZhbe7QPI2.jpg",
+    "/bCuwBQb6XlCrWs7GJxesBZ9QSfC.jpg",
+    "/lrfIl8yHxMR6JCVcZToRpiRECr.jpg",
+    "/9Yyf2IL93pj8aaQuBm2OpSXiKlx.jpg",
+    "/dVts1HMd9pPZUc4rdFAHJ3M6VNp.jpg",
+    "/yDJ21pclmXbyLBOy2N9HQmvX9RW.jpg",
+    "/evUoJzjcsCaf7agKnlF5TGMsjfE.jpg",
+    "/rO9BD3pZV5WwgnW7yzZNHARN3lC.jpg"
+  ],
+  "releaseDate": "2026-09-18",
+  "runtime": 93,
+  "voteAverage": "5.00",
+  "popularity": null,
+  "popularityScore": 3580,
+  "originalLanguage": "fr",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "WEB-DL",
+  "director": "Manon Gaurin",
+  "directorTmdbId": 223473,
+  "directorProfilePath": "/3IDRHTVuArCbdadcg2eyvSSRFDl.jpg",
+  "productionCompanies": [
+    {
+      "id": 208281,
+      "name": "Amazon Studios France",
+      "logo_path": "/hYREaYiVyoGVP26CbDpAWD3wDRD.png"
+    },
+    {
+      "id": 303782,
+      "name": "Originals by Trésor",
+      "logo_path": null
+    },
+    {
+      "id": 120768,
+      "name": "Trésor Films",
+      "logo_path": "/ccHWgGgU03FvvhPNgGmdzddNLTN.png"
+    },
+    {
+      "id": 210099,
+      "name": "Amazon MGM Studios",
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 75377,
+  "watchlistCount": 406,
+  "favouriteCount": 120,
+  "shareCount": 38,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-18T17:05:00.370Z",
+  "updatedAt": "2026-09-18T17:10:15.006Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "03783b0c-0ef0-4fd3-87cd-1a7ab21dc97c",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 5441073,
+      "name": "Vittoria Di Savoia",
+      "character": "Alma Lancaster",
+      "profilePath": "/uxlRv4jnvzagvnTR18dnIBTvQNJ.jpg",
+      "order": 0
+    },
+    {
+      "id": "f472f0f1-6cd6-457f-af69-8e21dc9d9b17",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 6028736,
+      "name": "Lucas Barski",
+      "character": "Vadim Arcadi",
+      "profilePath": "/bNJj7fynrB2ZMoPpDNfcVd4YBg.jpg",
+      "order": 1
+    },
+    {
+      "id": "2da941c8-aa4b-43cd-8c55-8615ad6f71b1",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 3220450,
+      "name": "Aymeric Fougeron",
+      "character": "Basile Lancaster",
+      "profilePath": "/2GiOfHcnoMqJGwDu7JiU8YMlgph.jpg",
+      "order": 2
+    },
+    {
+      "id": "0de59df1-d431-406a-80bd-6ee8c1804c11",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 2477804,
+      "name": "Zoé Garcia",
+      "character": "Clémentine",
+      "profilePath": "/alBs6QVCSNvnz4zoHXYRXw1GHYq.jpg",
+      "order": 3
+    },
+    {
+      "id": "693f4ae9-9aaa-466f-bc22-465ee9353ef9",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 236119,
+      "name": "Léo Legrand",
+      "character": "Timothé Vallas",
+      "profilePath": "/yTdqyHFID2EvZil1PvyYEFMlsID.jpg",
+      "order": 4
+    },
+    {
+      "id": "b846fb65-9785-48f0-978c-917b2baa3991",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 34259,
+      "name": "Jean-Yves Berteloot",
+      "character": "",
+      "profilePath": "/x8uFQOAsLSbWcbRMyItUj2nMZuo.jpg",
+      "order": 5
+    },
+    {
+      "id": "273751b8-1216-486a-9c50-6cd32bc34912",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 6486088,
+      "name": "Gabrielle Taittinger",
+      "character": "Lily Lancaster",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "6aed818a-9b60-40ad-af99-c12a3e593020",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 984598,
+      "name": "Suliane Brahim",
+      "character": "",
+      "profilePath": "/dxUO3EA9xPuj23MWXpFd8Sknv36.jpg",
+      "order": 7
+    },
+    {
+      "id": "19414357-0f1e-4ed6-825c-80ae666b8bc9",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 2981576,
+      "name": "Bryan Trésor",
+      "character": "",
+      "profilePath": "/oKtmb7OrNauvgVUYGb7QlWtRIqj.jpg",
+      "order": 8
+    },
+    {
+      "id": "116ce7d0-c6c2-4581-a36b-ca666b9b37ab",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 4973900,
+      "name": "Aboubacar Bidanessy",
+      "character": "",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "0652ff8c-d638-44b4-8e9f-5cd03936a1de",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 3921802,
+      "name": "Sami Nasri",
+      "character": "",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "52657393-1642-4d62-9b2e-8cc1114c723d",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 6169276,
+      "name": "Adam Abdo",
+      "character": "",
+      "profilePath": "/bRY8dsrQzKPAXtgZieZv04czBr5.jpg",
+      "order": 11
+    },
+    {
+      "id": "1705aa55-6e30-4597-9dfa-a518ab0ebcbe",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 13609,
+      "name": "Alex Descas",
+      "character": "",
+      "profilePath": "/1FUMJTbVflnDR8vZL3J1Hv8f7tV.jpg",
+      "order": 12
+    },
+    {
+      "id": "db1bad80-6dbc-4baa-b20a-ff420eebdafa",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 20526,
+      "name": "Maï Anh Le",
+      "character": "",
+      "profilePath": "/4vZH5hfzY7CZ0Jj0rI6x5vyZZjM.jpg",
+      "order": 13
+    },
+    {
+      "id": "639fd97d-4a80-47b7-87fd-0b95685dabb1",
+      "movieId": "6f0b0e04-a19e-4e5d-b593-51d784ff6b52",
+      "tmdbPersonId": 3955607,
+      "name": "Carla Souary",
+      "character": "",
+      "profilePath": "/wZzuXR4m2HBTozIBzGPeKbMZT28.jpg",
+      "order": 14
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

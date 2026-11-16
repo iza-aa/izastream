@@ -1,0 +1,129 @@
+{
+  "slug": "young-ladies-dont-play-fighting-games-2026",
+  "id": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+  "title": "Young Ladies Don't Play Fighting Games",
+  "overview": "Aya Mitsuki has one goal at the elite Kuromi Girls’ Academy: to become a refined young lady like the school’s flawless “White Lily,” Mio Yorue. But her image of Mio shatters when Aya accidentally catches her...playing fighting games?! Turns out, the elegant Mio is actually a hardcore gamer—and she wants to duel Aya! The battle (and their friendship) begins.",
+  "tagline": null,
+  "posterPath": "/kN8or9S0PLClMR2QKSPJAEi2C3L.jpg",
+  "backdropPath": "/yCRq49YINwI7psAK5VEzbKLLSFk.jpg",
+  "logoPath": "/3voRMTRURsQydV3bgRzIDpGR7cD.png",
+  "firstAirDate": "2026-07-07",
+  "voteAverage": "7.64",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e2710e8c-9125-4730-879f-f5c4ba0a4224",
+      "tvSeriesId": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+      "tmdbPersonId": 2103077,
+      "name": "Ikumi Hasegawa",
+      "character": "Aya Mitsuki (voice)",
+      "profilePath": "/aHLid4WeTafrtfqDRAZSw5K7dTj.jpg",
+      "order": 0
+    },
+    {
+      "id": "fd2cc572-c6df-4e48-b750-feb6f66ddd3e",
+      "tvSeriesId": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+      "tmdbPersonId": 1972402,
+      "name": "Kana Ichinose",
+      "character": "Mio Yorue (voice)",
+      "profilePath": "/hBJx5tpLA2vkXqfkPZosGjW4e8C.jpg",
+      "order": 1
+    },
+    {
+      "id": "6433c8d3-d266-4f83-80ca-1231c9eb3e51",
+      "tvSeriesId": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+      "tmdbPersonId": 1407597,
+      "name": "Sayaka Senbongi",
+      "character": "Yu Inui (voice)",
+      "profilePath": "/yLRKX9DPDGgTRKBQRFTUh3pvbU0.jpg",
+      "order": 2
+    },
+    {
+      "id": "6febb2ab-b1f6-4547-9cee-9a669b71e600",
+      "tvSeriesId": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+      "tmdbPersonId": 1780773,
+      "name": "Shino Shimoji",
+      "character": "Tamaki Ichinose (voice)",
+      "profilePath": "/8T2DboiJA3PC1OLJjhN12o4THYn.jpg",
+      "order": 3
+    },
+    {
+      "id": "f67d9552-dd5c-420d-baae-6fcf0402b7e3",
+      "tvSeriesId": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+      "tmdbPersonId": 1564652,
+      "name": "Maria Naganawa",
+      "character": "Arisa Fujimiya (voice)",
+      "profilePath": "/tt0j0z34Oq3MyvDA3VeizskWcw4.jpg",
+      "order": 4
+    },
+    {
+      "id": "af6430e3-fa48-4d44-9bfb-cc13f95faf09",
+      "tvSeriesId": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+      "tmdbPersonId": 1565358,
+      "name": "Yumiri Hanamori",
+      "character": "Hana Ichinose (voice)",
+      "profilePath": "/zXVwGxsxwEvL1f6wxzTYtxytjDn.jpg",
+      "order": 5
+    },
+    {
+      "id": "3884a148-e4da-448c-936c-78e5626df4d4",
+      "tvSeriesId": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+      "tmdbPersonId": 90137,
+      "name": "Nobuyuki Hiyama",
+      "character": "gekido (voice)",
+      "profilePath": "/yxAzBPZGSzec9rtulmORY84ijzT.jpg",
+      "order": 6
+    },
+    {
+      "id": "4626af5a-708a-4e0d-93f3-05aa2596560a",
+      "tvSeriesId": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+      "tmdbPersonId": 2220797,
+      "name": "Yohei Azakami",
+      "character": "Café Au Lait (voice)",
+      "profilePath": "/rLIqw8pIjVIxPb5engrTbu9iOex.jpg",
+      "order": 7
+    },
+    {
+      "id": "4a4aeaff-8e5f-4c9c-b8b5-5ffc5706c7ad",
+      "tvSeriesId": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+      "tmdbPersonId": 1613379,
+      "name": "Taku Yashiro",
+      "character": "Seshiro (voice)",
+      "profilePath": "/eVdB6myaNJ4h38UU9hHHlsaCWHn.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "c16b86ed-b8df-4998-a38f-c1f20881ffa4",
+      "tvSeriesId": "fdd78a10-2f14-43ad-9002-d4b05123845f",
+      "tmdbId": 177504,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/kN8or9S0PLClMR2QKSPJAEi2C3L.jpg",
+      "airDate": "2026-07-07",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-08T14:17:32.409Z",
+      "updatedAt": "2026-10-08T14:19:08.745Z"
+    }
+  ]
+}

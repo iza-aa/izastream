@@ -1,0 +1,131 @@
+{
+  "slug": "class-crush-crisis-2026",
+  "id": "33d2662b-d043-4bbd-8687-e629036f2861",
+  "title": "Class Crush Crisis",
+  "overview": "After transferring to a top high school, aspiring rock star Leerit vows to avoid romance — but quickly changes his tune when he meets his new roommate.",
+  "tagline": null,
+  "posterPath": "/c0GONDHxQjDYEy46Km333QKiub9.jpg",
+  "backdropPath": "/r8HQOxPBy9fwByVCRYov3xMeOBS.jpg",
+  "logoPath": "/e1QXgSZIOBo91FJlEEWO8tzvlnD.png",
+  "firstAirDate": "2026-07-24",
+  "voteAverage": "8.10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1c7d9848-65c8-4634-ad84-f03e02debcc7",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbPersonId": 5968201,
+      "name": "Aeiyapol Lekpittaya",
+      "character": "Leeith",
+      "profilePath": "/gEyYsicMrDek48kB3JI8DigwnMP.jpg",
+      "order": 0
+    },
+    {
+      "id": "05e01e3f-4a60-4df0-bdfd-585d89b92ed8",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbPersonId": 5968216,
+      "name": "Yannawat Intarapaen",
+      "character": "Putter",
+      "profilePath": "/q1wJbNZKRujCILxiaROIXhG5hUj.jpg",
+      "order": 1
+    },
+    {
+      "id": "83a6eb1e-23a9-4efb-86df-c482cd9b4a93",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbPersonId": 5968215,
+      "name": "Aschawin Jiratisakul",
+      "character": "Indy",
+      "profilePath": "/hrV2INLbuYCQvlFEYNxXEBr4DmD.jpg",
+      "order": 2
+    },
+    {
+      "id": "3f23236a-2591-405d-9720-39facf49d539",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbPersonId": 5968213,
+      "name": "Buffett Wongprasert",
+      "character": "Jia",
+      "profilePath": "/xAJFgPhg3Yr1ufXWxVkUOfgov86.jpg",
+      "order": 3
+    },
+    {
+      "id": "7b16b87f-48c8-43eb-8314-7261779f8f7a",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbPersonId": 5179320,
+      "name": "Chavid Pevec",
+      "character": "Tungtae",
+      "profilePath": "/pbpzhECc7BmQWpyMMpH0iAw8OXC.jpg",
+      "order": 4
+    },
+    {
+      "id": "0a8b2e55-6b5f-4904-b5d8-21d0207457a2",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbPersonId": 5968214,
+      "name": "Sasakrit Rithruangnam",
+      "character": "Yuki",
+      "profilePath": "/6ttfq0uceRO4yRFjzBJQbNz2Vzw.jpg",
+      "order": 5
+    },
+    {
+      "id": "5f6e5040-3dbd-4002-973b-46d987b61a77",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbPersonId": 5968207,
+      "name": "Supanut Satpan",
+      "character": "Nakhun",
+      "profilePath": "/3QUpHfJYvWnLb8rhBIVj2Eppy2z.jpg",
+      "order": 6
+    },
+    {
+      "id": "12afaac0-86a3-40f0-814e-11f927181bd8",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbPersonId": 6346688,
+      "name": "Nudtha Papirom",
+      "character": "Faye",
+      "profilePath": "/fqz1eMhrOQCH7uiK6nIkKCGFAgr.jpg",
+      "order": 7
+    },
+    {
+      "id": "67e97eac-8a73-4f85-b2d6-29773b04054d",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbPersonId": 6346697,
+      "name": "Nararin Udomsithikul",
+      "character": "Proud",
+      "profilePath": "/eeXB8VwkvrmOi6bGH7wbiicwBTJ.jpg",
+      "order": 8
+    },
+    {
+      "id": "d45cda0c-5006-46d1-983e-06ca10b25df2",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbPersonId": 4893013,
+      "name": "Busaya Wanna",
+      "character": "Summer",
+      "profilePath": "/nDPPUEGigTRcKsF8EevQYqZCnsT.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "e0e4d585-138f-46da-9446-d7464fea19f0",
+      "tvSeriesId": "33d2662b-d043-4bbd-8687-e629036f2861",
+      "tmdbId": 497533,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "After transferring to a top high school, aspiring rock star Leerit vows to avoid romance — but quickly changes his tune when he meets his new roommate.",
+      "posterPath": "/c0GONDHxQjDYEy46Km333QKiub9.jpg",
+      "airDate": "2026-07-24",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-08T05:21:41.941Z",
+      "updatedAt": "2026-10-08T05:22:21.921Z"
+    }
+  ]
+}

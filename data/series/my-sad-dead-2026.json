@@ -1,0 +1,104 @@
+{
+  "slug": "my-sad-dead-2026",
+  "id": "70cc0440-35eb-4d98-852f-514b3bfe8168",
+  "title": "My Sad Dead",
+  "overview": "Emma can see the dead. But when her niece arrives, thousands of lives are shaken.",
+  "tagline": null,
+  "posterPath": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
+  "backdropPath": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg",
+  "logoPath": "/baCiWISZB2rb0zjzmR16pb5RZNG.svg",
+  "firstAirDate": "2026-09-24",
+  "voteAverage": "3.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6788cdef-23e7-402b-a3a5-b7082f7e003a",
+      "tvSeriesId": "70cc0440-35eb-4d98-852f-514b3bfe8168",
+      "tmdbPersonId": 18499,
+      "name": "Mercedes Morán",
+      "character": "Ema",
+      "profilePath": "/2r5QQeumzXWoSma6RQrLjiNhHdu.jpg",
+      "order": 0
+    },
+    {
+      "id": "00a31ea6-96af-416e-b362-34ae5fd19d62",
+      "tvSeriesId": "70cc0440-35eb-4d98-852f-514b3bfe8168",
+      "tmdbPersonId": 74909,
+      "name": "Dolores Fonzi",
+      "character": "Julie",
+      "profilePath": "/4axi3Dz8zKK0b1kk54tPOeywb84.jpg",
+      "order": 1
+    },
+    {
+      "id": "4b519c00-a8a6-46c2-9b40-85d1a26e0459",
+      "tvSeriesId": "70cc0440-35eb-4d98-852f-514b3bfe8168",
+      "tmdbPersonId": 239252,
+      "name": "Alejandra Flechner",
+      "character": "",
+      "profilePath": "/d6ocIFKYdauO6sxL3SDBHKLc1O4.jpg",
+      "order": 2
+    },
+    {
+      "id": "e9ec0e7b-93c8-42a3-9b32-7780fb2656a4",
+      "tvSeriesId": "70cc0440-35eb-4d98-852f-514b3bfe8168",
+      "tmdbPersonId": 141571,
+      "name": "Carlos Portaluppi",
+      "character": "",
+      "profilePath": "/eCxnS3mUQoHtBKaMpD5tNXPJfTk.jpg",
+      "order": 3
+    },
+    {
+      "id": "8e547873-87c2-4c09-ae6b-0937176f6af5",
+      "tvSeriesId": "70cc0440-35eb-4d98-852f-514b3bfe8168",
+      "tmdbPersonId": 50928,
+      "name": "Germán de Silva",
+      "character": "",
+      "profilePath": "/h8VzQUosN3LCPd6vkk7GQOrlapC.jpg",
+      "order": 4
+    },
+    {
+      "id": "f2d7bd8b-0bc2-4186-93eb-1b1796b0eaf3",
+      "tvSeriesId": "70cc0440-35eb-4d98-852f-514b3bfe8168",
+      "tmdbPersonId": 141627,
+      "name": "Luz Jiménez",
+      "character": "",
+      "profilePath": "/hW7qD1FMsg4fkUBuSnG8hLV9icC.jpg",
+      "order": 5
+    },
+    {
+      "id": "2862e1cc-36dd-4bd7-9071-09c29f242fad",
+      "tvSeriesId": "70cc0440-35eb-4d98-852f-514b3bfe8168",
+      "tmdbPersonId": 5924591,
+      "name": "Carolina Sánchez Álvarez",
+      "character": "",
+      "profilePath": "/dsxwBzUTxQFcR1h3IkFXnS7AKQE.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "5aef5134-37fd-4750-b74c-dcd7c794a875",
+      "tvSeriesId": "70cc0440-35eb-4d98-852f-514b3bfe8168",
+      "tmdbId": 493331,
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/ojtRXQj7MvVw7oPkJwf0FPp61He.jpg",
+      "airDate": "2026-09-24",
+      "episodeCount": 4,
+      "isPublished": true,
+      "createdAt": "2026-09-25T07:29:19.990Z",
+      "updatedAt": "2026-09-25T07:29:37.016Z"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "slug": "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-2026",
+  "id": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+  "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+  "overview": "Rein spent years enhancing his guildmates’ gear with magic, only to be expelled the moment he enchanted everything. Unfazed, Rein steals back his magic, pours it into his own sword, and makes the best of his newfound freedom as he sets off as an adventurer. Along the way, Rein gathers a band of fellow outcasts and together they fight monsters and carve out their place in an enchanted world.",
+  "tagline": null,
+  "posterPath": "/rncb111IIBmIIO9I9ENW0Xc8mca.jpg",
+  "backdropPath": "/msusxF6ZPGnQmTGXU9iC4UJOohs.jpg",
+  "logoPath": "/icq6GuO0cxICLRiL6RYlen7h3UW.png",
+  "firstAirDate": "2026-10-07",
+  "voteAverage": "9.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a479b18b-af40-4a4f-b17a-b811db63c992",
+      "tvSeriesId": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+      "tmdbPersonId": 1325962,
+      "name": "Daiki Yamashita",
+      "character": "Rein Garland (voice)",
+      "profilePath": "/rQNdJdZewk7VGP16ZNbpfJ9ZeMd.jpg",
+      "order": 0
+    },
+    {
+      "id": "f84dd15d-8ebd-44fc-8b64-6c02cb05e1f4",
+      "tvSeriesId": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+      "tmdbPersonId": 1691384,
+      "name": "Lynn",
+      "character": "Lily Flambert (voice)",
+      "profilePath": "/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg",
+      "order": 1
+    },
+    {
+      "id": "8a2ed4d6-53c7-4c34-89f2-757690ad5d75",
+      "tvSeriesId": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+      "tmdbPersonId": 1643476,
+      "name": "Yoshino Aoyama",
+      "character": "Margaret Ells (voice)",
+      "profilePath": "/yPOprcT7tPKR3p79RMYtogTEXGr.jpg",
+      "order": 2
+    },
+    {
+      "id": "7b918e4f-33e6-47e1-8b1c-eda9db4bab8f",
+      "tvSeriesId": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+      "tmdbPersonId": 1647636,
+      "name": "Miyu Tomita",
+      "character": "Mirabelle (voice)",
+      "profilePath": "/rSR17l4HdchLkhpRuAZbGbXNmUS.jpg",
+      "order": 3
+    },
+    {
+      "id": "c5e9477b-9fc4-42f7-8f0d-799985ef4f92",
+      "tvSeriesId": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+      "tmdbPersonId": 1164931,
+      "name": "Megumi Han",
+      "character": "Elsie Zra (voice)",
+      "profilePath": "/cwnwrPg1YvB19TbfouC4ShGPmbQ.jpg",
+      "order": 4
+    },
+    {
+      "id": "b09e70a3-9253-4169-92fe-7ef73177311a",
+      "tvSeriesId": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+      "tmdbPersonId": 1820616,
+      "name": "Konomi Kohara",
+      "character": "Nina (voice)",
+      "profilePath": "/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg",
+      "order": 5
+    },
+    {
+      "id": "570d6298-a03e-4086-83f4-05d05a14119c",
+      "tvSeriesId": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+      "tmdbPersonId": 1245094,
+      "name": "Nobuhiko Okamoto",
+      "character": "Half (voice)",
+      "profilePath": "/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg",
+      "order": 6
+    },
+    {
+      "id": "3c88ee45-2130-474f-be6b-bffe14606ac5",
+      "tvSeriesId": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+      "tmdbPersonId": 1319218,
+      "name": "Makoto Furukawa",
+      "character": "Cornelius (voice)",
+      "profilePath": "/inLmBZhrqXeE9wlViyK28ocKJSw.jpg",
+      "order": 7
+    },
+    {
+      "id": "e3a2ac8b-a307-48df-b185-a9d2244878ee",
+      "tvSeriesId": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+      "tmdbPersonId": 1089940,
+      "name": "Rie Shibata",
+      "character": "Mother of Assassins (voice)",
+      "profilePath": "/jf4ITLxyDDwTTVHMWEyovbSC8ng.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "fda947d7-fc09-45de-9221-1855af4f6329",
+      "tvSeriesId": "40a07301-b0d5-4ade-95f8-35fb64f55320",
+      "tmdbId": 498972,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/rncb111IIBmIIO9I9ENW0Xc8mca.jpg",
+      "airDate": "2026-10-07",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-21T23:40:02.255Z",
+      "updatedAt": "2026-11-12T03:54:20.784Z"
+    }
+  ]
+}

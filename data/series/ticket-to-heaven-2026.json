@@ -1,0 +1,145 @@
+{
+  "slug": "ticket-to-heaven-2026",
+  "id": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+  "title": "Ticket to Heaven",
+  "overview": "A grieving student pursuing priesthood faces a crisis of faith when he falls for a troubled new classmate in a world ruled by strict dogma.",
+  "tagline": "One… who has lost all faith. one… who is full of unwavering faith.",
+  "posterPath": "/2pPxVn4nK5KnJEx39xUHkYpmqXC.jpg",
+  "backdropPath": "/AqAGgoAlvWGBVAlEvIXTvcETzVG.jpg",
+  "logoPath": "/he97pTe8ARNumoGOajhyyX7zcw8.png",
+  "firstAirDate": "2026-05-30",
+  "voteAverage": "9.30",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "39ec603e-a75d-4310-9a82-4114761ce391",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbPersonId": 3797175,
+      "name": "Norawit Titicharoenrak",
+      "character": "Barth",
+      "profilePath": "/wwGkoto1UDh1nRRvVN3fbUOR3F3.jpg",
+      "order": 0
+    },
+    {
+      "id": "b46c825e-09fd-4cdb-bf34-b1816735f726",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbPersonId": 3345110,
+      "name": "Nattawat Jirochtikul",
+      "character": "Tanrak",
+      "profilePath": "/fi5f0fRp97pG1m10JDfAuPkWS43.jpg",
+      "order": 1
+    },
+    {
+      "id": "e0f3d6dd-47d2-4ef0-9ebb-3b229a252084",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbPersonId": 4325872,
+      "name": "Peerakan Teawsuwan",
+      "character": "Kongdech",
+      "profilePath": "/gnO7ToI4jP6ZYKZfbCHM84pv3KN.jpg",
+      "order": 2
+    },
+    {
+      "id": "ecc9df88-21ae-412f-8c13-7513d4fc81c6",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbPersonId": 1091101,
+      "name": "Oliver Poupart",
+      "character": "Father Arnon",
+      "profilePath": "/udZkRGjKi5LSBjYiNJuUwsVwVDl.jpg",
+      "order": 3
+    },
+    {
+      "id": "37e0f6d8-04b8-4afb-9bae-6f0276e3467b",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbPersonId": 3727912,
+      "name": "Rapheephong Thapsuwan",
+      "character": "Master Phak",
+      "profilePath": "/1QxBINTe5wtYSDXmydPv0Tf6sXW.jpg",
+      "order": 4
+    },
+    {
+      "id": "0c1674d4-46c5-4f8a-8fab-702d0ef2fa51",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbPersonId": 6034408,
+      "name": "Phakawat Tangchatkeaw",
+      "character": "Ryu",
+      "profilePath": "/vDMHGiVWkHSEUlSBPsU6LJXCGOi.jpg",
+      "order": 5
+    },
+    {
+      "id": "6bf7c90d-202e-4f31-bded-bff4bb1ff399",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbPersonId": 3604984,
+      "name": "Supakorn Kantanit",
+      "character": "Prince",
+      "profilePath": "/oPnTENytFGJIRgsUYmJtImsRWAr.jpg",
+      "order": 6
+    },
+    {
+      "id": "e8d56eab-8b49-403f-b378-8d8ed58aeecd",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbPersonId": 5840093,
+      "name": "Chayada Akiyama",
+      "character": "Cherry",
+      "profilePath": "/yMXXSFkdCDdAketac5Jrf2HxC42.jpg",
+      "order": 7
+    },
+    {
+      "id": "697263ef-fbee-475f-984b-b776d52bf3bf",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbPersonId": 5307756,
+      "name": "Thamonchita Narmkool",
+      "character": "Oh",
+      "profilePath": "/aZ88QWZtmpZGAFLYXnziBGlTEJD.jpg",
+      "order": 8
+    },
+    {
+      "id": "175c8f4b-844f-48ce-8b7f-928c330b461c",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbPersonId": 5840098,
+      "name": "Poon Sutarom",
+      "character": "Kongkit",
+      "profilePath": "/owxT2DHkyii92wcDbZ1Ms9eDOjQ.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ff70d68e-bda4-4f22-964f-2e4bb6d3bda0",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbId": 517610,
+      "seasonNumber": 0,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": "/8LUaBmxEO8oD6phwegth0SXM0RL.jpg",
+      "airDate": "2026-05-23",
+      "episodeCount": 1,
+      "isPublished": true,
+      "createdAt": "2026-07-06T16:59:19.503Z",
+      "updatedAt": "2026-07-06T17:03:49.876Z"
+    },
+    {
+      "id": "ee815d47-e65a-4407-91fc-5df2d08b2ac2",
+      "tvSeriesId": "78e272bb-90c2-4f13-82f8-fb8c6d9effd2",
+      "tmdbId": 430503,
+      "seasonNumber": 1,
+      "name": "Limited Series",
+      "overview": "At a Christian school, a religious teen's faith in heaven is challenged when he falls for a new student, a forbidden love that threatens his salvation.",
+      "posterPath": "/mtpw7MDEdg58wfj7P6JbPl7vK4Z.jpg",
+      "airDate": "2026-05-30",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-07-06T16:59:19.503Z",
+      "updatedAt": "2026-07-06T17:03:50.618Z"
+    }
+  ]
+}

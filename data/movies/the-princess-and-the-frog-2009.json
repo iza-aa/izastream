@@ -1,0 +1,430 @@
+{
+  "slug": "the-princess-and-the-frog-2009",
+  "id": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+  "tmdbId": 10198,
+  "imdbId": "tt0780521",
+  "title": "The Princess and the Frog",
+  "originalTitle": "The Princess and the Frog",
+  "overview": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human being, but she has to face the same problem after she kisses him.",
+  "tagline": "Every love story begins with a kiss...",
+  "posterPath": "/yprv5PbnEksoVj2v6XEnDBg9joR.jpg",
+  "backdropPath": "/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
+  "logoPath": "/hUxeC69XhuOL8IGQ1Y2C2yJjeJR.png",
+  "backdrops": [
+    "/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
+    "/z62CBlBBBOoNUuuxZ1jMAcq5ARE.jpg",
+    "/xQACB8usmloU51lhjJCFiskGwZ4.jpg",
+    "/befPnZkOfbDW5s6L2pIl9KPNaTe.jpg",
+    "/26pK0HjoZG6EtHqBg9aVkH7rAEV.jpg",
+    "/eT91bhiqzQF7AxlYtp8Eeg8rqZO.jpg",
+    "/hEOoEk349UjWzbTlS0O6gam1byY.jpg",
+    "/90DkdZLpZOYAj0J5cKnxU8UzFDI.jpg",
+    "/fpldP3BXVWqEEonp0Duzpq7gftP.jpg",
+    "/i9QWJ6EcBPTUiDWk7iCbSgXyA94.jpg"
+  ],
+  "releaseDate": "2009-12-08",
+  "runtime": 98,
+  "voteAverage": "7.24",
+  "popularity": null,
+  "popularityScore": 1571,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=Kw4fSwQbrFo",
+  "quality": "WEB-DL",
+  "director": "Ron Clements",
+  "directorTmdbId": 15810,
+  "directorProfilePath": "/u9k9yg2EGlDsxYo3ehf35yRUfcD.jpg",
+  "productionCompanies": [
+    {
+      "id": 6125,
+      "name": "Walt Disney Animation Studios",
+      "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7376,
+      "name": "princess"
+    },
+    {
+      "id": 3392,
+      "name": "voodoo"
+    },
+    {
+      "id": 2411,
+      "name": "new orleans, louisiana"
+    },
+    {
+      "id": 1946,
+      "name": "restaurant"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 5091,
+      "name": "kiss"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 41538,
+      "name": "turns into animal"
+    },
+    {
+      "id": 155180,
+      "name": "cajun"
+    },
+    {
+      "id": 178902,
+      "name": "firefly"
+    },
+    {
+      "id": 179411,
+      "name": "based on fairy tale"
+    },
+    {
+      "id": 179431,
+      "name": "duringcreditsstinger"
+    },
+    {
+      "id": 181329,
+      "name": "big dreams"
+    },
+    {
+      "id": 192995,
+      "name": "frog prince"
+    },
+    {
+      "id": 197935,
+      "name": "charlatan"
+    },
+    {
+      "id": 207876,
+      "name": "1920s"
+    },
+    {
+      "id": 249692,
+      "name": "magic spell"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 10211,
+  "watchlistCount": 77,
+  "favouriteCount": 38,
+  "shareCount": 6,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-19T13:27:07.813Z",
+  "updatedAt": "2026-10-19T13:27:17.627Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2d4b4980-c93b-49e9-ad9e-df343d8eeb2e",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 15563,
+      "name": "Anika Noni Rose",
+      "character": "Tiana (voice)",
+      "profilePath": "/d7aLtuNXBqVtqNnZl8wXsFV4ML5.jpg",
+      "order": 0
+    },
+    {
+      "id": "e6596067-9263-4a70-bd99-4bee476a6d82",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 66252,
+      "name": "Bruno Campos",
+      "character": "Prince Naveen (voice)",
+      "profilePath": "/lktLbyUXwNX0FV38v0JBJIbbJZr.jpg",
+      "order": 1
+    },
+    {
+      "id": "cd2b0de0-74d7-4cb1-a651-0c38d60df7e5",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 12077,
+      "name": "Jim Cummings",
+      "character": "Ray (voice)",
+      "profilePath": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg",
+      "order": 2
+    },
+    {
+      "id": "4413fa37-d529-4168-aade-eba324034528",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 110884,
+      "name": "Michael-Leon Wooley",
+      "character": "Louis (voice)",
+      "profilePath": "/tMUNtp3xPTHRBUhnOiHcU5sjBDS.jpg",
+      "order": 3
+    },
+    {
+      "id": "9c42e39e-4b72-4809-b653-4eb6fc595d4c",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 65827,
+      "name": "Keith David",
+      "character": "Dr. Facilier (voice)",
+      "profilePath": "/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg",
+      "order": 4
+    },
+    {
+      "id": "61b28ca8-b92e-475c-be3a-ea175b804913",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 110885,
+      "name": "Jennifer Cody",
+      "character": "Charlotte (voice)",
+      "profilePath": "/nQ4t2XhwToiMN8RAPvgrA4QnSbK.jpg",
+      "order": 5
+    },
+    {
+      "id": "58894bef-c2dc-4e72-b8de-650db6dd92b2",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 163711,
+      "name": "Peter Bartlett",
+      "character": "Lawrence (voice)",
+      "profilePath": "/5VH6NXCaxpNLhPoP7mpSxvQrIXJ.jpg",
+      "order": 6
+    },
+    {
+      "id": "85f77e6e-ed3a-4d10-82d9-01dd54b9335e",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 15899,
+      "name": "Jenifer Lewis",
+      "character": "Mama Odie (voice)",
+      "profilePath": "/htrTYcoJQQpSYo6BrRehe3h46vo.jpg",
+      "order": 7
+    },
+    {
+      "id": "840ee9c0-8d95-4296-9ad3-95fa88f6645c",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 13309,
+      "name": "Oprah Winfrey",
+      "character": "Eudora (voice)",
+      "profilePath": "/yDhUR16sjDOfzonhuZ3RxVNsseU.jpg",
+      "order": 8
+    },
+    {
+      "id": "9cec5c66-8b0d-45fe-8ddf-a9cebc2f80f7",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 1230,
+      "name": "John Goodman",
+      "character": "\"Big Daddy\" La Bouff (voice)",
+      "profilePath": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg",
+      "order": 9
+    },
+    {
+      "id": "5ca2b9a6-5c0d-4d8f-af72-07a2a1594381",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 18288,
+      "name": "Terrence Howard",
+      "character": "James (voice)",
+      "profilePath": "/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg",
+      "order": 10
+    },
+    {
+      "id": "0f614764-c36c-42d1-b4bb-2e80fa53dc03",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 52885,
+      "name": "Ritchie Montgomery",
+      "character": "Reggie (voice)",
+      "profilePath": "/5uAXhfX10ImQYl47I04yrL3zQAk.jpg",
+      "order": 11
+    },
+    {
+      "id": "02b09888-bba7-4fc3-86b4-513a53694a17",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 227439,
+      "name": "Don Hall",
+      "character": "Darnell (voice)",
+      "profilePath": "/wT8rqrI65ROqwuJUGEv1A0rLoE0.jpg",
+      "order": 12
+    },
+    {
+      "id": "2de33aa3-55bc-4e8e-a81b-57465132bb51",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 1340669,
+      "name": "Paul Briggs",
+      "character": "Two Fingers (voice)",
+      "profilePath": "/zikrXrtToA7BEe0Gb1EQKVkfcvx.jpg",
+      "order": 13
+    },
+    {
+      "id": "2aa27c84-eca6-4631-9fea-6e66658b35a8",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 1001821,
+      "name": "Jerry Kernion",
+      "character": "Mr. Henry Fenner (voice)",
+      "profilePath": "/kE9nWTYRIT3UAtxZcn80qKrrdOD.jpg",
+      "order": 14
+    },
+    {
+      "id": "a378d828-f9e6-4300-b1d4-9aba405a2df4",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 35219,
+      "name": "Corey Burton",
+      "character": "Mr. Harvey Fenner (voice)",
+      "profilePath": "/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg",
+      "order": 15
+    },
+    {
+      "id": "14264ef8-dfc0-4760-8ddd-b5b47ff9618d",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 1615558,
+      "name": "Elizabeth Dampier",
+      "character": "Young Tiana (voice)",
+      "profilePath": "/2dbbKLsAHW42T92bo7kRjfiviyz.jpg",
+      "order": 16
+    },
+    {
+      "id": "fbcb72fb-0084-41d2-93c6-c1321c9a2544",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 1615559,
+      "name": "Breanna Brooks",
+      "character": "Young Charlotte (voice)",
+      "profilePath": "/wxbFvBKG4MIO4dd7iblJYlfPjB4.jpg",
+      "order": 17
+    },
+    {
+      "id": "517b320b-d988-48af-a11a-e6e966ed0673",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 54430,
+      "name": "Michael Colyar",
+      "character": "Buford (voice)",
+      "profilePath": "/eG4ojLYkXY84hRQnfqysnZzl2H4.jpg",
+      "order": 18
+    },
+    {
+      "id": "7443dd61-7b9d-4a30-aa93-42f76ac4994e",
+      "movieId": "ee9e5e87-fb40-4df2-b846-e5b655b1dac9",
+      "tmdbPersonId": 183758,
+      "name": "Emeril Lagasse",
+      "character": "Marlon the Gator (voice)",
+      "profilePath": "/2OIqWhqa0h3z87XqLZTZrUo5tlV.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "ciimpotie",
+    "displayName": "mmpotie"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

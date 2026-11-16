@@ -1,0 +1,95 @@
+{
+  "slug": "a-beautiful-obsession-2026",
+  "id": "b236d774-88e4-4413-b710-9c46ec937e14",
+  "title": "A Beautiful Obsession",
+  "overview": "An intimate, raw portrait of Manchester City FC across two era-defining seasons. With unprecedented access, the film follows their worst run in decades and fightback to glory.",
+  "tagline": null,
+  "posterPath": "/7AHxWOiqK2O7eJ9JBvQO1VFZbZi.jpg",
+  "backdropPath": "/7njPyi756M62jBDHaVFivyqWsGO.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-08-19",
+  "voteAverage": "9.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 4,
+  "genres": [
+    {
+      "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+      "tmdbId": 99,
+      "name": "Documentary",
+      "slug": "documentary",
+      "createdAt": "2026-04-02T13:53:46.408Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "584a0c85-0de1-4186-9cbb-2f2f2ce0c16b",
+      "tvSeriesId": "b236d774-88e4-4413-b710-9c46ec937e14",
+      "tmdbPersonId": 2013564,
+      "name": "Pep Guardiola",
+      "character": "",
+      "profilePath": "/f6Hs7XswTeyc9jueD1LTQbSsp1p.jpg",
+      "order": 0
+    },
+    {
+      "id": "20651605-858e-4b77-9351-fcdb3378fa91",
+      "tvSeriesId": "b236d774-88e4-4413-b710-9c46ec937e14",
+      "tmdbPersonId": 2910734,
+      "name": "Erling Haaland",
+      "character": "",
+      "profilePath": "/1axFpLnlxRr27659yFu2e399DnR.jpg",
+      "order": 1
+    },
+    {
+      "id": "02bb3534-a689-4a38-9e2b-ac7eb0b9bcd0",
+      "tvSeriesId": "b236d774-88e4-4413-b710-9c46ec937e14",
+      "tmdbPersonId": 3672400,
+      "name": "Phil Foden",
+      "character": "",
+      "profilePath": "/7AMgihdNcwyksAJgtN0k1oRC5Qm.jpg",
+      "order": 2
+    },
+    {
+      "id": "dbfb41a8-65a8-4f32-8def-a8b1b0846fb8",
+      "tvSeriesId": "b236d774-88e4-4413-b710-9c46ec937e14",
+      "tmdbPersonId": 3212446,
+      "name": "Kevin de Bruyne",
+      "character": "",
+      "profilePath": "/pXw4IlUAuF36zAiKodH5MoiN3o6.jpg",
+      "order": 3
+    },
+    {
+      "id": "b4636252-54e4-485f-9eb8-6d3bd3ec5b3f",
+      "tvSeriesId": "b236d774-88e4-4413-b710-9c46ec937e14",
+      "tmdbPersonId": 6352375,
+      "name": "Rodri",
+      "character": "",
+      "profilePath": "/uRfe70bostVAS0OblsZwqllIzsA.jpg",
+      "order": 4
+    },
+    {
+      "id": "061f4ed0-71e8-4e1b-a8e3-a394f586f5e9",
+      "tvSeriesId": "b236d774-88e4-4413-b710-9c46ec937e14",
+      "tmdbPersonId": 2968880,
+      "name": "Kyle Walker",
+      "character": "",
+      "profilePath": "/ulutdAyYX3GLifabP8ADfy5I6lf.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d9b0c5ea-db09-4495-bbc3-b5a9f2187bc3",
+      "tvSeriesId": "b236d774-88e4-4413-b710-9c46ec937e14",
+      "tmdbId": 536983,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-08-19",
+      "episodeCount": 4,
+      "isPublished": true,
+      "createdAt": "2026-08-20T18:09:23.968Z",
+      "updatedAt": "2026-08-20T18:11:51.304Z"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "saga-of-tanya-the-evil-2017",
+  "id": "1d42440e-3c2f-4228-88fc-733122dddd54",
+  "title": "Saga of Tanya the Evil",
+  "overview": "On the front lines of the war, Tanya Degurechaff, blond hair, blue eyes, and porcelain white skin, commands her squad with lisping voice. Actually, she is one of Japan's most elite salary men, reborn as a little girl into a world of magical warfare after angering a mysterious being who calls himself God.",
+  "tagline": null,
+  "posterPath": "/5nwiHomKZBBF9DLrolfZapi3fDm.jpg",
+  "backdropPath": "/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
+  "logoPath": "/3cIrY4MdwYlTFzqaozc3vnCUd9d.png",
+  "firstAirDate": "2017-01-06",
+  "voteAverage": "8.20",
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "1de0078f-f038-4fba-87f2-c36e7584a1cb",
+      "tmdbId": 10752,
+      "name": "War",
+      "slug": "war",
+      "createdAt": "2026-04-02T13:49:04.263Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7eb05391-bab8-4ede-8678-b8bfe31314f7",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbPersonId": 936275,
+      "name": "Aoi Yuuki",
+      "character": "Tanya Degurechaff (voice)",
+      "profilePath": "/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg",
+      "order": 0
+    },
+    {
+      "id": "72de5ce7-69f9-468f-8494-473dd3f8800b",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbPersonId": 221773,
+      "name": "Saori Hayami",
+      "character": "Viktoriya Ivanovna Serebryakova (voice)",
+      "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg",
+      "order": 1
+    },
+    {
+      "id": "06ce4b7f-8e7a-4a0d-a869-6e8d268fde39",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbPersonId": 62318,
+      "name": "Shin-ichiro Miki",
+      "character": "Erich von Rerugen (voice)",
+      "profilePath": "/yL9Tx2HZgK7t5AssYl6oGE9bjdj.jpg",
+      "order": 2
+    },
+    {
+      "id": "d4f46354-b0fe-4e10-b4ac-c5bfd8f9d3c5",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbPersonId": 1681,
+      "name": "Tessyo Genda",
+      "character": "Kurt von Rudersdorf (voice)",
+      "profilePath": "/7eJeYv2OCHKAadeFVdabVkpWldo.jpg",
+      "order": 3
+    },
+    {
+      "id": "2dcdcaa5-226d-4cbf-9ce9-1326c6beeda8",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbPersonId": 552683,
+      "name": "Hochu Otsuka",
+      "character": "Hans von Zettour (voice)",
+      "profilePath": "/3RHQcrsWnAFK6AifSis1lMq08cR.jpg",
+      "order": 4
+    },
+    {
+      "id": "71fec463-4d75-41ce-86a9-19b04caa0322",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbPersonId": 1991242,
+      "name": "Daiki Hamano",
+      "character": "Matheus Johann Weiss (voice)",
+      "profilePath": "/bykeH3Rhmx9PPFegYNi6s310cNa.jpg",
+      "order": 5
+    },
+    {
+      "id": "777e8730-4867-4e6c-9294-1c086c8a3928",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbPersonId": 1221143,
+      "name": "Nobuo Tobita",
+      "character": "Adelheid von Schugel (voice)",
+      "profilePath": "/8p47dHvcEvr7CPYIHpxlQcpZmtm.jpg",
+      "order": 6
+    },
+    {
+      "id": "a03b1658-95c3-472b-928f-5669979c459a",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbPersonId": 1222060,
+      "name": "Kenyu Horiuchi",
+      "character": "Anson Sioux (voice)",
+      "profilePath": "/qIsrjSbtdhmmUdd3xvpDHNWRuJp.jpg",
+      "order": 7
+    },
+    {
+      "id": "9ac1d767-8530-45e4-9ab8-5f3b48d3a94b",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbPersonId": 224454,
+      "name": "Hideaki Tezuka",
+      "character": "Existence X (voice)",
+      "profilePath": "/9zJhLamvMx9cUgBAl8i0lmXUfo0.jpg",
+      "order": 8
+    },
+    {
+      "id": "88040aff-cda2-41ee-983f-a27156c0124c",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbPersonId": 1248340,
+      "name": "Haruka Tomatsu",
+      "character": "Mary Sioux (voice)",
+      "profilePath": "/geVvuA2zMGE5xzfc20aDelJSelu.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4c76c479-8a9e-41ab-9d7d-a7bce067dfb9",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbId": 83302,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/c2ZDFHN0rcT8sng5gOPwHRfdNC1.jpg",
+      "airDate": "2017-01-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-28T06:54:36.648Z",
+      "updatedAt": "2026-09-28T16:24:56.915Z"
+    },
+    {
+      "id": "2e02928f-6d94-49b5-bd31-cf33aca1682a",
+      "tvSeriesId": "1d42440e-3c2f-4228-88fc-733122dddd54",
+      "tmdbId": 468384,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "With the establishment of the Salamander Kampfgruppe, the recently-promoted Lieutenant Colonel Tanya von Degurechaff's all-too-brief respite at the rear lines is over, and she's once again shipped to the front lines. This time, she's being once again stationed to the east, where she'll have to handle the Federation's seemingly endless manpower amid harsh weather conditions that wreak havoc on the Empire's war machine. Meanwhile, the gears of world war are still turning, and the other great powers are not happy about the imperial successes...",
+      "posterPath": "/yl58pHRoPx2WRZcCjCHJFZh2azO.jpg",
+      "airDate": "2026-07-08",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-28T06:54:36.648Z",
+      "updatedAt": "2026-09-28T16:25:00.598Z"
+    }
+  ]
+}

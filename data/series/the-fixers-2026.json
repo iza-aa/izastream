@@ -1,0 +1,116 @@
+{
+  "slug": "the-fixers-2026",
+  "id": "b4157b4b-76c6-4118-8d2c-d8ee41d01052",
+  "title": "The Fixers",
+  "overview": "A washed-up gangster reluctantly teams up with an arrogant political heir to become \"fixers\", cleaning up dangerous secrets for both sides of the law.",
+  "tagline": null,
+  "posterPath": "/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
+  "backdropPath": "/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
+  "logoPath": "/7DBM6onx9uwJAVrvalrKZbxVM0k.png",
+  "firstAirDate": "2026-09-17",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "96aea31b-da17-472b-b837-61a03c8e4410",
+      "tvSeriesId": "b4157b4b-76c6-4118-8d2c-d8ee41d01052",
+      "tmdbPersonId": 112477,
+      "name": "Christopher Lee",
+      "character": "",
+      "profilePath": "/8QvDvbUxkwhbrWHr3Po6liw1jAX.jpg",
+      "order": 0
+    },
+    {
+      "id": "2c3a6a82-3350-4f0e-a934-f992bd2e7d81",
+      "tvSeriesId": "b4157b4b-76c6-4118-8d2c-d8ee41d01052",
+      "tmdbPersonId": 3353541,
+      "name": "Shou Lou",
+      "character": "",
+      "profilePath": "/7IAgKBtCJw9ubH4TdLLtIuldoLX.jpg",
+      "order": 1
+    },
+    {
+      "id": "9910d3a9-9226-43a0-9829-fdf1a320612a",
+      "tvSeriesId": "b4157b4b-76c6-4118-8d2c-d8ee41d01052",
+      "tmdbPersonId": 2874730,
+      "name": "Regina Lei",
+      "character": "",
+      "profilePath": "/gnd2t2Ya9AfAKAlOovqXZbMVXp2.jpg",
+      "order": 2
+    },
+    {
+      "id": "4bbadc61-ede2-4ad1-b7cd-91b365b7e9cb",
+      "tvSeriesId": "b4157b4b-76c6-4118-8d2c-d8ee41d01052",
+      "tmdbPersonId": 2033784,
+      "name": "Fu Meng-po",
+      "character": "",
+      "profilePath": "/efznd3HAadw6hF9Ir9Xz1xEyFif.jpg",
+      "order": 3
+    },
+    {
+      "id": "a97b7fcf-7ed2-4166-b98c-3436e9063069",
+      "tvSeriesId": "b4157b4b-76c6-4118-8d2c-d8ee41d01052",
+      "tmdbPersonId": 1366128,
+      "name": "Tou Tsung-hua",
+      "character": "",
+      "profilePath": "/pLbLftVzy5A1BkYlET2gb563WeV.jpg",
+      "order": 4
+    },
+    {
+      "id": "c1f3cace-a61c-4292-8bb4-7732fddf42b5",
+      "tvSeriesId": "b4157b4b-76c6-4118-8d2c-d8ee41d01052",
+      "tmdbPersonId": 1583536,
+      "name": "Chang Yung-cheng",
+      "character": "",
+      "profilePath": "/mI3yeAyFHFikNqglp92tlICMHQQ.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "aae5241a-11e9-4807-aae4-8903d1907f32",
+      "tvSeriesId": "b4157b4b-76c6-4118-8d2c-d8ee41d01052",
+      "tmdbId": 497666,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/yq5UFV98lMatSh0nNSCDTDzf60T.jpg",
+      "airDate": "2026-09-17",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-18T07:12:06.689Z",
+      "updatedAt": "2026-09-18T07:14:21.382Z"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "slug": "bangkok-dog-2024",
+  "id": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+  "tmdbId": 1314369,
+  "imdbId": "tt32368033",
+  "title": "Bangkok Dog",
+  "originalTitle": "Bangkok Dog",
+  "overview": "Agent Andrew Kang is sent to Thailand on a dangerous undercover mission to take down the human trafficking ring run by the sadistic crimelord Dominick Mesias. His street smarts and fighting skills win over the local gangsters and he rises up the Bangkok underworld but the closer he gets to cracking the case, the more he loses himself in the role.",
+  "tagline": "Infiltrate. Expose. Eliminate.",
+  "posterPath": "/9N0wRpjRsKZBZuBHaTPwIRyIvgQ.jpg",
+  "backdropPath": "/dez48MfvRrMvTu5H47c5qaE0IPm.jpg",
+  "logoPath": "/sKjru2m0JzP5PuGthiaXV1y7Wld.png",
+  "backdrops": [
+    "/dez48MfvRrMvTu5H47c5qaE0IPm.jpg",
+    "/gOp1vwhSZFr7vpSLGM5bmlTEt4J.jpg",
+    "/cdUHA4pJCcU0U2qVVKZ5pCB5tQB.jpg",
+    "/o5exrXyPHznuxAryMErDXEBnZ8S.jpg",
+    "/qXVCrvErts2VCJYNJzi9jcrLpPt.jpg",
+    "/jh9lO5VrMh6SfIteBMLPCgA977z.jpg",
+    "/t9weC3sDOtYNdKOiwNll34dVm4X.jpg",
+    "/uk7Q0sAdbAhg5h3xESzNcQ5V8NN.jpg",
+    "/2UDWjtjUzK7W3OpHeaO1TJHPiQK.jpg",
+    "/zDNUq0BQka6EEKSYxc6du2AnEge.jpg"
+  ],
+  "releaseDate": "2024-12-06",
+  "runtime": 89,
+  "voteAverage": "5.60",
+  "popularity": "1.150",
+  "popularityScore": 5,
+  "originalLanguage": "en",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=gFLRZshiLgU",
+  "quality": "WEB-DL",
+  "director": "Chaya Supannarat",
+  "directorTmdbId": null,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 1872,
+      "name": "Bleiberg Entertainment",
+      "logo_path": "/559H3L3CP1dJsHLSS3XSe5GNkW0.png"
+    },
+    {
+      "id": 185718,
+      "name": "Rock Solid Productions",
+      "logo_path": null
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 435,
+  "watchlistCount": 2,
+  "favouriteCount": 0,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-04-02T14:16:50.767Z",
+  "updatedAt": "2026-04-02T14:16:50.767Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "44fe6f71-a179-4fab-ad79-3dcbc44772ef",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 1466559,
+      "name": "D.Y. Sao",
+      "character": "Andrew Kang",
+      "profilePath": "/1CRoavLS9F5qvJBxos3wVzBblAd.jpg",
+      "order": 0
+    },
+    {
+      "id": "e9875039-5094-48c5-a906-4903a7c758f1",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 2410189,
+      "name": "Brian Le",
+      "character": "Benz Wu",
+      "profilePath": "/cdtKmPpmBrnVAiqFQVE4urxu0ko.jpg",
+      "order": 1
+    },
+    {
+      "id": "4c34bb7c-b99e-477e-a66f-ee291457c9c1",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 1636925,
+      "name": "Jenny Philomena",
+      "character": "Kaitlyn Liu",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "ff332bc0-10a7-4c5f-ab55-4d97947ef1dc",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 94392,
+      "name": "Byron Bishop",
+      "character": "Charn Chai Yoodee",
+      "profilePath": "/niGZtLYRLFtOvphsAmI7N8UcKDj.jpg",
+      "order": 3
+    },
+    {
+      "id": "4f9abc2f-f7e5-4fd0-b305-0643f8a31b6c",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 521673,
+      "name": "Sahajak Boonthanakit",
+      "character": "Dominic Mesias",
+      "profilePath": "/a36MI02S0f11bJZjBoxkZTsUDAK.jpg",
+      "order": 4
+    },
+    {
+      "id": "06cebdaf-1b8a-4ce6-b61b-db222e2f4b94",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 5350505,
+      "name": "Charlie Onken",
+      "character": "John Hunter",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "ba8cc602-6b88-4ad5-9ba5-e3b0b03e9962",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 4164422,
+      "name": "Elliott Allison",
+      "character": "Joshua Ross",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "19a785b9-d123-47ba-a11c-4e4ce7cf4b16",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 3911984,
+      "name": "Tofan Pirani",
+      "character": "Chopper",
+      "profilePath": "/izDUH8YihvwclQJuRf7OtE6BHAe.jpg",
+      "order": 7
+    },
+    {
+      "id": "474d354d-cedc-455f-857f-a3361543dac8",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 955264,
+      "name": "Ron Smoorenburg",
+      "character": "Vega",
+      "profilePath": "/5oXVFByoJXq5WdelBb0uI5VEUak.jpg",
+      "order": 8
+    },
+    {
+      "id": "9c187f7f-0801-4045-8b12-482450d28bbb",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 1673827,
+      "name": "Chatchawan Kamonsakpitak",
+      "character": "Debtor",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "315b8286-c6c3-4b37-af4d-fcd0854fc70f",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 1820088,
+      "name": "Bear Williams",
+      "character": "My Man",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "99cd8b3a-ff08-4f6d-b2ec-cb9993fcecbf",
+      "movieId": "a40c6dc4-b046-47fe-8b22-e1546ace46f0",
+      "tmdbPersonId": 2150689,
+      "name": "Chen Chen Julian",
+      "character": "Nurse",
+      "profilePath": "/tbaZ6HKKoZ3kWV478w2tCNQ1dKA.jpg",
+      "order": 11
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

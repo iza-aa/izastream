@@ -1,0 +1,100 @@
+{
+  "slug": "delusion-2026",
+  "id": "b11b3073-b720-4269-81db-d5c5f1b5f64b",
+  "title": "Delusion",
+  "overview": "When her father's worsening dementia makes him a prime suspect in a murder case, a small-town school teacher races to uncover the truth amid dark rumors.",
+  "tagline": "When someone you love becomes someone else, can you still trust what you see?",
+  "posterPath": "/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+  "backdropPath": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-09-24",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "cfdc28ab-6784-4c1a-9446-cbd4b1722b67",
+      "tvSeriesId": "b11b3073-b720-4269-81db-d5c5f1b5f64b",
+      "tmdbPersonId": 1346092,
+      "name": "Natapohn Tameeruks",
+      "character": "Wan",
+      "profilePath": "/sc2urJsf6dwc8JriC9EVtdtqlXA.jpg",
+      "order": 0
+    },
+    {
+      "id": "403980b8-a6cf-46da-a043-430320a8acab",
+      "tvSeriesId": "b11b3073-b720-4269-81db-d5c5f1b5f64b",
+      "tmdbPersonId": 1344068,
+      "name": "Jespipat Tilapornputt",
+      "character": "Pete",
+      "profilePath": "/10V8i4nuVRvEOcx2HQdW8TZjIpb.jpg",
+      "order": 1
+    },
+    {
+      "id": "53ea9074-6e92-46e1-a91a-806337c42420",
+      "tvSeriesId": "b11b3073-b720-4269-81db-d5c5f1b5f64b",
+      "tmdbPersonId": 3034495,
+      "name": "Surasak Chaiaat",
+      "character": "Narong",
+      "profilePath": "/rT8V1l9vnkMSw4R5YOHmXtri0dy.jpg",
+      "order": 2
+    },
+    {
+      "id": "5188c5f6-be77-4971-86ba-464316925132",
+      "tvSeriesId": "b11b3073-b720-4269-81db-d5c5f1b5f64b",
+      "tmdbPersonId": 1834147,
+      "name": "Vachiravit Paisarnkulwong",
+      "character": "Wat",
+      "profilePath": "/aZv2DtHFNHLJFN0bfM7wpC4LjNV.jpg",
+      "order": 3
+    },
+    {
+      "id": "73323b19-17ae-4abb-b972-d08ff1ac1963",
+      "tvSeriesId": "b11b3073-b720-4269-81db-d5c5f1b5f64b",
+      "tmdbPersonId": 3131643,
+      "name": "Sirani Yankittikan",
+      "character": "",
+      "profilePath": null,
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "c3b85b2d-9d96-4107-8ad3-9f264f8580ac",
+      "tvSeriesId": "b11b3073-b720-4269-81db-d5c5f1b5f64b",
+      "tmdbId": 537037,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/aJboceWct3FYptVPavlhUOjiiSe.jpg",
+      "airDate": "2026-09-24",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-09-25T07:27:44.514Z",
+      "updatedAt": "2026-09-25T07:29:08.994Z"
+    }
+  ]
+}

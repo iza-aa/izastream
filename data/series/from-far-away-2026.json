@@ -1,0 +1,159 @@
+{
+  "slug": "from-far-away-2026",
+  "id": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+  "title": "From Far Away",
+  "overview": "Noriko is an ordinary high school student, until an explosion pulls her into a world of magic where no one speaks her language. Completely lost, Noriko is rescued by Izark, a shunned swordsman determined to kill the Awakening: a prophesied figure said to control the Sky Demon. As Izark and Noriko bond, he realizes she may be the very person he’s hunting.",
+  "tagline": null,
+  "posterPath": "/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
+  "backdropPath": "/inwM4LXqXYYauU1eJkfJ6uDkV11.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-10-05",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "743e028b-8966-4bb6-9b3b-63abca3af3ac",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbPersonId": 1309253,
+      "name": "Tomoyo Kurosawa",
+      "character": "Noriko Tachiki (voice)",
+      "profilePath": "/eSRnva88YVcUXlDHdVrhier2SGU.jpg",
+      "order": 0
+    },
+    {
+      "id": "7ab3d55b-211f-4d81-abbf-7458304feb50",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbPersonId": 1975220,
+      "name": "Kentaro Kumagai",
+      "character": "Izark Kia Tarj (voice)",
+      "profilePath": "/hsSdTc4PBuLOQedZMsTS6AHvC8l.jpg",
+      "order": 1
+    },
+    {
+      "id": "eaef411f-f84d-4fe1-a7c9-c339ae96758e",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbPersonId": 1483496,
+      "name": "Yuuichirou Umehara",
+      "character": "Rachef (voice)",
+      "profilePath": "/lScrvZi4tKKpk3PbnIjLVjHVNJn.jpg",
+      "order": 2
+    },
+    {
+      "id": "4dddd7ce-3e50-40bc-acab-b5e1bbeefa58",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbPersonId": 1597101,
+      "name": "Eiji Takeuchi",
+      "character": "Keimos Lee Goda (voice)",
+      "profilePath": "/1qMbZGM7i9oEiHQvInY14UNZ2gk.jpg",
+      "order": 3
+    },
+    {
+      "id": "c66d8feb-b77e-4b97-8d2e-68dfeaeb64c1",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbPersonId": 1241603,
+      "name": "Kimiko Saito",
+      "character": "Gaya (voice)",
+      "profilePath": "/rPP0jCjtLuEEroY3e2aRT8zonYK.jpg",
+      "order": 4
+    },
+    {
+      "id": "e2a21608-fecd-4741-be1d-b0a321ad4ad2",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbPersonId": 1530921,
+      "name": "Miku Ito",
+      "character": "Gina Haas (voice)",
+      "profilePath": "/q2y0SbBKNeVLf5obxixFmmiM4hQ.jpg",
+      "order": 5
+    },
+    {
+      "id": "772305b3-25c9-4d23-854e-dc39b8198aa6",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbPersonId": 1241505,
+      "name": "Kujira",
+      "character": "Zena (voice)",
+      "profilePath": "/dL2u3VyRBswwTEW4E8lbsHbqzeZ.jpg",
+      "order": 500
+    },
+    {
+      "id": "aee4c1ec-2113-4372-b2d2-7e5a178068fd",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbPersonId": 1221105,
+      "name": "Tadashi Miyazawa",
+      "character": "Gorya (voice)",
+      "profilePath": "/oTKVqD3r6j4d264ifrxoH1ibxDb.jpg",
+      "order": 501
+    },
+    {
+      "id": "2f5ebefd-7ae3-40b5-bfa7-3e9f78c695cd",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbPersonId": 2845549,
+      "name": "Taisuke Nakano",
+      "character": "Agol (voice)",
+      "profilePath": "/zBNyZKcQzNO59Z66LK9e2AKSLWl.jpg",
+      "order": 502
+    },
+    {
+      "id": "8a6b5782-0d60-4d08-bcd0-7f1bbdbec2a3",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbPersonId": 2616889,
+      "name": "Kaoru Sakura",
+      "character": "Himari (voice)",
+      "profilePath": "/yFM3gkrWcraZFE3IQsf7cyliBbj.jpg",
+      "order": 503
+    }
+  ],
+  "seasons": [
+    {
+      "id": "7b1eebc7-fa29-4bc5-afa3-f7bcb876510f",
+      "tvSeriesId": "507d7623-8ebb-46d4-8e74-ed6d24d8ad0e",
+      "tmdbId": 531057,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
+      "airDate": "2026-10-05",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-10-20T01:49:24.814Z",
+      "updatedAt": "2026-11-10T07:14:42.238Z"
+    }
+  ]
+}

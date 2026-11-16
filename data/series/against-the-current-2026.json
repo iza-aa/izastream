@@ -1,0 +1,138 @@
+{
+  "slug": "against-the-current-2026",
+  "id": "3b421bb8-7bb6-48c3-9909-e54620095746",
+  "title": "Against the Current",
+  "overview": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned by her fiancé Lin Jinqi, she is forced to assume a servant's identity in his household. Despite hardships, she refuses to bow to fate. With resilience and wit, she rises above class barriers, wins Lin Jinqi's heart, earns the family's respect, and ultimately clears her family's name.",
+  "tagline": null,
+  "posterPath": "/euBlF64efQmsl2y54LeNmLQPNob.jpg",
+  "backdropPath": "/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
+  "logoPath": "/rQZBBKsTg0Ztzofr5lFmNZvli9t.png",
+  "firstAirDate": "2026-09-11",
+  "voteAverage": "7.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a41b66af-f719-45eb-9ec4-835b5b68b449",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbPersonId": 1614218,
+      "name": "Tan Songyun",
+      "character": "Xu Lanxiang / Shen Jialan",
+      "profilePath": "/4HJFzfLjIAmqLakN29AQisFyjSU.jpg",
+      "order": 0
+    },
+    {
+      "id": "065348c7-101c-40fb-93de-490dc70fc3bd",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbPersonId": 2084467,
+      "name": "Liu Xueyi",
+      "character": "Lin Jinqi",
+      "profilePath": "/zJG3K9Ey4EJp9p2wu88UchkgRG0.jpg",
+      "order": 1
+    },
+    {
+      "id": "caff14a2-b07c-483d-8274-a3e38dc4be69",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbPersonId": 554266,
+      "name": "Chen Chuang",
+      "character": "Xu Wanquan",
+      "profilePath": "/kZrrGc0oBBRNN4fAHUJ2X1dYmhX.jpg",
+      "order": 502
+    },
+    {
+      "id": "91b23858-74c9-490a-acca-f6a4f6b299a7",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbPersonId": 554082,
+      "name": "Guo Keyu",
+      "character": "Xue Guihua",
+      "profilePath": "/y9216qAseV8tR6PWQVYA9zL2dAP.jpg",
+      "order": 503
+    },
+    {
+      "id": "22b92b80-52aa-4b03-924f-2bc604808242",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbPersonId": 1721000,
+      "name": "Hou Changrong",
+      "character": "Lin Zhaoxiang",
+      "profilePath": "/qxLcjTqP2DFaKXfUrQ4CNSAoKQd.jpg",
+      "order": 505
+    },
+    {
+      "id": "f205899e-f852-4e5f-ab92-f20c3fc7d627",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbPersonId": 4294331,
+      "name": "Wang Hongxin",
+      "character": "Nanke",
+      "profilePath": "/2rhAiHHcLgsKp7QULHz1mE6PIOD.jpg",
+      "order": 515
+    },
+    {
+      "id": "02686539-22a1-46ca-82c6-16c7dc84c3fc",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbPersonId": 4510273,
+      "name": "Pan Yihong",
+      "character": "Jiugao",
+      "profilePath": "/5lKTCBZkEMSOTenV1N0aoNTVegZ.jpg",
+      "order": 516
+    },
+    {
+      "id": "9a653282-d85e-4bc8-9d16-3f43daca4b32",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbPersonId": 2790196,
+      "name": "Ye Xiaowei",
+      "character": "Du Zheng",
+      "profilePath": "/8QnpQz5KF9rocqga1jJJfCNTTDg.jpg",
+      "order": 517
+    },
+    {
+      "id": "25c0791f-d382-4d73-8a8b-2b4e29aae30f",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbPersonId": 4657520,
+      "name": "Kong Lingmei",
+      "character": "Qin Shunhua",
+      "profilePath": "/7FggOMFa88H7q8ovnTj7iBn73cQ.jpg",
+      "order": 522
+    },
+    {
+      "id": "f92024ee-1a8b-4eb2-9af4-d28c550e8d95",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbPersonId": 1174686,
+      "name": "Li Meng",
+      "character": "Zhao Xingtang",
+      "profilePath": "/uMOoic1tyHlzFFG4NdCsiDXZKE1.jpg",
+      "order": 523
+    }
+  ],
+  "seasons": [
+    {
+      "id": "b6820459-9aac-4968-a2e5-ab21d9f04fae",
+      "tvSeriesId": "3b421bb8-7bb6-48c3-9909-e54620095746",
+      "tmdbId": 438471,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/aIrAxzyyl0VzOay5ollPvQWUfqJ.jpg",
+      "airDate": "2026-09-11",
+      "episodeCount": 47,
+      "isPublished": true,
+      "createdAt": "2026-10-10T05:14:50.871Z",
+      "updatedAt": "2026-10-10T05:22:46.583Z"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "minerva-academy-2026",
+  "id": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+  "title": "Minerva Academy",
+  "overview": "At Minerva Military High School, teens navigate discipline, rivalry and family pressure as a young cadet searches for answers about his missing friend.",
+  "tagline": null,
+  "posterPath": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+  "backdropPath": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+  "logoPath": "/jNoYbHU2oC1njpCTqSILbte0bXK.png",
+  "firstAirDate": "2026-09-22",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "010af615-1b52-4658-9995-c47107e0ff6a",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbPersonId": 5108556,
+      "name": "Ciro Minopoli",
+      "character": "Salvo",
+      "profilePath": "/vp06rGTK0lVtpabzA1dQ6G5yo31.jpg",
+      "order": 0
+    },
+    {
+      "id": "a5163a63-ac46-41e4-86e6-0b2bd5cb2cde",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbPersonId": 6363808,
+      "name": "Nicole Malaj",
+      "character": "",
+      "profilePath": "/4jk6G1Y6Vop2Fzc2rLZkxy43bmT.jpg",
+      "order": 1
+    },
+    {
+      "id": "338eb915-f9f0-444e-85b7-c3f5e741c859",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbPersonId": 6363809,
+      "name": "Gaia Garavaglia",
+      "character": "Benny",
+      "profilePath": "/8WYS9VtQrUKuk5YwhyeiORdYW2V.jpg",
+      "order": 2
+    },
+    {
+      "id": "e48c40fd-b5d2-4f5d-a857-03b176ff996e",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbPersonId": 2242726,
+      "name": "Michele Rosiello",
+      "character": "",
+      "profilePath": "/qfUTAhrVVAFIGz7qDzLCqaTwfkq.jpg",
+      "order": 3
+    },
+    {
+      "id": "5a9da9f5-fda3-4414-9e4f-b0b8d8e661bd",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbPersonId": 78533,
+      "name": "Cristiana Capotondi",
+      "character": "",
+      "profilePath": "/AaBpxxInx9u0eItSRyDDec6sh0S.jpg",
+      "order": 4
+    },
+    {
+      "id": "4d066bf5-2616-4969-af18-88c8ae9817bc",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbPersonId": 1916673,
+      "name": "Irene Maiorino",
+      "character": "",
+      "profilePath": "/8WmjhMAOgx7dP9T3BZpnRxA6viZ.jpg",
+      "order": 5
+    },
+    {
+      "id": "6f930760-6a0c-48b9-aaa3-4e76662e2f34",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbPersonId": 124624,
+      "name": "Massimiliano Gallo",
+      "character": "",
+      "profilePath": "/stBoRhASHWEMCjG2EeC6PMlJGab.jpg",
+      "order": 6
+    },
+    {
+      "id": "33de5b80-ba95-40e9-8b70-5497440a2513",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbPersonId": 2649928,
+      "name": "Giulio Brizzi",
+      "character": "",
+      "profilePath": "/gibZXGc7yhtQpHhidfg15KY4axQ.jpg",
+      "order": 7
+    },
+    {
+      "id": "346bd16d-36ed-4897-bf15-9b89b44a077e",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbPersonId": 4324906,
+      "name": "Biagio Venditti",
+      "character": "Vincenzo",
+      "profilePath": "/B0tJLv3OLSetxM34omNKor3Gs8.jpg",
+      "order": 8
+    },
+    {
+      "id": "8c1f5e8c-4f1e-45f2-8863-6c477fd74e40",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbPersonId": 2569934,
+      "name": "Andrea Giannini",
+      "character": "Padre Vincenzo",
+      "profilePath": "/9WJmrOAWcb1Cyeg94Hl8JbYpqCr.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "49399202-376a-4c79-971d-fc592c217ece",
+      "tvSeriesId": "1d3d9ef5-84a1-45b7-be63-915af87f87dc",
+      "tmdbId": 497510,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/mVXUJjlOSiYMpApFoPyWTnqBhUm.jpg",
+      "airDate": "2026-09-22",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-22T20:59:41.056Z",
+      "updatedAt": "2026-09-22T21:02:10.416Z"
+    }
+  ]
+}

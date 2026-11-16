@@ -1,0 +1,129 @@
+{
+  "slug": "in-my-prime-2026",
+  "id": "19778f36-5830-4101-97ed-7a7378286da7",
+  "title": "In My Prime",
+  "overview": "In a small 1980s town, two families face an unexpected child swap between Qi Shi, a courageous girl with albinism, and Cao Xin, a disciplined boy seen as perfect. As they navigate identity, family, and love, both children and parents confront personal and societal challenges. Together, they struggle through hardships to find happiness and belonging in a changing world.",
+  "tagline": null,
+  "posterPath": "/5fvUpmY1JJiOz1HNG4QnNmacNIc.jpg",
+  "backdropPath": "/7HXIhc3aRr1v7KmOrCulszXf3YP.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-09-03",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f25ef0ab-71a5-4aba-8360-4e4572d51c53",
+      "tvSeriesId": "19778f36-5830-4101-97ed-7a7378286da7",
+      "tmdbPersonId": 1686977,
+      "name": "Guan Xiaotong",
+      "character": "Qi Shi",
+      "profilePath": "/b48jZXCEzBLMHZoTuAHLMXayWqE.jpg",
+      "order": 0
+    },
+    {
+      "id": "1d9ef8d9-c264-466d-b4c6-ce52cdec2be5",
+      "tvSeriesId": "19778f36-5830-4101-97ed-7a7378286da7",
+      "tmdbPersonId": 1989508,
+      "name": "Wang Ziqi",
+      "character": "Cao Xin",
+      "profilePath": "/wWhppGVSVEQLCSbZdRQIJSoeu9V.jpg",
+      "order": 1
+    },
+    {
+      "id": "6e492de5-7004-4d34-b9a3-61d8db6357fd",
+      "tvSeriesId": "19778f36-5830-4101-97ed-7a7378286da7",
+      "tmdbPersonId": 2227790,
+      "name": "Liu Lin",
+      "character": "Huo Qinglian",
+      "profilePath": "/zTwp8XHRHwQHiko0vWYbLZzAKD3.jpg",
+      "order": 2
+    },
+    {
+      "id": "01881137-b917-47b4-863a-5bb4e3e2d74a",
+      "tvSeriesId": "19778f36-5830-4101-97ed-7a7378286da7",
+      "tmdbPersonId": 548608,
+      "name": "Guo Tao",
+      "character": "Qi Aihua",
+      "profilePath": "/5MZW82Bw5hif66xcBgwx9Lvxkdo.jpg",
+      "order": 3
+    },
+    {
+      "id": "3fec3312-1f12-4a82-b2a9-5a6552172c7f",
+      "tvSeriesId": "19778f36-5830-4101-97ed-7a7378286da7",
+      "tmdbPersonId": 116636,
+      "name": "Guo Xiaodong",
+      "character": "Cao Dongfang",
+      "profilePath": "/8CqQFvETwz0FpJyDvKnIMBN3Obj.jpg",
+      "order": 4
+    },
+    {
+      "id": "2f59d45e-601a-434d-8ffc-165b0bbc86f4",
+      "tvSeriesId": "19778f36-5830-4101-97ed-7a7378286da7",
+      "tmdbPersonId": 2038274,
+      "name": "Zou Yuanqing",
+      "character": "Cao Si",
+      "profilePath": "/pA8nMQ3reTq376Oi2RIZ9Yr2QMn.jpg",
+      "order": 5
+    },
+    {
+      "id": "5f924685-cdf0-42cd-83a4-731c097252ad",
+      "tvSeriesId": "19778f36-5830-4101-97ed-7a7378286da7",
+      "tmdbPersonId": 3337937,
+      "name": "Leng Jiyuan",
+      "character": "Qi Zhi",
+      "profilePath": "/vR0fyowY42KYRv0VluPwTlRBqCy.jpg",
+      "order": 6
+    },
+    {
+      "id": "9f91d26e-55e0-4105-a4c1-533ede5a32ee",
+      "tvSeriesId": "19778f36-5830-4101-97ed-7a7378286da7",
+      "tmdbPersonId": 3217775,
+      "name": "Hei Ze",
+      "character": "Zhou Xuanyu",
+      "profilePath": "/jwnyFeHxu6QYsFv98u2nUyvpZhZ.jpg",
+      "order": 7
+    },
+    {
+      "id": "c47a9197-3edd-414a-bee9-c7e7b91bc1e8",
+      "tvSeriesId": "19778f36-5830-4101-97ed-7a7378286da7",
+      "tmdbPersonId": 2048196,
+      "name": "Huo Qing",
+      "character": "Cao Benshun",
+      "profilePath": "/ftF9OgkIeWIWTix6peR402KpQAo.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ece4b8d2-2e6c-4712-b7b0-56e1316f918a",
+      "tvSeriesId": "19778f36-5830-4101-97ed-7a7378286da7",
+      "tmdbId": 446856,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/sViD3lw1iNhYC1iU5LRNFdLdkXX.jpg",
+      "airDate": "2026-09-03",
+      "episodeCount": 28,
+      "isPublished": true,
+      "createdAt": "2026-09-22T17:27:23.187Z",
+      "updatedAt": "2026-09-23T15:02:36.136Z"
+    }
+  ]
+}

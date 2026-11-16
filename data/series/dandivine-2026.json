@@ -1,0 +1,159 @@
+{
+  "slug": "dandivine-2026",
+  "id": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+  "title": "Dandivine",
+  "overview": "Twenty years have passed since the combining robot Dandivine repelled the mysterious enemy known as the Aposdoll. The world was at peace, but the toy manufacturer Kasuga, which once took the world by storm through its Dandivine toy line, was in a steady decline due to an over-reliance on the franchise. Genjuro Shijima, the president of Kasga, now yearns for the resurrection of Dandivine, even if it means disturbing the peace of the world. As if his desire reached the heavens, an Aposdoll appears in Tokyo once again.",
+  "tagline": null,
+  "posterPath": "/hQQ3kZQxPC7Y2m6jEfDYhoIOgVY.jpg",
+  "backdropPath": "/v4HLZ8FsBeYPjMBQZ1JFgrhkhG8.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-10-08",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c29b6281-29ba-4fd2-8684-c22fffd63b9b",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbPersonId": 222350,
+      "name": "Takuma Terashima",
+      "character": "Gekiha Shijima (voice)",
+      "profilePath": "/n5uCihb318AzQCT9gieMlI2ueYL.jpg",
+      "order": 0
+    },
+    {
+      "id": "cd7ac791-743a-4c1f-8327-1a56c771de5f",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbPersonId": 1124536,
+      "name": "Haruka Shiraishi",
+      "character": "Akane Kuzumi (voice)",
+      "profilePath": "/hrQxTVNGLi3jXC7v4kETArpA0dV.jpg",
+      "order": 1
+    },
+    {
+      "id": "e082da8a-ec5e-49eb-b7b9-6eadd06c1f1a",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbPersonId": 2467933,
+      "name": "Saya Aizawa",
+      "character": "Kirei Shijima (voice)",
+      "profilePath": "/3QoVKl1w7uBMf5ivJ4MccYkt4zR.jpg",
+      "order": 2
+    },
+    {
+      "id": "b7e88d4d-1b7e-4db5-8c38-3f110820bc57",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbPersonId": 1168909,
+      "name": "Nao Toyama",
+      "character": "Haru (voice)",
+      "profilePath": "/6WJDd1z946yFfZBgpC7dWi0FyQw.jpg",
+      "order": 3
+    },
+    {
+      "id": "7acfcfba-bbf2-4d60-91e6-4a5183e46bbd",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbPersonId": 1762671,
+      "name": "Aya Yamane",
+      "character": "Natsu (voice)",
+      "profilePath": "/va0XORY6VchoceyqywJ4KxsVN5s.jpg",
+      "order": 4
+    },
+    {
+      "id": "3e882f75-474c-472c-b856-91213397ef1e",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbPersonId": 151182,
+      "name": "Misaki Kuno",
+      "character": "Aki (voice)",
+      "profilePath": "/hVtE4gdKaqofYZmXXtlJs4Q9XTL.jpg",
+      "order": 5
+    },
+    {
+      "id": "e1b7ecd9-9d75-4c3a-9d22-f3dca13f597f",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbPersonId": 1849550,
+      "name": "Asuna Tomari",
+      "character": "Go Sera (voice)",
+      "profilePath": "/1UrGvjjGi5p0GvVugjbzGutU6vu.jpg",
+      "order": 6
+    },
+    {
+      "id": "ed23dfda-8346-44b7-aa99-bcf7d5f9e498",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbPersonId": 24647,
+      "name": "Katsuyuki Konishi",
+      "character": "Yusaku Kuroiwa (voice)",
+      "profilePath": "/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg",
+      "order": 7
+    },
+    {
+      "id": "16df1282-3dd4-4a14-be4f-f0905083a9bf",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbPersonId": 89878,
+      "name": "Ryotaro Okiayu",
+      "character": "Daigo Shijima (voice)",
+      "profilePath": "/qbj3cFQqWwZ6x7S1jEpOJa57sEZ.jpg",
+      "order": 8
+    },
+    {
+      "id": "c10081e3-6d44-4b17-a343-93b390d3ff00",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbPersonId": 1252647,
+      "name": "Atsushi Ono",
+      "character": "Genjuro Shijima (voice)",
+      "profilePath": "/z7aVt5gmkiQ8wV6GcOUU7dFpms4.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d9af1f2d-6dac-4d1d-bc40-e475257eadbf",
+      "tvSeriesId": "7cde82ec-18de-4699-972e-4bb5525b97c1",
+      "tmdbId": 519057,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/hQQ3kZQxPC7Y2m6jEfDYhoIOgVY.jpg",
+      "airDate": "2026-10-08",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-25T05:33:18.778Z",
+      "updatedAt": "2026-11-14T05:28:32.235Z"
+    }
+  ]
+}

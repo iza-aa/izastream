@@ -1,0 +1,315 @@
+{
+  "slug": "chompoo-lost-and-forgotten-2026",
+  "id": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+  "tmdbId": 1741201,
+  "imdbId": "tt39750720",
+  "title": "Chompoo: Lost​ &​ Forgotten​",
+  "originalTitle": "คดีชมพู่:​ เด็กหายที่ถูกลืม",
+  "overview": "When a young girl vanishes from a remote village, the frantic police hunt become a media frenzy. But who turned a suspected criminal into a celebrity?",
+  "tagline": "The suspect who became a celebrity?",
+  "posterPath": "/hrbzPEGyu33JyepFvSe6EkN35yq.jpg",
+  "backdropPath": "/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/rQ6tQBa9AL5MtACakhYKSDZ3sV4.jpg"
+  ],
+  "releaseDate": "2026-08-20",
+  "runtime": 85,
+  "voteAverage": "6.50",
+  "popularity": null,
+  "popularityScore": 36,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "WEB-DL",
+  "director": "Nontawat Numbenchapol",
+  "directorTmdbId": 1188818,
+  "directorProfilePath": "/7fgfk02DJ6OQLMublJQJ16tOHd3.jpg",
+  "productionCompanies": [
+    {
+      "id": 71519,
+      "name": "Beach House Pictures",
+      "logo_path": "/tp2GdaPoC7f0pY8ekGFqoedD4U4.png"
+    },
+    {
+      "id": 8972,
+      "name": "Thai Films Works",
+      "logo_path": null
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1695,
+  "watchlistCount": 8,
+  "favouriteCount": 2,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-08-21T17:30:15.576Z",
+  "updatedAt": "2026-08-21T17:30:24.822Z",
+  "genres": [
+    {
+      "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+      "tmdbId": 99,
+      "name": "Documentary",
+      "slug": "documentary",
+      "createdAt": "2026-04-02T13:53:46.408Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "2f1051e0-a8af-4d34-85ed-a212fc1dd8f4",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 5488556,
+      "name": "Tanawat Tantiwaleeawat",
+      "character": "Uncle Phol",
+      "profilePath": null,
+      "order": 0
+    },
+    {
+      "id": "84244c82-4e45-4ea5-8bcd-a2b0de0b59a5",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 1266096,
+      "name": "Karin Sirirungnapat",
+      "character": "Nong Chompoo",
+      "profilePath": null,
+      "order": 1
+    },
+    {
+      "id": "9a8f7957-7f9b-449a-9d90-b20dc45970d0",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 5154856,
+      "name": "Sirisawat Kaewdam",
+      "character": "Aunt Taen",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "aa081ef1-7349-4f33-a2d9-4e72030706ab",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 5892206,
+      "name": "Laksanayaporn Sriutta",
+      "character": "Aunt Thon",
+      "profilePath": null,
+      "order": 3
+    },
+    {
+      "id": "a40fc9bc-9754-4cf7-85c3-fdd9e1f64ea1",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 4866787,
+      "name": "Phetkasem Suriyawongwongsa",
+      "character": "Anamai",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "f5df4e0d-365f-4d81-9a65-12f917fecb11",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 5054707,
+      "name": "Somchai Mahachaicharoen",
+      "character": "Father Bam",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "7b39c9df-258a-4fbc-a611-e3565e706146",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 6297418,
+      "name": "Tanyatorn Kraikitithanawath",
+      "character": "Sawitree",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "c4543021-dba8-4baa-88c8-42fc18ed8f0f",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 3603266,
+      "name": "Sutree Chanachai",
+      "character": "Uncle Mok",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "b6d49f72-0483-4114-9a24-3be3b733830f",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 5473887,
+      "name": "Nelda Jeamton",
+      "character": "Nong Sading",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "516f9586-596e-45d4-a092-f20f6a3b59cd",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 3800698,
+      "name": "Werawat Jumroensarn",
+      "character": "Monk Boonma",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "7fd0deff-d39e-4952-a570-01c5ed4fc565",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 5234921,
+      "name": "Panya Khamchanwong",
+      "character": "Forest Officer 1",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "00539565-6ba7-4d83-aee4-051c213f4b75",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 5167364,
+      "name": "Pattarnon Chailangkarn",
+      "character": "Forest Officer 2",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "700ef9bc-c14b-4358-9270-2cc61fbe0302",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 3820891,
+      "name": "Sarawut Chamchoy",
+      "character": "Journalist 1",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "5f62f815-cf6a-49d7-9010-f02b081c7d51",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 4649083,
+      "name": "Suwat Kaewpuang",
+      "character": "Journalist 2",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "69fd6b23-a91e-490b-91ca-2b57b36629b3",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 4630882,
+      "name": "Boonsong Koetdat",
+      "character": "Police 1",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "964dc11b-6dc6-4ad9-b313-4b4255da8232",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 5476457,
+      "name": "Winai Permpoon",
+      "character": "Police 2",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "44ad4ff4-405c-4aa7-ad35-e498e0d9bec2",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 5475735,
+      "name": "Buncha Prasitsuk",
+      "character": "Shaman",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "4ee18cce-d4d2-457b-b1e7-8fb6c152b586",
+      "movieId": "e13cc877-fbd0-4e19-a8fc-d72eab69dba0",
+      "tmdbPersonId": 1284731,
+      "name": "Karuna Looktumthong",
+      "character": "Traditional Healer",
+      "profilePath": null,
+      "order": 17
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

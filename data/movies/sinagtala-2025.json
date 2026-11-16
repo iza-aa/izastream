@@ -1,0 +1,336 @@
+{
+  "slug": "sinagtala-2025",
+  "id": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+  "tmdbId": 1457516,
+  "imdbId": "tt36349782",
+  "title": "Sinagtala",
+  "originalTitle": "Sinagtala",
+  "overview": "The stage is set. The music is loud. But behind the melody lies a story of dreams, struggles, and unbreakable bonds.",
+  "tagline": null,
+  "posterPath": "/ue2LoNhfUribWQameJ9Pk2LLOvb.jpg",
+  "backdropPath": "/3rUlD7jL9n81n1TfhADN6Cu630f.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/3rUlD7jL9n81n1TfhADN6Cu630f.jpg",
+    "/4MB3xovXcYtiEpSWHiaiQ4vKUVp.jpg"
+  ],
+  "releaseDate": "2025-04-02",
+  "runtime": 104,
+  "voteAverage": "0.00",
+  "popularity": null,
+  "popularityScore": 19,
+  "originalLanguage": "tl",
+  "country": "PH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=c1ZG2cfkulw",
+  "quality": "WEB-DL",
+  "director": "Mike Sandejas",
+  "directorTmdbId": 1457358,
+  "directorProfilePath": "/uSiW9q1wQHwyGrkkRDdp9HW6HF4.jpg",
+  "productionCompanies": [
+    {
+      "id": 168598,
+      "name": "Sinagtala Productions",
+      "logo_path": null
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 347,
+  "watchlistCount": 3,
+  "favouriteCount": 0,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-29T13:41:00.826Z",
+  "updatedAt": "2026-09-29T13:41:24.068Z",
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a03f12cc-16af-4e65-9833-f8ea23305750",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 576037,
+      "name": "Glaiza de Castro",
+      "character": "Paola",
+      "profilePath": "/diaNHAI1Ch2OkE7GGxxTZFNG1gB.jpg",
+      "order": 0
+    },
+    {
+      "id": "0456b274-768e-48cd-a6aa-e1915370a5dc",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 227980,
+      "name": "Rhian Ramos",
+      "character": "June",
+      "profilePath": "/fVQ8WMMUqP69r3d4adBiF4KLqE3.jpg",
+      "order": 1
+    },
+    {
+      "id": "7a37da38-26a4-4728-89ab-2c7a20517428",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 565246,
+      "name": "Rayver Cruz",
+      "character": "Reggie",
+      "profilePath": "/glg7i9ukHSJIbbU8DZRWU1H9SCQ.jpg",
+      "order": 2
+    },
+    {
+      "id": "e13ae12d-f9fb-475a-9049-50167d662fae",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 1222583,
+      "name": "Arci Muñoz",
+      "character": "Carla",
+      "profilePath": "/bTeFIgLrAVlM9Lbav9fTPG3Caam.jpg",
+      "order": 3
+    },
+    {
+      "id": "1c3bf254-901f-419e-adeb-b54cc7e6c419",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 1503619,
+      "name": "Matt Lozano",
+      "character": "Isko",
+      "profilePath": "/A4p4O60nJhBAkBaHPJS9Ms24MPT.jpg",
+      "order": 4
+    },
+    {
+      "id": "83ea3da6-3769-4fdd-a035-c9605c309ea9",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 591049,
+      "name": "Ricky Davao",
+      "character": "Primo Estrella",
+      "profilePath": "/f4FfwdPWzkf5jBwwAROK7Gh47cu.jpg",
+      "order": 5
+    },
+    {
+      "id": "3ab2ff17-0aa0-4ab1-9dc4-9524b70a728d",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 223190,
+      "name": "Benjie Paras",
+      "character": "Bayani",
+      "profilePath": "/jbQXvfqeP8nScY5mhOWxvwDyOPV.jpg",
+      "order": 6
+    },
+    {
+      "id": "18bd7e2e-703d-4194-9215-d58f3f6b6a9e",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 1359786,
+      "name": "Robert Seña",
+      "character": "Gus",
+      "profilePath": "/uStLR1mZ17U1K4sr3MtjaoUSdpv.jpg",
+      "order": 7
+    },
+    {
+      "id": "a8a92405-e766-45bf-9009-9e1c532e0e37",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 1373999,
+      "name": "Malou Crisologo",
+      "character": "Yaya",
+      "profilePath": "/qiJQn0w0FIXNB1xXOcDK8jDnUiC.jpg",
+      "order": 8
+    },
+    {
+      "id": "b71d848c-1029-4027-b5e7-216a09fa8079",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 1113658,
+      "name": "Ashley Rivera",
+      "character": "Mara",
+      "profilePath": "/uQNyaV1TqYKAQAXI4NDhUwtzqAv.jpg",
+      "order": 9
+    },
+    {
+      "id": "0d2c487f-8134-4452-914a-6e117690c4ef",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 1488964,
+      "name": "Elijah Alejo",
+      "character": "Anika",
+      "profilePath": "/d7Tl0wpiuKIxUFJQgGxsg4gZURD.jpg",
+      "order": 10
+    },
+    {
+      "id": "2595e48f-1047-4bdf-b60e-b71600decc73",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 5361649,
+      "name": "Haley Dizon",
+      "character": "Carla's Friend",
+      "profilePath": "/bpCjimJ3OmncroFp8jfsuNsGUwj.jpg",
+      "order": 11
+    },
+    {
+      "id": "2dba61ae-f8ab-405f-acd3-f690d354bda2",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 5361650,
+      "name": "Camille Guzman",
+      "character": "Carla's Friend",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "97e223e4-63be-4cfe-a738-5eafe8e50183",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 1129369,
+      "name": "Raul Morit",
+      "character": "Dodong",
+      "profilePath": "/24ZKhkc2GC5hxkJpvi5KXMsDVsr.jpg",
+      "order": 13
+    },
+    {
+      "id": "265e1819-6cab-42a8-8e3d-8a7282221222",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 1493836,
+      "name": "Giovanni Baldisseri",
+      "character": "Buddy",
+      "profilePath": "/iwX48EUf2c85LqcBSWoGzFgbJyc.jpg",
+      "order": 14
+    },
+    {
+      "id": "416c1bb4-1221-4509-8d16-a991858eff2b",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 1519727,
+      "name": "Jun Nayra",
+      "character": "Buddy",
+      "profilePath": "/YIeGH6ShyyJBseFWb7R2iqAgCV.jpg",
+      "order": 15
+    },
+    {
+      "id": "bab15117-589e-49f2-a196-227f10d120e7",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 5361654,
+      "name": "Luna Maria Garcia",
+      "character": "Doctor",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "71caa7c5-64ea-401c-a5a5-01f714d92485",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 5072842,
+      "name": "Sean Judd",
+      "character": "Billy",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "86017534-95cb-4558-a499-e7ffd245e15d",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 5327340,
+      "name": "Brianna Advincula",
+      "character": "Mikee",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "2d9ade7b-9bce-4171-9b70-8ef4dd076176",
+      "movieId": "fc3de4cb-b08a-4c70-aab3-67e3874a94fe",
+      "tmdbPersonId": 5361657,
+      "name": "Dennielle Pendilla",
+      "character": "Alice",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

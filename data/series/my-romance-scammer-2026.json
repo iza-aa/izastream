@@ -1,0 +1,131 @@
+{
+  "slug": "my-romance-scammer-2026",
+  "id": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+  "title": "My Romance Scammer",
+  "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
+  "tagline": null,
+  "posterPath": "/sOXqyyyNaGnnCkucCnP5RHcjwho.jpg",
+  "backdropPath": "/iqmvZWm1gn6j1vC86GU4e2D8z5A.jpg",
+  "logoPath": "/bxNSUyA2sxfvaQNzrkTTZzceSoM.png",
+  "firstAirDate": "2026-02-01",
+  "voteAverage": "7.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "fd5a1ac1-521f-4173-b924-8dc51942e1c9",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbPersonId": 3367062,
+      "name": "Poon Mitpakdee",
+      "character": "North",
+      "profilePath": "/3LEkSk2uCGbT0NbYBbTzZZaTDqO.jpg",
+      "order": 0
+    },
+    {
+      "id": "9a199e2f-f203-4609-8525-5999a3437f1b",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbPersonId": 3573257,
+      "name": "Jiruntanin Trairattanayon",
+      "character": "Pai",
+      "profilePath": "/4iqZtvg5ZZMiaUmloluPFiMnPTR.jpg",
+      "order": 1
+    },
+    {
+      "id": "d0fb08a5-a059-4e8f-9bf8-8fca15f1a4c6",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbPersonId": 2453356,
+      "name": "Thitiwat Ritprasert",
+      "character": "Yu",
+      "profilePath": "/tgGx0iqe4itX5mJi4fMcSIx4Dmu.jpg",
+      "order": 2
+    },
+    {
+      "id": "90ce58db-875a-468b-851d-08fc64c61595",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbPersonId": 3455290,
+      "name": "Panachai Sriariyarungruang",
+      "character": "Tim",
+      "profilePath": "/aucLoUNUHBfEYtWiQewskbC9TkZ.jpg",
+      "order": 3
+    },
+    {
+      "id": "1e2ba1f3-a31d-438b-a4d4-f01ee18fe24a",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbPersonId": 3096285,
+      "name": "Ploynira Hiruntaveesin",
+      "character": "Nana",
+      "profilePath": "/d5lypeYLx6hufjx0Iftz8EakHzv.jpg",
+      "order": 4
+    },
+    {
+      "id": "cfebea0b-5e98-4248-8471-40f2bf438e9d",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbPersonId": 3028905,
+      "name": "Thanawin Teeraphosukarn",
+      "character": "Pure",
+      "profilePath": "/hP5vHthG5cMPYTMDcZh6gw24EiT.jpg",
+      "order": 5
+    },
+    {
+      "id": "ac8b83df-adaf-49e3-8f38-6de03984b75c",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbPersonId": 2720168,
+      "name": "Weerayut Chansook",
+      "character": "Prem",
+      "profilePath": "/jfzSJwWZARkH1UTVBwQyvZBx4oG.jpg",
+      "order": 6
+    },
+    {
+      "id": "dfab5c09-5138-4842-9670-7be8470a64bb",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbPersonId": 2098562,
+      "name": "Kirati Puangmalee",
+      "character": "Kuea",
+      "profilePath": "/i9kD0NPIr4DEswK7n4rvSNzu8rF.jpg",
+      "order": 7
+    },
+    {
+      "id": "3af39cb3-5457-4d90-83c7-8ee27ada5c10",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbPersonId": 1342899,
+      "name": "Sarocha Watittapan",
+      "character": "Oom",
+      "profilePath": "/hmNxh6uufKcwOkq14L0DwKbvTPr.jpg",
+      "order": 8
+    },
+    {
+      "id": "8186519b-7290-4227-b156-12231f1ec10c",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbPersonId": 3529019,
+      "name": "Pijika Jittaputta",
+      "character": "Kia",
+      "profilePath": "/qZDm7Xf2DCr5NyCpupCC35Ug5g5.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "a4448a0f-4db0-405f-8655-fc0309f8dc3a",
+      "tvSeriesId": "9a84eddd-1df9-4083-907c-884c8bbaee12",
+      "tmdbId": 430502,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "After marrying a con artist for love, a billionaire heir must navigate a messy prenuptial trap while his cousin falls for another scammer.",
+      "posterPath": "/uzyPSFbii41d3AyNlHV10xYAhg.jpg",
+      "airDate": "2026-02-01",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-05-18T03:26:51.753Z",
+      "updatedAt": "2026-05-18T03:27:56.466Z"
+    }
+  ]
+}

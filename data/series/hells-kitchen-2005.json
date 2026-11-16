@@ -1,0 +1,159 @@
+{
+  "slug": "hells-kitchen-2005",
+  "id": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+  "title": "Hell's Kitchen",
+  "overview": "Aspiring restaurateurs brave Ramsay and his fiery command of the kitchen as he puts the competitors through an intense culinary academy to prove they possess the right combination of ingredients to win a life-changing grand prize.",
+  "tagline": "He's no angel.",
+  "posterPath": "/shOVFku8daIGRpgjTdMZBxUAvsV.jpg",
+  "backdropPath": "/kitfuCa2TqX6oY5HvdFRjMMaLwc.jpg",
+  "logoPath": "/fYRzVKvqCeFMOby2L16Fg5J86E.png",
+  "firstAirDate": "2005-05-30",
+  "voteAverage": "6.82",
+  "numberOfSeasons": 3,
+  "numberOfEpisodes": 379,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "29478aea-5065-4fb0-acde-ce7b90cd12ed",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbPersonId": 208630,
+      "name": "Gordon Ramsay",
+      "character": "Self - Chef",
+      "profilePath": "/72LCF6OLi95odUlqtDi8vAcW3zw.jpg",
+      "order": 0
+    },
+    {
+      "id": "6aebe7c7-6a4c-4523-ba47-df1a97c1a16f",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbPersonId": 1244611,
+      "name": "Tana Ramsay",
+      "character": "Self",
+      "profilePath": "/AuSbUqA2qSFRPZABfWINgrDlnKd.jpg",
+      "order": 528
+    },
+    {
+      "id": "b3334dac-d852-4ab0-9136-33a43132da3a",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbPersonId": 2250626,
+      "name": "Matilda Ramsay",
+      "character": "Self",
+      "profilePath": "/nOoUpl9bVe1JqPv6gZm0DF2Vmmx.jpg",
+      "order": 529
+    },
+    {
+      "id": "98a74d14-fbac-41f3-88d0-71e5ce91dfd8",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbPersonId": 2250629,
+      "name": "Jack Ramsay",
+      "character": "Self",
+      "profilePath": null,
+      "order": 530
+    },
+    {
+      "id": "e1342078-9af4-4ccb-b9a5-e69dee02bbaf",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbPersonId": 2250628,
+      "name": "Holly Ramsay",
+      "character": "Self",
+      "profilePath": null,
+      "order": 531
+    },
+    {
+      "id": "6f6f046f-9da6-47b9-875f-eeff098e3310",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbPersonId": 2250627,
+      "name": "Megan Ramsay",
+      "character": "Self",
+      "profilePath": null,
+      "order": 532
+    },
+    {
+      "id": "3f7e5f8d-e118-49f4-973c-7f0e3a95d8e6",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbPersonId": 1215462,
+      "name": "Wolfgang Puck",
+      "character": "Self - Chef",
+      "profilePath": "/evI2ceNpjJfGVQxnrXdeAAFBaLa.jpg",
+      "order": 623
+    },
+    {
+      "id": "387b1b13-8603-4b07-8726-48a30dcc815a",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbPersonId": 4066332,
+      "name": "Josiah Citrin",
+      "character": "Self - Guest Chef",
+      "profilePath": null,
+      "order": 654
+    },
+    {
+      "id": "7d59083b-e44b-4efc-b902-a6e6eff6ad95",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbPersonId": 4066337,
+      "name": "David Lefevre",
+      "character": "Self - Guest Chef",
+      "profilePath": null,
+      "order": 657
+    },
+    {
+      "id": "7dcf87c7-4d10-47f9-8716-3ece3e672d63",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbPersonId": 4029130,
+      "name": "Michael Cimarusti",
+      "character": "Self - Guest Chef",
+      "profilePath": "/2tozYHpERYVPJSvTiHDdEVwnFF9.jpg",
+      "order": 664
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d75e336b-13cf-49f2-afce-d1effeb0ef29",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbId": 352001,
+      "seasonNumber": 22,
+      "name": "The American Dream",
+      "overview": "Eighteen diverse contestants have come from all over America to follow their dream to work for Chef Gordon Ramsey. These chefs will endure a brutal set of challenges, and only one will come out on top to become the next Head Chef of Gordon Ramsay’s Hell’s Kitchen Las Vegas, one of the busiest restaurants in the country.",
+      "posterPath": "/2XQhUtp7eNVp2OBv2kveNUCmh1w.jpg",
+      "airDate": "2023-09-28",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-08-18T01:07:22.225Z",
+      "updatedAt": "2026-08-18T01:13:58.749Z"
+    },
+    {
+      "id": "8f0be5b4-6103-41fc-839e-eba347a94d75",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbId": 418121,
+      "seasonNumber": 23,
+      "name": "Head Chefs Only",
+      "overview": "This talented crop of head chefs will come from all ages, backgrounds, culinary specialties, and restaurant types. But whether that restaurant is a tiny mom-and-pop shop or sports a large fine-dining brigade, these chefs are used to calling the shots. These alpha head chefs will battle it out in the ultimate ego blender to prove they have the culinary skills and leadership mettle to command Chef Ramsay’s kitchen.",
+      "posterPath": "/53WPLh25W1kpR5MaYFRBci4sAgh.jpg",
+      "airDate": "2024-09-26",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-08-18T01:07:24.713Z",
+      "updatedAt": "2026-08-18T01:14:00.280Z"
+    },
+    {
+      "id": "8673a8a4-d4b0-44c0-81ea-8444cbded2f0",
+      "tvSeriesId": "443ad960-8632-465b-b92a-3e4a4d0f8835",
+      "tmdbId": 467350,
+      "seasonNumber": 24,
+      "name": "Battle of the States",
+      "overview": "Ramsay reignites the kitchen pitting twenty chefs, each representing a different state, against one another in a contest of regional and culinary skill.",
+      "posterPath": "/m78dF9kx5fHGz1VwMPKjkLjPGi3.jpg",
+      "airDate": "2025-09-25",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-08-18T01:07:26.722Z",
+      "updatedAt": "2026-08-18T01:14:01.925Z"
+    }
+  ]
+}

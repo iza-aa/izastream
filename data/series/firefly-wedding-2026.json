@@ -1,0 +1,138 @@
+{
+  "slug": "firefly-wedding-2026",
+  "id": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+  "title": "Firefly Wedding",
+  "overview": "Satoko Kirigaya has everything a noblewoman could want—except time. With her life running out, she’s determined to marry well and make her father proud. But when a ruthless assassin kidnaps her, she makes a desperate offer: “Marry me, and we’ll have it all.” Shinpei Goto accepts, only to become dangerously obsessed. Now Satoko must choose between duty and a love that could consume them both.",
+  "tagline": null,
+  "posterPath": "/954dt0dTqoUhIW0EvMFZ0KvVQmk.jpg",
+  "backdropPath": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
+  "logoPath": "/jF0Y73x1pWq6noava9Cp900i8Tm.png",
+  "firstAirDate": "2026-10-09",
+  "voteAverage": "9.90",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d7b1b435-5b0b-4f84-8aec-821d168bf8b8",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbPersonId": 1691384,
+      "name": "Lynn",
+      "character": "Satoko Kirigaya (voice)",
+      "profilePath": "/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg",
+      "order": 0
+    },
+    {
+      "id": "d70581f5-ae9a-42cf-9a31-80c1d7394702",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbPersonId": 1254052,
+      "name": "Koki Uchiyama",
+      "character": "Shinpei Goto (voice)",
+      "profilePath": "/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg",
+      "order": 1
+    },
+    {
+      "id": "ebb3d571-1b21-4cc0-8aac-9b924a4cdcff",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbPersonId": 2022018,
+      "name": "Kent Ito",
+      "character": "Kotaro Ogawa (voice)",
+      "profilePath": "/oX9zpjSNyPzbivui2HoMUziDmGh.jpg",
+      "order": 2
+    },
+    {
+      "id": "0ac4239b-c743-48bf-b7fc-2052c51f0f0c",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbPersonId": 135524,
+      "name": "Kenjiro Tsuda",
+      "character": "Mitsueda (voice)",
+      "profilePath": "/yFpSPNHqYN4rdRiVpVaYmqXMkmi.jpg",
+      "order": 3
+    },
+    {
+      "id": "ed7dab95-28e8-4d14-a4b0-0202cc7b947d",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbPersonId": 1221108,
+      "name": "Haruhi Nanao",
+      "character": "Rie Kirigaya (voice)",
+      "profilePath": "/1zdcXGwU3WRaiE281hjRuqfqeXg.jpg",
+      "order": 4
+    },
+    {
+      "id": "ee53c691-bea9-4249-92d6-9c369210fb27",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbPersonId": 552339,
+      "name": "Kazuhiro Yamaji",
+      "character": "Jubei Kirigaya (voice)",
+      "profilePath": "/fgGTdhTiWViGmjl2kABHWzLIpZ0.jpg",
+      "order": 500
+    },
+    {
+      "id": "5cbb421c-eccf-466a-af22-94561da7bfde",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbPersonId": 3533574,
+      "name": "Hika Tsukishiro",
+      "character": "Miwako Kirigaya (voice)",
+      "profilePath": "/iJU59ru8Rv9sIHd5kMznFDZktZr.jpg",
+      "order": 501
+    },
+    {
+      "id": "28c4212c-c786-492c-aa79-8b940c7dc2e6",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbPersonId": 4757555,
+      "name": "Yusuke Kei",
+      "character": "Ozoe (voice)",
+      "profilePath": "/y3w7lJtRsSjE3XIUdUuLNvCrRCH.jpg",
+      "order": 502
+    },
+    {
+      "id": "fc0959c8-5c6f-4128-bdbb-bc1f6f203c96",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbPersonId": 3483767,
+      "name": "Ringo Yoshioka",
+      "character": "Gardener (voice)",
+      "profilePath": "/h3DwKA7x0BlLGUEhgKUjdVAZwPH.jpg",
+      "order": 503
+    },
+    {
+      "id": "497f0087-4fdc-4b5d-a28a-af000e1a4cad",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbPersonId": 2858886,
+      "name": "Yu Wakabayashi",
+      "character": "Gardener (voice)",
+      "profilePath": "/xLOaTKhEGmgVXBcg3HRO4bxT9wh.jpg",
+      "order": 504
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d2fcc14f-edf1-4598-a772-4cbc1395a1b3",
+      "tvSeriesId": "4307177b-b3f6-43ab-840e-0feee2cd5962",
+      "tmdbId": 513300,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/Auw2NxgGThu6XAO2pyRoipMIDHG.jpg",
+      "airDate": "2026-10-09",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-25T05:38:10.271Z",
+      "updatedAt": "2026-11-16T02:48:29.727Z"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "minimum-wage-2026",
+  "id": "82748229-0bc3-49b6-aac6-8041871d34fc",
+  "title": "Minimum Wage",
+  "overview": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
+  "tagline": null,
+  "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+  "backdropPath": "/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+  "logoPath": "/AeLoyQxyQnw2v5roiFxxvkxAJqQ.png",
+  "firstAirDate": "2026-10-26",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a1fa9459-6870-42c9-b8c1-f528a44bf340",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbPersonId": 4755452,
+      "name": "Aidan Micho",
+      "character": "Aidan",
+      "profilePath": "/nAH2rvRQxVOXO7S7EmkxxOUNwNc.jpg",
+      "order": 0
+    },
+    {
+      "id": "bc67d556-58a0-4463-818e-7d83124e4325",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbPersonId": 4585353,
+      "name": "Grace Reiter",
+      "character": "Grace",
+      "profilePath": "/89CTVSP72SOY0NbqtUn7lztqLK3.jpg",
+      "order": 1
+    },
+    {
+      "id": "eea5d4f0-526a-4d28-bc1b-8678f2dc2f34",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbPersonId": 5104052,
+      "name": "Hyde Healy",
+      "character": "Hyde",
+      "profilePath": "/fwkTJU0icQcGBSbpEBwhM2qbk0S.jpg",
+      "order": 2
+    },
+    {
+      "id": "09b61dfa-bb70-4645-9380-800bce5ee590",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbPersonId": 5391079,
+      "name": "Julia DiCesare",
+      "character": "Julia",
+      "profilePath": "/iAnT1KdxNrIQ4TSrGchTLE2sDOO.jpg",
+      "order": 3
+    },
+    {
+      "id": "de0fed4c-23e4-4958-a0e8-5abfc3b30fd1",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbPersonId": 5566456,
+      "name": "Luke Burke",
+      "character": "Luke",
+      "profilePath": "/cJJR48JGbXBfTRr0hQcfcp5W3ZZ.jpg",
+      "order": 4
+    },
+    {
+      "id": "e751d6f8-e9b8-48d7-9935-4b835d2b0744",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbPersonId": 5185136,
+      "name": "Ryan Micho",
+      "character": "Ryan",
+      "profilePath": "/fweing9pUyCwVTzybO7iZnkZa88.jpg",
+      "order": 5
+    },
+    {
+      "id": "64f3690f-f612-4ec1-a234-8493690f753b",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbPersonId": 5433709,
+      "name": "Tommy Armstrong",
+      "character": "Tommy",
+      "profilePath": "/5GbQLczBlhmgEcxxj2DWmF4GGjN.jpg",
+      "order": 6
+    },
+    {
+      "id": "926b9185-1a67-4b3e-8820-dba4374b527d",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbPersonId": 79082,
+      "name": "Randall Park",
+      "character": "Terry Sylvester",
+      "profilePath": "/GpERQxWcT3TXLHpH8b6hIyUazK.jpg",
+      "order": 500
+    },
+    {
+      "id": "9b39b706-e56c-4bed-8159-9c2b3e15adeb",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbPersonId": 42915,
+      "name": "Teala Dunn",
+      "character": "Teala",
+      "profilePath": "/orSA2183RSooWcBDy4erq6H9GX6.jpg",
+      "order": 501
+    },
+    {
+      "id": "89a2b99b-0279-4424-99f7-d36e3fca8615",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbPersonId": 1428081,
+      "name": "Tyler Alvarez",
+      "character": "Tyler",
+      "profilePath": "/o66EC1y4rdlhui6zzzq7F3kMayj.jpg",
+      "order": 502
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d4d056d5-ff8b-4b5d-b9ef-ebea0556f002",
+      "tvSeriesId": "82748229-0bc3-49b6-aac6-8041871d34fc",
+      "tmdbId": 514023,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+      "airDate": "2026-10-26",
+      "episodeCount": 14,
+      "isPublished": true,
+      "createdAt": "2026-10-27T12:11:19.511Z",
+      "updatedAt": "2026-10-27T12:12:28.832Z"
+    }
+  ]
+}

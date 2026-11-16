@@ -1,0 +1,40 @@
+{
+  "slug": "the-new-stanford-prison-experiment-2026",
+  "id": "ab85b2d3-bd0b-4026-9542-7e04c21b9076",
+  "title": "The New Stanford Prison Experiment",
+  "overview": "In this modern reimagining of the infamous study, 30 people enter a real prison for two weeks and shifting power dynamics expose what they're capable of.",
+  "tagline": null,
+  "posterPath": "/heoESrHAdmPeYECs2B7R8RIqLyN.jpg",
+  "backdropPath": "/H8VA7K15NWVKLbUbp8ZQ17zvU2.jpg",
+  "logoPath": "/ERDwCJm22CvH02X8daZkAqVhdO.png",
+  "firstAirDate": "2026-10-21",
+  "voteAverage": "7.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    }
+  ],
+  "cast": [],
+  "seasons": [
+    {
+      "id": "101cbe28-85a8-4479-8c0a-5e2b5c07c995",
+      "tvSeriesId": "ab85b2d3-bd0b-4026-9542-7e04c21b9076",
+      "tmdbId": 544010,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/aV7UI25vuOyS1r4Gi9QBzhoNJUg.jpg",
+      "airDate": "2026-10-21",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-10-24T10:04:26.597Z",
+      "updatedAt": "2026-10-24T10:04:54.967Z"
+    }
+  ]
+}

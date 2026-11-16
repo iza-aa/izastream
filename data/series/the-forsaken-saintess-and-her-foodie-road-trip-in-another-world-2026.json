@@ -1,0 +1,113 @@
+{
+  "slug": "the-forsaken-saintess-and-her-foodie-road-trip-in-another-world-2026",
+  "id": "ac152f2a-dca1-4781-8f25-980e5978bcdc",
+  "title": "The Forsaken Saintess and Her Foodie Road Trip in Another World",
+  "overview": "Late 20's caregiver Rin Takanashi has been summoned as a saint, only to then be dumped alone in another world. Equipped with just her ridiculously overpowered god-like skills, Motor Home aka \"Mochan\" and Survival, she decides to indulge her love of solo camping and cooking in this strange new place. Thus begins Rin's journey: one filled with gourmet cuisine and an array of wonderful companions along the way.",
+  "tagline": null,
+  "posterPath": "/8gVUJARnq7sdJbyUD4Iuk4XZoZF.jpg",
+  "backdropPath": "/4ZQopUsLT8JHmgPHscxe7lX6Guo.jpg",
+  "logoPath": "/ekrtuX1758qFjtKZXHZgkZhB0MS.png",
+  "firstAirDate": "2026-07-06",
+  "voteAverage": "8.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a7a0e8de-deae-4389-8a54-8367dc75f953",
+      "tvSeriesId": "ac152f2a-dca1-4781-8f25-980e5978bcdc",
+      "tmdbPersonId": 1466398,
+      "name": "Sora Tokui",
+      "character": "Rin Takanashi (voice)",
+      "profilePath": "/sd14FAVQmJSfnSgIml6OH8new5a.jpg",
+      "order": 0
+    },
+    {
+      "id": "d3470456-46bd-4329-b66a-ff65772d9967",
+      "tvSeriesId": "ac152f2a-dca1-4781-8f25-980e5978bcdc",
+      "tmdbPersonId": 1206317,
+      "name": "Yuki Ono",
+      "character": "Ville (voice)",
+      "profilePath": "/oEx13CbNLsHzURdYafkFJYXDjfm.jpg",
+      "order": 1
+    },
+    {
+      "id": "d756d31a-72e3-423a-bdbb-f0600db7b6ac",
+      "tvSeriesId": "ac152f2a-dca1-4781-8f25-980e5978bcdc",
+      "tmdbPersonId": 1254135,
+      "name": "Sumire Morohoshi",
+      "character": "Aria (voice)",
+      "profilePath": "/6AoZkW7NxgsWXkoCkTGDSgFcyao.jpg",
+      "order": 2
+    },
+    {
+      "id": "17037b4d-9c29-4650-b63d-bd47b477c1b4",
+      "tvSeriesId": "ac152f2a-dca1-4781-8f25-980e5978bcdc",
+      "tmdbPersonId": 1251442,
+      "name": "Shinnosuke Tachibana",
+      "character": "Senon (voice)",
+      "profilePath": "/uPw2IDfXyndFDQ8vtdA69WDSnrz.jpg",
+      "order": 3
+    },
+    {
+      "id": "cb35b97f-ceba-4262-96ee-f104ab73213c",
+      "tvSeriesId": "ac152f2a-dca1-4781-8f25-980e5978bcdc",
+      "tmdbPersonId": 1429141,
+      "name": "Shoya Chiba",
+      "character": "Ed (voice)",
+      "profilePath": "/pF2urY77wuCYd9Fxh7dTirFYKSF.jpg",
+      "order": 4
+    },
+    {
+      "id": "91b2012a-5308-4aa2-b8e7-2064e08dc246",
+      "tvSeriesId": "ac152f2a-dca1-4781-8f25-980e5978bcdc",
+      "tmdbPersonId": 1779027,
+      "name": "Kaede Hondo",
+      "character": "Gomamiso (voice)",
+      "profilePath": "/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg",
+      "order": 5
+    },
+    {
+      "id": "0f7d02b7-bb46-46a1-96f3-9862a467ddc6",
+      "tvSeriesId": "ac152f2a-dca1-4781-8f25-980e5978bcdc",
+      "tmdbPersonId": 203268,
+      "name": "Yukari Tamura",
+      "character": "Sheila (voice)",
+      "profilePath": "/AigHQPetpcKee62ekHsYFSpQeWE.jpg",
+      "order": 6
+    },
+    {
+      "id": "1f9194a3-49f1-48d7-b820-6e2ad5362f24",
+      "tvSeriesId": "ac152f2a-dca1-4781-8f25-980e5978bcdc",
+      "tmdbPersonId": 1315198,
+      "name": "Kanehira Yamamoto",
+      "character": "Tori (voice)",
+      "profilePath": "/8cDkO8oCkqsPliIqwFdnmJqHzDT.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "de7ee8c2-f8d0-45dd-ab0f-85e94285ff02",
+      "tvSeriesId": "ac152f2a-dca1-4781-8f25-980e5978bcdc",
+      "tmdbId": 521768,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/fbLSbwjd3lNJXiiPYoYvlYpGNjx.jpg",
+      "airDate": "2026-07-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-05T07:41:57.291Z",
+      "updatedAt": "2026-10-05T07:43:43.854Z"
+    }
+  ]
+}

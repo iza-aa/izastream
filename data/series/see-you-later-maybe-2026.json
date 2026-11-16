@@ -1,0 +1,138 @@
+{
+  "slug": "see-you-later-maybe-2026",
+  "id": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+  "title": "See You Later... Maybe",
+  "overview": "After being pushed to fake his death by a manipulative manager, fallen writer Fang Haowen teams up with obsessive fan Bie Fan as the \"Jiongtu Duo\", embarking on a chaotic redemption journey through fame, betrayal, and surreal reality.",
+  "tagline": null,
+  "posterPath": "/hjjW2A8WXdui99sgICKI4JRCXsd.jpg",
+  "backdropPath": "/9rWY63NTKYDipn019ESiUDkQiT5.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-08-31",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1f6677f9-067b-46ac-837d-a44346fc1bc2",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbPersonId": 2295882,
+      "name": "Jia Bing",
+      "character": "Fang Haowen",
+      "profilePath": "/pum0e3d2ZVq9XZyNohZSXt46bkH.jpg",
+      "order": 0
+    },
+    {
+      "id": "e8bdf5e4-9bbb-4f2f-8699-a2f32929d75b",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbPersonId": 4248872,
+      "name": "Tian Jiarui",
+      "character": "Bie Fan",
+      "profilePath": "/iEAg620mH9HlbhzIo7o2GI2yiUu.jpg",
+      "order": 1
+    },
+    {
+      "id": "07a45391-7e3b-4aeb-845a-131a127227fe",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbPersonId": 4657520,
+      "name": "Kong Lingmei",
+      "character": "",
+      "profilePath": "/7FggOMFa88H7q8ovnTj7iBn73cQ.jpg",
+      "order": 2
+    },
+    {
+      "id": "ab1a89bc-845d-4218-80ac-a74f40e7d94b",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbPersonId": 2308356,
+      "name": "Bao Wenjing",
+      "character": "",
+      "profilePath": "/bReh8ArX3DOSSEoIVbUoGait2lL.jpg",
+      "order": 3
+    },
+    {
+      "id": "8e57a106-34c1-41dd-9649-ae673f7f6263",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbPersonId": 3567884,
+      "name": "Yan Peilun",
+      "character": "",
+      "profilePath": "/djiIoMHzXKaSZ7wcAzcN50HJs8s.jpg",
+      "order": 4
+    },
+    {
+      "id": "7b623851-17a4-498b-9d41-ad9982c5a146",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbPersonId": 939118,
+      "name": "Yang Haoyu",
+      "character": "",
+      "profilePath": "/ckiQnxLBzpHEl1hDpkMQcwZEySN.jpg",
+      "order": 5
+    },
+    {
+      "id": "84cdcd50-0452-48b0-9524-5d9c19a66c0d",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbPersonId": 4549667,
+      "name": "Yang Yuguang",
+      "character": "",
+      "profilePath": "/xr9z4McaA20ijyfivY3HGCHqxxl.jpg",
+      "order": 6
+    },
+    {
+      "id": "54e7162b-1e84-49c3-bc74-fe2ef7d773bf",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbPersonId": 3398668,
+      "name": "Li Ping",
+      "character": "",
+      "profilePath": "/8qg3cAPKf9RqK7gJIfCmT8RJdJn.jpg",
+      "order": 7
+    },
+    {
+      "id": "94b2c529-7f0b-4fea-8ad7-446050c89901",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbPersonId": 3700555,
+      "name": "Lin Junyi",
+      "character": "",
+      "profilePath": "/vG7vOJmbaFB9McMxEjLIET1A1g5.jpg",
+      "order": 8
+    },
+    {
+      "id": "e7d2bb3b-fc99-47de-9a8f-04bca545e1b0",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbPersonId": 4549678,
+      "name": "Tu Dou",
+      "character": "",
+      "profilePath": "/7Jjy59rTBrrTTsulGRAldIGarLY.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "9542cbdb-f90a-4e23-97d6-5ee346ae2ee7",
+      "tvSeriesId": "9509a2e9-7004-4c53-b795-1998e5dc5d8b",
+      "tmdbId": 446171,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9znu5aKKNbFnWYNqk6trHZF16qT.jpg",
+      "airDate": "2026-08-31",
+      "episodeCount": 15,
+      "isPublished": true,
+      "createdAt": "2026-09-22T17:33:06.258Z",
+      "updatedAt": "2026-09-23T15:03:08.670Z"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "nia-liston-the-merciless-maiden-2026",
+  "id": "49a9a683-4b92-42b6-b7c8-4f66797ff17a",
+  "title": "Nia Liston: The Merciless Maiden",
+  "overview": "A dying girl is saved when a fallen warrior’s soul is placed in her body, giving her new life, healing powers, and an unstoppable thirst for battle that brings chaos in its wake.",
+  "tagline": null,
+  "posterPath": "/vsEJaex0keh3dmBC9sVymiKfSwA.jpg",
+  "backdropPath": "/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
+  "logoPath": "/riCiNoSEkHZzHtMg1RUXPxgGcgc.png",
+  "firstAirDate": "2026-10-06",
+  "voteAverage": "6.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "969ce537-5b9b-4b62-830d-398d04bab8a6",
+      "tvSeriesId": "49a9a683-4b92-42b6-b7c8-4f66797ff17a",
+      "tmdbPersonId": 1717124,
+      "name": "Honoka Inoue",
+      "character": "Nia Liston (voice)",
+      "profilePath": "/eZHNcyvGvFm8FyUMa0WnW2yrYMx.jpg",
+      "order": 0
+    },
+    {
+      "id": "06b2667d-6f17-4e5e-80d9-e7284045d31c",
+      "tvSeriesId": "49a9a683-4b92-42b6-b7c8-4f66797ff17a",
+      "tmdbPersonId": 3309472,
+      "name": "Fuka Izumi",
+      "character": "Rinokis Funk (voice)",
+      "profilePath": "/nTC0TuLp4Ek3b08DG9lhwVJHwlW.jpg",
+      "order": 1
+    },
+    {
+      "id": "32b46f57-6b5c-4eac-9934-08055318e61a",
+      "tvSeriesId": "49a9a683-4b92-42b6-b7c8-4f66797ff17a",
+      "tmdbPersonId": 2285491,
+      "name": "Rina Honnizumi",
+      "character": "Hildetora Altoir (voice)",
+      "profilePath": "/5p8wWjqrBHTkOPC5txO1eUXRBRY.jpg",
+      "order": 2
+    },
+    {
+      "id": "03ead850-56b1-4564-a732-64f719277fc3",
+      "tvSeriesId": "49a9a683-4b92-42b6-b7c8-4f66797ff17a",
+      "tmdbPersonId": 1116334,
+      "name": "Rina Hidaka",
+      "character": "Reliared Silver (voice)",
+      "profilePath": "/7JupZGvqcq4dRxiTKpPxzg8NUS4.jpg",
+      "order": 3
+    },
+    {
+      "id": "6a458884-ffba-4c85-8524-5229c816cca1",
+      "tvSeriesId": "49a9a683-4b92-42b6-b7c8-4f66797ff17a",
+      "tmdbPersonId": 1613379,
+      "name": "Taku Yashiro",
+      "character": "Anzel (voice)",
+      "profilePath": "/eVdB6myaNJ4h38UU9hHHlsaCWHn.jpg",
+      "order": 4
+    },
+    {
+      "id": "7ed87c39-f159-4412-990d-e82d79e3c431",
+      "tvSeriesId": "49a9a683-4b92-42b6-b7c8-4f66797ff17a",
+      "tmdbPersonId": 1072774,
+      "name": "Yoko Hikasa",
+      "character": "Fressa (voice)",
+      "profilePath": "/mP3bj0s1gqJ6tCKFLhu4b1CkJj7.jpg",
+      "order": 5
+    },
+    {
+      "id": "2226ae56-ae07-4bdd-9b3f-b1f1735d3586",
+      "tvSeriesId": "49a9a683-4b92-42b6-b7c8-4f66797ff17a",
+      "tmdbPersonId": 224413,
+      "name": "Satoshi Hino",
+      "character": "Gandolf Rogen (voice)",
+      "profilePath": "/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1c40a061-c2a3-4fab-9f12-24005d39b606",
+      "tvSeriesId": "49a9a683-4b92-42b6-b7c8-4f66797ff17a",
+      "tmdbId": 498034,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/qcD7qC8i69yIwHmxv2FO185kd8k.jpg",
+      "airDate": "2026-10-06",
+      "episodeCount": 25,
+      "isPublished": true,
+      "createdAt": "2026-10-21T23:42:58.269Z",
+      "updatedAt": "2026-11-12T03:52:45.350Z"
+    }
+  ]
+}

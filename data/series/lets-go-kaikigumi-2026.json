@@ -1,0 +1,111 @@
+{
+  "slug": "lets-go-kaikigumi-2026",
+  "id": "4f570a13-9291-4aa7-a7a9-f081bc411e3d",
+  "title": "Let's go KAIKIGUMI",
+  "overview": "A nameless man who is six times more afraid of ghosts than the average person gets swept up with the supernatural. The trouble begins when he crosses paths with Mechako, a fearless girl who runs the Kaiki-gumi, an organization that polices the supernatural. Mechako ropes him into helping her revive the organization. Hilariously strange events and spooky shenanigans abound!",
+  "tagline": null,
+  "posterPath": "/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y.jpg",
+  "backdropPath": "/m1EsnTY1ejaLHs5aWTOju1t1AVd.jpg",
+  "logoPath": "/5FPOarQIhkrUzDY5qo8ElYmSzu1.png",
+  "firstAirDate": "2026-07-05",
+  "voteAverage": "8.30",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "590580dd-f31b-42bb-a7dd-5727c7165735",
+      "tvSeriesId": "4f570a13-9291-4aa7-a7a9-f081bc411e3d",
+      "tmdbPersonId": 1256915,
+      "name": "Tasuku Hatanaka",
+      "character": "Protagonist (voice)",
+      "profilePath": "/xPDqoxAia1ShoVC2aMS2ZDPDWzG.jpg",
+      "order": 0
+    },
+    {
+      "id": "64d3e3a2-38f2-4d25-860a-9846d3364c74",
+      "tvSeriesId": "4f570a13-9291-4aa7-a7a9-f081bc411e3d",
+      "tmdbPersonId": 1491336,
+      "name": "Ruriko Aoki",
+      "character": "Mechako (voice)",
+      "profilePath": "/oIFCVeUfExnxu7jq5snnBScF6cB.jpg",
+      "order": 1
+    },
+    {
+      "id": "3b2498aa-2ed5-4fe0-83c0-95fb8aedaca0",
+      "tvSeriesId": "4f570a13-9291-4aa7-a7a9-f081bc411e3d",
+      "tmdbPersonId": 105816,
+      "name": "Shigeru Chiba",
+      "character": "Narration (voice)",
+      "profilePath": "/mF5YJxApTYKBVFJDrEC9IrJ5ooV.jpg",
+      "order": 2
+    },
+    {
+      "id": "5209f5c6-2826-46f9-9acd-bf4e682f57a7",
+      "tvSeriesId": "4f570a13-9291-4aa7-a7a9-f081bc411e3d",
+      "tmdbPersonId": 1643476,
+      "name": "Yoshino Aoyama",
+      "character": "Shurako (voice)",
+      "profilePath": "/yPOprcT7tPKR3p79RMYtogTEXGr.jpg",
+      "order": 3
+    },
+    {
+      "id": "0125246a-1ca6-4fb2-8e45-99279c53b3bb",
+      "tvSeriesId": "4f570a13-9291-4aa7-a7a9-f081bc411e3d",
+      "tmdbPersonId": 2864258,
+      "name": "Yuki Sakakihara",
+      "character": "Doppelganger (voice)",
+      "profilePath": "/4Jj08itCNpPrN1Sr3uv26h1p740.jpg",
+      "order": 4
+    },
+    {
+      "id": "c877cb35-b528-40af-ab14-946ea773f5d2",
+      "tvSeriesId": "4f570a13-9291-4aa7-a7a9-f081bc411e3d",
+      "tmdbPersonId": 550606,
+      "name": "Mayumi Shintani",
+      "character": "Cursed Doll (voice)",
+      "profilePath": "/s3aH3ZIFf03YqjVLHIHXG9RJuRl.jpg",
+      "order": 5
+    },
+    {
+      "id": "2dd17a78-f9fd-4660-8683-00b3f583d94e",
+      "tvSeriesId": "4f570a13-9291-4aa7-a7a9-f081bc411e3d",
+      "tmdbPersonId": 119143,
+      "name": "Kana Hanazawa",
+      "character": "Yukinko (voice)",
+      "profilePath": "/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "346426bf-0a96-439e-a1c8-53b9a2ce12be",
+      "tvSeriesId": "4f570a13-9291-4aa7-a7a9-f081bc411e3d",
+      "tmdbId": 479549,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y.jpg",
+      "airDate": "2026-07-05",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-08T03:41:31.934Z",
+      "updatedAt": "2026-10-08T03:43:06.120Z"
+    }
+  ]
+}

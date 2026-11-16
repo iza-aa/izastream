@@ -1,0 +1,159 @@
+{
+  "slug": "isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter-2026",
+  "id": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+  "title": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+  "overview": "Seiichirou Kondou gets caught up in a summoning ritual and is transported to a parallel world called Romany Kingdom. Having worked day and night, he demands a job and joins the Royal Accounting Department. After narrowly surviving a tonic’s deadly side effects with the aid of magic, Seiichirou entrusts himself to Aresh, captain of the Third Royal Order, known as the Ice Prince.",
+  "tagline": null,
+  "posterPath": "/73Eu18rpNrKErJjSaibJhee5Nnb.jpg",
+  "backdropPath": "/fgESwlxIp0XTgjwKjdxaNQJmh2q.jpg",
+  "logoPath": "/ft4JNF1ngZmvgDACtXrcCaszUov.png",
+  "firstAirDate": "2026-01-06",
+  "voteAverage": "7.90",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f3542533-5ed8-457f-9521-07a337b61b8d",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbPersonId": 2022018,
+      "name": "Kent Ito",
+      "character": "Seiichirou Kondou (voice)",
+      "profilePath": "/oX9zpjSNyPzbivui2HoMUziDmGh.jpg",
+      "order": 0
+    },
+    {
+      "id": "6da06a16-334a-41b0-8b6b-055c24ebc82e",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbPersonId": 1249235,
+      "name": "Tomoaki Maeno",
+      "character": "Aresh Indolark (voice)",
+      "profilePath": "/w3lEuXSbEyzzNyO3YnxsF6wm2N5.jpg",
+      "order": 1
+    },
+    {
+      "id": "288b220d-dcf2-4bd0-b371-e77dc5699410",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbPersonId": 1732278,
+      "name": "Seiichiro Yamashita",
+      "character": "Norbert Blanc (voice)",
+      "profilePath": "/zym6WY3rxL4FdbHoLzG2CnqnR7.jpg",
+      "order": 2
+    },
+    {
+      "id": "18038407-afe3-4686-84e6-1efbbce0487b",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbPersonId": 89832,
+      "name": "Hiroki Touchi",
+      "character": "Kamil Karvada (voice)",
+      "profilePath": "/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg",
+      "order": 3
+    },
+    {
+      "id": "0f0df857-8c60-4625-94f6-c20eb66e1fa6",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbPersonId": 1691564,
+      "name": "Tomohiro Yamaguchi",
+      "character": "Yurius (voice)",
+      "profilePath": "/vj0zpzYm2wMuBR9pYfSs06HN6T5.jpg",
+      "order": 4
+    },
+    {
+      "id": "84a899b2-f29e-4a23-b294-8166462fdf3f",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbPersonId": 2395774,
+      "name": "Yuna Kamakura",
+      "character": "Yua Shiraishi (voice)",
+      "profilePath": "/rFZqFUwGyB8RJk5fRZKomffJ90p.jpg",
+      "order": 5
+    },
+    {
+      "id": "ba7eac4a-1d2a-4dff-a726-268cbf2cc97e",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbPersonId": 2446055,
+      "name": "Takaaki Torashima",
+      "character": "Ist (voice)",
+      "profilePath": "/5aeG0SZ46XukmNJDOSTp2MfKvIc.jpg",
+      "order": 6
+    },
+    {
+      "id": "4b9de9a9-26ea-4f5e-a2db-5ec1209357db",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbPersonId": 1561997,
+      "name": "Win Morisaki",
+      "character": "Ciro Quellbas (voice)",
+      "profilePath": "/8sD9Z51s0vNc9tESt7OpK0Pmei9.jpg",
+      "order": 7
+    },
+    {
+      "id": "58583076-690a-4005-9c13-6ae5380274ea",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbPersonId": 1254260,
+      "name": "Kazuyuki Okitsu",
+      "character": "Orjef Rhoda (voice)",
+      "profilePath": "/vgyaK5dAxhvzAi6LJM3ZyaJd4mJ.jpg",
+      "order": 8
+    },
+    {
+      "id": "bf0342de-17e6-4ee0-8b7e-d188d17b873b",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbPersonId": 1647448,
+      "name": "Shiori Izawa",
+      "character": "Selio (voice)",
+      "profilePath": "/f9V38OeDvRGevWuKc4dN6LB62TH.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "76f111bc-fbc7-4f91-a7bb-e4c570401877",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbId": 518976,
+      "seasonNumber": 0,
+      "name": "Specials",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-05-27",
+      "episodeCount": 1,
+      "isPublished": true,
+      "createdAt": "2026-09-11T10:48:19.145Z",
+      "updatedAt": "2026-09-11T10:54:11.951Z"
+    },
+    {
+      "id": "5dd7d26e-6630-4b0b-91ed-66928f65d078",
+      "tvSeriesId": "af1d9c78-4539-491e-a055-ac20bf5adf56",
+      "tmdbId": 442789,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/73Eu18rpNrKErJjSaibJhee5Nnb.jpg",
+      "airDate": "2026-01-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-11T10:48:05.551Z",
+      "updatedAt": "2026-09-11T10:54:12.942Z"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "the-yakuza-bosss-beloved-2025",
+  "id": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+  "title": "The Yakuza Boss’s Beloved",
+  "overview": "After discovering her live-in boyfriend's affair, an advertising employee moves in with her cold, feared boss — unaware he's secretly a young Yakuza leader.",
+  "tagline": null,
+  "posterPath": "/vZhR8m977m8MxVSSOWNmNZIvkS4.jpg",
+  "backdropPath": "/k78JjLMf8aVU0wXEPsl4eZw8pwm.jpg",
+  "logoPath": null,
+  "firstAirDate": "2025-07-22",
+  "voteAverage": "7.67",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e5a74c73-d621-45a1-8acc-f73c11dc0bcf",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbPersonId": 1469988,
+      "name": "Shota Totsuka",
+      "character": "Ren Odagiri",
+      "profilePath": "/6TjbIgwdZuzHzu1xGKBvaMGUcy.jpg",
+      "order": 0
+    },
+    {
+      "id": "b06ff556-c3ce-46ac-8f9d-8f333301ab7c",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbPersonId": 1872783,
+      "name": "Ayaka Konno",
+      "character": "Makoto Sugawara",
+      "profilePath": "/2JwLIGRv16O7v1sh0GIqOdff77P.jpg",
+      "order": 1
+    },
+    {
+      "id": "552e4d7e-36e6-4a83-9914-0e439a214c33",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbPersonId": 3130861,
+      "name": "Yuna Hoshino",
+      "character": "Aina Kawatani",
+      "profilePath": "/s3oIk1Ks2tkwoH7m4orgCx89yV7.jpg",
+      "order": 2
+    },
+    {
+      "id": "276ce0a2-bd85-41d3-96c9-d8d0de5587b5",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbPersonId": 3340121,
+      "name": "Ryotaro Akazawa",
+      "character": "Yuto Ishizaki",
+      "profilePath": "/ea63FOV3hViYv1ZWaBZH7RX3YdT.jpg",
+      "order": 3
+    },
+    {
+      "id": "509186fe-08be-48c5-a9fd-b1dbcb78bdee",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbPersonId": 2226568,
+      "name": "Kazuki Horike",
+      "character": "Ryohei Masumoto",
+      "profilePath": "/3VtqkC7uax1EcrhrOOVUknAu81w.jpg",
+      "order": 4
+    },
+    {
+      "id": "bdaadfa0-1467-4192-a235-6957aedacaf4",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbPersonId": 4509967,
+      "name": "Nanami Asahi",
+      "character": "Yumi Endo",
+      "profilePath": "/zSzBMKEF6sp2YWqjNJdhmnHNL88.jpg",
+      "order": 5
+    },
+    {
+      "id": "c0b29498-3910-4861-8264-dac3243689c3",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbPersonId": 1416686,
+      "name": "Hikaru Yamazaki",
+      "character": "Yuma  Aoki",
+      "profilePath": "/wg8a5ylRsKh8Nr6hI0L8kPve3EO.jpg",
+      "order": 6
+    },
+    {
+      "id": "b07a4f43-3fee-4f4c-8256-f3dacdff7117",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbPersonId": 2876496,
+      "name": "Reia Nakamura",
+      "character": "Tora Senzaki",
+      "profilePath": "/dFMj0Z2kgzYRjxt46WTKTea829z.jpg",
+      "order": 7
+    },
+    {
+      "id": "9ec3cdd9-f700-4005-ae69-b72e98668965",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbPersonId": 1489086,
+      "name": "Reiya Masaki",
+      "character": "Haruka Kiba",
+      "profilePath": "/ibEK3DetHxYgCr7JZhesveykU9D.jpg",
+      "order": 8
+    },
+    {
+      "id": "b4ff69fd-6058-46d5-a369-32bced149b08",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbPersonId": 237360,
+      "name": "Kinuo Yamada",
+      "character": "Hiroko Sugawara",
+      "profilePath": "/5IWW26SGz8kHCbBr0YMTHKw7gv5.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "a8c4b894-9b95-4033-8d7c-b9f74a59f452",
+      "tvSeriesId": "601bfd5b-e2e3-4cef-91c9-f567842cc2c7",
+      "tmdbId": 465057,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/gjlm61hM3stjhCGS3ioihNiFXFY.jpg",
+      "airDate": "2025-07-22",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-02T19:36:46.996Z",
+      "updatedAt": "2026-09-02T19:38:02.289Z"
+    }
+  ]
+}

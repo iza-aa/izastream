@@ -1,0 +1,145 @@
+{
+  "slug": "o-maidens-in-your-savage-season-2019",
+  "id": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+  "title": "O Maidens in Your Savage Season",
+  "overview": "The girls in a high school literature club do a little icebreaker to get to know each other: answering the question, \"What's one thing you want to do before you die?\" One of the girls blurts out, \"Sex.\" Little do they know, the whirlwind unleashed by that word pushes each of these girls, with different backgrounds and personalities, onto their own clumsy, funny, painful, and emotional paths toward adulthood.",
+  "tagline": null,
+  "posterPath": "/e0mBYzj7uBqObuG3THsrq2jedhk.jpg",
+  "backdropPath": "/mR3GPTvUFlKO9mbrx8o2CZBNDRb.jpg",
+  "logoPath": "/cA6x0MIcBOulHS6ErKaLY2QqyTv.png",
+  "firstAirDate": "2019-07-06",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6b8e7dcc-4a36-445c-86fc-54eeb5f0e845",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbPersonId": 2363264,
+      "name": "Hiyori Kouno",
+      "character": "Kazusa Onodera (voice)",
+      "profilePath": "/dZY0ndE9AowOlxPBnGu92ZwEPRm.jpg",
+      "order": 0
+    },
+    {
+      "id": "e1f2329e-7e81-4128-a446-b3c40203509e",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbPersonId": 1324927,
+      "name": "Chika Anzai",
+      "character": "Niina Sugawara (voice)",
+      "profilePath": "/lk3Az9O67qrXR69rctwDDHWqi9d.jpg",
+      "order": 1
+    },
+    {
+      "id": "23105565-e3ac-4acb-a426-7f8ce27141ec",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbPersonId": 1530922,
+      "name": "Momo Asakura",
+      "character": "Momoko Sudou (voice)",
+      "profilePath": "/gdzYEujO3I5nZCyAx95Mo47fZ86.jpg",
+      "order": 2
+    },
+    {
+      "id": "9904addc-c1c5-469b-8b70-f450ef616c1e",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbPersonId": 1309253,
+      "name": "Tomoyo Kurosawa",
+      "character": "Hitoha Hongou (voice)",
+      "profilePath": "/eSRnva88YVcUXlDHdVrhier2SGU.jpg",
+      "order": 3
+    },
+    {
+      "id": "a660f6d0-b804-463a-9bf0-e777c18a4f88",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbPersonId": 1368254,
+      "name": "Sumire Uesaka",
+      "character": "Rika Sonezaki (voice)",
+      "profilePath": "/AbouCe2WVBHvMlBm9NnG7GHyJpa.jpg",
+      "order": 4
+    },
+    {
+      "id": "4abb3a16-5794-447a-a349-713b45c7ab1f",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbPersonId": 117527,
+      "name": "Shimba Tsuchiya",
+      "character": "Izumi Norimoto (voice)",
+      "profilePath": "/qyPAAsmnc3ugr4fYq2Jy2VbuXU9.jpg",
+      "order": 5
+    },
+    {
+      "id": "be4b8fb9-f450-46b2-bff8-811e395da742",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbPersonId": 1647556,
+      "name": "Yuya Hirose",
+      "character": "Shun Amagi (voice)",
+      "profilePath": "/jRe7ICqrCsaEWVD8jAmJdc7XwnQ.jpg",
+      "order": 6
+    },
+    {
+      "id": "ca51589d-0791-436e-96b4-128f369dcf4a",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbPersonId": 131563,
+      "name": "Jun Fukuyama",
+      "character": "Tomoaki Yamagishi (voice)",
+      "profilePath": "/eT9eloyIaIkTvTqMmpcsAleP2hM.jpg",
+      "order": 7
+    },
+    {
+      "id": "11d6eb92-d930-4091-ada1-ff7b0a1ba0da",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbPersonId": 1222051,
+      "name": "Shunsuke Sakuya",
+      "character": "Hisashi Saegusa (voice)",
+      "profilePath": "/tbIQ3CFxZM9wl5S4YMwqhrs5VNS.jpg",
+      "order": 8
+    },
+    {
+      "id": "f98933af-d060-4423-8a69-d75ad0f5ef83",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbPersonId": 1248340,
+      "name": "Haruka Tomatsu",
+      "character": "Sonoe Juujou (voice)",
+      "profilePath": "/geVvuA2zMGE5xzfc20aDelJSelu.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ccd280e9-5b1a-4b9e-a72c-cdb80376638e",
+      "tvSeriesId": "75bb69dd-f4d4-4fb5-bb80-da07c99470ba",
+      "tmdbId": 121359,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/rJd6Y7SXcgHdjZabpBJV3QCDTzU.jpg",
+      "airDate": "2019-07-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-08-23T04:31:13.123Z",
+      "updatedAt": "2026-08-23T04:32:23.392Z"
+    }
+  ]
+}

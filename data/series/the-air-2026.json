@@ -1,0 +1,152 @@
+{
+  "slug": "the-air-2026",
+  "id": "e863cb23-1ce0-4956-a88e-851ecf799630",
+  "title": "The Air",
+  "overview": "When a violent coup erupts back home, Princess Catherine \"Blue\" De Lena becomes an assassination target while visiting Thailand. Her survival falls entirely on Lieutenant \"Lom\" Wayo Watinwanich, a sharp female marine police officer assigned as her underground protector. Forced off the grid, the two women must navigate relentless tactical hits and political betrayal. As duty and survival blur, their isolation sparks an intense, undeniable magnetic attraction—a forbidden love defying rigid military protocol and royal expectations. Amidst constant gunfire, Catherine finds safety in Lom's embrace, while Lom discovers a kindred spirit beneath the royal exterior. In a world where everyone has a price, their fierce devotion becomes both their ultimate liability and their only way out. Together, they must dismantle the conspiracy before the assassins close in.",
+  "tagline": null,
+  "posterPath": "/nvkFkBXCmaLS8N1S7IcSi2Oh9cB.jpg",
+  "backdropPath": "/AkMY5XIGiru36sp1ZTNz1l6X6pI.jpg",
+  "logoPath": "/ua5GXpaZznRwNnuIb34sYXhX2n.png",
+  "firstAirDate": "2026-05-16",
+  "voteAverage": "9.17",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8dcf75fa-9e93-4a7d-846c-be8c81cea8f2",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbPersonId": 3380426,
+      "name": "Sarocha Chankimha",
+      "character": "'Lom' Vayo Watinwanich",
+      "profilePath": "/xX6EZ24ZRFp8THxrAVLkL7Z0i4R.jpg",
+      "order": 0
+    },
+    {
+      "id": "27634405-af95-42ac-af22-75742b670aa1",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbPersonId": 2729190,
+      "name": "Becky Armstrong",
+      "character": "Princess Catherine Blew De Laina | Helena",
+      "profilePath": "/nu8S97BFcsLQvyEDHvAfZonPwNM.jpg",
+      "order": 1
+    },
+    {
+      "id": "fc5da460-fa82-4099-8a62-f0e1e45a9235",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbPersonId": 1834148,
+      "name": "Lapisara Intarasut",
+      "character": "'Din' Kasama Watinwanich",
+      "profilePath": "/zGNQQWRnv0b0lmHrl4DufYufn2F.jpg",
+      "order": 2
+    },
+    {
+      "id": "aae5ac73-3a00-4291-96a4-3d7d69714cf5",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbPersonId": 3882129,
+      "name": "Engfa Waraha",
+      "character": "'Nam' Apo Watinwanich",
+      "profilePath": "/uShBQDEb99sWzibKUM3IfylG5Tw.jpg",
+      "order": 3
+    },
+    {
+      "id": "b2501787-9f1f-4297-97f2-a7f3107fcef2",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbPersonId": 2162310,
+      "name": "Milin Watinthanakit",
+      "character": "'Fai' Atchima Watinwanich",
+      "profilePath": "/3KhAB8S2UmhjEjmriTQv7gCaw7a.jpg",
+      "order": 4
+    },
+    {
+      "id": "9930fda7-d544-44d6-ac05-63723c5ba5c7",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbPersonId": 5923572,
+      "name": "Panthita Jencharoentham",
+      "character": "'Rose' Thippapha Amornjinda",
+      "profilePath": "/ucIfsPkxeu6n0VnnjK7xKnaSdSf.jpg",
+      "order": 5
+    },
+    {
+      "id": "219b13cf-ebcf-4782-af70-6c062ea16e82",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbPersonId": 3882126,
+      "name": "Charlotte Austin",
+      "character": "'Lada' Chonlada Kunanon",
+      "profilePath": "/c5IVqgoWZbatJkJZKLDJ9jpy5nb.jpg",
+      "order": 6
+    },
+    {
+      "id": "5f74d944-598a-48f2-942b-f62e0fb47727",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbPersonId": 546086,
+      "name": "Wanchana Sawasdee",
+      "character": "'Thit' Wathit Watinwanich",
+      "profilePath": "/8bcfPPubnc01oRE7IQxbfsJp3Ur.jpg",
+      "order": 7
+    },
+    {
+      "id": "dfcad6f7-482f-4025-acb1-977988fba953",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbPersonId": 5202383,
+      "name": "Renée Veronica",
+      "character": "Grace",
+      "profilePath": "/dAeCx4347JEMweN8AbKGbYzvDnK.jpg",
+      "order": 8
+    },
+    {
+      "id": "f89af820-09d8-4ab8-a7e9-d3e5cb28a1b8",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbPersonId": 3727913,
+      "name": "Thitisan Goodburn",
+      "character": "Henri",
+      "profilePath": "/v65wfjWbmybeXGVAS2cONFj9H2B.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "6b4df7d9-26ca-469b-9034-d04bbf4d2dc4",
+      "tvSeriesId": "e863cb23-1ce0-4956-a88e-851ecf799630",
+      "tmdbId": 445683,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/v3XLtJCwf9JR4ZDlbJELsNS9qSQ.jpg",
+      "airDate": "2026-05-16",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-07-09T15:23:47.759Z",
+      "updatedAt": "2026-07-09T15:24:26.535Z"
+    }
+  ]
+}

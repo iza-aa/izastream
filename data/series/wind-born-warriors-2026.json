@@ -1,0 +1,113 @@
+{
+  "slug": "wind-born-warriors-2026",
+  "id": "b2febc7d-279e-4eef-861c-5c01f5bdf94b",
+  "title": "Wind-Born Warriors",
+  "overview": "Brigade Commander Xu Lingjun is assigned to lead a military transformation pilot program. Despite challenges, he trusts Battalion Commander Guo Zijian, who proves himself after a past training accident. In a crucial exercise against an undefeated opponent, they use their innovative tactics to turn the tide.",
+  "tagline": null,
+  "posterPath": "/hr12kzoC8d6gGnPHWcXSDu1xCK2.jpg",
+  "backdropPath": "/sgC8hgeZl1ZEjn2xAXGyFC86U6N.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-07-23",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c95c090a-9474-4b46-bfb9-8c531b1280e2",
+      "tvSeriesId": "b2febc7d-279e-4eef-861c-5c01f5bdf94b",
+      "tmdbPersonId": 1355667,
+      "name": "Ou Hao",
+      "character": "Guo Zijian",
+      "profilePath": "/nHokLSjlWJB3Gwt3zBXUuBPvR77.jpg",
+      "order": 0
+    },
+    {
+      "id": "66e79caf-afb2-4744-b706-64d471a6f2ac",
+      "tvSeriesId": "b2febc7d-279e-4eef-861c-5c01f5bdf94b",
+      "tmdbPersonId": 1742841,
+      "name": "Lyric Lan",
+      "character": "",
+      "profilePath": "/2jLu5wGbyJFiIh2Uq6xunaTANwB.jpg",
+      "order": 1
+    },
+    {
+      "id": "2f12c66d-a5bc-4642-849d-24d6d50dd170",
+      "tvSeriesId": "b2febc7d-279e-4eef-861c-5c01f5bdf94b",
+      "tmdbPersonId": 1971602,
+      "name": "Liu Yijun",
+      "character": "",
+      "profilePath": "/vXVQ2kWsiSav51I20bHUpsh1i81.jpg",
+      "order": 2
+    },
+    {
+      "id": "3dc0412d-83ab-4924-8188-c1d27f4ed49c",
+      "tvSeriesId": "b2febc7d-279e-4eef-861c-5c01f5bdf94b",
+      "tmdbPersonId": 2080705,
+      "name": "Xu Honghao",
+      "character": "",
+      "profilePath": "/umec88C6APaCA3aD9T4xuqJWdYZ.jpg",
+      "order": 3
+    },
+    {
+      "id": "d00b58ce-17dc-499f-a9b0-c9352c94060e",
+      "tvSeriesId": "b2febc7d-279e-4eef-861c-5c01f5bdf94b",
+      "tmdbPersonId": 1905062,
+      "name": "Fu Chengpeng",
+      "character": "",
+      "profilePath": "/y79xQUnkbVhkXUlrAU6HbJQju9Z.jpg",
+      "order": 4
+    },
+    {
+      "id": "cb7e1e58-1cc5-492b-b95a-0f88e0510478",
+      "tvSeriesId": "b2febc7d-279e-4eef-861c-5c01f5bdf94b",
+      "tmdbPersonId": 2955424,
+      "name": "Zhao Xun",
+      "character": "",
+      "profilePath": "/iSgjrjSvjoNVugSzSION72hsPq2.jpg",
+      "order": 5
+    },
+    {
+      "id": "0feaad05-4d71-4516-a614-201a50f2118d",
+      "tvSeriesId": "b2febc7d-279e-4eef-861c-5c01f5bdf94b",
+      "tmdbPersonId": 2966345,
+      "name": "Xia Houbin",
+      "character": "",
+      "profilePath": "/2QE0paQQ1zRqah8xfu0JIqKEUOo.jpg",
+      "order": 6
+    },
+    {
+      "id": "4a29cf19-49ea-417d-b7c6-47eff931bd2c",
+      "tvSeriesId": "b2febc7d-279e-4eef-861c-5c01f5bdf94b",
+      "tmdbPersonId": 2966346,
+      "name": "Guan Yajun",
+      "character": "",
+      "profilePath": "/2FzWCxZehcUeFCoOY8zQQEX2sTM.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "4a799c80-e2f7-405a-8693-0a20b40775e9",
+      "tvSeriesId": "b2febc7d-279e-4eef-861c-5c01f5bdf94b",
+      "tmdbId": 441630,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/x7HGjqGo36cFGZsAXNdLG6gdrmn.jpg",
+      "airDate": "2026-07-23",
+      "episodeCount": 36,
+      "isPublished": true,
+      "createdAt": "2026-08-19T17:34:18.604Z",
+      "updatedAt": "2026-08-19T17:52:42.348Z"
+    }
+  ]
+}

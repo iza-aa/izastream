@@ -1,0 +1,513 @@
+{
+  "slug": "the-elephant-man-1980",
+  "id": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+  "tmdbId": 1955,
+  "imdbId": "tt0080678",
+  "title": "The Elephant Man",
+  "originalTitle": "The Elephant Man",
+  "overview": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous façade, there is revealed a person of great intelligence and sensitivity.",
+  "tagline": "A true story of courage and human dignity.",
+  "posterPath": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+  "backdropPath": "/6huSptAsqYg3wbsi1jbMognSgmp.jpg",
+  "logoPath": "/toPJ35TCE4cfZejf7A2vGe0iJ2X.png",
+  "backdrops": [
+    "/1YlaU9vXlD4K5EBGZKjaCb9rJb9.jpg",
+    "/e1pxC4qHLL0uc1Num5jek3GXaK3.jpg",
+    "/6huSptAsqYg3wbsi1jbMognSgmp.jpg",
+    "/xwGymaBsIFdBpoz4fOwXSqiyCHp.jpg",
+    "/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+    "/5gIXSXJQt8HZELJnXTjnkG5GQrU.jpg",
+    "/uqxRkPyGmZm8w33ihjXCorP29LO.jpg",
+    "/8dfDnaDKLKxtpvqTQM3F4hMgvOM.jpg",
+    "/oVV3M2WQfYuags2C8pGwIiNRsjz.jpg",
+    "/k6HGHqpJbSYhdwNSVRfvAN4sEJH.jpg"
+  ],
+  "releaseDate": "1980-10-09",
+  "runtime": 124,
+  "voteAverage": "8.05",
+  "popularity": null,
+  "popularityScore": 146,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=kxb_1457gGs",
+  "quality": "BLU-RAY",
+  "director": "David Lynch",
+  "directorTmdbId": 5602,
+  "directorProfilePath": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+  "productionCompanies": [
+    {
+      "id": 5612,
+      "name": "Brooksfilms",
+      "logo_path": null
+    },
+    {
+      "id": 538,
+      "name": "EMI Films",
+      "logo_path": "/oGpxL5lFf8VpWsAQ6tut0on25LW.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6054,
+      "name": "friendship"
+    },
+    {
+      "id": 212,
+      "name": "london, england"
+    },
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 428,
+      "name": "nurse"
+    },
+    {
+      "id": 2804,
+      "name": "exploitation"
+    },
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 10614,
+      "name": "tragedy"
+    },
+    {
+      "id": 11612,
+      "name": "hospital"
+    },
+    {
+      "id": 12999,
+      "name": "black and white"
+    },
+    {
+      "id": 15060,
+      "name": "period drama"
+    },
+    {
+      "id": 154954,
+      "name": "social injustice"
+    },
+    {
+      "id": 155794,
+      "name": "physical abuse"
+    },
+    {
+      "id": 158023,
+      "name": "curiosity"
+    },
+    {
+      "id": 162735,
+      "name": "disability"
+    },
+    {
+      "id": 163075,
+      "name": "sideshow"
+    },
+    {
+      "id": 164245,
+      "name": "dying young"
+    },
+    {
+      "id": 169333,
+      "name": "emotional vulnerability"
+    },
+    {
+      "id": 170383,
+      "name": "disfigurement"
+    },
+    {
+      "id": 170786,
+      "name": "birth defect"
+    },
+    {
+      "id": 173861,
+      "name": "deformed"
+    },
+    {
+      "id": 174174,
+      "name": "circus freak"
+    },
+    {
+      "id": 186782,
+      "name": "discrimination"
+    },
+    {
+      "id": 188720,
+      "name": "shame"
+    },
+    {
+      "id": 195593,
+      "name": "physical disability"
+    },
+    {
+      "id": 202647,
+      "name": "humanity"
+    },
+    {
+      "id": 203624,
+      "name": "physical deformity"
+    },
+    {
+      "id": 207545,
+      "name": "freak show"
+    },
+    {
+      "id": 207673,
+      "name": "freak"
+    },
+    {
+      "id": 207691,
+      "name": "abuse"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 208666,
+      "name": "dignity"
+    },
+    {
+      "id": 218174,
+      "name": "social isolation"
+    },
+    {
+      "id": 238534,
+      "name": "human monster"
+    },
+    {
+      "id": 273502,
+      "name": "emotion"
+    },
+    {
+      "id": 280263,
+      "name": "anxiety"
+    },
+    {
+      "id": 290693,
+      "name": "social integration"
+    },
+    {
+      "id": 305104,
+      "name": "introspection"
+    },
+    {
+      "id": 356125,
+      "name": "psychological healing"
+    },
+    {
+      "id": 365213,
+      "name": "1880s"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1511,
+  "watchlistCount": 88,
+  "favouriteCount": 10,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-19T13:07:54.463Z",
+  "updatedAt": "2026-10-19T13:25:03.207Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+      "tmdbId": 36,
+      "name": "History",
+      "slug": "history",
+      "createdAt": "2026-04-02T13:49:17.126Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "5059937d-d983-4b56-8f23-ebf3eea80daa",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 4173,
+      "name": "Anthony Hopkins",
+      "character": "Frederick Treves",
+      "profilePath": "/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg",
+      "order": 0
+    },
+    {
+      "id": "1f1b93d1-87d7-4dfb-86d7-7ee8b9658f37",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 5049,
+      "name": "John Hurt",
+      "character": "John Merrick",
+      "profilePath": "/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg",
+      "order": 1
+    },
+    {
+      "id": "2c6b1817-b8cd-4770-a6c9-6075452f2c3a",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 10774,
+      "name": "Anne Bancroft",
+      "character": "Mrs Kendal",
+      "profilePath": "/ydabiabIsMBe2HsNmx43gBpqzxx.jpg",
+      "order": 2
+    },
+    {
+      "id": "84a48cc5-d80b-4531-abba-fabc096fa4a5",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 11857,
+      "name": "John Gielgud",
+      "character": "Carr Gomm",
+      "profilePath": "/rSyG2ypOnMVOuGtDJMYt5VV1bMr.jpg",
+      "order": 3
+    },
+    {
+      "id": "b98d6b2c-96d3-4e80-8040-4bae2ad698f9",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 13325,
+      "name": "Wendy Hiller",
+      "character": "Mothershead",
+      "profilePath": "/psF8n2DRp0UCsmUBnRKwu6YmMoA.jpg",
+      "order": 4
+    },
+    {
+      "id": "e12fb9f8-0475-4fe1-bcc4-7b681a90bbbf",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 12517,
+      "name": "Freddie Jones",
+      "character": "Bytes",
+      "profilePath": "/mWozC9kZFNhxoRSCBvmykROmMGB.jpg",
+      "order": 5
+    },
+    {
+      "id": "e14bf97e-7bbd-4e46-b7f6-28e6be172b0f",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 1821,
+      "name": "Michael Elphick",
+      "character": "Night Porter",
+      "profilePath": "/otQhbUmgPUKc5u2HYPjtVALuy89.jpg",
+      "order": 6
+    },
+    {
+      "id": "efe51162-2bb7-43d1-8a5d-860651175da3",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 159159,
+      "name": "Hannah Gordon",
+      "character": "Mrs Treves",
+      "profilePath": "/sGVO0uSINiYb0RkYHazF1nJIzgf.jpg",
+      "order": 7
+    },
+    {
+      "id": "88fb29f0-6b78-4843-8bc8-988689d758db",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 643171,
+      "name": "Helen Ryan",
+      "character": "Princess Alex",
+      "profilePath": "/ad2e0mxVGaCfiIITqMcejtRlzwe.jpg",
+      "order": 8
+    },
+    {
+      "id": "e5927a94-46e8-4698-9573-bd8cab061477",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 11282,
+      "name": "John Standing",
+      "character": "Fox",
+      "profilePath": "/hQpTeZDljWR2F9n1PcL7sXilwCE.jpg",
+      "order": 9
+    },
+    {
+      "id": "2ef0d3ee-33cc-4e80-8dc9-5669720351c1",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 974,
+      "name": "Dexter Fletcher",
+      "character": "Bytes' Boy",
+      "profilePath": "/gCmb47jus3aKjylqAIi3yEZA9jd.jpg",
+      "order": 10
+    },
+    {
+      "id": "e03ceb68-7356-4402-9a7d-b9458b1b746d",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 47864,
+      "name": "Lesley Dunlop",
+      "character": "Nora",
+      "profilePath": "/7X82PruKzTrgge15UKOiFagqYyp.jpg",
+      "order": 11
+    },
+    {
+      "id": "86898143-d670-4a97-8379-af4e623fbfb5",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 3930,
+      "name": "Phoebe Nicholls",
+      "character": "Merrick's Mother",
+      "profilePath": "/d8kT2SmUGPwYJBVapftuX2EQHRr.jpg",
+      "order": 12
+    },
+    {
+      "id": "872c70b1-d1c6-4efd-b979-9907ae6b6ec1",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 1230584,
+      "name": "Pat Gorman",
+      "character": "Fairground Bobby",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "10b2f1a5-5d60-45a4-92ee-93080eca359d",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 692664,
+      "name": "Claire Davenport",
+      "character": "Fat Lady",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "1d91c278-be84-4873-a07b-872604c6d7ae",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 912036,
+      "name": "Orla Pederson",
+      "character": "Skeleton Man",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "326b3e1b-2d0a-4ff2-b702-3aeef3052d2d",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 158278,
+      "name": "Patsy Smart",
+      "character": "Distraught Woman",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "8c360972-5a7c-49f1-bcfc-e78978acc264",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 47545,
+      "name": "Frederick Treves",
+      "character": "Alderman",
+      "profilePath": "/jXRjkpr4rcY1FF5tB7FEHaiHmHa.jpg",
+      "order": 17
+    },
+    {
+      "id": "9d1a2dfe-8d23-4df5-9ce9-7e01d5d5e096",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 2328075,
+      "name": "Stromboli",
+      "character": "Fire Eater",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "f3c51678-0b86-49f1-be17-3768e2025b30",
+      "movieId": "fee97c98-bf8d-4b13-8df0-ac0a97f8cd61",
+      "tmdbPersonId": 1238976,
+      "name": "Richard Hunter",
+      "character": "Hodges",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "kiikakuy",
+    "displayName": "regina"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

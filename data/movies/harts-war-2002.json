@@ -1,0 +1,404 @@
+{
+  "slug": "harts-war-2002",
+  "id": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+  "tmdbId": 10592,
+  "imdbId": "tt0251114",
+  "title": "Hart's War",
+  "originalTitle": "Hart's War",
+  "overview": "When Col. William McNamara is stripped of his freedom in a German POW camp, he's determined to keep on fighting even from behind enemy lines. Enlisting the help of a young lieutenant in a brilliant plot against his captors, McNamara risks everything on a mission to free his men and change the outcome of the war.",
+  "tagline": "Beyond courage, beyond honor.",
+  "posterPath": "/yRUhSU7vzs5ePa72LNPcKKCCMZ5.jpg",
+  "backdropPath": "/nKWbbDyUSJDZfygnd5uy6RWxsEr.jpg",
+  "logoPath": "/m2qfaXLcZCmrXauY6onjdqgg92p.png",
+  "backdrops": [
+    "/nKWbbDyUSJDZfygnd5uy6RWxsEr.jpg",
+    "/1veiIfMwEJGfZevK31PO40gf8iV.jpg",
+    "/oNdMgOPrjAvIx8QVXqjyTYPYGKm.jpg",
+    "/ialpH5Y1gR8Aq8X6uvQqxC5GKb1.jpg",
+    "/z9BwMdHqKhVhRi2s5BcihGiqWWZ.jpg",
+    "/x2NHL0e1q4PfpaQVLO74EFB4CvU.jpg",
+    "/xdsQ6ZNQDfUxJkjU7PFYrFgGO1c.jpg",
+    "/3sE8aYGRRTF05tGm7YtmT5kGhhu.jpg",
+    "/s4oRsu4nHjp9Gm4yrHmxZ8Czn2f.jpg",
+    "/dVaemJB7KtI4zFhZijtkMWKjzNs.jpg"
+  ],
+  "releaseDate": "2002-02-15",
+  "runtime": 125,
+  "voteAverage": "6.37",
+  "popularity": null,
+  "popularityScore": 79,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=TcRuFgqFLrA",
+  "quality": "WEB-DL",
+  "director": "Gregory Hoblit",
+  "directorTmdbId": 17812,
+  "directorProfilePath": "/1YUF4UpcCX3j3J65a4L1KoLOHAl.jpg",
+  "productionCompanies": [
+    {
+      "id": 496,
+      "name": "David Foster Productions",
+      "logo_path": null
+    },
+    {
+      "id": 890,
+      "name": "Cheyenne Enterprises",
+      "logo_path": null
+    },
+    {
+      "id": 21447,
+      "name": "David Ladd Films",
+      "logo_path": null
+    },
+    {
+      "id": 21,
+      "name": "Metro-Goldwyn-Mayer",
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 10685,
+      "name": "escape"
+    },
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 1968,
+      "name": "prisoner of war"
+    },
+    {
+      "id": 4595,
+      "name": "us army"
+    },
+    {
+      "id": 11038,
+      "name": "trial"
+    },
+    {
+      "id": 9777,
+      "name": "prison escape"
+    },
+    {
+      "id": 10859,
+      "name": "tribunal"
+    },
+    {
+      "id": 13065,
+      "name": "soldier"
+    },
+    {
+      "id": 14519,
+      "name": "military tribunal"
+    },
+    {
+      "id": 160910,
+      "name": "xenophobia"
+    },
+    {
+      "id": 329486,
+      "name": "escape from prison"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1416,
+  "watchlistCount": 6,
+  "favouriteCount": 1,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-03T12:52:06.915Z",
+  "updatedAt": "2026-10-03T12:52:23.135Z",
+  "genres": [
+    {
+      "id": "1de0078f-f038-4fba-87f2-c36e7584a1cb",
+      "tmdbId": 10752,
+      "name": "War",
+      "slug": "war",
+      "createdAt": "2026-04-02T13:49:04.263Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "57341d0e-8bc2-4ab1-9a17-d2d59a5a9135",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 62,
+      "name": "Bruce Willis",
+      "character": "Col. William A. McNamara",
+      "profilePath": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg",
+      "order": 0
+    },
+    {
+      "id": "c091baa0-4850-42d3-a858-f155f0d5b704",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 72466,
+      "name": "Colin Farrell",
+      "character": "Lt. Thomas W. Hart",
+      "profilePath": "/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg",
+      "order": 1
+    },
+    {
+      "id": "2c001711-2d52-4acb-8e21-1baa21f2bd4e",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 18288,
+      "name": "Terrence Howard",
+      "character": "Lt. Lincoln A. Scott",
+      "profilePath": "/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg",
+      "order": 2
+    },
+    {
+      "id": "67603d3c-9cb5-474d-ac6b-a6f7c626b898",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 15320,
+      "name": "Marcel Iureș",
+      "character": "Col. Werner Visser",
+      "profilePath": "/9dDHAnFju2786NXnYFzLBIg6IzW.jpg",
+      "order": 3
+    },
+    {
+      "id": "bcced596-066f-4ddb-8afe-8987ce1dab2d",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 6614,
+      "name": "Cole Hauser",
+      "character": "Staff Sgt. Vic W. Bedford",
+      "profilePath": "/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg",
+      "order": 4
+    },
+    {
+      "id": "6d13b833-1561-4253-acbe-8587e7944497",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 3900,
+      "name": "Linus Roache",
+      "character": "Capt. Peter A. Ross",
+      "profilePath": "/u98VM2S9mbUMCMPvCpk2OUn4Eg2.jpg",
+      "order": 5
+    },
+    {
+      "id": "4e2e3090-5bed-4420-ac38-384419549bc7",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 25868,
+      "name": "Vicellous Shannon",
+      "character": "Lt. Lamar T. Archer",
+      "profilePath": "/rgWqPIgDSgFoIEYjXw9rdnHVFXy.jpg",
+      "order": 6
+    },
+    {
+      "id": "2c5b4b8a-8310-4164-8f15-1f085eff1c83",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 51792,
+      "name": "Rory Cochrane",
+      "character": "Sgt. Carl S. Webb",
+      "profilePath": "/yBwm1RI4QCRXM0vkkDGVqdoiZLH.jpg",
+      "order": 7
+    },
+    {
+      "id": "27dc5d9a-f9d0-46eb-9633-16434ddfa592",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 8192,
+      "name": "Joe Spano",
+      "character": "Col. J.M. Lange",
+      "profilePath": "/rHiJspLrlb4uDmWfchwd8Fv13k7.jpg",
+      "order": 8
+    },
+    {
+      "id": "dc7bd309-29e2-41ec-9f76-2600e42ad5b2",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 51381,
+      "name": "Michael Weston",
+      "character": "Pfc. W. Roy Potts",
+      "profilePath": "/asS6TYplpuAdpuB0Evj65M42bWZ.jpg",
+      "order": 9
+    },
+    {
+      "id": "733e9905-2a3f-4e45-b2f5-ad1d8672afe9",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 5090,
+      "name": "Adrian Grenier",
+      "character": "Pvt. Daniel E. Abrams",
+      "profilePath": "/ghSzUkiw7OjRq0poNOlCjbXbdU6.jpg",
+      "order": 10
+    },
+    {
+      "id": "ae012cc0-6084-48d8-acc4-47f170b43e39",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 27773,
+      "name": "Jonathan Brandis",
+      "character": "Pvt. Lewis P. Wakely",
+      "profilePath": "/fjUTC2SoSImb7qkJ5JUl0aQZDiK.jpg",
+      "order": 11
+    },
+    {
+      "id": "98723660-e87a-4fba-bb92-af1550f9c271",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 65726,
+      "name": "Maury Sterling",
+      "character": "Pfc. Dennis A. Gerber",
+      "profilePath": "/dO9rd0F67Jt9hkcLw4CXERE9q1z.jpg",
+      "order": 12
+    },
+    {
+      "id": "459f2e3f-b895-473d-8149-1a4650e072af",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 65727,
+      "name": "Sam Jaeger",
+      "character": "Capt. R.G. Sisk",
+      "profilePath": "/8t4wSekn6vUyEmg9etTnvTaGJEV.jpg",
+      "order": 13
+    },
+    {
+      "id": "88bd990e-308f-41bb-ab5e-82b2225a90d1",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 65728,
+      "name": "Scott Michael Campbell",
+      "character": "Cpl. Joe S. Cromin",
+      "profilePath": "/p1fKMI59U489Rys9xvqzdTLxPrL.jpg",
+      "order": 14
+    },
+    {
+      "id": "c266ff31-b965-419f-bea4-5bd3f2ba4a62",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 65731,
+      "name": "Sam Worthington",
+      "character": "as Cpl. B.J. 'Depot' Guidry",
+      "profilePath": "/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg",
+      "order": 15
+    },
+    {
+      "id": "4d12f293-3b82-42dc-a5a8-4604792c3b94",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 65730,
+      "name": "Rick Ravanello",
+      "character": "Maj. Joe Clary",
+      "profilePath": "/uAGPJDNrCyg0FqECOCzKRksY2Z9.jpg",
+      "order": 16
+    },
+    {
+      "id": "b6478d0f-0be2-4a20-8b78-08d03986bed1",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 65729,
+      "name": "Sebastian Tillinger",
+      "character": "Pvt. Bert D. 'Moose' Codman",
+      "profilePath": "/rZoiU9fkUYjI7valGlhCuRw29LS.jpg",
+      "order": 17
+    },
+    {
+      "id": "e808c706-bcf6-4064-a427-5a72b8da6009",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 65732,
+      "name": "Brad Hunt",
+      "character": "Pvt. G.H. 'Cookie' Bell",
+      "profilePath": "/uKQR59fnCx4M0oVmYuf4tIuZZCO.jpg",
+      "order": 18
+    },
+    {
+      "id": "a51e7fb9-7ef3-42eb-b08c-e82a64416bd7",
+      "movieId": "9852746a-f895-48fe-b1ea-5c5e22b4b2cf",
+      "tmdbPersonId": 993157,
+      "name": "Tony Devlin",
+      "character": "Pvt. Donald W. West",
+      "profilePath": "/e7LsvEAjJCfKWLZVVp5fNEmJln7.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

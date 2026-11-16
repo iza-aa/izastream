@@ -1,0 +1,100 @@
+{
+  "slug": "mystic-nine-2026",
+  "id": "d0aff766-15b5-4173-aa99-172e3b023cc4",
+  "title": "Mystic Nine",
+  "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+  "tagline": null,
+  "posterPath": "/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+  "backdropPath": "/paF9IoqXN3inVb5eR9rxElbpYyb.jpg",
+  "logoPath": "/lKTcv3oVw2aUqmfA2MASnp2gGr7.png",
+  "firstAirDate": "2026-07-30",
+  "voteAverage": "6.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7b4a6cc0-1648-4e15-ab75-63a417daaf8b",
+      "tvSeriesId": "d0aff766-15b5-4173-aa99-172e3b023cc4",
+      "tmdbPersonId": 127268,
+      "name": "William Chan",
+      "character": "Zhang Qishan",
+      "profilePath": "/mHunqWHguLuD0CEW8vLIrERdegN.jpg",
+      "order": 0
+    },
+    {
+      "id": "7a844f4f-05e0-45f2-95c4-432e84beaaab",
+      "tvSeriesId": "d0aff766-15b5-4173-aa99-172e3b023cc4",
+      "tmdbPersonId": 1803092,
+      "name": "Joseph Zeng",
+      "character": "Wu Laogou",
+      "profilePath": "/hfMNwzZv7SxJ6d8gk8rhPZdg4C8.jpg",
+      "order": 1
+    },
+    {
+      "id": "b736a1d3-403f-4412-b78d-1a3faeeb459f",
+      "tvSeriesId": "d0aff766-15b5-4173-aa99-172e3b023cc4",
+      "tmdbPersonId": 1865921,
+      "name": "Chen Yao",
+      "character": "Huo Xiangu",
+      "profilePath": "/9sqEtFKYtPZ5InwqmfX6qVOYNKV.jpg",
+      "order": 2
+    },
+    {
+      "id": "c792227c-1866-4f22-8637-95a61b70635b",
+      "tvSeriesId": "d0aff766-15b5-4173-aa99-172e3b023cc4",
+      "tmdbPersonId": 1784502,
+      "name": "Ying Haoming",
+      "character": "Qi Tiezui",
+      "profilePath": null,
+      "order": 3
+    },
+    {
+      "id": "f46ab376-6be9-4b9e-9c69-4eadd80b11b8",
+      "tvSeriesId": "d0aff766-15b5-4173-aa99-172e3b023cc4",
+      "tmdbPersonId": 2850866,
+      "name": "Wang Yiting",
+      "character": "Yin Xinyue",
+      "profilePath": "/eluwCgiSuwef895OP5G4jVskGGH.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d3a1760f-8600-423c-acef-5e6c3803917a",
+      "tvSeriesId": "d0aff766-15b5-4173-aa99-172e3b023cc4",
+      "tmdbId": 417788,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/zh8q1TgnNqNo92z65Cum3guG6uu.jpg",
+      "airDate": "2026-07-30",
+      "episodeCount": 30,
+      "isPublished": true,
+      "createdAt": "2026-08-21T02:49:28.658Z",
+      "updatedAt": "2026-08-21T02:54:14.079Z"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "slug": "my-ribdiculous-reincarnation-2026",
+  "id": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+  "title": "My Ribdiculous Reincarnation",
+  "overview": "A man stuck in endless reincarnation avoids long waits for heroic roles by rebirthing into absurd forms—from a hermit crab to a vegetable and even an explosive.",
+  "tagline": null,
+  "posterPath": "/wn2ayiW9uMs6HOPOQtfu4agoTQJ.jpg",
+  "backdropPath": "/zheGPQDo6pOM4Dg1sE6GB246Usp.jpg",
+  "logoPath": "/vixPRhGRIWIJGANeaf4sxsvHJuR.png",
+  "firstAirDate": "2026-04-08",
+  "voteAverage": "7.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3895e993-8943-4fae-9f28-b74a46ed2bca",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbPersonId": 1154449,
+      "name": "Atsushi Abe",
+      "character": "",
+      "profilePath": "/b59PickRsrhT6kaUKN2dD8c7ip.jpg",
+      "order": 0
+    },
+    {
+      "id": "f083d7cf-ab07-463a-a253-d714ce3079a7",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbPersonId": 1161472,
+      "name": "Mao Ichimichi",
+      "character": "",
+      "profilePath": "/a3cflYtrlFK0LXfWODgLDO7E7CP.jpg",
+      "order": 1
+    },
+    {
+      "id": "e3564fff-58bc-42aa-bb57-b95b7a33d973",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbPersonId": 110665,
+      "name": "Daisuke Namikawa",
+      "character": "",
+      "profilePath": "/iw0X8oDutxaBAri3Ifga8nhdUJK.jpg",
+      "order": 2
+    },
+    {
+      "id": "81d7ccf8-ac82-4b76-8f10-501c64b1753e",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbPersonId": 90571,
+      "name": "Toshihiko Seki",
+      "character": "",
+      "profilePath": "/7jUPvx4hxWZWZJgyiCwd8KxWuvI.jpg",
+      "order": 3
+    },
+    {
+      "id": "d00b882c-dbdd-4792-a898-8bef32193a4b",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbPersonId": 144773,
+      "name": "Show Hayami",
+      "character": "",
+      "profilePath": "/HU9LZJdb4H8coHiSaHiUprcFm1.jpg",
+      "order": 4
+    },
+    {
+      "id": "8227b0e1-aaf7-4821-8d3f-3d2dc57eb1b5",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbPersonId": 227879,
+      "name": "Kana Asumi",
+      "character": "",
+      "profilePath": "/5GroiCPTO6PcYaZQXTGWltoT1kq.jpg",
+      "order": 5
+    },
+    {
+      "id": "8daebfb4-8a95-41bd-a059-ecc26ce2b52a",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbPersonId": 1242005,
+      "name": "Yuka Iguchi",
+      "character": "",
+      "profilePath": "/38ZjRGBLD4lvfU3mSMyIBCIq85D.jpg",
+      "order": 6
+    },
+    {
+      "id": "76592581-452f-4c14-8300-c52e63b0c467",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbPersonId": 90135,
+      "name": "Marina Inoue",
+      "character": "",
+      "profilePath": "/nQ7a3krkbea6ukw9KGvvTpMma96.jpg",
+      "order": 7
+    },
+    {
+      "id": "98bb9721-54ba-43e6-93b5-742eeb6529e6",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbPersonId": 65427,
+      "name": "Yuji Ueda",
+      "character": "",
+      "profilePath": "/nwJBK4WwsUCcBcX425GD2BroJDr.jpg",
+      "order": 8
+    },
+    {
+      "id": "36568942-d035-421a-902f-2b1bcad45e53",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbPersonId": 1492992,
+      "name": "Yuma Uchida",
+      "character": "",
+      "profilePath": "/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "0835fdaf-35bf-4b6d-8daa-5234da4512c8",
+      "tvSeriesId": "96f41281-dfa6-4a06-a3df-d89fa85d94cb",
+      "tmdbId": 497424,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/1Wj1Yl3hn8evrA1Qr0dcaCt7tjA.jpg",
+      "airDate": "2026-04-08",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-08-28T14:54:09.809Z",
+      "updatedAt": "2026-08-28T14:57:02.437Z"
+    }
+  ]
+}

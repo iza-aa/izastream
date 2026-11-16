@@ -1,0 +1,152 @@
+{
+  "slug": "matori-and-kyoken-men-in-the-back-alleys-2026",
+  "id": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+  "title": "Matori & Kyoken Men in the Back Alleys",
+  "overview": "After a deadly incident in a Roppongi club, a former child star becomes a double agent for rival narcotics enforcers in Tokyo's criminal underworld.",
+  "tagline": null,
+  "posterPath": "/yfySM9i4pSTJy5WMbGB7ct9kNzc.jpg",
+  "backdropPath": "/1quBFuyulJfThLrtdllalN3ihcb.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-01-21",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ce2ce717-7bb0-420e-8423-df150a1a8ad2",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbPersonId": 1784542,
+      "name": "Daigo Nishihata",
+      "character": "Umezawa Kyonosuke",
+      "profilePath": "/twLGNAX0Y0By50PUKqCpVK4xKah.jpg",
+      "order": 0
+    },
+    {
+      "id": "d21e0383-319f-408e-8b04-a40f7e330b44",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbPersonId": 235147,
+      "name": "Yoshihiko Hosoda",
+      "character": "Kurosaki Toru",
+      "profilePath": "/dPG05qmZNGiIhcldQb0Cc9hfiDM.jpg",
+      "order": 1
+    },
+    {
+      "id": "d64ba441-2cba-441f-8404-9a41fcf1045f",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbPersonId": 230658,
+      "name": "Osamu Mukai",
+      "character": "Katsuragi Akito",
+      "profilePath": "/v42IE7YMM49tLpMXXCALp7FxAEJ.jpg",
+      "order": 2
+    },
+    {
+      "id": "4fb6e482-af0b-4a8c-b220-8aecc2f5f238",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbPersonId": 1921422,
+      "name": "Kokoro Morita",
+      "character": "Sugihara Aoi",
+      "profilePath": "/s3tOWi6sV5VWCIkHICRh0b8O4jD.jpg",
+      "order": 3
+    },
+    {
+      "id": "32d563bd-dbab-4cb6-b6e6-2d35ee219734",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbPersonId": 4136684,
+      "name": "Joe Kujo",
+      "character": "Kaga Hibiki",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "2fea38fc-93ac-4f2e-8648-2f8a8a8b3bdd",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbPersonId": 77872,
+      "name": "Yuichi Kimura",
+      "character": "Shinjo Jo",
+      "profilePath": "/iE7ZVcEOuGT6PZkyNOvDDrkzIRh.jpg",
+      "order": 5
+    },
+    {
+      "id": "0b54e3ce-fb61-4325-9cc6-73fc10ed3f6b",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbPersonId": 1503292,
+      "name": "Yusuke Shoji",
+      "character": "Hainuma Taichi",
+      "profilePath": "/iRAmscyVCVHbQ7W2Vxca7utuutc.jpg",
+      "order": 6
+    },
+    {
+      "id": "77e01e2b-4126-4098-b705-6ac41d1d5ce5",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbPersonId": 1195944,
+      "name": "Kasumi Yamaya",
+      "character": "Aoshima Haruka",
+      "profilePath": "/p1Sz0xWqoiStAjaZc5kIOqX7TcV.jpg",
+      "order": 7
+    },
+    {
+      "id": "016c17c4-acd1-4b69-ba76-56aa287e75db",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbPersonId": 4791720,
+      "name": "Eiku Yamashita",
+      "character": "Inaba Eiji",
+      "profilePath": "/2QzqiMnzn3JksjdqalXXKMRf798.jpg",
+      "order": 8
+    },
+    {
+      "id": "7f697cc1-cd06-48da-82df-d4a62f753916",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbPersonId": 2019377,
+      "name": "Kinari Hirano",
+      "character": "Matsubara Tsutomu",
+      "profilePath": "/apCVyHO7qY3AiV21y9LzjDCjJjC.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "67d7bac1-d5ab-4c2c-829d-9a3c550f0ab4",
+      "tvSeriesId": "02bae586-9dd0-4058-83cd-fb1d884b0211",
+      "tmdbId": 488809,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/9KmbSlxrHzM64kNzfRpxhjbPwQv.jpg",
+      "airDate": "2026-01-21",
+      "episodeCount": 9,
+      "isPublished": true,
+      "createdAt": "2026-10-10T17:52:17.578Z",
+      "updatedAt": "2026-10-10T17:53:33.441Z"
+    }
+  ]
+}

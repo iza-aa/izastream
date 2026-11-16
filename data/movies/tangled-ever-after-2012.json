@@ -1,0 +1,290 @@
+{
+  "slug": "tangled-ever-after-2012",
+  "id": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+  "tmdbId": 82881,
+  "imdbId": "tt2112281",
+  "title": "Tangled Ever After",
+  "originalTitle": "Tangled Ever After",
+  "overview": "The kingdom is in a festive mood as everyone gathers for the royal wedding of Rapunzel and Flynn. However, when Pascal and Maximus, as flower chameleon and ring bearer, respectively, lose the gold bands, a frenzied search and recovery mission gets underway. As the desperate duo tries to find the rings before anyone discovers that they’re missing, they leave behind a trail of comical chaos that includes flying lanterns, a flock of doves, a wine barrel barricade and a very sticky finale. Will Maximus and Pascal save the day and make it to the church in time? And will they ever get Flynn’s nose right?",
+  "tagline": null,
+  "posterPath": "/5IeMW79OxftIUoR5duxyQ4LW5Iy.jpg",
+  "backdropPath": "/6qvKbLYkfXXKM82M38UmDz3IfBk.jpg",
+  "logoPath": "/z7ywGdnDXPnzEUG7rK1XItyWFho.png",
+  "backdrops": [
+    "/6qvKbLYkfXXKM82M38UmDz3IfBk.jpg",
+    "/wuQ2BXNBiagae0MFb499p1qxdMS.jpg",
+    "/fuWGKiC29mIZKcuKbyCQjKhL0Wc.jpg",
+    "/cT1Z00u7eLP5pNgU7AQ0DOsEDin.jpg",
+    "/9zt9Nxy1DOkpJnMXaXuakDKrsmA.jpg",
+    "/cb0MosiMmy8lKSbESkbFLTeBBE0.jpg"
+  ],
+  "releaseDate": "2012-01-13",
+  "runtime": 6,
+  "voteAverage": "7.14",
+  "popularity": null,
+  "popularityScore": 837,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=ukS_OOX3S3M",
+  "quality": "WEB-DL",
+  "director": "Nathan Greno",
+  "directorTmdbId": 121830,
+  "directorProfilePath": "/eFE9odW9uzWAGomGFmmusxJT1Ee.jpg",
+  "productionCompanies": [
+    {
+      "id": 6125,
+      "name": "Walt Disney Animation Studios",
+      "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7376,
+      "name": "princess"
+    },
+    {
+      "id": 7578,
+      "name": "wedding ring"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    },
+    {
+      "id": 263548,
+      "name": "short film"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 28187,
+  "watchlistCount": 126,
+  "favouriteCount": 44,
+  "shareCount": 14,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-01T19:07:58.269Z",
+  "updatedAt": "2026-09-01T19:08:11.112Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ee174d8e-004c-46f6-b76c-87b67f1437d8",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 16855,
+      "name": "Mandy Moore",
+      "character": "Rapunzel (voice)",
+      "profilePath": "/2n0rqUGojRNEHrmtPeCEptHREEY.jpg",
+      "order": 0
+    },
+    {
+      "id": "15afe4d8-747f-4cb0-b7dc-44996e06bc4b",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 69899,
+      "name": "Zachary Levi",
+      "character": "Flynn Rider (voice)",
+      "profilePath": "/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg",
+      "order": 1
+    },
+    {
+      "id": "36adb0bf-9a82-44e0-8d5b-6238f35ef195",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 52760,
+      "name": "Alan Dale",
+      "character": "Priest (voice)",
+      "profilePath": "/3BcpSoKBOwHX0wxaPZpOJ5buO89.jpg",
+      "order": 2
+    },
+    {
+      "id": "75d4bb1d-d522-4540-97c7-0cfe69b8a78c",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 1219029,
+      "name": "Paul F. Tompkins",
+      "character": "Short Thug (voice)",
+      "profilePath": "/pL9v2aubEAOSW0lgrWyP0vvGr34.jpg",
+      "order": 3
+    },
+    {
+      "id": "84f92108-d752-46d7-bced-928851868b5a",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 116315,
+      "name": "Kari Wahlgren",
+      "character": "Queen (voice)",
+      "profilePath": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg",
+      "order": 4
+    },
+    {
+      "id": "30a57f84-9313-41ce-9838-d1f9e382b025",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 649103,
+      "name": "Mark Allan Stewart",
+      "character": "Dove Caller (voice)",
+      "profilePath": "/kvsKWZe9TxG5EkOVaSdC80AIOiL.jpg",
+      "order": 5
+    },
+    {
+      "id": "57669b81-3c4d-49a5-a12c-587e3408636f",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 76595,
+      "name": "Byron Howard",
+      "character": "Lantern Wrangler / Chef (voice)",
+      "profilePath": "/ePJXkxrD44nM0VB7Xx9Q4ityzfT.jpg",
+      "order": 6
+    },
+    {
+      "id": "ac25db2b-fb42-4c52-975d-c286c286b603",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 121830,
+      "name": "Nathan Greno",
+      "character": "Maximus / Guard / Stabbington Brothers (voice)",
+      "profilePath": "/eFE9odW9uzWAGomGFmmusxJT1Ee.jpg",
+      "order": 7
+    },
+    {
+      "id": "bc257fe8-6228-42d5-8158-d5705c6e9c66",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 159720,
+      "name": "Matt Nolan",
+      "character": "Frying Pan Caller (voice)",
+      "profilePath": "/cph12yf1h82tucawsqo8wIIlivb.jpg",
+      "order": 8
+    },
+    {
+      "id": "a4a1d046-6460-4fc4-bcd9-c721e853c7f7",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 65715,
+      "name": "Robert Bagnell",
+      "character": "Additional Voices (voice)",
+      "profilePath": "/z3HiZive4qVRxw5Ou0ME0NeMt0C.jpg",
+      "order": 9
+    },
+    {
+      "id": "7846642e-37d3-445d-8329-da7ca1ea953c",
+      "movieId": "cfc366a3-9ae8-4d53-a5f6-a23d9a26b6c5",
+      "tmdbPersonId": 1219571,
+      "name": "Erin Matthews",
+      "character": "Additional Voices (voice)",
+      "profilePath": "/kMIpdbqQrxjEPKovHXQKpL0J3zI.jpg",
+      "order": 10
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "phony-2026",
+  "id": "295742f1-de36-4723-93b8-cf909608e247",
+  "title": "Phony",
+  "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+  "tagline": "The mother of all mysteries.",
+  "posterPath": "/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+  "backdropPath": "/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+  "logoPath": "/xqc5IeHc6TzT1uvNZ1CCNIiTeNC.png",
+  "firstAirDate": "2026-10-20",
+  "voteAverage": "1.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 4,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8cb1146f-067e-4a36-b2c6-1b990f48903d",
+      "tvSeriesId": "295742f1-de36-4723-93b8-cf909608e247",
+      "tmdbPersonId": 86310,
+      "name": "Connie Britton",
+      "character": "Ellen",
+      "profilePath": "/lxfHf4tTx5NukbemcJjmgqqFAiV.jpg",
+      "order": 0
+    },
+    {
+      "id": "82a50de9-a943-4504-9ac8-8de0a1c4c99d",
+      "tvSeriesId": "295742f1-de36-4723-93b8-cf909608e247",
+      "tmdbPersonId": 3153829,
+      "name": "Sam Nivola",
+      "character": "Sonny",
+      "profilePath": "/4EL6gTYGkmrjZo7hBjDemut3m1Q.jpg",
+      "order": 1
+    },
+    {
+      "id": "bed6620e-0720-470e-a0cb-7d7422ad9358",
+      "tvSeriesId": "295742f1-de36-4723-93b8-cf909608e247",
+      "tmdbPersonId": 4224788,
+      "name": "Grace Brennan",
+      "character": "Mallory",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "6f6c6cdf-199e-4234-8b9d-184e59308d53",
+      "tvSeriesId": "295742f1-de36-4723-93b8-cf909608e247",
+      "tmdbPersonId": 2198002,
+      "name": "Maliq Johnson",
+      "character": "Vogel",
+      "profilePath": "/3TUTmXc7eohJQIK9f5lMDH82YB8.jpg",
+      "order": 3
+    },
+    {
+      "id": "b565add1-274d-4206-8fe1-dc9d872ebf29",
+      "tvSeriesId": "295742f1-de36-4723-93b8-cf909608e247",
+      "tmdbPersonId": 6975,
+      "name": "Meera Syal",
+      "character": "Sharla",
+      "profilePath": "/xjndtTD7lIvuCSMtAYBQtTVwMGV.jpg",
+      "order": 4
+    },
+    {
+      "id": "edeebbfc-0563-4faf-bcab-beb19e2f94c2",
+      "tvSeriesId": "295742f1-de36-4723-93b8-cf909608e247",
+      "tmdbPersonId": 6174990,
+      "name": "Colter Lee",
+      "character": "Weldon",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "1fedb1ee-2624-46db-b9c6-04c885d866b1",
+      "tvSeriesId": "295742f1-de36-4723-93b8-cf909608e247",
+      "tmdbPersonId": 4492447,
+      "name": "Mahaela Park",
+      "character": "Chloe",
+      "profilePath": "/vjkIuHXbmhkbViEJXU3r06EdtiG.jpg",
+      "order": 6
+    },
+    {
+      "id": "3441d0ac-6255-458c-9de5-e814962a2542",
+      "tvSeriesId": "295742f1-de36-4723-93b8-cf909608e247",
+      "tmdbPersonId": 4622381,
+      "name": "Elijah Fox",
+      "character": "Ethan",
+      "profilePath": "/5hE7LBTyDvgxHRogBzVlY9kcqGg.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1009acf6-cda4-44fa-97b5-52d166325fda",
+      "tvSeriesId": "295742f1-de36-4723-93b8-cf909608e247",
+      "tmdbId": 425115,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "posterPath": "/l54KIXGSLbLXkfEHioM5KNxggPj.jpg",
+      "airDate": "2026-10-20",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-20T11:33:49.507Z",
+      "updatedAt": "2026-11-10T14:19:37.312Z"
+    }
+  ]
+}

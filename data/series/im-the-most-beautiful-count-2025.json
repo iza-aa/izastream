@@ -1,0 +1,111 @@
+{
+  "slug": "im-the-most-beautiful-count-2025",
+  "id": "0f1081ec-3aa2-4684-84be-5de3480801b8",
+  "title": "I'm the Most Beautiful Count",
+  "overview": "After waking in a past life, a proud queer icon must survive as a nobleman in a repressive kingdom—where same-sex love is outlawed and power is deadly.",
+  "tagline": null,
+  "posterPath": "/t0TRABzhnRp5tb0dUQz4ldGdtsf.jpg",
+  "backdropPath": "/bd8HJglIf5FRdBCNFuGGbk1izUu.jpg",
+  "logoPath": "/626qUBuq8294WqJmJb2wiDvRKic.png",
+  "firstAirDate": "2025-08-01",
+  "voteAverage": "8.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 15,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "37858935-52a6-48a4-85fa-ae56d613122a",
+      "tvSeriesId": "0f1081ec-3aa2-4684-84be-5de3480801b8",
+      "tmdbPersonId": 3390749,
+      "name": "Supanut Lourhaphanich",
+      "character": "Prince / Woradet",
+      "profilePath": "/6lj90I6Sbaub6AAFUBetIVXhh16.jpg",
+      "order": 0
+    },
+    {
+      "id": "f63f40a7-9f59-4ca5-ae3d-c1e50a59e501",
+      "tvSeriesId": "0f1081ec-3aa2-4684-84be-5de3480801b8",
+      "tmdbPersonId": 4324700,
+      "name": "Obrnithi Leelavetchabutr",
+      "character": "Kosol",
+      "profilePath": "/wedI6YWewMizuZG7kWQNTAUPvd0.jpg",
+      "order": 1
+    },
+    {
+      "id": "445c4c06-efcf-4b85-ab69-a896e45bcd04",
+      "tvSeriesId": "0f1081ec-3aa2-4684-84be-5de3480801b8",
+      "tmdbPersonId": 4324704,
+      "name": "Asre Wattanayakul",
+      "character": "Jade (Jiad)",
+      "profilePath": "/jUNXXSdQ0k0ied0t1ZXLiyzHES4.jpg",
+      "order": 2
+    },
+    {
+      "id": "a43cfd5c-a2ee-49f2-935c-2636f1ee3e82",
+      "tvSeriesId": "0f1081ec-3aa2-4684-84be-5de3480801b8",
+      "tmdbPersonId": 3473921,
+      "name": "Pataraphol Wanlopsiri",
+      "character": "Banjong",
+      "profilePath": "/mcHKh5MvyeUOv9pS1CPtTjefpax.jpg",
+      "order": 3
+    },
+    {
+      "id": "4435155e-c123-4e59-a5e5-db4c7a7273e6",
+      "tvSeriesId": "0f1081ec-3aa2-4684-84be-5de3480801b8",
+      "tmdbPersonId": 3390827,
+      "name": "Thanakorn Techawicha",
+      "character": "Chaiyachet",
+      "profilePath": "/1zJbucFMY26nX8UZPFdXXDym10L.jpg",
+      "order": 4
+    },
+    {
+      "id": "fe7eecd1-2812-4b22-82cb-5fa3e77051fd",
+      "tvSeriesId": "0f1081ec-3aa2-4684-84be-5de3480801b8",
+      "tmdbPersonId": 4759013,
+      "name": "Jiratchaya Kittavornsakul",
+      "character": "Pandao",
+      "profilePath": "/dFEtzDhoMJzKqQTiZzJEWuY9tMw.jpg",
+      "order": 5
+    },
+    {
+      "id": "2fa7e882-e119-43ec-9eb0-47b10e5a9f35",
+      "tvSeriesId": "0f1081ec-3aa2-4684-84be-5de3480801b8",
+      "tmdbPersonId": 1067242,
+      "name": "Warinda Damrongphol",
+      "character": "Nat",
+      "profilePath": "/5Fpo3urdKCGgLA6at88htsgyIXD.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "81f52339-4685-4ef6-835f-f0f2b7bd84f3",
+      "tvSeriesId": "0f1081ec-3aa2-4684-84be-5de3480801b8",
+      "tmdbId": 390123,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "After waking in a past life, a proud queer icon must survive as a nobleman in a repressive kingdom—where same-sex love is outlawed and power is deadly.",
+      "posterPath": "/t0TRABzhnRp5tb0dUQz4ldGdtsf.jpg",
+      "airDate": "2025-08-01",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-06-15T19:13:05.467Z",
+      "updatedAt": "2026-06-15T19:20:07.871Z"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "the-perfect-lie-2026",
+  "id": "1d21bcbd-3886-492d-afe6-2d230cbb72d7",
+  "title": "The Perfect Lie",
+  "overview": "When one of their own is killed in a house fire, four picture-perfect couples are forced to question everything they thought they knew about each other.",
+  "tagline": null,
+  "posterPath": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+  "backdropPath": "/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
+  "logoPath": "/r7EndLSH90kZYoDICixO89hEcpO.png",
+  "firstAirDate": "2026-09-10",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "18b74146-5250-4ecf-8648-f2b16af62248",
+      "tvSeriesId": "1d21bcbd-3886-492d-afe6-2d230cbb72d7",
+      "tmdbPersonId": 927675,
+      "name": "Loes Haverkort",
+      "character": "",
+      "profilePath": "/7Mz5pEkDGCXWY5nhiwSn8yWDFjx.jpg",
+      "order": 0
+    },
+    {
+      "id": "b91c1f72-f213-41d7-b3e8-ca1b05fcb61f",
+      "tvSeriesId": "1d21bcbd-3886-492d-afe6-2d230cbb72d7",
+      "tmdbPersonId": 87847,
+      "name": "Remko Vrijdag",
+      "character": "",
+      "profilePath": "/g6KW48DqW8kcd2JkKRdUDyMrerk.jpg",
+      "order": 1
+    },
+    {
+      "id": "95cbfa2f-9ca0-4f57-81d0-d037cde35573",
+      "tvSeriesId": "1d21bcbd-3886-492d-afe6-2d230cbb72d7",
+      "tmdbPersonId": 1287876,
+      "name": "Noortje Herlaar",
+      "character": "",
+      "profilePath": "/9UupimmSLCQ7uoLCg2wDOcmTjAJ.jpg",
+      "order": 2
+    },
+    {
+      "id": "f699a749-c9fd-472f-b618-7d385b11826c",
+      "tvSeriesId": "1d21bcbd-3886-492d-afe6-2d230cbb72d7",
+      "tmdbPersonId": 211236,
+      "name": "Edwin Jonker",
+      "character": "",
+      "profilePath": "/6oTvPHOxmwMVoZp6sCb6xzo3wNk.jpg",
+      "order": 3
+    },
+    {
+      "id": "2f047038-4aa0-4d9e-9d73-18a033d966fb",
+      "tvSeriesId": "1d21bcbd-3886-492d-afe6-2d230cbb72d7",
+      "tmdbPersonId": 87345,
+      "name": "Rifka Lodeizen",
+      "character": "",
+      "profilePath": "/l5hLOMTloXy9WKSX3WNA5MyXnfk.jpg",
+      "order": 4
+    },
+    {
+      "id": "308911a3-a926-4f5c-be70-6f73028f24f9",
+      "tvSeriesId": "1d21bcbd-3886-492d-afe6-2d230cbb72d7",
+      "tmdbPersonId": 87862,
+      "name": "Matthijs van de Sande Bakhuyzen",
+      "character": "",
+      "profilePath": "/yNhTWoImNo9JInAYkfEQngHI4z.jpg",
+      "order": 5
+    },
+    {
+      "id": "f42767bc-d821-4a0a-ac08-04b6b91bf6dc",
+      "tvSeriesId": "1d21bcbd-3886-492d-afe6-2d230cbb72d7",
+      "tmdbPersonId": 929890,
+      "name": "Charlie Dagelet",
+      "character": "",
+      "profilePath": "/9PkrramaZKhm6agGOk99G6gf049.jpg",
+      "order": 6
+    },
+    {
+      "id": "6c3b9e7b-0fae-41b1-9da5-ca7871cb71de",
+      "tvSeriesId": "1d21bcbd-3886-492d-afe6-2d230cbb72d7",
+      "tmdbPersonId": 570947,
+      "name": "Teun Luijkx",
+      "character": "",
+      "profilePath": "/wOQZpDsOVgNOJbQ2FgqY3gRoQ6J.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "b2dd4997-6d94-4882-a3e0-8f2da59f9357",
+      "tvSeriesId": "1d21bcbd-3886-492d-afe6-2d230cbb72d7",
+      "tmdbId": 523012,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+      "airDate": "2026-09-10",
+      "episodeCount": 7,
+      "isPublished": true,
+      "createdAt": "2026-09-11T10:57:22.487Z",
+      "updatedAt": "2026-09-11T10:58:56.103Z"
+    }
+  ]
+}

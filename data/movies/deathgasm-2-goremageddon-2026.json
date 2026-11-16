@@ -1,0 +1,398 @@
+{
+  "slug": "deathgasm-2-goremageddon-2026",
+  "id": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+  "tmdbId": 1177529,
+  "imdbId": "tt32606305",
+  "title": "Deathgasm 2: Goremageddon",
+  "originalTitle": "Deathgasm 2: Goremageddon",
+  "overview": "After failing to reform his heavy metal band DEATHGASM for a battle-of-the-bands to win back his girlfriend Medina, Brodie decides to use black magic to raise his ex-band members Zakk and Dion from the dead. However, his resurrected friends become unpredictable and dangerous, leading to chaos in the town.",
+  "tagline": "Evil cums again!",
+  "posterPath": "/e4iLDxqe8fcIG42YORNlh3t1ZJb.jpg",
+  "backdropPath": "/mbVx1IL2wx66171Kpr7vTmLssx.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/mbVx1IL2wx66171Kpr7vTmLssx.jpg",
+    "/z87er297aO8r4S0FFiaWhTXQ26e.jpg",
+    "/sWEN9M60ldgRp8d5E6rQeEG9lbA.jpg",
+    "/tg5JQCOykNwBLTsZzEUR4YRvc7V.jpg",
+    "/nINJMC3S9CyjpKYRODxOC6hnn8X.jpg",
+    "/91OzKn9cj6pbUJjEPneUJ0xkoH.jpg",
+    "/tCixXwqoClqmBZ1jdunGownyLdL.jpg",
+    "/5MTFOf5iwl3YsDEJhJscFQ5csM6.jpg",
+    "/plMQ0PYHivnKHQNDZsEHczmXgAJ.jpg"
+  ],
+  "releaseDate": "2026-09-29",
+  "runtime": 102,
+  "voteAverage": "0.00",
+  "popularity": null,
+  "popularityScore": 72,
+  "originalLanguage": "en",
+  "country": "NZ",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=BrJ4KD5csU0",
+  "quality": "WEB-DL",
+  "director": "Jason Lei Howden",
+  "directorTmdbId": 1422673,
+  "directorProfilePath": "/4SybBzMHKYfU6jKByLn7n4pFCFX.jpg",
+  "productionCompanies": [
+    {
+      "id": 240536,
+      "name": "Fish Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 166352,
+      "name": "Hangar 18 Media",
+      "logo_path": "/iGT88rHQbaTOqlGka0FcDA7Yudw.png"
+    },
+    {
+      "id": 25884,
+      "name": "Raven Banner Entertainment",
+      "logo_path": "/zL8l7rZGwALoDJQwvw4ZnCQfpgA.png"
+    },
+    {
+      "id": 86938,
+      "name": "Fahrenheit Films",
+      "logo_path": null
+    },
+    {
+      "id": 212310,
+      "name": "Creative Saskatchewan",
+      "logo_path": null
+    },
+    {
+      "id": 294,
+      "name": "New Zealand Film Commission",
+      "logo_path": "/a05DY2oSeUOVFDM61RsQa9x9RoC.png"
+    },
+    {
+      "id": 275720,
+      "name": "Bitbot Media",
+      "logo_path": null
+    },
+    {
+      "id": 45767,
+      "name": "Metalheads Ltd.",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5540,
+      "name": "heavy metal"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 155493,
+      "name": "campy"
+    },
+    {
+      "id": 256183,
+      "name": "supernatural horror"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 793,
+  "watchlistCount": 3,
+  "favouriteCount": 4,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-17T17:16:55.267Z",
+  "updatedAt": "2026-10-17T17:17:10.054Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "de06f77f-47f8-4fca-a644-c1d47c839b99",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 966556,
+      "name": "Milo Cawthorne",
+      "character": "Brodie",
+      "profilePath": "/4BRryDvdn2evnXtKb7ZWbOyya2y.jpg",
+      "order": 0
+    },
+    {
+      "id": "baff4464-e567-42cc-922c-0273141834d2",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 1406654,
+      "name": "Kimberley Crossman",
+      "character": "Medina",
+      "profilePath": "/8ZbiHAYi7SrsJu2wwODwOPn1qZE.jpg",
+      "order": 1
+    },
+    {
+      "id": "32b04d61-34cd-4613-950e-2f861e31bddf",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 1224948,
+      "name": "James Blake",
+      "character": "Zakk",
+      "profilePath": "/tm1e8YlwMs4RucDWFG5TlKeZ4Nl.jpg",
+      "order": 2
+    },
+    {
+      "id": "129aa758-3512-40ef-8180-c93e21f9696d",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 1422674,
+      "name": "Sam Berkley",
+      "character": "Dion",
+      "profilePath": "/p21nDm6asUQgn2EJO2CDeJ5axKu.jpg",
+      "order": 3
+    },
+    {
+      "id": "8e6d23a1-9ca0-4fc7-9ad9-983d92fae983",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 1290161,
+      "name": "Daniel Cresswell",
+      "character": "Giles",
+      "profilePath": "/wqZfdLIq6MUzClUyWGuwsJVs1T3.jpg",
+      "order": 4
+    },
+    {
+      "id": "4130e0ac-c467-4061-9038-99b2756935c8",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 1632569,
+      "name": "Kieran Charnock",
+      "character": "Jesse Dead",
+      "profilePath": "/cMafUBNoexI5BxQ48a2dxTVmJhB.jpg",
+      "order": 5
+    },
+    {
+      "id": "dd2dfd72-507b-4328-9552-1343fbbc5917",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 3450985,
+      "name": "Harrison Keefe",
+      "character": "Jonno Bates",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "591ff7d3-1fdd-465f-a579-bdc6550238ad",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 4327121,
+      "name": "Maggie Robertson",
+      "character": "Ana",
+      "profilePath": "/q4ZLrqW0pEoCJw8cC9zwdaiOHUN.jpg",
+      "order": 7
+    },
+    {
+      "id": "2da37398-2c30-4616-845a-09c3cb0d37e7",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 1506026,
+      "name": "Adam Scherr",
+      "character": "Security Guard",
+      "profilePath": "/fJeSMSNiV88yuIYECN2Zl6Sw3eA.jpg",
+      "order": 8
+    },
+    {
+      "id": "eb874de3-f661-4feb-b5b4-d21cf2a64559",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 5717631,
+      "name": "Willa Hefner-Hunt",
+      "character": "Rattlehead",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "d405cef9-70d7-4388-b182-33a3354fd680",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 5717634,
+      "name": "Landon Jorgenson",
+      "character": "Drug Inspector 2",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "f5aeda65-8e34-4aec-b1a3-e6c9aa1b5d99",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 5717636,
+      "name": "Legbo Menegbo",
+      "character": "Knight Undead Minion",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "33e5ecdb-a8c3-4bb7-9501-760df5b12ce3",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 2800407,
+      "name": "Dana Lesiuk",
+      "character": "Hell Jester Undead Minion",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "ef89ee49-46d4-454e-a402-ee683205b4f2",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 5717639,
+      "name": "Theresa McKnight",
+      "character": "Metal Fan/Zombie",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "fcb5cfdc-8bef-4958-a516-1e2d409053f7",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 5127399,
+      "name": "Joshua Viola",
+      "character": "Man with Incredibly Small Penis",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "75ef85a1-e7bf-4b39-847a-99a23bc01555",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 5839397,
+      "name": "Chase Gray",
+      "character": "Lester",
+      "profilePath": "/uyAKxQq4fEIxN6xlZLxPo55t0nC.jpg",
+      "order": 15
+    },
+    {
+      "id": "944591f9-2245-4b00-89e5-43951b995335",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 2859919,
+      "name": "Logan Vanghel",
+      "character": "Wizard Undead Minion",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "d5b4bf90-a038-4257-9646-fe3c58d91056",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 1084025,
+      "name": "Matt Heafy",
+      "character": "Himself",
+      "profilePath": "/eFoMgvyykab9LHdRTjW3dHsOEhq.jpg",
+      "order": 17
+    },
+    {
+      "id": "affb2ba9-b0bd-4b36-8690-b9282b0ef7bd",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 6539386,
+      "name": "Brett Ballendine",
+      "character": "Record Store Owner",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "01335fdc-2c18-4fdd-bfd2-f94deb5265e2",
+      "movieId": "4edbf617-a056-4dba-8e0f-c8d90735a8bb",
+      "tmdbPersonId": 6539388,
+      "name": "Brayden Amos",
+      "character": "Young Pierced Dude - Kayson",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "destiny22_",
+    "displayName": "destiny"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

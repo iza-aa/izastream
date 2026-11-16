@@ -1,0 +1,396 @@
+{
+  "slug": "oculus-2014",
+  "id": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+  "tmdbId": 157547,
+  "imdbId": "tt2388715",
+  "title": "Oculus",
+  "originalTitle": "Oculus",
+  "overview": "A woman tries to exonerate her brother's murder conviction by proving that the crime was committed by a supernatural phenomenon.",
+  "tagline": "You see what it wants you to see.",
+  "posterPath": "/yCzR1yKRLiJyTDLgY1ppazXEmdE.jpg",
+  "backdropPath": "/o0EQmMhHA6Gpf7MS7KxPafWqTPp.jpg",
+  "logoPath": "/oEeBiW2a849kRQ85gx3rQ3k7JNp.png",
+  "backdrops": [
+    "/o0EQmMhHA6Gpf7MS7KxPafWqTPp.jpg",
+    "/1kWhRKX50SiDeAkdBqqWQ6ESwG3.jpg",
+    "/aT2nfNXuHBdKgkkZ2yNsyS3k9jo.jpg",
+    "/fe2z2ogga2SXs7rye8XcHmBz9.jpg",
+    "/dm2OB35mOLkkOKZMnHNMN1DnJvU.jpg",
+    "/c0kRakyAEoyY82CU4jLQAWPH7XE.jpg",
+    "/dh0dwFJQd4hqA9Hzt5gGAhsPhmm.jpg",
+    "/voV7Py5vJp2JEDJxZn1Y5HT5a3u.jpg",
+    "/dp9MjprjilnOLc3tO3LKqszlJhZ.jpg",
+    "/oetKJ6CSp16SJ3moqEgbYTBFciL.jpg"
+  ],
+  "releaseDate": "2014-04-03",
+  "runtime": 104,
+  "voteAverage": "6.50",
+  "popularity": null,
+  "popularityScore": 952,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=gA1dCfn8PBA",
+  "quality": "WEB-DL",
+  "director": "Mike Flanagan",
+  "directorTmdbId": 551463,
+  "directorProfilePath": "/sjnAyb7un3eS7THLQQzJBzkv2Yo.jpg",
+  "productionCompanies": [
+    {
+      "id": 24510,
+      "name": "MICA Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 1224,
+      "name": "Intrepid Pictures",
+      "logo_path": "/9s5tOG7GWWym1P37QJuFX438rAI.png"
+    },
+    {
+      "id": 3172,
+      "name": "Blumhouse Productions",
+      "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png"
+    },
+    {
+      "id": 10339,
+      "name": "WWE Studios",
+      "logo_path": "/oiIi36MaWXwvvHWX5eojoE2Fiyv.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1157,
+      "name": "husband wife relationship"
+    },
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 3358,
+      "name": "haunted house"
+    },
+    {
+      "id": 3298,
+      "name": "hallucination"
+    },
+    {
+      "id": 10235,
+      "name": "family relationships"
+    },
+    {
+      "id": 9854,
+      "name": "artifact"
+    },
+    {
+      "id": 161198,
+      "name": "skepticism"
+    },
+    {
+      "id": 162846,
+      "name": "ghost"
+    },
+    {
+      "id": 245957,
+      "name": "fear of mirrors"
+    },
+    {
+      "id": 249379,
+      "name": "mirror"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 11908,
+  "watchlistCount": 105,
+  "favouriteCount": 11,
+  "shareCount": 4,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-19T13:29:15.964Z",
+  "updatedAt": "2026-10-19T13:29:31.939Z",
+  "genres": [
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "38b84990-dac6-4c17-995f-05a7c8ffe20b",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 543261,
+      "name": "Karen Gillan",
+      "character": "Kaylie Russell",
+      "profilePath": "/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg",
+      "order": 0
+    },
+    {
+      "id": "858dadcf-e395-4ced-b5ab-d9253b3dd0aa",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 1017347,
+      "name": "Brenton Thwaites",
+      "character": "Tim Russell",
+      "profilePath": "/4jrtVjdIGJpmgevEPRuIIU9HWcO.jpg",
+      "order": 1
+    },
+    {
+      "id": "030f7f70-660c-44c9-b338-cee5d66aee63",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 51798,
+      "name": "Katee Sackhoff",
+      "character": "Marie Russell",
+      "profilePath": "/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg",
+      "order": 2
+    },
+    {
+      "id": "29d024be-5130-49ca-ad76-f4bb1bf97bbf",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 51792,
+      "name": "Rory Cochrane",
+      "character": "Alan Russell",
+      "profilePath": "/yBwm1RI4QCRXM0vkkDGVqdoiZLH.jpg",
+      "order": 3
+    },
+    {
+      "id": "bc1f29e3-72a7-41c8-9d09-8c6b6cd7f8cf",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 1024722,
+      "name": "Annalise Basso",
+      "character": "Young Kaylie",
+      "profilePath": "/83ZIWVz4TxrCNgnUVayrMnv9UXA.jpg",
+      "order": 4
+    },
+    {
+      "id": "15bc6fa1-ca8a-47e2-8d5a-965d3beec33e",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 206505,
+      "name": "Garrett Ryan",
+      "character": "Young Tim",
+      "profilePath": "/sad0CJT5ERc8k6gBcyjhIeBxl5n.jpg",
+      "order": 5
+    },
+    {
+      "id": "ea7b7574-8405-419b-84ac-9454dfdb521e",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 98050,
+      "name": "James Lafferty",
+      "character": "Michael Dumont",
+      "profilePath": "/lvUyG8wwYPUl8x5byd1g5Y2A0ia.jpg",
+      "order": 6
+    },
+    {
+      "id": "36fc5960-7f90-4776-a8d8-fa6f03cf7940",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 30488,
+      "name": "Miguel Sandoval",
+      "character": "Dr. Shawn Graham",
+      "profilePath": "/v5tHxTkgOqcdWgjoEhUj0a50NIK.jpg",
+      "order": 7
+    },
+    {
+      "id": "e6270158-3157-4a57-ab49-02094a502034",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 932076,
+      "name": "Kate Siegel",
+      "character": "Marisol Chavez",
+      "profilePath": "/jJJGmVKvMFHMJEwyfiHgxXEFePO.jpg",
+      "order": 8
+    },
+    {
+      "id": "9b7badfd-7a67-42b3-8476-eb50e576cd2e",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 216570,
+      "name": "Scott Graham",
+      "character": "Warren",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "444d278c-f26c-4e9e-a970-bc81874a2019",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 583457,
+      "name": "Justin Gordon",
+      "character": "Supervisor Mark",
+      "profilePath": "/s2ddWrpcE8c4eqTugEt5lrvpAyY.jpg",
+      "order": 10
+    },
+    {
+      "id": "e5fdc2d3-a0d8-43bf-bb75-bc66e136cd4e",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 551461,
+      "name": "Dave Levine",
+      "character": "Robert Clancy",
+      "profilePath": "/mOoOOXD5f9OjK5nTbdvaaMjmJx9.jpg",
+      "order": 11
+    },
+    {
+      "id": "8107d369-2788-4f5b-abc7-83b1f9ecc533",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 2101303,
+      "name": "Stephanie Minter",
+      "character": "Virginia Lasser",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "8956d292-c9e8-4018-847b-a0ea8ce9a341",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 2101305,
+      "name": "Skye L. Johnson",
+      "character": "Mary O'Connor",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "8dd0a093-b9db-416c-a696-337cc878228c",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 572407,
+      "name": "Courtney Bell",
+      "character": "Auctioneer",
+      "profilePath": "/djW2iSl5VKsT8xirFIvl0kLRStK.jpg",
+      "order": 14
+    },
+    {
+      "id": "df78fa4e-3f1b-4326-b28d-cca60f490ca6",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 2101304,
+      "name": "Allison Boyd",
+      "character": "Beatrice O'Connor",
+      "profilePath": "/rxq92AXPmmo1XFCwRFWNkdusgF4.jpg",
+      "order": 15
+    },
+    {
+      "id": "eb85c1cc-71b4-470b-b162-bb6b1678d2c9",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 1910482,
+      "name": "Jamie Flanagan",
+      "character": "Tobin Capp",
+      "profilePath": "/l2tV3LMf6JHwbsL8dUeCCP5VRRT.jpg",
+      "order": 16
+    },
+    {
+      "id": "551a0edb-915d-4057-bd0f-8f0ac9510d00",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 2101306,
+      "name": "Alexandra Beer",
+      "character": "Marcia Wicker",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "8ad578ff-dcf4-48e9-9c09-2a6d81bb20b8",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 60471,
+      "name": "Marc D. Evans",
+      "character": "Oliver Jeffries",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "66783296-b856-429e-8bf2-c5182f4f125f",
+      "movieId": "eb27c018-06b0-4513-95ac-b7af5f26929a",
+      "tmdbPersonId": 2101307,
+      "name": "Toni White",
+      "character": "Alice Carden",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "furious_orange",
+    "displayName": "Marbas"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

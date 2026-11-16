@@ -1,0 +1,86 @@
+{
+  "slug": "brothers-2026",
+  "id": "97fc656f-744f-4b08-8fb8-7a128a06c74e",
+  "title": "Brothers",
+  "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+  "tagline": "A comedy series based on a rumor.",
+  "posterPath": "/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+  "backdropPath": "/8GPyELfTrAfi8yGCIWqjXXT8mUZ.jpg",
+  "logoPath": "/34yURPkrtNaP3NYQJDI2SZOVXud.png",
+  "firstAirDate": "2026-09-22",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b07d4573-22a7-4362-8a66-c3a10da40ba6",
+      "tvSeriesId": "97fc656f-744f-4b08-8fb8-7a128a06c74e",
+      "tmdbPersonId": 10297,
+      "name": "Matthew McConaughey",
+      "character": "Matthew McConaughey",
+      "profilePath": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg",
+      "order": 0
+    },
+    {
+      "id": "851ea30c-ee37-48fc-b185-9f316fd11c47",
+      "tvSeriesId": "97fc656f-744f-4b08-8fb8-7a128a06c74e",
+      "tmdbPersonId": 57755,
+      "name": "Woody Harrelson",
+      "character": "Woody Harrelson",
+      "profilePath": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg",
+      "order": 1
+    },
+    {
+      "id": "b405471a-e64e-4707-89de-c9de1efeec7c",
+      "tvSeriesId": "97fc656f-744f-4b08-8fb8-7a128a06c74e",
+      "tmdbPersonId": 11318,
+      "name": "Holland Taylor",
+      "character": "Ma Mac",
+      "profilePath": "/jt9yFB3nLfZQ0c1DcnvvcfA11gB.jpg",
+      "order": 2
+    },
+    {
+      "id": "3f4f520b-e495-4783-8208-4d6fc8371ac2",
+      "tvSeriesId": "97fc656f-744f-4b08-8fb8-7a128a06c74e",
+      "tmdbPersonId": 76511,
+      "name": "Natalie Martinez",
+      "character": "Valentina",
+      "profilePath": "/cFn0OI9c8aypx20hm3XpTqkrMEx.jpg",
+      "order": 3
+    },
+    {
+      "id": "0fb83d3f-8ea1-4506-aa39-d59f53784b31",
+      "tvSeriesId": "97fc656f-744f-4b08-8fb8-7a128a06c74e",
+      "tmdbPersonId": 1098756,
+      "name": "Brittany Ishibashi",
+      "character": "Joy",
+      "profilePath": "/qIBMA7pQi4wnukwbTIn0YgzVMPn.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "8dba42e1-8eaf-4b5f-bb8d-1d762c7ee7f9",
+      "tvSeriesId": "97fc656f-744f-4b08-8fb8-7a128a06c74e",
+      "tmdbId": 385483,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Best friends Matthew McConaughey and Woody Harrelson uncover a shocking family secret.",
+      "posterPath": "/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "airDate": "2026-09-22",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-23T06:09:56.846Z",
+      "updatedAt": "2026-11-04T05:07:56.537Z"
+    }
+  ]
+}

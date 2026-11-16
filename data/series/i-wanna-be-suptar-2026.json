@@ -1,0 +1,104 @@
+{
+  "slug": "i-wanna-be-suptar-2026",
+  "id": "a36452a8-2005-4d62-b2d0-7195d6654a93",
+  "title": "I Wanna Be Sup'Tar",
+  "overview": "A disgraced superstar with nothing left ends up living under the same roof as an ordinary supporting actress. As house rules pile up and egos collide, their dysfunctional cohabitation spirals into sharp humor, constant friction, and consequences neither can avoid.",
+  "tagline": null,
+  "posterPath": "/ySeoQQSUalfIIvNfFnlRQemxS3i.jpg",
+  "backdropPath": "/7b3NxyUsiQYyi2mdx2jcGzbMEce.jpg",
+  "logoPath": "/dMNOD0l2Um85iGrhS2jtoU9cSNd.png",
+  "firstAirDate": "2026-02-06",
+  "voteAverage": "6.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "da15bf74-993b-4e0f-b883-f66945fd84e5",
+      "tvSeriesId": "a36452a8-2005-4d62-b2d0-7195d6654a93",
+      "tmdbPersonId": 4759013,
+      "name": "Jiratchaya Kittavornsakul",
+      "character": "Wannueng",
+      "profilePath": "/dFEtzDhoMJzKqQTiZzJEWuY9tMw.jpg",
+      "order": 0
+    },
+    {
+      "id": "8c2b91ca-7223-4220-b4d8-cdfdb616f78f",
+      "tvSeriesId": "a36452a8-2005-4d62-b2d0-7195d6654a93",
+      "tmdbPersonId": 2214732,
+      "name": "Ladapa Thongkham",
+      "character": "Win Pawe",
+      "profilePath": "/jdir5g2V37Qdj0JH1KGc5iBqFeQ.jpg",
+      "order": 1
+    },
+    {
+      "id": "42833782-4ac5-42ee-b82f-86337e86b8d3",
+      "tvSeriesId": "a36452a8-2005-4d62-b2d0-7195d6654a93",
+      "tmdbPersonId": 5896612,
+      "name": "Apisara Lertwisettheerakul",
+      "character": "Meede",
+      "profilePath": "/pkLROUEwRPNMqrGdeQq2RdyTAsB.jpg",
+      "order": 2
+    },
+    {
+      "id": "1a99c3a7-fc2e-4f31-bfd7-d44c230f50ad",
+      "tvSeriesId": "a36452a8-2005-4d62-b2d0-7195d6654a93",
+      "tmdbPersonId": 4718095,
+      "name": "Onnalin Lilaburanathanakun",
+      "character": "May",
+      "profilePath": "/jPRI2mQoVPpwSmqoYdS5I8t27OI.jpg",
+      "order": 3
+    },
+    {
+      "id": "ee7100ba-c136-44f7-95c9-18d79356c05f",
+      "tvSeriesId": "a36452a8-2005-4d62-b2d0-7195d6654a93",
+      "tmdbPersonId": 2666135,
+      "name": "Atthanin Thaninphanuwiwat",
+      "character": "Tom",
+      "profilePath": "/d4HbkIfCNSOOXL9WYNkmbQIWUrx.jpg",
+      "order": 4
+    },
+    {
+      "id": "5574453d-ff21-4491-ac8a-53e3fd6af169",
+      "tvSeriesId": "a36452a8-2005-4d62-b2d0-7195d6654a93",
+      "tmdbPersonId": 6021244,
+      "name": "Teerawat Budtaya",
+      "character": "Wanwan",
+      "profilePath": "/etrQtYYICbo1PlE22d0n882aZhv.jpg",
+      "order": 5
+    },
+    {
+      "id": "b4b19771-b841-4dae-b008-93c85fde437e",
+      "tvSeriesId": "a36452a8-2005-4d62-b2d0-7195d6654a93",
+      "tmdbPersonId": 6021246,
+      "name": "Thitaree Paksirichayanon",
+      "character": "Gam",
+      "profilePath": "/kxQNk8cBOW43atgTW6D1C7c2Emf.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "e10b05d0-1683-4f47-a025-26666383ae75",
+      "tvSeriesId": "a36452a8-2005-4d62-b2d0-7195d6654a93",
+      "tmdbId": 491017,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/rmWuPRhkLVS4ZPvKGJZ9fphwv8H.jpg",
+      "airDate": "2026-02-06",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-06-29T00:49:21.705Z",
+      "updatedAt": "2026-06-29T00:50:48.395Z"
+    }
+  ]
+}

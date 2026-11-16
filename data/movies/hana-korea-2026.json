@@ -1,0 +1,342 @@
+{
+  "slug": "hana-korea-2026",
+  "id": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+  "tmdbId": 1310677,
+  "imdbId": "tt33344480",
+  "title": "Hana Korea",
+  "originalTitle": "하나 코리아",
+  "overview": "A young North Korean refugee fights to rebuild her life in fast-paced, hyper-modern South Korea, forcing her to confront the price of freedom and the past she left behind.",
+  "tagline": null,
+  "posterPath": "/3jsyjgLCPfUPI3d0P9iJrVUrULg.jpg",
+  "backdropPath": "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+  "logoPath": "/1RtRaBoG5EyJ9xS8fVJooLSn2TB.png",
+  "backdrops": [
+    "/gXU1At9HJ023Wjm1mHCLnhf80pi.jpg",
+    "/sKQEeGYV7B8v5URVZRH6SAzCWR7.jpg",
+    "/tRlLddkiYLJMnXicujgqQwactK7.jpg",
+    "/kY4mjubYG9OFq6gmeyF1QpwFYA7.jpg",
+    "/jBpMvQqSGNuEBwJ9krUrCCYEYFy.jpg",
+    "/lmWdWqKp8enEp7zYtdem17keimI.jpg",
+    "/q99PhGP3DGPdiUB0kznplAHxZQI.jpg",
+    "/bHh1U9A5f7x5hPRu5FEBeKZFBup.jpg",
+    "/uHjGeNF4ekm7rZp2pqCf36yuTjO.jpg",
+    "/9evErJW5GC5vbp6B62pX3wEvLNC.jpg"
+  ],
+  "releaseDate": "2026-07-08",
+  "runtime": 106,
+  "voteAverage": "7.00",
+  "popularity": null,
+  "popularityScore": 455,
+  "originalLanguage": "ko",
+  "country": "DK",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=vgD9NKGLm1s",
+  "quality": "WEB-DL",
+  "director": "Frederik Sølberg",
+  "directorTmdbId": 2008410,
+  "directorProfilePath": "/rgDdbhSij8HlPvuMQlUcrleAvHi.jpg",
+  "productionCompanies": [
+    {
+      "id": 126575,
+      "name": "Seesaw Pictures",
+      "logo_path": "/81avcuOvF9fyQHyxSBrHdk7DVZO.png"
+    },
+    {
+      "id": 71793,
+      "name": "Sonntag Pictures",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 254516,
+      "name": "north korean defector"
+    },
+    {
+      "id": 267761,
+      "name": "inter-korean relations"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 7120,
+  "watchlistCount": 73,
+  "favouriteCount": 20,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-19T13:30:59.617Z",
+  "updatedAt": "2026-10-19T13:32:17.194Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e5fd8e9a-1a23-4074-a253-d4c76a76b950",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 2704830,
+      "name": "Kim Min-ha",
+      "character": "Hyesun",
+      "profilePath": "/zPNNamrJLWoXADXALQmuTdo6zBS.jpg",
+      "order": 0
+    },
+    {
+      "id": "ccfb2290-f4e4-42a2-bcc0-c10cdc31beb4",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 587677,
+      "name": "Kim Joo-ryoung",
+      "character": "Sookhee",
+      "profilePath": "/cX9AefszYLxAKbPlrIRRCABY87b.jpg",
+      "order": 1
+    },
+    {
+      "id": "8fad1b2d-e0b8-41d4-8ff5-aaa360d1ba8f",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 1304602,
+      "name": "An Seo-hyun",
+      "character": "Bomyi",
+      "profilePath": "/xy9E6V8nDg5WLp8HxCRPUSdvDMe.jpg",
+      "order": 2
+    },
+    {
+      "id": "db4bb23e-6428-4bbc-8a14-da348fbf5cc6",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 73252,
+      "name": "Cho Seung-yeon",
+      "character": "Yongchul",
+      "profilePath": "/7giNY3F4YG5n8HUsICdcTu0Ftkz.jpg",
+      "order": 3
+    },
+    {
+      "id": "538506e8-987e-4ebe-b204-d8ca4c151c1f",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 2441975,
+      "name": "Kim Keum-soon",
+      "character": "Jeongsun",
+      "profilePath": "/jzMDWmOfa87MOQe84BXBqDYa97X.jpg",
+      "order": 4
+    },
+    {
+      "id": "1cd2eaad-eaac-4b8d-b717-f62e4c545ec4",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 566370,
+      "name": "Kim Bi-bi",
+      "character": "Miok",
+      "profilePath": "/bFwvNAnFAd8WWgqn3stegAQUicD.jpg",
+      "order": 5
+    },
+    {
+      "id": "ccd3b1b6-fd7a-4a35-bf89-cc5a095e0cbf",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 6541431,
+      "name": "Jeong Chan-ho",
+      "character": "Namwoong",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "5a4c820e-de14-4e2d-9673-f8cf03aee2a9",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 5280344,
+      "name": "Moon Ji-won",
+      "character": "Sojeong",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "b98ee2ba-1722-431e-96f6-11401153d190",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 4251081,
+      "name": "Seok-hee",
+      "character": "Yoonhwa",
+      "profilePath": "/ygM1mDIMMHwUcY2qWaHGE7n2gXz.jpg",
+      "order": 8
+    },
+    {
+      "id": "1eae9ca8-c55b-446c-9c2b-22c446f9c743",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 2377699,
+      "name": "Jeong Joon-hwan",
+      "character": "Restaurant manager",
+      "profilePath": "/uYaDmXbUHJNLQOLObXBd5oSc2Y1.jpg",
+      "order": 9
+    },
+    {
+      "id": "f615a2d1-496b-4e5b-b7ee-cc0588388485",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 5118219,
+      "name": "Lee Seo-won",
+      "character": "Restaurant owner",
+      "profilePath": "/5rHY4131rBiAIFUXs1TiSAkVTD8.jpg",
+      "order": 10
+    },
+    {
+      "id": "fbf5d164-f5be-4a80-a6cd-a24c1d0f4a77",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 3620111,
+      "name": "Lee Taek-geun",
+      "character": "NIS agent 1",
+      "profilePath": "/29PpKlY9VlWM9oeHGhgmsewXgyb.jpg",
+      "order": 11
+    },
+    {
+      "id": "ff42a7b8-1889-4ebc-b40d-5738b405c2bd",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 6541417,
+      "name": "Noh Jeong-seong",
+      "character": "NIS agent 2",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "96bdd357-453e-4574-9616-adb476d1f795",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 2475068,
+      "name": "Park Do-ha",
+      "character": "NIS agent 3",
+      "profilePath": "/aG9Kdx63aWpMP10mk8L2vyBif5t.jpg",
+      "order": 13
+    },
+    {
+      "id": "36e5de74-8958-4796-a76d-448d8da309a7",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 6541422,
+      "name": "Oh Ui-taek",
+      "character": "NIS agent 4",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "6d11a75c-17b2-430c-a6c9-ab5215a5d3f6",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 4060221,
+      "name": "Kim Han-sang",
+      "character": "History teacher",
+      "profilePath": "/1upNvhvB6K6X5ZhAWupQYwq9vdL.jpg",
+      "order": 15
+    },
+    {
+      "id": "8a080e64-d89e-4630-ad48-0b337f649257",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 4696096,
+      "name": "Lee Joo-mi",
+      "character": "Coco",
+      "profilePath": "/spEyrTxWVFlGc3cgkAfL6oZW69i.jpg",
+      "order": 16
+    },
+    {
+      "id": "a58a2673-18db-497b-b4c8-afffd966f129",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 1631997,
+      "name": "Son Seong-chan",
+      "character": "Priest",
+      "profilePath": "/kZRBa05p3Nv2e9x7SPltVHFfM9V.jpg",
+      "order": 17
+    },
+    {
+      "id": "ea08892b-74ae-4b87-95d6-84dc744c6f17",
+      "movieId": "791c7e1d-3344-4603-b3f8-efe7acd38d07",
+      "tmdbPersonId": 5549357,
+      "name": "Lee Jong-eun",
+      "character": "Youtuber",
+      "profilePath": null,
+      "order": 18
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

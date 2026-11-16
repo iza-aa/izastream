@@ -1,0 +1,424 @@
+{
+  "slug": "sense-and-sensibility-2026",
+  "id": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+  "tmdbId": 1503762,
+  "imdbId": "tt13609648",
+  "title": "Sense and Sensibility",
+  "originalTitle": "Sense and Sensibility",
+  "overview": "A charming, witty, and deeply relatable story of love and sisterhood.",
+  "tagline": "No one knows your heart like a sister.",
+  "posterPath": "/5bmH9lyNVEW6DXBf4rYx9Os7Fuo.jpg",
+  "backdropPath": "/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+  "logoPath": "/eVS7HIjPjPHeCmTfkQTNQFCqbAg.png",
+  "backdrops": [
+    "/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+    "/nrLVr8C2pkbOGwXKay2xrxvlHmh.jpg",
+    "/3pGQKeOyN9cTAP723kdMwwPTRNl.jpg",
+    "/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
+    "/wnJm8uEkkEjNvdZozxrERQGnRV7.jpg",
+    "/7wufnyNo5uhkosKXEp8iITX5ar3.jpg",
+    "/YpzEwCpoOdFD2itSYf3pbVGTXH.jpg",
+    "/uj5ECRoSJOFvrUl5aeLdl2QHpjU.jpg",
+    "/mvomuoMrythko3DeVSXGp5jjDOj.jpg",
+    "/sWzNxNDHOTSmSOeahCEmEvbBVgI.jpg"
+  ],
+  "releaseDate": "2026-09-23",
+  "runtime": 132,
+  "voteAverage": "7.18",
+  "popularity": null,
+  "popularityScore": 3175,
+  "originalLanguage": "en",
+  "country": "GB",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=OFLyW0lxFU0",
+  "quality": "WEB-DL",
+  "director": "Georgia Oakley",
+  "directorTmdbId": 1674275,
+  "directorProfilePath": "/x9cx7YFnfAjdcvnhvJ99ixIGYHC.jpg",
+  "productionCompanies": [
+    {
+      "id": 10146,
+      "name": "Focus Features",
+      "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png"
+    },
+    {
+      "id": 10163,
+      "name": "Working Title",
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png"
+    },
+    {
+      "id": 266297,
+      "name": "November Pictures",
+      "logo_path": null
+    },
+    {
+      "id": 280768,
+      "name": "Kiddo Films",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4034,
+      "name": "class society"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 392,
+      "name": "england"
+    },
+    {
+      "id": 2383,
+      "name": "feminism"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 11479,
+      "name": "social commentary"
+    },
+    {
+      "id": 34221,
+      "name": "gender roles"
+    },
+    {
+      "id": 160279,
+      "name": "18th century"
+    },
+    {
+      "id": 164663,
+      "name": "courtship"
+    },
+    {
+      "id": 210281,
+      "name": "sisterhood"
+    },
+    {
+      "id": 210589,
+      "name": "searching for love"
+    },
+    {
+      "id": 234187,
+      "name": "social norms"
+    },
+    {
+      "id": 248169,
+      "name": "social criticism"
+    },
+    {
+      "id": 286194,
+      "name": "period piece"
+    },
+    {
+      "id": 342334,
+      "name": "overcoming difficulties"
+    },
+    {
+      "id": 371746,
+      "name": "life‑changing mishaps"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 19709,
+  "watchlistCount": 435,
+  "favouriteCount": 89,
+  "shareCount": 9,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-27T01:45:47.679Z",
+  "updatedAt": "2026-10-27T01:46:07.918Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e66762b2-878a-4710-a99d-8028c1f46c57",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 2230991,
+      "name": "Daisy Edgar-Jones",
+      "character": "Elinor Dashwood",
+      "profilePath": "/4Fdc3VSoVhkkEZNx5Zpz3AU6DYz.jpg",
+      "order": 0
+    },
+    {
+      "id": "e1760a07-47b1-45d8-a043-8f1793dcec1d",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 79510,
+      "name": "Esmé Creed-Miles",
+      "character": "Marianne Dashwood",
+      "profilePath": "/hmGkEC4OWsyDe7ZGVkZ7e1RjViD.jpg",
+      "order": 1
+    },
+    {
+      "id": "9eba70fb-148c-402b-94d6-238d54f7749c",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 147056,
+      "name": "Caitríona Balfe",
+      "character": "Mrs. Dashwood",
+      "profilePath": "/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg",
+      "order": 2
+    },
+    {
+      "id": "7fbfe83c-96d7-4214-b5da-008ae8fe9be7",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 4088089,
+      "name": "Bodhi Rae Breathnach",
+      "character": "Margaret Dashwood",
+      "profilePath": "/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg",
+      "order": 3
+    },
+    {
+      "id": "cfdd0b1d-7a0c-45c0-a351-384df4f2c13c",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 964834,
+      "name": "Frank Dillane",
+      "character": "John Willoughby",
+      "profilePath": "/eitUc8e045y8dDfBSm681hU471g.jpg",
+      "order": 4
+    },
+    {
+      "id": "cda51c04-25b8-4719-a43f-a559ccd04b3b",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 1083266,
+      "name": "Herbert Nordrum",
+      "character": "Colonel Brandon",
+      "profilePath": "/wMT9o2WNfLGE4dD8Rkt2Rem4Ljt.jpg",
+      "order": 5
+    },
+    {
+      "id": "2612be49-59cb-4a5a-beef-daf44d5b9972",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 146750,
+      "name": "George MacKay",
+      "character": "Edward Ferrars",
+      "profilePath": "/wnDAg1CyCbBCklQAZ9I1dj5X6QY.jpg",
+      "order": 6
+    },
+    {
+      "id": "becf75fb-e8ad-4655-8606-d4572e888d35",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 10981,
+      "name": "Fiona Shaw",
+      "character": "Mrs. Jennings",
+      "profilePath": "/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg",
+      "order": 7
+    },
+    {
+      "id": "1f978a16-ab5c-4a4a-a768-e76fa400cd53",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 1137823,
+      "name": "Stacy Martin",
+      "character": "Fanny Dashwood",
+      "profilePath": "/wLPh456xduwDkGgPpaf1KGH9EWz.jpg",
+      "order": 8
+    },
+    {
+      "id": "6e95de19-9dc3-46f8-b256-d9d4ec74ce36",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 75066,
+      "name": "Tom Brooke",
+      "character": "John Dashwood",
+      "profilePath": "/pUQ3KyfTLPLkBP8KvCcwEyHUMB7.jpg",
+      "order": 9
+    },
+    {
+      "id": "c99e341a-1bd1-4003-a705-b95c87e170bb",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 1474032,
+      "name": "Turlough Convery",
+      "character": "Sir John Middleton",
+      "profilePath": "/xDHf65t9vtxmIAmDxp5yMKZUtPt.jpg",
+      "order": 10
+    },
+    {
+      "id": "f642be24-fa25-4462-95a0-472012ea3170",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 1125581,
+      "name": "Chloe Pirrie",
+      "character": "Lady Middleton",
+      "profilePath": "/t5pUoG5kDk8F0uNQ1reMD8Cd4V0.jpg",
+      "order": 11
+    },
+    {
+      "id": "95effc81-122f-47a2-b0c6-7a70fa678119",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 3247625,
+      "name": "Forrest Bothwell",
+      "character": "Robert Ferrars",
+      "profilePath": "/6jvwsH8x0Q1GFmOCvXONQmtZaRI.jpg",
+      "order": 12
+    },
+    {
+      "id": "43238686-937c-4a86-b42d-32cd10369e2e",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 4246724,
+      "name": "Ceara Coveney",
+      "character": "Lucy Steele",
+      "profilePath": "/1zWEshFJ5dSRK37DlfJlQuZEcoO.jpg",
+      "order": 13
+    },
+    {
+      "id": "ac015c9f-ccf0-493f-8809-e62dd5454e78",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 1586573,
+      "name": "Eliot Sumner",
+      "character": "Mr. Palmer",
+      "profilePath": "/8KLyKNKn1BNVrY3VxAlDDCn8A5c.jpg",
+      "order": 14
+    },
+    {
+      "id": "c1fa4a85-96ff-4bd2-8c66-2c9f2b87d30e",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 2880253,
+      "name": "Bethany Slater",
+      "character": "Mrs. Palmer",
+      "profilePath": "/uGn5p1V10tL4M5OJK6HJRkEt4E1.jpg",
+      "order": 15
+    },
+    {
+      "id": "1b0dfcda-f25c-42a7-b3b6-c96a36345988",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 2113751,
+      "name": "Ross Cullum",
+      "character": "Portman Square Butler",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "e38a1cce-0dfe-4d54-8c0c-1e1e5f49d40c",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 3740938,
+      "name": "Sophie McGibbon",
+      "character": "Miss Grey",
+      "profilePath": "/u7HSVDEQ5X0Fkp3HpAhLK8HtVGd.jpg",
+      "order": 17
+    },
+    {
+      "id": "4abbd5c8-fcc6-4dbd-a5fa-e16eee31596b",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 1901586,
+      "name": "Matt Green",
+      "character": "Cleveland Doctor",
+      "profilePath": "/wZOZhgxzRDiCrysKhz2qI9I64kQ.jpg",
+      "order": 18
+    },
+    {
+      "id": "3384a92e-cb9d-4be9-814a-0d621643cd13",
+      "movieId": "97fb49a9-9e89-47ae-a0eb-05379910e23d",
+      "tmdbPersonId": 1945792,
+      "name": "James Carcaterra",
+      "character": "Norland Steward",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

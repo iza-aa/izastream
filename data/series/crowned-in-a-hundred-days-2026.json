@@ -1,0 +1,132 @@
+{
+  "slug": "crowned-in-a-hundred-days-2026",
+  "id": "0f8bbcd4-7980-48f6-8bc5-cf4e5cd55471",
+  "title": "Crowned in a Hundred Days",
+  "overview": "Driven to the brink of despair, restaurant owner Ming forms an unlikely bond with the soul of the true King Lie after swallowing it to save his loved one. Bound together by fate, the two embark on a perilous journey to challenge the tyrant who has usurped the throne.\n\nWith only one hundred days to change their destiny, Ming uses his extraordinary memory to master long-lost magic, gathering allies and winning the support of the people along the way. As their strength grows, so does their resolve to overthrow a corrupt regime, reclaim the rightful king's throne, and restore peace to the realm.",
+  "tagline": null,
+  "posterPath": "/9aY1UUREcdtYExktdNI57fSUHef.jpg",
+  "backdropPath": "/sCiAP45k7IvngU9xXdLobauW17f.jpg",
+  "logoPath": "/1geOUNfxVUkJg4DqT59ubhknOqU.png",
+  "firstAirDate": "2026-07-03",
+  "voteAverage": "6.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "66837054-c12d-418c-a83e-7c257d62f1d0",
+      "tvSeriesId": "0f8bbcd4-7980-48f6-8bc5-cf4e5cd55471",
+      "tmdbPersonId": 2532243,
+      "name": "Gu Jiangshan",
+      "character": "",
+      "profilePath": "/9AHZohwKutKWdsexJDbfFf1SP6i.jpg",
+      "order": 0
+    },
+    {
+      "id": "a108417d-e12d-497a-a514-e1a4f5b452af",
+      "tvSeriesId": "0f8bbcd4-7980-48f6-8bc5-cf4e5cd55471",
+      "tmdbPersonId": 3174708,
+      "name": "Zhang Fuzheng",
+      "character": "",
+      "profilePath": "/gB3NHNnG2WSC1SnjGQ36Z9qD8Rp.jpg",
+      "order": 1
+    },
+    {
+      "id": "2055758f-7f70-4181-8218-ed52fa36c257",
+      "tvSeriesId": "0f8bbcd4-7980-48f6-8bc5-cf4e5cd55471",
+      "tmdbPersonId": 3424042,
+      "name": "Nie Xiying",
+      "character": "",
+      "profilePath": "/hzdBwUblHmYsDITxSgaW5M9faZX.jpg",
+      "order": 2
+    },
+    {
+      "id": "21755e67-a788-4523-adf4-6989583bdd8e",
+      "tvSeriesId": "0f8bbcd4-7980-48f6-8bc5-cf4e5cd55471",
+      "tmdbPersonId": 3434818,
+      "name": "Qian Chen",
+      "character": "",
+      "profilePath": "/yBEf8BrJC2ebm0KMp4FP2Ck2kYm.jpg",
+      "order": 3
+    },
+    {
+      "id": "c473ecad-b74f-4ea6-92b1-5d1461c7a2a6",
+      "tvSeriesId": "0f8bbcd4-7980-48f6-8bc5-cf4e5cd55471",
+      "tmdbPersonId": 3848027,
+      "name": "Zhao Shuang",
+      "character": "",
+      "profilePath": "/xA098kVGQRMNcLWqWsQwumIXemV.jpg",
+      "order": 4
+    },
+    {
+      "id": "e4176478-b17e-459b-b4ef-442b90fcf155",
+      "tvSeriesId": "0f8bbcd4-7980-48f6-8bc5-cf4e5cd55471",
+      "tmdbPersonId": 2199316,
+      "name": "Titus Jin",
+      "character": "",
+      "profilePath": "/ieHgOyT3hFBZjZ7PM22UEZgiLe5.jpg",
+      "order": 5
+    },
+    {
+      "id": "5b664c24-91f5-4f6d-bee2-a10f843327c5",
+      "tvSeriesId": "0f8bbcd4-7980-48f6-8bc5-cf4e5cd55471",
+      "tmdbPersonId": 2031481,
+      "name": "Guo Haoran",
+      "character": "",
+      "profilePath": "/oKJpFKdCLRzcaTH8kWYNjYczfWb.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "81bd8fa5-7ae3-44c4-967e-d38e8d962477",
+      "tvSeriesId": "0f8bbcd4-7980-48f6-8bc5-cf4e5cd55471",
+      "tmdbId": 525667,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/pUQVZGKxODzRNTAD91DK4tu3qZS.jpg",
+      "airDate": "2026-07-03",
+      "episodeCount": 25,
+      "isPublished": true,
+      "createdAt": "2026-08-24T16:45:48.762Z",
+      "updatedAt": "2026-08-24T17:42:20.086Z"
+    }
+  ]
+}

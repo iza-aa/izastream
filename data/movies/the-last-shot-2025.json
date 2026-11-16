@@ -1,0 +1,344 @@
+{
+  "slug": "the-last-shot-2025",
+  "id": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+  "tmdbId": 1418297,
+  "imdbId": "tt39064608",
+  "title": "The Last Shot",
+  "originalTitle": "มือปืน",
+  "overview": "Petch wants out of the assassin's life, but escaping the past isn't easy. Torn between love, loyalty, and revenge, he's forced into one last job. With every shot, the stakes rise—his future and freedom rest on the final bullet.",
+  "tagline": "One last bullet, It's do or die.",
+  "posterPath": "/3q8l68PtcEVm5KYjbljlcvzMsHH.jpg",
+  "backdropPath": "/rvWdpDn2WWvtcg30IYCvIEFtWtd.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/rvWdpDn2WWvtcg30IYCvIEFtWtd.jpg",
+    "/j2kA97ter75tn5LXoYxQd9UPWaT.jpg",
+    "/ylMnrjmhIuJDwMvNv6eHMtIImj0.jpg"
+  ],
+  "releaseDate": "2025-11-27",
+  "runtime": 113,
+  "voteAverage": "6.00",
+  "popularity": null,
+  "popularityScore": 53,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=H2sgbfWhERY",
+  "quality": "WEB-DL",
+  "director": "Puttipong Nakthong",
+  "directorTmdbId": 3281195,
+  "directorProfilePath": "/3RvVFIY6bDu7zMUWZbQWetZb2nz.jpg",
+  "productionCompanies": [
+    {
+      "id": 7924,
+      "name": "M Studio",
+      "logo_path": "/1KG5lcXO8GZ2F6SshuMYw1Yf4vX.png"
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 3307,
+  "watchlistCount": 10,
+  "favouriteCount": 5,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-05-03T12:36:45.751Z",
+  "updatedAt": "2026-05-05T05:47:51.886Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ad6cd752-31ba-425d-8510-06a31d176464",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 3597521,
+      "name": "Somphol Rungphanit",
+      "character": "Petch",
+      "profilePath": "/iGvhiB6jYhOjvCB9HJ3nOIQ22Jl.jpg",
+      "order": 0
+    },
+    {
+      "id": "dea992ac-7451-47d5-8b76-53ef140d2bab",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 2860552,
+      "name": "Patara Eksangkul",
+      "character": "Bom",
+      "profilePath": "/6JHIVa9EWVt6bBbOEnxngxZ74tf.jpg",
+      "order": 1
+    },
+    {
+      "id": "9c7ff64b-e4dd-4ad3-8013-0c394d0e73f8",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 2950416,
+      "name": "Sarika Sathsilpsupa",
+      "character": "Sai",
+      "profilePath": "/hs6w5HLfJvQDVCLJGsvc4OSVcFb.jpg",
+      "order": 2
+    },
+    {
+      "id": "45b7dfca-6222-464d-8934-70b876d10577",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 2424464,
+      "name": "Benjamin Joseph Varney",
+      "character": "Ton",
+      "profilePath": "/kRzdH4PfmisBaxg4uA2XsbtZYZh.jpg",
+      "order": 3
+    },
+    {
+      "id": "cdb8c2ef-b677-4bc9-9726-27f313e51a21",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 3597508,
+      "name": "Auttakorn Boonpeng",
+      "character": "Sumlee",
+      "profilePath": "/b4IMNUO4DilnWGZRHIUxBM0JPi9.jpg",
+      "order": 4
+    },
+    {
+      "id": "23790475-6169-4125-b95f-83fa9bb5a3af",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 227708,
+      "name": "Chatchai Plengpanich",
+      "character": "Somjit",
+      "profilePath": "/bVbKHjCvXONhLJBMaZzrggcK0wK.jpg",
+      "order": 5
+    },
+    {
+      "id": "98d1c332-9f1a-4591-a3e4-c60f29ac4222",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 127452,
+      "name": "Arun Pawilai",
+      "character": "Tor",
+      "profilePath": "/oeDvKgXT8BrfHDKAeaJU0YJd9dN.jpg",
+      "order": 6
+    },
+    {
+      "id": "2b13c186-c94f-4924-b2d4-f05fccd6bd22",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 1327165,
+      "name": "Jirawat Wachirasarunpat",
+      "character": "Piak",
+      "profilePath": "/vupgyvOsvcvFloIZMBAhq7sDU4q.jpg",
+      "order": 7
+    },
+    {
+      "id": "e12a4d4a-90a8-4927-bab1-1beabae258f0",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 3588921,
+      "name": "Suchatti Janed",
+      "character": "Ice Factory Owner",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "622a1272-501a-4b38-97e5-04e6024ca70e",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 3557517,
+      "name": "Arunphong Naraphan",
+      "character": "Tua",
+      "profilePath": "/ML1tZBkMEy8ez8IwF9ToPuUFLv.jpg",
+      "order": 9
+    },
+    {
+      "id": "4b99a5ef-f910-4c7d-83d1-f7103254f89f",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 3131644,
+      "name": "Yasaka Chaisorn",
+      "character": "Ship Captain",
+      "profilePath": "/4trP7QqmzLLEJuxlpPTLDGO54H0.jpg",
+      "order": 10
+    },
+    {
+      "id": "ba2470e1-62c9-494f-9181-7a81554c3995",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 2538594,
+      "name": "Peeraphon Thiancharoen",
+      "character": "Mhee",
+      "profilePath": "/whq1ymZp9aYvz2eB8vagnP72hL4.jpg",
+      "order": 11
+    },
+    {
+      "id": "3e4bcf1a-b964-4666-a2b2-de9f4b89c603",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 2406430,
+      "name": "Nopphanan Thongkhruea",
+      "character": "Thai Folk Dance Festival Spokesman",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "fb3ecd80-6e55-459e-96a3-fc331d3b960d",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 1250057,
+      "name": "Pavarit Mongkolpisit",
+      "character": "Ben",
+      "profilePath": "/rtBiRIUekkuYxh4hph2jXb18gM9.jpg",
+      "order": 13
+    },
+    {
+      "id": "e7db21f1-5921-46a1-a2a9-137f1794b0ea",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 4708871,
+      "name": "Pongsatorn Laojunthuek",
+      "character": "Ton",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "fc6dcdfc-fd05-4e87-9d34-316582688a06",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 4749997,
+      "name": "Surachet Pho-On",
+      "character": "Somjit's Right Hand",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "774271f0-5a3e-40db-920c-ab4e5e0d0118",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 5134244,
+      "name": "Somchok Charoenchai",
+      "character": "Ton's Right Hand",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "cf8f4eed-a007-464e-b2f7-937eaa3155b5",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 5527059,
+      "name": "Piyarach Pleanphan",
+      "character": "Mhee's Event Organizer",
+      "profilePath": "/qIUdmL22bA6Lyf2BA9XP0fGU8gc.jpg",
+      "order": 17
+    },
+    {
+      "id": "bf411c71-58ac-4e0d-8e99-21b3fec4194a",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 3115102,
+      "name": "Natda Chawawanid",
+      "character": "Hostess 1",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "39aeb6f7-8ec7-4694-8557-db073ca3ff27",
+      "movieId": "6ac915a2-724d-4503-ba5d-caa6d9a25140",
+      "tmdbPersonId": 3595732,
+      "name": "Nongphanga Laoha-areedirok",
+      "character": "Lek",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

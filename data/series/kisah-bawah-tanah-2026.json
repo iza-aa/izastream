@@ -1,0 +1,123 @@
+{
+  "slug": "kisah-bawah-tanah-2026",
+  "id": "5f4404d8-4286-4ec4-91f7-b3b851aef1e5",
+  "title": "Kisah Bawah Tanah",
+  "overview": "Follows best friends Sam and Zack as they navigate a world teeming with creatures that have long haunted the imaginations of peoples across Southeast Asia.",
+  "tagline": null,
+  "posterPath": "/5JbeKygOnQZZldCfFZ16WulvsD4.jpg",
+  "backdropPath": "/7MX7KqLz8CZqp1YKKoQ9TFZ86LW.jpg",
+  "logoPath": "/2GdmlZEbNsu4MK6PPV6oCzysLG0.png",
+  "firstAirDate": "2026-03-09",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "36209397-eb45-487a-9f5e-fe4902819f3d",
+      "tvSeriesId": "5f4404d8-4286-4ec4-91f7-b3b851aef1e5",
+      "tmdbPersonId": 1586550,
+      "name": "Azman Zulkiply",
+      "character": "Zack (voice)",
+      "profilePath": "/kitxQftmEGb3TcciEoYEkhpVJxz.jpg",
+      "order": 0
+    },
+    {
+      "id": "8be6a343-1d27-4fcc-8352-5e563bcf614a",
+      "tvSeriesId": "5f4404d8-4286-4ec4-91f7-b3b851aef1e5",
+      "tmdbPersonId": 3887243,
+      "name": "Firdaus Sufiyan",
+      "character": "Sam (voice)",
+      "profilePath": null,
+      "order": 1
+    },
+    {
+      "id": "7fcf3e71-7827-493b-9483-1aed1aaf5bfd",
+      "tvSeriesId": "5f4404d8-4286-4ec4-91f7-b3b851aef1e5",
+      "tmdbPersonId": 562217,
+      "name": "Bront Palarae",
+      "character": "Bang Kai (voice)",
+      "profilePath": "/mk7v78F2QPV1jmwjjo19PONugkR.jpg",
+      "order": 2
+    },
+    {
+      "id": "1876ab0f-6bf4-4339-b67f-8bd409386b32",
+      "tvSeriesId": "5f4404d8-4286-4ec4-91f7-b3b851aef1e5",
+      "tmdbPersonId": 2387838,
+      "name": "Mia Sara Shauki",
+      "character": "Wari (voice)",
+      "profilePath": "/gkmfI4PW1TIAaem7cPa2L0vNpXC.jpg",
+      "order": 3
+    },
+    {
+      "id": "bed214da-6202-413d-9fcd-71eb00b0e47d",
+      "tvSeriesId": "5f4404d8-4286-4ec4-91f7-b3b851aef1e5",
+      "tmdbPersonId": 1200099,
+      "name": "Ramona Rahman",
+      "character": "Salmah (voice)",
+      "profilePath": "/7m7vQ9S1esA774gf68H6NMXsNUl.jpg",
+      "order": 4
+    },
+    {
+      "id": "aec43ea4-5350-4eaf-a881-ed9eb1884d71",
+      "tvSeriesId": "5f4404d8-4286-4ec4-91f7-b3b851aef1e5",
+      "tmdbPersonId": 5935773,
+      "name": "Ezza Afiqa",
+      "character": "Aida (voice)",
+      "profilePath": null,
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "49783e73-9d50-4b4d-a6e0-8ede47ded90c",
+      "tvSeriesId": "5f4404d8-4286-4ec4-91f7-b3b851aef1e5",
+      "tmdbId": 494389,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/5JbeKygOnQZZldCfFZ16WulvsD4.jpg",
+      "airDate": "2026-03-09",
+      "episodeCount": 26,
+      "isPublished": true,
+      "createdAt": "2026-09-17T06:44:44.956Z",
+      "updatedAt": "2026-09-17T07:59:41.733Z"
+    }
+  ]
+}

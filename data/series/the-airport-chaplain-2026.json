@@ -1,0 +1,131 @@
+{
+  "slug": "the-airport-chaplain-2026",
+  "id": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+  "title": "The Airport Chaplain",
+  "overview": "Airport Chaplain Tobias Wallace is convinced the airport couldn’t possibly run without his 24/7 devotion. But new Terminal Manager Mira Ansari-Cole is convinced he’s a walking liability.",
+  "tagline": null,
+  "posterPath": "/fptacsSVdDDcP3TWIq5OLtOH7UM.jpg",
+  "backdropPath": "/7INMRw6nEu9jpZucRtfvgrtFAVT.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-08-26",
+  "voteAverage": "4.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3183db60-2e3a-4393-b3c1-f63620423227",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbPersonId": 1331,
+      "name": "Hugo Weaving",
+      "character": "Tobias Wallace",
+      "profilePath": "/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg",
+      "order": 0
+    },
+    {
+      "id": "7cab9708-b3ed-4146-9543-3e3b7b994f66",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbPersonId": 79966,
+      "name": "Claudia Karvan",
+      "character": "Cath",
+      "profilePath": "/zT4CSbrJwHAtqyyJtACOcosg3qZ.jpg",
+      "order": 1
+    },
+    {
+      "id": "2e7176d9-2055-4664-9d67-634ae925685f",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbPersonId": 2716907,
+      "name": "Shabana Azeez",
+      "character": "Mira",
+      "profilePath": "/r5MWHqX1cxibytL7KGXNaT2NlD1.jpg",
+      "order": 2
+    },
+    {
+      "id": "00562a26-46c5-4730-b445-7b6ad74093bb",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbPersonId": 150396,
+      "name": "Erroll Shand",
+      "character": "",
+      "profilePath": "/75nc5lUcp1So9RTNNr08NZ0oQDG.jpg",
+      "order": 3
+    },
+    {
+      "id": "1b8e118c-e6ed-481c-9e51-095f7dc6b502",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbPersonId": 2070456,
+      "name": "Thomas Weatherall",
+      "character": "",
+      "profilePath": "/b10rg7Rrfp8fHW38kM0WrJiTNEM.jpg",
+      "order": 4
+    },
+    {
+      "id": "3a10d372-ec7e-4a98-ac6a-0c0d7d0e3fd3",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbPersonId": 1976402,
+      "name": "Nicholas Denton",
+      "character": "",
+      "profilePath": "/gvJXRcJbXVkrzQxdJ75cOTNppJ0.jpg",
+      "order": 5
+    },
+    {
+      "id": "9dc5a5b2-bfb6-43bf-94b2-875e49bc94b9",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbPersonId": 2626180,
+      "name": "Michael Logo",
+      "character": "",
+      "profilePath": "/5cB0ENHqemY19DsMZyXF9tQ5a03.jpg",
+      "order": 6
+    },
+    {
+      "id": "ecd11992-6884-4c02-a2e8-775e234ef8e2",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbPersonId": 1256514,
+      "name": "Brenna Harding",
+      "character": "",
+      "profilePath": "/bxV4YQ6SjfKJZYlsjWNNwMSdZlt.jpg",
+      "order": 7
+    },
+    {
+      "id": "23be8b0c-e2fe-4d1a-ac10-49f0b6c90bba",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbPersonId": 2404728,
+      "name": "Kavitha Anandasivam",
+      "character": "",
+      "profilePath": "/3UKrugW0C0iI9wPot8pmAiARb8B.jpg",
+      "order": 8
+    },
+    {
+      "id": "0777f690-8963-46df-a226-f5f01920cf1d",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbPersonId": 1525896,
+      "name": "Jackson Tozer",
+      "character": "",
+      "profilePath": "/6ZmGauQY7fCTVTsCcDg9gUaKkt9.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "ee91f3c2-2e4c-46b5-9873-786ddec3d954",
+      "tvSeriesId": "d269424f-4686-40fc-80a3-cef2bfb13f50",
+      "tmdbId": 525716,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/lK90V9tQ8pyc7IWreLgQTHVgU3b.jpg",
+      "airDate": "2026-08-26",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-08-28T06:48:51.023Z",
+      "updatedAt": "2026-08-28T06:49:33.989Z"
+    }
+  ]
+}

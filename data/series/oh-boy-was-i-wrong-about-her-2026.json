@@ -1,0 +1,93 @@
+{
+  "slug": "oh-boy-was-i-wrong-about-her-2026",
+  "id": "c4f99024-058e-4507-be66-cb39eb19d76e",
+  "title": "Oh Boy, Was I Wrong About Her",
+  "overview": "Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.",
+  "tagline": null,
+  "posterPath": "/mtOOvLqkttNz0xjlVv9MbartfN6.jpg",
+  "backdropPath": "/9PBeccJiwTMPE9ZR7IHrUxSCb9s.jpg",
+  "logoPath": "/wrykoGLTxAqVlkqaWxGuDcIcych.png",
+  "firstAirDate": "2026-07-06",
+  "voteAverage": "7.30",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e194ceaf-551d-4281-be89-404efa77358d",
+      "tvSeriesId": "c4f99024-058e-4507-be66-cb39eb19d76e",
+      "tmdbPersonId": 2103077,
+      "name": "Ikumi Hasegawa",
+      "character": "Haruki Nikaido (voice)",
+      "profilePath": "/aHLid4WeTafrtfqDRAZSw5K7dTj.jpg",
+      "order": 0
+    },
+    {
+      "id": "c09b4b72-dcfb-4708-90da-afa9c5dd3c61",
+      "tvSeriesId": "c4f99024-058e-4507-be66-cb39eb19d76e",
+      "tmdbPersonId": 1922635,
+      "name": "Shunichi Toki",
+      "character": "Hayato Kirishima (voice)",
+      "profilePath": "/3hauO9r1NEzgXxk8d2ed1p5dnxM.jpg",
+      "order": 1
+    },
+    {
+      "id": "dbc95cb7-41ea-46a0-a8dc-eee11a3509a1",
+      "tvSeriesId": "c4f99024-058e-4507-be66-cb39eb19d76e",
+      "tmdbPersonId": 2388269,
+      "name": "Miharu Hanai",
+      "character": "Himeko Kirishima (voice)",
+      "profilePath": "/uJLbkjW9MlyHVSaSIh3rqCmapBb.jpg",
+      "order": 2
+    },
+    {
+      "id": "149b8afe-b603-4f38-a59f-250e73a66694",
+      "tvSeriesId": "c4f99024-058e-4507-be66-cb39eb19d76e",
+      "tmdbPersonId": 2435451,
+      "name": "Natsumi Haruse",
+      "character": "Minamo Mitake (voice)",
+      "profilePath": "/sDEPEEYQCK1HiKLWXeqQljvv3qe.jpg",
+      "order": 3
+    },
+    {
+      "id": "9d8c4a24-8589-4451-89de-ec6efd10bda4",
+      "tvSeriesId": "c4f99024-058e-4507-be66-cb39eb19d76e",
+      "tmdbPersonId": 3309472,
+      "name": "Fuka Izumi",
+      "character": "Saki Murao (voice)",
+      "profilePath": "/nTC0TuLp4Ek3b08DG9lhwVJHwlW.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "8ee3c4b0-f929-4a11-ab29-c487fed2cdde",
+      "tvSeriesId": "c4f99024-058e-4507-be66-cb39eb19d76e",
+      "tmdbId": 385126,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/sNXreyb3JTb9EQfj7eaby8PaQ9L.jpg",
+      "airDate": "2026-07-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-06T07:04:19.426Z",
+      "updatedAt": "2026-10-06T07:06:45.108Z"
+    }
+  ]
+}

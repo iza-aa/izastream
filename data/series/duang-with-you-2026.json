@@ -1,0 +1,138 @@
+{
+  "slug": "duang-with-you-2026",
+  "id": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+  "title": "Duang with You",
+  "overview": "After a festival confession, art student Duang sets out to win over a guarded music major, slowly turning first love into a safe haven for them both.",
+  "tagline": "Not the best, But still good.",
+  "posterPath": "/rsKjW0gKur2yhu4RQPpYlGPSWp5.jpg",
+  "backdropPath": "/ychH8vLDbBDKVWgZ6WC68iYNIzi.jpg",
+  "logoPath": "/foxEAQLBdrKa9mInthrcsxmtaIK.png",
+  "firstAirDate": "2026-01-31",
+  "voteAverage": "9.10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 12,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "6f02a963-5c8d-40f6-9d05-6f7cf14f4c46",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbPersonId": 4580611,
+      "name": "Wanpichit Nimitparkpoom",
+      "character": "Duang",
+      "profilePath": "/jkegjsowUIDC1UcVOGZIhE7Z97S.jpg",
+      "order": 0
+    },
+    {
+      "id": "2c902c15-fa06-4a50-99b0-4f8dfa58cd84",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbPersonId": 4722966,
+      "name": "Suppakarn Jirachotikul",
+      "character": "Qin",
+      "profilePath": "/jBZkuuwkpWwSEHwAb0LzJY1soT5.jpg",
+      "order": 1
+    },
+    {
+      "id": "e855f365-6ad0-4b1a-acf2-d3a9c0cc6449",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbPersonId": 4205520,
+      "name": "Chatchapon Pranotphong",
+      "character": "Jamie",
+      "profilePath": "/thFrnGh9feXeL814mqssSAUKy3n.jpg",
+      "order": 2
+    },
+    {
+      "id": "1c365ca2-eed8-47ea-a95a-885d833f172a",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbPersonId": 5545005,
+      "name": "Thanaphat Tansakul",
+      "character": "Pae",
+      "profilePath": "/c3Cl0h0Oz73YugEpkidYG2UYJYl.jpg",
+      "order": 3
+    },
+    {
+      "id": "a4349ce8-dcdb-4fb9-b5a5-e6571a7a4684",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbPersonId": 5545010,
+      "name": "Thirati Eksathian",
+      "character": "Tong",
+      "profilePath": "/hbM6ERnfnv4o4mcwDmzBAVOBZwI.jpg",
+      "order": 4
+    },
+    {
+      "id": "291e40e3-0651-4c9c-9070-7255e4c641bc",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbPersonId": 5954852,
+      "name": "Phoovitch Chan",
+      "character": "Kim",
+      "profilePath": "/knwEDx3oUf2OMIauMzMAObXVKFf.jpg",
+      "order": 5
+    },
+    {
+      "id": "ce538e8f-d41c-4ca4-9389-71e10591a5d5",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbPersonId": 2771760,
+      "name": "Natasit Uareksit",
+      "character": "PK",
+      "profilePath": "/pZhOUfw30dZj3Ox8zepO2y4ZRHZ.jpg",
+      "order": 500
+    },
+    {
+      "id": "39f5794b-b2a5-435c-8828-9bb91a4a8579",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbPersonId": 3499282,
+      "name": "Phanuroj Chalermkijporntavee",
+      "character": "Tin",
+      "profilePath": "/otHyVtuxDXMFeelxLPaGjEXDB97.jpg",
+      "order": 501
+    },
+    {
+      "id": "df3b759b-eee7-4140-9fff-9907b7c7892b",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbPersonId": 3329485,
+      "name": "Bhasidi Petchsutee",
+      "character": "Alice",
+      "profilePath": "/kvdxZFwhgSd0dCG0gmxTi3lsT7A.jpg",
+      "order": 502
+    },
+    {
+      "id": "db3cbdb3-8212-4275-ae8a-433902288e31",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbPersonId": 3580772,
+      "name": "Tipanan Nilsiam",
+      "character": "Sol",
+      "profilePath": "/qRclo3cse4wyTLNKPU1L1BU4DC6.jpg",
+      "order": 504
+    }
+  ],
+  "seasons": [
+    {
+      "id": "a0ebf155-5382-4240-8b14-602159d04bd8",
+      "tvSeriesId": "468b7b03-1105-40ec-b27e-b157aed7edf9",
+      "tmdbId": 443372,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "A brave confession begins a gentle pursuit where two students become each other’s refuge, healing and growing through love.",
+      "posterPath": "/auYs0dImHpN2KtuBlu6eFNOsdnn.jpg",
+      "airDate": "2026-01-31",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-05-18T03:28:28.158Z",
+      "updatedAt": "2026-05-18T03:30:31.158Z"
+    }
+  ]
+}

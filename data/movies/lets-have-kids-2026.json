@@ -1,0 +1,275 @@
+{
+  "slug": "lets-have-kids-2026",
+  "id": "8c353052-f980-414c-b591-9c478634330d",
+  "tmdbId": 1282159,
+  "imdbId": "tt9174288",
+  "title": "Let's Have Kids!",
+  "originalTitle": "Let's Have Kids!",
+  "overview": "Two best friends, Emma and Phoebe, decide to get pregnant simultaneously to navigate motherhood together, but their friendship is tested when only one of them conceives.",
+  "tagline": null,
+  "posterPath": "/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
+  "backdropPath": "/A42JE6WJDMsICN3NU6XkUyYEF5F.jpg",
+  "logoPath": "/dF2ObXuCywfGF821uD44WFhZxXL.png",
+  "backdrops": [
+    "/A42JE6WJDMsICN3NU6XkUyYEF5F.jpg",
+    "/lThYQQZoFDYnhNP9XI68sJqbmsa.jpg"
+  ],
+  "releaseDate": "2026-10-13",
+  "runtime": null,
+  "voteAverage": "0.00",
+  "popularity": null,
+  "popularityScore": 72,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=VlDR4sACkRc",
+  "quality": "WEB-DL",
+  "director": "Adam Sztykiel",
+  "directorTmdbId": 66549,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 2531,
+      "name": "MRC",
+      "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png"
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1977,
+  "watchlistCount": 20,
+  "favouriteCount": 5,
+  "shareCount": 3,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-13T11:31:59.781Z",
+  "updatedAt": "2026-10-13T11:32:48.327Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4930b72a-86f9-4391-b468-804d2b1abd69",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 543261,
+      "name": "Karen Gillan",
+      "character": "Emma",
+      "profilePath": "/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg",
+      "order": 0
+    },
+    {
+      "id": "30606f31-29ea-464b-89ad-7f0413d51eb0",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 1432528,
+      "name": "Zoë Chao",
+      "character": "Phoebe",
+      "profilePath": "/lHz6ST2vJZcMy3fPlcnl8EqAjO6.jpg",
+      "order": 1
+    },
+    {
+      "id": "754d2e81-fb42-483f-8d52-4176a45045a8",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 1429453,
+      "name": "Sam Richardson",
+      "character": "Ben",
+      "profilePath": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+      "order": 2
+    },
+    {
+      "id": "7bc92c29-fca1-4cee-a6a7-5ccecb0e1dca",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 1213603,
+      "name": "Max Greenfield",
+      "character": "Brian",
+      "profilePath": "/79w2mSZT8JwYv5ZwjJMDYQbzptE.jpg",
+      "order": 3
+    },
+    {
+      "id": "322f3d5d-849e-45e6-8fcb-ddfa918a3bb8",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 1680339,
+      "name": "KJ Apa",
+      "character": "Rob",
+      "profilePath": "/idpwm8ZdFnndjeQ3mKleF20hvRo.jpg",
+      "order": 4
+    },
+    {
+      "id": "d9e92722-6a3e-4f3d-b059-e595022cb7ad",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 42157,
+      "name": "Ed Begley Jr.",
+      "character": "Dr. Young",
+      "profilePath": "/cdS6hZVabhpQ3UdIK0HNvYXj5IM.jpg",
+      "order": 5
+    },
+    {
+      "id": "ba22258e-255b-481b-934d-8f9ba362b76a",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 2453,
+      "name": "Mary Steenburgen",
+      "character": "Sue",
+      "profilePath": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg",
+      "order": 6
+    },
+    {
+      "id": "425f3dac-585a-4635-9029-618a7daea0dd",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 58370,
+      "name": "Amanda Crew",
+      "character": "Bella",
+      "profilePath": "/diGTfFDOAjtfpClK3pJHkQIYhNc.jpg",
+      "order": 7
+    },
+    {
+      "id": "0fa1b20e-de82-4440-8961-2e67accea4f5",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 432040,
+      "name": "Luke Macfarlane",
+      "character": "Dr. Morrison",
+      "profilePath": "/yEpXM2sEFtZSwoLtI0rYZJERzvZ.jpg",
+      "order": 8
+    },
+    {
+      "id": "c6254e03-db87-4fc1-aa07-0aeb60899040",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 1590305,
+      "name": "Taylor Misiak",
+      "character": "Amanda",
+      "profilePath": "/kBYRhq27LZimfrk5YPiJgmHPfAH.jpg",
+      "order": 9
+    },
+    {
+      "id": "d7ec2226-5c90-4eb5-b60d-49c3f0f8e6b1",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 1576058,
+      "name": "Lilly Singh",
+      "character": "Madison",
+      "profilePath": "/5dBOPUqrYIZuKRqpKRsHBdERclp.jpg",
+      "order": 10
+    },
+    {
+      "id": "243985bc-b151-4c87-9ff8-83935ee85bb0",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 2737944,
+      "name": "Jana Schmieding",
+      "character": "Rain",
+      "profilePath": "/2sjigbZ52yF0tzR3EMA3wMH9jM2.jpg",
+      "order": 11
+    },
+    {
+      "id": "676405fd-2be1-4435-85b6-3621c36a9f9c",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 2876466,
+      "name": "Kulani Kai",
+      "character": "Julie",
+      "profilePath": "/ktWN6yCniwlENAldeTjEHNBPZoq.jpg",
+      "order": 12
+    },
+    {
+      "id": "a908a62c-b6b8-4824-86ab-228aef33bc6e",
+      "movieId": "8c353052-f980-414c-b591-9c478634330d",
+      "tmdbPersonId": 1252505,
+      "name": "Dana Millican",
+      "character": "",
+      "profilePath": "/kCyjkofNLRX3DROc6lSqE1e4Hmb.jpg",
+      "order": 13
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

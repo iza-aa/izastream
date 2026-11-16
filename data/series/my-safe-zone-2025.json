@@ -1,0 +1,131 @@
+{
+  "slug": "my-safe-zone-2025",
+  "id": "c28dff18-3de7-482a-bd33-095960ee230a",
+  "title": "My Safe Zone",
+  "overview": "Alin leaves her best friend Jane to study abroad. Years later, a broken engagement brings her home, where they face feelings long unspoken.",
+  "tagline": "",
+  "posterPath": "/9vJMTObP0s8ijwwDu1TJaoK18nd.jpg",
+  "backdropPath": "/woALOAWhQCNSzKIdRZkXJOKCHSb.jpg",
+  "logoPath": null,
+  "firstAirDate": "2025-10-24",
+  "voteAverage": "6.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "eab2312b-b060-4090-8f1f-f7759dcda523",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbPersonId": 4262171,
+      "name": "Lorena Schuett",
+      "character": "Alin",
+      "profilePath": "/s8beLxatnCieCuy8jgDizhfH1OL.jpg",
+      "order": 0
+    },
+    {
+      "id": "9014559f-bde6-49d1-aab2-73ac2a8ea47c",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbPersonId": 4773537,
+      "name": "Natsha Taechamongkalapiwat",
+      "character": "Jane",
+      "profilePath": "/f5XbXeqIJ8vrpvTkgPZvBzypzhp.jpg",
+      "order": 1
+    },
+    {
+      "id": "426f8653-5793-4bf6-8b5b-b0b7032d1ff8",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbPersonId": 3668353,
+      "name": "Anada Prakobkit",
+      "character": "Pie",
+      "profilePath": "/pLM3hxvYA84fc0xnE3B7RCWdZtc.jpg",
+      "order": 2
+    },
+    {
+      "id": "f3cf5c5a-8225-4f65-8438-741e25796f51",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbPersonId": 3291394,
+      "name": "Pareena Busayasiri",
+      "character": "Kate",
+      "profilePath": "/dWzlV0MzzL4O15LSqK2gfOwHwnz.jpg",
+      "order": 3
+    },
+    {
+      "id": "378dfcd0-3e41-4e31-b8af-a0f09b8e6948",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbPersonId": 4338889,
+      "name": "Peerakrit Phacharaboonyakiat",
+      "character": "Thim",
+      "profilePath": "/tr7Lmmqp1iRKlSaoJCyec0OZ1sf.jpg",
+      "order": 4
+    },
+    {
+      "id": "f6d9c208-5833-4e9c-a5e7-ea9e28721da2",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbPersonId": 3903684,
+      "name": "Supranee Charoenpol",
+      "character": "",
+      "profilePath": "/1qLzg4uZNq0QiU8ES8t0jNnysGf.jpg",
+      "order": 5
+    },
+    {
+      "id": "3519d8ea-925b-40e3-954d-f02b2df98712",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbPersonId": 1203876,
+      "name": "Arisara Wongchalee",
+      "character": "Doll",
+      "profilePath": "/p8KgolBImhMDs12qjzYiuYo9iUM.jpg",
+      "order": 6
+    },
+    {
+      "id": "529618e8-e360-45bc-8073-7be46c9132bb",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbPersonId": 3405570,
+      "name": "Janjira Janpitakchai",
+      "character": "Bam",
+      "profilePath": "/gD7OyBuuTculJqRrkQ4ZuZIdwSR.jpg",
+      "order": 7
+    },
+    {
+      "id": "f7466220-e81c-424f-8bfa-0e57591de226",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbPersonId": 4427292,
+      "name": "Worawat Boonchuen",
+      "character": "Pete",
+      "profilePath": "/bhjPGnXsLvin2A71nEByldvaMQm.jpg",
+      "order": 8
+    },
+    {
+      "id": "8db5786f-56f0-4746-9a25-76d740578319",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbPersonId": 2214738,
+      "name": "Chatchawit Techarukpong",
+      "character": "Tan",
+      "profilePath": "/8TzHVNq9FPGsY5ArtccLFEYhL0r.jpg",
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "a9c5ff50-a64e-4a76-b71d-9c588adbf5f5",
+      "tvSeriesId": "c28dff18-3de7-482a-bd33-095960ee230a",
+      "tmdbId": 440795,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/wBGstu3nJQUDMvD7s13qD9QkTfd.jpg",
+      "airDate": "2025-10-24",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:40:28.249Z",
+      "updatedAt": "2026-04-02T17:40:28.249Z"
+    }
+  ]
+}

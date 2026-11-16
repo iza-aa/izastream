@@ -1,0 +1,152 @@
+{
+  "slug": "though-i-am-an-inept-villainess-2026",
+  "id": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+  "title": "Though I Am an Inept Villainess",
+  "overview": "Just as His Highness’s favored butterfly Reirin is beloved by the prince, jealous “court sewer rat” Keigetsu uses magic to swap their bodies—and their destinies. With a looming execution, Reirin embraces her new, healthy body, while Keigetsu learns Reirin’s life isn’t what it seems as she’s pulled into an inner-court conspiracy.",
+  "tagline": null,
+  "posterPath": "/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
+  "backdropPath": "/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg",
+  "logoPath": "/7VJw321l6B4g2ZjD9ttwqocztMt.png",
+  "firstAirDate": "2026-07-12",
+  "voteAverage": "8.34",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d0c73e81-61d2-4b89-8625-41371fd5db45",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbPersonId": 1835721,
+      "name": "Manaka Iwami",
+      "character": "Kou Reirin (voice)",
+      "profilePath": "/leKMaCBswXG8u4mfQNQ7J3y6Xow.jpg",
+      "order": 0
+    },
+    {
+      "id": "7549f9ed-1906-4a75-856e-c18a66d0f734",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbPersonId": 2492164,
+      "name": "Natsumi Kawaida",
+      "character": "Shu Keigetsu (voice)",
+      "profilePath": "/bdsKRWdB14DAAZzJnRjquWbqNYR.jpg",
+      "order": 1
+    },
+    {
+      "id": "4bab55c9-e95d-4bf3-995f-baabc78db584",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbPersonId": 1319218,
+      "name": "Makoto Furukawa",
+      "character": "Ei Gyoumei (voice)",
+      "profilePath": "/inLmBZhrqXeE9wlViyK28ocKJSw.jpg",
+      "order": 2
+    },
+    {
+      "id": "e4aaf1b9-20ae-4b09-9e6e-6de248d45c92",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbPersonId": 1483496,
+      "name": "Yuuichirou Umehara",
+      "character": "Shin-u (voice)",
+      "profilePath": "/lScrvZi4tKKpk3PbnIjLVjHVNJn.jpg",
+      "order": 3
+    },
+    {
+      "id": "bafeef48-f4ca-4dd5-811b-4de9096b6de2",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbPersonId": 2864386,
+      "name": "Hana Hishikawa",
+      "character": "Leelee (voice)",
+      "profilePath": "/epCzuP9ZmBMonKK2Z6FOKoq2b7k.jpg",
+      "order": 4
+    },
+    {
+      "id": "b8098563-1bcc-45a1-bb04-8df00d38d078",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbPersonId": 3272345,
+      "name": "Farahnaz Nikray",
+      "character": "Kou Tousetsu (voice)",
+      "profilePath": "/yYv95EVunqEnGfJujuete8MD8ld.jpg",
+      "order": 5
+    },
+    {
+      "id": "38448cf5-ab9b-4b07-8447-fe990c0d3bab",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbPersonId": 111371,
+      "name": "Rei Igarashi",
+      "character": "Kou Kenshū (voice)",
+      "profilePath": "/sqfOHaLVkZu5zcTo5IZ41hxDJvq.jpg",
+      "order": 6
+    },
+    {
+      "id": "86edaecf-1a04-4fee-9baa-e89db7adb881",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbPersonId": 1254671,
+      "name": "Ai Kayano",
+      "character": "Shu Gabi (voice)",
+      "profilePath": "/l8ywp387rfdAS7mOExe3cEZnsk0.jpg",
+      "order": 7
+    },
+    {
+      "id": "0d73aa45-6382-427b-ac9f-1bc70d97715f",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbPersonId": 220709,
+      "name": "Mai Nakahara",
+      "character": "Kin Seika (voice)",
+      "profilePath": "/s8DBmM540SRlRzUplaapMaDo8vV.jpg",
+      "order": 8
+    },
+    {
+      "id": "a4faf545-bd5f-4790-a875-864d47fc6257",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbPersonId": 1325949,
+      "name": "Inori Minase",
+      "character": "Ran Hōshun (voice)",
+      "profilePath": "/cqOrQDUbbQLKpujzcK47YqjFdNp.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1f7a549a-5564-4f3f-88a7-b6db50d29506",
+      "tvSeriesId": "9d237a97-0df1-413d-a988-1cd48ad74e5d",
+      "tmdbId": 446226,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
+      "airDate": "2026-07-12",
+      "episodeCount": 11,
+      "isPublished": true,
+      "createdAt": "2026-09-28T20:19:43.022Z",
+      "updatedAt": "2026-09-28T20:20:35.769Z"
+    }
+  ]
+}

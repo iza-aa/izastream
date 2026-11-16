@@ -1,0 +1,120 @@
+{
+  "slug": "then-you-try-making-it-2025",
+  "id": "448e9640-4a3b-4a7e-a731-7bc9d478a3e3",
+  "title": "Then You Try Making It!",
+  "overview": "A woman loses herself by playing the \"perfect girlfriend,\" cooking elaborate meals for her partner, while her old-fashioned boyfriend assumes women should cook. After a smooth college romance and cohabitation, they break up right after his proposal. Through cooking, they rethink stereotypes and rebuild their love in this rom-com.",
+  "tagline": null,
+  "posterPath": "/x3I9kmxS8TPOSU6VIzZttbRAePU.jpg",
+  "backdropPath": "/tu1G5dUktZff03qrzL8MmmgdwRy.jpg",
+  "logoPath": null,
+  "firstAirDate": "2025-10-07",
+  "voteAverage": "7.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c8a33382-ac84-4b0d-8405-886f3d2a156a",
+      "tvSeriesId": "448e9640-4a3b-4a7e-a731-7bc9d478a3e3",
+      "tmdbPersonId": 228079,
+      "name": "Kaho",
+      "character": "Ayumi Yamagishi",
+      "profilePath": "/s0ykmnef8yU6rf0ZLOaf6GMBbpb.jpg",
+      "order": 0
+    },
+    {
+      "id": "e8d83538-6e9b-425d-9831-ab837b3ae559",
+      "tvSeriesId": "448e9640-4a3b-4a7e-a731-7bc9d478a3e3",
+      "tmdbPersonId": 1384646,
+      "name": "Ryoma Takeuchi",
+      "character": "Katsuo Ebihara",
+      "profilePath": "/z2JOrpLIClgGeFbgY1bHB26I5Mx.jpg",
+      "order": 1
+    },
+    {
+      "id": "b2151848-5a50-4095-9b4e-ec7384445587",
+      "tvSeriesId": "448e9640-4a3b-4a7e-a731-7bc9d478a3e3",
+      "tmdbPersonId": 1373210,
+      "name": "Ayami Nakajo",
+      "character": "Tsubaki Kashikura",
+      "profilePath": "/s9Lxr750zub8b911WFEtUYggKaE.jpg",
+      "order": 2
+    },
+    {
+      "id": "8eb5d2cf-2e3f-44f9-a288-e3a0c88d1a87",
+      "tvSeriesId": "448e9640-4a3b-4a7e-a731-7bc9d478a3e3",
+      "tmdbPersonId": 1320679,
+      "name": "Yuzu Aoki",
+      "character": "Minato",
+      "profilePath": "/xZdmoDei5fxBruGtpy9I01XV4aF.jpg",
+      "order": 3
+    },
+    {
+      "id": "9d0a8934-d70b-4947-a5f3-8521a35371d4",
+      "tvSeriesId": "448e9640-4a3b-4a7e-a731-7bc9d478a3e3",
+      "tmdbPersonId": 2580510,
+      "name": "Mizuki Maehara",
+      "character": "Shirasaki",
+      "profilePath": "/vIfspAyQS3Zw6wDoySFx3GnJ3eb.jpg",
+      "order": 4
+    },
+    {
+      "id": "4dfd119e-898d-4b64-a408-064ff7ba4c64",
+      "tvSeriesId": "448e9640-4a3b-4a7e-a731-7bc9d478a3e3",
+      "tmdbPersonId": 3763200,
+      "name": "Saaya",
+      "character": "Nagisa Yoshii",
+      "profilePath": "/3BvLdTNYd0isItVeL55pabcWP4R.jpg",
+      "order": 5
+    },
+    {
+      "id": "1d4cac03-d799-4696-8325-aeda42aca72b",
+      "tvSeriesId": "448e9640-4a3b-4a7e-a731-7bc9d478a3e3",
+      "tmdbPersonId": 2375361,
+      "name": "Raiku",
+      "character": "Taihei Yoshii",
+      "profilePath": "/oQEdKVKG4za9tVFLuE0zOmPpYkg.jpg",
+      "order": 6
+    },
+    {
+      "id": "06ff59c1-5a72-45ae-9ee8-3a052acc80a5",
+      "tvSeriesId": "448e9640-4a3b-4a7e-a731-7bc9d478a3e3",
+      "tmdbPersonId": 1412422,
+      "name": "Kyoka Shibata",
+      "character": "Amina Minamikawa",
+      "profilePath": "/5rwR4LNHyuC5xwGpd3zWaRKhOlu.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "55adb419-2958-4f70-84e9-09b57bab138d",
+      "tvSeriesId": "448e9640-4a3b-4a7e-a731-7bc9d478a3e3",
+      "tmdbId": 466797,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/74yLBUEOnRuiqbvz7xhwXsMHFlK.jpg",
+      "airDate": "2025-10-07",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-02T19:33:02.996Z",
+      "updatedAt": "2026-09-02T19:34:29.241Z"
+    }
+  ]
+}

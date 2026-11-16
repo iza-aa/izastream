@@ -1,0 +1,120 @@
+{
+  "slug": "the-cold-sato-san-is-only-sweet-to-me-2026",
+  "id": "f87f09da-843a-47f0-9f96-e5c080ddddcb",
+  "title": "The Cold Sato-san Is Only Sweet to Me",
+  "overview": "Sato may be the most beautiful girl in school but she's also the coldest, never smiling at anyone. When her classmate Oshio spots her at a café, he learns Sato's secret: she's actually just shy and clumsy. As Sato and Oshio bond over their shared interests in photography and desserts, a sweet romance starts to blossom between two socially awkward people.",
+  "tagline": null,
+  "posterPath": "/eInC49veg0lHg13BaBiKmQiPk6U.jpg",
+  "backdropPath": "/ukHKDQO3ILHEAsZ6uXRCeT7tKlO.jpg",
+  "logoPath": "/x7SnoIng0q5GyAO9AN8QhX6JPEi.png",
+  "firstAirDate": "2026-10-06",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b3bdec59-8ea2-4ced-b542-8e8afb7ed09d",
+      "tvSeriesId": "f87f09da-843a-47f0-9f96-e5c080ddddcb",
+      "tmdbPersonId": 2392463,
+      "name": "Hiiro Ishibashi",
+      "character": "Sōta Oshio (voice)",
+      "profilePath": "/xDfX7mWq67zoymw5V7vEu22pf5r.jpg",
+      "order": 0
+    },
+    {
+      "id": "fd6d2bec-1056-4eb6-8c14-6e337a5a55b1",
+      "tvSeriesId": "f87f09da-843a-47f0-9f96-e5c080ddddcb",
+      "tmdbPersonId": 1530921,
+      "name": "Miku Ito",
+      "character": "Koharu Satō (voice)",
+      "profilePath": "/q2y0SbBKNeVLf5obxixFmmiM4hQ.jpg",
+      "order": 1
+    },
+    {
+      "id": "faf8ab9d-0cf0-430a-ad69-4d7cee2093e3",
+      "tvSeriesId": "f87f09da-843a-47f0-9f96-e5c080ddddcb",
+      "tmdbPersonId": 1647636,
+      "name": "Miyu Tomita",
+      "character": "Rinka Sudō (voice)",
+      "profilePath": "/rSR17l4HdchLkhpRuAZbGbXNmUS.jpg",
+      "order": 2
+    },
+    {
+      "id": "b475646c-e0aa-4514-a85f-dcf3fc908fb3",
+      "tvSeriesId": "f87f09da-843a-47f0-9f96-e5c080ddddcb",
+      "tmdbPersonId": 2279389,
+      "name": "Chiaki Kobayashi",
+      "character": "Ren Misono (voice)",
+      "profilePath": "/o0XZFXc50z28ICUpvfZ1QcTL2Yt.jpg",
+      "order": 3
+    },
+    {
+      "id": "eb283b42-6754-492a-b902-848a6041e3bb",
+      "tvSeriesId": "f87f09da-843a-47f0-9f96-e5c080ddddcb",
+      "tmdbPersonId": 1643476,
+      "name": "Yoshino Aoyama",
+      "character": "Shizuku Misono (voice)",
+      "profilePath": "/yPOprcT7tPKR3p79RMYtogTEXGr.jpg",
+      "order": 4
+    },
+    {
+      "id": "c426f761-29ce-4912-8fe2-fa57b54612e4",
+      "tvSeriesId": "f87f09da-843a-47f0-9f96-e5c080ddddcb",
+      "tmdbPersonId": 1116333,
+      "name": "Hisako Kanemoto",
+      "character": "Mayo Nezu (voice)",
+      "profilePath": "/yosLId8iiPcvDZpeoLuGkDKlorU.jpg",
+      "order": 5
+    },
+    {
+      "id": "f29f58c2-1fd9-40e5-88af-16b6216b3393",
+      "tvSeriesId": "f87f09da-843a-47f0-9f96-e5c080ddddcb",
+      "tmdbPersonId": 553282,
+      "name": "Yasunori Matsumoto",
+      "character": "Seizaemon Oshio (voice)",
+      "profilePath": "/12vPpqoppN12i3Zk313dwQsUQYi.jpg",
+      "order": 6
+    },
+    {
+      "id": "3367e09d-23e9-4094-bfc5-51acc7237eb6",
+      "tvSeriesId": "f87f09da-843a-47f0-9f96-e5c080ddddcb",
+      "tmdbPersonId": 1496006,
+      "name": "Yuki Wakai",
+      "character": "Madoka Murasaki (voice)",
+      "profilePath": "/29AGgDOC08B5Y0qKsb4Ij4P6uGT.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "7e4cc7b1-5d13-4770-9c70-985cda68f1bf",
+      "tvSeriesId": "f87f09da-843a-47f0-9f96-e5c080ddddcb",
+      "tmdbId": 505806,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/eInC49veg0lHg13BaBiKmQiPk6U.jpg",
+      "airDate": "2026-10-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-21T23:42:10.962Z",
+      "updatedAt": "2026-11-12T16:50:06.374Z"
+    }
+  ]
+}

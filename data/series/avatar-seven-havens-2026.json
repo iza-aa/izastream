@@ -1,0 +1,148 @@
+{
+  "slug": "avatar-seven-havens-2026",
+  "id": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+  "title": "Avatar: Seven Havens",
+  "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+  "tagline": "New legends will rise.",
+  "posterPath": "/9dZCAQTPHwgszqtqJVMt4eQ9YqK.jpg",
+  "backdropPath": "/pffbKZzIWKjA21XPKqECAKkSBEW.jpg",
+  "logoPath": "/3t6Yes1JJxr4e9Sk6Wl6WpAuY5d.png",
+  "firstAirDate": "2026-10-09",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 9,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "dbd93c9d-0852-47fe-aabc-85859cf67c35",
+      "tvSeriesId": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+      "tmdbPersonId": 6366410,
+      "name": "Saheli Khan",
+      "character": "Pavi (voice)",
+      "profilePath": "/v7KEBCh275MWmT0j5fxm4fslosD.jpg",
+      "order": 0
+    },
+    {
+      "id": "0583250b-3b5f-4ef4-a80b-f9fd84f81a37",
+      "tvSeriesId": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+      "tmdbPersonId": 5364725,
+      "name": "Aishwarya 'Aishu' Devan",
+      "character": "Nisha (voice)",
+      "profilePath": "/eRDnTa8yKo0G79j7Z48jeNODRuj.jpg",
+      "order": 1
+    },
+    {
+      "id": "cf86846a-54f0-42f4-b2a4-abd787a63a5a",
+      "tvSeriesId": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+      "tmdbPersonId": 3962153,
+      "name": "Akshay Khanna",
+      "character": "Karthik (voice)",
+      "profilePath": "/L2JWyOTwPRLHBLV7xUmDOcRHU3.jpg",
+      "order": 2
+    },
+    {
+      "id": "931edfaa-0159-44f1-9975-81d004c5fb8e",
+      "tvSeriesId": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+      "tmdbPersonId": 564220,
+      "name": "Major Curda",
+      "character": "Jae (voice)",
+      "profilePath": "/oHkyajLazp64ttgStLcJTY4wTvU.jpg",
+      "order": 3
+    },
+    {
+      "id": "d9aead41-bf64-4efd-b2e4-389379ceb5e4",
+      "tvSeriesId": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+      "tmdbPersonId": 34200,
+      "name": "Sakina Jaffrey",
+      "character": "Agam (voice)",
+      "profilePath": "/9U6vixMcwkj8aEffy64UqsklHd.jpg",
+      "order": 4
+    },
+    {
+      "id": "b28d36c1-41f4-4808-8040-593090600ae7",
+      "tvSeriesId": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+      "tmdbPersonId": 2000335,
+      "name": "Darren Barnet",
+      "character": "Daemin (voice)",
+      "profilePath": "/z3hQP19QgHsKZ4j0sXNzrhScDMO.jpg",
+      "order": 5
+    },
+    {
+      "id": "babff408-d402-4cfc-976e-c8fdc76b40f2",
+      "tvSeriesId": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+      "tmdbPersonId": 1368794,
+      "name": "Dianne Doan",
+      "character": "Zi (voice)",
+      "profilePath": "/nmFSZYW3RsnhvJEchnQZU9hKw4b.jpg",
+      "order": 6
+    },
+    {
+      "id": "a8a6f08d-7259-4d43-82d4-a9b47fe08a2b",
+      "tvSeriesId": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+      "tmdbPersonId": 23680,
+      "name": "Dee Bradley Baker",
+      "character": "Geet / Ruhi (voice)",
+      "profilePath": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "77027a25-63f8-45a8-ac52-34d015a854f7",
+      "tvSeriesId": "927ac3d8-6fdf-4c9f-83ff-661c0f74dfe4",
+      "tmdbId": 443380,
+      "seasonNumber": 1,
+      "name": "Book One: Survival",
+      "overview": "",
+      "posterPath": "/yHbLNPnklkI2oBp13EDUNs1C5WK.jpg",
+      "airDate": "2026-10-09",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-10-09T09:01:33.436Z",
+      "updatedAt": "2026-10-30T13:43:40.402Z"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "slug": "my-magic-prophecy-2025",
+  "id": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+  "title": "My Magic Prophecy",
+  "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
+  "tagline": "",
+  "posterPath": "/wJXLfURFsU1Ga67QLMQbk8TBmHv.jpg",
+  "backdropPath": "/b0nB5uwh7yjubFmXKVTxETzaR8K.jpg",
+  "logoPath": "/yTxCZYVsUVLfRgnHhdJJFRmW4Np.png",
+  "firstAirDate": "2025-07-27",
+  "voteAverage": "9.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 10,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "16f697b7-8750-4809-93e5-da65e1695192",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbPersonId": 3039963,
+      "name": "Jitaraphol Potiwihok",
+      "character": "Thapfah",
+      "profilePath": "/9k97SlfwsnOjm4UH4SHWcGH9cBg.jpg",
+      "order": 0
+    },
+    {
+      "id": "4915df91-e9e2-4ed8-a53d-82ddc7915ac1",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbPersonId": 3636167,
+      "name": "Tawinan Anukoolprasert",
+      "character": "Inthu",
+      "profilePath": "/cTfSBEiH4cJDrYFn1KKIbC7JE1R.jpg",
+      "order": 1
+    },
+    {
+      "id": "a0320354-db33-447b-8dde-66c83a003f48",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbPersonId": 3748237,
+      "name": "Save Saisawat",
+      "character": "Ton",
+      "profilePath": "/qzPkBLCqs1YDDGp17b76o6dvdVn.jpg",
+      "order": 2
+    },
+    {
+      "id": "23890ca1-7d09-40ae-92be-0112ef27ea67",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbPersonId": 5083966,
+      "name": "Naruth Prateeppravameta",
+      "character": "Pokpong",
+      "profilePath": "/jFdbS6TheHHj0j7zbccsaX2xMwO.jpg",
+      "order": 3
+    },
+    {
+      "id": "8be7b797-f7e7-4c77-a7e5-c94fda22e7a1",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbPersonId": 5083976,
+      "name": "Chompoopuntip Temtanamongkol",
+      "character": "Dao",
+      "profilePath": "/yHZksyY2nzKF9KQ2x2L8fBrqYIj.jpg",
+      "order": 4
+    },
+    {
+      "id": "51b4f4bf-ffc7-4dde-a6b2-9223cb04c561",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbPersonId": 2298243,
+      "name": "Kanaphan Puitrakul",
+      "character": "Karn",
+      "profilePath": "/fbS2MqouXFBJSBtDBO8XfV43TvS.jpg",
+      "order": 5
+    },
+    {
+      "id": "fc6e6e44-4002-4aa0-9277-e9fba377bc94",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbPersonId": 3455290,
+      "name": "Panachai Sriariyarungruang",
+      "character": "Tul",
+      "profilePath": "/aucLoUNUHBfEYtWiQewskbC9TkZ.jpg",
+      "order": 6
+    },
+    {
+      "id": "8a0180d3-b995-42ff-b65f-0d2ffc2be66c",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbPersonId": 4468621,
+      "name": "Paythai Ploymeeka",
+      "character": "Kasidis Rakwanit",
+      "profilePath": "/92kDcRQklQgeQAvHtmjbmEob8wo.jpg",
+      "order": 7
+    },
+    {
+      "id": "22515210-5423-4a88-82ac-fbbc9e2ffddd",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbPersonId": 1344005,
+      "name": "Athichanan Srisevok",
+      "character": "Thara Rakwanit",
+      "profilePath": "/xLIE0lMGongTd9akhvHIfjli20A.jpg",
+      "order": 8
+    },
+    {
+      "id": "fbdd7a14-76e0-4889-b06d-b65d2007c761",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbPersonId": 3489096,
+      "name": "Narumon Phongsupan",
+      "character": "Thephi [Thap & Dao's mother]",
+      "profilePath": "/sukC3TVdhwoSFs2sEP4ja0zpadu.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "95563faa-363a-49de-bc53-71c03dbf2761",
+      "tvSeriesId": "f02d8b57-de83-4e61-b292-d160c9c1215f",
+      "tmdbId": 430509,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "A skeptical doctor and a fortune teller must hide from a shadowy threat in a remote village, where danger and romance intertwine.",
+      "posterPath": "/zQ5jqUq629VUHrRMdc819E18KSy.jpg",
+      "airDate": "2025-07-27",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:39:13.304Z",
+      "updatedAt": "2026-04-02T17:39:13.304Z"
+    }
+  ]
+}

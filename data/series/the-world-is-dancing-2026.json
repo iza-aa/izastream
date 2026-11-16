@@ -1,0 +1,138 @@
+{
+  "slug": "the-world-is-dancing-2026",
+  "id": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+  "title": "The World Is Dancing",
+  "overview": "In 1374, amid the turmoil of the Northern and Southern Courts' long running conflict, a boy named Oniyasha is born into a family of sarugaku theater performers. He spends his days in a kind of quiet gloom, haunted by a simple but persistent question: Why do people dance? Then, one day, he witnesses a dance that he feels to be “good”—and everything begins to change. This is the story of the beautiful young boy who would one day shape the art of Noh and be remembered as Zeami.",
+  "tagline": null,
+  "posterPath": "/swh5mYGuqixQYwkrfDXfOcltRcl.jpg",
+  "backdropPath": "/yAjGiVs1W5PdkNgJAc7kyVvCTqU.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-07-02",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c48ddd45-fc59-4416-8a6a-53c4766e948b",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbPersonId": 1565358,
+      "name": "Yumiri Hanamori",
+      "character": "Oniyasha (voice)",
+      "profilePath": "/zXVwGxsxwEvL1f6wxzTYtxytjDn.jpg",
+      "order": 0
+    },
+    {
+      "id": "55cba52d-164b-41a1-9a10-f9bba15b8ba1",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbPersonId": 117527,
+      "name": "Shimba Tsuchiya",
+      "character": "Ishiya (voice)",
+      "profilePath": "/qyPAAsmnc3ugr4fYq2Jy2VbuXU9.jpg",
+      "order": 1
+    },
+    {
+      "id": "bf65a139-be11-44a9-85dd-6a45c2825ba2",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbPersonId": 1296667,
+      "name": "Maaya Uchida",
+      "character": "Kogane (voice)",
+      "profilePath": "/lrcxZXkIgHU55dMs8C4DKkUohqJ.jpg",
+      "order": 2
+    },
+    {
+      "id": "5230eaa6-a0b3-4b80-a46a-44de81127d2b",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbPersonId": 81243,
+      "name": "Romi Park",
+      "character": "Zojiro (voice)",
+      "profilePath": "/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg",
+      "order": 3
+    },
+    {
+      "id": "0b9e2250-3d90-49da-97cf-ed4066d212aa",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbPersonId": 24647,
+      "name": "Katsuyuki Konishi",
+      "character": "Kan'ami (voice)",
+      "profilePath": "/nYM5cH6U7cp4x9dIzW0enmEKmeV.jpg",
+      "order": 4
+    },
+    {
+      "id": "fb1dfc8d-2114-4f0b-9792-491fb0218ee1",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbPersonId": 1966967,
+      "name": "Haruki Ishiya",
+      "character": "Junigoro (voice)",
+      "profilePath": "/5bugNo9kjEpzotXLkvMZ2pJ212h.jpg",
+      "order": 5
+    },
+    {
+      "id": "8074b054-9087-43e4-aafc-b1c56f144f97",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbPersonId": 9705,
+      "name": "Takahiro Sakurai",
+      "character": "Ashikaga Yoshimitsu (voice)",
+      "profilePath": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg",
+      "order": 6
+    },
+    {
+      "id": "b2415e23-e2f3-4800-91bc-cea00978415d",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbPersonId": 1221143,
+      "name": "Nobuo Tobita",
+      "character": "Nijo Yoshimoto (voice)",
+      "profilePath": "/8p47dHvcEvr7CPYIHpxlQcpZmtm.jpg",
+      "order": 7
+    },
+    {
+      "id": "196fa786-60ff-4076-931a-9b185798e923",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbPersonId": 89903,
+      "name": "Mamiko Noto",
+      "character": "Nariko (voice)",
+      "profilePath": "/wCSD7Umgzc66p8VGXrrMZtSLSuS.jpg",
+      "order": 8
+    },
+    {
+      "id": "31d1dcb1-e770-4b6e-bb41-ba9074f41a1a",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbPersonId": 1325949,
+      "name": "Inori Minase",
+      "character": "Chiharu (voice)",
+      "profilePath": "/cqOrQDUbbQLKpujzcK47YqjFdNp.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "effddaef-292e-460e-a6f1-9fddc890332d",
+      "tvSeriesId": "14e94e98-7d22-49dc-a095-658c56f7b23e",
+      "tmdbId": 496445,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/swh5mYGuqixQYwkrfDXfOcltRcl.jpg",
+      "airDate": "2026-07-02",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-09-28T16:51:27.425Z",
+      "updatedAt": "2026-09-28T16:53:29.285Z"
+    }
+  ]
+}

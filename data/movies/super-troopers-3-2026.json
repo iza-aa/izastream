@@ -1,0 +1,395 @@
+{
+  "slug": "super-troopers-3-2026",
+  "id": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+  "tmdbId": 675871,
+  "imdbId": "tt8820258",
+  "title": "Super Troopers 3",
+  "originalTitle": "Super Troopers 3",
+  "overview": "When Farva’s wildly over-the-top Indian engagement to Thorny’s sister spirals into chaos, the Super Troopers must navigate Thorny’s schemes to break up the relationship, while trying to crack a pernicious new drug ring  — all to save the day and maybe the wedding itself.",
+  "tagline": "The mustache rides, again. Again.",
+  "posterPath": "/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
+  "backdropPath": "/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+  "logoPath": "/m5oChjEmB9nULBhgS9LHXdlJC82.png",
+  "backdrops": [
+    "/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+    "/oU2H07DQVjGMp2vUgrYzso36v15.jpg",
+    "/odD5Mrb0WprpmOPbcYA1JWHmgiQ.jpg",
+    "/jd6lRBj8SAhnwbb5OODtTQPwqZj.jpg",
+    "/1sT8ToipCjIdKXdaubxAkh9OGlq.jpg",
+    "/7vWHIb7XcaIkvOBOAuL8AxuyVMZ.jpg",
+    "/rAeT8K51JJJomj0M7WGPC8jt4yi.jpg",
+    "/ynBvZe8AAfmIOpLEmuAfP3a1LjX.jpg",
+    "/w5Df43TswvqyNBVX3cYQa5tZa2E.jpg",
+    "/x10xfwa5GeX5oAABnt5iohIWNCN.jpg"
+  ],
+  "releaseDate": "2026-08-06",
+  "runtime": 104,
+  "voteAverage": "6.90",
+  "popularity": null,
+  "popularityScore": 14,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=cYFevn5frf0",
+  "quality": "WEB-DL",
+  "director": "Jay Chandrasekhar",
+  "directorTmdbId": 52049,
+  "directorProfilePath": "/kPBrBwm6BzUZhYPzdYcRwMPkgPf.jpg",
+  "productionCompanies": [
+    {
+      "id": 2773,
+      "name": "Broken Lizard Industries",
+      "logo_path": "/ubyU2v6XcREGwyeieqdcxvZzvKc.png"
+    },
+    {
+      "id": 127929,
+      "name": "Searchlight Pictures",
+      "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png"
+    },
+    {
+      "id": 52948,
+      "name": "Cataland Films",
+      "logo_path": null
+    },
+    {
+      "id": 22213,
+      "name": "TSG Entertainment",
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 8015,
+      "name": "cop"
+    },
+    {
+      "id": 6167,
+      "name": "engagement"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 10194,
+      "name": "interracial romance"
+    },
+    {
+      "id": 13027,
+      "name": "wedding"
+    },
+    {
+      "id": 280879,
+      "name": "indian wedding"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1777,
+  "watchlistCount": 7,
+  "favouriteCount": 0,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-24T19:16:07.657Z",
+  "updatedAt": "2026-09-24T19:20:54.392Z",
+  "genres": [
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "09e8f3fe-ddbe-41fe-bad8-d99a3172e5ac",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 52049,
+      "name": "Jay Chandrasekhar",
+      "character": "Thorny",
+      "profilePath": "/kPBrBwm6BzUZhYPzdYcRwMPkgPf.jpg",
+      "order": 0
+    },
+    {
+      "id": "2c80bdb9-b091-4657-92a8-94b07131da6e",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 56251,
+      "name": "Kevin Heffernan",
+      "character": "Farva",
+      "profilePath": "/2FgG3oPF1A7d6W4KaNNZV7kJ83g.jpg",
+      "order": 1
+    },
+    {
+      "id": "c7ea7dca-9880-4bc1-a3fa-95c1b7f44e87",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 52051,
+      "name": "Steve Lemme",
+      "character": "Mac",
+      "profilePath": "/iQnIsjeUA34B2w4EuM8mR1TglJZ.jpg",
+      "order": 2
+    },
+    {
+      "id": "646225dd-ff44-4eb4-9cc4-d2d0579a3624",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 56253,
+      "name": "Paul Soter",
+      "character": "Foster",
+      "profilePath": "/avsOygcEmFUB5INWGoexgaTJ2u0.jpg",
+      "order": 3
+    },
+    {
+      "id": "37073ca0-9af6-4815-b597-ff584b3ebfce",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 56252,
+      "name": "Erik Stolhanske",
+      "character": "Rabbit",
+      "profilePath": "/eVMov7majKwNO8eOMcwweaAnBJj.jpg",
+      "order": 4
+    },
+    {
+      "id": "0f51559c-67bb-4be4-bc67-6839df399b1c",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 1181326,
+      "name": "Hannah Simone",
+      "character": "Sarita",
+      "profilePath": "/vF2K5xd73ZvRhBjFuIfiSTLMNYB.jpg",
+      "order": 5
+    },
+    {
+      "id": "9ac885a3-59a0-4a1d-a307-67bbb0fd15a1",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 56595,
+      "name": "Marisa Coughlan",
+      "character": "Ursula",
+      "profilePath": "/m6bzAs1IRRqWZjlVI01JeBUDL9u.jpg",
+      "order": 6
+    },
+    {
+      "id": "131bef15-2368-4128-9e6d-3605f6d81663",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 105648,
+      "name": "Nat Faxon",
+      "character": "Captain Markowski",
+      "profilePath": "/i7bsT8ewAjCr7zByWOyCnbrT0x9.jpg",
+      "order": 7
+    },
+    {
+      "id": "f7ffe44a-8d47-47f8-97fd-45b7782a3873",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 60899,
+      "name": "Chace Crawford",
+      "character": "Baker",
+      "profilePath": "/wz7s1JT3bYi2vd4fWwmLT809cnT.jpg",
+      "order": 8
+    },
+    {
+      "id": "ac5340db-4903-4b96-97ed-a79d008ec7d9",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 2218430,
+      "name": "Andrew Dismukes",
+      "character": "Coy",
+      "profilePath": "/9zvaGUyvsqTSov9fkfBYmfoJ57p.jpg",
+      "order": 9
+    },
+    {
+      "id": "b5576bfb-2e17-4d82-b6f1-9dbf82bac2ee",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 1714925,
+      "name": "Jon Rudnitsky",
+      "character": "Steve",
+      "profilePath": "/54FaWVPJUyLQ85Bw3uiY9bBLsBb.jpg",
+      "order": 10
+    },
+    {
+      "id": "ab9c6581-8522-4c62-88e4-bc4f695224fc",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 2655972,
+      "name": "Lisa Gilroy",
+      "character": "Bettie",
+      "profilePath": "/zEv5PRAKeQo7a3yCGhm2DJwf20B.jpg",
+      "order": 11
+    },
+    {
+      "id": "ca035ee4-07a5-40e2-a497-39d69bd4c9fc",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 34200,
+      "name": "Sakina Jaffrey",
+      "character": "Mehta",
+      "profilePath": "/9U6vixMcwkj8aEffy64UqsklHd.jpg",
+      "order": 12
+    },
+    {
+      "id": "817ac981-2f6b-4566-b5cf-094d63a4c70e",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 154182,
+      "name": "Iqbal Theba",
+      "character": "Mukundan",
+      "profilePath": "/ySSf1uWuGkyRgNwyFjB3jJipzgQ.jpg",
+      "order": 13
+    },
+    {
+      "id": "ad5db70b-b9c5-4cff-9cf3-da4b9f37758f",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 44935,
+      "name": "Lynda Carter",
+      "character": "Governor Jessman",
+      "profilePath": "/qZJgjBKEL4ioZywSGzYzxldEAvf.jpg",
+      "order": 14
+    },
+    {
+      "id": "c871cb56-5c1c-4204-a980-695636081494",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 1248,
+      "name": "Brian Cox",
+      "character": "Captain O’Hagan",
+      "profilePath": "/scSjbFCTRngXlkJRoKptM5kQGw7.jpg",
+      "order": 15
+    },
+    {
+      "id": "bf25df5e-2ae1-401e-b1c7-ce79a2ca59ed",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 4109816,
+      "name": "Brendan Abbott",
+      "character": "Red Headed Driver",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "673ec5c7-5741-4821-9cf7-403af0af4a73",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 1040956,
+      "name": "Ian Lyons",
+      "character": "Douchey Guy",
+      "profilePath": "/pmX1Bqi2xCFvZGXBatkAjlIH8S5.jpg",
+      "order": 17
+    },
+    {
+      "id": "c5e889d3-e14b-42a1-b729-b7001145f304",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 6395125,
+      "name": "Will Chandrasekhar",
+      "character": "Delivery Guy",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "f2d8e9c4-f48e-46cf-88a2-d6f4678676b0",
+      "movieId": "77003a4e-ccf5-4ca6-930e-fecd4e1d5b2c",
+      "tmdbPersonId": 6395126,
+      "name": "Quinn Heffernan",
+      "character": "High Tea Waitress",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

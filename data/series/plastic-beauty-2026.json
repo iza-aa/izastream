@@ -1,0 +1,95 @@
+{
+  "slug": "plastic-beauty-2026",
+  "id": "b1f70066-548d-42d4-a994-b4fa029437de",
+  "title": "Plastic Beauty",
+  "overview": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
+  "tagline": null,
+  "posterPath": "/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
+  "backdropPath": "/tvw5ipvdNBDSm8IazdVB5pm1yGw.jpg",
+  "logoPath": "/eA4yjMrh1d2xhsW2a2vSQAuAUrF.png",
+  "firstAirDate": "2026-09-17",
+  "voteAverage": "7.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a87f0e42-8861-457d-86a5-9ddc084ae1ca",
+      "tvSeriesId": "b1f70066-548d-42d4-a994-b4fa029437de",
+      "tmdbPersonId": 1130611,
+      "name": "Mayu Matsuoka",
+      "character": "Fumi Numata",
+      "profilePath": "/f7Pn68PjbhbsgwdAcQ7mxpkAYPJ.jpg",
+      "order": 0
+    },
+    {
+      "id": "a616da46-e84c-4493-b42e-6bb2d2b53cfe",
+      "tvSeriesId": "b1f70066-548d-42d4-a994-b4fa029437de",
+      "tmdbPersonId": 122468,
+      "name": "Riisa Naka",
+      "character": "Rin Tohyama",
+      "profilePath": "/lQHNZeMCqEK8AJvNb15BFnji7qO.jpg",
+      "order": 1
+    },
+    {
+      "id": "585f787f-1c09-4fda-a605-e93edb957ea6",
+      "tvSeriesId": "b1f70066-548d-42d4-a994-b4fa029437de",
+      "tmdbPersonId": 1565630,
+      "name": "Shotaro Mamiya",
+      "character": "Rui Komiya",
+      "profilePath": "/rTyurOXMTcSyLfjGxLZ1rDedyPt.jpg",
+      "order": 2
+    },
+    {
+      "id": "3eb82ac7-eb2b-4f9f-92a8-344b3fb971f9",
+      "tvSeriesId": "b1f70066-548d-42d4-a994-b4fa029437de",
+      "tmdbPersonId": 2695029,
+      "name": "Minami Tanaka",
+      "character": "Nanami Todoroki",
+      "profilePath": "/a4owLLPAec6N6cO5UWf8Uq5SsaI.jpg",
+      "order": 3
+    },
+    {
+      "id": "24d9c7dc-d1bf-4bb2-8326-45534e53fa8d",
+      "tvSeriesId": "b1f70066-548d-42d4-a994-b4fa029437de",
+      "tmdbPersonId": 148469,
+      "name": "Hiromi Nagasaku",
+      "character": "Taeko Numata",
+      "profilePath": "/l0NR6D6aOaTqqtrgd0VrRg62Us1.jpg",
+      "order": 4
+    },
+    {
+      "id": "6b9aaefa-46c8-40d6-a5ee-af754f434d4f",
+      "tvSeriesId": "b1f70066-548d-42d4-a994-b4fa029437de",
+      "tmdbPersonId": 46624,
+      "name": "Atsuro Watabe",
+      "character": "Arata Toyama",
+      "profilePath": "/nhG7XVt3QfNgQQHnetBUJvfv79Q.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "6ab8645e-ff89-4c91-a269-ae101110b965",
+      "tvSeriesId": "b1f70066-548d-42d4-a994-b4fa029437de",
+      "tmdbId": 469132,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/zUp3F7qtpJIUMsf31DDLNx1xOdS.jpg",
+      "airDate": "2026-09-17",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-18T07:18:01.884Z",
+      "updatedAt": "2026-09-20T19:43:15.162Z"
+    }
+  ]
+}

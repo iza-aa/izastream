@@ -1,0 +1,122 @@
+{
+  "slug": "war-2026",
+  "id": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+  "title": "War",
+  "overview": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+  "tagline": "Take sides. Take everything.",
+  "posterPath": "/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
+  "backdropPath": "/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
+  "logoPath": "/aRXWFAkk6sl7izX3HpS00WEHlTo.png",
+  "firstAirDate": "2026-10-01",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1ef0fea8-2aee-4763-9e6e-e4adf6e077ea",
+      "tvSeriesId": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+      "tmdbPersonId": 17287,
+      "name": "Dominic West",
+      "character": "Morgan Henderson",
+      "profilePath": "/6y2M3EWslBPwPlugEFg8XDHfSJ0.jpg",
+      "order": 0
+    },
+    {
+      "id": "43a27626-6fb8-491a-91f5-c7a506626544",
+      "tvSeriesId": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+      "tmdbPersonId": 23459,
+      "name": "Sienna Miller",
+      "character": "Carla Duval",
+      "profilePath": "/lq2mEeDbL98bSz0H7xcHA3F2Rrb.jpg",
+      "order": 1
+    },
+    {
+      "id": "06406568-65f9-410c-95d8-f108737fae85",
+      "tvSeriesId": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+      "tmdbPersonId": 1320609,
+      "name": "Phoebe Fox",
+      "character": "Serena Byrne",
+      "profilePath": "/1xY991AhQRGMlA7tq7L5iHLIBod.jpg",
+      "order": 2
+    },
+    {
+      "id": "c18ca162-0e94-4ffc-b752-ba644a6c6e6c",
+      "tvSeriesId": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+      "tmdbPersonId": 1256215,
+      "name": "James McArdle",
+      "character": "Nicholas Taylor",
+      "profilePath": "/4zvZYJqiF4ZZ0AYmTVL3ucyNB11.jpg",
+      "order": 3
+    },
+    {
+      "id": "3b132a3a-4d8b-4af0-85c9-d06030d2bedb",
+      "tvSeriesId": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+      "tmdbPersonId": 7063,
+      "name": "Nina Sosanya",
+      "character": "'Her Majesty' Beatrice 'Queen Bea' Ubosi",
+      "profilePath": "/nKqRWTF8hCsyjiSRCNMyShbmvrg.jpg",
+      "order": 4
+    },
+    {
+      "id": "efecfdcb-e52b-4b09-9b5d-0601478a76af",
+      "tvSeriesId": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+      "tmdbPersonId": 36666,
+      "name": "Pip Torrens",
+      "character": "St John Smallwood",
+      "profilePath": "/1n7pzFfT6jDHe8kc6I0AEfRryhz.jpg",
+      "order": 5
+    },
+    {
+      "id": "e869f789-283c-4774-8829-a72a077d959a",
+      "tvSeriesId": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+      "tmdbPersonId": 2164506,
+      "name": "Archie Renaux",
+      "character": "Jonathan 'Johnny' Warren",
+      "profilePath": "/uTd18t2VJovN2jSJyhuG8Yy3PV6.jpg",
+      "order": 6
+    },
+    {
+      "id": "2e40eeee-8925-4cf3-8e92-5d9932795d44",
+      "tvSeriesId": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+      "tmdbPersonId": 9139,
+      "name": "Celia Imrie",
+      "character": "Budgie",
+      "profilePath": "/eEtVfESOVnkkdPLYkyQpalEwAwj.jpg",
+      "order": 7
+    },
+    {
+      "id": "be4d8ee2-4c78-433e-b946-51b0f7c44937",
+      "tvSeriesId": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+      "tmdbPersonId": 1509615,
+      "name": "Nick Mohammed",
+      "character": "Michael Stefanou",
+      "profilePath": "/2cFSHotCLLauzqq8iDKWK6meRAY.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "505f47b6-f6a5-4de3-a5e0-642253d0fdeb",
+      "tvSeriesId": "8b94c993-5b87-4198-95b7-cbf7ad06be0c",
+      "tmdbId": 471003,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Two of London's most prestigious rival firms – Cathcarts and Taylor & Byrne – go head-to-head in the divorce case of the century: tech titan Morgan Henderson and his estranged wife, international film star Carla Duval. Each side is certain they'll win. But as the case spirals and loyalties fracture, reputations are on the line, and everyone's playing to win.",
+      "posterPath": "/lgndxtOl4rc8sdUZUQBsFh4N2E3.jpg",
+      "airDate": "2026-10-01",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-02T11:17:45.661Z",
+      "updatedAt": "2026-11-13T07:52:02.014Z"
+    }
+  ]
+}

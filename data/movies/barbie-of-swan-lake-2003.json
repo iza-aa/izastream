@@ -1,0 +1,407 @@
+{
+  "slug": "barbie-of-swan-lake-2003",
+  "id": "436db219-2293-4a7c-ab06-87162ea9a391",
+  "tmdbId": 15016,
+  "imdbId": "tt0383206",
+  "title": "Barbie of Swan Lake",
+  "originalTitle": "Barbie of Swan Lake",
+  "overview": "Barbie as Odette, the young daughter of a baker, follows a unicorn into the Enchanted Forest and is transformed into a swan by an evil wizard intent on defeating the Fairy Queen.",
+  "tagline": "Enter a world of love and enchantment.",
+  "posterPath": "/jmMLTLGO6GMqmXLhj8kv0JcrMpt.jpg",
+  "backdropPath": "/tonrulTmO9ZyZmsAsr5yr9ciE4c.jpg",
+  "logoPath": "/yVvIJ0aNGN0XbDaojrbR0OR7HME.png",
+  "backdrops": [
+    "/tonrulTmO9ZyZmsAsr5yr9ciE4c.jpg",
+    "/A3sqHTy28d0M3ZKRCWVGxJTO2xF.jpg",
+    "/vB87k806tNu13WSjGzeXIY05nzw.jpg",
+    "/5LYNgiYJzSmkov7HTPledoLgCIp.jpg",
+    "/gjzfeMRNtKGP4b0mIDrcVWM7FQV.jpg",
+    "/mkpz4tbcMYuhRfY9XJzctRUCVBw.jpg",
+    "/jujbU7Xqy1z3fhIhLcBRpj5azCJ.jpg",
+    "/fHYgJc8OsPv6EF7nzt0st1Qssj4.jpg",
+    "/z7mTXzXtQrnEDiMIbN2fqXkOjwL.jpg",
+    "/vY8ea6W6jVFg9B139amsdpnu7dk.jpg"
+  ],
+  "releaseDate": "2003-09-27",
+  "runtime": 83,
+  "voteAverage": "7.00",
+  "popularity": null,
+  "popularityScore": 711,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=60PgxDHrdro",
+  "quality": "WEB-DL",
+  "director": "Owen Hurley",
+  "directorTmdbId": 45916,
+  "directorProfilePath": "/tvPQF8oALc9ImfXKpGmV3A3AB2U.jpg",
+  "productionCompanies": [
+    {
+      "id": 5024,
+      "name": "Mainframe Entertainment",
+      "logo_path": "/9CkYR0swSEj5iVi9bzx9erLnmzm.png"
+    },
+    {
+      "id": 6220,
+      "name": "Mattel",
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png"
+    },
+    {
+      "id": 49983,
+      "name": "Mattel Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 63489,
+      "name": "Family Home Entertainment (FHE)",
+      "logo_path": "/mFIO5amu9oKLYDFGjAxF1CFHzjY.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 4344,
+      "name": "musical"
+    },
+    {
+      "id": 10551,
+      "name": "ballet"
+    },
+    {
+      "id": 10542,
+      "name": "based on toy"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 18165,
+      "name": "animals"
+    },
+    {
+      "id": 163227,
+      "name": "unicorn"
+    },
+    {
+      "id": 173646,
+      "name": "swan lake"
+    },
+    {
+      "id": 272909,
+      "name": "magic land"
+    },
+    {
+      "id": 278823,
+      "name": "3d animation"
+    },
+    {
+      "id": 325784,
+      "name": "comforting"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 4807,
+  "watchlistCount": 36,
+  "favouriteCount": 32,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-15T19:22:45.841Z",
+  "updatedAt": "2026-10-15T19:24:27.486Z",
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "8b735483-83a5-461e-a12c-ee0c0650bb6a",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 74358,
+      "name": "Kelly Sheridan",
+      "character": "Barbie Roberts / Odette (voice)",
+      "profilePath": "/sxg2oRxwAEWd2Y8baJarjwC1XPA.jpg",
+      "order": 0
+    },
+    {
+      "id": "9b5ec730-d476-4bfe-aa2c-87d64889f48b",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 59311,
+      "name": "Mark Hildreth",
+      "character": "Prince Daniel (voice)",
+      "profilePath": "/pHkXbCjIPbUSeOZLV3z6dnj8WVB.jpg",
+      "order": 1
+    },
+    {
+      "id": "93c58f49-64c1-49aa-9bb3-852c9f972d7c",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 7090,
+      "name": "Kelsey Grammer",
+      "character": "Rothbart (voice)",
+      "profilePath": "/9V7svcoA6w7OfZbA2EW6EIjetD0.jpg",
+      "order": 2
+    },
+    {
+      "id": "8c0f2e93-61c2-4b31-bba5-e492d3f36453",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 145345,
+      "name": "Maggie Wheeler",
+      "character": "Odile (voice)",
+      "profilePath": "/thTeI4FAx02X1h6a2EPWG8me9Ua.jpg",
+      "order": 3
+    },
+    {
+      "id": "b69b478a-dfe0-4462-ad67-dbb87d2bc29e",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 74361,
+      "name": "Venus Terzo",
+      "character": "Lila (voice)",
+      "profilePath": "/pzDAljgejPs0lieYRE8dGPt3Xdl.jpg",
+      "order": 4
+    },
+    {
+      "id": "b3a4cc0a-ca54-4710-ba85-4cae166364fb",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 45923,
+      "name": "Kathleen Barr",
+      "character": "Fairy Queen / Marie (voice)",
+      "profilePath": "/l7dk7Lki6dLfKVcPGrTq9aYWZj.jpg",
+      "order": 5
+    },
+    {
+      "id": "9d88cb31-30d6-4e29-9d41-a87109e8269d",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 74362,
+      "name": "Michael Dobson",
+      "character": "Erasmus / Burly Villager (voice)",
+      "profilePath": "/AjzZvcIWkq6mUC5dIxgGsPCv8bk.jpg",
+      "order": 6
+    },
+    {
+      "id": "8249bfdd-bf5e-43f2-8eff-c1363533d3c4",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 74370,
+      "name": "Nicole Oliver",
+      "character": "Carlita (voice)",
+      "profilePath": "/plAsVfhTrYaU78JrZbJSQ4uXpX1.jpg",
+      "order": 7
+    },
+    {
+      "id": "69a0414c-7567-4a4d-8df8-de8a0aa930cc",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 45924,
+      "name": "Ian James Corlett",
+      "character": "Ivan (voice)",
+      "profilePath": "/y0p99omSo8CgHWPjv7qXtAQVyzr.jpg",
+      "order": 8
+    },
+    {
+      "id": "2178c01b-21d4-4ed0-ad2a-06d92055eea7",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 74364,
+      "name": "Brian Drummond",
+      "character": "Reggie (voice)",
+      "profilePath": "/oNKCHFuMZTASvyayEj3cRXLEjJL.jpg",
+      "order": 9
+    },
+    {
+      "id": "48dfd54c-494c-4f53-abd8-cea775efe30a",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 85431,
+      "name": "Chantal Strand",
+      "character": "Kelly Roberts (voice)",
+      "profilePath": "/4YAzGdCDiLPS7Imz2D0MF1AGnI5.jpg",
+      "order": 10
+    },
+    {
+      "id": "c48a93ad-d469-4185-bf91-93317c619c77",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 26089,
+      "name": "Garry Chalk",
+      "character": "Baker (voice)",
+      "profilePath": "/jESGnBSP0OjFxJejN1OPsjXA9sJ.jpg",
+      "order": 11
+    },
+    {
+      "id": "cc565ceb-9570-41b8-8f88-fd0de5fb30aa",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 74363,
+      "name": "Scott McNeil",
+      "character": "Peddler (voice)",
+      "profilePath": "/rjiHH4krrSdipdSUdSUjvODKJM2.jpg",
+      "order": 12
+    },
+    {
+      "id": "0578ef5d-e345-41e2-84c9-60d7e1072c39",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 1366446,
+      "name": "Gina Stockdale",
+      "character": "Queen Mother (voice)",
+      "profilePath": "/fRhKhph0mjFkHGRQvLyVI2c90Dm.jpg",
+      "order": 13
+    },
+    {
+      "id": "855a30d0-053d-4c0a-9a09-7a9cffb6f9a9",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 2327865,
+      "name": "Charles Askegard",
+      "character": "New York City Ballet Dancer",
+      "profilePath": "/wgrsOc8hzusvDXdbz41QbJou3Ak.jpg",
+      "order": 14
+    },
+    {
+      "id": "3427087b-95f1-452d-842a-50d942518a96",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 1309009,
+      "name": "Ellen Bar",
+      "character": "New York City Ballet Dancer",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "58101bed-4bd5-4aeb-81ad-9f0b91d491d9",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 1995998,
+      "name": "Maria Kowroski",
+      "character": "New York City Ballet Dancer",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "3065115a-cea4-4e76-ad12-0b402a3bc799",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 970088,
+      "name": "Benjamin Millepied",
+      "character": "New York City Ballet Dancer",
+      "profilePath": "/dUolMP3dmuks23usx3sRfB8qKqx.jpg",
+      "order": 17
+    },
+    {
+      "id": "340f4245-0efd-48e9-b1a1-512346ba0d0b",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 2327867,
+      "name": "Abi Stafford",
+      "character": "New York City Ballet Dancer",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "24a0fc2f-c0c2-4c7a-9f94-df1b07245edb",
+      "movieId": "436db219-2293-4a7c-ab06-87162ea9a391",
+      "tmdbPersonId": 2327868,
+      "name": "Janie Taylor",
+      "character": "New York City Ballet Dancer",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "nprain",
+    "displayName": "acii"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

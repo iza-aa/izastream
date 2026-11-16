@@ -1,0 +1,373 @@
+{
+  "slug": "the-weight-2026",
+  "id": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+  "tmdbId": 1433583,
+  "imdbId": "tt10794054",
+  "title": "The Weight",
+  "originalTitle": "The Weight",
+  "overview": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
+  "tagline": "A tale of good and evil.",
+  "posterPath": "/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+  "backdropPath": "/zLeq2fbHU6UdA7mhsYnIULORTgq.jpg",
+  "logoPath": "/goGNzpf7rm2chxzcbLiLg5LDqmI.png",
+  "backdrops": [
+    "/zLeq2fbHU6UdA7mhsYnIULORTgq.jpg",
+    "/tD4qifPSyyhPCgZ0W4fNTcVDD2r.jpg",
+    "/tA22d0tUZsxrmQVC8DKrWTtZCNj.jpg",
+    "/wrrwqpIhabG1xaqWwakbgMpPgvu.jpg",
+    "/doKGNHnbawL8bsIAfkZH6AA2To3.jpg",
+    "/wnn2jKXfBGOZmCxW78PGSr4WfjQ.jpg"
+  ],
+  "releaseDate": "2026-09-16",
+  "runtime": 115,
+  "voteAverage": "0.00",
+  "popularity": null,
+  "popularityScore": 112,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=7YpuMymmiJ8",
+  "quality": "WEB-DL",
+  "director": "Padraic McKinley",
+  "directorTmdbId": 36619,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 25540,
+      "name": "Fields Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 98506,
+      "name": "Under the Influence Productions",
+      "logo_path": null
+    },
+    {
+      "id": 20037,
+      "name": "Augenschein Filmproduktion",
+      "logo_path": "/6W92BtQOutAi9KFp0aeb41RBH95.png"
+    },
+    {
+      "id": 209127,
+      "name": "Logical Content Ventures",
+      "logo_path": "/6kby8aYYQX7RqPGs0DPIGMtG2Sg.png"
+    },
+    {
+      "id": 44225,
+      "name": "Construction Film",
+      "logo_path": "/faD1loVvInTAOnwWpqNPRXe3Itj.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1321,
+      "name": "gold"
+    },
+    {
+      "id": 5571,
+      "name": "great depression"
+    },
+    {
+      "id": 1897,
+      "name": "oregon, usa"
+    },
+    {
+      "id": 163077,
+      "name": "military veteran"
+    },
+    {
+      "id": 214548,
+      "name": "1930s"
+    },
+    {
+      "id": 239821,
+      "name": "man vs nature"
+    },
+    {
+      "id": 240303,
+      "name": "father daughter relationship"
+    },
+    {
+      "id": 294521,
+      "name": "smuggling"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 7354,
+  "watchlistCount": 67,
+  "favouriteCount": 20,
+  "shareCount": 4,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-01T19:11:08.801Z",
+  "updatedAt": "2026-10-20T11:53:30.358Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "014e9c1d-3560-4e52-9e83-55ec2a5f80d1",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 569,
+      "name": "Ethan Hawke",
+      "character": "Samuel Murphy",
+      "profilePath": "/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg",
+      "order": 0
+    },
+    {
+      "id": "3940ba32-6d11-43be-aab4-fa4d8b5f6c32",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 934,
+      "name": "Russell Crowe",
+      "character": "Warden Clancy",
+      "profilePath": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg",
+      "order": 1
+    },
+    {
+      "id": "0a6ceb1e-1657-41a1-ae90-35870b8281c7",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 87310,
+      "name": "Julia Jones",
+      "character": "Anna",
+      "profilePath": "/5MDt4lh6Zwrv5aCJfTV2i3rxwXl.jpg",
+      "order": 2
+    },
+    {
+      "id": "8e511c5c-1dc5-4934-b2de-69125dd40279",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 1552436,
+      "name": "Austin Amelio",
+      "character": "Rankin",
+      "profilePath": "/y4QTXuSSmD99n8dinMiTRBkUnAp.jpg",
+      "order": 3
+    },
+    {
+      "id": "f5b92c4e-3bb5-4c84-843d-df5a89625d24",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 1617697,
+      "name": "Avi Nash",
+      "character": "Singh",
+      "profilePath": "/xmdcJQVhrnFdTv9KkrU3EnBWFfV.jpg",
+      "order": 4
+    },
+    {
+      "id": "f073efab-c467-4c02-9ec7-61b0743e2462",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 1444453,
+      "name": "Lucas Lynggaard Tønnesen",
+      "character": "Olson",
+      "profilePath": "/6o57Pv3tjxB9loPEDZX60PpIsr.jpg",
+      "order": 5
+    },
+    {
+      "id": "727ee3e7-2957-4d71-b0f5-5ce63015cf01",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 563559,
+      "name": "Sam Hazeldine",
+      "character": "Amis",
+      "profilePath": "/zyt5yR8hXMA9ZcwtL0yDadwvi4m.jpg",
+      "order": 6
+    },
+    {
+      "id": "f126c87a-5bd0-4619-b165-617c4346736b",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 2966859,
+      "name": "George Burgess",
+      "character": "Letender",
+      "profilePath": "/fxTvtnpfjU5uKFKu4GoAVD1o7i0.jpg",
+      "order": 7
+    },
+    {
+      "id": "a369bda7-5807-427c-8c4c-663f2e17026c",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 2483492,
+      "name": "Jeff Hallman",
+      "character": "Big",
+      "profilePath": "/rK4XdOzRabOwMX7N6Jq41JPjllV.jpg",
+      "order": 8
+    },
+    {
+      "id": "ff5cf5fc-4f62-47b7-b732-1d20746d27dd",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 13362,
+      "name": "Alec Newman",
+      "character": "Taggert",
+      "profilePath": "/qbSY0vUIyc8SUuLCw7hK5CsTpvQ.jpg",
+      "order": 9
+    },
+    {
+      "id": "088aa36e-870e-452e-a56d-53e302371537",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 4821279,
+      "name": "Avy-Berry Worrall",
+      "character": "Penny",
+      "profilePath": "/u6dUJd30o0Zg9w5lQdmKluX4DAc.jpg",
+      "order": 10
+    },
+    {
+      "id": "b4a2f1ee-58ba-4f41-b173-ae7adb7fa181",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 4214949,
+      "name": "Cameron Brady",
+      "character": "The Man",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "832605d3-ef81-4091-9831-44284887205b",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 4651523,
+      "name": "Eric Ford",
+      "character": "Flat Nose",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "68c608c1-b972-41fd-92a2-bd6e4139a57e",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 2847518,
+      "name": "Peter Lewys Preston",
+      "character": "Ed Akers",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "1555bf44-12d4-4fdf-9b95-e0ce2a24ced8",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 2154954,
+      "name": "Neil McGarry",
+      "character": "The Pastor",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "c1582569-d7fc-4824-a162-f9168cd3b474",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 2510830,
+      "name": "Dylan Page",
+      "character": "Mrs. Akers",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "b5d5cb2c-c336-4fc7-ad3f-03b5d44a782a",
+      "movieId": "c9bfbfa8-4552-4015-8525-06438063c2ef",
+      "tmdbPersonId": 4134049,
+      "name": "Ben Plunkett-Reynolds",
+      "character": "Wiry Guy",
+      "profilePath": "/3BhxLMVzTqm5uDD7qyxpLLptrRa.jpg",
+      "order": 16
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

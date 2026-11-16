@@ -1,0 +1,127 @@
+{
+  "slug": "shaque-trust-no-one-2026",
+  "id": "db19db93-3fd0-4366-9fcc-29edabe57188",
+  "title": "Shaque: Trust No One",
+  "overview": "A mother receives yearly photos of her missing child. After nine years of searching, she discovers the truth about the abduction lies not far away, but hidden among her closest circle.",
+  "tagline": null,
+  "posterPath": "/xddc9KBcqffXjLEYLX8cZzRwYkS.jpg",
+  "backdropPath": "/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
+  "logoPath": "/b3iQsqCfHvTxmekToW4viMd3a42.png",
+  "firstAirDate": "2026-09-24",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "af9fb3ba-ceba-4514-89c1-b18e73e7400c",
+      "tvSeriesId": "db19db93-3fd0-4366-9fcc-29edabe57188",
+      "tmdbPersonId": 1034471,
+      "name": "Parineeti Chopra",
+      "character": "",
+      "profilePath": "/DDBuGxqPZOcb2o9bk3ihPQdBn8.jpg",
+      "order": 0
+    },
+    {
+      "id": "20a19e71-baf7-42e2-8a31-259a57facb33",
+      "tvSeriesId": "db19db93-3fd0-4366-9fcc-29edabe57188",
+      "tmdbPersonId": 1222900,
+      "name": "Jennifer Winget",
+      "character": "",
+      "profilePath": "/eQx5zsmvPkjaWiMh5fMQMSCJUwC.jpg",
+      "order": 1
+    },
+    {
+      "id": "b0aad2d3-a4d5-4894-a2bd-8c0b0dffa4d4",
+      "tvSeriesId": "db19db93-3fd0-4366-9fcc-29edabe57188",
+      "tmdbPersonId": 1714229,
+      "name": "Tahir Raj Bhasin",
+      "character": "Aalok",
+      "profilePath": "/A4ylMYWj8IqnmX74Two8c4Lp8jY.jpg",
+      "order": 2
+    },
+    {
+      "id": "24136295-3e0f-4459-a392-76b27454ef21",
+      "tvSeriesId": "db19db93-3fd0-4366-9fcc-29edabe57188",
+      "tmdbPersonId": 1238203,
+      "name": "Anup Soni",
+      "character": "",
+      "profilePath": "/ublFtg8PKJ7k3L2Tn3mfdjD6Ic9.jpg",
+      "order": 3
+    },
+    {
+      "id": "01f70e01-a094-4d43-b8f4-a4d349003c4f",
+      "tvSeriesId": "db19db93-3fd0-4366-9fcc-29edabe57188",
+      "tmdbPersonId": 1954070,
+      "name": "Chaitannya Choudhry",
+      "character": "",
+      "profilePath": "/u7PO05itTg1HaMl8FLgRBwwWMAl.jpg",
+      "order": 4
+    },
+    {
+      "id": "12fd8e9f-9aea-4770-909a-f6131b05b4f5",
+      "tvSeriesId": "db19db93-3fd0-4366-9fcc-29edabe57188",
+      "tmdbPersonId": 1430638,
+      "name": "Sumeet Vyas",
+      "character": "",
+      "profilePath": "/qGwWWHQsMU4V9ZMZnqNxdnXpYo2.jpg",
+      "order": 5
+    },
+    {
+      "id": "b167a815-17df-4387-92cd-994f2c7c60d6",
+      "tvSeriesId": "db19db93-3fd0-4366-9fcc-29edabe57188",
+      "tmdbPersonId": 6520,
+      "name": "Soni Razdan",
+      "character": "",
+      "profilePath": "/yOkPrW9Dnut5FqePGz34PdTpF2s.jpg",
+      "order": 6
+    },
+    {
+      "id": "9c4801e5-5db5-4063-967b-04638580e1eb",
+      "tvSeriesId": "db19db93-3fd0-4366-9fcc-29edabe57188",
+      "tmdbPersonId": 2185192,
+      "name": "Harleen Sethi",
+      "character": "",
+      "profilePath": "/xTZb2Jn21sgUkR5f8YM5zygcw2f.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "a24fb84d-7790-45aa-9bdc-c9728c444f4d",
+      "tvSeriesId": "db19db93-3fd0-4366-9fcc-29edabe57188",
+      "tmdbId": 443929,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/dMGaBgEjYlEiR0GybDdrraSCTP6.jpg",
+      "airDate": "2026-09-24",
+      "episodeCount": 7,
+      "isPublished": true,
+      "createdAt": "2026-09-25T07:26:28.795Z",
+      "updatedAt": "2026-09-25T07:27:21.294Z"
+    }
+  ]
+}

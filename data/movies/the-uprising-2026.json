@@ -1,0 +1,417 @@
+{
+  "slug": "the-uprising-2026",
+  "id": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+  "tmdbId": 977942,
+  "imdbId": "tt36983905",
+  "title": "The Uprising",
+  "originalTitle": "The Uprising",
+  "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+  "tagline": "Rise or die.",
+  "posterPath": "/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+  "backdropPath": "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+  "logoPath": "/drBOdj4htH0Chlno2Ctt6OxCGgJ.png",
+  "backdrops": [
+    "/9YKDy9xgIopB2qoFZcHYNkFeikh.jpg",
+    "/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+    "/tK83Q7yoO8GqVZjtKJVeGJyHCQz.jpg",
+    "/w2iQlj8KaC8LARWkfBXEoxBEWQ3.jpg",
+    "/2T6GbjThhxp7OFM27RjIUm1HuHy.jpg",
+    "/2C8N4HJBqvapyrzVLog9FoyFiC6.jpg",
+    "/ka4fkRgnZnlwdZs5nx4DTKSpufe.jpg",
+    "/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+    "/tMnLIyAUyqCTfHlSdL9pbNq2deP.jpg",
+    "/pBBj6tNDriZRESWcdsigZfDHGqe.jpg"
+  ],
+  "releaseDate": "2026-09-10",
+  "runtime": 128,
+  "voteAverage": "7.20",
+  "popularity": null,
+  "popularityScore": 1346,
+  "originalLanguage": "en",
+  "country": "DE",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=lyhCxZN4Ro8",
+  "quality": "WEB-DL",
+  "director": "Paul Greengrass",
+  "directorTmdbId": 25598,
+  "directorProfilePath": "/35y15k2QAgLUwXQ9R60DPeftCbB.jpg",
+  "productionCompanies": [
+    {
+      "id": 3172,
+      "name": "Blumhouse Productions",
+      "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png"
+    },
+    {
+      "id": 239077,
+      "name": "Supernix",
+      "logo_path": null
+    },
+    {
+      "id": 227877,
+      "name": "Thank You Pictures",
+      "logo_path": null
+    },
+    {
+      "id": 76907,
+      "name": "Atomic Monster",
+      "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png"
+    },
+    {
+      "id": 67260,
+      "name": "Electric Shadow Company",
+      "logo_path": "/oV2FZfhRcEc1HReC66e1L4t2qPV.png"
+    },
+    {
+      "id": 7493,
+      "name": "FilmNation Entertainment",
+      "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 11196,
+      "name": "rebellion"
+    },
+    {
+      "id": 4402,
+      "name": "peasant"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 154846,
+      "name": "farmer"
+    },
+    {
+      "id": 161257,
+      "name": "medieval"
+    },
+    {
+      "id": 162845,
+      "name": "revolt"
+    },
+    {
+      "id": 188959,
+      "name": "plague"
+    },
+    {
+      "id": 235489,
+      "name": "medieval england"
+    },
+    {
+      "id": 237612,
+      "name": "14th century"
+    },
+    {
+      "id": 325744,
+      "name": "1300s"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 135569,
+  "watchlistCount": 914,
+  "favouriteCount": 273,
+  "shareCount": 66,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-29T13:42:45.232Z",
+  "updatedAt": "2026-09-29T14:00:35.075Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+      "tmdbId": 36,
+      "name": "History",
+      "slug": "history",
+      "createdAt": "2026-04-02T13:49:17.126Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "11a5adb4-f4d2-4c97-a4f0-c22dc51f7aa3",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 37625,
+      "name": "Andrew Garfield",
+      "character": "Ploughman",
+      "profilePath": "/beO5YvbTjrr5yy8hW26KVDMSr35.jpg",
+      "order": 0
+    },
+    {
+      "id": "7f82de66-1656-4791-ada3-60325aff1311",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 478,
+      "name": "Jamie Bell",
+      "character": "John Ball",
+      "profilePath": "/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg",
+      "order": 1
+    },
+    {
+      "id": "24819805-6a86-4734-8c29-34931d61dff3",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 8435,
+      "name": "Stephen Dillane",
+      "character": "Simon Sudbury",
+      "profilePath": "/qjIa6pXD4Z7nL7nH2LxyHDfxNgC.jpg",
+      "order": 2
+    },
+    {
+      "id": "d7b8cc2d-c6a1-42d3-bd54-74ab4dc6e2f4",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 2441,
+      "name": "Tom Hollander",
+      "character": "Sir Robert Hales",
+      "profilePath": "/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg",
+      "order": 3
+    },
+    {
+      "id": "caa1ae63-a198-472b-9928-b93029b4df79",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 1363054,
+      "name": "Cosmo Jarvis",
+      "character": "Wat Tyler",
+      "profilePath": "/1kgghZ558CxZCJip5ufO6BAqUGp.jpg",
+      "order": 4
+    },
+    {
+      "id": "27ec5500-94ee-4604-8ed7-f745db4cc9f1",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 1356758,
+      "name": "Thomasin McKenzie",
+      "character": "Alyce",
+      "profilePath": "/WOpnEFG5Q8LWxP81MtUrskmVox.jpg",
+      "order": 5
+    },
+    {
+      "id": "661ab2ab-b172-4d16-8f48-b82598072e1e",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 9012,
+      "name": "Jonny Lee Miller",
+      "character": "William Walworth",
+      "profilePath": "/otCQdDtnrMvZ5tPC62zLx0SaXeR.jpg",
+      "order": 6
+    },
+    {
+      "id": "fb61541f-57a3-4a2e-ab9e-748f91bf2a19",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 1945369,
+      "name": "Woody Norman",
+      "character": "King Richard II of England",
+      "profilePath": "/jQlx4bAGAmQfvzEuXw6A9cEmb95.jpg",
+      "order": 7
+    },
+    {
+      "id": "4a3bb9a5-18f3-4c45-9a72-c544ee4325f6",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 77795,
+      "name": "Katherine Waterston",
+      "character": "Joan of Kent",
+      "profilePath": "/zaqbXjr5jE1DnEoyAHokUDoCKOM.jpg",
+      "order": 8
+    },
+    {
+      "id": "23b52ad5-12e2-47be-a491-0263d0599226",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 25074,
+      "name": "Stanley Townsend",
+      "character": "Robert Bealknap",
+      "profilePath": "/ry1kek817WYHOh1npa3ojxmGJcI.jpg",
+      "order": 9
+    },
+    {
+      "id": "854a412a-98a6-442c-901e-b1fcaa547354",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 2388828,
+      "name": "Sky Yang",
+      "character": "The King's Scribe",
+      "profilePath": "/vOkkOgn7CrSHY1pecVr5p8ZHIcB.jpg",
+      "order": 10
+    },
+    {
+      "id": "60e023d2-8bfa-4ed4-95c9-32d7d25f8780",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 2262886,
+      "name": "Dónal Finn",
+      "character": "Village Priest",
+      "profilePath": "/4LXCZdrP9OOYQ9PeGGCCBQsyIUP.jpg",
+      "order": 11
+    },
+    {
+      "id": "48d9d8aa-0e48-4b34-970e-a83f85ca1fee",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 6402488,
+      "name": "Charly Kuschel",
+      "character": "Scribe (Assistant to \"The King's Scribe\") (uncredіted)",
+      "profilePath": "/g2A7pUSMnGggurRI3DJJwnOpYY0.jpg",
+      "order": 12
+    },
+    {
+      "id": "a5b720b1-2565-4b7c-99b0-a72ee3f60211",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 1919072,
+      "name": "Gerald Tyler",
+      "character": "Thomas Beauchamp, 12th Earl of Warwick",
+      "profilePath": "/nI6FJw3XbbHXRvvGJpChxwonClU.jpg",
+      "order": 13
+    },
+    {
+      "id": "e0306d5b-cba9-47f1-a2f0-0cebc3928f8e",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 10701,
+      "name": "Simon Kunz",
+      "character": "Sir John Newton",
+      "profilePath": "/7Kh3IbRU4bmeiH210CgHu9lofo7.jpg",
+      "order": 14
+    },
+    {
+      "id": "2f8ec8ef-bc3b-4e6b-8ffd-f789210b71d0",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 30332,
+      "name": "Mark Redhead",
+      "character": "Lord Peterborough",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "bc8c80aa-8944-49eb-927d-28b861c11fd2",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 1753296,
+      "name": "Sam Chapman",
+      "character": "Tax Collector",
+      "profilePath": "/3ZTn5RjOAMTwmWb5AsnDulRNhl7.jpg",
+      "order": 16
+    },
+    {
+      "id": "d153f4bd-060b-4f06-bc31-87fac606e35b",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 6475357,
+      "name": "Scout Worsley",
+      "character": "Tithe Barn Daughter",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "8fe76a74-9e46-4c44-9f69-83e2477435ea",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 4237106,
+      "name": "Anthony Webster",
+      "character": "Tithe Barn Father",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "3b705db5-55f9-457d-8203-8bc336d93ce3",
+      "movieId": "c0e38709-5f2f-48ee-904b-9fbe109d4d22",
+      "tmdbPersonId": 145071,
+      "name": "Jamie Maclachlan",
+      "character": "Walworth's Lieutenant",
+      "profilePath": "/oE0O4BjDMwD4j4EBedS0eOvhcv0.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

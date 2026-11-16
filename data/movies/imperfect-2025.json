@@ -1,0 +1,361 @@
+{
+  "slug": "imperfect-2025",
+  "id": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+  "tmdbId": 1560166,
+  "imdbId": "tt38779656",
+  "title": "I'mPerfect",
+  "originalTitle": "I'mPerfect",
+  "overview": "Two people with Down syndrome navigate love, acceptance, and self-discovery in a world that often sees their condition before seeing them.",
+  "tagline": null,
+  "posterPath": "/x2PObZ8PrlDs5zRrg2HPbs7V2yw.jpg",
+  "backdropPath": "/7AYTbL7ybpAEv0WEQ0T1rohwfG4.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/7AYTbL7ybpAEv0WEQ0T1rohwfG4.jpg",
+    "/r5NWriGzCCse6f2YbPRzfwyWaTs.jpg",
+    "/5XhWehcE8li9AP4comVzEgezlWi.jpg"
+  ],
+  "releaseDate": "2025-12-25",
+  "runtime": 131,
+  "voteAverage": "0.00",
+  "popularity": null,
+  "popularityScore": 35,
+  "originalLanguage": "tl",
+  "country": "PH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=JjFcvfciGXA",
+  "quality": "WEB-DL",
+  "director": "Sigrid Andrea P. Bernardo",
+  "directorTmdbId": 1204303,
+  "directorProfilePath": "/87kCPD3zqRS7VDuJ579GI46iPQx.jpg",
+  "productionCompanies": [
+    {
+      "id": 184461,
+      "name": "Nathan Studios",
+      "logo_path": "/qMdKYKDFwVLpsmNdUhzqqxwnQN5.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4573,
+      "name": "down syndrome"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 354940,
+      "name": "mmff"
+    },
+    {
+      "id": 364203,
+      "name": "special love"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1690,
+  "watchlistCount": 17,
+  "favouriteCount": 6,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-23T06:08:04.633Z",
+  "updatedAt": "2026-09-23T06:08:20.646Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "093b9051-501e-45b6-aacb-3ee20f0692eb",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5741549,
+      "name": "Krystel Go",
+      "character": "Jessica",
+      "profilePath": "/vtdqdL20h2PAELQcC2l52sLKe8o.jpg",
+      "order": 0
+    },
+    {
+      "id": "415ae71b-9ac5-4c34-8ea2-8994463d8067",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5741551,
+      "name": "Earl Amaba",
+      "character": "Jiro",
+      "profilePath": "/zdHJDo20UQyGFAl0xfPAnSVSc0T.jpg",
+      "order": 1
+    },
+    {
+      "id": "c287008e-fa71-4eff-a1ab-e2505fb2c759",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 592010,
+      "name": "Sylvia Sanchez",
+      "character": "Norma",
+      "profilePath": "/i0SnK2aVTBpkoeHPhpuy47Qizn8.jpg",
+      "order": 2
+    },
+    {
+      "id": "e05bb22f-b4a8-4c46-9808-76ce6177c859",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 312722,
+      "name": "Lorna Tolentino",
+      "character": "Lizel",
+      "profilePath": "/sbvkNw6KwQL2M3jPnd50IJMPLgu.jpg",
+      "order": 3
+    },
+    {
+      "id": "68692809-c6e0-4de7-8045-4bfaadb1cc5e",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 1082061,
+      "name": "Janice de Belen",
+      "character": "Yaya Claring",
+      "profilePath": "/cfK5VrfILIOdAbSAZIlrF4g2Uwk.jpg",
+      "order": 4
+    },
+    {
+      "id": "f4bc392b-0851-4846-83ac-9a3264ffa6bb",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 113248,
+      "name": "Tonton Gutierrez",
+      "character": "Dan",
+      "profilePath": "/cNDOl3DqiOo3j2rCg3XqGOKrYmd.jpg",
+      "order": 5
+    },
+    {
+      "id": "e5a79b5b-1611-444a-80be-4ecb9e46afaf",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 1030985,
+      "name": "Joey Marquez",
+      "character": "Arman",
+      "profilePath": "/dsoQt48pa2QjXxOOTPmvxyGJlL2.jpg",
+      "order": 6
+    },
+    {
+      "id": "b6ca431c-26fc-46f4-9738-9e11c1132293",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 550401,
+      "name": "Zaijian Jaranilla",
+      "character": "Ryan",
+      "profilePath": "/sUqLbIm7c6MXtA5CHet6sNLYBoP.jpg",
+      "order": 7
+    },
+    {
+      "id": "7250c46f-65b6-432a-a0f1-3f700bddf0be",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 2508667,
+      "name": "Viveika Ravanes",
+      "character": "Yaya",
+      "profilePath": "/4uB050xEl7cspE1ABOAO9AH8Mrr.jpg",
+      "order": 8
+    },
+    {
+      "id": "a5d5a8ee-53b1-430e-8cbd-f465951951e7",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 1338044,
+      "name": "Joel Saracho",
+      "character": "Principal",
+      "profilePath": "/2dnIK1wVjuyEO6Ym5Tlt3FW6Yfd.jpg",
+      "order": 9
+    },
+    {
+      "id": "f5fdde39-95e4-4e14-8795-eaee837bbf4d",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 2753785,
+      "name": "Myke Salomon",
+      "character": "Teacher Myke",
+      "profilePath": "/nQod7bqNdUyf8UKuVBO15VTg78p.jpg",
+      "order": 10
+    },
+    {
+      "id": "6c663950-a37c-4dc0-899d-eb58e821f902",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5905242,
+      "name": "Carl Jason Garcia",
+      "character": "",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "4ef17506-e0e0-4099-9d2a-a3cbd868d66b",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5905243,
+      "name": "Richelle Joyce Primo Uu",
+      "character": "",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "b21fec88-e93a-405b-9471-3a9ed9d2a8e6",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5905244,
+      "name": "Gio Jose D. D",
+      "character": "",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "42681029-8e63-4d50-88aa-c68609d3b66b",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5905246,
+      "name": "Angela Batallone",
+      "character": "",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "7e852e5c-f13d-4e48-a92e-c9193695b700",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5014169,
+      "name": "Javi Sarmiento",
+      "character": "",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "0182dcb6-45d2-441e-a3cc-db70788798ce",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5905247,
+      "name": "Bea Mendoza",
+      "character": "",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "93774dd0-291a-4380-8b3f-758849712855",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5905248,
+      "name": "Royce Gian River",
+      "character": "",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "a617426a-ac8a-422a-84a3-806314ef5e16",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5905249,
+      "name": "Jonathan Tilos",
+      "character": "",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "cf8404cf-e14f-490c-8723-7bde90b70798",
+      "movieId": "d9e94a46-69db-468e-ba3d-6a364bcf03bb",
+      "tmdbPersonId": 5905259,
+      "name": "Akiko Thompson",
+      "character": "Coach",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

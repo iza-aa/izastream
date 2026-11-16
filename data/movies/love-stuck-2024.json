@@ -1,0 +1,257 @@
+{
+  "slug": "love-stuck-2024",
+  "id": "a6e9814e-1f0b-46c6-8313-77aaebec8300",
+  "tmdbId": 1323844,
+  "imdbId": "tt33095096",
+  "title": "Love Stuck",
+  "originalTitle": "รักวนลูป",
+  "overview": "Toy is trapped in a time loop, reliving New Year's Eve. He meets Vee, also stuck in the loop. They decide to search for 'Perfect Moments,' learning to find joy in small wonders and cherish each day.",
+  "tagline": "",
+  "posterPath": "/k6oOxZaIxV7IBFIh22WIr22zcug.jpg",
+  "backdropPath": "/6BPePwi75uczjEi8vR4TdqTFg5F.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/6BPePwi75uczjEi8vR4TdqTFg5F.jpg",
+    "/yUPAeZxDQU04cXXbvIzuq1dI2Zi.jpg",
+    "/npIbHr0z89fmBrSZmQUv2w6aj36.jpg",
+    "/5GLOyT6k33H322YmThlz8Gxqnw8.jpg",
+    "/jtHw52pKRlP2QP9DpNBNVMUD6ji.jpg",
+    "/o8e3xIng2fhnJoaPW7arhKM2IXA.jpg",
+    "/98gEZTw5iTVTRUOZHmAX4rmSNIQ.jpg",
+    "/qsWd0JrPRYigcHn74irEGZ4SmzL.jpg"
+  ],
+  "releaseDate": "2024-10-16",
+  "runtime": 116,
+  "voteAverage": "6.80",
+  "popularity": "1.001",
+  "popularityScore": 40,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=H5TDnZ7xLKE",
+  "quality": "WEB-DL",
+  "director": "Chongdol Sukulworaphat",
+  "directorTmdbId": null,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 6854,
+      "name": "Benetone Films",
+      "logo_path": null
+    },
+    {
+      "id": 266633,
+      "name": "Saint Art",
+      "logo_path": null
+    },
+    {
+      "id": 210099,
+      "name": "Amazon MGM Studios",
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9714,
+      "name": "remake"
+    },
+    {
+      "id": 10854,
+      "name": "time loop"
+    },
+    {
+      "id": 156866,
+      "name": "based on short story"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1721,
+  "watchlistCount": 21,
+  "favouriteCount": 5,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-04-02T14:17:01.626Z",
+  "updatedAt": "2026-04-02T14:17:01.626Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "46e12b01-15ec-4b36-9302-56ef23101b5b",
+      "movieId": "a6e9814e-1f0b-46c6-8313-77aaebec8300",
+      "tmdbPersonId": 1809208,
+      "name": "Teeradon Supapunpinyo",
+      "character": "Toy",
+      "profilePath": "/vgpjzR4Hitaw8p2sj6VHwUrhTJZ.jpg",
+      "order": 0
+    },
+    {
+      "id": "bf244b1e-d830-4f52-97ef-a792bff1a4b2",
+      "movieId": "a6e9814e-1f0b-46c6-8313-77aaebec8300",
+      "tmdbPersonId": 2730148,
+      "name": "Plearnpichaya Komalarajun",
+      "character": "Vee",
+      "profilePath": "/rWt6g3FyegKojsuxKdpmgEAoSa3.jpg",
+      "order": 1
+    },
+    {
+      "id": "2cecc747-48da-4b2b-9e05-45dfe72c94e2",
+      "movieId": "a6e9814e-1f0b-46c6-8313-77aaebec8300",
+      "tmdbPersonId": 3831524,
+      "name": "Thitiya Jirapornsilp",
+      "character": "Rin",
+      "profilePath": "/oyfkz9HkhnrEN1kUqHCK8Wf5YZQ.jpg",
+      "order": 2
+    },
+    {
+      "id": "06258aad-4f3a-448e-a5d8-4a0f5b9dd186",
+      "movieId": "a6e9814e-1f0b-46c6-8313-77aaebec8300",
+      "tmdbPersonId": 1270506,
+      "name": "Sanya Kunakorn",
+      "character": "Meth",
+      "profilePath": "/3DQGTDFdAvWMf8XTp8GsOG2VNR1.jpg",
+      "order": 3
+    },
+    {
+      "id": "93a43901-a558-4882-a877-5d45c2bf473d",
+      "movieId": "a6e9814e-1f0b-46c6-8313-77aaebec8300",
+      "tmdbPersonId": 566092,
+      "name": "Grace Mahadumrongkul",
+      "character": "Vee's Mother",
+      "profilePath": "/u2x9FN9XYOiYPy1gncwSoqlB3xr.jpg",
+      "order": 4
+    },
+    {
+      "id": "3b989e60-da3e-4eeb-8644-0c39ebfba773",
+      "movieId": "a6e9814e-1f0b-46c6-8313-77aaebec8300",
+      "tmdbPersonId": 3435628,
+      "name": "Monthapoom Sumonvarangkul",
+      "character": "Jack",
+      "profilePath": "/hcIw1jCdwA8vlDUeICyVh0kyqGD.jpg",
+      "order": 5
+    },
+    {
+      "id": "75a0ee33-6fad-487a-8b52-277fb6c28a53",
+      "movieId": "a6e9814e-1f0b-46c6-8313-77aaebec8300",
+      "tmdbPersonId": 149901,
+      "name": "Somlek Sakdikul",
+      "character": "Uncle Vit",
+      "profilePath": "/vvpyrZQ6UZJfgpcZMUymsK5frE1.jpg",
+      "order": 6
+    },
+    {
+      "id": "2130776a-d0ac-419a-ab1a-00fe7ba5d4f7",
+      "movieId": "a6e9814e-1f0b-46c6-8313-77aaebec8300",
+      "tmdbPersonId": 4040967,
+      "name": "Taofa Maneeprasopchok",
+      "character": "Doctor Great",
+      "profilePath": "/6HMbG5LMAR6PJaiubT6U4Ks0O4I.jpg",
+      "order": 7
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

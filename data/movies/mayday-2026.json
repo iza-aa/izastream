@@ -1,0 +1,379 @@
+{
+  "slug": "mayday-2026",
+  "id": "80db0f34-0286-4141-b813-93ae279de76f",
+  "tmdbId": 1137844,
+  "imdbId": "tt28014327",
+  "title": "Mayday",
+  "originalTitle": "Mayday",
+  "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
+  "tagline": "A friendship with major red flags.",
+  "posterPath": "/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+  "backdropPath": "/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+  "logoPath": "/uy6Sna1PeNyE7mWbOKLvbH3WTaB.png",
+  "backdrops": [
+    "/nFNCdoKCDE4Gc27iEBh5yiF7DwX.jpg",
+    "/iIn6exNbm1wtMJ1YNybXlSOTNoj.jpg",
+    "/keo5uAMe51geCzgSdIpmGOkB0uK.jpg",
+    "/7SD2DK6xR7ls0Vc44sHgcWh3pbN.jpg",
+    "/qxUyC5YXQEk4jbA71FYkaIvA0Hh.jpg",
+    "/mzmr7GACyataySY1aZKnAgr0nlP.jpg",
+    "/lXTuMnbO2wqi1RLuBK2bxASOFs6.jpg",
+    "/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+    "/aJL1x3CjiV2kKZMu0JxJrGMAjCt.jpg",
+    "/hj7hQAIz6lrTgatA9Y6MDrhp4PK.jpg"
+  ],
+  "releaseDate": "2026-09-02",
+  "runtime": 110,
+  "voteAverage": "7.25",
+  "popularity": null,
+  "popularityScore": 438,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=om5Un9X720M",
+  "quality": "WEB-DL",
+  "director": "Jonathan Goldstein",
+  "directorTmdbId": 1236679,
+  "directorProfilePath": "/5KVyvhBILaZsddFYSpruD0u5F3M.jpg",
+  "productionCompanies": [
+    {
+      "id": 82819,
+      "name": "Skydance Media",
+      "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png"
+    },
+    {
+      "id": 104228,
+      "name": "Maximum Effort",
+      "logo_path": "/hx0C1XcSxGgat8N62GpxoJGTkCk.png"
+    },
+    {
+      "id": 129200,
+      "name": "GoldDay",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 2106,
+      "name": "cold war"
+    },
+    {
+      "id": 2533,
+      "name": "fighter pilot"
+    },
+    {
+      "id": 4410,
+      "name": "u.s. navy"
+    },
+    {
+      "id": 158778,
+      "name": "behind enemy lines"
+    },
+    {
+      "id": 159669,
+      "name": "ex kgb"
+    },
+    {
+      "id": 167541,
+      "name": "buddy comedy"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 41632,
+  "watchlistCount": 215,
+  "favouriteCount": 76,
+  "shareCount": 19,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-04T16:38:33.686Z",
+  "updatedAt": "2026-09-04T16:38:48.818Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e700d5c1-76f4-4889-b66d-bbc366baf4a3",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 10859,
+      "name": "Ryan Reynolds",
+      "character": "Troy Kelly",
+      "profilePath": "/trzgptffGvAlAT6MEu01fz47cLW.jpg",
+      "order": 0
+    },
+    {
+      "id": "8f6b0126-69c3-4a65-a637-01a31be3b3df",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 11181,
+      "name": "Kenneth Branagh",
+      "character": "Nikolai Ustinov",
+      "profilePath": "/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg",
+      "order": 1
+    },
+    {
+      "id": "577962c5-d6cc-411e-9449-c622438f53a5",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 2408703,
+      "name": "Maria Bakalova",
+      "character": "Anna Ustinov",
+      "profilePath": "/vCz0ycZr1PgJVOAeS29fIiZE8pN.jpg",
+      "order": 2
+    },
+    {
+      "id": "f84126fb-b9fb-4ab3-9980-e198a1ff1336",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 591295,
+      "name": "Marcin Dorociński",
+      "character": "Alexander Volkov",
+      "profilePath": "/zUeDxxtpPBMVQxTFhhqczXNX4L2.jpg",
+      "order": 3
+    },
+    {
+      "id": "41af72f5-80d4-41ca-b3f3-4225dd27ecbc",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 52,
+      "name": "David Morse",
+      "character": "Harold Kelly",
+      "profilePath": "/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg",
+      "order": 4
+    },
+    {
+      "id": "e1b46f65-5f0f-4070-b166-6f73876ed0b9",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 1927708,
+      "name": "Lovell Adams-Gray",
+      "character": "",
+      "profilePath": "/5eysJfGCUOtKWi3ap53TCivqYVz.jpg",
+      "order": 5
+    },
+    {
+      "id": "a45e8e52-3490-4466-b1da-85ae6c6fcc11",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 47640,
+      "name": "Clark Johnson",
+      "character": "",
+      "profilePath": "/k4EcCKRI7lqxrqYqVuffdSe9JBN.jpg",
+      "order": 6
+    },
+    {
+      "id": "53a3658f-76f4-4fd3-af4f-f0fbab7349eb",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 19957,
+      "name": "Wendy Crewson",
+      "character": "",
+      "profilePath": "/6hplkzK8KV5Cw8Z8SVKwlt3nU5I.jpg",
+      "order": 7
+    },
+    {
+      "id": "be03bac0-11b5-44b9-8d31-0050e15036f7",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 163731,
+      "name": "Louis Cancelmi",
+      "character": "",
+      "profilePath": "/4MUGuoK0WbLsTt3sg2CD4OsLynZ.jpg",
+      "order": 8
+    },
+    {
+      "id": "e97a5e48-cf8a-4e5e-9364-b34f1a343ecb",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 1882899,
+      "name": "Donald Sales",
+      "character": "Captain S. Anderton",
+      "profilePath": "/kVovZo0ApNC8SRGkbghGNMpWbys.jpg",
+      "order": 9
+    },
+    {
+      "id": "ede65745-0b82-477a-bd70-9b1410a14852",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 6002109,
+      "name": "Patrick Kerton",
+      "character": "Ivan",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "073063c3-14c4-4f91-85bd-04de06f45a6d",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 1020687,
+      "name": "Alex Mallari Jr.",
+      "character": "",
+      "profilePath": "/nhFJW8vwez6KzdYDgNu5B5L94lV.jpg",
+      "order": 11
+    },
+    {
+      "id": "b057df49-eadd-4f96-8db9-a92a2af625c6",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 1094772,
+      "name": "Alex Ozerov-Meyer",
+      "character": "Viktor",
+      "profilePath": "/g0DtLoImOAVdEPm8QCtBHBJVZHK.jpg",
+      "order": 12
+    },
+    {
+      "id": "8fc7b5ca-cb07-48ed-b494-dcbd317dff99",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 1749659,
+      "name": "Erniel Baez",
+      "character": "TAO Price",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "fa1c77b5-95cf-4d20-bfd8-f18b62f36cb6",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 1563170,
+      "name": "Art Kulik",
+      "character": "Anatoliy (voice)",
+      "profilePath": "/qnKfwUHJyfIWA6p0Gep0oDncxcd.jpg",
+      "order": 14
+    },
+    {
+      "id": "1c6c237b-06e2-4216-b735-1468e0c98a01",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 2344107,
+      "name": "Aleksandra Kimaeva",
+      "character": "Julia",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "e1551d45-7890-44a0-8cd7-ef7b80b02c10",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 6372046,
+      "name": "Jacob Hanlon",
+      "character": "Gorgo",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "7558cff6-9961-46c4-b2ab-f3222895a918",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 1881964,
+      "name": "Raphael Kepinski",
+      "character": "Eduard Dukhov",
+      "profilePath": "/txUEtr2GUzuL1kG3gbrTzZwD4Xd.jpg",
+      "order": 17
+    },
+    {
+      "id": "533770bc-9f48-4cb3-92d2-f45658af4ddf",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 60906,
+      "name": "Robert Crooks",
+      "character": "Air Boss Nimitz",
+      "profilePath": "/nrGJWpytpp8zZzjZM0KdrzgwnhP.jpg",
+      "order": 18
+    },
+    {
+      "id": "05e9f944-2221-4320-a624-ab1d2739a63b",
+      "movieId": "80db0f34-0286-4141-b813-93ae279de76f",
+      "tmdbPersonId": 4214525,
+      "name": "Sylvia Jutras",
+      "character": "Nadia Dukhov",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,428 @@
+{
+  "slug": "abraham-lincoln-vampire-hunter-2012",
+  "id": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+  "tmdbId": 72331,
+  "imdbId": "tt1611224",
+  "title": "Abraham Lincoln: Vampire Hunter",
+  "originalTitle": "Abraham Lincoln: Vampire Hunter",
+  "overview": "President Lincoln's mother is killed by a supernatural creature, which fuels his passion to crush vampires and their slave-owning helpers.",
+  "tagline": "Are you a patriot or a vampire?",
+  "posterPath": "/qv8deK0ZmutAuEpejruQKApIy6r.jpg",
+  "backdropPath": "/ei4bXNp4hBrfUEvWkp7usnQeGQP.jpg",
+  "logoPath": "/e64oT5RESEzY3a7mmJ2gyAkZqbP.png",
+  "backdrops": [
+    "/qWYL32x3NtvgaGGKVZgOyBpwwxX.jpg",
+    "/ei4bXNp4hBrfUEvWkp7usnQeGQP.jpg",
+    "/5CvVm1vBEF5OGPSPvCW6FQpp0oz.jpg",
+    "/yUrJTqCUKvfu0FWXm4xFJyZwGMG.jpg",
+    "/2BjhjDQ2ozoEwSL0Jrmj3pRX3zx.jpg",
+    "/rUPmlB58HyKQA01YjDhgb0imvDZ.jpg",
+    "/ao8RBOFcNyrdGx2KWjQJlkNgKqJ.jpg",
+    "/adK1I8ozRV1JTtLf4QWHpb969pn.jpg",
+    "/o66gNgpf82INdT047Aboul5plKo.jpg",
+    "/64cwx5FvDpBCynQ5oubhWWLY1SL.jpg"
+  ],
+  "releaseDate": "2012-06-20",
+  "runtime": 105,
+  "voteAverage": "5.78",
+  "popularity": null,
+  "popularityScore": 388,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=2ilUeTRuDpY",
+  "quality": "WEB-DL",
+  "director": "Timur Bekmambetov",
+  "directorTmdbId": 23430,
+  "directorProfilePath": "/w4C8qeeWRvD7rbIj3elTvhdxjT.jpg",
+  "productionCompanies": [
+    {
+      "id": 1038,
+      "name": "Bazelevs",
+      "logo_path": "/o62j8ZNXmRTrq6ThviFWiL9zb8J.png"
+    },
+    {
+      "id": 8601,
+      "name": "Tim Burton Productions",
+      "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png"
+    },
+    {
+      "id": 36430,
+      "name": "Abraham Productions",
+      "logo_path": null
+    },
+    {
+      "id": 36431,
+      "name": "Location Gourmet",
+      "logo_path": null
+    },
+    {
+      "id": 25,
+      "name": "20th Century Fox",
+      "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png"
+    },
+    {
+      "id": 444,
+      "name": "Dune Entertainment",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 840,
+      "name": "usa president"
+    },
+    {
+      "id": 3133,
+      "name": "vampire"
+    },
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 163671,
+      "name": "steam locomotive"
+    },
+    {
+      "id": 179585,
+      "name": "american civil war"
+    },
+    {
+      "id": 197643,
+      "name": "slave owner"
+    },
+    {
+      "id": 207928,
+      "name": "19th century"
+    },
+    {
+      "id": 209409,
+      "name": "abraham lincoln"
+    },
+    {
+      "id": 326201,
+      "name": "axe"
+    },
+    {
+      "id": 366821,
+      "name": "ヴァンパイア"
+    },
+    {
+      "id": 366822,
+      "name": "リンカーン"
+    },
+    {
+      "id": 366824,
+      "name": "ヴァンパイアハンター"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5784,
+  "watchlistCount": 30,
+  "favouriteCount": 7,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:31:51.209Z",
+  "updatedAt": "2026-10-05T17:39:10.699Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "9b6c09dc-3d37-4e3f-b529-521358bf902a",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 239996,
+      "name": "Benjamin Walker",
+      "character": "Abraham Lincoln",
+      "profilePath": "/jwM8BZ1hVcbzfs9jNndVmaocULF.jpg",
+      "order": 0
+    },
+    {
+      "id": "afa2059c-c78b-4beb-8562-05ecf6f08a40",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 55470,
+      "name": "Dominic Cooper",
+      "character": "Henry Sturgess",
+      "profilePath": "/wFPdARerxpaAaHucYGTSNqViWpn.jpg",
+      "order": 1
+    },
+    {
+      "id": "78f1c481-25bb-4201-8b6b-eb2b8f152397",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 53650,
+      "name": "Anthony Mackie",
+      "character": "Will Johnson",
+      "profilePath": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+      "order": 2
+    },
+    {
+      "id": "c6e19b38-b86b-4cac-a942-bb57e40c9cb4",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 17628,
+      "name": "Mary Elizabeth Winstead",
+      "character": "Mary Todd Lincoln",
+      "profilePath": "/cBMtncBcUrKMTB8CifDG23THuCE.jpg",
+      "order": 3
+    },
+    {
+      "id": "babd0cdc-d631-4ac4-a1cd-0b6b8274c9a9",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 17328,
+      "name": "Rufus Sewell",
+      "character": "Adam",
+      "profilePath": "/yc2EWyg45GO03YqDttaEhjvegiE.jpg",
+      "order": 4
+    },
+    {
+      "id": "72b019a6-5062-4258-bcb3-12d2d8ad2fcf",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 60205,
+      "name": "John Rothman",
+      "character": "Jefferson Davis",
+      "profilePath": "/k7Vdn2eArkvYCJllIOGPIjK9umK.jpg",
+      "order": 5
+    },
+    {
+      "id": "4f1498e1-a356-4c13-8c35-699a3f881942",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 20982,
+      "name": "Marton Csokas",
+      "character": "Jack Barts",
+      "profilePath": "/gmeUY7FR0bFLdu7Ma5kvpH3Gt6B.jpg",
+      "order": 6
+    },
+    {
+      "id": "407bc53b-a408-4933-9298-862fc12ed448",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 565500,
+      "name": "Alex Lombard",
+      "character": "Gabrielle",
+      "profilePath": "/7rRd2byURAqE2QObL3wJyHYQbpL.jpg",
+      "order": 7
+    },
+    {
+      "id": "e8144648-42a2-4979-b31c-d53822fa77fb",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 22125,
+      "name": "Jimmi Simpson",
+      "character": "Joshua Speed",
+      "profilePath": "/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg",
+      "order": 8
+    },
+    {
+      "id": "aae7bb0f-501b-4147-a5e4-e661d111bab1",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 565501,
+      "name": "Teri Wyble",
+      "character": "Henry's Wife",
+      "profilePath": "/zOdjLw4GCDRT2kswPXIHH4ZT6d.jpg",
+      "order": 9
+    },
+    {
+      "id": "d293c491-f39b-4f22-be24-948ecd796ff2",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 565503,
+      "name": "Cameron M. Brown",
+      "character": "Willie Lincoln",
+      "profilePath": "/nquXC84cWHf5ZlVLpA9Emv31s2n.jpg",
+      "order": 10
+    },
+    {
+      "id": "af5552f9-8c09-4b73-b82e-fc73bf863157",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 565504,
+      "name": "Frank Brennan",
+      "character": "Jeb Nolan",
+      "profilePath": "/jf3zvnNfGP4ttKknJ84xiJK0LGY.jpg",
+      "order": 11
+    },
+    {
+      "id": "ded54c50-4832-4ba6-a396-ceb56527ac61",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 565505,
+      "name": "John Neisler",
+      "character": "Rev. Charles Dresser",
+      "profilePath": "/aqiGoMdBALTm35N1PvXliLQ5jsO.jpg",
+      "order": 12
+    },
+    {
+      "id": "9eab6c97-da45-40da-b38d-6a4bdcc4570c",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 86539,
+      "name": "Meade Patton",
+      "character": "Nancy Lincoln's Doctor",
+      "profilePath": "/5FxKJPwFwUjnL1yufvz7cgYmTbj.jpg",
+      "order": 13
+    },
+    {
+      "id": "c57533b1-8e7f-4805-99af-d48ede1bab79",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 21088,
+      "name": "Alan Tudyk",
+      "character": "Stephen A. Douglas",
+      "profilePath": "/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg",
+      "order": 14
+    },
+    {
+      "id": "33af4874-55b8-430d-a205-e5d2bb3764a9",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 136348,
+      "name": "Robin McLeavy",
+      "character": "Nancy Hanks Lincoln",
+      "profilePath": "/zxQobyUi4iLFymzusm0lYwxLWnq.jpg",
+      "order": 15
+    },
+    {
+      "id": "e2e7b1f5-44d4-4597-8b92-9bccb01f55a9",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 147721,
+      "name": "Erin Wasson",
+      "character": "Vadoma",
+      "profilePath": "/4QUfZn38rnELJygwcaQD58eYvVh.jpg",
+      "order": 16
+    },
+    {
+      "id": "83c431b6-c85f-4d71-a98f-4c2a862178b9",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 62072,
+      "name": "Jaqueline Fleming",
+      "character": "Harriet Tubman",
+      "profilePath": "/gyReMmaseFb753XQkwgwKe2Ia5Q.jpg",
+      "order": 17
+    },
+    {
+      "id": "b2305819-8970-4a6c-958f-afa4743c50de",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 565498,
+      "name": "Laura Cayouette",
+      "character": "Vadoma Maid",
+      "profilePath": "/i9G6af64mD9vOtcJjuenu2cZ3lX.jpg",
+      "order": 18
+    },
+    {
+      "id": "d8e494d8-3d61-42c5-aff8-5c4dd4b443de",
+      "movieId": "aed0ccc7-5fdb-4405-8277-dd5bb3ade300",
+      "tmdbPersonId": 119783,
+      "name": "Joseph Mawle",
+      "character": "Thomas Lincoln",
+      "profilePath": "/1Ocb9v3h54beGVoJMm4w50UQhLf.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "ganap",
+    "displayName": "Ganap"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

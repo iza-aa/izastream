@@ -1,0 +1,131 @@
+{
+  "slug": "wonkas-the-golden-ticket-2026",
+  "id": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+  "title": "Wonka's The Golden Ticket",
+  "overview": "In this one-of-a-kind reality competition, lucky players step inside Wonka's Chocolate Factory to face unpredictable games, tests and temptations.",
+  "tagline": "A reality competition beyond pure imagination.",
+  "posterPath": "/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+  "backdropPath": "/vlG9Kc5Y82CwafLceR9CUkTe7U0.jpg",
+  "logoPath": "/qGNycBalPBrAQRE4hUNEGHqRnoL.png",
+  "firstAirDate": "2026-09-23",
+  "voteAverage": "6.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "05ae5858-b571-4f27-8e7b-1a0c2073321d",
+      "tmdbId": 10764,
+      "name": "Reality",
+      "slug": "reality",
+      "createdAt": "2026-04-02T16:40:30.807Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f938e990-3679-44ab-9537-77123b100fa7",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbPersonId": 6499114,
+      "name": "Shawn Johnson",
+      "character": "Self - Contestant",
+      "profilePath": null,
+      "order": 502
+    },
+    {
+      "id": "d2f0e3df-5df3-4ca1-a86f-9bd18608db22",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbPersonId": 6499115,
+      "name": "Garrison Wilson",
+      "character": "Self - Contestant / Jury Member",
+      "profilePath": null,
+      "order": 503
+    },
+    {
+      "id": "a0e421e5-2ea4-4082-9562-e44dd38dd498",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbPersonId": 6499121,
+      "name": "Bill Henry",
+      "character": "Self - Contestant",
+      "profilePath": null,
+      "order": 506
+    },
+    {
+      "id": "fd707940-5b37-41f5-aa65-a952dd4a07c6",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbPersonId": 6499136,
+      "name": "Tatum Sheppard Filegar",
+      "character": "Self - Contestant",
+      "profilePath": null,
+      "order": 509
+    },
+    {
+      "id": "bea8f936-6953-453e-a95a-da4c4ddb6654",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbPersonId": 5905911,
+      "name": "Kellye Cash",
+      "character": "Self - Contestant",
+      "profilePath": null,
+      "order": 510
+    },
+    {
+      "id": "0022fbba-5f7f-447d-b934-07abfe073071",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbPersonId": 6499143,
+      "name": "Taylor Schilling",
+      "character": "Self - Contestant",
+      "profilePath": null,
+      "order": 513
+    },
+    {
+      "id": "0f4b38eb-3c51-4a3c-af39-2764c585659e",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbPersonId": 6499118,
+      "name": "Jackson Jobes",
+      "character": "Self - Contestant",
+      "profilePath": null,
+      "order": 516
+    },
+    {
+      "id": "e6af83dd-11e5-424a-a350-d98adea18a96",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbPersonId": 6499112,
+      "name": "Marcy Winchester",
+      "character": "Self - Contestant",
+      "profilePath": null,
+      "order": 516
+    },
+    {
+      "id": "fd6b68f8-b9df-4fcc-b135-a530b45c83bd",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbPersonId": 6499150,
+      "name": "Gabrielle Wright",
+      "character": "Self - Contestant",
+      "profilePath": null,
+      "order": 517
+    },
+    {
+      "id": "2aeb7834-d3ac-4c50-a6f6-ef1cacaa183c",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbPersonId": 6499122,
+      "name": "Kayla",
+      "character": "Self - Jury Member",
+      "profilePath": null,
+      "order": 518
+    }
+  ],
+  "seasons": [
+    {
+      "id": "f5fec8f7-8753-4b4e-a9f9-596c8c90dc80",
+      "tvSeriesId": "e48a09ba-0dcf-4b42-981b-cd24ec0829ee",
+      "tmdbId": 447270,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/80upIQYffG0DIWLHNiwH2rRaPSV.jpg",
+      "airDate": "2026-09-23",
+      "episodeCount": 9,
+      "isPublished": true,
+      "createdAt": "2026-10-09T02:34:11.591Z",
+      "updatedAt": "2026-10-09T02:34:54.523Z"
+    }
+  ]
+}

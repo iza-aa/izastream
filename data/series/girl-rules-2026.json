@@ -1,0 +1,131 @@
+{
+  "slug": "girl-rules-2026",
+  "id": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+  "title": "Girl Rules",
+  "overview": "A friend group descends into chaos as their bonds are tested in a variety of ways, beginning with the return of an ex-girlfriend.\n\nPrim and Min are running an advertising company together when a new client Bambi, Prim's ex, shows up wanting to get back together. Adding to their circle is Prim's young stylist Gorya who's after a deeper connection, promiscuous and charming model Shasha, and Praew, the lesbian photographer from the bar bi-curious Min frequents.",
+  "tagline": null,
+  "posterPath": "/7TTvTcQGgSnHKi4TbX70s9tYhc0.jpg",
+  "backdropPath": "/I5bNd8fW81J54Vm7hzbys0vis7.jpg",
+  "logoPath": "/6HqHk94GQt9SwJlmiIWMwwf1NYG.png",
+  "firstAirDate": "2026-03-09",
+  "voteAverage": "8.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1f57f22b-202b-4955-9b0e-16120230addf",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbPersonId": 1836087,
+      "name": "Tipnaree Weerawatnodom",
+      "character": "Prim",
+      "profilePath": "/o80fUb8hE2s4qLT33CzaINoCAMT.jpg",
+      "order": 0
+    },
+    {
+      "id": "02940fe7-7353-4a27-a321-6981772e587f",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbPersonId": 2729031,
+      "name": "Rachanun Mahawan",
+      "character": "Bambi",
+      "profilePath": "/beNrYyUndPabJmG4Ffh51JXJru7.jpg",
+      "order": 1
+    },
+    {
+      "id": "bce11b1f-3ebe-4049-b82c-77f4d89dc784",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbPersonId": 3028796,
+      "name": "Pansa Vosbein",
+      "character": "Shasha",
+      "profilePath": "/8LQwyxvdfMcJMFhaojh9FAdIGKj.jpg",
+      "order": 2
+    },
+    {
+      "id": "bca09a64-2ba0-4c5b-a855-2bdf13fe3c9e",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbPersonId": 3028798,
+      "name": "Pattranite Limpatiyakorn",
+      "character": "Gorya",
+      "profilePath": "/vQtBTg102hrshrfBiN3OKuBMNLl.jpg",
+      "order": 3
+    },
+    {
+      "id": "92223091-6645-45b0-a2ab-d385277ecd5a",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbPersonId": 3338972,
+      "name": "Benyapa Jeenprasom",
+      "character": "Min",
+      "profilePath": "/63DNZkuyu5dItP5mzIfLd5fZX8u.jpg",
+      "order": 4
+    },
+    {
+      "id": "a706ba2b-0c90-4b0c-8dc5-ebd6971aeb38",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbPersonId": 4338888,
+      "name": "Rattanawadee Wongthong",
+      "character": "Praew",
+      "profilePath": "/iqWB2GkJBDqFKIJTOI2h1KVAuPl.jpg",
+      "order": 5
+    },
+    {
+      "id": "2ccb8baf-87c9-4146-898a-adaca7cf46f0",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbPersonId": 2729109,
+      "name": "Rutricha Phapakithi",
+      "character": "Airy",
+      "profilePath": "/orlZakWAWoBXSqZYc8Ut658ktYf.jpg",
+      "order": 6
+    },
+    {
+      "id": "63ce0be9-b67d-4d95-bf8d-3582112a1a3c",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbPersonId": 1286207,
+      "name": "Alissa Intusmith",
+      "character": "Yanin",
+      "profilePath": "/ftGwLTMeVJ4ar17322NuhnOQDym.jpg",
+      "order": 7
+    },
+    {
+      "id": "fcb92156-8e60-4f12-949e-b54648fc2ea1",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbPersonId": 3292715,
+      "name": "Mintita Wattanakul",
+      "character": "Ant",
+      "profilePath": "/4sMe4UmJeaXN6OPt6apsh8uNZn9.jpg",
+      "order": 8
+    },
+    {
+      "id": "1fe11083-5594-49a4-b591-ba0748788ee2",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbPersonId": 4671975,
+      "name": "Pattraphus Borattasuwan",
+      "character": "Baipor",
+      "profilePath": "/39kLgQ6Cu0xuMwHVIIYUTayEAa5.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d6abdc76-0601-4c0a-820d-25155e86854b",
+      "tvSeriesId": "6b02b20f-7f82-4997-ad1a-82c8581fcb39",
+      "tmdbId": 430528,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Prim and Min are running an advertising company together when a new client Bambi, Prim's ex, shows up wanting to get back together. Adding to their circle is Prim's young stylist Gorya who's after a deeper connection, promiscuous and charming model Shasha, and Praew, the lesbian photographer from the bar bi-curious Min frequents.",
+      "posterPath": "/sHYyeuMfSKTqM5lZgRrpGIZZHsZ.jpg",
+      "airDate": "2026-03-09",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-06-10T16:04:31.547Z",
+      "updatedAt": "2026-06-10T16:05:47.221Z"
+    }
+  ]
+}

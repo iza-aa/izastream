@@ -1,0 +1,348 @@
+{
+  "slug": "dracula-iii-legacy-2005",
+  "id": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+  "tmdbId": 10579,
+  "imdbId": "tt0303929",
+  "title": "Dracula III: Legacy",
+  "originalTitle": "Dracula III: Legacy",
+  "overview": "Dracula leads vampire hunters Father Uffizi and Luke back to Eastern Europe, and a country plagued by civil war.",
+  "tagline": "You can't fight it. You can't kill it.",
+  "posterPath": "/fhUsnommsQryWd9eBsgniy9jRGW.jpg",
+  "backdropPath": "/1efaWFGd9o2tSF0VOTR3x8uZOmE.jpg",
+  "logoPath": "/kBiYEh9DMuM9bZLCqRCzfVAwYoa.png",
+  "backdrops": [
+    "/1efaWFGd9o2tSF0VOTR3x8uZOmE.jpg",
+    "/tbascnbWrNs0MlKbiOs6m5nduxK.jpg",
+    "/yL7dekn6BOsVxK70DClw0FbWf8i.jpg",
+    "/kWSbxbj8895CI8L8CwXxN46loFG.jpg",
+    "/69mHCtOS2ibKvme9ltUDdOKmZ8V.jpg",
+    "/u1HWKGWD3kMRDmtgkKBJ8SYtE09.jpg",
+    "/lMo9ZWiR6P4Ppbfack6Ue69Sfzc.jpg"
+  ],
+  "releaseDate": "2005-07-12",
+  "runtime": 86,
+  "voteAverage": "4.90",
+  "popularity": null,
+  "popularityScore": 62,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=Ah6slQbuHU4",
+  "quality": "WEB-DL",
+  "director": "Patrick Lussier",
+  "directorTmdbId": 27226,
+  "directorProfilePath": "/iDVSGsOz8PewY4SCAEDCDaobi4.jpg",
+  "productionCompanies": [
+    {
+      "id": 1370,
+      "name": "Castel Film",
+      "logo_path": "/uch218gB4XWNz3JNhlc65A5Q207.png"
+    },
+    {
+      "id": 7405,
+      "name": "Dimension Films",
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png"
+    },
+    {
+      "id": 2811,
+      "name": "Neo Art & Logic",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 4424,
+      "name": "pain"
+    },
+    {
+      "id": 1938,
+      "name": "sword"
+    },
+    {
+      "id": 3133,
+      "name": "vampire"
+    },
+    {
+      "id": 526,
+      "name": "rebel"
+    },
+    {
+      "id": 1817,
+      "name": "orgy"
+    },
+    {
+      "id": 2673,
+      "name": "horse"
+    },
+    {
+      "id": 3098,
+      "name": "castle"
+    },
+    {
+      "id": 3199,
+      "name": "clown"
+    },
+    {
+      "id": 3473,
+      "name": "carnival"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 9259,
+      "name": "vampire hunter (slayer)"
+    },
+    {
+      "id": 13008,
+      "name": "train"
+    },
+    {
+      "id": 13092,
+      "name": "corpse"
+    },
+    {
+      "id": 13119,
+      "name": "tough guy"
+    },
+    {
+      "id": 14546,
+      "name": "massacre"
+    },
+    {
+      "id": 14765,
+      "name": "church"
+    },
+    {
+      "id": 15032,
+      "name": "gothic horror"
+    },
+    {
+      "id": 179882,
+      "name": "romania"
+    },
+    {
+      "id": 183185,
+      "name": "red dress"
+    },
+    {
+      "id": 261274,
+      "name": "dracula"
+    },
+    {
+      "id": 360110,
+      "name": "ex-priest"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 878,
+  "watchlistCount": 1,
+  "favouriteCount": 0,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-05T17:17:57.286Z",
+  "updatedAt": "2026-10-05T17:38:52.067Z",
+  "genres": [
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "bf4109a2-0b70-4f62-b0ff-f050ba7e4229",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 58319,
+      "name": "Jason Scott Lee",
+      "character": "Father Uffizi",
+      "profilePath": "/7jObZCM3diuPV0WlKkzOd4uE2CJ.jpg",
+      "order": 0
+    },
+    {
+      "id": "990e55d4-06f9-439e-beda-7c3082b992b4",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 52474,
+      "name": "Jason London",
+      "character": "Luke",
+      "profilePath": "/bFkC2ZRcurTQzbjBuuMljFCKfEv.jpg",
+      "order": 1
+    },
+    {
+      "id": "1071312e-7488-4411-91de-bd979c955700",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 65647,
+      "name": "Alexandra Wescourt",
+      "character": "Julia Hughes",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "d56dcc81-4489-4e66-87fc-0211093b30c5",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 585,
+      "name": "Rutger Hauer",
+      "character": "Dracula",
+      "profilePath": "/xyag0LbjocTwx2Ht7B3RofvCNMT.jpg",
+      "order": 3
+    },
+    {
+      "id": "02925003-db34-427d-874b-20be05af5934",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 65639,
+      "name": "Diane Neal",
+      "character": "Elizabeth Blaine",
+      "profilePath": "/4hVzSxLMKD6oGKDy0u0xt2rdHqU.jpg",
+      "order": 4
+    },
+    {
+      "id": "b05a1738-9ded-4570-8a7d-31c77ea7ca33",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 65648,
+      "name": "Claudiu Bleonţ",
+      "character": "Bogdan",
+      "profilePath": "/5ppwvXLq2ENAOikxwGUbPlhIh3O.jpg",
+      "order": 5
+    },
+    {
+      "id": "f85cd653-5efc-4974-8cf2-3cd63a0ff4f9",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 62506,
+      "name": "Șerban Celea",
+      "character": "Gabriel",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "da5e1abd-d8e1-487d-bdce-a2c2bd0e7da2",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 65649,
+      "name": "Ilinca Goia",
+      "character": "Marta",
+      "profilePath": "/cBYukxHXKBDU3m6jaLxvgzphSRI.jpg",
+      "order": 7
+    },
+    {
+      "id": "74174f30-3486-43da-a41a-6312476006f1",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 65650,
+      "name": "George Grigore",
+      "character": "Bruno",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "e9562eff-e847-4ae8-93aa-d3fe520d4344",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 62503,
+      "name": "Ioan Ionescu",
+      "character": "Ragman",
+      "profilePath": "/2joKLY8YDYmp8ZUG4TzP5c0uAFn.jpg",
+      "order": 9
+    },
+    {
+      "id": "7daed4d3-d9a1-4cee-b6ec-05947460d9a9",
+      "movieId": "a6a4c05c-723e-4d8e-83b6-836a1cfd051c",
+      "tmdbPersonId": 6355,
+      "name": "Roy Scheider",
+      "character": "Cardinal Siqueros",
+      "profilePath": "/yyZ0DwUz3qAelJIUGVoOktGgMIh.jpg",
+      "order": 10
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

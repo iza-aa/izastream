@@ -1,0 +1,129 @@
+{
+  "slug": "love-design-2025",
+  "id": "0498d585-beb2-4df0-8e34-b86d428a2160",
+  "title": "Love Design",
+  "overview": "Two former lovers turned rival architects clash professionally after a betrayal involving stolen work. Their competitive relationship grows more complex when a new romantic interest emerges.",
+  "tagline": null,
+  "posterPath": "/reK7lUsIFp9hqVem94rUR5lAGi7.jpg",
+  "backdropPath": "/ey6ypaMJL8wDkKqCzUQuefoSSqb.jpg",
+  "logoPath": "/aMGC6pmgL4T2RwT1StbkyLDhkC1.png",
+  "firstAirDate": "2025-10-02",
+  "voteAverage": "8.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 10,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "10e7eb32-7990-4861-9fe8-74964552ccba",
+      "tvSeriesId": "0498d585-beb2-4df0-8e34-b86d428a2160",
+      "tmdbPersonId": 1389949,
+      "name": "Supassara Thanachart",
+      "character": "Aokbab",
+      "profilePath": "/eGb18J9zaxTruSuQ53QU0KJsQoa.jpg",
+      "order": 0
+    },
+    {
+      "id": "652e50ef-9a2e-4cc7-b5be-fbb932566f02",
+      "tvSeriesId": "0498d585-beb2-4df0-8e34-b86d428a2160",
+      "tmdbPersonId": 2874193,
+      "name": "Methika Jiranorraphat",
+      "character": "Rin",
+      "profilePath": "/qUlGChMUXY8KG2OEUY8rVcB6dg8.jpg",
+      "order": 1
+    },
+    {
+      "id": "023459fa-fa2e-41d7-8bc6-0236c92e6370",
+      "tvSeriesId": "0498d585-beb2-4df0-8e34-b86d428a2160",
+      "tmdbPersonId": 1342181,
+      "name": "Matira Tantiprasut",
+      "character": "Mind",
+      "profilePath": "/o17sWZ9e98BovplTL7vEzC8xAaD.jpg",
+      "order": 2
+    },
+    {
+      "id": "4af4852d-4973-4b31-a0fb-c8f60707ad6c",
+      "tvSeriesId": "0498d585-beb2-4df0-8e34-b86d428a2160",
+      "tmdbPersonId": 5461125,
+      "name": "Paramee Luengnaruemitchai",
+      "character": "Tertis",
+      "profilePath": "/3EkRzKJm9b02qUR8sgSdoHcQ9YH.jpg",
+      "order": 3
+    },
+    {
+      "id": "d4c243d9-cfc0-4974-98c2-2cbb545712c3",
+      "tvSeriesId": "0498d585-beb2-4df0-8e34-b86d428a2160",
+      "tmdbPersonId": 4815163,
+      "name": "Torfan Taweema",
+      "character": "V",
+      "profilePath": "/pC461qZHV3Ulg8KKa2GtU5i8uiq.jpg",
+      "order": 4
+    },
+    {
+      "id": "3030b186-e461-4d33-ad96-639c8b549482",
+      "tvSeriesId": "0498d585-beb2-4df0-8e34-b86d428a2160",
+      "tmdbPersonId": 3155480,
+      "name": "Nalinthip Phoemphattharasakun",
+      "character": "Prim",
+      "profilePath": "/rlI7HYJFBSw7lqdD1SlyST4UZpo.jpg",
+      "order": 5
+    },
+    {
+      "id": "b3aed8a4-695d-4e08-a1c4-d5de902a1e93",
+      "tvSeriesId": "0498d585-beb2-4df0-8e34-b86d428a2160",
+      "tmdbPersonId": 2771765,
+      "name": "Ratchapong Anomakiti",
+      "character": "",
+      "profilePath": "/8kCAyYe7H7Fakg8nJesbZdZNSHj.jpg",
+      "order": 6
+    },
+    {
+      "id": "e6c3c958-f837-4660-9dc9-ff2cb9787ad1",
+      "tvSeriesId": "0498d585-beb2-4df0-8e34-b86d428a2160",
+      "tmdbPersonId": 3958970,
+      "name": "Elisha Triwiwatkul",
+      "character": "",
+      "profilePath": "/e9LkGUwWTMIsFZxH3lOVevjzAxY.jpg",
+      "order": 7
+    },
+    {
+      "id": "27175bae-6fd5-40ea-af90-5e89a254f823",
+      "tvSeriesId": "0498d585-beb2-4df0-8e34-b86d428a2160",
+      "tmdbPersonId": 4221196,
+      "name": "Sarut Nawapraditkul",
+      "character": "",
+      "profilePath": "/mgLkyG8p7ftaOe0C1F9SLoKsasp.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "03babb71-d560-4678-b773-de0897622dfd",
+      "tvSeriesId": "0498d585-beb2-4df0-8e34-b86d428a2160",
+      "tmdbId": 448229,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "The story of two female architects who were once in love. However, when one discovers that her partner stole her work to use in a competition, their relationship turns into a bitter rivalry. As former lovers become business rivals, they employ various strategies to outmaneuver each other, while navigating a complicated love triangle when a third person enters their lives.",
+      "posterPath": "/yGukRTowrA20oMD16HbuDxykATI.jpg",
+      "airDate": "2025-10-02",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:41:16.687Z",
+      "updatedAt": "2026-04-02T17:41:16.687Z"
+    }
+  ]
+}

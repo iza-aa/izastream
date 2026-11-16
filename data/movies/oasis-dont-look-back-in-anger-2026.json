@@ -1,0 +1,269 @@
+{
+  "slug": "oasis-dont-look-back-in-anger-2026",
+  "id": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+  "tmdbId": 1447853,
+  "imdbId": "tt36150957",
+  "title": "Oasis: Don't Look Back in Anger",
+  "originalTitle": "Oasis: Don't Look Back in Anger",
+  "overview": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
+  "tagline": "The great wait is over.",
+  "posterPath": "/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+  "backdropPath": "/2WlfEvFGJBlKKCD9XFChcI9F6Ks.jpg",
+  "logoPath": "/wuvZxoSm9HwevUuXK2nqtkDXnXk.png",
+  "backdrops": [
+    "/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+    "/fPZYqjurczOLgk2jdRPvXdGhqvT.jpg",
+    "/foOJL3qyrBfkRjSdNLmIq9qfgOI.jpg",
+    "/2SRZXkNGfyQBDqRoKDcDkCSqpKP.jpg",
+    "/2WlfEvFGJBlKKCD9XFChcI9F6Ks.jpg",
+    "/zeYpy1aVwU8SUA11Xamu9N0YgYN.jpg",
+    "/lcvUMIBxcxhHldaq294AokkdyJu.jpg",
+    "/nYwj5Dey15cjpE871VpBeK79FJ6.jpg",
+    "/wvDPHiSpDrVpwALbPcYquWLGnOO.jpg",
+    "/tzJo36A1Beg1POQOtWv4tTufz19.jpg"
+  ],
+  "releaseDate": "2026-09-09",
+  "runtime": 123,
+  "voteAverage": "7.50",
+  "popularity": null,
+  "popularityScore": 498,
+  "originalLanguage": "en",
+  "country": "GB",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=X9sIYLtgc_s",
+  "quality": "WEB-DL",
+  "director": "Dylan Southern",
+  "directorTmdbId": 128992,
+  "directorProfilePath": "/oY14DaI18jS2giD2OkbrbCCNgA2.jpg",
+  "productionCompanies": [
+    {
+      "id": 253382,
+      "name": "Magna Studios",
+      "logo_path": "/et1gI7544LhOctHAm9d0EnX8RFP.png"
+    },
+    {
+      "id": 247510,
+      "name": "Sony Music Vision",
+      "logo_path": null
+    },
+    {
+      "id": 5184,
+      "name": "Sony Music Entertainment UK",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 246377,
+      "name": "music documentary"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 10613,
+  "watchlistCount": 103,
+  "favouriteCount": 32,
+  "shareCount": 13,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-09T18:47:25.058Z",
+  "updatedAt": "2026-10-09T18:50:57.866Z",
+  "genres": [
+    {
+      "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+      "tmdbId": 99,
+      "name": "Documentary",
+      "slug": "documentary",
+      "createdAt": "2026-04-02T13:53:46.408Z"
+    },
+    {
+      "id": "c47fe226-dcf1-40b9-a67f-9436f9d5c4d0",
+      "tmdbId": 10402,
+      "name": "Music",
+      "slug": "music",
+      "createdAt": "2026-04-02T13:49:06.045Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "34a6096f-ab78-4eef-ac0e-7760c1966c74",
+      "movieId": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+      "tmdbPersonId": 82990,
+      "name": "Liam Gallagher",
+      "character": "Self",
+      "profilePath": "/4lE3FR6ToSBSU5186W1hmP04QJv.jpg",
+      "order": 0
+    },
+    {
+      "id": "f580eb56-4a98-4f78-8a20-3854706ea961",
+      "movieId": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+      "tmdbPersonId": 143210,
+      "name": "Noel Gallagher",
+      "character": "Self",
+      "profilePath": "/aBFYsStheYLMxlmyugFBgEEa7dA.jpg",
+      "order": 1
+    },
+    {
+      "id": "0e467f6c-06db-492d-bbeb-dc6b004b3541",
+      "movieId": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+      "tmdbPersonId": 82992,
+      "name": "Paul Arthurs",
+      "character": "Self",
+      "profilePath": "/afjM0Ve9Bjh8RdKD5K38u4yDxaZ.jpg",
+      "order": 2
+    },
+    {
+      "id": "eef42ed4-15b5-4543-b192-3c6f6de0d248",
+      "movieId": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+      "tmdbPersonId": 143211,
+      "name": "Gem Archer",
+      "character": "Self",
+      "profilePath": "/auXwK7uyGxbAhWt6rNi0PZK4kd6.jpg",
+      "order": 3
+    },
+    {
+      "id": "3e984001-9eb7-4138-a6f1-20837e753997",
+      "movieId": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+      "tmdbPersonId": 143212,
+      "name": "Andy Bell",
+      "character": "Self",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "3e111094-95e5-47ca-b486-ee7c7d3a41b3",
+      "movieId": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+      "tmdbPersonId": 61074,
+      "name": "Joey Waronker",
+      "character": "Self",
+      "profilePath": "/wQjXgt6kE5GwzvaBARaHx5SJteF.jpg",
+      "order": 5
+    },
+    {
+      "id": "76a41f4d-702f-4ebd-a829-2f00eb1efb12",
+      "movieId": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+      "tmdbPersonId": 3818743,
+      "name": "Christian Madden",
+      "character": "Self",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "97ba6083-e440-4187-a9ce-cbee7d7c0737",
+      "movieId": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+      "tmdbPersonId": 4104460,
+      "name": "Anaïs Gallagher",
+      "character": "Self",
+      "profilePath": "/sJasdEinUkFiGx7KPNY49ZWHGCv.jpg",
+      "order": 7
+    },
+    {
+      "id": "209b32fd-1e97-477d-b823-62c275f2e43a",
+      "movieId": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+      "tmdbPersonId": 5259756,
+      "name": "Molly Elson",
+      "character": "Self",
+      "profilePath": "/vhA9TzF61IPFxtLkVYrdWbg0wxr.jpg",
+      "order": 8
+    },
+    {
+      "id": "2c8480ad-c52f-4138-93bf-8382ce38407c",
+      "movieId": "7e4fbddc-ea6c-4360-91d9-130ac524d0ed",
+      "tmdbPersonId": 1178199,
+      "name": "Gary 'Mani' Mounfield",
+      "character": "Self",
+      "profilePath": "/gpG5qzfzzlNx6zaj1V6eaxJsyoy.jpg",
+      "order": 9
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

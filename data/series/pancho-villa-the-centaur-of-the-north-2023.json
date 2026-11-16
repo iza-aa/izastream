@@ -1,0 +1,145 @@
+{
+  "slug": "pancho-villa-the-centaur-of-the-north-2023",
+  "id": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+  "title": "Pancho Villa: The Centaur of the North",
+  "overview": "This is the story of Doroteo Arango, of a life that began on the wrong side of the law, to becoming \"Pancho Villa\", the feared commander and key figure in the Mexican Revolution. Buried within the story is a man fixated on his own myth, a man whose efforts to become a larger-than-life figure would shape history, but also leave him with many vengeful and powerful enemies.",
+  "tagline": null,
+  "posterPath": "/evmzCQZhU0sBXG8CDZIrjrrH5Di.jpg",
+  "backdropPath": "/vhG7ki8Mf3uPQ6XESZKBZbbquBm.jpg",
+  "logoPath": "/mHTimIWAHZrcKxdLhYLFe1cDbt.png",
+  "firstAirDate": "2023-07-19",
+  "voteAverage": "8.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "9feddbca-50f3-47fc-b270-c73c4d08ae8f",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbPersonId": 99508,
+      "name": "Jorge A. Jimenez",
+      "character": "Pancho Villa",
+      "profilePath": "/jWAzvFOMCfoWrE404gwpM0PxJfx.jpg",
+      "order": 0
+    },
+    {
+      "id": "0a9bc130-766a-4c3c-85de-d9215b0ded14",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbPersonId": 2754842,
+      "name": "Juan Luis Medina",
+      "character": "Carlos Jauregui",
+      "profilePath": "/iNBoM6aAJIxDrXcW8z92TymLEIt.jpg",
+      "order": 1
+    },
+    {
+      "id": "241a4573-775a-49a8-b62c-bc5cb2b20ce8",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbPersonId": 1311441,
+      "name": "Leonardo Alonso",
+      "character": "Rodolfo Fierro",
+      "profilePath": "/3SJUI4IeqjZfG7yNh76CbkQfzfg.jpg",
+      "order": 2
+    },
+    {
+      "id": "642171de-b765-414e-bac9-e1d5daaed433",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbPersonId": 989722,
+      "name": "Pablo Abitia",
+      "character": "Raúl Madero",
+      "profilePath": "/jbYAgqsFcuhXIMPUVOKoESDWEca.jpg",
+      "order": 3
+    },
+    {
+      "id": "178f140e-ebec-4f15-a577-09a5e5187bdd",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbPersonId": 3287144,
+      "name": "Josue Guerra",
+      "character": "General Felix Diaz",
+      "profilePath": "/uFVEcXRG7YEJMS2fEj5UiYOrqgh.jpg",
+      "order": 4
+    },
+    {
+      "id": "331b21dd-990e-45c9-9cf5-7739d5c90271",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbPersonId": 39458,
+      "name": "Armando Hernández",
+      "character": "Tomás Urbina",
+      "profilePath": "/5J0sQ0P2IBy1fTPDD3f8I2tJIZF.jpg",
+      "order": 5
+    },
+    {
+      "id": "49d6a733-f0b4-4503-9d3b-5d0a0b7e9252",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbPersonId": 2149252,
+      "name": "Said Sandoval",
+      "character": "",
+      "profilePath": "/3KwYchkWbtkFWLh7ttHUG3G2Vhc.jpg",
+      "order": 6
+    },
+    {
+      "id": "1cd293ba-4409-42cb-9bd0-f9f8f9c3eae3",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbPersonId": 1304427,
+      "name": "Gabriela Cartol",
+      "character": "",
+      "profilePath": "/7ebowmrD1V6eM26db5fXxvEWN7H.jpg",
+      "order": 7
+    },
+    {
+      "id": "6b3f96f8-ea25-49a9-b6eb-10a31ae5f181",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbPersonId": 7371,
+      "name": "Andrés Montiel",
+      "character": "Felipe Ángeles",
+      "profilePath": "/oS8FEY1AvRPvgL7p7CLMEDNvBQW.jpg",
+      "order": 8
+    },
+    {
+      "id": "9ecc9826-bb02-44cd-95f2-e8ae4c2dfcb8",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbPersonId": 62477,
+      "name": "Antonio Monroy",
+      "character": "",
+      "profilePath": "/kV2DMkExJ26SCTap134DTqXwv8c.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d6bf63a8-0ff7-4784-bab2-107c14d0ad67",
+      "tvSeriesId": "607812a7-384e-4d92-a654-1a99d4c98a2e",
+      "tmdbId": 200635,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/evmzCQZhU0sBXG8CDZIrjrrH5Di.jpg",
+      "airDate": "2023-07-19",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-20T11:19:42.085Z",
+      "updatedAt": "2026-10-20T11:20:27.752Z"
+    }
+  ]
+}

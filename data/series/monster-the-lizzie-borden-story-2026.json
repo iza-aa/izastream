@@ -1,0 +1,111 @@
+{
+  "slug": "monster-the-lizzie-borden-story-2026",
+  "id": "17f0a60c-6a91-4db7-a23b-48669d1fc992",
+  "title": "Monster: The Lizzie Borden Story",
+  "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+  "tagline": null,
+  "posterPath": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+  "backdropPath": "/3JVjgaqfX5MhxxHKpGWz05QV7Dz.jpg",
+  "logoPath": "/uTQrN2E9ulajgC6nN3JbjjSIjFl.png",
+  "firstAirDate": "2026-09-17",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "fed3bfb5-f0ed-4239-a605-6108c5645e5e",
+      "tvSeriesId": "17f0a60c-6a91-4db7-a23b-48669d1fc992",
+      "tmdbPersonId": 4481381,
+      "name": "Ella Beatty",
+      "character": "Lizzie Borden",
+      "profilePath": "/ksWqDRv0knHs9vFffeRD0c28UKH.jpg",
+      "order": 0
+    },
+    {
+      "id": "3a68df15-1de3-4dc1-9217-d461ab40e89d",
+      "tvSeriesId": "17f0a60c-6a91-4db7-a23b-48669d1fc992",
+      "tmdbPersonId": 1080195,
+      "name": "Vicky Krieps",
+      "character": "Bridget Sullivan",
+      "profilePath": "/9laK3w40qBnE5UY41wJfnUAYMmC.jpg",
+      "order": 1
+    },
+    {
+      "id": "2f085c32-5052-47db-8d06-10eb5630840c",
+      "tvSeriesId": "17f0a60c-6a91-4db7-a23b-48669d1fc992",
+      "tmdbPersonId": 34490,
+      "name": "Sarah Paulson",
+      "character": "Aileen Wuornos",
+      "profilePath": "/tJnhBV516yrekR3hTDUw15UMbxS.jpg",
+      "order": 2
+    },
+    {
+      "id": "863b3511-d8da-4cd7-844d-1f0fec0a47be",
+      "tvSeriesId": "17f0a60c-6a91-4db7-a23b-48669d1fc992",
+      "tmdbPersonId": 56365,
+      "name": "Charlie Hunnam",
+      "character": "Andrew Borden",
+      "profilePath": "/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg",
+      "order": 3
+    },
+    {
+      "id": "13be674b-a69f-4a62-951a-643c07e7b71d",
+      "tvSeriesId": "17f0a60c-6a91-4db7-a23b-48669d1fc992",
+      "tmdbPersonId": 15556,
+      "name": "Rebecca Hall",
+      "character": "Abby Borden",
+      "profilePath": "/coC58ANiDbqRIyle5zEl9QDektf.jpg",
+      "order": 4
+    },
+    {
+      "id": "4c8b9d95-936b-4094-b4ce-539bbc49cbfe",
+      "tvSeriesId": "17f0a60c-6a91-4db7-a23b-48669d1fc992",
+      "tmdbPersonId": 1399531,
+      "name": "Billie Lourd",
+      "character": "Emma Borden",
+      "profilePath": "/1u8bZL6ZXu5iDbPO3Z0Spetyt34.jpg",
+      "order": 5
+    },
+    {
+      "id": "c040c48c-f2d6-4e98-b81d-09e44818ea26",
+      "tvSeriesId": "17f0a60c-6a91-4db7-a23b-48669d1fc992",
+      "tmdbPersonId": 550552,
+      "name": "Jessica Barden",
+      "character": "Nance O'Neil",
+      "profilePath": "/yff76hxi2Y2yjezWZQ7jAWmbeGk.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "2c5d8fd0-3263-4814-9d49-a7a8577f82d6",
+      "tvSeriesId": "17f0a60c-6a91-4db7-a23b-48669d1fc992",
+      "tmdbId": 473542,
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "overview": "When the repressed daughter of a wealthy New England family and her rebellious maid find themselves trapped in a house built on humiliation and cruelty, they escape into a fantasy of sex, power, and revenge. The gruesome unsolved murders that follow don't just shock the world — they give birth to an icon who refuses to live imprisoned in a cage, choosing instead to forge her own legend: shocking, monstrous, and gloriously free.",
+      "posterPath": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "airDate": "2026-09-17",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-18T07:14:53.874Z",
+      "updatedAt": "2026-09-18T07:16:16.388Z"
+    }
+  ]
+}

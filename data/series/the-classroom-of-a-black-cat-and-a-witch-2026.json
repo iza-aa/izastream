@@ -1,0 +1,98 @@
+{
+  "slug": "the-classroom-of-a-black-cat-and-a-witch-2026",
+  "id": "37d5508b-d97d-4329-ac58-5538f4c1e836",
+  "title": "The Classroom of a Black Cat and a Witch",
+  "overview": "Spica Virgo dreams of joining a magical academy, but there’s one problem: She can’t use magic! With no mentor or connections, her chances seem slim—until a mysterious talking black cat appears. A powerful mage cursed into feline form, he agrees to teach her in exchange for help breaking the spell. As their secret pact begins, Spica steps into a world of magic, mystery, and unexpected surprises.",
+  "tagline": null,
+  "posterPath": "/e850NPQg3a4ZJDWE2EmxmjGa6Ab.jpg",
+  "backdropPath": "/tR8AoRgTCLS0y0iI1Eou8vZylfq.jpg",
+  "logoPath": "/xoRGx8NFARxggUvbnawnQY2Njrt.png",
+  "firstAirDate": "2026-04-12",
+  "voteAverage": "7.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e2cbb53e-2ac1-4f6f-80ca-efe7485f308b",
+      "tvSeriesId": "37d5508b-d97d-4329-ac58-5538f4c1e836",
+      "tmdbPersonId": 1779027,
+      "name": "Kaede Hondo",
+      "character": "Spica Virgo (voice)",
+      "profilePath": "/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg",
+      "order": 0
+    },
+    {
+      "id": "be73fdf6-b438-48c3-9929-d791cd47eeb7",
+      "tvSeriesId": "37d5508b-d97d-4329-ac58-5538f4c1e836",
+      "tmdbPersonId": 1210634,
+      "name": "Nobunaga Shimazaki",
+      "character": "Claude Sirius (voice)",
+      "profilePath": "/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg",
+      "order": 1
+    },
+    {
+      "id": "2dfe2501-374a-4552-81a8-946c49efb907",
+      "tvSeriesId": "37d5508b-d97d-4329-ac58-5538f4c1e836",
+      "tmdbPersonId": 3309472,
+      "name": "Fuka Izumi",
+      "character": "Aria Aquarius (voice)",
+      "profilePath": "/nTC0TuLp4Ek3b08DG9lhwVJHwlW.jpg",
+      "order": 2
+    },
+    {
+      "id": "d3d6daa2-7743-4d1a-8da3-3042998337d6",
+      "tvSeriesId": "37d5508b-d97d-4329-ac58-5538f4c1e836",
+      "tmdbPersonId": 3037828,
+      "name": "Miho Wataya",
+      "character": "Hana Sasorijo (voice)",
+      "profilePath": "/dobBRCErP4iaMSfqu15Ka4kVvC3.jpg",
+      "order": 3
+    }
+  ],
+  "seasons": [
+    {
+      "id": "099c47c4-8a8d-4046-89a9-f713e0a8cc07",
+      "tvSeriesId": "37d5508b-d97d-4329-ac58-5538f4c1e836",
+      "tmdbId": 468286,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/e850NPQg3a4ZJDWE2EmxmjGa6Ab.jpg",
+      "airDate": "2026-04-12",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-09-24T17:25:19.550Z",
+      "updatedAt": "2026-09-24T17:28:27.566Z"
+    }
+  ]
+}

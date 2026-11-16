@@ -1,0 +1,159 @@
+{
+  "slug": "magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance-2026",
+  "id": "cbea2563-b63f-4924-a144-b012278c0bae",
+  "title": "Magical Girl Lyrical NANOHA EXCEEDS Gun Blaze Vengeance",
+  "overview": "Thirty years ago, aliens attacked Earth and nearly brought humanity to extinction. Since then, mankind has clawed for survival, fighting the invaders for land, and the UN established EXCEEDS, an agency to stave off alien threats. On a remote island in a world of chaos, young hunter Shiina yearns for a quiet life with her sister, Setsuna, but a single incident draws her into the larger battle.",
+  "tagline": null,
+  "posterPath": "/l38ipYxoITWQaonHMNbgtWoYhH.jpg",
+  "backdropPath": "/8oDXuGfRiNPMZc1eYc9O8gIm7nb.jpg",
+  "logoPath": "/brDS3IRDJhnmjF8GZLsaHfs4kRM.png",
+  "firstAirDate": "2026-07-05",
+  "voteAverage": "5.75",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c8ec4f3e-6e7e-419d-99f9-8388f68c0b0d",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbPersonId": 4776137,
+      "name": "Azusa Tachibana",
+      "character": "Shiina Kuze (voice)",
+      "profilePath": "/jMfPIQOYOLUUCcu6oJFcLJXmkQA.jpg",
+      "order": 0
+    },
+    {
+      "id": "59e53c13-b0da-407f-bb10-24558f6be0ed",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbPersonId": 1116334,
+      "name": "Rina Hidaka",
+      "character": "Setsuna Kuze (voice)",
+      "profilePath": "/7JupZGvqcq4dRxiTKpPxzg8NUS4.jpg",
+      "order": 1
+    },
+    {
+      "id": "0996bbba-58b0-467c-b1b7-d775ea10288d",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbPersonId": 203268,
+      "name": "Yukari Tamura",
+      "character": "Nanoha Takamachi (voice)",
+      "profilePath": "/AigHQPetpcKee62ekHsYFSpQeWE.jpg",
+      "order": 2
+    },
+    {
+      "id": "ebc54730-c9ef-469d-ac38-c17673f5c849",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbPersonId": 24651,
+      "name": "Nana Mizuki",
+      "character": "Fate T. Harlaown (voice)",
+      "profilePath": "/rQBo7HyjTIqeB7hIofb7uJFhiVs.jpg",
+      "order": 3
+    },
+    {
+      "id": "370c8b30-b9b6-40fe-a030-39cd07b4c1ad",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbPersonId": 230471,
+      "name": "Kana Ueda",
+      "character": "Hayate Yagami (voice)",
+      "profilePath": "/us6FMwXCeSUR2YyByxVcgOUjiIA.jpg",
+      "order": 4
+    },
+    {
+      "id": "bfd52cb7-c843-411a-a29e-ae8fa7b5a46d",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbPersonId": 3980599,
+      "name": "Asaki Yuikawa",
+      "character": "Towa Yorumi (voice)",
+      "profilePath": "/4zztRbF68s06PZnsUAiXFNYv6mO.jpg",
+      "order": 5
+    },
+    {
+      "id": "da8ed36a-0605-4cee-a694-0379dbae37cb",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbPersonId": 2415158,
+      "name": "Chiharu",
+      "character": "Shiori Aizawa (voice)",
+      "profilePath": "/2BzyN6n0fKFM3jELRol0X9yMzeC.jpg",
+      "order": 6
+    },
+    {
+      "id": "9a0fe7be-4587-401c-b207-c36fa828034a",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbPersonId": 2072874,
+      "name": "Aika Kobayashi",
+      "character": "Yuuna Kitamori (voice)",
+      "profilePath": "/pGyxPHbh2ahOGBAip5VCa0XbbPy.jpg",
+      "order": 7
+    },
+    {
+      "id": "74606c08-e3d3-43e8-be45-ad6b22e54a59",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbPersonId": 2241366,
+      "name": "Ayasa Ito",
+      "character": "Aoi Niina (voice)",
+      "profilePath": "/2PrCCbr8wI9lZHtUtyy2SJszua1.jpg",
+      "order": 8
+    },
+    {
+      "id": "29d3472e-048f-40fe-9fec-49bfed051cc0",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbPersonId": 3492222,
+      "name": "Hina Aoki",
+      "character": "Yuzu Kodera (voice)",
+      "profilePath": "/brSfiv4JHZm6nBLu4RjcYV6Pd5w.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "0dc184a2-3d2b-49af-97d5-1b24ddbe4a10",
+      "tvSeriesId": "cbea2563-b63f-4924-a144-b012278c0bae",
+      "tmdbId": 447497,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/l38ipYxoITWQaonHMNbgtWoYhH.jpg",
+      "airDate": "2026-07-05",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-28T16:56:04.814Z",
+      "updatedAt": "2026-09-28T16:57:59.549Z"
+    }
+  ]
+}

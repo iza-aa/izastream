@@ -1,0 +1,131 @@
+{
+  "slug": "playful-kiss-2010",
+  "id": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+  "title": "Playful Kiss",
+  "overview": "Clumsy high school student Oh Ha-ni falls for the brilliant and aloof Baek Seung-jo, only to have her feelings rejected. When her family home collapses, Ha-ni moves in with her father’s longtime friend, who happens to be Seung-jo’s father, giving her an unexpected chance to win his heart.",
+  "tagline": null,
+  "posterPath": "/2j6cpZ5IOMbQYLemqE2fbRgWUwB.jpg",
+  "backdropPath": "/4M8BupjAhDOaaqyEg72uPpEKO5f.jpg",
+  "logoPath": "/oGLdTXUMgaTspxKEm3de6wRYtsp.png",
+  "firstAirDate": "2010-09-01",
+  "voteAverage": "7.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e01c5504-b3fd-471b-ba87-4e41ea6dfa38",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbPersonId": 1245820,
+      "name": "Kim Hyun-joong",
+      "character": "Baek Seung-jo",
+      "profilePath": "/8ewvTGRhzy6WnFFwhtzLUJg55tL.jpg",
+      "order": 0
+    },
+    {
+      "id": "0cca1d7c-79b2-4760-adeb-604068478d0d",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbPersonId": 1252017,
+      "name": "Jung So-min",
+      "character": "Oh Ha-ni",
+      "profilePath": "/cv8i4ALEabYkwnu68p5AdRTrMG9.jpg",
+      "order": 1
+    },
+    {
+      "id": "10eb24ad-29ab-4ddc-9abf-348766f3c758",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbPersonId": 1222436,
+      "name": "Lee Tae-sung",
+      "character": "Bong Joon-gu",
+      "profilePath": "/qmR1OOzRna1gUdPqJ5k6m03xgNB.jpg",
+      "order": 2
+    },
+    {
+      "id": "74533940-6981-4671-a56e-830cbd2d2f25",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbPersonId": 1252866,
+      "name": "Hong Yun-hwa",
+      "character": "Jung Joo-ri",
+      "profilePath": "/76FHoqkTkoAyHpELjVUjjmvy3EE.jpg",
+      "order": 3
+    },
+    {
+      "id": "adf7954c-5ce1-4f20-bb5d-a81c7bd01d99",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbPersonId": 1252867,
+      "name": "Yoon Seung-ah",
+      "character": "Dokgo Min-ah",
+      "profilePath": "/uBs9J9zkgSPHW14h10AXMBWC4yX.jpg",
+      "order": 4
+    },
+    {
+      "id": "7c506e58-3e2d-4984-b432-f81fea70b744",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbPersonId": 138532,
+      "name": "Lee Si-young",
+      "character": "Yoon He-ra",
+      "profilePath": "/dPdd6o587UaGuDRlAN4XqdXWbGy.jpg",
+      "order": 5
+    },
+    {
+      "id": "3dfa095b-dc37-4de1-94bd-94c2b032effb",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbPersonId": 1237913,
+      "name": "Jeong Hye-young",
+      "character": "Hwang Geum-hee",
+      "profilePath": "/5hUIubzV8LSpzS1FMbbWkHrVmBF.jpg",
+      "order": 6
+    },
+    {
+      "id": "79140080-49fd-4daf-8637-d3a1939fc8fb",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbPersonId": 1252864,
+      "name": "Oh Kyung-soo",
+      "character": "Baek Su-chang",
+      "profilePath": "/m7hAsqEHi5nJvUeRZ1t24CUHbCE.jpg",
+      "order": 7
+    },
+    {
+      "id": "c98806cf-fac6-4f1c-83b4-fdc0b8719737",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbPersonId": 1238647,
+      "name": "Kang Nam-gil",
+      "character": "Oh Ki-dong",
+      "profilePath": "/dqmbp8sbyzws6bSvMv9S7cr4SMT.jpg",
+      "order": 8
+    },
+    {
+      "id": "80ac1ee5-7801-48d4-9b56-d5dec4334dcb",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbPersonId": 1252865,
+      "name": "Choi Won-hong",
+      "character": "Baek Eun-jo",
+      "profilePath": "/gGzhAO9ggO3Rz0mNIrMFeJFh7Ba.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "23cd9d80-8e39-4ffc-bbe7-a4384bdd74a1",
+      "tvSeriesId": "7c73a282-1e36-47b8-92e9-040a12360cfd",
+      "tmdbId": 45199,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Oh Ha-ni is a clumsy student who falls for the perfectionist, Baek Seung-jo. However, Seung-jo is indifferent towards her and rejects her love. When Ha-ni's house collapses, she and her father moves into his long-time friend's house. It turns out that Seung-jo is the friend's son and Ha-ni is given the opportunity to be near the guy she loves. Will she be able to move Seung-jo's heart?",
+      "posterPath": "/2IYvpgAaHUpd7SA29KwEJ2zJMuo.jpg",
+      "airDate": "2010-09-01",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-09-23T05:57:54.045Z",
+      "updatedAt": "2026-09-23T05:59:30.423Z"
+    }
+  ]
+}

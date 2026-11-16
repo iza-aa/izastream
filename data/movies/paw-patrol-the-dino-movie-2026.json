@@ -1,0 +1,432 @@
+{
+  "slug": "paw-patrol-the-dino-movie-2026",
+  "id": "d7747824-3074-408c-9148-62ab6c354287",
+  "tmdbId": 1185806,
+  "imdbId": "tt29356163",
+  "title": "PAW Patrol: The Dino Movie",
+  "originalTitle": "PAW Patrol: The Dino Movie",
+  "overview": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+  "tagline": "An adventure of prehistoric pawportions.",
+  "posterPath": "/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+  "backdropPath": "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+  "logoPath": "/gYDFGDMu9CJQRFLcvvj568L38IW.png",
+  "backdrops": [
+    "/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+    "/qFNoS2RJRFVOpwSx7YuCGTX1gqo.jpg",
+    "/dSAGnA3OZs0cC3JQ0GLqQVndZON.jpg",
+    "/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
+    "/sgIZiW15kFifR2y1SwAr6DyOZ8s.jpg",
+    "/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
+    "/rMfDaKeyNiHXkszNxB065dKagV6.jpg",
+    "/mtZCXtdDxVpPPG4JxWDGOtZ40Ow.jpg",
+    "/sSKamRdD04b2LaTfLf8UQ5iA4lP.jpg",
+    "/dY4LyVSvjk9dN20YsxuouaMIMox.jpg"
+  ],
+  "releaseDate": "2026-07-23",
+  "runtime": 88,
+  "voteAverage": "7.00",
+  "popularity": null,
+  "popularityScore": 582,
+  "originalLanguage": "en",
+  "country": "CA",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=xgI5iYmOf5Q",
+  "quality": "WEB-DL",
+  "director": "Cal Brunker",
+  "directorTmdbId": 1098477,
+  "directorProfilePath": "/40FRTywgDa9KwFwHUxkVqeSrESl.jpg",
+  "productionCompanies": [
+    {
+      "id": 71738,
+      "name": "Spin Master",
+      "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png"
+    },
+    {
+      "id": 2348,
+      "name": "Nickelodeon Movies",
+      "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png"
+    },
+    {
+      "id": 24955,
+      "name": "Paramount Animation",
+      "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 3379,
+      "name": "diamond mine"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 10244,
+      "name": "based on cartoon"
+    },
+    {
+      "id": 10542,
+      "name": "based on toy"
+    },
+    {
+      "id": 10506,
+      "name": "prehistory"
+    },
+    {
+      "id": 12616,
+      "name": "dinosaur"
+    },
+    {
+      "id": 15162,
+      "name": "dog"
+    },
+    {
+      "id": 184956,
+      "name": "corrupt mayor"
+    },
+    {
+      "id": 210246,
+      "name": "children's adventure"
+    },
+    {
+      "id": 267848,
+      "name": "talking animal"
+    },
+    {
+      "id": 269709,
+      "name": "adventure comedy"
+    },
+    {
+      "id": 269769,
+      "name": "based on tv series"
+    },
+    {
+      "id": 276489,
+      "name": "illegal mining"
+    },
+    {
+      "id": 358826,
+      "name": "physically disabled"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 20503,
+  "watchlistCount": 75,
+  "favouriteCount": 32,
+  "shareCount": 14,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-10T05:18:55.174Z",
+  "updatedAt": "2026-09-10T05:19:01.032Z",
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3e409d3d-64bd-4eed-a086-fc653e94ea5f",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 3572176,
+      "name": "Carter Young",
+      "character": "Marshall (voice)",
+      "profilePath": "/ezkMRnYOjsYXrcwHEJ2JIDWTJJq.jpg",
+      "order": 0
+    },
+    {
+      "id": "32647210-f4ae-4bb6-80aa-1ca409eb836b",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 1172108,
+      "name": "Mckenna Grace",
+      "character": "Skye (voice)",
+      "profilePath": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg",
+      "order": 1
+    },
+    {
+      "id": "20b70bf7-0ab5-49cb-9fe1-998bb5675aea",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 53256,
+      "name": "Terry Crews",
+      "character": "Alistair Stonewall (voice)",
+      "profilePath": "/pxTY4SglLo5hFcMH00MxPeC5u55.jpg",
+      "order": 2
+    },
+    {
+      "id": "4a81a640-1c61-4e63-af40-4a29ae2be2ef",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 63606,
+      "name": "Meredith MacNeill",
+      "character": "Harper Cutlass (voice)",
+      "profilePath": "/jcJq5Af7KSleMFVhrla5xbv8TOg.jpg",
+      "order": 3
+    },
+    {
+      "id": "3370a3c8-77ce-4b5b-a1cd-7b4d28513068",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 1227611,
+      "name": "Ron Pardo",
+      "character": "Mayor Humdinger (voice)",
+      "profilePath": "/hE4QOBmPqstfmBVXmlcJmsljUMw.jpg",
+      "order": 4
+    },
+    {
+      "id": "403cb47b-2732-4761-8ed2-a54922168543",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 15565,
+      "name": "Jennifer Hudson",
+      "character": "Lilian Ledes (voice)",
+      "profilePath": "/4wpTUqEjHYjDMj0Fv6BvfjeIS1H.jpg",
+      "order": 5
+    },
+    {
+      "id": "33f84fd6-5242-4a9c-8379-efc5604d32e1",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 5423400,
+      "name": "Hayden Chemberlen",
+      "character": "Rex (voice)",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "151682ed-1d7a-44fc-8fbe-aa101517bb3e",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 1183672,
+      "name": "Fortune Feimster",
+      "character": "Eugenia Bunsen (voice)",
+      "profilePath": "/9f2p2T61K4pIvKQMLRlow8znkXU.jpg",
+      "order": 7
+    },
+    {
+      "id": "5f5347f1-032a-4daf-b3ef-f18a6687b439",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 1624816,
+      "name": "Jameela Jamil",
+      "character": "Heidi Pothesis (voice)",
+      "profilePath": "/e9RviCItpPoSwD79y4YYlDbIwM6.jpg",
+      "order": 8
+    },
+    {
+      "id": "50301d53-e3e7-4a9e-9d13-544ac946de27",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 3908744,
+      "name": "Rain Janjua",
+      "character": "Chase (voice)",
+      "profilePath": "/39VLLyRP55v9ImeKT50EdCIrZ84.jpg",
+      "order": 9
+    },
+    {
+      "id": "d20ebfa4-0a00-430b-9d3f-04c887a12274",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 1218795,
+      "name": "Bill Nye",
+      "character": "Dr. Theo Rising (voice)",
+      "profilePath": "/HfEBnQuiCMPjcsONf9FCpnEyJL.jpg",
+      "order": 10
+    },
+    {
+      "id": "34c0b696-1e41-4c18-b084-bd0b5292bded",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 38406,
+      "name": "Paris Hilton",
+      "character": "Nancy (voice)",
+      "profilePath": "/8ywcy0guTGiL6JIPvnFtELMlwuu.jpg",
+      "order": 11
+    },
+    {
+      "id": "cf5983e2-eaa5-4678-8d42-8324f2918c96",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 19767,
+      "name": "Snoop Dogg",
+      "character": "Dave (voice)",
+      "profilePath": "/rbxBK2m6fEq0oHeMoBUMVYkJEdJ.jpg",
+      "order": 12
+    },
+    {
+      "id": "30be52bd-1958-40da-9a81-a45c0ac777f0",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 5423394,
+      "name": "Henry Bolan",
+      "character": "Ryder (voice)",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "6f153afe-6d78-470e-94b1-1d6ab83fb0bf",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 3716163,
+      "name": "Lucien Duncan-Reid",
+      "character": "Rubble (voice)",
+      "profilePath": "/sliCDt3gkMHXcXusq72PLLFTbHG.jpg",
+      "order": 14
+    },
+    {
+      "id": "17877940-093f-4085-8eb6-1f39c39b8cb1",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 5423404,
+      "name": "William Desrosiers",
+      "character": "Rocky (voice)",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "124ea0f8-d7ac-460b-b9eb-d0a4d096268a",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 3890634,
+      "name": "Nylan Parthipan",
+      "character": "Zuma (voice)",
+      "profilePath": "/cwAUs4vWfZyn2cHNrGu9tC8W0yK.jpg",
+      "order": 16
+    },
+    {
+      "id": "c5a0378e-1215-449c-889c-431e78ba2068",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 6025559,
+      "name": "Darius Willis",
+      "character": "Dustin (voice)",
+      "profilePath": "/1xakiGcC97nguaVLByNd7GqgCkL.jpg",
+      "order": 17
+    },
+    {
+      "id": "3ccb7957-4736-4b0a-8dd4-c22aee57e40b",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 23680,
+      "name": "Dee Bradley Baker",
+      "character": "Dinosaur Voice Performance (voice)",
+      "profilePath": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+      "order": 18
+    },
+    {
+      "id": "e1d8e97b-5827-4836-96b4-dfc93fc64dfd",
+      "movieId": "d7747824-3074-408c-9148-62ab6c354287",
+      "tmdbPersonId": 2135419,
+      "name": "Kamaia Fairburn",
+      "character": "Delilah (voice)",
+      "profilePath": "/tfwLOmrueNAebxRxJEZKX3l46l7.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,393 @@
+{
+  "slug": "john-q-2002",
+  "id": "ba85d46d-3689-4561-85ac-b19fe4172235",
+  "tmdbId": 8470,
+  "imdbId": "tt0251160",
+  "title": "John Q",
+  "originalTitle": "John Q",
+  "overview": "John Quincy Archibald is a father and husband whose son is diagnosed with an enlarged heart and then finds out he cannot receive a transplant because HMO insurance will not cover it. Therefore, he decides to take a hospital full of patients hostage until the hospital puts his son's name on the donor's list.",
+  "tagline": "Give a father no options and you leave him no choice.",
+  "posterPath": "/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg",
+  "backdropPath": "/sBB39VMtByFltGGGW2c5N6LOAvj.jpg",
+  "logoPath": "/8QvkQWqvUOWwyjdXFSEhBxKYUUM.png",
+  "backdrops": [
+    "/sBB39VMtByFltGGGW2c5N6LOAvj.jpg",
+    "/yU5KUTk653SgITAIVxBS6WEyTQx.jpg",
+    "/6EM4kHDYTc5RA8SCGtecaEH7Khj.jpg",
+    "/22lMuNnRRqZridYj5S9zVg5jNCi.jpg",
+    "/wHixCynzxOEYkjCcOR0gpyO6lWj.jpg",
+    "/14q5D4tOywjgbmofKV1MPEVRZN.jpg",
+    "/hfivJghDdSIlDyYuaW4ugaqS7tk.jpg",
+    "/q9ma9nSHcsNhfhOIwnCMHrbbGsJ.jpg",
+    "/pOivr4oE9ZyIzJjcKQICugxcZ5D.jpg",
+    "/jHhApfGWY4rKsyGc3UOsXNnx6p7.jpg"
+  ],
+  "releaseDate": "2002-02-15",
+  "runtime": 116,
+  "voteAverage": "7.16",
+  "popularity": null,
+  "popularityScore": 75,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=-29JK-UA4E0",
+  "quality": "WEB-DL",
+  "director": "Nick Cassavetes",
+  "directorTmdbId": 11151,
+  "directorProfilePath": "/cSAkROMjuYBmzp7T3Da3WP6loZM.jpg",
+  "productionCompanies": [
+    {
+      "id": 23019,
+      "name": "Evolution Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 12,
+      "name": "New Line Cinema",
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+      "id": 17106,
+      "name": "Burg/Koules Productions",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 520,
+      "name": "chicago, illinois"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 1786,
+      "name": "heart attack"
+    },
+    {
+      "id": 1930,
+      "name": "kidnapping"
+    },
+    {
+      "id": 2690,
+      "name": "heart disease"
+    },
+    {
+      "id": 7188,
+      "name": "hostage-taking"
+    },
+    {
+      "id": 11612,
+      "name": "hospital"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 5841,
+  "watchlistCount": 25,
+  "favouriteCount": 14,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-11T12:43:18.981Z",
+  "updatedAt": "2026-09-11T13:18:35.568Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e52839ef-a0f1-4999-864f-d429ca9ee3b7",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 5292,
+      "name": "Denzel Washington",
+      "character": "John Quincy Archibald",
+      "profilePath": "/jj2Gcobpopokal0YstuCQW0ldJ4.jpg",
+      "order": 0
+    },
+    {
+      "id": "a11d932f-813e-4585-9b23-d716ee854688",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 4512,
+      "name": "James Woods",
+      "character": "Dr. Raymond Turner",
+      "profilePath": "/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg",
+      "order": 1
+    },
+    {
+      "id": "976e0c97-c6f9-4b23-958e-558ee67bec6f",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 55314,
+      "name": "Kimberly Elise",
+      "character": "Denise Archibald",
+      "profilePath": "/9Z2xlD8i8NXeT6NipPpmQfL6Mki.jpg",
+      "order": 2
+    },
+    {
+      "id": "261464a0-70e0-486a-8cfd-422040127b7c",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 3087,
+      "name": "Robert Duvall",
+      "character": "Lt. Frank Grimes",
+      "profilePath": "/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg",
+      "order": 3
+    },
+    {
+      "id": "11733a08-5f74-42db-a1c7-92d1b859d425",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 52647,
+      "name": "Shawn Hatosy",
+      "character": "Mitch Quigley",
+      "profilePath": "/hm3KRxmotbJ93fJQJvE0G0EGONw.jpg",
+      "order": 4
+    },
+    {
+      "id": "21419385-9fb8-4e5c-bad0-35b69066096d",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 62842,
+      "name": "Eddie Griffin",
+      "character": "Lester Matthews",
+      "profilePath": "/xPiiT0BnxpG04Xqmj6PciBC0o7I.jpg",
+      "order": 5
+    },
+    {
+      "id": "8e884573-cc1b-49f3-9606-372efd811235",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 16666,
+      "name": "Kevin Connolly",
+      "character": "Steve Maguire",
+      "profilePath": "/1QDmx5t0anO0wkfABfgLtkuLFOy.jpg",
+      "order": 6
+    },
+    {
+      "id": "a82f5997-cafc-4b75-b8f7-089eede705b1",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 824,
+      "name": "Ethan Suplee",
+      "character": "Guard Max Conlin",
+      "profilePath": "/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg",
+      "order": 7
+    },
+    {
+      "id": "d058ba0d-7efc-4eae-b85b-b4eff30fade6",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 11477,
+      "name": "Ray Liotta",
+      "character": "Chief Gus Monroe",
+      "profilePath": "/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg",
+      "order": 8
+    },
+    {
+      "id": "76f3f7ce-f3ae-4ca6-b2d6-ac45060fee32",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 8256,
+      "name": "Anne Heche",
+      "character": "Rebecca Payne",
+      "profilePath": "/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg",
+      "order": 9
+    },
+    {
+      "id": "bdc675fe-8381-419c-aa1b-e28192937af3",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 15007,
+      "name": "Laura Harring",
+      "character": "Gina Palumbo",
+      "profilePath": "/6g64N2VsADTPRDsKcJDO2ayGQUt.jpg",
+      "order": 10
+    },
+    {
+      "id": "7cc33db4-cde8-4457-a22a-2196f0912a3d",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 55317,
+      "name": "Heather Wahlquist",
+      "character": "Julie Bird",
+      "profilePath": "/qETaVUmGlJwuuWk6SHl2PdehI5e.jpg",
+      "order": 11
+    },
+    {
+      "id": "2b3a9da3-22ff-4a81-bc4a-17ee41a946de",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 55315,
+      "name": "Daniel E. Smith",
+      "character": "Mike Archibald",
+      "profilePath": "/fVjo7bi1rIDS2PrLMUFrKQbwCHB.jpg",
+      "order": 12
+    },
+    {
+      "id": "3712508d-4ba5-4164-8292-60cc98d8ca3d",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 76526,
+      "name": "David Thornton",
+      "character": "Jimmy Palumbo",
+      "profilePath": "/pNOWmEQWEI2gdW6hoVPO2C8PN98.jpg",
+      "order": 13
+    },
+    {
+      "id": "70257ab5-9a8e-4213-80bd-523a57c8dad1",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 73035,
+      "name": "Paul Johansson",
+      "character": "Tuck Lampley",
+      "profilePath": "/WObwc4GELejtR1lZDCWVN9F9t7.jpg",
+      "order": 14
+    },
+    {
+      "id": "4c89f3dd-1cd6-4e2a-967e-04ec43853e14",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 52057,
+      "name": "Obba Babatundé",
+      "character": "Sgt. Moody",
+      "profilePath": "/jkvxfhETmwR877VluO5kfbxxNER.jpg",
+      "order": 15
+    },
+    {
+      "id": "8abdf08b-59b7-49f2-9d7a-4f8e41fbeb3b",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 42974,
+      "name": "Troy Byer",
+      "character": "Miriam Smith",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "09d1f02e-1f6f-4777-9dc1-9041f81397f0",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 76476,
+      "name": "Troy Winbush",
+      "character": "Steve Smith",
+      "profilePath": "/aGxjCVonALJublMfkLp3BZBiDg3.jpg",
+      "order": 17
+    },
+    {
+      "id": "16da8fc9-550d-4396-a810-ea2a8ada90c4",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 126651,
+      "name": "Martha Chaves",
+      "character": "Rosa Gonzales",
+      "profilePath": "/nK9fy0ZOWyZFilciSiNGbdPRxNk.jpg",
+      "order": 18
+    },
+    {
+      "id": "c0f1f892-9ac1-4b72-8017-09bdfcada42e",
+      "movieId": "ba85d46d-3689-4561-85ac-b19fe4172235",
+      "tmdbPersonId": 3084129,
+      "name": "Gabriela Oltean",
+      "character": "Beautiful BMW Driver",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "devgru",
+    "displayName": "Devgru"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

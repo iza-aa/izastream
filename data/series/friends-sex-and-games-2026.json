@@ -1,0 +1,113 @@
+{
+  "slug": "friends-sex-and-games-2026",
+  "id": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+  "title": "Friends Sex and Games",
+  "overview": "A group of friends starts a daring game. Everyone throws their keys into a bowl—whoever picks one spends the night with the owner of that key.",
+  "tagline": null,
+  "posterPath": "/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg",
+  "backdropPath": "/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
+  "logoPath": "/7HY0PO2YDHuCFYkE7xjMQ4Hmfq3.png",
+  "firstAirDate": "2026-10-16",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "353f126b-8a11-49b9-8e4c-34ac18116f15",
+      "tvSeriesId": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+      "tmdbPersonId": 52635,
+      "name": "Paula Kalenberg",
+      "character": "Anna",
+      "profilePath": "/2Sf6fzb0h54I5eGDRxDFqQOgYCY.jpg",
+      "order": 0
+    },
+    {
+      "id": "b60d17fe-aeb3-4a8e-a0e9-920d71a7e75d",
+      "tvSeriesId": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+      "tmdbPersonId": 1209968,
+      "name": "Martin Bruchmann",
+      "character": "Valentin",
+      "profilePath": "/2omDEQl56doYPJ18C8QQnD3gDtj.jpg",
+      "order": 1
+    },
+    {
+      "id": "c3986d82-d781-47ca-93fb-01fda1cfd5d6",
+      "tvSeriesId": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+      "tmdbPersonId": 1203440,
+      "name": "Mona Pirzad",
+      "character": "Bella",
+      "profilePath": "/2CCQEi414iefggE9141F6m6bTK6.jpg",
+      "order": 2
+    },
+    {
+      "id": "a6bfc2ce-c6cc-4b5e-a88d-563e27d0e80c",
+      "tvSeriesId": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+      "tmdbPersonId": 4079307,
+      "name": "Eric Cordes",
+      "character": "Samu",
+      "profilePath": "/7AHBdQ6qxV8nR0eiaKTS7RjpLab.jpg",
+      "order": 3
+    },
+    {
+      "id": "13015dc7-d813-4d5f-97b3-800dde4e95d4",
+      "tvSeriesId": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+      "tmdbPersonId": 3811257,
+      "name": "Lilja van der Zwaag",
+      "character": "Siena",
+      "profilePath": "/w86o9jRbBrvtO3HJU4VLyJ4opZP.jpg",
+      "order": 4
+    },
+    {
+      "id": "51bcfcf5-d31e-4e3e-b71a-2b199974b81a",
+      "tvSeriesId": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+      "tmdbPersonId": 1823691,
+      "name": "Pascal Houdus",
+      "character": "Leo",
+      "profilePath": "/xgModAFc9ZiiXrC8LXMNhziIurJ.jpg",
+      "order": 5
+    },
+    {
+      "id": "6ac334aa-5970-4516-a823-e259e43372a2",
+      "tvSeriesId": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+      "tmdbPersonId": 1412683,
+      "name": "Salka Weber",
+      "character": "Julie",
+      "profilePath": "/pvNH4XdL4CdqqrYTvt3AG0zBHdM.jpg",
+      "order": 6
+    },
+    {
+      "id": "4b4e65dd-e090-4c65-aa09-c973f67ed7e8",
+      "tvSeriesId": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+      "tmdbPersonId": 1756314,
+      "name": "Fridolin Sandmeyer",
+      "character": "Paul",
+      "profilePath": "/8QfUugv9vxFEA7tLC7jozGJEjP4.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1063ed60-a868-4b59-8dfe-319703561be4",
+      "tvSeriesId": "b08ea1b7-bebd-4d48-8542-4c78961c497c",
+      "tmdbId": 470303,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/jPVpRhe14SO7JDA0GeAqiOpE0Yh.jpg",
+      "airDate": "2026-10-16",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-17T05:40:45.132Z",
+      "updatedAt": "2026-10-17T05:41:21.412Z"
+    }
+  ]
+}

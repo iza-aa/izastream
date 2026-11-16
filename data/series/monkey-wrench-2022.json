@@ -1,0 +1,166 @@
+{
+  "slug": "monkey-wrench-2022",
+  "id": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+  "title": "Monkey Wrench",
+  "overview": "A ragtag crew of mercenaries for hire chases down criminals across the galaxy. They're not the heroes we deserve, but they're the only ones we got.",
+  "tagline": null,
+  "posterPath": "/bZZnN2Mf9hcpCZStK0xbZ7zabYU.jpg",
+  "backdropPath": "/1PN5sX1ihIuBnmG6YSsaU9oGl5S.jpg",
+  "logoPath": "/5Q7BbPh04LBg54ulpBj3NDBJ9vP.png",
+  "firstAirDate": "2022-07-17",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "0c2db975-e3f6-47ec-bcde-1f9ae3b7d5dc",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbPersonId": 5002897,
+      "name": "Jacob Barrens",
+      "character": "Shrike Sanchez (voice)",
+      "profilePath": "/5OF1SDBWyEkelwm7FWr3iDjxW1J.jpg",
+      "order": 0
+    },
+    {
+      "id": "598f81a3-88c6-4ec8-8b2b-413517e00e62",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbPersonId": 4315200,
+      "name": "Jean-Francois Donaldson",
+      "character": "Beebs (voice)",
+      "profilePath": "/35HGGVWdDW4dRKZmo86dNHPldih.jpg",
+      "order": 1
+    },
+    {
+      "id": "ffb79885-9cb7-499d-bbe1-422f8c2c7078",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbPersonId": 3022522,
+      "name": "Chris Zito",
+      "character": "Scratch (voice)",
+      "profilePath": null,
+      "order": 500
+    },
+    {
+      "id": "8a0a24f5-7f64-4703-ba8b-396b77a756f0",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbPersonId": 3782649,
+      "name": "Niko Vargas",
+      "character": "Tyneen (voice)",
+      "profilePath": "/bKHSuALwgbB105uj2orcnKwLf2H.jpg",
+      "order": 501
+    },
+    {
+      "id": "2b54030a-6b15-484d-8259-37a11a8193a1",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbPersonId": 6407448,
+      "name": "Logan Calderwood",
+      "character": "Ricket (voice)",
+      "profilePath": null,
+      "order": 502
+    },
+    {
+      "id": "07b8a820-da94-4e07-b09b-f6f1d91fd765",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbPersonId": 4559089,
+      "name": "Joshua Palmer",
+      "character": "Nobert (voice)",
+      "profilePath": null,
+      "order": 503
+    },
+    {
+      "id": "3bc17af9-1f02-4a68-b9b4-3947c246e502",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbPersonId": 6407453,
+      "name": "Ashley Palmer",
+      "character": "Queen Potoo (voice)",
+      "profilePath": null,
+      "order": 504
+    },
+    {
+      "id": "7e3fb481-6d01-44a6-9acd-cd50f1bacedd",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbPersonId": 6407454,
+      "name": "Doug Drury",
+      "character": "Spoops (voice)",
+      "profilePath": null,
+      "order": 505
+    },
+    {
+      "id": "23eb8176-0410-4250-a7a5-d20214699c27",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbPersonId": 6407464,
+      "name": "Gehrig Schreiber",
+      "character": "Kara's Agent / Eagle Guards / Fodders (voice)",
+      "profilePath": null,
+      "order": 507
+    },
+    {
+      "id": "39f08e79-36da-4041-9183-03855664411d",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbPersonId": 2018847,
+      "name": "Zach Hadel",
+      "character": "Screamo (voice)",
+      "profilePath": "/rnxk4BHlXicHVQCh0OI01PkPQ4F.jpg",
+      "order": 508
+    }
+  ],
+  "seasons": [
+    {
+      "id": "acc6c587-8582-435a-a9cd-f8ac1998a8a0",
+      "tvSeriesId": "18bb6d04-4a0b-44e8-9f5e-35276e8e7ceb",
+      "tmdbId": 527017,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/cR86qhHQpXQLYMht67G7J2J8eR8.jpg",
+      "airDate": "2022-07-17",
+      "episodeCount": 5,
+      "isPublished": true,
+      "createdAt": "2026-08-28T06:44:41.370Z",
+      "updatedAt": "2026-08-28T06:45:52.106Z"
+    }
+  ]
+}

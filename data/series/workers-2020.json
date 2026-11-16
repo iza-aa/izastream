@@ -1,0 +1,131 @@
+{
+  "slug": "workers-2020",
+  "id": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+  "title": "Workers",
+  "overview": "A group of construction workers daydream about being rich. They resort to countless outrageous get-rich-quick schemes only to make fools out of themselves. Despite these setbacks, the happy-go-lucky workers continue to be optimistic. Nothing will stop their pursuit of being rich beyond their wildest dreams!",
+  "tagline": "We, the Laborers",
+  "posterPath": "/gX1pL3Sh4ZZoBuRfuFw5hyUMSXx.jpg",
+  "backdropPath": "/toEy2zD3kgJCOTHqvr75qPFUwfg.jpg",
+  "logoPath": "/tBbDaA34URBfsZHxWwx9KxXUiEK.png",
+  "firstAirDate": "2020-05-10",
+  "voteAverage": "8.21",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e37cc0d8-ed7b-4763-b681-267f64b808a5",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbPersonId": 112477,
+      "name": "Christopher Lee",
+      "character": "Ming-qi",
+      "profilePath": "/8QvDvbUxkwhbrWHr3Po6liw1jAX.jpg",
+      "order": 0
+    },
+    {
+      "id": "387163d7-cd84-473f-8e65-eab160a809dc",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbPersonId": 2768710,
+      "name": "Alex Ko",
+      "character": "Ming-qin",
+      "profilePath": "/6GeBUMiBeaYRwwgqP8jLSxZS358.jpg",
+      "order": 1
+    },
+    {
+      "id": "2f1b080c-89b9-48e9-8eb8-40e15c273477",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbPersonId": 1559780,
+      "name": "Yu An-shun",
+      "character": "Chang",
+      "profilePath": "/4PZGj4PcwSYn6BkS3Xqyj6yRBLn.jpg",
+      "order": 2
+    },
+    {
+      "id": "bc556821-5150-466b-b803-70e30664c04b",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbPersonId": 1630063,
+      "name": "Miao Ke-li",
+      "character": "Chang's Wife",
+      "profilePath": "/utmlY1E7bhZsKBI5JUvZoaHZFpC.jpg",
+      "order": 3
+    },
+    {
+      "id": "9a663cc3-a99f-40be-8c85-81995d9ddb90",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbPersonId": 1347978,
+      "name": "Simon Hsueh",
+      "character": "Quan",
+      "profilePath": "/rBJJWEmvf1bpw8BSEW2g60202cV.jpg",
+      "order": 4
+    },
+    {
+      "id": "2bce2c4c-785c-4ecc-a0e9-446a96037b27",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbPersonId": 2577251,
+      "name": "Fang Yu-hsing",
+      "character": "Jennifer",
+      "profilePath": "/1yhQbZ8hY8oPlJDYUoC5Ww1hoUY.jpg",
+      "order": 5
+    },
+    {
+      "id": "4f2ba42b-dd8e-4e1c-8d06-e6fce0c783f7",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbPersonId": 989606,
+      "name": "Peggy Tseng",
+      "character": "Mei-feng",
+      "profilePath": "/6aFwU4xLkGGzwF3h5mhrLjEC3U3.jpg",
+      "order": 6
+    },
+    {
+      "id": "b8009ff1-6a34-4ad6-b153-3bd1fd33da32",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbPersonId": 1469990,
+      "name": "Summer Meng",
+      "character": "Goddess",
+      "profilePath": "/5t1Wwaq4nP6sObeeKWxzIQmh5Hw.jpg",
+      "order": 7
+    },
+    {
+      "id": "0b2c71ac-0505-4be2-aac7-28de500f3ca0",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbPersonId": 2412089,
+      "name": "Tseng Jing-hua",
+      "character": "Jie",
+      "profilePath": "/n0EZvptjlTlI7sCtaW27jMthkeA.jpg",
+      "order": 8
+    },
+    {
+      "id": "3feee662-16ec-49c9-a5f4-409acd4b1e30",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbPersonId": 2680261,
+      "name": "Chloe Xiang",
+      "character": "Yu",
+      "profilePath": "/zwvYuI3oqa8ii72RX9k9I0pGtDB.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "e37d5e79-b5d9-4475-ac4d-66e55e10079d",
+      "tvSeriesId": "b396d343-0d41-4ca4-90a5-ce4bf54e1770",
+      "tmdbId": 148035,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/rVaNlykTkQvJepWo87nJxf2xISq.jpg",
+      "airDate": "2020-05-10",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-08-18T07:14:02.618Z",
+      "updatedAt": "2026-08-18T07:15:45.584Z"
+    }
+  ]
+}

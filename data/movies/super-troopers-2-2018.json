@@ -1,0 +1,399 @@
+{
+  "slug": "super-troopers-2-2018",
+  "id": "0a404349-33d3-460e-899e-485ddb9e44c1",
+  "tmdbId": 50022,
+  "imdbId": "tt0859635",
+  "title": "Super Troopers 2",
+  "originalTitle": "Super Troopers 2",
+  "overview": "When an international border dispute arises between the U.S. and Canada, the Super Troopers- Mac, Thorny, Foster, Rabbit and Farva, are called in to set up a new Highway Patrol station in the disputed area.",
+  "tagline": "The mustache rides. Again.",
+  "posterPath": "/57SZgdugVClIy22rfnANeBJ5KsN.jpg",
+  "backdropPath": "/sMJqDtLCdv9nlgU8BCj4VFfyzAv.jpg",
+  "logoPath": "/tTgiM7Dt83ldJ0dEboWvyrWBTS9.png",
+  "backdrops": [
+    "/sMJqDtLCdv9nlgU8BCj4VFfyzAv.jpg",
+    "/zwWc8r2EFdx6Ws01lfiDNn6YnkE.jpg",
+    "/lXtS4sFvOtwnFBiezzJvOMC7b9W.jpg",
+    "/cvkNLe9JXUw9VrXzXEEjP27YvAB.jpg",
+    "/j7auECOxDGF0WRtHzrdQnjfwk9z.jpg",
+    "/ovokoVSB5tL2nVHS3lWs2ZebzXR.jpg",
+    "/bm3oca8z0dL55DQ7qbwueXIxzKj.jpg",
+    "/wWsTV7KOp2hA6Rwzb8WxxSKSeYI.jpg",
+    "/vEoGAmceRykyYBcaIp0kuvGL98n.jpg",
+    "/v9N8AxyHf9crA9Iza9fF5ntPJFj.jpg"
+  ],
+  "releaseDate": "2018-04-19",
+  "runtime": 99,
+  "voteAverage": "5.90",
+  "popularity": null,
+  "popularityScore": 11,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=eEed-o8fVpM",
+  "quality": "WEB-DL",
+  "director": "Jay Chandrasekhar",
+  "directorTmdbId": 52049,
+  "directorProfilePath": "/kPBrBwm6BzUZhYPzdYcRwMPkgPf.jpg",
+  "productionCompanies": [
+    {
+      "id": 2773,
+      "name": "Broken Lizard Industries",
+      "logo_path": "/ubyU2v6XcREGwyeieqdcxvZzvKc.png"
+    },
+    {
+      "id": 52948,
+      "name": "Cataland Films",
+      "logo_path": null
+    },
+    {
+      "id": 106322,
+      "name": "Needle's Eye Productions",
+      "logo_path": null
+    },
+    {
+      "id": 43,
+      "name": "Fox Searchlight Pictures",
+      "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6149,
+      "name": "police"
+    },
+    {
+      "id": 8015,
+      "name": "cop"
+    },
+    {
+      "id": 9663,
+      "name": "sequel"
+    },
+    {
+      "id": 179430,
+      "name": "aftercreditsstinger"
+    },
+    {
+      "id": 179431,
+      "name": "duringcreditsstinger"
+    },
+    {
+      "id": 190888,
+      "name": "highway patrol"
+    },
+    {
+      "id": 200500,
+      "name": "comedy troupe"
+    },
+    {
+      "id": 226825,
+      "name": "shenanigans"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1500,
+  "watchlistCount": 6,
+  "favouriteCount": 1,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-24T19:16:09.711Z",
+  "updatedAt": "2026-09-24T19:20:48.840Z",
+  "genres": [
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "196a774f-83b0-4950-ba8f-5ccffdc5e8f0",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 52049,
+      "name": "Jay Chandrasekhar",
+      "character": "Thorny",
+      "profilePath": "/kPBrBwm6BzUZhYPzdYcRwMPkgPf.jpg",
+      "order": 0
+    },
+    {
+      "id": "1401a7b9-b763-421c-9995-cb96f3046d4c",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 56251,
+      "name": "Kevin Heffernan",
+      "character": "Farva",
+      "profilePath": "/2FgG3oPF1A7d6W4KaNNZV7kJ83g.jpg",
+      "order": 1
+    },
+    {
+      "id": "442adc02-9dcd-40f0-a6d6-be479b8af4cf",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 52051,
+      "name": "Steve Lemme",
+      "character": "Mac",
+      "profilePath": "/iQnIsjeUA34B2w4EuM8mR1TglJZ.jpg",
+      "order": 2
+    },
+    {
+      "id": "8491241a-7097-4772-aa31-6182dcbfd2ff",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 56253,
+      "name": "Paul Soter",
+      "character": "Foster",
+      "profilePath": "/avsOygcEmFUB5INWGoexgaTJ2u0.jpg",
+      "order": 3
+    },
+    {
+      "id": "813c2d0a-4dc1-477e-9b86-ccbf82dfd3dd",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 56252,
+      "name": "Erik Stolhanske",
+      "character": "Rabbit",
+      "profilePath": "/eVMov7majKwNO8eOMcwweaAnBJj.jpg",
+      "order": 4
+    },
+    {
+      "id": "e834898c-9185-4f25-9cd8-cf209d61b7e7",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 44935,
+      "name": "Lynda Carter",
+      "character": "Governor Jessman",
+      "profilePath": "/qZJgjBKEL4ioZywSGzYzxldEAvf.jpg",
+      "order": 5
+    },
+    {
+      "id": "db0e9c97-1b20-44f3-a727-3b97f5c0f2cb",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 59192,
+      "name": "Emmanuelle Chriqui",
+      "character": "Genevieve Aubois",
+      "profilePath": "/5ll30bFOYMlIucGNrqWQ4bAA14U.jpg",
+      "order": 6
+    },
+    {
+      "id": "df75c20c-bee0-4b71-b2d9-8ca519a1ff33",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 56595,
+      "name": "Marisa Coughlan",
+      "character": "Ursula",
+      "profilePath": "/m6bzAs1IRRqWZjlVI01JeBUDL9u.jpg",
+      "order": 7
+    },
+    {
+      "id": "43257112-703b-4746-9405-63927472167e",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 51383,
+      "name": "Tyler Labine",
+      "character": "Mountie Bellefuille",
+      "profilePath": "/uTg5k0mflhBju9Q1tOYmYDzdBu6.jpg",
+      "order": 8
+    },
+    {
+      "id": "14e96a6e-2dd2-4951-a57b-940daf36894f",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 74930,
+      "name": "Hayes MacArthur",
+      "character": "Mountie Podien",
+      "profilePath": "/h34sUP8iKK2tGo2swK8muHjEsHA.jpg",
+      "order": 9
+    },
+    {
+      "id": "11593899-3d0b-4201-8e20-77d4d89b5039",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 39125,
+      "name": "Will Sasso",
+      "character": "Mountie Archambault",
+      "profilePath": "/4F8p9Dg32WJl12ras7CzQzLFy2i.jpg",
+      "order": 10
+    },
+    {
+      "id": "0cd58743-f729-4839-92c5-c8555c63614d",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 2879,
+      "name": "Rob Lowe",
+      "character": "Guy LeFranc",
+      "profilePath": "/uY0u865QqHqT0YBtwdBXFfVI6Hr.jpg",
+      "order": 11
+    },
+    {
+      "id": "676a767d-0a2a-4913-a9a5-7314a5915a57",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 1248,
+      "name": "Brian Cox",
+      "character": "Captain O'Hagan",
+      "profilePath": "/scSjbFCTRngXlkJRoKptM5kQGw7.jpg",
+      "order": 12
+    },
+    {
+      "id": "181010f4-06ca-4c50-a11c-214c08e24cf2",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 57599,
+      "name": "Seann William Scott",
+      "character": "Trooper Callaghan",
+      "profilePath": "/AftiUFP4rYcl3SG3xllxyiLiuXS.jpg",
+      "order": 13
+    },
+    {
+      "id": "08728ade-22bf-4f42-862f-daa0cba77118",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 5365,
+      "name": "Clifton Collins Jr.",
+      "character": "Bus Driver",
+      "profilePath": "/xfD0scqaPvAxKCPHYLo8553Le5g.jpg",
+      "order": 14
+    },
+    {
+      "id": "888a7510-1d5c-49ea-b7cb-a045ef27cc70",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 87822,
+      "name": "Damon Wayans Jr.",
+      "character": "Trooper Wagner",
+      "profilePath": "/f6gNg71Js9XqCiXUtyFyXXbJ9ni.jpg",
+      "order": 15
+    },
+    {
+      "id": "3d1fbb69-088b-415e-b991-67ecdf8cb86e",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 73499,
+      "name": "Bruce McCulloch",
+      "character": "Border Patrol Charles Lloyd",
+      "profilePath": "/mknOQPuT4PTA5Qjxz4xx95krkwR.jpg",
+      "order": 16
+    },
+    {
+      "id": "51b0c076-48ba-4cb8-a0f5-99227b525122",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 3257312,
+      "name": "Marcel Laverdet",
+      "character": "Bartender",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "86c3259d-d062-4549-ab41-e449ed7957e6",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 2154073,
+      "name": "Liliane Klein",
+      "character": "Crowd Member 1",
+      "profilePath": "/tiquXI8zDq5G00touIU62W2eyB0.jpg",
+      "order": 18
+    },
+    {
+      "id": "dbc2943c-6f5a-4261-a10a-067f8a728109",
+      "movieId": "0a404349-33d3-460e-899e-485ddb9e44c1",
+      "tmdbPersonId": 2486456,
+      "name": "Chet Harding",
+      "character": "Crowd Member 2",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

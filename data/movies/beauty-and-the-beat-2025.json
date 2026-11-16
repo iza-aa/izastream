@@ -1,0 +1,343 @@
+{
+  "slug": "beauty-and-the-beat-2025",
+  "id": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+  "tmdbId": 1318642,
+  "imdbId": "tt39045344",
+  "title": "Beauty and the Beat",
+  "originalTitle": "ดีว่า..ราวี",
+  "overview": "Imagine the excitement when four rival divas are brought together to perform on the same stage. But remember, when two ride on a horse, one must sit behind. So, how will these four divas share the spotlight without chaos?",
+  "tagline": "Battle for the limelight, grab the mic, and burn the stage!",
+  "posterPath": "/xEzFDo64EVJ3vGudBvZqfmjzXKm.jpg",
+  "backdropPath": "/jijKnQUI8CbK2J05zelxrSoYE7d.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/jijKnQUI8CbK2J05zelxrSoYE7d.jpg",
+    "/203pV6VCHUHPZV0oorarrltDlBz.jpg",
+    "/biTecMubjCEjGuTbnZCqb5oNZ9C.jpg",
+    "/8xKtsrLkCFGKrPUsxmIdEDf08n6.jpg"
+  ],
+  "releaseDate": "2025-12-10",
+  "runtime": 125,
+  "voteAverage": "4.00",
+  "popularity": "2.355",
+  "popularityScore": 31,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=zZDGj8-k30g",
+  "quality": "WEB-DL",
+  "director": "Kittiphak Thongauam",
+  "directorTmdbId": null,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 93758,
+      "name": "GDH 559",
+      "logo_path": "/g5TvAwkWnZyoZtVTpGo9eQT2EQ1.png"
+    },
+    {
+      "id": 283139,
+      "name": "Ittipata",
+      "logo_path": null
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 2605,
+  "watchlistCount": 17,
+  "favouriteCount": 5,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-04-09T05:40:29.364Z",
+  "updatedAt": "2026-04-09T05:40:54.574Z",
+  "genres": [
+    {
+      "id": "c47fe226-dcf1-40b9-a67f-9436f9d5c4d0",
+      "tmdbId": 10402,
+      "name": "Music",
+      "slug": "music",
+      "createdAt": "2026-04-02T13:49:06.045Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "dd54a123-95be-4fd4-be42-07608bc04064",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 1354528,
+      "name": "Jacqueline Muench",
+      "character": "Plaifun",
+      "profilePath": "/9JTyXfXlVgnwHcCabYYOnHfZkfQ.jpg",
+      "order": 0
+    },
+    {
+      "id": "8d60c4cc-fdf2-429d-b1bf-3d8574b63741",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 1768821,
+      "name": "Thongchai Thongkanthom",
+      "character": "Pitta P.",
+      "profilePath": "/gYQYDLZ0A3GaiIqiEx2rXxC8uet.jpg",
+      "order": 1
+    },
+    {
+      "id": "6a0ce2bf-69e1-4f69-9b81-43894d5176dc",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 4837702,
+      "name": "Ninew Phetdankaeo",
+      "character": "Laila",
+      "profilePath": "/m3SDAHmPczw9OKX6TjIb2GdrdNl.jpg",
+      "order": 2
+    },
+    {
+      "id": "4ee47eee-a162-4d93-8066-cfa0d4456faf",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 3321239,
+      "name": "Chawarin Perdpiriyawong",
+      "character": "Copter",
+      "profilePath": "/aT34Z3IIPaq8AbRji5F4k7h6UW3.jpg",
+      "order": 3
+    },
+    {
+      "id": "c72480c6-2bd8-4f5d-a5dc-9f385c28ffa5",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 1259522,
+      "name": "Nimit Luksameepong",
+      "character": "Kob",
+      "profilePath": "/cxzLsc8i8B5jr0Tz5dUZlP5u5Mj.jpg",
+      "order": 4
+    },
+    {
+      "id": "6e089c81-1ca1-4400-a3b4-309d32b600af",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 4523961,
+      "name": "Harit Buayoi",
+      "character": "Alex Kim",
+      "profilePath": "/5pYAiZYiW0a9MvNdXnrkTH9m0b.jpg",
+      "order": 5
+    },
+    {
+      "id": "b2983b6a-2554-40cc-886a-7aaf001d02f2",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 1768820,
+      "name": "Ratthanant Janyajirawong",
+      "character": "Alex Kim's Manager",
+      "profilePath": "/zsTLZagbcmwYFTubOAd6bQfkirP.jpg",
+      "order": 6
+    },
+    {
+      "id": "32c720f8-2ff9-4a7e-b7d8-d0f83cddd3a5",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 1260079,
+      "name": "Araya A. Hargate",
+      "character": "Cathy",
+      "profilePath": "/kAJ6luY9DFoGkYFezUUH3TV5Cn6.jpg",
+      "order": 7
+    },
+    {
+      "id": "8ff09994-1d8d-49a3-8c54-c369eb0817f9",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 5868418,
+      "name": "Hwanjeab Thanarat",
+      "character": "Second-Hand Luxury Brand Store Manager",
+      "profilePath": "/44K2HTbxV85hd3mg1i5iW7derts.jpg",
+      "order": 8
+    },
+    {
+      "id": "9b85c122-c718-4229-85e4-eb4b37907e20",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 5868421,
+      "name": "Chiraphat Ngamchawee",
+      "character": "Second-Hand Luxury Brand Store Staff",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "048f91ed-82b4-49c2-a155-56658fa0ba58",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 1284811,
+      "name": "Maneenuch Smerasut",
+      "character": "Ouan",
+      "profilePath": "/aYF39hiD2kgPt14Psn9rHuYZgD2.jpg",
+      "order": 10
+    },
+    {
+      "id": "5f89e5a7-b1c0-4e92-bdc8-983b73d374d8",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 5420244,
+      "name": "Charisar Oldham",
+      "character": "Young Plaifun",
+      "profilePath": "/kN4UQV5Sp2VfRgepqjF1Xc9WRO1.jpg",
+      "order": 11
+    },
+    {
+      "id": "f4826c93-6c5e-4b70-a7e2-d6e112bacb9b",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 3481842,
+      "name": "Yutthana Boonaom",
+      "character": "Pa-Ted",
+      "profilePath": "/6J1i2zIMzhwuBw4jHQw3JoFm5Yd.jpg",
+      "order": 12
+    },
+    {
+      "id": "37a04c81-ebdc-4407-b7d2-e5f41bb912ea",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 3576206,
+      "name": "Saowaluk Leelabut",
+      "character": "Amp",
+      "profilePath": "/nREj699opgWfmMLuaw0Ou2zD508.jpg",
+      "order": 13
+    },
+    {
+      "id": "fc6ba7c8-56c3-488b-a263-9b06dd34b746",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 111482,
+      "name": "Chantavit Dhanasevi",
+      "character": "Plaifun's Ex-boyfriend",
+      "profilePath": "/sfRXVNSXQIvj9ADVgvSfjQ1fuRs.jpg",
+      "order": 14
+    },
+    {
+      "id": "0d2d35e1-17d3-4fc7-9cf2-1de32c7b3e49",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 240856,
+      "name": "Tata Young",
+      "character": "Tata Young",
+      "profilePath": "/6PZOCw65LWYJgacHfWgsQBMZnn7.jpg",
+      "order": 15
+    },
+    {
+      "id": "c910ab68-03ae-48ad-9581-52b4df1f8849",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 1194688,
+      "name": "Kritsanapoom Pibulsonggram",
+      "character": "Lead Actor in Assa-Jor-Ror-Hun (So Magical)",
+      "profilePath": "/tnEJH2CAXwxdrhjtTN7FJcY475V.jpg",
+      "order": 16
+    },
+    {
+      "id": "98c27a2e-b4bf-4b1d-b5e3-1b3fd96f9c99",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 3619685,
+      "name": "Chawalit Simankhongtham",
+      "character": "DJ Chowchow",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "acd32b34-b8dd-476a-800f-2f7ff3809c14",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 5870451,
+      "name": "Rajada Jungwattanakit",
+      "character": "DJ Nan",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "24fe0ca3-7b94-470e-a1e1-7a5858ae0e4a",
+      "movieId": "eba4eae7-3548-43a3-8ec7-a8013b54f121",
+      "tmdbPersonId": 4685660,
+      "name": "Michaela Olivia Baker",
+      "character": "Kay Kai Weekly Model",
+      "profilePath": "/zikMABwnwdqGmYhB71UPhUMDrTb.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

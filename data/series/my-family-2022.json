@@ -1,0 +1,145 @@
+{
+  "slug": "my-family-2022",
+  "id": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+  "title": "My Family",
+  "overview": "Haruto Narusawa, the president of a video game company, enjoys life in the affluent seaside town of Kamakura with his wife and daughter, who attends an elementary school. However, tragedy befalls this happy family when his daughter is kidnapped. Haruto must now face numerous hardships as he navigates through the complex web of human nature that begins to show its ugliness. The only way to save his beloved daughter is to take matters into his own hands without the police's involvement and, together with his wife, stand against the kidnappers. Can this family's story reach a happy ending? Or will theirs be a tragedy? This non-stop family suspense-thriller tests the bonds of a family facing life's worst nightmare.",
+  "tagline": null,
+  "posterPath": "/xqj6fnrMlfiMjlq21JZ0muYLF3t.jpg",
+  "backdropPath": "/rVGWwYBuGLnaVbTIpnNE207PXVn.jpg",
+  "logoPath": "/szp0sg5DPaSZrlfiaySLopvtZ2c.png",
+  "firstAirDate": "2022-04-10",
+  "voteAverage": "6.10",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c0f29afb-5e8b-4602-aded-ec7ff9791761",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbPersonId": 33515,
+      "name": "Kazunari Ninomiya",
+      "character": "Haruto Narusawa",
+      "profilePath": "/4mxogZeEPZiVrnJ4L8ICvOJONfs.jpg",
+      "order": 0
+    },
+    {
+      "id": "5332ebd3-8460-4df7-b954-6ab1cbeb5d37",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbPersonId": 230119,
+      "name": "Mikako Tabe",
+      "character": "Michiru Narusawa",
+      "profilePath": "/iIgE63dKDe7La7EsPPhattlLu8M.jpg",
+      "order": 1
+    },
+    {
+      "id": "260227f0-0fad-419f-93ed-e17c44f83891",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbPersonId": 2621831,
+      "name": "Miyu Oshima",
+      "character": "Tomoka Narusawa",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "f46f083a-49fb-4b1f-9119-e2e38fcec804",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbPersonId": 1041465,
+      "name": "Kento Kaku",
+      "character": "Aoi Miwa",
+      "profilePath": "/1c7WZIRaQTUoKlD0LSDWB5n15X6.jpg",
+      "order": 3
+    },
+    {
+      "id": "23c71748-a652-4acd-8975-151fad5b195b",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbPersonId": 105403,
+      "name": "Gaku Hamada",
+      "character": "Itsuki Todo",
+      "profilePath": "/ynU2RcHBVbTX7aaXiaSKY7njvpx.jpg",
+      "order": 4
+    },
+    {
+      "id": "34f698f4-0d71-492c-985a-7b74b456aee9",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbPersonId": 1432261,
+      "name": "Kunito Watanabe",
+      "character": "Yusuke Bizen",
+      "profilePath": "/itr47lH7pC7d9FxxrGI0L2lUcuj.jpg",
+      "order": 5
+    },
+    {
+      "id": "98a2f2f8-2df5-40cf-909b-b9dc4354c9d5",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbPersonId": 3140423,
+      "name": "Sawako Fujima",
+      "character": "Aya Suzuki",
+      "profilePath": "/v69wYAQWwsCw6UoAXkepa8zrNRB.jpg",
+      "order": 6
+    },
+    {
+      "id": "6ed1bebe-8909-4e93-8f1a-33fc5c1a3a8c",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbPersonId": 117974,
+      "name": "Hiroshi Tamaki",
+      "character": "Keishi Katsuragi",
+      "profilePath": "/snJlBKor5R8a6jpHzAZH3TnvsCX.jpg",
+      "order": 7
+    },
+    {
+      "id": "28b88158-3ecb-4fe4-8a3a-556a39b75ff1",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbPersonId": 2071520,
+      "name": "Takaya Sakoda",
+      "character": "Nanahiko Kusakabe",
+      "profilePath": "/hxhZazaimDEdlZHnGdnV5rONeFM.jpg",
+      "order": 8
+    },
+    {
+      "id": "d25c0ad7-05d1-4b25-be51-696ac4ff9a35",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbPersonId": 1256851,
+      "name": "Maryjun Takahashi",
+      "character": "Kanako Tatewaki",
+      "profilePath": "/mgq9uq3KzssMX6gkg34ZvwSl75M.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "035eee07-0fa9-460d-a899-4d6f060b11e8",
+      "tvSeriesId": "5a2f6a7d-01b8-4d07-80a6-4bf4d83b3775",
+      "tmdbId": 284153,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xqj6fnrMlfiMjlq21JZ0muYLF3t.jpg",
+      "airDate": "2022-04-10",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-06T05:26:25.351Z",
+      "updatedAt": "2026-10-06T05:30:34.515Z"
+    }
+  ]
+}

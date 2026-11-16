@@ -1,0 +1,368 @@
+{
+  "slug": "the-young-karl-marx-2017",
+  "id": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+  "tmdbId": 400020,
+  "imdbId": "tt1699518",
+  "title": "The Young Karl Marx",
+  "originalTitle": "Le Jeune Karl Marx",
+  "overview": "26 year-old Karl Marx embarks with his wife, Jenny, on the road to exile. In 1844 in Paris, he meets Friedrich Engels, an industrialist’s son, who has been investigating the sordid birth of the British working class. Engels, the dandy, provides the last piece of the puzzle to the young Karl Marx’s new vision of the world. Together, between censorship and the police’s repression, riots and political upheavals, they will lead the labor movement during its development into a modern era.",
+  "tagline": null,
+  "posterPath": "/4VwBXiCzXKJyHfRdVBb843m23dx.jpg",
+  "backdropPath": "/uJSuJ4eocpofYc6LjEJ7G3vgbfS.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/uJSuJ4eocpofYc6LjEJ7G3vgbfS.jpg",
+    "/uckUoRartDQYpsP208EaNKE8HqH.jpg",
+    "/2PXxCVbw1uqii5mP6j2pBhm7BVT.jpg",
+    "/2qEQ58kh0CVUzZ0YLJGNQ2lGBnz.jpg",
+    "/hkb0bU2yZHDW0IDJrX7SooMG8df.jpg",
+    "/sglp4nLkkGcASpP5Z9g7FK3ew7R.jpg",
+    "/emgiCT49DfrIgK8CDifmGqpca0M.jpg",
+    "/an6JKEaeD8yAbgH4Fr45CHurmRw.jpg",
+    "/aJ3bnZUmsBTcuyFZWbu2o7LGia5.jpg",
+    "/zfcbrJGwkwZcUBsRwPXtvCRoSFD.jpg"
+  ],
+  "releaseDate": "2017-03-02",
+  "runtime": 118,
+  "voteAverage": "6.83",
+  "popularity": null,
+  "popularityScore": 105,
+  "originalLanguage": "fr",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=qssSV56-wO8",
+  "quality": "BLU-RAY",
+  "director": "Raoul Peck",
+  "directorTmdbId": 40312,
+  "directorProfilePath": "/6i2uGJwj2oNXLEj2FUOmg8sw1ME.jpg",
+  "productionCompanies": [
+    {
+      "id": 18485,
+      "name": "Rohfilm",
+      "logo_path": "/q49Qk6zMyhWVjowLXlpoboONqHx.png"
+    },
+    {
+      "id": 1793,
+      "name": "Velvet Film",
+      "logo_path": "/4Di06ZidIRHgw7bkddnIWEuxxXl.png"
+    },
+    {
+      "id": 11773,
+      "name": "Artémis Productions",
+      "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png"
+    },
+    {
+      "id": 207,
+      "name": "Agat Films & Cie / Ex Nihilo",
+      "logo_path": "/uskenzq65wJe0cT0D8StQI3hJnO.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5565,
+      "name": "biography"
+    },
+    {
+      "id": 7025,
+      "name": "industrial revolution"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 6081,
+  "watchlistCount": 87,
+  "favouriteCount": 20,
+  "shareCount": 38,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-07T19:39:15.778Z",
+  "updatedAt": "2026-09-07T19:39:46.133Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+      "tmdbId": 36,
+      "name": "History",
+      "slug": "history",
+      "createdAt": "2026-04-02T13:49:17.126Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7714a89f-ffb5-4222-9e9d-5f8ca662bf36",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 6091,
+      "name": "August Diehl",
+      "character": "Karl Marx",
+      "profilePath": "/vPgSp2s8hdjuHJxEcXEZ4HLsIua.jpg",
+      "order": 0
+    },
+    {
+      "id": "ad6ce292-7b35-4f04-b55d-4830d7bb8f68",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 48480,
+      "name": "Stefan Konarske",
+      "character": "Friedrich Engels",
+      "profilePath": "/c4cgLwx3vfqbJ73xIBZoyz5ddXV.jpg",
+      "order": 1
+    },
+    {
+      "id": "06fc70ab-ade5-4b19-8581-eb0134d40b7e",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 1080195,
+      "name": "Vicky Krieps",
+      "character": "Jenny von Westphalen",
+      "profilePath": "/9laK3w40qBnE5UY41wJfnUAYMmC.jpg",
+      "order": 2
+    },
+    {
+      "id": "11f8dac0-3442-42a2-988f-243bc08bb8f5",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 45152,
+      "name": "Olivier Gourmet",
+      "character": "Pierre Proudhon",
+      "profilePath": "/dxylGdqFfe6WiXaZGZnFTfvyyZm.jpg",
+      "order": 3
+    },
+    {
+      "id": "c45654e3-3ab2-4399-8753-cd0030d1baa1",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 1593457,
+      "name": "Hannah Steele",
+      "character": "Mary Burns",
+      "profilePath": "/pTgRM40XMqVUEwU8lzYr5ViRB5i.jpg",
+      "order": 4
+    },
+    {
+      "id": "6b952048-9df4-43e0-9da7-e59b06b5c098",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 8801,
+      "name": "Rolf Kanies",
+      "character": "Moses Hess",
+      "profilePath": "/wX6KscOnIT0zILwQyRBYVUwm4l9.jpg",
+      "order": 5
+    },
+    {
+      "id": "342c433e-e44b-423a-bfa3-a9c88f233ea4",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 46216,
+      "name": "Niels-Bruno Schmidt",
+      "character": "Karl Grün",
+      "profilePath": "/rsb1NiWWDEdFqFgLbgq5CiAOwmB.jpg",
+      "order": 6
+    },
+    {
+      "id": "c2b4f9a4-6106-4bbe-afd1-0c82c72e188b",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 16811,
+      "name": "Alexander Scheer",
+      "character": "Wilhelm Weitling",
+      "profilePath": "/z5t37qxBzEGyRprD8TWFbNbolOP.jpg",
+      "order": 7
+    },
+    {
+      "id": "19068513-7eeb-4bbc-a3cf-2d93dcc0a1b6",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 1851217,
+      "name": "Marie Meinzenbach",
+      "character": "Lenchen",
+      "profilePath": "/6AFOGx9PEipVkq6HNyWUyTXv6Tq.jpg",
+      "order": 8
+    },
+    {
+      "id": "11fd8dba-c348-4175-bd0f-25086de3cca9",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 8200,
+      "name": "Hans-Uwe Bauer",
+      "character": "Arnold Ruge",
+      "profilePath": "/a5PUuPPOmYElTHcd0GsvZlQ7KjO.jpg",
+      "order": 9
+    },
+    {
+      "id": "39f55c8a-cbc8-4495-8a7c-a781d87d18e3",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 1800324,
+      "name": "Wiebke Adam-Schwarz",
+      "character": "Mme Ruge",
+      "profilePath": "/t0iAZnl552710RAyJSV0kjsM4Xe.jpg",
+      "order": 10
+    },
+    {
+      "id": "12036807-fb8e-42db-a4f4-d9f690e5c321",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 1106227,
+      "name": "Aran Bertetto",
+      "character": "Paddy",
+      "profilePath": "/6DEtq2trtC76L3iGLLipOTP4eiy.jpg",
+      "order": 11
+    },
+    {
+      "id": "fb97296e-902d-404b-8a56-71feef02acdb",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 1449964,
+      "name": "Ulrich Brandhoff",
+      "character": "Herrmann Kriege",
+      "profilePath": "/j5zKBLKGM9C42Pgv86AvMKEq58J.jpg",
+      "order": 12
+    },
+    {
+      "id": "02d54c1c-0e0e-42a3-8f3a-af09708167e5",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 35116,
+      "name": "Ivan Franěk",
+      "character": "Bakunin",
+      "profilePath": "/lzv69BsRg5dc83q5bLntXHEaEJo.jpg",
+      "order": 13
+    },
+    {
+      "id": "0ac706d8-a95b-48f3-8379-4804efa2d4aa",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 147634,
+      "name": "Peter Benedict",
+      "character": "Friedrich Engels sen.",
+      "profilePath": "/wrz9Ig5Us5lXJJzhOuM3WetSZRq.jpg",
+      "order": 14
+    },
+    {
+      "id": "9b29832e-e586-4c8e-ac42-8d962b5a3dfc",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 145299,
+      "name": "Éric Godon",
+      "character": "The foreman",
+      "profilePath": "/1Wx4gUEVUexDJ80PzX8dyYXrEQc.jpg",
+      "order": 15
+    },
+    {
+      "id": "9ef64bd0-059c-41a5-a1e4-7627255f758d",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 76415,
+      "name": "Stephen Hogan",
+      "character": "Thomas Naylor",
+      "profilePath": "/wLmVf0LGfYsgH5PNDxRGO7MlzwK.jpg",
+      "order": 16
+    },
+    {
+      "id": "e2ff61a9-009e-4958-9ea2-e5ef75cdb60a",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 1851218,
+      "name": "Inga R. Kammerer",
+      "character": "Old woman",
+      "profilePath": "/1ePFM4K2TJMlxCgLuCijGsXt4iu.jpg",
+      "order": 17
+    },
+    {
+      "id": "40ea3095-2430-45bf-a557-970e214e103c",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 1851219,
+      "name": "Annabelle Lewiston",
+      "character": "Lizzy Burns",
+      "profilePath": "/eBWXJZtttiikaN2YQ5Zr0eIKUyj.jpg",
+      "order": 18
+    },
+    {
+      "id": "6d2b5198-7a77-480c-8186-9114614a4a1c",
+      "movieId": "dc5230c6-567c-4afa-9b20-ca6ff139ce1e",
+      "tmdbPersonId": 1439078,
+      "name": "Denis Lyons",
+      "character": "James",
+      "profilePath": "/7BjkR5Y90UNHvCe8QhRxn0d5sgA.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

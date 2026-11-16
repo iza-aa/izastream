@@ -1,0 +1,145 @@
+{
+  "slug": "take-charge-of-my-heart-2026",
+  "id": "32b47770-fed5-4579-a89a-af13a98c92ac",
+  "title": "Take Charge of My Heart",
+  "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+  "tagline": "Charged by touch, drained by distance, shocked by love!",
+  "posterPath": "/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+  "backdropPath": "/cHO75BxLM6sz7NsiVyaBmkKnmgg.jpg",
+  "logoPath": "/gkBFyWEjj9iJgwLVGZkxZ7Lh2fu.png",
+  "firstAirDate": "2026-10-09",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "322cb5f1-5937-4f7d-988a-4bf03201e5a7",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbPersonId": 1255413,
+      "name": "Kim Young-kwang",
+      "character": "Baek Ho-rang",
+      "profilePath": "/z7tQSbWHEfXeWMYHNNDGXW9Idfl.jpg",
+      "order": 0
+    },
+    {
+      "id": "4b0d8497-3655-4e5f-9ff0-66453d87bdbc",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbPersonId": 1466233,
+      "name": "Chae Soo-bin",
+      "character": "Na Bo-bae",
+      "profilePath": "/uHVJPhxn9b9tHK30KTxQpdGIs9K.jpg",
+      "order": 1
+    },
+    {
+      "id": "c6e87b85-031f-40a9-b3c1-90a5ee57dd84",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbPersonId": 3186373,
+      "name": "Cha Woo-min",
+      "character": "Ji Eun-ho",
+      "profilePath": "/z8Lz0Opnl4i7Aj8b7jC4qYP01xJ.jpg",
+      "order": 2
+    },
+    {
+      "id": "7e004c84-31b9-4920-b061-430f2812357b",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbPersonId": 2298157,
+      "name": "Jeong Jae-kwang",
+      "character": "Choi Do-yoon",
+      "profilePath": "/5TyczjMUmZUnJD7AmSYiFeWWcwi.jpg",
+      "order": 3
+    },
+    {
+      "id": "e14cfa53-0668-4ec9-928e-4e3df4232f94",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbPersonId": 1992300,
+      "name": "Shin Do-hyun",
+      "character": "Han Seol-hui",
+      "profilePath": "/sysicgtUyGre7xnwBpLrSel6QRf.jpg",
+      "order": 4
+    },
+    {
+      "id": "17ec3542-540c-4eda-9322-42d39a1fb5e1",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbPersonId": 1332468,
+      "name": "Heo Dong-won",
+      "character": "Yoon Jae-ho",
+      "profilePath": "/eq2C51s3oDjN7bjjblozl7WGDTL.jpg",
+      "order": 5
+    },
+    {
+      "id": "f3d5c716-3315-4a3d-b21c-94c01a07acd0",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbPersonId": 587632,
+      "name": "Kim Mi-kyung",
+      "character": "Gong Man-seol",
+      "profilePath": "/bJLkarteB2O0duu5ABvM5QFRuax.jpg",
+      "order": 6
+    },
+    {
+      "id": "b711647c-5dae-4d31-bfd7-e84d200fc35c",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbPersonId": 2156750,
+      "name": "Yang Hyun-min",
+      "character": "Yeom Min-gyu",
+      "profilePath": "/oe86yF19CQ9EVuJVkVhtWTFgdZ0.jpg",
+      "order": 7
+    },
+    {
+      "id": "1c222832-eaa7-4383-bcb8-021868e303ed",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbPersonId": 4171741,
+      "name": "Kim Ah-young",
+      "character": "Jo Seo-jeong",
+      "profilePath": "/mIRYdYJMUMtfBrIjH0l4va6dJHz.jpg",
+      "order": 8
+    },
+    {
+      "id": "46f9e58e-b84f-4339-91b8-078b3151431b",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbPersonId": 2288847,
+      "name": "Gong Min-jeung",
+      "character": "Na Ji-hye",
+      "profilePath": "/wkUiwCHq2Z2h4A7JDlhjrVGQiCk.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "0851040b-bc44-4b56-ae8e-27d98069189d",
+      "tvSeriesId": "32b47770-fed5-4579-a89a-af13a98c92ac",
+      "tmdbId": 452643,
+      "seasonNumber": 1,
+      "name": "Limited Series",
+      "overview": "",
+      "posterPath": "/2p8q8US7FfwxuuR5ymQElboZzr8.jpg",
+      "airDate": "2026-10-09",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-09T16:13:52.643Z",
+      "updatedAt": "2026-10-09T16:15:02.699Z"
+    }
+  ]
+}

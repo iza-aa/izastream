@@ -1,0 +1,383 @@
+{
+  "slug": "tenzing-2026",
+  "id": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+  "tmdbId": 1288069,
+  "imdbId": "tt6262770",
+  "title": "Tenzing",
+  "originalTitle": "Tenzing",
+  "overview": "A determined man embarks on a high-stakes quest—and defies seemingly impossible odds—to fulfill his dream of being the first to reach the summit of Mount Everest.",
+  "tagline": "The ascent that made history.",
+  "posterPath": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
+  "backdropPath": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+  "logoPath": "/oGcjxm8gwgOgRvZ5TAsrCiwdLoS.png",
+  "backdrops": [
+    "/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+    "/j3iPJSwIn8MDdtmmqjYhrLGnMK4.jpg",
+    "/5BHjIppUPxVGuYqLI2Wkh5BBkGv.jpg",
+    "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+    "/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
+    "/57y3cRE0XVI6oWqakiKILSHsULH.jpg",
+    "/aJpXl3uDZeyHoMBZVGZZz97L5wB.jpg",
+    "/l1yvjlmdDugHYXlVIn9Lw7YHPpm.jpg",
+    "/if58rzksQrSy3aY2RoAFEek8UL0.jpg",
+    "/hUyYZBlNTVGOg2AIEqgCEST6WxE.jpg"
+  ],
+  "releaseDate": "2026-10-09",
+  "runtime": 126,
+  "voteAverage": "8.00",
+  "popularity": null,
+  "popularityScore": 885,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=KkYCY5YR12U",
+  "quality": "WEB-DL",
+  "director": "Jennifer Peedom",
+  "directorTmdbId": 114335,
+  "directorProfilePath": "/dss8HFn8K3UA5GXT9YfjBASR9Ee.jpg",
+  "productionCompanies": [
+    {
+      "id": 159766,
+      "name": "Cross City Films",
+      "logo_path": "/A6yBN3mIr9S0tOtahRCx8rJtwuY.png"
+    },
+    {
+      "id": 7217,
+      "name": "See-Saw Films",
+      "logo_path": "/vFbexaF70wSMUHRA6Fy6UcuA1ju.png"
+    },
+    {
+      "id": 194232,
+      "name": "Apple Studios",
+      "logo_path": "/oE7H93u8sy5vvW5EH3fpCp68vvB.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 485,
+      "name": "nepal"
+    },
+    {
+      "id": 9672,
+      "name": "based on true story"
+    },
+    {
+      "id": 160177,
+      "name": "mountaineering"
+    },
+    {
+      "id": 192779,
+      "name": "mount everest"
+    },
+    {
+      "id": 208611,
+      "name": "1950s"
+    },
+    {
+      "id": 239821,
+      "name": "man vs nature"
+    },
+    {
+      "id": 366059,
+      "name": "making history"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 15014,
+  "watchlistCount": 130,
+  "favouriteCount": 51,
+  "shareCount": 12,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-17T17:19:17.844Z",
+  "updatedAt": "2026-10-19T06:36:29.583Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "5edf1169-1863-4085-a9db-58ab02bee8be",
+      "tmdbId": 36,
+      "name": "History",
+      "slug": "history",
+      "createdAt": "2026-04-02T13:49:17.126Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4890bc6e-9049-4184-b39f-b631205ec7e1",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 2091969,
+      "name": "Genden Phuntsok",
+      "character": "Tenzing Norgay",
+      "profilePath": "/2xsreNBuPpBZYJTlpuTapi2ZvP.jpg",
+      "order": 0
+    },
+    {
+      "id": "f35d094f-eb1b-40c7-8e04-44da812c016b",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 91606,
+      "name": "Tom Hiddleston",
+      "character": "Ed Hillary",
+      "profilePath": "/mclHxMm8aPlCPKptP67257F5GPo.jpg",
+      "order": 1
+    },
+    {
+      "id": "10f837ea-c890-4204-a714-f2bde8de1cd5",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 5293,
+      "name": "Willem Dafoe",
+      "character": "John Hunt",
+      "profilePath": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+      "order": 2
+    },
+    {
+      "id": "c8274191-5003-4e8f-887e-971fa9cad5f5",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 6553324,
+      "name": "Samdrup Dorje Lama",
+      "character": "Boy Tenzing (9 Yrs)",
+      "profilePath": null,
+      "order": 3
+    },
+    {
+      "id": "eca7b84f-9771-4096-82a0-b8f6116360df",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 6553325,
+      "name": "Bhuchung Kata",
+      "character": "Sherpa",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "34f63da9-f6f6-45b2-b85f-cd84ae977aee",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 137108,
+      "name": "Johnny Flynn",
+      "character": "George Mallory",
+      "profilePath": "/tS3HIDFJbD8uSLAvaxZfrPc3aM0.jpg",
+      "order": 5
+    },
+    {
+      "id": "be2db8ac-6c6e-4aa2-afc7-5876fdcd17bd",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 14594,
+      "name": "Lhakpa Tsamchoe",
+      "character": "Kinzom",
+      "profilePath": "/kiodZp3zbkgHEIGfmXQDAug1V57.jpg",
+      "order": 6
+    },
+    {
+      "id": "fcd44ed9-0500-467d-bc42-ceb098b1a9e5",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 53621,
+      "name": "Jampa Kalsang Tamang",
+      "character": "Mingma",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "fdf2c295-dd4d-44e2-9d5e-649f515b5537",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 1046233,
+      "name": "Elizabeth Blackmore",
+      "character": "Mrs Ingram",
+      "profilePath": "/8IFEnd9hBbrQOleqTvjyuTlfQXu.jpg",
+      "order": 8
+    },
+    {
+      "id": "588a84c5-8f57-4231-ad03-33e4c5bde562",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 1371801,
+      "name": "Brandon McClelland",
+      "character": "Mr Ingram",
+      "profilePath": "/cYZ3Sk95h3FzSwVm4MqF6AtDC32.jpg",
+      "order": 9
+    },
+    {
+      "id": "291aa5da-c624-4a91-82cb-367bbcafbc72",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 147056,
+      "name": "Caitríona Balfe",
+      "character": "Jill Henderson",
+      "profilePath": "/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg",
+      "order": 10
+    },
+    {
+      "id": "741e6f5e-a312-499e-ad5f-399a8ec1cb91",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 1945900,
+      "name": "Thinley Lhamo",
+      "character": "Young Dawa (19–25 Yrs)",
+      "profilePath": "/3GKt64WBoYR7qGPhRxtatfelGYd.jpg",
+      "order": 11
+    },
+    {
+      "id": "7434bfbe-af2d-424e-b285-fd815b32782c",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 2116932,
+      "name": "Tenzing Dalha",
+      "character": "Young Tenzing (19–25 Yrs)",
+      "profilePath": "/73C5LeD05D4ElTb4h8PY5zzBBdn.jpg",
+      "order": 12
+    },
+    {
+      "id": "a72b68e4-2dc9-40a5-b1b2-e854f8bbc40f",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 5510502,
+      "name": "Tsering Choden",
+      "character": "Ang Lhamu",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "185dec1f-4353-4fae-ad7c-8267e015b12b",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 6553915,
+      "name": "Kyipu Bhuti",
+      "character": "Pem Pem (13 Yrs)",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "2a77cfe8-a78b-48a3-a55f-6a66ff439ad3",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 6553917,
+      "name": "Pasang Bhuti Lama",
+      "character": "Nima (11 Yrs)",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "18623022-3d85-4916-8706-86037d88fa34",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 6553918,
+      "name": "Palgen Gurung",
+      "character": "Landlord",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "44e4c87b-0059-41f8-8fa2-b773496d998b",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 1900603,
+      "name": "Tsering Dorjee Bawa",
+      "character": "Rinpoche",
+      "profilePath": "/gqtAgulrhhThEPSQJwfzYgdTFAH.jpg",
+      "order": 17
+    },
+    {
+      "id": "92358b00-e2a1-4ff9-a5c7-197e960f0d84",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 3155686,
+      "name": "Dhondup Tsering",
+      "character": "Thondup",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "fb32731d-bb30-4a62-8f32-8f49145271a5",
+      "movieId": "e50789c0-6b1a-48da-89d8-8a4c7a921051",
+      "tmdbPersonId": 6553924,
+      "name": "Niam Namgyal Sherpa",
+      "character": "Balu",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

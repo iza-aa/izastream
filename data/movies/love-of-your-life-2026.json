@@ -1,0 +1,366 @@
+{
+  "slug": "love-of-your-life-2026",
+  "id": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+  "tmdbId": 1381078,
+  "imdbId": "tt34384900",
+  "title": "Love of Your Life",
+  "originalTitle": "Love of Your Life",
+  "overview": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again.",
+  "tagline": null,
+  "posterPath": "/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
+  "backdropPath": "/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+  "logoPath": "/uhuoKyXfPZgzWdHhvC27VfdzUT.png",
+  "backdrops": [
+    "/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+    "/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+    "/79GJ5BmbjCfoWnRGEcg42QPSdQf.jpg",
+    "/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
+    "/mTUWpyf15tLs4YLvy3nirbn6xA9.jpg",
+    "/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+    "/7RrnaX9AkAXxCVE6PpxIfbcVVBC.jpg",
+    "/xWmWfmMCRvVyv7I8fYcB7m7boCi.jpg",
+    "/ll4TuykDPK3Hm0J2tlmFdTaPdLu.jpg",
+    "/fJ8fOAH9sjQiCejADWYQXyWWqy3.jpg"
+  ],
+  "releaseDate": "2026-10-07",
+  "runtime": 109,
+  "voteAverage": "6.30",
+  "popularity": null,
+  "popularityScore": 1622,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=HzGx48E64Xg",
+  "quality": "WEB-DL",
+  "director": "Rachel Morrison",
+  "directorTmdbId": 984113,
+  "directorProfilePath": "/2R9ZCyNQzFlQXzxLodefPawisGn.jpg",
+  "productionCompanies": [
+    {
+      "id": 210099,
+      "name": "Amazon MGM Studios",
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+      "id": 232193,
+      "name": "Open Invite Entertainment",
+      "logo_path": "/87yLRX32cLqxEhNy1fWkDrPL72v.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 697,
+      "name": "loss of loved one"
+    },
+    {
+      "id": 223267,
+      "name": "moving on"
+    },
+    {
+      "id": 255668,
+      "name": "personal journey"
+    },
+    {
+      "id": 285623,
+      "name": "loss of husband"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 22166,
+  "watchlistCount": 209,
+  "favouriteCount": 51,
+  "shareCount": 12,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-15T20:18:40.737Z",
+  "updatedAt": "2026-10-15T20:19:18.646Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d5e997cc-5bbc-43b0-8d13-c6e64a37f4f5",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 1392137,
+      "name": "Margaret Qualley",
+      "character": "Maya",
+      "profilePath": "/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg",
+      "order": 0
+    },
+    {
+      "id": "feb8771d-9324-4051-af08-e0bea2a70ff0",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 1763709,
+      "name": "Aaron Pierre",
+      "character": "Felix",
+      "profilePath": "/hNwZWdT2KxKj1YLbipvtUhNjfAp.jpg",
+      "order": 1
+    },
+    {
+      "id": "fced9a48-0b2c-4818-a37e-39b79aee24f3",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 1053422,
+      "name": "Patrick Schwarzenegger",
+      "character": "Jason",
+      "profilePath": "/jKbI0OpFMMz4SPCU1VoMHXIbA3Y.jpg",
+      "order": 2
+    },
+    {
+      "id": "461eef37-c043-4a06-90ed-a74ba388876e",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 222122,
+      "name": "Gabriel Basso",
+      "character": "Charlie",
+      "profilePath": "/6jHYQf6Y37BEouavp03WWpWpFyR.jpg",
+      "order": 3
+    },
+    {
+      "id": "044001fe-2cb9-4add-9194-eebe18d29c5c",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 2229,
+      "name": "Catherine Keener",
+      "character": "Ruth",
+      "profilePath": "/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg",
+      "order": 4
+    },
+    {
+      "id": "e292d2ce-c1ab-4d47-bf73-9de0f21163f9",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 1595457,
+      "name": "Tamara Lawrance",
+      "character": "Kali",
+      "profilePath": "/dxmaQIEhFVwOhU1f6vTV06CU2Jj.jpg",
+      "order": 5
+    },
+    {
+      "id": "4f0c40e2-d0b9-47d1-9334-10bd7f04bd4b",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 17199,
+      "name": "Corey Johnson",
+      "character": "Kerry",
+      "profilePath": "/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg",
+      "order": 6
+    },
+    {
+      "id": "d5e8699e-740e-45d8-a806-5c97ce4a2aca",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 1865075,
+      "name": "Michael Shelford",
+      "character": "Colin",
+      "profilePath": "/v3X5nAuS9IXf43OXU2Giz3Um4Sz.jpg",
+      "order": 7
+    },
+    {
+      "id": "6557b67b-990e-4ba0-9a12-d23e513d571b",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 4161214,
+      "name": "Adam Woodward",
+      "character": "Matt",
+      "profilePath": "/vzVxcLEg4MkYc133fxEouhHZkM9.jpg",
+      "order": 8
+    },
+    {
+      "id": "1f3a56be-54e6-4384-86d5-3559387bb709",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 6394792,
+      "name": "Gayané Kaligian",
+      "character": "Armenian Family Member",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "8911776a-ac42-493e-9667-25f1d369c570",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 3046728,
+      "name": "Vas Constanti",
+      "character": "Mr. Alvarez",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "f2539186-7f93-4bdf-bf39-035271ca9419",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 5220742,
+      "name": "Mary Pursell",
+      "character": "Paramedic",
+      "profilePath": "/ImU5Nd71joArNVQqTfs7abtLtM.jpg",
+      "order": 11
+    },
+    {
+      "id": "85249799-2996-406a-9eec-0a0ebf2b038b",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 5228303,
+      "name": "Shing Moussa Chung",
+      "character": "Telemedicine Patient",
+      "profilePath": "/eKys0g3R4WxpQ20gFr4R9MfLkHc.jpg",
+      "order": 12
+    },
+    {
+      "id": "7a30ab9a-1a6f-41af-b8ce-94b7c88d669f",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 4613198,
+      "name": "Kalisha A. Johnson",
+      "character": "Telemedicine Patient",
+      "profilePath": "/8ToVTPvb0ofHjn1cJ80J7guNQjC.jpg",
+      "order": 13
+    },
+    {
+      "id": "ae9a2331-be3e-4b9d-a9ab-082a55edd08b",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 1476384,
+      "name": "Robert Lonsdale",
+      "character": "Expat Bar Guy (Theo)",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "d09b1dcd-30c4-4ee5-a810-c4e162b5fcc1",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 6548587,
+      "name": "Jean-Jacques Renato",
+      "character": "Theo's Friend",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "20d56cfd-7a1b-4f36-acec-5cb90c1333f6",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 30318,
+      "name": "Amanda Root",
+      "character": "Grief Therapist",
+      "profilePath": "/tOiRDlvdVFgCp4tkbNQOmmZ7GSL.jpg",
+      "order": 16
+    },
+    {
+      "id": "6294ff3b-2325-45b0-8dbe-4a523d9c7058",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 4613748,
+      "name": "Fábio Batista",
+      "character": "Birthday Guy",
+      "profilePath": "/2gxWuBPENoKZ33ff6Czqj1s9uJQ.jpg",
+      "order": 17
+    },
+    {
+      "id": "2dd8fd68-a3f5-4df2-b998-bd19106a501d",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 5742903,
+      "name": "Pedro Nuno",
+      "character": "English Friend",
+      "profilePath": "/fBHHo7ZYYwAHpqDVfOWjzrKnfVY.jpg",
+      "order": 18
+    },
+    {
+      "id": "6ede7874-4c48-4899-9e42-e6750f058d9c",
+      "movieId": "0b4cc177-bb4f-4018-a2db-798d9ad16fca",
+      "tmdbPersonId": 5981804,
+      "name": "Isabelle Andrade",
+      "character": "Portuguese Friend",
+      "profilePath": "/437QggKhitWz7A4qwkZnpKrO29j.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

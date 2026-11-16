@@ -1,0 +1,95 @@
+{
+  "slug": "frozen-valentine-2026",
+  "id": "f318acf1-0558-41c3-83fa-fe758261368e",
+  "title": "Frozen Valentine",
+  "overview": "Two former classmates, one an heiress with a past crush and the other a rising star model, reunite when they're cast in a Girls' Love series. Pingrak—formerly a nerd, now a beautiful, ultra-rich heiress to a massive department store empire—once had a secret crush on P'Charm, her former ice-cold senior and a school star. Today, she's a rising model. Back then, she brought her horrible sadness. From a love that was once one-sided between them, the two are suddenly thrown together as the leads in a Girls' Love series.",
+  "tagline": null,
+  "posterPath": "/s5VBfZQK4dCFVeml4FgfYuRAICV.jpg",
+  "backdropPath": "/hbJfkH42ygkU5sZwnGUvjhr5aZe.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-02-12",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d7346620-5163-49f7-b03d-4962abcd8654",
+      "tvSeriesId": "f318acf1-0558-41c3-83fa-fe758261368e",
+      "tmdbPersonId": 4812971,
+      "name": "Natthamon Jantraviphart",
+      "character": "Charm",
+      "profilePath": "/8q4WJHtmKmHBHpxADnYWY0IC2LU.jpg",
+      "order": 0
+    },
+    {
+      "id": "522794f3-6b92-49f0-86ba-0f3bcacffcd8",
+      "tvSeriesId": "f318acf1-0558-41c3-83fa-fe758261368e",
+      "tmdbPersonId": 4893012,
+      "name": "Purichaya Saranark",
+      "character": "Pingrak",
+      "profilePath": "/yMBhLsnbmfJpZlzs1CPxrZ0yUQd.jpg",
+      "order": 1
+    },
+    {
+      "id": "5b18ab7e-8efc-4476-a1b4-1ed846156547",
+      "tvSeriesId": "f318acf1-0558-41c3-83fa-fe758261368e",
+      "tmdbPersonId": 4723000,
+      "name": "Inthira Sae-sieo",
+      "character": "Wan",
+      "profilePath": "/6WJtZyV3bRzjW1f2iI5un8zOLzk.jpg",
+      "order": 2
+    },
+    {
+      "id": "edbd9e92-3c36-40fc-84af-82333817e599",
+      "tvSeriesId": "f318acf1-0558-41c3-83fa-fe758261368e",
+      "tmdbPersonId": 5647857,
+      "name": "Nichapat Sujipinyo",
+      "character": "Mint",
+      "profilePath": "/294lMVpHLtKnne8PEBTFzLr4EWF.jpg",
+      "order": 3
+    },
+    {
+      "id": "f084ed4a-3032-408b-b5b6-44c47e08b517",
+      "tvSeriesId": "f318acf1-0558-41c3-83fa-fe758261368e",
+      "tmdbPersonId": 2903676,
+      "name": "Peerada Namwong",
+      "character": "Cherbelle",
+      "profilePath": "/p3w88h75BkCaDQKf1NtnNYXLTzh.jpg",
+      "order": 4
+    },
+    {
+      "id": "9950361c-cb0d-4bf8-828b-d7fa524aaa3f",
+      "tvSeriesId": "f318acf1-0558-41c3-83fa-fe758261368e",
+      "tmdbPersonId": 1832785,
+      "name": "Phiravich Attachitsataporn",
+      "character": "Pat",
+      "profilePath": "/kWBo5X0xjkPGTaZLoX3Px9Q5QTA.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "658515f4-3353-4619-afd9-f80f1c97ea08",
+      "tvSeriesId": "f318acf1-0558-41c3-83fa-fe758261368e",
+      "tmdbId": 488647,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/isk1ShHQJR0zp7963J5qhQznYDw.jpg",
+      "airDate": "2026-02-12",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-04-14T15:51:04.435Z",
+      "updatedAt": "2026-04-14T15:51:08.548Z"
+    }
+  ]
+}

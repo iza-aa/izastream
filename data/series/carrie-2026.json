@@ -1,0 +1,138 @@
+{
+  "slug": "carrie-2026",
+  "id": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+  "title": "Carrie",
+  "overview": "Misfit teenager Carrie White has spent her life in seclusion with her domineering mother, Margaret. After her father's sudden death, Carrie finds herself contending with the challenges of attending public high school, a bullying scandal, and the emergence of mysterious telekinetic powers.",
+  "tagline": "She just wanted a friend. They gave her a fight.",
+  "posterPath": "/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+  "backdropPath": "/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
+  "logoPath": "/p7lOufvkG9Od7280KE91ca5TLW5.png",
+  "firstAirDate": "2026-10-07",
+  "voteAverage": "7.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d0fa56c2-d08d-4976-89e2-e15784d5c48c",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbPersonId": 1524215,
+      "name": "Summer H. Howell",
+      "character": "Carrie White",
+      "profilePath": "/9l9D6DhugB4FBIZecuMyZ4Uulyr.jpg",
+      "order": 0
+    },
+    {
+      "id": "f94545d7-6f90-4609-82e0-d24f70c65f3e",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbPersonId": 1331981,
+      "name": "Samantha Sloyan",
+      "character": "Margaret White",
+      "profilePath": "/iI6mYgxrQSwphBJdfwYN3vB6oS2.jpg",
+      "order": 1
+    },
+    {
+      "id": "1e4bc49f-a8e3-4ed9-b199-6f7675ad8241",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbPersonId": 1537084,
+      "name": "Siena Agudong",
+      "character": "Sue Snell",
+      "profilePath": "/nCVWiVrIVqw0LnpyhYsckOMQJHS.jpg",
+      "order": 2
+    },
+    {
+      "id": "749bc1a7-613d-4148-81fd-cc767cf9ff11",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbPersonId": 1442054,
+      "name": "Alison Thornton",
+      "character": "Chris Hargensen",
+      "profilePath": "/hDCMe5RLABbSBA04BIUxJnBmol6.jpg",
+      "order": 3
+    },
+    {
+      "id": "ed3b83b2-fcb4-4965-ada6-be3abbf8f578",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbPersonId": 2129888,
+      "name": "Joel Oulette",
+      "character": "Tommy Ross",
+      "profilePath": "/qmzQBjq1hLpU37HtsKw5MszgRKa.jpg",
+      "order": 4
+    },
+    {
+      "id": "fb6e8930-1930-4c14-a925-e8e325e28dc9",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbPersonId": 1520451,
+      "name": "Josie Totah",
+      "character": "Tina Blake",
+      "profilePath": "/125iM9BTPVDfRjKGVSqmvgeGsai.jpg",
+      "order": 5
+    },
+    {
+      "id": "50ec33be-7a7d-43b5-acc4-2303b2972695",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbPersonId": 3706720,
+      "name": "Arthur Conti",
+      "character": "Billy Nolan",
+      "profilePath": "/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg",
+      "order": 6
+    },
+    {
+      "id": "d85391c9-264d-4f1e-bc9f-e8cdefa01e16",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbPersonId": 5239184,
+      "name": "Thalia Dudek",
+      "character": "Emaline West",
+      "profilePath": "/lmpaF8Yi0SfojtEwlY1CkEjzGU7.jpg",
+      "order": 7
+    },
+    {
+      "id": "5014cf99-2b9f-46aa-ab40-131231e913e9",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbPersonId": 1654001,
+      "name": "Amber Midthunder",
+      "character": "Miss Desjardin",
+      "profilePath": "/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg",
+      "order": 8
+    },
+    {
+      "id": "82e8b059-8465-4219-8b4c-76f3ff5c7146",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbPersonId": 26457,
+      "name": "Matthew Lillard",
+      "character": "Principal Grayle",
+      "profilePath": "/mIEKAfe0iC41RDXibbTy48LtNOi.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "893a9bef-1f9a-4460-ba68-97c21cfa8acf",
+      "tvSeriesId": "eb95fa3f-bdf8-4557-bb73-d27e7350f656",
+      "tmdbId": 450854,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Misfit high schooler Carrie White has spent her life hidden away inside the walls of her home with her fiercely protective mother, Margaret. After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "posterPath": "/b7aKxwPj3QM8YHZ8uDyqr50i96D.jpg",
+      "airDate": "2026-10-07",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-10-07T17:16:53.114Z",
+      "updatedAt": "2026-10-07T17:17:27.968Z"
+    }
+  ]
+}

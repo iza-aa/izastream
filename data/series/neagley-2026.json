@@ -1,0 +1,145 @@
+{
+  "slug": "neagley-2026",
+  "id": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+  "title": "Neagley",
+  "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+  "tagline": null,
+  "posterPath": "/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
+  "backdropPath": "/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+  "logoPath": "/lI6zO2lw8pteZnIzm1DuucVGutG.png",
+  "firstAirDate": "2026-09-16",
+  "voteAverage": "6.80",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e75be10d-7a3b-4a58-ae65-7188c5646746",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbPersonId": 2123496,
+      "name": "Maria Sten",
+      "character": "Frances Neagley",
+      "profilePath": "/7QlPWbZRH2ORMmAHKAj0rq54t4A.jpg",
+      "order": 0
+    },
+    {
+      "id": "b22703ab-f8b6-4ea0-a782-702ace4a7b7b",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbPersonId": 206405,
+      "name": "Greyston Holt",
+      "character": "Detective Hudson Riley",
+      "profilePath": "/OefIUfHekZLHwGVjyZmFauUI5W.jpg",
+      "order": 1
+    },
+    {
+      "id": "9a539a3d-4ee7-43f7-9352-a99785456320",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbPersonId": 2168270,
+      "name": "Adeline Rudolph",
+      "character": "Renee",
+      "profilePath": "/sWjjm53MeVrpQH2dxtFD3gfEt3v.jpg",
+      "order": 2
+    },
+    {
+      "id": "cb6bd60f-7a7f-48b0-adea-645d983d367a",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbPersonId": 85484,
+      "name": "Matthew Del Negro",
+      "character": "Pierce Woodrow",
+      "profilePath": "/h3wcgMRunRmeFhFo16BJpKsqQQC.jpg",
+      "order": 3
+    },
+    {
+      "id": "ab84e6ae-50e6-482f-9aac-8c14c9697bb0",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbPersonId": 62752,
+      "name": "Damon Herriman",
+      "character": "Lawrence Cole",
+      "profilePath": "/hzh9i0BlAEQDAhJxEgkEcBxMlJv.jpg",
+      "order": 4
+    },
+    {
+      "id": "81495a92-85ed-4324-9d38-6c9496e0126c",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbPersonId": 3598266,
+      "name": "Jasper Jones",
+      "character": "Keno",
+      "profilePath": "/wf8SZh1ylique9RJidepV1u1C9p.jpg",
+      "order": 5
+    },
+    {
+      "id": "1380b3b3-38bf-437d-954e-dfbc26410a4c",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbPersonId": 1993743,
+      "name": "Jhaleil Swaby",
+      "character": "Tommy Crane",
+      "profilePath": "/bc1W48Ed875s0UqejA6XaRK9XZZ.jpg",
+      "order": 500
+    },
+    {
+      "id": "0e01369d-ce15-4341-95fb-329937307211",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbPersonId": 1477962,
+      "name": "Rebecca Liddiard",
+      "character": "Judith Gray",
+      "profilePath": "/dfwY1zEow2VD51cK5J5XZmN0GnS.jpg",
+      "order": 501
+    },
+    {
+      "id": "739f915c-d9ee-4a0b-a1c3-ab7d572a88b6",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbPersonId": 181247,
+      "name": "Tyrone Benskin",
+      "character": "Calvin Neagley",
+      "profilePath": "/jJ4xLfwYsK2iDL1Ge8u2FvlKCb9.jpg",
+      "order": 502
+    },
+    {
+      "id": "05c45bbf-67b0-48ec-8de9-ccda5cae4b07",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbPersonId": 112462,
+      "name": "John Bregar",
+      "character": "Mason",
+      "profilePath": "/pUgTTlMa9DQqEvDjG6fYRZFuuBn.jpg",
+      "order": 503
+    }
+  ],
+  "seasons": [
+    {
+      "id": "604332f0-6f48-4ecd-a6e3-dff1cdfad1dd",
+      "tvSeriesId": "fb7643e3-6e58-465c-9c63-a40081e8cb8b",
+      "tmdbId": 421460,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
+      "airDate": "2026-09-16",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-17T08:09:29.700Z",
+      "updatedAt": "2026-09-17T08:10:03.579Z"
+    }
+  ]
+}

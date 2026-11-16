@@ -1,0 +1,138 @@
+{
+  "slug": "my-name-is-gutierrez-2026",
+  "id": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+  "title": "My Name Is Gutierrez",
+  "overview": "Deputy Commissioner Gutierrez competes with the CIA to solve the murder of the Russian Ambassador with his unique style.",
+  "tagline": null,
+  "posterPath": "/7zT7FbS0mwJdjKoPPX7xOhySlNN.jpg",
+  "backdropPath": "/a5BYpkrmhSdHiGrW5IU30PgKAmR.jpg",
+  "logoPath": "/56LvJzYQ1fXEDLMaegXq1mbJRkW.png",
+  "firstAirDate": "2026-08-26",
+  "voteAverage": "9.30",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7a2d9c02-6a57-4af0-8de4-035cacd0590d",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbPersonId": 1728860,
+      "name": "Darío Barassi",
+      "character": "Roberto Gutiérrez",
+      "profilePath": "/hyYKH6LbGX9pkkgKLDOoUhygcAN.jpg",
+      "order": 0
+    },
+    {
+      "id": "1b42243b-9af7-4b3e-8870-5f67885f082f",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbPersonId": 555976,
+      "name": "Yayo Guridi",
+      "character": "Tte. Rubén Torcoletti",
+      "profilePath": "/y2C4OJ99NdgX5GE55WcjOQfcU5n.jpg",
+      "order": 1
+    },
+    {
+      "id": "e9307f38-83fc-4eef-8763-87d57e9b5026",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbPersonId": 5838097,
+      "name": "Juliana Savioli",
+      "character": "Sgto. Valeria Ventura",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "db1f6c83-c875-4b4c-aa80-444f022c7e37",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbPersonId": 990116,
+      "name": "Abián Vainstein",
+      "character": "Comisario Capote",
+      "profilePath": "/y7t1SIHQdk14pgAcNuBkekkUUF2.jpg",
+      "order": 3
+    },
+    {
+      "id": "609bac32-b34b-4bc9-966a-0ffe67ab9c8a",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbPersonId": 1016570,
+      "name": "Mario Alarcón",
+      "character": "Ernesto Gutiérrez",
+      "profilePath": "/2V0IBpQrKMTmQ4kwC4bdWsHlIYB.jpg",
+      "order": 4
+    },
+    {
+      "id": "f08c82bd-6218-42a3-9d17-4aa9ddb0725f",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbPersonId": 3118549,
+      "name": "Paula Ransenberg",
+      "character": "Soledad Zotto",
+      "profilePath": "/82wdLjUu88G9FBs7qlBtCZn13f1.jpg",
+      "order": 5
+    },
+    {
+      "id": "1bb29e7e-9635-4921-97ec-b109a19a5cb7",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbPersonId": 557725,
+      "name": "Anahí Martella",
+      "character": "Matilda",
+      "profilePath": "/nHhuIfh1oOEQZrciRTUU6xv2XWQ.jpg",
+      "order": 6
+    },
+    {
+      "id": "537ad390-af04-49c8-bf90-f47e614614fd",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbPersonId": 52131,
+      "name": "Marcos Woinsky",
+      "character": "Boris",
+      "profilePath": "/7v6lPzofguTS9L9jVr6pKOQA0jq.jpg",
+      "order": 7
+    },
+    {
+      "id": "62970dc3-d2af-49e7-a4ef-18beae2e5548",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbPersonId": 4018082,
+      "name": "Víctor López",
+      "character": "Chakal 1",
+      "profilePath": "/8KntmQSe96lRvLQx1xl94nGMu8b.jpg",
+      "order": 8
+    },
+    {
+      "id": "84404570-1b39-42c1-9abd-479973fb53af",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbPersonId": 6447686,
+      "name": "Robi Surra",
+      "character": "Chakal 2",
+      "profilePath": null,
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "903f7c79-b750-464b-9ddd-56c7a2246438",
+      "tvSeriesId": "a4303bd3-c421-4312-8e93-d84b5e5b9acf",
+      "tmdbId": 425255,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "The Russian Ambassador's body is found shot dead in the suburbs of Buenos Aires. In charge of the investigation is Deputy Commissioner Gutierrez, a policeman who knows how to coexist with all sorts of crimes, but who is not trained for solving this type of case. With the eyes of the world on him, Gutierrez must reluctantly collaborate with the CIA and their point person, Mike Robinson — his soon-to-become nemesis — whom he sees as a conceited foreigner who wants to tell him what to do in his own territory. Together with Lieutenant Torcoletti, Commissioner Capote, and his team, Gutierrez will deploy all his methods and move on the edge of legality to find the murderer before the CIA does, even if that means dealing with con artists, kidnappers, strip clubs, and nursing homes.",
+      "posterPath": "/8CeWThy3xUnWrkYHFjkow8zHQI8.jpg",
+      "airDate": "2026-08-26",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-02T19:40:05.415Z",
+      "updatedAt": "2026-09-02T19:40:43.533Z"
+    }
+  ]
+}

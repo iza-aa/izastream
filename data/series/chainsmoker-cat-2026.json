@@ -1,0 +1,152 @@
+{
+  "slug": "chainsmoker-cat-2026",
+  "id": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+  "title": "Chainsmoker Cat",
+  "overview": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
+  "tagline": null,
+  "posterPath": "/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+  "backdropPath": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+  "logoPath": "/8y77KO4OiBRFzGZaU3A4n1XLTG6.png",
+  "firstAirDate": "2026-07-03",
+  "voteAverage": "8.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f78e3551-3fad-4f9c-b2cd-e6a700ba678f",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbPersonId": 2431907,
+      "name": "Yuko Natsuyoshi",
+      "character": "Yaniko 'Yani-Neko' Satō (voice)",
+      "profilePath": "/62JhZDG70JAzht71e1B0Y7Ny14r.jpg",
+      "order": 0
+    },
+    {
+      "id": "c658c77d-4713-480e-9f85-3e612b91734b",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbPersonId": 2440223,
+      "name": "Misato Matsuoka",
+      "character": "Masuko 'Yaku-Neko' Koshijimaru (voice)",
+      "profilePath": "/zSB8zgGwFGFq2EL3cWobQifsIXt.jpg",
+      "order": 1
+    },
+    {
+      "id": "ba5a7d19-f783-4f59-96db-1d2315ca744e",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbPersonId": 2395597,
+      "name": "Yurie Funato",
+      "character": "Yurufuwa＊Tenshi 'Hame-Neko' Hameko (voice)",
+      "profilePath": "/4BLM2Ke95n83NEDtIBu0Nrv515S.jpg",
+      "order": 2
+    },
+    {
+      "id": "882190ba-fa8a-4765-b5ce-30d1c5ee0b99",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbPersonId": 2375386,
+      "name": "Ayaka Shimizu",
+      "character": "Kaoruko 'Kansai-Neko' Nishi (voice)",
+      "profilePath": "/wuowat2waVkQOm14oO0gjx7QJt9.jpg",
+      "order": 3
+    },
+    {
+      "id": "4bc81697-0408-4204-ac3e-a2bbb7884aaf",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbPersonId": 1647448,
+      "name": "Shiori Izawa",
+      "character": "Aruko 'Al-Neko' Sakai (voice)",
+      "profilePath": "/f9V38OeDvRGevWuKc4dN6LB62TH.jpg",
+      "order": 4
+    },
+    {
+      "id": "eadc79f3-c254-48ff-8ee3-c6d13c6056a3",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbPersonId": 4995782,
+      "name": "Riko Akechi",
+      "character": "Tatsurō Ochinpo (voice)",
+      "profilePath": "/kKRgzjXnlY0OzcqIW1mv71syCiq.jpg",
+      "order": 5
+    },
+    {
+      "id": "742ab2d1-1f6f-44ae-aeca-29bf152e507a",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbPersonId": 126704,
+      "name": "Tetsu Inada",
+      "character": "Landlord (voice)",
+      "profilePath": "/e8qQL1NKTHP8eOsZmV5LCkdHS9T.jpg",
+      "order": 6
+    },
+    {
+      "id": "4c512366-34df-4716-a473-c8f7d4f8e9d2",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbPersonId": 2285491,
+      "name": "Rina Honnizumi",
+      "character": "Imoko (voice)",
+      "profilePath": "/5p8wWjqrBHTkOPC5txO1eUXRBRY.jpg",
+      "order": 7
+    },
+    {
+      "id": "fcdebc81-55d0-4240-810b-e1d5effd0dfd",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbPersonId": 6488695,
+      "name": "Sae Nonomiya",
+      "character": "Teacher (voice)",
+      "profilePath": null,
+      "order": 500
+    },
+    {
+      "id": "175e173e-47a6-4253-87d4-127072dbef14",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbPersonId": 6489123,
+      "name": "Takashi Saito",
+      "character": "Izakaya Staff (voice)",
+      "profilePath": "/qpWfprDeeZHyVyOnZJvG4WY6MCW.jpg",
+      "order": 501
+    }
+  ],
+  "seasons": [
+    {
+      "id": "f0cfd3da-1a04-4fef-8333-836b6c548ab2",
+      "tvSeriesId": "b9cd00ae-7b33-44b1-8515-2655ab36676c",
+      "tmdbId": 498243,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+      "airDate": "2026-07-03",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-27T19:56:50.601Z",
+      "updatedAt": "2026-09-27T19:58:56.961Z"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "girl-from-nowhere-the-reset-2026",
+  "id": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+  "title": "Girl from Nowhere: The Reset",
+  "overview": "In a new universe, the mysterious Nanno poses as a transfer student, exposing cruelty by turning power, guilt and desire against those who abuse them.",
+  "tagline": "When evil strikes every day, Nanno must return",
+  "posterPath": "/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
+  "backdropPath": "/pJert4hRVNzagvtFr3vTYnpgBMH.jpg",
+  "logoPath": "/1gDOt9Vl8j3NWVryNz6cymMMSd1.png",
+  "firstAirDate": "2026-03-04",
+  "voteAverage": "8.76",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1350ded5-ecc9-4331-b24a-502541b02146",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbPersonId": 2729190,
+      "name": "Becky Armstrong",
+      "character": "Nanno",
+      "profilePath": "/nu8S97BFcsLQvyEDHvAfZonPwNM.jpg",
+      "order": 0
+    },
+    {
+      "id": "9098152f-5acb-4474-b35d-0bb01b512b19",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbPersonId": 4106878,
+      "name": "Prudtichai Ruayfupant",
+      "character": "Sky",
+      "profilePath": "/iamQPeFDGEBSK5dZ9232N3jANx1.jpg",
+      "order": 500
+    },
+    {
+      "id": "afc4ff1a-2c99-4c9c-a2fc-70f284cd501e",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbPersonId": 3919883,
+      "name": "Nuttawatt Thanathaveeprasert",
+      "character": "Jom",
+      "profilePath": "/eFou96PXyf5PyMltjHFzQ97Mwxa.jpg",
+      "order": 501
+    },
+    {
+      "id": "e9c99a19-19cb-439c-89b9-d60ffad6a24b",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbPersonId": 3435620,
+      "name": "Kantapon Jindataweephol",
+      "character": "Peck",
+      "profilePath": "/t4XlTWP99pfkD1DPhP9LXmoDZ5B.jpg",
+      "order": 502
+    },
+    {
+      "id": "eb33a444-dba1-4c29-b0e9-501e6ff6047f",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbPersonId": 2771757,
+      "name": "Veerinsara Tangkitsuvanich",
+      "character": "Mook",
+      "profilePath": "/fWMCviCsg3P4lZcGgji94gLezpG.jpg",
+      "order": 503
+    },
+    {
+      "id": "44983d03-abcf-4f38-9131-097611aedbec",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbPersonId": 5006425,
+      "name": "Punnavich Sirikiatvanit",
+      "character": "Hongtae",
+      "profilePath": "/zQE2VJwFPIA6Y3pgUXNVUT7ezzS.jpg",
+      "order": 504
+    },
+    {
+      "id": "26bfb5b0-27b2-4896-b60e-5cd4bc554555",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbPersonId": 4153437,
+      "name": "Alexander Buckland",
+      "character": "Jamie",
+      "profilePath": "/frUxc3oJxAYcosecWHPR7QiJKQd.jpg",
+      "order": 505
+    },
+    {
+      "id": "caaeffc9-106b-4252-994a-667e026f118a",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbPersonId": 2874193,
+      "name": "Methika Jiranorraphat",
+      "character": "Blossom",
+      "profilePath": "/qUlGChMUXY8KG2OEUY8rVcB6dg8.jpg",
+      "order": 506
+    },
+    {
+      "id": "0a5b6f69-aea4-403e-ac06-033f90b73040",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbPersonId": 4263603,
+      "name": "Saharat Thiempan",
+      "character": "Pankam",
+      "profilePath": "/4g58A7ASCw2EN03BdYIWcEFSQJi.jpg",
+      "order": 507
+    },
+    {
+      "id": "16029786-d7ba-43b5-a2f0-14083a6a2c8b",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbPersonId": 2758431,
+      "name": "Pisitpol Ekpongpisit",
+      "character": "Paradorn",
+      "profilePath": "/ocNUilElWcjSwUdTCw83d0hwn87.jpg",
+      "order": 508
+    }
+  ],
+  "seasons": [
+    {
+      "id": "e132336e-a618-4f54-be56-c60ee0ff292a",
+      "tvSeriesId": "504a0e94-ad7d-4fe9-850a-8577ae1c3813",
+      "tmdbId": 494577,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/98JA2PldgfAK16A8xZTRc2wyqTU.jpg",
+      "airDate": "2026-03-04",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-04-02T17:43:45.283Z",
+      "updatedAt": "2026-04-18T18:24:01.254Z"
+    }
+  ]
+}

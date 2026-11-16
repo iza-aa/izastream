@@ -1,0 +1,131 @@
+{
+  "slug": "genius-girlfriend-2026",
+  "id": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+  "title": "Genius Girlfriend",
+  "overview": "A genius girl and her childhood sweetheart navigate life's challenges from campus to marriage in this heartwarming coming-of-age story filled with wit, warmth and youthful passion.",
+  "tagline": null,
+  "posterPath": "/hhLJ33MIiQKuvdJ6FNcZZQIBng4.jpg",
+  "backdropPath": "/tWhf5jkrMr9fInmW3VG6ZHhRLOP.jpg",
+  "logoPath": "/s1igZ0HLygVhGrMdXj1oMHGCZSU.png",
+  "firstAirDate": "2026-08-02",
+  "voteAverage": "8.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "09b25e49-498b-429d-9975-6a6e40b3ef7c",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbPersonId": 2430198,
+      "name": "Tian Xiwei",
+      "character": "Lin Zhixia",
+      "profilePath": "/naWkDov1oPHYGUCbYPxMXJhwQMl.jpg",
+      "order": 0
+    },
+    {
+      "id": "fbc9cfe0-3965-4022-bc33-4991023c668c",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbPersonId": 1922807,
+      "name": "Hu Yitian",
+      "character": "Jiang Yubai",
+      "profilePath": "/3TdSv9FWbImvJO65I2z8GEcU791.jpg",
+      "order": 1
+    },
+    {
+      "id": "c3d9bceb-d16a-41b3-80df-1a7a7831cab8",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbPersonId": 2749152,
+      "name": "Lai Weiming",
+      "character": "Shen Fuxuan",
+      "profilePath": "/zZIs8U7rDL3GSj1Tvs9c3gXNa9L.jpg",
+      "order": 2
+    },
+    {
+      "id": "f09237f2-31cd-481f-98af-33eeb18e5a3c",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbPersonId": 1207608,
+      "name": "Li Jiaqi",
+      "character": "Tang Tingting",
+      "profilePath": "/irRmvwQmWDaKJ270nZSSdSYGyrt.jpg",
+      "order": 3
+    },
+    {
+      "id": "a0798fe4-8591-4da3-8ffc-8c7d2b03d2bf",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbPersonId": 3706826,
+      "name": "Xia Haoran",
+      "character": "Duan Qiyan",
+      "profilePath": "/c2Wj7zXGQWiNlSrvWViNrhLjEnJ.jpg",
+      "order": 4
+    },
+    {
+      "id": "42bcbeb8-15ba-44c4-b257-651a0a7d9ab7",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbPersonId": 2762135,
+      "name": "Vivienne Tien",
+      "character": "Jin Baihui",
+      "profilePath": "/iIMSjySpkMhgxIm1rzMJb089GUG.jpg",
+      "order": 5
+    },
+    {
+      "id": "4d771865-60d2-43a3-b204-63710e6e119d",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbPersonId": 4278211,
+      "name": "Wu Jiakai",
+      "character": "Lin Zeqiu",
+      "profilePath": "/eA72E6dwgsi4aoMNP7LufeXBG84.jpg",
+      "order": 6
+    },
+    {
+      "id": "9836f094-64cf-495a-9389-251ad1dc095a",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbPersonId": 5397539,
+      "name": "Luo Zhuoran",
+      "character": "Young Jiang Yubai",
+      "profilePath": "/gu5TFgcZa9earwe4bwev7C3l96i.jpg",
+      "order": 500
+    },
+    {
+      "id": "ee7a1da9-37c9-4c6e-b132-5dadbb0b72f3",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbPersonId": 2027686,
+      "name": "Zhang Lei",
+      "character": "",
+      "profilePath": "/jhUwmxhlvXaCi1EXqNv0jSPIbwd.jpg",
+      "order": 504
+    },
+    {
+      "id": "5ebb1bdf-95b8-4fb6-846f-acfe32dea765",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbPersonId": 3240268,
+      "name": "Ma Qiuzi",
+      "character": "",
+      "profilePath": "/bdoX7VYIeqYWH2Vx9Nwa4WrcChG.jpg",
+      "order": 505
+    }
+  ],
+  "seasons": [
+    {
+      "id": "37b4a99f-6b6c-455a-975e-cd087f7701dc",
+      "tvSeriesId": "a0382dc6-eacf-4e29-aba1-a41e7fdfdc47",
+      "tmdbId": 451972,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/zB23l0qUJhoX9ruwtXD32ARMN7b.jpg",
+      "airDate": "2026-08-02",
+      "episodeCount": 28,
+      "isPublished": true,
+      "createdAt": "2026-08-16T02:31:49.213Z",
+      "updatedAt": "2026-08-16T02:35:28.308Z"
+    }
+  ]
+}

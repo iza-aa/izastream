@@ -1,0 +1,293 @@
+{
+  "slug": "food-truck-stolen-love-and-moo-deng-2025",
+  "id": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+  "tmdbId": 1522496,
+  "imdbId": "tt38079900",
+  "title": "Food Truck: Stolen Love... and Moo Deng",
+  "originalTitle": "ฟู้ดทรัค ลัก (รัก) หมูเด้ง",
+  "overview": "Jake and Bobby, with the art director by the truck, don't know their vehicle will force Mamiew to face his past once more.",
+  "tagline": "Love is on the menu but every recipe has its secrets.",
+  "posterPath": "/fOhSmHSEm0iVQ2AdG5SkjXnsvUM.jpg",
+  "backdropPath": "/hyl6es0MyJ1tEmziR293GxdIQKZ.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/hyl6es0MyJ1tEmziR293GxdIQKZ.jpg",
+    "/ffs1GAQYA0TtE4SCQItbiOhzS52.jpg",
+    "/uhc3cloJqtvMQdNzH6c534V4Plg.jpg"
+  ],
+  "releaseDate": "2025-08-28",
+  "runtime": 105,
+  "voteAverage": "5.80",
+  "popularity": null,
+  "popularityScore": 16,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=EygMVEwoVtI",
+  "quality": "WEB-DL",
+  "director": "Chaleumpol Tikumpornteerawong",
+  "directorTmdbId": 83165,
+  "directorProfilePath": "/60bNnrzi0rDHYgha5tcOp56k3NQ.jpg",
+  "productionCompanies": [
+    {
+      "id": 261735,
+      "name": "Shinesaeng Ad.Venture",
+      "logo_path": "/6uBYJ57l9hwIBn7qdS2SCDHKond.png"
+    },
+    {
+      "id": 269798,
+      "name": "Macgo",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 708,
+      "name": "runaway"
+    },
+    {
+      "id": 7312,
+      "name": "road trip"
+    },
+    {
+      "id": 9713,
+      "name": "friends"
+    },
+    {
+      "id": 10172,
+      "name": "thai"
+    },
+    {
+      "id": 178909,
+      "name": "runaway child"
+    },
+    {
+      "id": 188316,
+      "name": "hippo"
+    },
+    {
+      "id": 202621,
+      "name": "chaotic"
+    },
+    {
+      "id": 207269,
+      "name": "food truck"
+    },
+    {
+      "id": 270943,
+      "name": "thai food"
+    },
+    {
+      "id": 319357,
+      "name": "heartwarming"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 2695,
+  "watchlistCount": 16,
+  "favouriteCount": 2,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-05-28T07:19:43.505Z",
+  "updatedAt": "2026-05-28T07:20:05.671Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "5cefa56c-9a25-449a-ab03-27e701bf8d66",
+      "movieId": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+      "tmdbPersonId": 226564,
+      "name": "Mario Maurer",
+      "character": "Mamiew",
+      "profilePath": "/wbBpsHWCgey3VsWw0GAAWrsYxc0.jpg",
+      "order": 0
+    },
+    {
+      "id": "6db253c9-c56e-4f73-8e31-f05c6c2c1aa1",
+      "movieId": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+      "tmdbPersonId": 5599352,
+      "name": "Choi Yu-lee",
+      "character": "Me Ree",
+      "profilePath": "/iOTREePOx64GEZAWRkvh4JUr4bz.jpg",
+      "order": 1
+    },
+    {
+      "id": "d3cadf3b-802b-43ce-b9d1-c4712ec73ae1",
+      "movieId": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+      "tmdbPersonId": 83165,
+      "name": "Chaleumpol Tikumpornteerawong",
+      "character": "Jake",
+      "profilePath": "/60bNnrzi0rDHYgha5tcOp56k3NQ.jpg",
+      "order": 2
+    },
+    {
+      "id": "6b72c781-e81e-426a-ac66-0216fa6f2f0a",
+      "movieId": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+      "tmdbPersonId": 569150,
+      "name": "Padung Songsang",
+      "character": "Bobby",
+      "profilePath": "/7kSSfwkf9o83kR5pvfA84mdTgkQ.jpg",
+      "order": 3
+    },
+    {
+      "id": "74fd21f8-b3ea-4391-a7f5-5fbdf26820ec",
+      "movieId": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+      "tmdbPersonId": 4056892,
+      "name": "Pachchun Hiranprateep",
+      "character": "Sarang",
+      "profilePath": "/e1n64he0PV17bhJVmxQLU4Ula1.jpg",
+      "order": 4
+    },
+    {
+      "id": "094b7c98-ab48-4e3a-9d69-447770a1ba83",
+      "movieId": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+      "tmdbPersonId": 5595958,
+      "name": "Deedeed Piamwiriyakul",
+      "character": "Bossa",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "d567fcf8-e912-4014-acdd-9abc614b2585",
+      "movieId": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+      "tmdbPersonId": 5595955,
+      "name": "Warawich Chanthamenchai",
+      "character": "Michelean",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "0dfc9348-404e-4213-b290-ed8adcc05ea5",
+      "movieId": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+      "tmdbPersonId": 57208,
+      "name": "Petchtai Wongkamlao",
+      "character": "Phuak",
+      "profilePath": "/3hmcqU1OfLZ5kbvl7url63VuWMJ.jpg",
+      "order": 7
+    },
+    {
+      "id": "70337434-423b-419c-818b-2a7cedc97f43",
+      "movieId": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+      "tmdbPersonId": 4695175,
+      "name": "Saranyoo Pienthamdee",
+      "character": "",
+      "profilePath": "/l0HAJqVqNMxQjOfXyyYIPvv5Udd.jpg",
+      "order": 8
+    },
+    {
+      "id": "8a5519ef-bc95-4c4e-9a72-04cd3faac241",
+      "movieId": "2d21bd0c-e122-452f-9cb8-e3ea8c10e669",
+      "tmdbPersonId": 1201736,
+      "name": "Arunee Kwanyune",
+      "character": "",
+      "profilePath": "/kTtE10bveBQVg2BSmxivhh65qOV.jpg",
+      "order": 9
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,362 @@
+{
+  "slug": "lust-stories-2-2023",
+  "id": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+  "tmdbId": 1136736,
+  "imdbId": "tt27989067",
+  "title": "Lust Stories 2",
+  "originalTitle": "Lust Stories 2",
+  "overview": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated 'Lust Stories'.",
+  "tagline": null,
+  "posterPath": "/p5x729JI6wZs9hCqX7tc7oH87ih.jpg",
+  "backdropPath": "/gzwTW6USyUchsDKXIKGQIGjqCQL.jpg",
+  "logoPath": "/1AAE9FXGemm5Czsq3fWRYJBlAZb.png",
+  "backdrops": [
+    "/gzwTW6USyUchsDKXIKGQIGjqCQL.jpg",
+    "/sRJ8uNmel2ecUpsw8ndAl1O0hHT.jpg",
+    "/xD02KDJvd5xK0xJkeDyCWKnLUb2.jpg",
+    "/yN9mDiMHL0Lu55YozmS9AGUGaK2.jpg",
+    "/nHBH1teCtID7F8QjttwVWIMM4Gb.jpg",
+    "/4fjA2AenPv3MjBVgX2KSJSsknDf.jpg",
+    "/1QJqZimpd2BYOkdULqHdxNJ2rAm.jpg",
+    "/r61eOt3iyVFX5Wha2b70t3ftY9e.jpg",
+    "/uvjI5xzMv7ZBYPWnt9nGXUa2v4u.jpg",
+    "/hC7bB3qtXMFjBcC5sJYJH5vqTTg.jpg"
+  ],
+  "releaseDate": "2023-06-29",
+  "runtime": 132,
+  "voteAverage": "5.64",
+  "popularity": null,
+  "popularityScore": 61,
+  "originalLanguage": "hi",
+  "country": "IN",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "WEB-DL",
+  "director": "Konkona Sen Sharma",
+  "directorTmdbId": 85666,
+  "directorProfilePath": "/i538HToMEGR6J2OVmOGX3GfWcQC.jpg",
+  "productionCompanies": [
+    {
+      "id": 100972,
+      "name": "RSVP Movies",
+      "logo_path": "/ni6szJ3gzDOAmZwlHXKaFyvsxEQ.png"
+    },
+    {
+      "id": 98390,
+      "name": "Flying Unicorn Entertainment",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9706,
+      "name": "anthology"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 14794,
+      "name": "lust"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1055,
+  "watchlistCount": 3,
+  "favouriteCount": 0,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-18T16:58:39.040Z",
+  "updatedAt": "2026-09-18T16:59:52.961Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "827966b7-446c-4ae3-9f4b-5f1ee3ecc47d",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 583509,
+      "name": "Neena Gupta",
+      "character": "Dadi",
+      "profilePath": "/znCPPYR79c1DU2MvA61JXhdMeCs.jpg",
+      "order": 0
+    },
+    {
+      "id": "61ee460a-f31d-4ead-b297-44db9a115828",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 1766034,
+      "name": "Mrunal Thakur",
+      "character": "Veda",
+      "profilePath": "/4ITqe6SrpQgwUFU52rkmZNffyrM.jpg",
+      "order": 1
+    },
+    {
+      "id": "0d74283a-f66d-4881-9c5a-9a4f1ab518b3",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 85721,
+      "name": "Tamannaah Bhatia",
+      "character": "Shanti",
+      "profilePath": "/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg",
+      "order": 2
+    },
+    {
+      "id": "1f94b77e-2019-41f0-940c-e62b1e1166ec",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 55061,
+      "name": "Kajol",
+      "character": "Devyani Singh",
+      "profilePath": "/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg",
+      "order": 3
+    },
+    {
+      "id": "c01023d5-78aa-4708-918f-2b971a1d9811",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 232535,
+      "name": "Angad Bedi",
+      "character": "Arjun",
+      "profilePath": "/ejv7eALY9SMa39aKuQdG7frlKtm.jpg",
+      "order": 4
+    },
+    {
+      "id": "d878c49b-f9cb-423a-9b3a-9ffe0acaf60d",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 2814848,
+      "name": "Hemant Kher",
+      "character": "Cheeku",
+      "profilePath": "/h3Ww8WDxxRGymQ6vkn2VWMVksxk.jpg",
+      "order": 5
+    },
+    {
+      "id": "a918d9d2-83cc-4db5-898a-f3931f0cd286",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 6501,
+      "name": "Tillotama Shome",
+      "character": "Isheeta",
+      "profilePath": "/53kVIXddZaPy6mnKdZZFuOXLUII.jpg",
+      "order": 6
+    },
+    {
+      "id": "41bbbd95-5e79-4ec4-8268-21c78de8551d",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 1064472,
+      "name": "Amruta Subhash",
+      "character": "Seema",
+      "profilePath": "/rW8HfvlwI6VltTioq96KxCx8gLM.jpg",
+      "order": 7
+    },
+    {
+      "id": "5e14d74d-42cd-4d96-a284-35477d9cc40b",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 2102717,
+      "name": "Mukti Mohan",
+      "character": "Anita",
+      "profilePath": "/le7LYiqTT0EtkltREtpLe7CFPdN.jpg",
+      "order": 8
+    },
+    {
+      "id": "de0c868b-0390-466b-b9ff-54ce7aad11ed",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 2707278,
+      "name": "Anushka Kaushik",
+      "character": "Rekha",
+      "profilePath": "/AtS7AYhTt8fvsi8mfjlDNgJcm7C.jpg",
+      "order": 9
+    },
+    {
+      "id": "1068df2c-d9fe-4f72-be22-147b65af618d",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 1240443,
+      "name": "Vibha Chibber",
+      "character": "Kaki",
+      "profilePath": "/3UIRA4TKnlcR4lGtkIH6KCCULSZ.jpg",
+      "order": 10
+    },
+    {
+      "id": "d0b5f76f-d8d9-48e7-9616-5f45c9dd416f",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 69711,
+      "name": "Jugal Hansraj",
+      "character": "David Chaudhary",
+      "profilePath": "/29l2Okg2DZaPy90I62OlPrWNJe4.jpg",
+      "order": 11
+    },
+    {
+      "id": "232bb256-8edc-4c44-85c9-0ed7c081f197",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 1551045,
+      "name": "Vijay Varma",
+      "character": "Vijay Chauhan",
+      "profilePath": "/A46ekiPFC3vA1442FJmiIudpxX1.jpg",
+      "order": 12
+    },
+    {
+      "id": "4a4f5d77-ec92-4b70-a0fe-59f943546a3c",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 1110116,
+      "name": "Tarun Khanna",
+      "character": "Inderjit Singh",
+      "profilePath": "/puUE8PufQhZfqKiVbTuvzuct6s.jpg",
+      "order": 13
+    },
+    {
+      "id": "cca24868-af93-4cc5-91aa-94dcd6aa75dc",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 1179628,
+      "name": "Kumud Mishra",
+      "character": "Suraj Singh",
+      "profilePath": "/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg",
+      "order": 14
+    },
+    {
+      "id": "517da18b-0ab3-4f45-bf9f-b9eaac674d01",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 1835082,
+      "name": "Kanupriya Pandit",
+      "character": "Suchi",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "db0ec95d-5c83-4922-9e28-a51e75e0528c",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 2541600,
+      "name": "Anjuman Saxena",
+      "character": "Rina",
+      "profilePath": "/lRlbH3fMAejg9wJlIFI2f0nbg17.jpg",
+      "order": 16
+    },
+    {
+      "id": "6e17c563-ba81-490e-98e4-66b46ec8e653",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 1984001,
+      "name": "Mehul Buch",
+      "character": "Dabbu",
+      "profilePath": "/zkOTwrcocyDNWaNHy7rxRtNlEkR.jpg",
+      "order": 17
+    },
+    {
+      "id": "51126112-7bca-4c1e-ba5e-6ffa276acdbe",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 2463265,
+      "name": "Neela Mulherkar",
+      "character": "Arjun's Dadi",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "9a609602-a9da-4272-8e96-ec4a9532945b",
+      "movieId": "4dd14a7d-9a28-4bf0-bc19-eb307c7612b4",
+      "tmdbPersonId": 4137284,
+      "name": "Chandrakant Deshpande",
+      "character": "Panditji",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,309 @@
+{
+  "slug": "the-love-hypothesis-2026",
+  "id": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+  "tmdbId": 1032863,
+  "imdbId": "tt22526100",
+  "title": "The Love Hypothesis",
+  "originalTitle": "The Love Hypothesis",
+  "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+  "tagline": "Fake dating. Real chemistry.",
+  "posterPath": "/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+  "backdropPath": "/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
+  "logoPath": "/z40xIF1yUFjT3sdtRg8BlyWJ53n.png",
+  "backdrops": [
+    "/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
+    "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+    "/fuOMc0cr1ZW5chnXoAOm5hyM8cb.jpg",
+    "/p1Xk8xNHHP1HJx2yGZuREp8Etab.jpg",
+    "/eHzUOEv6krXfljtz7SA8ryuFFiN.jpg",
+    "/cztrDfhRziGVk5SOTsl4Elr0ZgJ.jpg",
+    "/m1ukeDE8MS8mU10R9QDQZio1bpH.jpg",
+    "/hOJl3NrAl3476QFsUup2uhWMeIu.jpg",
+    "/b17uij6YoqTsWLO3V9NMQmGzTeA.jpg",
+    "/mAkLUZlsASmNcLHPk81PDtvt0Uj.jpg"
+  ],
+  "releaseDate": "2026-09-23",
+  "runtime": 110,
+  "voteAverage": "8.75",
+  "popularity": null,
+  "popularityScore": 6293,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=xwdamnfS6IM",
+  "quality": "WEB-DL",
+  "director": "Claire Scanlon",
+  "directorTmdbId": 1296522,
+  "directorProfilePath": "/1KJEYBcnFWTufazuPs2A4hFEV4s.jpg",
+  "productionCompanies": [
+    {
+      "id": 2531,
+      "name": "MRC",
+      "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png"
+    },
+    {
+      "id": 210099,
+      "name": "Amazon MGM Studios",
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+      "id": 181246,
+      "name": "Small Victory Productions",
+      "logo_path": null
+    },
+    {
+      "id": 71170,
+      "name": "The Cantillon Company",
+      "logo_path": null
+    },
+    {
+      "id": 178831,
+      "name": "Bisous Pictures",
+      "logo_path": "/pFLFidn8lEc6Fzbj8b4AiQ3mcga.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 9799,
+      "name": "romcom"
+    },
+    {
+      "id": 9673,
+      "name": "love"
+    },
+    {
+      "id": 215200,
+      "name": "pretend relationship"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 267212,
+  "watchlistCount": 1079,
+  "favouriteCount": 634,
+  "shareCount": 231,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-23T19:02:41.508Z",
+  "updatedAt": "2026-09-23T19:02:51.206Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b31e2976-09de-4f0c-b5e2-a6a58bcb719d",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 1136940,
+      "name": "Lili Reinhart",
+      "character": "Olive Smith",
+      "profilePath": "/sJcuQAJdIv3mnh9M9p5sQWhWSRN.jpg",
+      "order": 0
+    },
+    {
+      "id": "cdd54ed4-d627-44f1-955b-6c9122582f6f",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 1364004,
+      "name": "Tom Bateman",
+      "character": "Dr. Adam Carlsen",
+      "profilePath": "/6elQzmY4EJHlLvHsaeoeo2dXOQ1.jpg",
+      "order": 1
+    },
+    {
+      "id": "73069f72-95fe-4ff8-b4c9-ff5bcbf427a3",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 2531244,
+      "name": "Rachel Marsh",
+      "character": "Anh Pham",
+      "profilePath": "/6R0pDuQuSf4CEtZHCRnZkqc2EAN.jpg",
+      "order": 2
+    },
+    {
+      "id": "d21fd0f4-b8ee-45fb-b2bf-5af478e879e0",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 1998733,
+      "name": "Jaboukie Young-White",
+      "character": "Malcolm Browne",
+      "profilePath": "/8OYI8OqsMUpBZica4lM2odjgVH6.jpg",
+      "order": 3
+    },
+    {
+      "id": "c71080f7-a537-4e12-ad61-fc0514ae1c6a",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 3533641,
+      "name": "Nicholas Duvernay",
+      "character": "Jeremy Langley",
+      "profilePath": "/4uwcWYbXxrxyhJbCPXshTQXQQKi.jpg",
+      "order": 4
+    },
+    {
+      "id": "5a056408-409f-492a-97d5-cfcbe54a3741",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 2399904,
+      "name": "Arty Froushan",
+      "character": "Dr. Tom Benton",
+      "profilePath": "/zYNvzONSgyfnC4efHXh6zcrVj4d.jpg",
+      "order": 5
+    },
+    {
+      "id": "b06de348-78ba-49aa-94fb-43a5efef07a3",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 80184,
+      "name": "Jeananne Goossen",
+      "character": "Dr. Juliet Aslan",
+      "profilePath": "/akdvZgJskCELeQLvrzNm2EphueO.jpg",
+      "order": 6
+    },
+    {
+      "id": "edf4f851-2a7f-480a-959f-eb94a0e539af",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 1796392,
+      "name": "Aladeen Tawfeek",
+      "character": "Dr. Eugene Fastuca",
+      "profilePath": "/eLTYiIZagtV006aSyem5SrpifgE.jpg",
+      "order": 7
+    },
+    {
+      "id": "8405857b-a511-4c25-a419-d6b8087cdaff",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 1789637,
+      "name": "Kenny Wong",
+      "character": "McConnell",
+      "profilePath": "/3RJ74D2odaFbA7n4Io8tHhRm1HC.jpg",
+      "order": 8
+    },
+    {
+      "id": "5aa85f74-2fbe-4971-a2fd-94f2a3cbccca",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 1212859,
+      "name": "Daniel Brochu",
+      "character": "Dr. Hargrave",
+      "profilePath": "/u1Y4I2b3LhjAHTBMdNh7jgN6NED.jpg",
+      "order": 9
+    },
+    {
+      "id": "a2b2c34d-ba32-41fa-a868-844084f90fc5",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 2336545,
+      "name": "Alexandra Petrachuk",
+      "character": "Natalie Lazotti",
+      "profilePath": "/9gUrxfGiasdpuoHJHyEFwY9SzCI.jpg",
+      "order": 10
+    },
+    {
+      "id": "97d0c95e-1553-4682-9534-93338d8988a7",
+      "movieId": "e09a21eb-f1e7-4bd9-979a-4eaa1afeea3e",
+      "tmdbPersonId": 1504466,
+      "name": "Howard Bilerman",
+      "character": "Dr. Keeney",
+      "profilePath": "/pOy0fCkMpaT9sDxhWKXZu6We95b.jpg",
+      "order": 11
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

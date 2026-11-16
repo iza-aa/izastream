@@ -1,0 +1,104 @@
+{
+  "slug": "awaken-2026",
+  "id": "15cad5d3-16fe-4656-8938-e41ff5e40a33",
+  "title": "Awaken",
+  "overview": "During World War II, photographer Chen Kailai unexpectedly becomes involved in an underground resistance mission to stop the Japanese army’s secret biological experiment. Taking up his fallen mentor’s codename, he joins fellow spies in a perilous fight to expose the enemy’s crimes and prevent a viral catastrophe.",
+  "tagline": null,
+  "posterPath": "/roOfJYxZK2I0aE0I9ZIfrdFZYxg.jpg",
+  "backdropPath": "/jY5xb5HLoVWkXlKCTbXqh3g7GQL.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-08-26",
+  "voteAverage": "9.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "689032b9-e468-40ea-bc24-b084e6f5172d",
+      "tvSeriesId": "15cad5d3-16fe-4656-8938-e41ff5e40a33",
+      "tmdbPersonId": 1355667,
+      "name": "Ou Hao",
+      "character": "Chen Kailai",
+      "profilePath": "/nHokLSjlWJB3Gwt3zBXUuBPvR77.jpg",
+      "order": 0
+    },
+    {
+      "id": "c5ea9bca-e28d-4933-9081-9811dea9ffd6",
+      "tvSeriesId": "15cad5d3-16fe-4656-8938-e41ff5e40a33",
+      "tmdbPersonId": 1291460,
+      "name": "Gulnezer Bextiyar",
+      "character": "Jin Bao",
+      "profilePath": "/9HZkWl3glcA56J1rWlMU1TKh71q.jpg",
+      "order": 1
+    },
+    {
+      "id": "853298a9-5b7b-4787-968e-6a8be479f462",
+      "tvSeriesId": "15cad5d3-16fe-4656-8938-e41ff5e40a33",
+      "tmdbPersonId": 936431,
+      "name": "William Feng",
+      "character": "Du Huangqiao",
+      "profilePath": "/tSn5BIRw3Xdj3XYKIycjyNTgl49.jpg",
+      "order": 2
+    },
+    {
+      "id": "406b33aa-349f-40c4-b7f4-a5a9c04c869b",
+      "tvSeriesId": "15cad5d3-16fe-4656-8938-e41ff5e40a33",
+      "tmdbPersonId": 2456847,
+      "name": "Ni Hanjin",
+      "character": "Zhao Qian",
+      "profilePath": "/xLOwqZIT9QIcbm9BzX0AGQFdPC0.jpg",
+      "order": 3
+    },
+    {
+      "id": "315e7ffb-205f-4235-a973-70a9206257ef",
+      "tvSeriesId": "15cad5d3-16fe-4656-8938-e41ff5e40a33",
+      "tmdbPersonId": 2318293,
+      "name": "Kaavie Wong",
+      "character": "",
+      "profilePath": "/g17qLcGWPsugZdMmFFcETiG4DtE.jpg",
+      "order": 4
+    },
+    {
+      "id": "2cc75878-3ee0-4b72-9a07-8109620a29b8",
+      "tvSeriesId": "15cad5d3-16fe-4656-8938-e41ff5e40a33",
+      "tmdbPersonId": 2307500,
+      "name": "Ma Yujie",
+      "character": "",
+      "profilePath": "/bvLA4FxnGnNX1gheI8tu5QfRbfu.jpg",
+      "order": 5
+    },
+    {
+      "id": "0ca44055-8bde-4b1e-9928-e84be88c0caf",
+      "tvSeriesId": "15cad5d3-16fe-4656-8938-e41ff5e40a33",
+      "tmdbPersonId": 1671010,
+      "name": "He Ziming",
+      "character": "",
+      "profilePath": "/yh7CS770lyowIDMgNtPF10q8zps.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "3333ba23-2cd7-4b9a-8714-9e67dcab19b2",
+      "tvSeriesId": "15cad5d3-16fe-4656-8938-e41ff5e40a33",
+      "tmdbId": 453189,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/b5lsKMbRTtBPswEG8G6hFfYgZKR.jpg",
+      "airDate": "2026-08-26",
+      "episodeCount": 22,
+      "isPublished": true,
+      "createdAt": "2026-09-08T16:51:24.133Z",
+      "updatedAt": "2026-09-08T16:53:39.288Z"
+    }
+  ]
+}

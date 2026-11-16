@@ -1,0 +1,127 @@
+{
+  "slug": "ok-lets-get-divorced-2026",
+  "id": "4f519e8f-8205-451b-bf2a-932c36094240",
+  "title": "OK! Let's Get Divorced",
+  "overview": "After seven years of marriage, a couple decides to call it quits—but their “perfect breakup” quickly turns into a messy battle of pride, jealousy, and unresolved feelings. As unexpected twists pull them back together, they must confront the love they thought was long gone. Can they truly walk away from each other?",
+  "tagline": null,
+  "posterPath": "/cP87nkdMNk7rpjmV4EVErAbNotd.jpg",
+  "backdropPath": "/5LrgGelZqXu4qchqYYwLE0KLthK.jpg",
+  "logoPath": "/cnzMIitN5e22wVUxtXKM3B2KIrU.png",
+  "firstAirDate": "2026-08-19",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 11,
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f27932e5-d35e-4aa4-b6a3-3f1aa14b865c",
+      "tvSeriesId": "4f519e8f-8205-451b-bf2a-932c36094240",
+      "tmdbPersonId": 150242,
+      "name": "Lee Min-jung",
+      "character": "Baek Mi-young",
+      "profilePath": "/sAQKiuCtTv4vn5FqduNjsv89wQe.jpg",
+      "order": 0
+    },
+    {
+      "id": "379a5100-a443-4ef0-913b-6e20e53267a3",
+      "tvSeriesId": "4f519e8f-8205-451b-bf2a-932c36094240",
+      "tmdbPersonId": 118977,
+      "name": "Kim Ji-seok",
+      "character": "Ji Won-ho",
+      "profilePath": "/qMKyA4CJvBNhLRBbjV6s6khlf5e.jpg",
+      "order": 1
+    },
+    {
+      "id": "3dd9468d-9dbe-4914-b0b9-1b48aa97db88",
+      "tvSeriesId": "4f519e8f-8205-451b-bf2a-932c36094240",
+      "tmdbPersonId": 3128348,
+      "name": "Ki Eun-se",
+      "character": "Jeon Chi-hyeon",
+      "profilePath": "/hOLijKtN4H3EboraORO83YYyBRY.jpg",
+      "order": 2
+    },
+    {
+      "id": "9e38916a-ff0d-4956-b3db-84483b542bff",
+      "tvSeriesId": "4f519e8f-8205-451b-bf2a-932c36094240",
+      "tmdbPersonId": 1680319,
+      "name": "Ku Sung-hwan",
+      "character": "Ji Seung-ho",
+      "profilePath": "/9oSGpqUOVVtL9vsAxZNWdsaKQM9.jpg",
+      "order": 3
+    },
+    {
+      "id": "aba88072-a955-4b4e-9974-0f6a716a6f8a",
+      "tvSeriesId": "4f519e8f-8205-451b-bf2a-932c36094240",
+      "tmdbPersonId": 1253447,
+      "name": "Lee Hyun-jin",
+      "character": "Calvin",
+      "profilePath": "/89LNeiNNd1B71Ubrhwi3w28r4a3.jpg",
+      "order": 4
+    },
+    {
+      "id": "818163ed-9934-43e1-ab99-4deefd0d6f76",
+      "tvSeriesId": "4f519e8f-8205-451b-bf2a-932c36094240",
+      "tmdbPersonId": 1240217,
+      "name": "Wang Bit-na",
+      "character": "Song Ah-ri",
+      "profilePath": "/iOXdRpsagdVMH5mwDCnB4AujIgl.jpg",
+      "order": 5
+    },
+    {
+      "id": "5d654aee-c459-469e-9b00-521ae282b3d5",
+      "tvSeriesId": "4f519e8f-8205-451b-bf2a-932c36094240",
+      "tmdbPersonId": 2862294,
+      "name": "Jung Eui-jae",
+      "character": "Kang Kyung-tae",
+      "profilePath": "/kP9DLXf6aOw4nCKIoiCoa7f2VOW.jpg",
+      "order": 6
+    },
+    {
+      "id": "94e7e954-b41a-4dbe-b842-99df9ce1a4aa",
+      "tvSeriesId": "4f519e8f-8205-451b-bf2a-932c36094240",
+      "tmdbPersonId": 2464433,
+      "name": "Lee Jini",
+      "character": "Ahn Hee-ju",
+      "profilePath": "/cyhEUoDDMTZ0fs70Jti2thPC372.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "7996dcec-9032-41b1-8ef7-46be94184fe4",
+      "tvSeriesId": "4f519e8f-8205-451b-bf2a-932c36094240",
+      "tmdbId": 427521,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Depicts the real divorce experience of a wedding dress CEO and a designer couple who call for divorce in order to put an end to their exhausting married life.",
+      "posterPath": "/9JaeSxCUS7XWPb6ta6KmRDct6xh.jpg",
+      "airDate": "2026-08-19",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-08-19T19:02:26.525Z",
+      "updatedAt": "2026-09-24T18:44:41.773Z"
+    }
+  ]
+}

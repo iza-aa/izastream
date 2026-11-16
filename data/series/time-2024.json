@@ -1,0 +1,145 @@
+{
+  "slug": "time-2024",
+  "id": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+  "title": "Time",
+  "overview": "A wealthy and ambitious businesswoman is thrust one year into the future and learns that she has been declared missing, her family has fallen apart, and her fiancé has moved on. Determined to uncover the truth, she must confront the life that continued without her.",
+  "tagline": null,
+  "posterPath": "/rCaI3yJWO46JM6ZixEnlfibMGMC.jpg",
+  "backdropPath": "/cg8ZyewbBGjpBIAMPr7nIQTYNub.jpg",
+  "logoPath": null,
+  "firstAirDate": "2024-10-25",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 13,
+  "genres": [
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4bed8886-0ec4-4d52-b462-b31b0ac2d1fe",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbPersonId": 1259409,
+      "name": "Khemanit Jamikorn",
+      "character": "Melanie",
+      "profilePath": "/jWnKARcHRRppqZWxelXWgFwARsq.jpg",
+      "order": 0
+    },
+    {
+      "id": "bc517a11-23d6-450c-a047-e2fcd0201942",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbPersonId": 1339266,
+      "name": "Pakorn Chatborirak",
+      "character": "Thi",
+      "profilePath": "/91W248ta7g7htU9yTn7nxm4CMx6.jpg",
+      "order": 1
+    },
+    {
+      "id": "572b3f79-55dc-4c1c-80d8-52ae2c2fafd2",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbPersonId": 3551676,
+      "name": "Vasin Asvanarunat",
+      "character": "Pokpong",
+      "profilePath": "/rhVMXrwlJay9srTD5Oec1us7N4G.jpg",
+      "order": 2
+    },
+    {
+      "id": "4bb9e98a-e96c-46a9-bfcd-04fe3dc939f3",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbPersonId": 1354528,
+      "name": "Jacqueline Muench",
+      "character": "Kaewta",
+      "profilePath": "/9JTyXfXlVgnwHcCabYYOnHfZkfQ.jpg",
+      "order": 3
+    },
+    {
+      "id": "daf7f3fc-a69f-4b07-9b9b-e6e2daa147b8",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbPersonId": 3262892,
+      "name": "Anuwat Choocherdratana",
+      "character": "Maimueang",
+      "profilePath": "/lP0e7usLwGiBWwF5COAITyzEyg0.jpg",
+      "order": 4
+    },
+    {
+      "id": "9fd9df5e-437f-4d37-8d0a-63eeb2a7c6a0",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbPersonId": 1256326,
+      "name": "Penpak Sirikul",
+      "character": "",
+      "profilePath": "/vYlfd46BnGK1JYOgXrYsDQNCVrp.jpg",
+      "order": 5
+    },
+    {
+      "id": "4132136a-2acd-4772-83ff-b812ef9be375",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbPersonId": 2190304,
+      "name": "Sirinart Sugandharat",
+      "character": "",
+      "profilePath": "/tTPmjfr3dmW5p9GHfivzMHswlrN.jpg",
+      "order": 6
+    },
+    {
+      "id": "831745a5-e576-440b-ab42-f256daaf5a9e",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbPersonId": 4468621,
+      "name": "Paythai Ploymeeka",
+      "character": "",
+      "profilePath": "/92kDcRQklQgeQAvHtmjbmEob8wo.jpg",
+      "order": 7
+    },
+    {
+      "id": "489f21e8-9f69-4656-a1d0-f555de158e42",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbPersonId": 3432567,
+      "name": "Athiwad Sanidwong Na Ayoodthayaa",
+      "character": "",
+      "profilePath": "/1J8dCA06JmcQ5QVTRXaLIFtmJ3u.jpg",
+      "order": 8
+    },
+    {
+      "id": "9de3586f-5e6b-4082-956e-6bc7cc423185",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbPersonId": 574830,
+      "name": "Ampha Phoosit",
+      "character": "",
+      "profilePath": "/5PBYN1XzbAK5nqs1HLAuUkFtROW.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "1e014f37-6ca1-4e13-9dc1-23a48d984b29",
+      "tvSeriesId": "41b234de-7811-4f6d-ab61-b40bfe9b79fa",
+      "tmdbId": 422151,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/Ao8jGpcmAvaVw9pR4WXPKAr2cZW.jpg",
+      "airDate": "2024-10-25",
+      "episodeCount": 13,
+      "isPublished": true,
+      "createdAt": "2026-07-26T08:33:54.807Z",
+      "updatedAt": "2026-07-26T09:12:38.828Z"
+    }
+  ]
+}

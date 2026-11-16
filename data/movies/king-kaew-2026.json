@@ -1,0 +1,331 @@
+{
+  "slug": "king-kaew-2026",
+  "id": "69138c02-9b68-49d3-8301-ba54896deacb",
+  "tmdbId": 1543151,
+  "imdbId": "tt43434480",
+  "title": "King Kaew",
+  "originalTitle": "กิ่งแก้ว",
+  "overview": "After a child in her care dies, a young woman is executed for a crime she didn't commit. Now, her spirit seeks justice for her wrongful death.",
+  "tagline": "I'm innocent.",
+  "posterPath": "/pPdHuTs4RAdxs0yaXnlxl1AM3f1.jpg",
+  "backdropPath": "/huthLzlDdQILNXwQW8MbYvNqMJC.jpg",
+  "logoPath": null,
+  "backdrops": [
+    "/fZ5AD2CpUPSk0wRkxz1j6kp5bdG.jpg",
+    "/huthLzlDdQILNXwQW8MbYvNqMJC.jpg"
+  ],
+  "releaseDate": "2026-01-29",
+  "runtime": 101,
+  "voteAverage": "1.00",
+  "popularity": null,
+  "popularityScore": 128,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=KuXPAePjSR8",
+  "quality": "WEB-DL",
+  "director": "Ekkachai Srivichai",
+  "directorTmdbId": 1146452,
+  "directorProfilePath": "/xNWDQXIBNIhAWjyTGTugjdpZSm2.jpg",
+  "productionCompanies": [
+    {
+      "id": 7924,
+      "name": "M Studio",
+      "logo_path": "/1KG5lcXO8GZ2F6SshuMYw1Yf4vX.png"
+    },
+    {
+      "id": 285915,
+      "name": "MI Group",
+      "logo_path": null
+    },
+    {
+      "id": 167406,
+      "name": "Mae Riang Film",
+      "logo_path": null
+    },
+    {
+      "id": 285914,
+      "name": "Movie Studio VIP",
+      "logo_path": null
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 9214,
+  "watchlistCount": 28,
+  "favouriteCount": 10,
+  "shareCount": 6,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-06-26T18:26:17.442Z",
+  "updatedAt": "2026-06-26T18:27:01.521Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "70196971-23ee-4b23-9894-e2057584b222",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 545200,
+      "name": "Intira Jaroenpura",
+      "character": "Kingkaew",
+      "profilePath": "/ro5x6DYVsH5sgrjbKohPK1JWyMP.jpg",
+      "order": 0
+    },
+    {
+      "id": "8b44064f-f48e-48d2-a0db-62b19fa88c38",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 112727,
+      "name": "Apinya Sakuljaroensuk",
+      "character": "Mi",
+      "profilePath": "/zi1rdMUef6jrkzcHtMGz72H1nUs.jpg",
+      "order": 1
+    },
+    {
+      "id": "daa4a8bb-9803-485e-a140-538ea4855cca",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 3886947,
+      "name": "Napat Injaieua",
+      "character": "Hem",
+      "profilePath": "/slGncD0PULCSnY94jk4A0ncyMYZ.jpg",
+      "order": 2
+    },
+    {
+      "id": "d1f7a1f5-47f6-4d3a-a58f-c6bede4cd275",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 3291220,
+      "name": "Pympan Chalayanacupt",
+      "character": "Wanlapa",
+      "profilePath": "/zxau8MLP1Xh3ij7gLl74ctduxMB.jpg",
+      "order": 3
+    },
+    {
+      "id": "e011b094-0387-43f5-8080-dd6452663f16",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 1146452,
+      "name": "Ekkachai Srivichai",
+      "character": "Some",
+      "profilePath": "/xNWDQXIBNIhAWjyTGTugjdpZSm2.jpg",
+      "order": 4
+    },
+    {
+      "id": "07516a1c-5d0e-4fd1-9dbc-3616f729337f",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 2854861,
+      "name": "Thanetpiphat Sutthihirandamrong",
+      "character": "Pin",
+      "profilePath": null,
+      "order": 5
+    },
+    {
+      "id": "90b10210-5db2-4b63-bd1d-87ff035b5753",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 4182527,
+      "name": "Phakeeya Phongern",
+      "character": "Serm",
+      "profilePath": "/6ySU7vLf3O57RqeUuGseuTpoUdG.jpg",
+      "order": 6
+    },
+    {
+      "id": "18a967c9-2c21-400e-8bd8-57ed9a42a498",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 1158289,
+      "name": "Sonthaya Chitmanee",
+      "character": "Pathom",
+      "profilePath": "/aCQnlRkxESTfY0gokcO7OpvDTVt.jpg",
+      "order": 7
+    },
+    {
+      "id": "5ef7ecb1-16df-4c3d-b510-0bc180e6f519",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 1279581,
+      "name": "Kapon Thongphlap",
+      "character": "Police Officer",
+      "profilePath": "/3MNVl8NtfK82Ewq9nevX1LrIrlM.jpg",
+      "order": 8
+    },
+    {
+      "id": "dc9c02f3-3ddb-4346-b1a1-928e67954f9f",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 3724302,
+      "name": "Thanaphat Imkiat",
+      "character": "Wanchai",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "c9d3b909-c8ff-437c-a698-d288d5bea098",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 5508264,
+      "name": "Chakrit Pongwang",
+      "character": "Prisoner",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "d9d79463-d36c-4abc-bff8-3f39acf05f1f",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 5420474,
+      "name": "Montree Pothong",
+      "character": "Prisoner",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "4ed0e2f3-4d78-4406-8b53-adfc28cba658",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 1650856,
+      "name": "Supachai Nakboon",
+      "character": "Prisoner",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "82121be8-16cd-4086-b67f-30f2a797544e",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 1327774,
+      "name": "Panujit Sriyaran",
+      "character": "Prisoner",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "1e0aa108-c6d7-4807-ac35-e5d4a6a8d7e0",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 1452159,
+      "name": "Phermsit Boonprasert",
+      "character": "Prisoner",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "0d2056f9-6ecc-4a95-b347-e494335e21c0",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 5598687,
+      "name": "Maithai Siriphom",
+      "character": "Prisoner",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "fb0cb1c2-73b4-4be2-9bc9-0a386591649d",
+      "movieId": "69138c02-9b68-49d3-8301-ba54896deacb",
+      "tmdbPersonId": 5919387,
+      "name": "Suphat Sakhon",
+      "character": "Prisoner",
+      "profilePath": null,
+      "order": 16
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "paw-and-palaces-2025",
+  "id": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+  "title": "Paw & Palaces",
+  "overview": "In the Forbidden City, which has a long history and profound cultural heritage, there live many cute cats. From the perspective of humans, they live an enviable and leisurely life. Among them, six royal cats are special. They are responsible for protecting the memory of cultural relics of \"Wuhua.\" They entered the world of Wuhua and defeated the destroyer Black Owl time and time again, bringing the world of Wuhua back on the right track and thus protecting the cultural relics.\n\nThe six imperial cats are Luban and Momo from the literary class, and Shuangmei, Aobai, Pingan and Xiaozai from the martial class. Not only are they intelligent and brave, they also have a tacit understanding. They form the Forbidden City Imperial Cat Room, which protects the national treasures of the world.",
+  "tagline": null,
+  "posterPath": "/6mIWueYl03IsgvCr7A2j5Ywd8zZ.jpg",
+  "backdropPath": "/iX52MBAthajGgmcY4MZamBqdfm.jpg",
+  "logoPath": "/nasq8nJM4UuIdtacGutNhkclr01.png",
+  "firstAirDate": "2025-12-03",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e25a5520-dc9d-4f37-bb36-c540e373ba8d",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbPersonId": 4336435,
+      "name": "Zhang Siwangzhi",
+      "character": "Shuang Mei (voice)",
+      "profilePath": "/8wzlUYBl73STYtqpO6XH9wYlQYH.jpg",
+      "order": 0
+    },
+    {
+      "id": "da038092-4252-4448-a097-7935ff57ba2d",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbPersonId": 1185786,
+      "name": "Liu Shishi",
+      "character": "Ping An (voice)",
+      "profilePath": "/yPyMTroHKKpK2g24o7920erAa3L.jpg",
+      "order": 1
+    },
+    {
+      "id": "26101891-6781-4080-9da8-34bb64b76159",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbPersonId": 5477857,
+      "name": "Li Jiaxiang",
+      "character": "A Bai (voice)",
+      "profilePath": "/zAfsDoUPvbIoJ5s2T2Mj00ay5uN.jpg",
+      "order": 2
+    },
+    {
+      "id": "22bfdc4f-c59d-46af-b26a-0dfce1b25310",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbPersonId": 2199315,
+      "name": "Shuiyu Tang",
+      "character": "Uncle Ban (voice)",
+      "profilePath": "/pGHWBg43CYa8g6tYdRYzQ9cmklT.jpg",
+      "order": 3
+    },
+    {
+      "id": "00f52a84-f671-43a5-8951-292ed298767e",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbPersonId": 2702141,
+      "name": "Jinwen Chen",
+      "character": "Xiao Zi (voice)",
+      "profilePath": "/hJXKRcrbVpKc2q1rIbH6DU2INPH.jpg",
+      "order": 4
+    },
+    {
+      "id": "d6a5d33e-5cc3-4095-b120-49ba1a343f84",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbPersonId": 4335054,
+      "name": "Zhang Huilin",
+      "character": "Me Me (voice)",
+      "profilePath": "/7zB8NhqoZzMoEQpQDOAJIfdgVYV.jpg",
+      "order": 5
+    },
+    {
+      "id": "2193faa6-1f8f-48eb-931a-ce081c501cf8",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbPersonId": 3011361,
+      "name": "Lu Lifeng",
+      "character": "Wan Tong (voice)",
+      "profilePath": "/2hCrnRCp4eAvanaZYIJRKX0e2VG.jpg",
+      "order": 6
+    },
+    {
+      "id": "f4572eb6-081d-4671-84c7-8fc9ea40b635",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbPersonId": 2866415,
+      "name": "Bai Xuecen",
+      "character": "Consort Wan (voice)",
+      "profilePath": "/hU7V64dz0qruxptwUeLQnkJiMcD.jpg",
+      "order": 7
+    },
+    {
+      "id": "2ef062e9-4efd-46ee-bae4-4b41e9a54b89",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbPersonId": 3837521,
+      "name": "Shi Zekun",
+      "character": "Wu Miao (voice)",
+      "profilePath": "/1O3W2fPIfMTMo6cFpUnxvhivJje.jpg",
+      "order": 8
+    },
+    {
+      "id": "0d0f0029-d48d-46e9-99f6-cd61d3ecb3d0",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbPersonId": 1870042,
+      "name": "Li Lanling",
+      "character": "Wu You / Wu Lv (voice)",
+      "profilePath": "/ejeFtmhRq12vJU7VfWySggmyh3y.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "71d044cf-0fcd-4e19-9e9b-b1c8ca8e206a",
+      "tvSeriesId": "c5a4308a-b6b3-4091-b5e0-182d863dff90",
+      "tmdbId": 485990,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/kRD7ogPsz3u8sdsKEBkBndSbTnR.jpg",
+      "airDate": "2025-12-03",
+      "episodeCount": 16,
+      "isPublished": true,
+      "createdAt": "2026-10-25T05:43:29.080Z",
+      "updatedAt": "2026-11-14T05:30:15.124Z"
+    }
+  ]
+}

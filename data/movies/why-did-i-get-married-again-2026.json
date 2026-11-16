@@ -1,0 +1,356 @@
+{
+  "slug": "why-did-i-get-married-again-2026",
+  "id": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+  "tmdbId": 1522689,
+  "imdbId": "tt38061210",
+  "title": "Why Did I Get Married Again?",
+  "originalTitle": "Why Did I Get Married Again?",
+  "overview": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again?\"",
+  "tagline": "Ring any bells?",
+  "posterPath": "/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+  "backdropPath": "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+  "logoPath": "/opsE1rUAgCy29Bdv6EbXnP1e5PO.png",
+  "backdrops": [
+    "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+    "/3jbTQfPCu1ntQpy2VD8EV5CBcf8.jpg",
+    "/lxkNZmkOb5q2NWcTRIvO65acSGi.jpg",
+    "/w8XGRzcSMX0F6VCxu81JK7SV6Hb.jpg",
+    "/kDhdAhcYAARP7Ia5Ngq8UstjJMg.jpg",
+    "/wN7q35NYyMzVMRQcRwL7y8QtRSm.jpg",
+    "/3rB7DIUAB2gqQ0ur5Ff7n7fPFcu.jpg",
+    "/4RzYXcQeFgRyNqc08kzy6AMTes6.jpg",
+    "/dC6zb7ufx8fNfIx7Hzj9WOTSmMk.jpg",
+    "/eAFQxhsjfeN62kgnTMdo1yUga1x.jpg"
+  ],
+  "releaseDate": "2026-09-08",
+  "runtime": 112,
+  "voteAverage": "7.20",
+  "popularity": null,
+  "popularityScore": 24,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=VylsOZBYxQA",
+  "quality": "WEB-DL",
+  "director": "Tyler Perry",
+  "directorTmdbId": 80602,
+  "directorProfilePath": "/8KU0OizemVLrERXt5HJIa0PAkIN.jpg",
+  "productionCompanies": [
+    {
+      "id": 3096,
+      "name": "Tyler Perry Studios",
+      "logo_path": "/fkZTZ4veYYr3lwr2riVrVAOfeqD.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 9663,
+      "name": "sequel"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1281,
+  "watchlistCount": 14,
+  "favouriteCount": 1,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-10T05:18:20.689Z",
+  "updatedAt": "2026-09-10T05:18:27.218Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "619caec8-330a-4ac8-ad58-36e889318be2",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 80602,
+      "name": "Tyler Perry",
+      "character": "Terry",
+      "profilePath": "/8KU0OizemVLrERXt5HJIa0PAkIN.jpg",
+      "order": 0
+    },
+    {
+      "id": "45b8b361-d392-4d95-aeac-d12ccf3e6639",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 40036,
+      "name": "Taraji P. Henson",
+      "character": "Roselyn",
+      "profilePath": "/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg",
+      "order": 1
+    },
+    {
+      "id": "25c680dc-a87e-4e73-9623-c5fcffafcfc7",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 4721,
+      "name": "Jill Scott",
+      "character": "Sheila",
+      "profilePath": "/vfq3acT3sWG1b2M4ior10zqXFd1.jpg",
+      "order": 2
+    },
+    {
+      "id": "58ee9ca2-038c-4209-ad0e-7f2be0eab02d",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 55755,
+      "name": "Richard T. Jones",
+      "character": "Mike",
+      "profilePath": "/hdko2C45Wr5G03Z8JwGjWMynP84.jpg",
+      "order": 3
+    },
+    {
+      "id": "1c9c190f-5475-4243-9a00-c132913e4f1b",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 74610,
+      "name": "Tasha Smith",
+      "character": "Angela",
+      "profilePath": "/viJnHL3BjQ5oqisXklQWGlh29Hx.jpg",
+      "order": 4
+    },
+    {
+      "id": "992dd53f-5ef2-44df-9cb1-ae3eebb4da15",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 64856,
+      "name": "Michael Jai White",
+      "character": "Marcus",
+      "profilePath": "/YPoHYuzR37wFpPpwEXZYQlhLln.jpg",
+      "order": 5
+    },
+    {
+      "id": "f5309522-1923-4e98-bef6-9e31a6b7a488",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 15566,
+      "name": "Sharon Leal",
+      "character": "Diane",
+      "profilePath": "/3dJCnAZDG2ZN7Hxct8UAdPePpuz.jpg",
+      "order": 6
+    },
+    {
+      "id": "9bc91205-dad8-4e08-bd2b-6a39ee541b4f",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 1218183,
+      "name": "Lamman Rucker",
+      "character": "Troy",
+      "profilePath": "/97JGsO3FR13MLa3hrs9A0cIzGBo.jpg",
+      "order": 7
+    },
+    {
+      "id": "bb557d28-a693-4fe5-8579-03c5f1b55515",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 5147758,
+      "name": "Armani Greer",
+      "character": "Jasmine",
+      "profilePath": null,
+      "order": 8
+    },
+    {
+      "id": "23d8867f-827e-4497-bf8c-8e684797b42e",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 3518995,
+      "name": "Everett Osborne",
+      "character": "Wesley",
+      "profilePath": "/mDBkxdX8p0fc1wEFNyAF5MFTHGG.jpg",
+      "order": 9
+    },
+    {
+      "id": "d32fb18c-015d-4313-8f55-3a17f88be43e",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 1994105,
+      "name": "Da'Vinchi",
+      "character": "Marcus Jr.",
+      "profilePath": "/9CHXT3NKUZDPUyNMkwDj5zLMUTT.jpg",
+      "order": 10
+    },
+    {
+      "id": "7926558e-550a-482b-a9f5-6ee2ac377edf",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 1392542,
+      "name": "Laya DeLeon Hayes",
+      "character": "Kenya",
+      "profilePath": "/85lPEUEjpO4WcxbBs9ba9I1ZEPp.jpg",
+      "order": 11
+    },
+    {
+      "id": "8d4974b7-cfa2-4163-8f79-b9c9b3eee59f",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 1650148,
+      "name": "Jaden Michael",
+      "character": "TJ",
+      "profilePath": "/xXhbEcicacePnh7cH012Ji6JUFq.jpg",
+      "order": 12
+    },
+    {
+      "id": "c5341f45-b514-4315-bb16-96c60e298568",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 3758858,
+      "name": "Charles L. Smith II",
+      "character": "Denver",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "459c0643-a0ba-4a5f-a3ed-108d6a596deb",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 1969402,
+      "name": "Derrick A. King",
+      "character": "Nick",
+      "profilePath": "/l30nT4muLAv5OKnGtpWqAdi9VBy.jpg",
+      "order": 14
+    },
+    {
+      "id": "1e21e25c-5acb-4a6d-97aa-cea968b4aa23",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 2940681,
+      "name": "Sydney Winbush",
+      "character": "Regina",
+      "profilePath": "/r3Mj2zXh9qbUKT82UPcOiRs8VJQ.jpg",
+      "order": 15
+    },
+    {
+      "id": "c2d94e13-e5b2-47e2-b2dc-02ee1d2358c9",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 172997,
+      "name": "Maya Massar",
+      "character": "Female #1",
+      "profilePath": "/14vPkIBljvYbAAkjnIMJZhalcok.jpg",
+      "order": 16
+    },
+    {
+      "id": "94d6a8e5-ca02-423c-9370-cd569a43d3eb",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 6467730,
+      "name": "Herb Magwood",
+      "character": "Bouncer",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "c94150b1-c302-4ded-aa46-c81b815f43f7",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 5494439,
+      "name": "Alessandra Porcù",
+      "character": "Wedding Coordinator",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "38c4fc7f-d591-4345-aa8c-0291b7e426fd",
+      "movieId": "48b80115-325e-4f66-bc46-4bd3a449c6a8",
+      "tmdbPersonId": 6467732,
+      "name": "Franco Alberto",
+      "character": "Pastor",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

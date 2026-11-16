@@ -1,0 +1,50 @@
+{
+  "slug": "misty-hearts-2026",
+  "id": "9906842f-c554-4e4c-820d-edbe935201da",
+  "title": "Misty Hearts",
+  "overview": "Mei Lin, a burnout cartoonist. Come to Phayao Province to find new inspiration. Unexpectedly, they meet Niran, a discreet and sober hotel manager who has a heart hidden from a small misunderstanding on the first day, gradually becoming learning about each other, through travel, art, nature, and honest conversations.",
+  "tagline": null,
+  "posterPath": "/dpHvLszmB31C2rMQZr2oPJfphn.jpg",
+  "backdropPath": "/2lvGItbOdXdLNvtSYFI8UouzA2N.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-02-27",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 4,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "118770cf-07de-49a5-957f-de194a746fd0",
+      "tvSeriesId": "9906842f-c554-4e4c-820d-edbe935201da",
+      "tmdbPersonId": 2214738,
+      "name": "Chatchawit Techarukpong",
+      "character": "Niran",
+      "profilePath": "/8TzHVNq9FPGsY5ArtccLFEYhL0r.jpg",
+      "order": 0
+    }
+  ],
+  "seasons": [
+    {
+      "id": "d2ba0250-c281-45bf-88ea-4d54eec1f0bc",
+      "tvSeriesId": "9906842f-c554-4e4c-820d-edbe935201da",
+      "tmdbId": 502796,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-02-27",
+      "episodeCount": 4,
+      "isPublished": true,
+      "createdAt": "2026-05-23T16:35:07.183Z",
+      "updatedAt": "2026-05-23T16:36:34.921Z"
+    }
+  ]
+}

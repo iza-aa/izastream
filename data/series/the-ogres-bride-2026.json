@@ -1,0 +1,116 @@
+{
+  "slug": "the-ogres-bride-2026",
+  "id": "4098bba1-97a7-43ac-a42a-bb5eebc94f75",
+  "title": "The Ogre's Bride",
+  "overview": "In a world where humans and ayakashi–supernatural beings–coexist, being chosen as an ayakashi’s bride is the ultimate honor. Yuzu, an ordinary schoolgirl, has been overlooked her whole life, eclipsed by the shadow of her sister Karin, a chosen bride. Just when Yuzu has had enough, she unexpectedly captures the heart of Reiya, a dashing ogre from a powerful clan who claims Yuzu as his own.",
+  "tagline": null,
+  "posterPath": "/oZHzniVRilau9vY7mOe36smC09T.jpg",
+  "backdropPath": "/4dlXMSpEw5wiuXr87IKQm22OHQg.jpg",
+  "logoPath": "/9JhsIjU15Av8DQ9s0bcn2J7ucUe.png",
+  "firstAirDate": "2026-07-05",
+  "voteAverage": "9.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c731d6b9-e926-4756-8f57-7c82d335ecac",
+      "tvSeriesId": "4098bba1-97a7-43ac-a42a-bb5eebc94f75",
+      "tmdbPersonId": 221773,
+      "name": "Saori Hayami",
+      "character": "Yuzu Shinonome (voice)",
+      "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg",
+      "order": 0
+    },
+    {
+      "id": "1d29ad47-d5ef-4fb7-99a7-11a3987a7155",
+      "tvSeriesId": "4098bba1-97a7-43ac-a42a-bb5eebc94f75",
+      "tmdbPersonId": 1483496,
+      "name": "Yuuichirou Umehara",
+      "character": "Reiya Kiryuin (voice)",
+      "profilePath": "/lScrvZi4tKKpk3PbnIjLVjHVNJn.jpg",
+      "order": 1
+    },
+    {
+      "id": "3f31a6e2-ee25-4dfd-9686-697222946424",
+      "tvSeriesId": "4098bba1-97a7-43ac-a42a-bb5eebc94f75",
+      "tmdbPersonId": 1835721,
+      "name": "Manaka Iwami",
+      "character": "Karin Shinonome (voice)",
+      "profilePath": "/leKMaCBswXG8u4mfQNQ7J3y6Xow.jpg",
+      "order": 2
+    },
+    {
+      "id": "ebca0744-6732-45d2-bc31-8b26a6fdb8e2",
+      "tvSeriesId": "4098bba1-97a7-43ac-a42a-bb5eebc94f75",
+      "tmdbPersonId": 1324468,
+      "name": "Ryota Osaka",
+      "character": "Yota Kogetsu (voice)",
+      "profilePath": "/d2TGy8Qkxe90tGDr9MCXFGkhbPl.jpg",
+      "order": 3
+    },
+    {
+      "id": "a5032661-867b-47b3-a3d4-1597090bdf5a",
+      "tvSeriesId": "4098bba1-97a7-43ac-a42a-bb5eebc94f75",
+      "tmdbPersonId": 1407597,
+      "name": "Sayaka Senbongi",
+      "character": "Toko (voice)",
+      "profilePath": "/yLRKX9DPDGgTRKBQRFTUh3pvbU0.jpg",
+      "order": 4
+    },
+    {
+      "id": "1d175a38-cbc1-4b19-b17f-1f39b786265a",
+      "tvSeriesId": "4098bba1-97a7-43ac-a42a-bb5eebc94f75",
+      "tmdbPersonId": 1256603,
+      "name": "Natsuki Hanae",
+      "character": "Toukichi Nekota (voice)",
+      "profilePath": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg",
+      "order": 5
+    }
+  ],
+  "seasons": [
+    {
+      "id": "f489fcb0-1d4f-4d4d-a772-ece37cebb548",
+      "tvSeriesId": "4098bba1-97a7-43ac-a42a-bb5eebc94f75",
+      "tmdbId": 460175,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/looW4VWHz9mNzA3NjI1FlO1P5e7.jpg",
+      "airDate": "2026-07-05",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-22T20:38:28.221Z",
+      "updatedAt": "2026-09-22T20:39:26.439Z"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "love-2026",
+  "id": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+  "title": "#Love",
+  "overview": "The pragmatic creator of a dating app and her adventurous competitor test their theories about love in a 60-day challenge to find their ideal partner.",
+  "tagline": null,
+  "posterPath": "/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg",
+  "backdropPath": "/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-10-02",
+  "voteAverage": "10.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "10c96981-45e3-4174-a883-e99f35004eab",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbPersonId": 2483439,
+      "name": "Arjun Das",
+      "character": "Matthew Jebaraj (Matthew)",
+      "profilePath": "/20RDzfTjpfRHxLYBfnIYXs7vcri.jpg",
+      "order": 0
+    },
+    {
+      "id": "dc605862-2c78-4f75-be6a-6218c1f92538",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbPersonId": 1861484,
+      "name": "Aishwarya Lekshmi",
+      "character": "Tara Krishnan (Tara)",
+      "profilePath": "/b3yxjhc62X0JZghaRTYNMVrI78a.jpg",
+      "order": 1
+    },
+    {
+      "id": "e3daa578-affb-45b2-a714-94db58f71655",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbPersonId": 2878556,
+      "name": "Namita Krishnamurthy",
+      "character": "Mia",
+      "profilePath": "/h7uTVJgMZ5Qaevxc7Qu80YaEQ7q.jpg",
+      "order": 2
+    },
+    {
+      "id": "2d49a048-5855-4464-a898-69b72086d462",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbPersonId": 3157621,
+      "name": "Harini Sundararajan",
+      "character": "Sylvia",
+      "profilePath": "/eiWVk20RF5i6p6xPbsMqZRHz0fN.jpg",
+      "order": 3
+    },
+    {
+      "id": "a01c4869-de7d-4401-bbc4-4c9259b68fa9",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbPersonId": 3609825,
+      "name": "Nanditha Sreekumar",
+      "character": "Lilly",
+      "profilePath": "/tsnz72tfaaODWYRU72EaUMzQIZe.jpg",
+      "order": 4
+    },
+    {
+      "id": "b863b1f4-5caa-420f-b620-4cde3393ee56",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbPersonId": 1321729,
+      "name": "Arjun Chidambaram",
+      "character": "Harish",
+      "profilePath": "/yay74IONzoiC50I2Od5L5a0bcbm.jpg",
+      "order": 5
+    },
+    {
+      "id": "3b591140-4983-4221-a6a0-cd5e262e1184",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbPersonId": 4665647,
+      "name": "Gayatri Hariharan",
+      "character": "Mrithula",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "8d747cf0-b19a-47fc-b383-ec0e7f47cf47",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbPersonId": 6484718,
+      "name": "Arjun Manohar",
+      "character": "Jay",
+      "profilePath": null,
+      "order": 7
+    },
+    {
+      "id": "03c8afb3-64ff-41ad-820a-a3c9278b9e31",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbPersonId": 3389558,
+      "name": "Abishek Joseph George",
+      "character": "Ashwanth",
+      "profilePath": "/2CixcEaF2Tw9QUcs12eZJJSjEWD.jpg",
+      "order": 8
+    },
+    {
+      "id": "cbe1d698-bc7f-4e4e-b754-948ac4d464b0",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbPersonId": 2983988,
+      "name": "R. Badree",
+      "character": "Chakri",
+      "profilePath": "/zWHjyRs8SvEhkY4rECuJtlTTbBo.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "f2b61493-5d1e-468c-b177-fb5b038c098f",
+      "tvSeriesId": "3b61bef3-f341-41c2-97f1-3f3e3b105430",
+      "tmdbId": 479656,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Startup founder Tara and investor Matthew clash over their rival dating apps - hers based on compatibility, his on chemistry. They challenge each other to prove which approach works better.",
+      "posterPath": null,
+      "airDate": "2026-10-02",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-10-08T16:12:33.726Z",
+      "updatedAt": "2026-10-08T16:13:22.612Z"
+    }
+  ]
+}

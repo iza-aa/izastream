@@ -1,0 +1,113 @@
+{
+  "slug": "night-tales-2026",
+  "id": "f0ee5b3c-7d61-4163-9c0a-b4cfc39fe12c",
+  "title": "Night Tales",
+  "overview": "After being betrayed by her lover and mentor, a talented winemaker assumes the identity of an illegitimate heiress to infiltrate a powerful family. As her carefully laid plans unfold, hidden agendas threaten to destroy everyone involved.",
+  "tagline": null,
+  "posterPath": "/9JMxUxsIhRAMXLZ8xIc7ZrYA9aU.jpg",
+  "backdropPath": "/xjReW7kiCuMZpYyGjOr1PDZcfFE.jpg",
+  "logoPath": null,
+  "firstAirDate": "2026-08-02",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f2c7783d-2844-428c-ba73-ed7a6dc5856a",
+      "tvSeriesId": "f0ee5b3c-7d61-4163-9c0a-b4cfc39fe12c",
+      "tmdbPersonId": 2408015,
+      "name": "Li Wenhan",
+      "character": "Cheng An",
+      "profilePath": "/eUi1yeqa7YIl4LIwz1rDasteJ27.jpg",
+      "order": 0
+    },
+    {
+      "id": "0ddd12ed-ebf5-408c-85cd-26fb25803df9",
+      "tvSeriesId": "f0ee5b3c-7d61-4163-9c0a-b4cfc39fe12c",
+      "tmdbPersonId": 2325917,
+      "name": "He Nan",
+      "character": "Sang Luo / Ye Xiaowei",
+      "profilePath": "/5mkgprDlDC3TwnPwa8neUBx75C2.jpg",
+      "order": 1
+    },
+    {
+      "id": "b234bb45-a51e-48f3-835c-abfa2e635d71",
+      "tvSeriesId": "f0ee5b3c-7d61-4163-9c0a-b4cfc39fe12c",
+      "tmdbPersonId": 3743871,
+      "name": "Sun Sifan",
+      "character": "Cheng Yan",
+      "profilePath": "/fHzlhlzitchNnWw7ryNKj5vkfAd.jpg",
+      "order": 2
+    },
+    {
+      "id": "70a3ffad-e58b-4797-a167-d6e57a5ffd91",
+      "tvSeriesId": "f0ee5b3c-7d61-4163-9c0a-b4cfc39fe12c",
+      "tmdbPersonId": 4490370,
+      "name": "Shen Yu",
+      "character": "Fang Liangxi",
+      "profilePath": "/yFIGt00OgVX6MgDoqvx4qjHYDbr.jpg",
+      "order": 3
+    },
+    {
+      "id": "c1612482-0308-4891-a561-6789038aea58",
+      "tvSeriesId": "f0ee5b3c-7d61-4163-9c0a-b4cfc39fe12c",
+      "tmdbPersonId": 2463670,
+      "name": "Li Bowen",
+      "character": "Yi Kai",
+      "profilePath": "/cdpOTVi1kDe80dC2gN9OticQd5C.jpg",
+      "order": 4
+    },
+    {
+      "id": "70500a63-d9bc-4a7e-a0be-3eb664abaeef",
+      "tvSeriesId": "f0ee5b3c-7d61-4163-9c0a-b4cfc39fe12c",
+      "tmdbPersonId": 1797697,
+      "name": "Li Muyun",
+      "character": "Lin Wanmei",
+      "profilePath": "/36DdM8mnXgSqJSG0gdwLiHg0cyJ.jpg",
+      "order": 5
+    },
+    {
+      "id": "dce5219b-0927-43fb-8346-f0c87a2d914e",
+      "tvSeriesId": "f0ee5b3c-7d61-4163-9c0a-b4cfc39fe12c",
+      "tmdbPersonId": 5305543,
+      "name": "Guo Tianqi",
+      "character": "Cheng Ruolin",
+      "profilePath": null,
+      "order": 6
+    },
+    {
+      "id": "24a06366-adb1-402b-8931-ec707404eb82",
+      "tvSeriesId": "f0ee5b3c-7d61-4163-9c0a-b4cfc39fe12c",
+      "tmdbPersonId": 3242348,
+      "name": "Xu Xinchi",
+      "character": "Zhou Yucheng",
+      "profilePath": "/nCrxWDyb1gXpLtz1GTcwXBpMqDm.jpg",
+      "order": 7
+    }
+  ],
+  "seasons": [
+    {
+      "id": "b5c93406-4717-4d8c-82ec-7769a8fc4458",
+      "tvSeriesId": "f0ee5b3c-7d61-4163-9c0a-b4cfc39fe12c",
+      "tmdbId": 533741,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": null,
+      "airDate": "2026-08-02",
+      "episodeCount": 24,
+      "isPublished": true,
+      "createdAt": "2026-08-19T17:31:17.122Z",
+      "updatedAt": "2026-08-19T17:47:19.372Z"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "sofia-the-first-2013",
+  "id": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+  "title": "Sofia the First",
+  "overview": "Set in the storybook world of Enchancia, this is the story of Princess Sofia, an adventurous little girl who is learning how to adjust to royal life after her mom marries the king and she becomes a princess overnight.",
+  "tagline": null,
+  "posterPath": "/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
+  "backdropPath": "/5tLsZoolMwqkCMUwEXYfh61Pajn.jpg",
+  "logoPath": "/ur79j3v38ekMqjKAAEh54gjdJy4.png",
+  "firstAirDate": "2013-01-11",
+  "voteAverage": "7.19",
+  "numberOfSeasons": 4,
+  "numberOfEpisodes": 6,
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "efd8c60d-d42f-4a91-8d99-6dbe8aec41f2",
+      "tmdbId": 10762,
+      "name": "Kids",
+      "slug": "kids",
+      "createdAt": "2026-04-02T16:37:02.488Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "48dbf6ec-6dd1-4f37-b8ac-1813388c0b1c",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbPersonId": 42160,
+      "name": "Ariel Winter",
+      "character": "Princess Sofia (voice)",
+      "profilePath": "/1h0XaXnieP5CdTAeRGuALBJmD4R.jpg",
+      "order": 0
+    },
+    {
+      "id": "aa405e92-cf3c-4f60-99b4-59daf3c79109",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbPersonId": 76669,
+      "name": "Wayne Brady",
+      "character": "Clover (voice)",
+      "profilePath": "/zRIYr4jl7LiEDbbaFcwFiRwLhw1.jpg",
+      "order": 1
+    },
+    {
+      "id": "aa028241-58bf-47a8-b337-940678e6b234",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbPersonId": 225863,
+      "name": "Zach Callison",
+      "character": "Prince James (voice)",
+      "profilePath": "/xZ498fu7e34DNBDVNMAs4phMrdV.jpg",
+      "order": 3
+    },
+    {
+      "id": "c99dc9a5-8cda-472a-b375-4e78cc457ef2",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbPersonId": 1218645,
+      "name": "Tim Gunn",
+      "character": "Baileywick (voice)",
+      "profilePath": "/dnBt0B29w7M0YvzzM0advaAnY81.jpg",
+      "order": 4
+    },
+    {
+      "id": "e46ea458-5804-4936-9fcd-d93b8a1a0be0",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbPersonId": 1211651,
+      "name": "Tyler Merna",
+      "character": "Prince James (voice)",
+      "profilePath": "/wlQa6juoxzNYTUJUT8J6RM9tHrs.jpg",
+      "order": 5
+    },
+    {
+      "id": "8501dcaf-2c51-4c5f-8993-7959bcb005c5",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbPersonId": 206926,
+      "name": "Darcy Rose Byrnes",
+      "character": "Princess Amber (voice)",
+      "profilePath": "/hR5Jk5VEiPAwKdphtsUhjQnI3A0.jpg",
+      "order": 100
+    },
+    {
+      "id": "7b75b150-1c75-4cf5-a847-2b6688068e39",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbPersonId": 1696351,
+      "name": "Nicolas Cantu",
+      "character": "Prince James (voice)",
+      "profilePath": "/ySFxLOQ9ejiZddviRVf9bhZvDsf.jpg",
+      "order": 502
+    },
+    {
+      "id": "9c8295d0-98e4-40f4-b8ad-dd5522857316",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbPersonId": 21702,
+      "name": "Ming-Na Wen",
+      "character": "Vega (voice)",
+      "profilePath": "/eqCzFF83It56cUdjpskzvg8jgq.jpg",
+      "order": 516
+    },
+    {
+      "id": "d896db6a-bbf4-4bda-866e-5e3000dbb36a",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbPersonId": 5149,
+      "name": "Bonnie Hunt",
+      "character": "Aunt Tilly (voice)",
+      "profilePath": "/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg",
+      "order": 519
+    },
+    {
+      "id": "cc4fb13e-6a37-4692-8d0e-e3515728c219",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbPersonId": 156962,
+      "name": "Eric Stonestreet",
+      "character": "Minimus (voice)",
+      "profilePath": "/lz0m88IjLZ8OcEHU2jhPvubcr7k.jpg",
+      "order": 521
+    }
+  ],
+  "seasons": [
+    {
+      "id": "6e9c8628-5d93-4e41-9f83-b05484ddef61",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbId": 55067,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "Lessons at the Royal Preparatory Academy and run-ins with a wicked wizard teach young princess Sofia that true nobility comes from the heart.",
+      "posterPath": "/3kQXgtrlvyJ8R8oktZZo79XgXLl.jpg",
+      "airDate": "2013-01-11",
+      "episodeCount": 25,
+      "isPublished": true,
+      "createdAt": "2026-09-14T10:13:22.826Z",
+      "updatedAt": "2026-09-14T16:35:49.969Z"
+    },
+    {
+      "id": "09bc4309-89f0-4d2e-b5e4-fd6112d2ba85",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbId": 68861,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "Young Princess Sofia returns for more fun-filled adventures, including entering a Flying Derby race and getting stuck inside an enchanted painting.",
+      "posterPath": "/frGPjinwbAZLpldYUz2LUyi9DNI.jpg",
+      "airDate": "2014-03-07",
+      "episodeCount": 31,
+      "isPublished": true,
+      "createdAt": "2026-09-14T10:13:22.826Z",
+      "updatedAt": "2026-09-14T16:35:50.952Z"
+    },
+    {
+      "id": "d8a12441-4060-4194-9fbf-f629c9a16554",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbId": 69366,
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "overview": "Underwater kingdoms, adventure clubs and a secret library are just a few of the exciting things Sofia encounters in her royal exploits in Season 3.",
+      "posterPath": "/r2CNLGIkziHsyqsmBMvGvSf1HFZ.jpg",
+      "airDate": "2015-08-05",
+      "episodeCount": 30,
+      "isPublished": true,
+      "createdAt": "2026-09-14T10:13:22.826Z",
+      "updatedAt": "2026-09-14T16:35:51.861Z"
+    },
+    {
+      "id": "dcf602c3-ec54-46ef-a245-70f3ae948964",
+      "tvSeriesId": "2bacf19e-a6f4-4678-95c9-ca6d8a2d273b",
+      "tmdbId": 90218,
+      "seasonNumber": 4,
+      "name": "Season 4",
+      "overview": "Sofia is back for more adventures and heroics, meeting magical creatures and helping her friends confront new enemies.",
+      "posterPath": "/119ZjZToikpaumAfe40kHPYfAo3.jpg",
+      "airDate": "2017-04-28",
+      "episodeCount": 30,
+      "isPublished": true,
+      "createdAt": "2026-09-14T10:13:22.826Z",
+      "updatedAt": "2026-09-14T16:35:52.739Z"
+    }
+  ]
+}

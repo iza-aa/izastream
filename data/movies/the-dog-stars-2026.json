@@ -1,0 +1,421 @@
+{
+  "slug": "the-dog-stars-2026",
+  "id": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+  "tmdbId": 1384216,
+  "imdbId": "tt21285562",
+  "title": "The Dog Stars",
+  "originalTitle": "The Dog Stars",
+  "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+  "tagline": "At the end of the world, no one survives alone.",
+  "posterPath": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
+  "backdropPath": "/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+  "logoPath": "/mk9IHaDuNrhF9hf5LNYFLsyrfUb.png",
+  "backdrops": [
+    "/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+    "/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+    "/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+    "/hR6QVdjy3Tky1mtzdPqTsFS2nQ.jpg",
+    "/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
+    "/srbk1HHT6eKjguGVOJVSHFA691R.jpg",
+    "/rxuSFjiINfMk62a9aQ9Itbn4gVj.jpg",
+    "/zBOKwwuhgRQKGL9x1bc1RtiYpZI.jpg",
+    "/Ao8AkBfJINYcoBmyl1p0MB9z3FW.jpg",
+    "/5cgiN7zADfleheeUPWg0SChGtUB.jpg"
+  ],
+  "releaseDate": "2026-08-26",
+  "runtime": 119,
+  "voteAverage": "6.60",
+  "popularity": null,
+  "popularityScore": 2449,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
+  "quality": "WEB-DL",
+  "director": "Ridley Scott",
+  "directorTmdbId": 578,
+  "directorProfilePath": "/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg",
+  "productionCompanies": [
+    {
+      "id": 127928,
+      "name": "20th Century Studios",
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png"
+    },
+    {
+      "id": 221347,
+      "name": "Scott Free Productions",
+      "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 4565,
+      "name": "dystopia"
+    },
+    {
+      "id": 1977,
+      "name": "denver, colorado"
+    },
+    {
+      "id": 3203,
+      "name": "pilot"
+    },
+    {
+      "id": 1981,
+      "name": "colorado"
+    },
+    {
+      "id": 9872,
+      "name": "grief"
+    },
+    {
+      "id": 188973,
+      "name": "pandemic"
+    },
+    {
+      "id": 201125,
+      "name": "detached"
+    },
+    {
+      "id": 207972,
+      "name": "lonely man"
+    },
+    {
+      "id": 208397,
+      "name": "death of wife"
+    },
+    {
+      "id": 249891,
+      "name": "scavengers"
+    },
+    {
+      "id": 254167,
+      "name": "loving"
+    },
+    {
+      "id": 325832,
+      "name": "joyful"
+    },
+    {
+      "id": 345046,
+      "name": "group"
+    },
+    {
+      "id": 357092,
+      "name": "dogs"
+    },
+    {
+      "id": 359337,
+      "name": "post-apocalyptic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 25155,
+  "watchlistCount": 232,
+  "favouriteCount": 62,
+  "shareCount": 14,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-26T16:46:16.765Z",
+  "updatedAt": "2026-10-26T16:46:21.836Z",
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "ca2891d8-8345-4554-83a6-d849453e8e56",
+      "tmdbId": 53,
+      "name": "Thriller",
+      "slug": "thriller",
+      "createdAt": "2026-04-02T13:49:06.935Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "7db67932-eae1-4e7e-bd64-2f7f8f632a7f",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 2034418,
+      "name": "Jacob Elordi",
+      "character": "Hig",
+      "profilePath": "/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg",
+      "order": 0
+    },
+    {
+      "id": "7a7acddd-aea9-4652-a3e3-9d4c37a5b401",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 1392137,
+      "name": "Margaret Qualley",
+      "character": "Cima",
+      "profilePath": "/qk6X0yIAkdkD9l30ztWKYeBQaz8.jpg",
+      "order": 1
+    },
+    {
+      "id": "f898ef8f-eea3-4ff2-8df0-bad10c7e72f6",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 16851,
+      "name": "Josh Brolin",
+      "character": "Bangley",
+      "profilePath": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+      "order": 2
+    },
+    {
+      "id": "f63322fc-1ef8-4ab1-9004-6f86b84a95c6",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 529,
+      "name": "Guy Pearce",
+      "character": "Pops",
+      "profilePath": "/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg",
+      "order": 3
+    },
+    {
+      "id": "f171f955-f268-439a-a0fe-7dd8041caf80",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 19,
+      "name": "Allison Janney",
+      "character": "Darlene",
+      "profilePath": "/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg",
+      "order": 4
+    },
+    {
+      "id": "2426a2ab-d3b7-428b-b7e3-e9c9f4cf6837",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 30082,
+      "name": "Benedict Wong",
+      "character": "Aaron",
+      "profilePath": "/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg",
+      "order": 5
+    },
+    {
+      "id": "347c1735-fb77-43fb-8e2d-314e5353f047",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 1125,
+      "name": "Ewen Bremner",
+      "character": "Crossbow Hunter",
+      "profilePath": "/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg",
+      "order": 6
+    },
+    {
+      "id": "feb39d33-0011-4401-a498-e23deb5bf23b",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 1885355,
+      "name": "James Craze",
+      "character": "Logan",
+      "profilePath": "/stLoQ1f6H7h2qS27AkogQZhNJVG.jpg",
+      "order": 7
+    },
+    {
+      "id": "cc2eb24a-747d-4e2c-a391-2910cf4160ad",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 55585,
+      "name": "Sam Spruell",
+      "character": "John",
+      "profilePath": "/nTyK3HlqdlJZqjpwTVf4Xo5LkYw.jpg",
+      "order": 8
+    },
+    {
+      "id": "4b39e5cb-ab68-4ee4-84b9-f964de283b5a",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 1141632,
+      "name": "Sai Bennett",
+      "character": "Melissa",
+      "profilePath": "/65YqXx9anAp7fwQNUn4YS8KPhOb.jpg",
+      "order": 9
+    },
+    {
+      "id": "bbed8451-852f-4bed-9e40-7ca5b1246b10",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 6424022,
+      "name": "Sebastian Rokison-Woodall",
+      "character": "Ben",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "35b23172-81d4-4f2e-9a18-1ad0b52d5c27",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 4431189,
+      "name": "Alara-Star Khan",
+      "character": "Matilda",
+      "profilePath": "/9GFBpG1EWmd1mG33YU15E2fGXIB.jpg",
+      "order": 11
+    },
+    {
+      "id": "8a79c4b1-0e88-4414-9228-0848128d4beb",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 5763547,
+      "name": "Daisy Kakkar",
+      "character": "Mennonite Woman",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "18f0f929-4ae6-4ce9-a508-c581ed4f84c2",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 1971867,
+      "name": "Brendan O'Rourke",
+      "character": "Bar Man - Grand Junction",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "ef092ce0-ab83-47d9-9873-c33c47a487ee",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 4200265,
+      "name": "Jean Michael Sinisterra Munoz",
+      "character": "Semi-Naked Monster / Fuddled Brain",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "9479c845-5abc-44ea-bda1-d25f72414aae",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 6424029,
+      "name": "Mario Alberto Estrada Sanchez",
+      "character": "Semi-Naked Monster / Fuddled Brain",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "45cda7d8-467c-4a7e-a21e-5acdbc2845cf",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 6424031,
+      "name": "Luis Fernando Colombo",
+      "character": "Semi-Naked Monster / Fuddled Brain",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "75d12a68-a8ca-4304-bc9d-0332294e52a7",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 6424032,
+      "name": "Hideki Andrea Yamamoto",
+      "character": "Raider #1",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "a078a340-6e4c-467f-a780-ec07450371cc",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 6424033,
+      "name": "Soufiane Oulji",
+      "character": "Raider #2",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "3cfbb758-a05b-42b5-a855-17bfb4b90e35",
+      "movieId": "8f866f15-49e9-48fe-bc4e-f09c008ab92d",
+      "tmdbPersonId": 3626464,
+      "name": "Kyshan Wilson",
+      "character": "Female Teen",
+      "profilePath": "/2BC4TdfypRMJX1MSbGSOCmwM16f.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

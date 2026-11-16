@@ -1,0 +1,385 @@
+{
+  "slug": "tangled-before-ever-after-2017",
+  "id": "30edebd8-411f-4d5d-b4e5-23054550295a",
+  "tmdbId": 438747,
+  "imdbId": "tt5533228",
+  "title": "Tangled: Before Ever After",
+  "originalTitle": "Tangled: Before Ever After",
+  "overview": "Rapunzel grapples with the responsibilities of being a princess and the overprotective ways of her father. While she wholeheartedly loves Eugene, Rapunzel does not share his immediate desire to get married and settle down within the castle walls. Determined to live life on her own terms, she and her tough-as-nails Lady-in-Waiting Cassandra embark on a secret adventure where they encounter mystical rocks that magically cause Rapunzel's long blonde hair to grow back. Impossible to break and difficult to hide, Rapunzel must learn to embrace her hair and all that it represents.",
+  "tagline": "Life is about to get hairier.",
+  "posterPath": "/zj82L9maBSW6CAVZltBoFBSuTk1.jpg",
+  "backdropPath": "/bAHwlrxTvC37wU86kl4D2QJkMfj.jpg",
+  "logoPath": "/fb36YQQmToxYzT9cVbE0wcZhPND.png",
+  "backdrops": [
+    "/bAHwlrxTvC37wU86kl4D2QJkMfj.jpg",
+    "/1QCYvRKaLc4zL2RaJnugNle5afS.jpg",
+    "/q1rOi4oLlFx0UyXVpcEH1MYVTQl.jpg",
+    "/k2oB9bDAMbvYQozJn5rSqosJxw2.jpg",
+    "/rya5wPqPR7LGz8dQiFkvFoFHlw1.jpg",
+    "/7dm38zLPfJvbv522k9AXL4Zy6c.jpg",
+    "/lwupd74bfya8SijedbVd0IawNA4.jpg",
+    "/onPRKt4uLWOXmlLxMWAtSlsD3ho.jpg",
+    "/l7zPtvlNJCauye8ZVuHLjcrYNeg.jpg",
+    "/8BvsZ8EoyPXuw30cQgZttWNgBXx.jpg"
+  ],
+  "releaseDate": "2017-03-10",
+  "runtime": 55,
+  "voteAverage": "6.80",
+  "popularity": null,
+  "popularityScore": 148,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=G44HxQpAcI4",
+  "quality": "WEB-DL",
+  "director": "Tom Caulfield",
+  "directorTmdbId": 1776008,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 3475,
+      "name": "Disney Television Animation",
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png"
+    },
+    {
+      "id": 79465,
+      "name": "Mercury Filmworks",
+      "logo_path": "/6qOISqaMEeKhvYGB0ryEtlcRZaM.png"
+    },
+    {
+      "id": 166365,
+      "name": "Lighthouse Studios",
+      "logo_path": "/vdOOHuKfK376ID8IjhsT1LroDfn.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7376,
+      "name": "princess"
+    },
+    {
+      "id": 1459,
+      "name": "marriage proposal"
+    },
+    {
+      "id": 3205,
+      "name": "fairy tale"
+    },
+    {
+      "id": 2505,
+      "name": "coronation"
+    },
+    {
+      "id": 12096,
+      "name": "hair"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 4748,
+  "watchlistCount": 54,
+  "favouriteCount": 14,
+  "shareCount": 1,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-01T19:08:00.940Z",
+  "updatedAt": "2026-09-01T19:08:19.832Z",
+  "genres": [
+    {
+      "id": "1c2d786d-320e-4cad-83bb-132b219ff7ff",
+      "tmdbId": 10770,
+      "name": "TV Movie",
+      "slug": "tv-movie",
+      "createdAt": "2026-04-02T13:51:04.105Z"
+    },
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "ecd71c1d-3475-428c-bb26-48b6da1a0090",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 16855,
+      "name": "Mandy Moore",
+      "character": "Rapunzel (voice)",
+      "profilePath": "/2n0rqUGojRNEHrmtPeCEptHREEY.jpg",
+      "order": 0
+    },
+    {
+      "id": "c2f82bb3-de5b-42e3-92cc-edd071f3ba19",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 69899,
+      "name": "Zachary Levi",
+      "character": "Eugene Fitzherbert (voice)",
+      "profilePath": "/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg",
+      "order": 1
+    },
+    {
+      "id": "f62eac0c-a57f-4c9e-8ea8-a265e0aec978",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 1218199,
+      "name": "Eden Espinosa",
+      "character": "Cassandra (voice)",
+      "profilePath": "/a18dYEXrrVwmCl2yGLqEk5g64aP.jpg",
+      "order": 2
+    },
+    {
+      "id": "f6bfa69a-0210-423f-bae5-1be707853446",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 6574,
+      "name": "Clancy Brown",
+      "character": "King Frederic (voice)",
+      "profilePath": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg",
+      "order": 3
+    },
+    {
+      "id": "c6c13752-b3a4-4fda-8936-c403da843d81",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 31171,
+      "name": "Julie Bowen",
+      "character": "Queen Arianna (voice)",
+      "profilePath": "/5ewqnbPAY0EzZObGHIKU4VsCanD.jpg",
+      "order": 4
+    },
+    {
+      "id": "6eebd03f-dccf-4439-982f-c85c0fdf8c05",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 60034,
+      "name": "Laura Benanti",
+      "character": "Lady Caine (voice)",
+      "profilePath": "/meoraoVzlCExK6RUFX2GqVNv0vw.jpg",
+      "order": 5
+    },
+    {
+      "id": "43ee81a4-1a7a-40f9-a5e8-2850b0f6ac2c",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 4175,
+      "name": "Jeffrey Tambor",
+      "character": "Big Nose (voice)",
+      "profilePath": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg",
+      "order": 6
+    },
+    {
+      "id": "ea0f9de1-4ffc-4178-9e54-10c9631e2095",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 22132,
+      "name": "M.C. Gainey",
+      "character": "Captain of the Guard (voice)",
+      "profilePath": "/nM82se0lOFbOhhj3J6tRFcdEydO.jpg",
+      "order": 7
+    },
+    {
+      "id": "4c83fa60-30a8-45c9-b912-b55c65bf44ad",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 52601,
+      "name": "Sean Hayes",
+      "character": "Pete the Guard (voice)",
+      "profilePath": "/31TI5l5QvcZHN4fh0NpejZyJtP.jpg",
+      "order": 8
+    },
+    {
+      "id": "80abf360-ad22-48d6-8778-c950bed521ff",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 5727,
+      "name": "Diedrich Bader",
+      "character": "Stan the Guard (voice)",
+      "profilePath": "/z7CctykPTuXDfAs7pkAA7vW4b3T.jpg",
+      "order": 9
+    },
+    {
+      "id": "6220700a-4a00-4b66-9c11-c361983d180e",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 84495,
+      "name": "Jess Harnell",
+      "character": "Pocket (voice)",
+      "profilePath": "/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg",
+      "order": 10
+    },
+    {
+      "id": "b50474fb-e40d-43ed-b641-4efa3e9af23d",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 24362,
+      "name": "Kevin Michael Richardson",
+      "character": "Otter (voice)",
+      "profilePath": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg",
+      "order": 11
+    },
+    {
+      "id": "c15d8ca3-c912-4ed1-9a7b-740cf8da3eeb",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 52760,
+      "name": "Alan Dale",
+      "character": "The Vicar (voice)",
+      "profilePath": "/3BcpSoKBOwHX0wxaPZpOJ5buO89.jpg",
+      "order": 12
+    },
+    {
+      "id": "685337cb-4799-4a39-89d1-83a5b9cc49a8",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 23680,
+      "name": "Dee Bradley Baker",
+      "character": "Additional Voices (voice)",
+      "profilePath": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg",
+      "order": 13
+    },
+    {
+      "id": "930da4cc-a173-497d-a614-66d2f4e0d17d",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 31161,
+      "name": "Mary Elizabeth McGlynn",
+      "character": "Additional Voices (voice)",
+      "profilePath": "/ppflguXpUbtHM01ryaZAigaBHYe.jpg",
+      "order": 14
+    },
+    {
+      "id": "c6fb4397-e23c-4753-b691-1fc1dfa77f98",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 116315,
+      "name": "Kari Wahlgren",
+      "character": "Additional Voices (voice)",
+      "profilePath": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg",
+      "order": 15
+    },
+    {
+      "id": "52880e87-7b33-4ae9-bffc-547c61506dfc",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 35981,
+      "name": "Gideon Emery",
+      "character": "Additional Voices (voice)",
+      "profilePath": "/o7BHjTmmZ9D5tEK33JHKfB2FQqD.jpg",
+      "order": 16
+    },
+    {
+      "id": "c1c9bafd-c6f0-4198-96c0-70c6ed6e3495",
+      "movieId": "30edebd8-411f-4d5d-b4e5-23054550295a",
+      "tmdbPersonId": 571562,
+      "name": "Steve Blum",
+      "character": "Attila Buckethead (voice)",
+      "profilePath": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg",
+      "order": 17
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

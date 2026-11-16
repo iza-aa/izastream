@@ -1,0 +1,98 @@
+{
+  "slug": "ever-night-2026",
+  "id": "f4120680-09e4-4493-81f1-26a61c8d5c6b",
+  "title": "Ever Night",
+  "overview": "",
+  "tagline": null,
+  "posterPath": "/vI6Kl9L6keOc6tupaYfcyaJeTGz.jpg",
+  "backdropPath": "/nzUIi7elg1E4SvPHJJe4UQvhvcy.jpg",
+  "logoPath": "/oLX7eCEFOR1M3WJk1Ui2VqRHape.png",
+  "firstAirDate": "2026-04-23",
+  "voteAverage": "7.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b681a321-01d6-4ead-8b09-df4e5cef598f",
+      "tvSeriesId": "f4120680-09e4-4493-81f1-26a61c8d5c6b",
+      "tmdbPersonId": 5105894,
+      "name": "Qing Minyi",
+      "character": "桑桑",
+      "profilePath": "/ihPrKu3vFxSPuUzS56TUxjm7CTV.jpg",
+      "order": 0
+    },
+    {
+      "id": "f50e54d5-9595-47db-ae0e-38a41f7f999c",
+      "tvSeriesId": "f4120680-09e4-4493-81f1-26a61c8d5c6b",
+      "tmdbPersonId": 2185754,
+      "name": "Yang Tianxiang",
+      "character": "宁缺",
+      "profilePath": "/jEwKu9VEtl0ecc6oA264U3iJV08.jpg",
+      "order": 1
+    },
+    {
+      "id": "ee24ecbc-fac3-4ed3-ad6b-b1b285a46107",
+      "tvSeriesId": "f4120680-09e4-4493-81f1-26a61c8d5c6b",
+      "tmdbPersonId": 4536794,
+      "name": "Jing Xiang Shei Yi",
+      "character": "",
+      "profilePath": "/br1aTEpu2rud3WOW4fvvBZzRBvc.jpg",
+      "order": 2
+    },
+    {
+      "id": "74e09a0d-1103-41f8-973f-35881a96b24d",
+      "tvSeriesId": "f4120680-09e4-4493-81f1-26a61c8d5c6b",
+      "tmdbPersonId": 2199340,
+      "name": "Wei Chao",
+      "character": "",
+      "profilePath": "/aPYAEWrS1lb1UYwCFejIcJOOGSU.jpg",
+      "order": 3
+    }
+  ],
+  "seasons": [
+    {
+      "id": "0948dacc-75bf-40c6-a900-fa061e2cc675",
+      "tvSeriesId": "f4120680-09e4-4493-81f1-26a61c8d5c6b",
+      "tmdbId": 438147,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/vI6Kl9L6keOc6tupaYfcyaJeTGz.jpg",
+      "airDate": "2026-04-23",
+      "episodeCount": 20,
+      "isPublished": true,
+      "createdAt": "2026-08-24T17:11:07.090Z",
+      "updatedAt": "2026-08-24T17:30:42.248Z"
+    }
+  ]
+}

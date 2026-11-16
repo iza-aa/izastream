@@ -1,0 +1,93 @@
+{
+  "slug": "youth-2026",
+  "id": "e371d0e3-c6f9-47f9-9da8-c2c65d0b4a11",
+  "title": "Youth",
+  "overview": "A 50-year-old divorcee searches for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son.",
+  "tagline": "Not wasted yet.",
+  "posterPath": "/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+  "backdropPath": "/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
+  "logoPath": "/fLK6t6AUI35F5PaZJqKETezdL4G.png",
+  "firstAirDate": "2026-09-21",
+  "voteAverage": "5.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f3c5bb1e-bec9-48ae-97d3-2199c3e3b557",
+      "tvSeriesId": "e371d0e3-c6f9-47f9-9da8-c2c65d0b4a11",
+      "tmdbPersonId": 21676,
+      "name": "Sharon Horgan",
+      "character": "",
+      "profilePath": "/mNTtNGqdL8CzOBjCYCjOLRosOTM.jpg",
+      "order": 0
+    },
+    {
+      "id": "0f2c88d9-4bbf-45a3-85fe-74596d4abc2b",
+      "tvSeriesId": "e371d0e3-c6f9-47f9-9da8-c2c65d0b4a11",
+      "tmdbPersonId": 36669,
+      "name": "Rupert Friend",
+      "character": "",
+      "profilePath": "/aMOUdXtTlqtscPumbuvfcH1JB42.jpg",
+      "order": 1
+    },
+    {
+      "id": "194296cc-260e-4ce1-88c1-2c69f708c7ff",
+      "tvSeriesId": "e371d0e3-c6f9-47f9-9da8-c2c65d0b4a11",
+      "tmdbPersonId": 1756550,
+      "name": "Sharlene Whyte",
+      "character": "",
+      "profilePath": "/14xDDiPwe0eLOHSMT2qDu7ue36u.jpg",
+      "order": 2
+    },
+    {
+      "id": "3ac02b1c-9719-4c25-9477-dbf56673e2b3",
+      "tvSeriesId": "e371d0e3-c6f9-47f9-9da8-c2c65d0b4a11",
+      "tmdbPersonId": 4210247,
+      "name": "Aran Murphy",
+      "character": "",
+      "profilePath": "/gXwVwAY791aYZXkdSjLaRwYY37l.jpg",
+      "order": 3
+    },
+    {
+      "id": "91203486-d2e4-4957-a9d6-a92b23cfc4c1",
+      "tvSeriesId": "e371d0e3-c6f9-47f9-9da8-c2c65d0b4a11",
+      "tmdbPersonId": 1119,
+      "name": "Robbie Gee",
+      "character": "",
+      "profilePath": "/mzzfbA0e4DWgxvIYjaryMolkiqm.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "9e5e20c8-f7b1-46a6-8293-968bed49d9ec",
+      "tvSeriesId": "e371d0e3-c6f9-47f9-9da8-c2c65d0b4a11",
+      "tmdbId": 444466,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+      "airDate": "2026-09-20",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-09-21T09:42:03.323Z",
+      "updatedAt": "2026-11-02T06:22:25.995Z"
+    }
+  ]
+}

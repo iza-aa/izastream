@@ -1,0 +1,138 @@
+{
+  "slug": "a-calm-sea-and-beautiful-days-with-you-2025",
+  "id": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+  "title": "A Calm Sea and Beautiful Days with You",
+  "overview": "During the Showa-era, newlyweds Natsumi Ebata and Takimasa Ebata enter an arranged marriage without a single day of courtship. Through tender yet exasperating moments, the two slowly bridge the gap between them, discovering love in the quiet routines of their shared days.",
+  "tagline": null,
+  "posterPath": "/7rfjG6XdXofxDnvodpV268mDsop.jpg",
+  "backdropPath": "/vHFQWcAP71Yp4j1d97yFb5Tnwly.jpg",
+  "logoPath": null,
+  "firstAirDate": "2025-04-24",
+  "voteAverage": "8.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "3d6890c7-6808-4762-8f3f-c32359c6ca51",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbPersonId": 1599983,
+      "name": "Kyoko Yoshine",
+      "character": "Ebata Natsumi",
+      "profilePath": "/cXvs5OERqrpJgSlNWbxfFq6ZdHt.jpg",
+      "order": 0
+    },
+    {
+      "id": "0f90f1a9-eff6-407b-95b0-d32257d85e91",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbPersonId": 3007964,
+      "name": "Kyoya Honda",
+      "character": "Ebata Takimasa",
+      "profilePath": "/fsbJgDmEm3lmn0SS6D609A6jfRq.jpg",
+      "order": 1
+    },
+    {
+      "id": "7bcfcd9f-a091-49cd-b560-5fbbd7bc1bca",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbPersonId": 1446601,
+      "name": "Maika Yamamoto",
+      "character": "Yoshimori Fumiko",
+      "profilePath": "/tMZ230XFpBKZXvy4aChYwMHp8dA.jpg",
+      "order": 2
+    },
+    {
+      "id": "31cbcf55-dcf7-458e-8dff-70794d41edba",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbPersonId": 1728145,
+      "name": "Yuta Koseki",
+      "character": "Fukami Ryunosuke",
+      "profilePath": "/zzFWDcZ9uIEa3lRRzJRyDpJuUR1.jpg",
+      "order": 3
+    },
+    {
+      "id": "c47832b2-8d9b-4010-9401-de2e84a7d1d2",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbPersonId": 2511936,
+      "name": "Rio Komiya",
+      "character": "Seta Juntaro",
+      "profilePath": "/p61rjxpIcUhG6f059aseYWB14NM.jpg",
+      "order": 4
+    },
+    {
+      "id": "c851459b-91af-4ea4-859c-972f2d05ff98",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbPersonId": 1928422,
+      "name": "Miyu Sakihi",
+      "character": "Sekiya Akina",
+      "profilePath": "/ySKaWsuIJnNOUaG0ajzvbkGVJbM.jpg",
+      "order": 5
+    },
+    {
+      "id": "35123f85-3c22-4290-b513-a7a153ed7fd7",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbPersonId": 3563475,
+      "name": "Ogawa Aya",
+      "character": "Sekiya Fuyuko",
+      "profilePath": "/qAtw1o1Ooi08lEnopGOTbkik5Rp.jpg",
+      "order": 6
+    },
+    {
+      "id": "091c1801-72f3-4ca7-9ba4-3558dd81ee93",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbPersonId": 1186981,
+      "name": "Junki Tozuka",
+      "character": "Sakai Yoshiharu",
+      "profilePath": "/52FABffTBlqXQJclmiai4dudwQ1.jpg",
+      "order": 7
+    },
+    {
+      "id": "b54d17dd-ecad-47dc-952f-fd92388fb121",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbPersonId": 1241214,
+      "name": "Kanna Mori",
+      "character": "Sekiya Harue",
+      "profilePath": "/8kXxQwwKbMHKJ6NiwazFiEC31xS.jpg",
+      "order": 8
+    },
+    {
+      "id": "f0b006ed-4c07-449b-a673-00e631d0129b",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbPersonId": 1268632,
+      "name": "Tsutomu Takahashi",
+      "character": "Sekiya Tokuzo",
+      "profilePath": "/cHd2Te27EYkfz3rthCoiTad74no.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "47e10574-f80f-4283-869e-8f1216556f35",
+      "tvSeriesId": "00f7f540-c364-44c0-bb2c-a7941f7653ae",
+      "tmdbId": 448086,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/jK4Frc8AtdP0p0vEARp89msFvS3.jpg",
+      "airDate": "2025-04-24",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-09-02T19:35:12.986Z",
+      "updatedAt": "2026-09-02T19:36:01.493Z"
+    }
+  ]
+}

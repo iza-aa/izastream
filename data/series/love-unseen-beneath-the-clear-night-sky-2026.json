@@ -1,0 +1,138 @@
+{
+  "slug": "love-unseen-beneath-the-clear-night-sky-2026",
+  "id": "e8c49690-f77e-4979-b400-e77e41fa9941",
+  "title": "Love Unseen Beneath the Clear Night Sky",
+  "overview": "Kakeru Sorano, a quiet university freshman who avoids others, meets Koharu Fuyutsuki, a blind girl who faces the world with quiet brightness. When she says, “I want to see fireworks someday,” something in Kakeru shifts. As they grow closer through small moments and shared loneliness, he searches for a way to make her wish come true.",
+  "tagline": null,
+  "posterPath": "/orV0LKMAjKZzY1NJVEIwUFjLvWq.jpg",
+  "backdropPath": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
+  "logoPath": "/hybALyrhwy675XkbiJYQZonxXFz.png",
+  "firstAirDate": "2026-07-06",
+  "voteAverage": "8.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "23115ac4-5533-47fe-8f75-e0a054e07b8a",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbPersonId": 19588,
+      "name": "Miyu Irino",
+      "character": "Kakeru Sorano (voice)",
+      "profilePath": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg",
+      "order": 0
+    },
+    {
+      "id": "82bae393-cbd2-4fb8-bd5c-2a6882932538",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbPersonId": 221773,
+      "name": "Saori Hayami",
+      "character": "Koharu Fuyutsuki (voice)",
+      "profilePath": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg",
+      "order": 1
+    },
+    {
+      "id": "8b2a0bbe-9afc-4710-a76d-2269d8d46719",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbPersonId": 1820616,
+      "name": "Konomi Kohara",
+      "character": "Yuuko Hayase (voice)",
+      "profilePath": "/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg",
+      "order": 500
+    },
+    {
+      "id": "51219a33-4007-40f3-9e3b-ed61c31617f0",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbPersonId": 2220797,
+      "name": "Yohei Azakami",
+      "character": "Ushio Narumi (voice)",
+      "profilePath": "/rLIqw8pIjVIxPb5engrTbu9iOex.jpg",
+      "order": 501
+    },
+    {
+      "id": "c777c2ce-cf6c-4b25-81e2-acfde2995e98",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbPersonId": 1613631,
+      "name": "Ryuichi Kijima",
+      "character": "Yuichi Kotomugi (voice)",
+      "profilePath": "/kiVkYXJbVVycMfqghyhzGloPUsY.jpg",
+      "order": 502
+    },
+    {
+      "id": "5d9fb68a-c18d-4238-94d4-551ff354a149",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbPersonId": 89903,
+      "name": "Mamiko Noto",
+      "character": "Haruka Fuyutsuki (voice)",
+      "profilePath": "/wCSD7Umgzc66p8VGXrrMZtSLSuS.jpg",
+      "order": 503
+    },
+    {
+      "id": "7ba8a9b2-fae8-4f8e-bfcd-b29f56e05578",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbPersonId": 5053388,
+      "name": "Kazuya Kanzaki",
+      "character": "Person Organizing the After-Party Group (voice)",
+      "profilePath": "/yEg6TBQw1aPcD6wfOHYj6jAFZoq.jpg",
+      "order": 510
+    },
+    {
+      "id": "3ad8b120-bfc8-48b7-a946-40f22c9d0690",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbPersonId": 3478628,
+      "name": "Mikoto Nakai",
+      "character": "Water Bus Announcement (voice)",
+      "profilePath": "/sENkBUpx2mGXkihgVImP63gVODN.jpg",
+      "order": 516
+    },
+    {
+      "id": "e1f658a6-f5a4-42f2-828e-09e785125dbe",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbPersonId": 3633975,
+      "name": "Ryuho Nagaoka",
+      "character": "Office Worker Heading Home (voice)",
+      "profilePath": "/iGcO8pyh6kOeU8IKjLCqE7JyuRG.jpg",
+      "order": 521
+    },
+    {
+      "id": "5975d3e7-f5f5-427c-a276-f74bfc001645",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbPersonId": 3662606,
+      "name": "Tadaaki Doi",
+      "character": "Sho-kun (voice)",
+      "profilePath": "/gLmvfPTATfzJJ0fvGdDQFCBpg0.jpg",
+      "order": 523
+    }
+  ],
+  "seasons": [
+    {
+      "id": "fbedc73c-5749-4d99-bbd8-2ad9b2ee0140",
+      "tvSeriesId": "e8c49690-f77e-4979-b400-e77e41fa9941",
+      "tmdbId": 492756,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/VFf7AIm3MmT0732y3ukh9hRZOE.jpg",
+      "airDate": "2026-07-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-02T15:56:07.410Z",
+      "updatedAt": "2026-10-02T16:03:48.296Z"
+    }
+  ]
+}

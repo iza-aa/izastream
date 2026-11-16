@@ -1,0 +1,132 @@
+{
+  "slug": "i-became-a-legend-after-my-10-year-long-last-stand-2026",
+  "id": "8d31996f-5bc0-4116-97ee-139935f26cae",
+  "title": "I Became a Legend After My 10 Year-Long Last Stand",
+  "overview": "Luck, an S-rank mage in the hero's party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as \"Lock,\" an F-rank adventurer forging a future in a world that moved on without him.",
+  "tagline": null,
+  "posterPath": "/4LaPshxWTFcBhc5ib8xOfYeD9tH.jpg",
+  "backdropPath": "/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
+  "logoPath": "/vrOw9zfO4go3r4RGICjg3UmWVwo.png",
+  "firstAirDate": "2026-07-06",
+  "voteAverage": "7.20",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f17fe2fb-8287-4043-916a-c01820927673",
+      "tvSeriesId": "8d31996f-5bc0-4116-97ee-139935f26cae",
+      "tmdbPersonId": 1919881,
+      "name": "Gakuto Kajiwara",
+      "character": "Luck \"Lock\" Franzen (voice)",
+      "profilePath": "/kUer38jXf7vTD2TGGxJMZVYL5Te.jpg",
+      "order": 0
+    },
+    {
+      "id": "8d84ef08-be3d-4497-9df3-c6c5d8cc88bf",
+      "tvSeriesId": "8d31996f-5bc0-4116-97ee-139935f26cae",
+      "tmdbPersonId": 9706,
+      "name": "Toshiyuki Morikawa",
+      "character": "Eric Imgard Mendirival (voice)",
+      "profilePath": "/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg",
+      "order": 1
+    },
+    {
+      "id": "06718bdc-6ada-43d4-aa68-7af9a400f2d5",
+      "tvSeriesId": "8d31996f-5bc0-4116-97ee-139935f26cae",
+      "tmdbPersonId": 1251325,
+      "name": "Tsuyoshi Koyama",
+      "character": "Goran Morton (voice)",
+      "profilePath": "/xm7AT3bF4ARZvbx87ixXT8rNFgs.jpg",
+      "order": 2
+    },
+    {
+      "id": "b7358325-fee6-46e6-89da-a3d17b7edd59",
+      "tvSeriesId": "8d31996f-5bc0-4116-97ee-139935f26cae",
+      "tmdbPersonId": 1224288,
+      "name": "Yui Ishikawa",
+      "character": "(voice)",
+      "profilePath": "/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg",
+      "order": 3
+    },
+    {
+      "id": "7323eaff-9aaa-4988-908f-33aa451f8be3",
+      "tvSeriesId": "8d31996f-5bc0-4116-97ee-139935f26cae",
+      "tmdbPersonId": 2409802,
+      "name": "Mayu Sagara",
+      "character": "(voice)",
+      "profilePath": "/rKam75qicpfKqfrSNhTe84ZcfeM.jpg",
+      "order": 4
+    },
+    {
+      "id": "73dd1c05-552f-42b3-86d4-1503d4cd9637",
+      "tvSeriesId": "8d31996f-5bc0-4116-97ee-139935f26cae",
+      "tmdbPersonId": 1161472,
+      "name": "Mao Ichimichi",
+      "character": "(voice)",
+      "profilePath": "/a3cflYtrlFK0LXfWODgLDO7E7CP.jpg",
+      "order": 5
+    },
+    {
+      "id": "e407cbf0-8d27-4144-8301-8dedb7c11be1",
+      "tvSeriesId": "8d31996f-5bc0-4116-97ee-139935f26cae",
+      "tmdbPersonId": 2380499,
+      "name": "Yurie Kozakai",
+      "character": "(voice)",
+      "profilePath": "/mbIMcptHLQir3wrAnnSSAR5uRR1.jpg",
+      "order": 6
+    }
+  ],
+  "seasons": [
+    {
+      "id": "47145dc1-1f50-4acb-874f-6596f832b40d",
+      "tvSeriesId": "8d31996f-5bc0-4116-97ee-139935f26cae",
+      "tmdbId": 478033,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/4LaPshxWTFcBhc5ib8xOfYeD9tH.jpg",
+      "airDate": "2026-07-06",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-26T05:58:31.114Z",
+      "updatedAt": "2026-09-26T05:59:56.381Z"
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "slug": "the-three-musketeers-1993",
+  "id": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+  "tmdbId": 10057,
+  "imdbId": "tt0108333",
+  "title": "The Three Musketeers",
+  "originalTitle": "The Three Musketeers",
+  "overview": "D'Artagnan travels to Paris hoping to become a musketeer, one of the French king's elite bodyguards, only to discover that the corps has been disbanded by conniving Cardinal Richelieu, who secretly hopes to usurp the throne. Fortunately, Athos, Porthos and Aramis have refused to lay down their weapons and continue to protect their king. D'Artagnan joins with the rogues to expose Richelieu's plot against the crown.",
+  "tagline": "All for one and one for all!",
+  "posterPath": "/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg",
+  "backdropPath": "/1M7eNvLkrAbhQDbcoBnVfzanHcT.jpg",
+  "logoPath": "/a33kQjr1PtHSMuwC9HJVHzyeWYQ.png",
+  "backdrops": [
+    "/1M7eNvLkrAbhQDbcoBnVfzanHcT.jpg",
+    "/7Ug3qr6Y0lWc3y35W0bgu0KgdFb.jpg",
+    "/IP06k90FWuBmiP34IvbOCMvNaF.jpg",
+    "/fCjDKLoaUpl4FJp7bqUHovHRNnW.jpg",
+    "/o0kMfD2zyvGJlHxmfFf4f6EVHSl.jpg",
+    "/vEe117smw7rla1JDWp2zKp93LNY.jpg",
+    "/dr9y3L6tf9RdFTaOiTN18QHEEXX.jpg",
+    "/zccLsJp3wn7YwOYLmWJiuKJip3I.jpg",
+    "/hRcGRM2TKmk1BpqyYyUmVal0AIN.jpg",
+    "/zePFcMcpMeZWMO7193KMDpS3it1.jpg"
+  ],
+  "releaseDate": "1993-11-11",
+  "runtime": 105,
+  "voteAverage": "6.40",
+  "popularity": null,
+  "popularityScore": 51,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=FMy1TFRF8Lk",
+  "quality": "WEB-DL",
+  "director": "Stephen Herek",
+  "directorTmdbId": 18356,
+  "directorProfilePath": "/ni2MxgHBvzzYj9OzHpQ3yHkar79.jpg",
+  "productionCompanies": [
+    {
+      "id": 2,
+      "name": "Walt Disney Pictures",
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png"
+    },
+    {
+      "id": 175,
+      "name": "Caravan Pictures",
+      "logo_path": "/Aruhqf13whJ0bNSgtv1gt3xclT6.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 90,
+      "name": "paris, france"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 14577,
+      "name": "musketeer"
+    },
+    {
+      "id": 196513,
+      "name": "king of france"
+    },
+    {
+      "id": 207941,
+      "name": "17th century"
+    },
+    {
+      "id": 317660,
+      "name": "three musketeers"
+    },
+    {
+      "id": 336396,
+      "name": "porthos"
+    },
+    {
+      "id": 336397,
+      "name": "athos"
+    },
+    {
+      "id": 336398,
+      "name": "d'artagnan"
+    },
+    {
+      "id": 336399,
+      "name": "king louis xiii"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 934,
+  "watchlistCount": 6,
+  "favouriteCount": 1,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-13T11:27:57.530Z",
+  "updatedAt": "2026-10-13T11:32:42.171Z",
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "64af9c23-58f1-4061-a9c1-70f2c6db8305",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 5577,
+      "name": "Chris O'Donnell",
+      "character": "D'Artagnan",
+      "profilePath": "/KvWBFg1aMBdu4X2PihXYL8xcFD.jpg",
+      "order": 0
+    },
+    {
+      "id": "a869840d-d436-4122-ba06-ccf0ff492fc2",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 2628,
+      "name": "Kiefer Sutherland",
+      "character": "Athos",
+      "profilePath": "/tK5zjdvao2NELns3bqT7PPqPeJI.jpg",
+      "order": 1
+    },
+    {
+      "id": "d134857c-aff4-46f8-a468-4ab9900247ee",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 17485,
+      "name": "Oliver Platt",
+      "character": "Porthos",
+      "profilePath": "/ipBzOzgWRdxxYoM5xNN1cfenFaC.jpg",
+      "order": 2
+    },
+    {
+      "id": "014ecd02-a902-4f0c-896e-a526d6eb5cfd",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 6952,
+      "name": "Charlie Sheen",
+      "character": "Aramis",
+      "profilePath": "/48GB5aISoibd9IYXBO40jrSgFRl.jpg",
+      "order": 3
+    },
+    {
+      "id": "d16ffe0b-f699-4193-bca9-e75dd34f97f2",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 13472,
+      "name": "Tim Curry",
+      "character": "Cardinal Richelieu",
+      "profilePath": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
+      "order": 4
+    },
+    {
+      "id": "dd6fbec1-6a22-4de2-a082-6fd70bcfa6cc",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 28412,
+      "name": "Rebecca De Mornay",
+      "character": "Milady de Winter",
+      "profilePath": "/zC2RrrdZv4UKUtHgCfKD6bJY1Qy.jpg",
+      "order": 5
+    },
+    {
+      "id": "74fba09c-1dbd-4b5e-97be-40f5a4771d74",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 47654,
+      "name": "Paul McGann",
+      "character": "Girard / Jussac",
+      "profilePath": "/4NAtQI30CAaJuQRiot9twe7J9t9.jpg",
+      "order": 6
+    },
+    {
+      "id": "86ce7460-e553-4cdb-a8c9-822306fce0c7",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 5503,
+      "name": "Gabrielle Anwar",
+      "character": "Queen Anne",
+      "profilePath": "/v0zVLAM7kv7ZP0j95HWfNPr1fvp.jpg",
+      "order": 7
+    },
+    {
+      "id": "fae0c91f-7c81-48d5-8775-39dbdab5e357",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 7486,
+      "name": "Michael Wincott",
+      "character": "Rochefort",
+      "profilePath": "/z6FtWACKaIivi0khxM6vEHoUH0.jpg",
+      "order": 8
+    },
+    {
+      "id": "b6f26191-08ae-471e-bd83-c03d28192567",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 1146,
+      "name": "Julie Delpy",
+      "character": "Constance",
+      "profilePath": "/rd40f4QpAUUne3hMaUhHrZtcK2c.jpg",
+      "order": 9
+    },
+    {
+      "id": "58b6239c-39a9-4377-b779-608881547971",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 5312,
+      "name": "Hugh O'Conor",
+      "character": "King Louis XIII",
+      "profilePath": "/1vQKnH0H98PaJJeu8xR0rtM7lze.jpg",
+      "order": 10
+    },
+    {
+      "id": "fdce4471-dd7b-4643-90f1-74a36cb20013",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 64102,
+      "name": "Christopher Adamson",
+      "character": "Henri",
+      "profilePath": "/anZJNTCnyeDzeWPnsArEKXfT7gc.jpg",
+      "order": 11
+    },
+    {
+      "id": "502e4840-1a85-4d84-bed7-e04969d9d46c",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 702,
+      "name": "Philip Tan",
+      "character": "Parker",
+      "profilePath": "/6cXDkOsHPbdsgiUUM7UIz6s8cXX.jpg",
+      "order": 12
+    },
+    {
+      "id": "9b3a5d5c-9498-4da5-828f-cffb738b1398",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 3970,
+      "name": "Erwin Leder",
+      "character": "Peasant",
+      "profilePath": "/4V6ewUr0KAMl8C2xvWvg8JPjsab.jpg",
+      "order": 13
+    },
+    {
+      "id": "2a337c02-8be4-457a-906b-547f96b9da04",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 2955520,
+      "name": "Axel Anselm",
+      "character": "Musketeer",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "ac07e8e4-fdc3-4b8f-a42d-fa2d667423a8",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 545504,
+      "name": "Bruno Thost",
+      "character": "Seneschal #1",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "cb6c835d-7d2c-404e-b747-16078b40a5d1",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 3096191,
+      "name": "Oliver Hoppa",
+      "character": "Seneschal #2",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "2f86b7ca-96c5-4b15-8a3c-df0c7a10dde5",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 3096198,
+      "name": "Emma Moore",
+      "character": "Damsel",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "b35478ba-2e3f-4801-ab20-9c5da083e8eb",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 22531,
+      "name": "Herbert Fux",
+      "character": "Innkeeper",
+      "profilePath": "/6fxgv19OAVQjGUSRODwRczPtZ55.jpg",
+      "order": 18
+    },
+    {
+      "id": "aa650b3b-53eb-4c92-a056-5812ba2d84e3",
+      "movieId": "04635704-e5e2-4aef-a1dd-9f8f8b73d1df",
+      "tmdbPersonId": 1179605,
+      "name": "Nichola Cordey",
+      "character": "Barmaid",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

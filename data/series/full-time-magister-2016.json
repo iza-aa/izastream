@@ -1,0 +1,205 @@
+{
+  "slug": "full-time-magister-2016",
+  "id": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+  "title": "Full-Time Magister",
+  "overview": "After waking up, Mo Fan suddenly finds himself in a world where schools teach magic and monsters eat humans. However, his own situation hasn’t really changed that much. Labelled the loser of his school, he wants to afford a better life for his physical disabled sister, who is in a wheelchair, and his father. To make it possible, he took on the goal to become the best magician and to show everyone that one’s status in society is not important to achieve this.",
+  "tagline": null,
+  "posterPath": "/csprfx9Vp7n5eINBT9DWKPa6r4g.jpg",
+  "backdropPath": "/9fOVK3e3SXQgkjPkCtEN5SRdpEg.jpg",
+  "logoPath": null,
+  "firstAirDate": "2016-09-02",
+  "voteAverage": "7.34",
+  "numberOfSeasons": 7,
+  "numberOfEpisodes": 84,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b64b9f6d-6f57-4fe5-8515-6916e51038ac",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbPersonId": 2340094,
+      "name": "Liu Yuxuan",
+      "character": "Mo Fan (voice)",
+      "profilePath": null,
+      "order": 0
+    },
+    {
+      "id": "cfb038ab-3451-4931-9242-fc3cf61e2aec",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbPersonId": 1965298,
+      "name": "Zhu Jun",
+      "character": "Ye Xinxia (voice)",
+      "profilePath": "/gFazUOvuMBvBhLMVX7AFvBEHDqS.jpg",
+      "order": 1
+    },
+    {
+      "id": "de28e03d-cd4d-4c3d-835d-e2c92be27b82",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbPersonId": 2316886,
+      "name": "Wen Yixiao",
+      "character": "Mu Ningxue (voice)",
+      "profilePath": "/pztsEIp8rbXSBJfdcddBs6jyxFf.jpg",
+      "order": 2
+    },
+    {
+      "id": "e7494004-3cff-48ac-b701-179218fe76ac",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbPersonId": 2340095,
+      "name": "Feng Junhua",
+      "character": "Tangyue (voice)",
+      "profilePath": "/xGx9YUyaOTDcvxHlu2CXq08FOW9.jpg",
+      "order": 3
+    },
+    {
+      "id": "0ec1bd07-1e04-4a65-9e6f-73722ead59d2",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbPersonId": 2723033,
+      "name": "Li Yuantao",
+      "character": "Zhao Manyan (voice)",
+      "profilePath": "/52WuWsHIFhCb6YDi8Nao7t6tvcj.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "cdee0a99-525f-4157-91d7-5f4c195b813e",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbId": 85192,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "The aloof high schooler Mo Fan has found himself in a universe similar yet distinctly different from his own mundane one; it's a place where magic has replaced the essence of science. Here, the most capable students are taught to master the wonders of spellworking to fend off large devastating beasts that lurk in the forests surrounding the city.",
+      "posterPath": "/eSW7mOx2fGpKvsx86VfvA4yG8A0.jpg",
+      "airDate": "2016-09-02",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-13T15:04:30.999Z",
+      "updatedAt": "2026-10-13T15:19:14.791Z"
+    },
+    {
+      "id": "afda5ef6-907d-479e-a337-ddb71c69871a",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbId": 102494,
+      "seasonNumber": 2,
+      "name": "Season 2",
+      "overview": "",
+      "posterPath": "/eLofHVEMarymTbceX5olWr4fJRF.jpg",
+      "airDate": "2017-09-02",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-13T15:04:30.999Z",
+      "updatedAt": "2026-10-13T15:19:15.834Z"
+    },
+    {
+      "id": "8e6e77ec-75de-4943-8843-6f6304543d8d",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbId": 111487,
+      "seasonNumber": 3,
+      "name": "Season 3",
+      "overview": "Mo Fan moved to Magic City Mingzhu, and got involved in the investigation of “Secret Event”. During which, Mo Fan helped Tang Yue out of danger, and obtained a Fuchsia Fire Spirit unexpectedly. He awoke his Double Talents again, aiming to enter Mingzhu Academy. His college life began, and Summoning Faculty came to face “ the Summoning Beast Battle”",
+      "posterPath": "/rn7wUK97iZh5fwNatd2NbGxjTZV.jpg",
+      "airDate": "2018-10-24",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-13T15:04:30.999Z",
+      "updatedAt": "2026-10-13T15:19:16.412Z"
+    },
+    {
+      "id": "a40062ff-6e34-4b85-9842-6d85e5862cdd",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbId": 152773,
+      "seasonNumber": 4,
+      "name": "Season 4",
+      "overview": "",
+      "posterPath": "/fm12uiJHuJ7EkDMkiUEBqeKE2GL.jpg",
+      "airDate": "2020-05-27",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-13T15:04:30.999Z",
+      "updatedAt": "2026-10-13T15:19:17.432Z"
+    },
+    {
+      "id": "6c6e0c32-c631-492d-905e-90c84be0041f",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbId": 203096,
+      "seasonNumber": 5,
+      "name": "Season 5",
+      "overview": "",
+      "posterPath": "/ktneMOUz6lMxUECscNdf07MG7Ky.jpg",
+      "airDate": "2021-07-28",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-13T15:04:30.999Z",
+      "updatedAt": "2026-10-13T15:19:18.304Z"
+    },
+    {
+      "id": "ce3371ff-2a41-4add-8371-b58b36a12236",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbId": 340123,
+      "seasonNumber": 6,
+      "name": "Season 6",
+      "overview": "",
+      "posterPath": "/7ds7LOjNQWkAoikEFvv64Lzk2cx.jpg",
+      "airDate": "2023-06-02",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-13T15:04:30.999Z",
+      "updatedAt": "2026-10-24T03:48:41.452Z"
+    },
+    {
+      "id": "9afd2e25-a78a-4297-b493-e880a9ab3c0b",
+      "tvSeriesId": "2cc8d2cd-fe86-420e-b224-090431dd0ede",
+      "tmdbId": 406640,
+      "seasonNumber": 7,
+      "name": "Season 7",
+      "overview": "",
+      "posterPath": "/csprfx9Vp7n5eINBT9DWKPa6r4g.jpg",
+      "airDate": "2026-05-13",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-13T15:04:30.999Z",
+      "updatedAt": "2026-10-24T03:48:09.331Z"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "lanterns-2026",
+  "id": "961b08c5-ce3a-4a00-82ff-2deb3c9c8753",
+  "title": "Lanterns",
+  "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, earth-based mystery as they investigate a murder in the American heartland.",
+  "tagline": "Only one can wear the ring.",
+  "posterPath": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+  "backdropPath": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+  "logoPath": "/4EKgjKdhuFV2PpRAu7bhEUTukYS.png",
+  "firstAirDate": "2026-08-16",
+  "voteAverage": "6.82",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 7,
+  "genres": [
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "6ce7a2f9-ed9f-4f68-953f-f1b8932c9020",
+      "tmdbId": 12,
+      "name": "Adventure",
+      "slug": "adventure",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b84493b7-8e43-4bc2-af22-6b74bbcdfdfc",
+      "tvSeriesId": "961b08c5-ce3a-4a00-82ff-2deb3c9c8753",
+      "tmdbPersonId": 3497,
+      "name": "Kyle Chandler",
+      "character": "Hal Jordan",
+      "profilePath": "/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg",
+      "order": 0
+    },
+    {
+      "id": "b7db6dec-4208-4e4f-8ff7-357d4521387e",
+      "tvSeriesId": "961b08c5-ce3a-4a00-82ff-2deb3c9c8753",
+      "tmdbPersonId": 1763709,
+      "name": "Aaron Pierre",
+      "character": "John Stewart",
+      "profilePath": "/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg",
+      "order": 1
+    },
+    {
+      "id": "03d02733-9a41-4d1e-ae39-b8b58fb61b7c",
+      "tvSeriesId": "961b08c5-ce3a-4a00-82ff-2deb3c9c8753",
+      "tmdbPersonId": 9015,
+      "name": "Kelly Macdonald",
+      "character": "Sheriff Kerry",
+      "profilePath": "/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg",
+      "order": 2
+    },
+    {
+      "id": "3dace048-1828-4e76-bdeb-20ec3ce635c5",
+      "tvSeriesId": "961b08c5-ce3a-4a00-82ff-2deb3c9c8753",
+      "tmdbPersonId": 39520,
+      "name": "Garret Dillahunt",
+      "character": "William Macon",
+      "profilePath": "/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg",
+      "order": 3
+    },
+    {
+      "id": "705c2fff-f0ae-4928-9f91-6e47c1da24bb",
+      "tvSeriesId": "961b08c5-ce3a-4a00-82ff-2deb3c9c8753",
+      "tmdbPersonId": 428440,
+      "name": "Poorna Jagannathan",
+      "character": "Zoe",
+      "profilePath": "/cdfzpja6kif9NsWlN2K91RVn1Xt.jpg",
+      "order": 4
+    }
+  ],
+  "seasons": [
+    {
+      "id": "05a87d34-790e-406b-af25-c1dfa012cc6e",
+      "tvSeriesId": "961b08c5-ce3a-4a00-82ff-2deb3c9c8753",
+      "tmdbId": 165308,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/j9PTWG0Xn0NeIRhGGFJbciNYWvS.jpg",
+      "airDate": "2026-08-16",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-08-17T06:07:07.779Z",
+      "updatedAt": "2026-10-05T05:32:53.685Z"
+    }
+  ]
+}

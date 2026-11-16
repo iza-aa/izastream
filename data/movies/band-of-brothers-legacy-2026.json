@@ -1,0 +1,345 @@
+{
+  "slug": "band-of-brothers-legacy-2026",
+  "id": "5280f96f-c24e-4e8a-8f50-587328f276df",
+  "tmdbId": 1762506,
+  "imdbId": "tt33510831",
+  "title": "Band of Brothers: Legacy",
+  "originalTitle": "Band of Brothers: Legacy",
+  "overview": "This tribute to the groundbreaking series that helped preserve the story of Easy Company and deepened public appreciation for the sacrifices of the Greatest Generation features new interviews with cast members Damian Lewis, Ron Livingston, Michael Cudlitz, Capt. Dale Dye, USMC (Ret.), David Schwimmer, and more. Through personal reflections and behind-the-scenes stories, participants revisit the experience of making the series and explore its lasting cultural resonance, and also includes never-before-seen archival footage and photographs of Easy Company and World War II.",
+  "tagline": "The world depended on them. They depended on each other.  A look back after 25 years.",
+  "posterPath": "/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+  "backdropPath": "/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
+  "logoPath": "/A0FLnVqTb2sdaTgD7JLY6VGSg8O.png",
+  "backdrops": [
+    "/kTTK42PcRH7nqZaHjgWNkD5j8xs.jpg",
+    "/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg"
+  ],
+  "releaseDate": "2026-09-09",
+  "runtime": 60,
+  "voteAverage": "10.00",
+  "popularity": null,
+  "popularityScore": 707,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=IjLg0X59fMA",
+  "quality": "WEB-DL",
+  "director": "Chase Millsap",
+  "directorTmdbId": 4310126,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 4171,
+      "name": "Playtone",
+      "logo_path": "/cdwjRVcXP9zws9gkiim0KkBNs9N.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1956,
+      "name": "world war ii"
+    },
+    {
+      "id": 34118,
+      "name": "retrospective"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 20907,
+  "watchlistCount": 99,
+  "favouriteCount": 31,
+  "shareCount": 7,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-10T05:16:43.114Z",
+  "updatedAt": "2026-09-10T05:16:48.450Z",
+  "genres": [
+    {
+      "id": "1de0078f-f038-4fba-87f2-c36e7584a1cb",
+      "tmdbId": 10752,
+      "name": "War",
+      "slug": "war",
+      "createdAt": "2026-04-02T13:49:04.263Z"
+    },
+    {
+      "id": "984b3044-89dd-41a9-83ca-d48205b33794",
+      "tmdbId": 99,
+      "name": "Documentary",
+      "slug": "documentary",
+      "createdAt": "2026-04-02T13:53:46.408Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "b8da177d-2544-4f97-a7aa-e785c291f3b8",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 20186,
+      "name": "Damian Lewis",
+      "character": "Self",
+      "profilePath": "/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg",
+      "order": 0
+    },
+    {
+      "id": "741868e1-5c95-4542-a753-1c1c95a04c64",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 4201615,
+      "name": "Richard D. Winters",
+      "character": "Self (archive footage)",
+      "profilePath": "/8GkamWaNqw95JQrtouqiWrR88WB.jpg",
+      "order": 1
+    },
+    {
+      "id": "0952d612-3c93-4e1c-99e9-c25223a2142b",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 17402,
+      "name": "Ron Livingston",
+      "character": "Self",
+      "profilePath": "/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg",
+      "order": 2
+    },
+    {
+      "id": "27d424ce-2b8f-487b-bedd-a4696181c1d6",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 2203,
+      "name": "Neal McDonough",
+      "character": "Self",
+      "profilePath": "/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg",
+      "order": 3
+    },
+    {
+      "id": "70bb9ffd-9493-4f0d-96c1-0bb84a0d5ce7",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 9275,
+      "name": "Frank John Hughes",
+      "character": "Self",
+      "profilePath": "/cPlPRD36uPNYMlPeoHjvmOc60iX.jpg",
+      "order": 4
+    },
+    {
+      "id": "a4603f59-b16c-4ece-afec-5d4ba3b783ef",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 52415,
+      "name": "Michael Cudlitz",
+      "character": "Self",
+      "profilePath": "/1snLOta9L2DAhmOTvNIn7OSxzQC.jpg",
+      "order": 5
+    },
+    {
+      "id": "72f1203b-bf50-4dd1-8751-2b470e3bb917",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 65395,
+      "name": "James Madio",
+      "character": "Self",
+      "profilePath": "/v17uyHhMLooVWKjMRS4NoGeTPyB.jpg",
+      "order": 6
+    },
+    {
+      "id": "cd66f5cf-f57b-4c8c-b5bf-679051cfbfb9",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 3211,
+      "name": "Dale Dye",
+      "character": "Self",
+      "profilePath": "/bkMcK2hvB1wRJT1YFgNTl7ivlF2.jpg",
+      "order": 7
+    },
+    {
+      "id": "4dc90725-3e37-41f2-8013-de4e2a0cb50c",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 14409,
+      "name": "David Schwimmer",
+      "character": "Self",
+      "profilePath": "/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg",
+      "order": 8
+    },
+    {
+      "id": "1002d45a-ce32-492d-8798-9c77d6378f9f",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 4201565,
+      "name": "William 'Bill' Guarnere",
+      "character": "Self (archive footage)",
+      "profilePath": "/vS13uH6VLZ7SZ0kIkXSWz8rANl0.jpg",
+      "order": 9
+    },
+    {
+      "id": "df8ac175-ff98-4957-be92-069bdaee817c",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 4201569,
+      "name": "Edward 'Babe' Heffron",
+      "character": "Self (archive footage)",
+      "profilePath": "/ksRj4HOBL6Pr5wqOcY6n8u3O5fL.jpg",
+      "order": 10
+    },
+    {
+      "id": "df34a1ae-3635-4574-9fba-06db28367e45",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 4201574,
+      "name": "Carwood Lipton",
+      "character": "Self (archive footage)",
+      "profilePath": "/p9JpRBoZCxGHpTzIADSfGpkmYyS.jpg",
+      "order": 11
+    },
+    {
+      "id": "a43bf177-ffdc-4844-89b0-3b0aa4e608c7",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 4201587,
+      "name": "Denver 'Bull' Randleman",
+      "character": "Self (archive footage)",
+      "profilePath": "/9n0XvMcwXDxCeHMJ1oDx42gCiP2.jpg",
+      "order": 12
+    },
+    {
+      "id": "785de241-c2a9-4ff6-a2fa-693ebc32124d",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 4201575,
+      "name": "Donald Malarkey",
+      "character": "Self (archive footage)",
+      "profilePath": "/yv4TEGf6pvoLO8fFXOODOETGllA.jpg",
+      "order": 13
+    },
+    {
+      "id": "b8b31322-1304-4eb4-a4ae-119f3eaf0ab6",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 4201563,
+      "name": "Lynn 'Buck' Compton",
+      "character": "Self (archive footage)",
+      "profilePath": "/xcIpFHMai3QPcYzHqai6DalvRHt.jpg",
+      "order": 14
+    },
+    {
+      "id": "47ecbf72-4e03-454b-8e71-d1a9fa32b85e",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 56366,
+      "name": "Ross McCall",
+      "character": "Self",
+      "profilePath": "/qs2hQeIZonf0L45NhTvIGVhRTfZ.jpg",
+      "order": 15
+    },
+    {
+      "id": "159b044f-8a9b-44e6-a340-c59fd6871629",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 123532,
+      "name": "Rick Gomez",
+      "character": "Self",
+      "profilePath": "/gmVYPHJgmRVIzhaVYMns4kgBVqm.jpg",
+      "order": 16
+    },
+    {
+      "id": "6a6d8730-a5f6-4e76-80c4-0a1304deb931",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 7498,
+      "name": "Eion Bailey",
+      "character": "Self",
+      "profilePath": "/3DW13W47cKk4LQZwS4EvRaNBoVu.jpg",
+      "order": 17
+    },
+    {
+      "id": "ba6bbabe-eaa3-4538-b1ab-99c5e7dc5c3c",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 68535,
+      "name": "Nicholas Aaron",
+      "character": "Self",
+      "profilePath": "/rMBLVlFDfOr6ZoU1iHF6QARv9VP.jpg",
+      "order": 18
+    },
+    {
+      "id": "70c6ff2c-a89c-493e-a5cd-22b12ecf2d68",
+      "movieId": "5280f96f-c24e-4e8a-8f50-587328f276df",
+      "tmdbPersonId": 6467852,
+      "name": "Christopher Donahue",
+      "character": "Self",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

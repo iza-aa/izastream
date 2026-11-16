@@ -1,0 +1,131 @@
+{
+  "slug": "the-moth-effect-2021",
+  "id": "a5460255-23c9-4605-8388-657c9a94b620",
+  "title": "The Moth Effect",
+  "overview": "A satirical six-part sketch comedy.",
+  "tagline": null,
+  "posterPath": "/hUc6UHAgXOciRD7574hqQRgjVgy.jpg",
+  "backdropPath": "/p8b1w7pKjZdZlzSTlfhIZCStTug.jpg",
+  "logoPath": null,
+  "firstAirDate": "2021-07-30",
+  "voteAverage": "4.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "39d36617-203f-40c3-aa09-bbdb03990fac",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbPersonId": 1331024,
+      "name": "Kate Box",
+      "character": "",
+      "profilePath": "/zv4NckgNBn6Tc2xhCdNFFx9o9EZ.jpg",
+      "order": 0
+    },
+    {
+      "id": "1b14d389-08ca-4c67-8bc7-68d77e157070",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbPersonId": 1614442,
+      "name": "Nicholas Boshier",
+      "character": "",
+      "profilePath": "/eSX3XJB0Ojh99719gGW2ioZonuv.jpg",
+      "order": 1
+    },
+    {
+      "id": "f2d959cb-0b2c-401d-834c-e9ca83d0eec2",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbPersonId": 3097970,
+      "name": "Jazz Twemlow",
+      "character": "",
+      "profilePath": null,
+      "order": 2
+    },
+    {
+      "id": "d3dfae74-19dc-4c3b-8688-14277c22ffbc",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbPersonId": 1196822,
+      "name": "Jessica De Gouw",
+      "character": "Sephen",
+      "profilePath": "/vmKzmMooWodUju9GZzm9rS8mrAQ.jpg",
+      "order": 500
+    },
+    {
+      "id": "8eca8702-d37b-44e2-b0d8-d66d0add5409",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbPersonId": 502,
+      "name": "Miranda Otto",
+      "character": "Jenny",
+      "profilePath": "/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg",
+      "order": 501
+    },
+    {
+      "id": "5ea649a4-e0d9-4d05-a40b-a83b70bc550f",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbPersonId": 1371,
+      "name": "David Wenham",
+      "character": "",
+      "profilePath": "/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg",
+      "order": 504
+    },
+    {
+      "id": "1a22b6da-50a8-40d2-a284-b3d49da71893",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbPersonId": 29092,
+      "name": "Bryan Brown",
+      "character": "",
+      "profilePath": "/x0NqVqpJSET0oVdJxbbwwd7hrFA.jpg",
+      "order": 504
+    },
+    {
+      "id": "f1101fc1-757d-4352-b69d-c7539e57a165",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbPersonId": 61912,
+      "name": "Sam Cotton",
+      "character": "Adam Trent",
+      "profilePath": "/5MDW1t2WLfzSloMvuWaEEQvEpJv.jpg",
+      "order": 508
+    },
+    {
+      "id": "8ea03456-3640-4e14-bcfc-11464b2d6df1",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbPersonId": 2659518,
+      "name": "Zoe Terakes",
+      "character": "Employee",
+      "profilePath": "/d76CY7JMI2RuxFWwrrNHXRratJf.jpg",
+      "order": 509
+    },
+    {
+      "id": "8b1a1765-bedc-4ef9-8456-bfad0aca8a5b",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbPersonId": 586951,
+      "name": "Jonny Brugh",
+      "character": "",
+      "profilePath": "/5iKh2jMEsx83z4Gz4pDA8deRRux.jpg",
+      "order": 511
+    }
+  ],
+  "seasons": [
+    {
+      "id": "a9d60e49-ab33-4670-a6fe-d68f4e5ebe31",
+      "tvSeriesId": "a5460255-23c9-4605-8388-657c9a94b620",
+      "tmdbId": 196207,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/nIZ90No3yAT2FsSjr4bRSOcy41.jpg",
+      "airDate": "2021-07-30",
+      "episodeCount": 6,
+      "isPublished": true,
+      "createdAt": "2026-10-06T20:42:09.180Z",
+      "updatedAt": "2026-10-06T20:44:08.925Z"
+    }
+  ]
+}

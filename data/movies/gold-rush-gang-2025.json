@@ -1,0 +1,358 @@
+{
+  "slug": "gold-rush-gang-2025",
+  "id": "ddaa3981-543a-4020-817a-0026ca11978b",
+  "tmdbId": 1429739,
+  "imdbId": "tt36711248",
+  "title": "Gold Rush Gang",
+  "originalTitle": "เขาชุมทอง คะนองชุมโจร",
+  "overview": "At the tail end of World War II, a bandit leader and his crew go up against his sworn enemy and the Japanese army to rob a train full of gold.",
+  "tagline": "",
+  "posterPath": "/7j6jZNhCTnsZy5QItpruDwyBWoo.jpg",
+  "backdropPath": "/kYsU56QEcwEr8jAQ6Vm3M8bXTWz.jpg",
+  "logoPath": "/6JTmvTnnKPQjK94RBp1WSOOwTGa.png",
+  "backdrops": [
+    "/kYsU56QEcwEr8jAQ6Vm3M8bXTWz.jpg",
+    "/2QpDKCmrIoarGDuJpIoz4bfqF0M.jpg",
+    "/oTdhYP7c8pzCfrK9RSo5Dw4jkyG.jpg",
+    "/dguyz1BtzoqjE50gy9fhGLfqJMv.jpg",
+    "/7qujJJNeIc6jF9AkFyviUVnihJf.jpg",
+    "/86HfyH4peoNJpgglfAe1LeqNXBq.jpg",
+    "/5PiQFRIr2YnMAYqbRLvsHqRfJsA.jpg",
+    "/jnPcvvTiPBLEuZspzGRqOPzepCS.jpg",
+    "/5cRm2wwjphsh5yjZY1qCREhcdgT.jpg",
+    "/s3dzese51vAAdvp8T9QkKLnuPHa.jpg"
+  ],
+  "releaseDate": "2025-08-19",
+  "runtime": 120,
+  "voteAverage": "6.90",
+  "popularity": "3.161",
+  "popularityScore": 27,
+  "originalLanguage": "th",
+  "country": "TH",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=f0tzvgOpAlc",
+  "quality": "WEB-DL",
+  "director": "Wisit Sasanatieng",
+  "directorTmdbId": null,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 101928,
+      "name": "Bang Fai Film",
+      "logo_path": null
+    }
+  ],
+  "keywords": [],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1169,
+  "watchlistCount": 8,
+  "favouriteCount": 0,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-04-02T14:18:06.397Z",
+  "updatedAt": "2026-04-02T14:18:06.397Z",
+  "genres": [
+    {
+      "id": "15dfe354-c6cb-4e71-a6e9-f0190d30d0d4",
+      "tmdbId": 37,
+      "name": "Western",
+      "slug": "western",
+      "createdAt": "2026-04-02T13:49:04.555Z"
+    },
+    {
+      "id": "2efb1514-9b9b-49e3-8532-cf7df8bba271",
+      "tmdbId": 28,
+      "name": "Action",
+      "slug": "action",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "34b9700c-df64-4a5f-a933-ffca7f91dff4",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 57208,
+      "name": "Petchtai Wongkamlao",
+      "character": "Ko-Wah Thungsong",
+      "profilePath": "/3hmcqU1OfLZ5kbvl7url63VuWMJ.jpg",
+      "order": 0
+    },
+    {
+      "id": "7aaa01e8-34ff-4a35-95da-fc82c4ff736d",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 1536084,
+      "name": "Thiti Mahayotaruk",
+      "character": "Jong Lansaka",
+      "profilePath": "/6Yo0eUXe9icC7WGST6GSsnLSM4x.jpg",
+      "order": 1
+    },
+    {
+      "id": "a6cbc7ea-8cf0-4b5a-ab1b-85dba7c472c7",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 4878122,
+      "name": "Chingduang Duijkers",
+      "character": "Yada Nopphitam",
+      "profilePath": "/i4CetWHMrY9nbsffvNWNuq0Aw3C.jpg",
+      "order": 2
+    },
+    {
+      "id": "3b8eeae9-96e8-441e-bee6-16443bd51f9d",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 4431452,
+      "name": "Ophaphoom Chitapan",
+      "character": "Dum Sichon",
+      "profilePath": "/6OqRFUN8wIvlB5UPAdAh7k2tEnX.jpg",
+      "order": 3
+    },
+    {
+      "id": "2c5e3e19-7458-4292-8a87-507124e3f32c",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 1070771,
+      "name": "Nachat Juntapun",
+      "character": "Mon Ronphibun",
+      "profilePath": "/gGLRvWb2nsypCXyhneiNXs0xY2Y.jpg",
+      "order": 4
+    },
+    {
+      "id": "389257b6-f535-41b6-b17c-a2b9aab69cc0",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 3959206,
+      "name": "Punpreedee Khumprom Rodsawat",
+      "character": "Chompen",
+      "profilePath": "/ukvzvu8AasXqi3hvpZTcnTVLm1F.jpg",
+      "order": 5
+    },
+    {
+      "id": "d9e7a450-de8d-47e9-a411-7e4e58542704",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 1259669,
+      "name": "Myria Benedetti",
+      "character": "Chomchan",
+      "profilePath": "/mXx2FnDd70vpFkTHcxxCtWjyIG7.jpg",
+      "order": 6
+    },
+    {
+      "id": "87350082-3a4c-4a7c-b2be-3050b356605a",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 3176962,
+      "name": "Keita Arai",
+      "character": "Hideki Nakamura",
+      "profilePath": "/vxKfaMkTtWqJTwBMN9KNJaFrQW1.jpg",
+      "order": 7
+    },
+    {
+      "id": "6d2be954-d65c-4805-a5f9-7a71d4cce7f9",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 1652160,
+      "name": "Soontorn Meesri",
+      "character": "Chomchan's Father",
+      "profilePath": "/oNRl1zVvFA22UX22U6MwboNVZyA.jpg",
+      "order": 8
+    },
+    {
+      "id": "cad4ec34-97ad-4738-8c62-09766844f4f8",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 3581435,
+      "name": "Weerayut Nancha",
+      "character": "Luang Arunpiwat",
+      "profilePath": null,
+      "order": 9
+    },
+    {
+      "id": "fe45f96b-eb15-4bb9-8575-b4164355a986",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 3574340,
+      "name": "Peron Yasu",
+      "character": "Maeda",
+      "profilePath": null,
+      "order": 10
+    },
+    {
+      "id": "d0c45119-1a23-413a-a758-57a0431c2276",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 5384891,
+      "name": "Ittiphol Pholsong",
+      "character": "Lieutenant Rung",
+      "profilePath": null,
+      "order": 11
+    },
+    {
+      "id": "4d280f13-a54b-4644-a7b1-7d0b8f9823f5",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 3582239,
+      "name": "Wannasiri Srivarathanabul",
+      "character": "Chomchan's Mother",
+      "profilePath": null,
+      "order": 12
+    },
+    {
+      "id": "778b733d-bcc2-4080-81e3-6a7a598fc33a",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 5639820,
+      "name": "Anyarin Phomtem",
+      "character": "Chomduean",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "940b0e2b-3bd1-4e34-b119-8fcf266bdb1c",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 5639821,
+      "name": "Thanakrit Sukwan",
+      "character": "Young Jong",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "1b9f23a4-8bb6-4f01-80c1-db173de09952",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 5619420,
+      "name": "Anantaya Sai-ngam",
+      "character": "Young Yada",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "b254fa5e-bc37-47eb-8eb7-1e4a88189c08",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 5639822,
+      "name": "Nusthiphat Kornsiriwatanakul",
+      "character": "Young Mon",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "1ce56960-8cb9-4de5-b6c1-130c940248f1",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 3320094,
+      "name": "Phumiphat Worasetsak",
+      "character": "Young Dum",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "a9b27b0f-9eec-4ada-9bf9-ac761d7efd1f",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 3505826,
+      "name": "Noppasit Suwanmanee",
+      "character": "Ko-Wah's Underling",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "15cd9758-1a4a-450d-9e0b-36f7e3c992e0",
+      "movieId": "ddaa3981-543a-4020-817a-0026ca11978b",
+      "tmdbPersonId": 4254110,
+      "name": "Wittaya Boonvitichot",
+      "character": "Bandit Playing Mouth Organ",
+      "profilePath": null,
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

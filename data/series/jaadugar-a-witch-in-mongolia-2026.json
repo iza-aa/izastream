@@ -1,0 +1,145 @@
+{
+  "slug": "jaadugar-a-witch-in-mongolia-2026",
+  "id": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+  "title": "Jaadugar: A Witch in Mongolia",
+  "overview": "After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.",
+  "tagline": "This is the tale of a witch who toyed with a vast continent.",
+  "posterPath": "/723NT7KY9xBFLYNNBaEEREbLaPC.jpg",
+  "backdropPath": "/6AoGMlKo2DUsYWiF5zzjdRERCVi.jpg",
+  "logoPath": "/oMpNy4JJiJH2yDehiDNGyswrWZR.png",
+  "firstAirDate": "2026-07-04",
+  "voteAverage": "8.40",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "1de0078f-f038-4fba-87f2-c36e7584a1cb",
+      "tmdbId": 10752,
+      "name": "War",
+      "slug": "war",
+      "createdAt": "2026-04-02T13:49:04.263Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "1daa118b-d631-427e-845e-0f193e02d27c",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbPersonId": 1888529,
+      "name": "Akira Sekine",
+      "character": "Sitara (voice)",
+      "profilePath": "/czYoPzAEK1gI7RxRiPyDSFYRm5x.jpg",
+      "order": 0
+    },
+    {
+      "id": "5b010cc9-a883-4188-bbac-8f984d4ca018",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbPersonId": 1220947,
+      "name": "Ami Koshimizu",
+      "character": "Töregene (voice)",
+      "profilePath": "/e5sU0stGjTMtFoj0jjHH7OFUqYC.jpg",
+      "order": 1
+    },
+    {
+      "id": "bf2ea800-ea7a-4572-9e25-e42b55fe31a3",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbPersonId": 220710,
+      "name": "Houko Kuwashima",
+      "character": "Fatima (voice)",
+      "profilePath": "/uZSmoh5jSdLwmkLaCnC3Xju6TTN.jpg",
+      "order": 2
+    },
+    {
+      "id": "54420734-0d4a-4884-beb2-d911b65037b8",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbPersonId": 3843319,
+      "name": "Jun Saito",
+      "character": "Muhammad (voice)",
+      "profilePath": "/tYbBtEvzm3dqwdxS0h61TVwqAfN.jpg",
+      "order": 3
+    },
+    {
+      "id": "9f38af00-1e89-4771-8443-5829d0e01240",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbPersonId": 119145,
+      "name": "Hiro Shimono",
+      "character": "Ögedei (voice)",
+      "profilePath": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg",
+      "order": 4
+    },
+    {
+      "id": "969a8e49-6c28-4f93-a4af-ad5fd1db3045",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbPersonId": 2138291,
+      "name": "Ryota Suzuki",
+      "character": "Tolui (voice)",
+      "profilePath": "/4Xq18mQttuW2yfRCflnWoU7UqQ5.jpg",
+      "order": 5
+    },
+    {
+      "id": "62df6c43-5f95-4605-8504-446d4ed05c26",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbPersonId": 19588,
+      "name": "Miyu Irino",
+      "character": "Shira (voice)",
+      "profilePath": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg",
+      "order": 6
+    },
+    {
+      "id": "f73564b5-4fab-45f8-a42d-75cd24355afc",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbPersonId": 110665,
+      "name": "Daisuke Namikawa",
+      "character": "Chagatai (voice)",
+      "profilePath": "/iw0X8oDutxaBAri3Ifga8nhdUJK.jpg",
+      "order": 7
+    },
+    {
+      "id": "baf659a4-0dd6-4fff-ac99-a68ae9943d5c",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbPersonId": 126698,
+      "name": "Kenji Nojima",
+      "character": "Jochi (voice)",
+      "profilePath": "/nRSPVjDkdpnrQabnK5mENH118zN.jpg",
+      "order": 8
+    },
+    {
+      "id": "09bfe13d-64ee-4755-ba0d-56ef160e139b",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbPersonId": 6393777,
+      "name": "Haruna Shibano",
+      "character": "Slave",
+      "profilePath": "/1M82w0QMn3M69glkOlZbi6X1LqB.jpg",
+      "order": 500
+    }
+  ],
+  "seasons": [
+    {
+      "id": "504b2bb2-aebc-4b98-8a3a-6651180053ae",
+      "tvSeriesId": "9466c1a9-aa77-42ca-a376-919b1b89f291",
+      "tmdbId": 451490,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/723NT7KY9xBFLYNNBaEEREbLaPC.jpg",
+      "airDate": "2026-07-04",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-07T03:19:06.591Z",
+      "updatedAt": "2026-10-07T03:22:12.619Z"
+    }
+  ]
+}

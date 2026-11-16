@@ -1,0 +1,415 @@
+{
+  "slug": "buddy-2026",
+  "id": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+  "tmdbId": 1514026,
+  "imdbId": "tt37281055",
+  "title": "Buddy",
+  "originalTitle": "Buddy",
+  "overview": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
+  "tagline": "It's Buddy!",
+  "posterPath": "/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+  "backdropPath": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+  "logoPath": "/wJ3Nfqd0QRHxcXuHQ9i8FEPrjuU.png",
+  "backdrops": [
+    "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+    "/bV9iFVvLJQaF8fcmpeQ2ZcvJXdm.jpg",
+    "/rCNcPpG9EhXkYtI7jAjJTyj3iXW.jpg",
+    "/A4rtlYLwJxcCR9BrB9g4AEDU0FF.jpg",
+    "/i8Y6RYLaeoYXP8ncDjyCpp5ttFv.jpg",
+    "/kz7HG6PsDucjF6BbeAIweFYfJ3a.jpg",
+    "/42xiDkgsGTP4sU5aJPgiZr1E2nC.jpg",
+    "/OimNIVjiem6u1mqgUJkUSDmUbw.jpg",
+    "/pm3xLeAXkx9ZDoUQH4zOJLVY9yY.jpg",
+    "/c7Gte6sAL7J8PRxNZRAdJO72x7U.jpg"
+  ],
+  "releaseDate": "2026-08-27",
+  "runtime": 95,
+  "voteAverage": "7.82",
+  "popularity": null,
+  "popularityScore": 5203,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": null,
+  "quality": "WEB-DL",
+  "director": "Casper Kelly",
+  "directorTmdbId": 1232064,
+  "directorProfilePath": "/uJTvuDrGdO9JnEMWEyI4fFKzApV.jpg",
+  "productionCompanies": [
+    {
+      "id": 18609,
+      "name": "BoulderLight Pictures",
+      "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png"
+    },
+    {
+      "id": 28286,
+      "name": "Low Spark Films",
+      "logo_path": "/m4zzuwJbTrqw5qZHoXpySkC87jE.png"
+    },
+    {
+      "id": 188458,
+      "name": "SIPUR",
+      "logo_path": "/limNPrYGEOyKb4kjcZKdIk6K0Sh.png"
+    },
+    {
+      "id": 312527,
+      "name": "Substance",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6152,
+      "name": "supernatural"
+    },
+    {
+      "id": 10123,
+      "name": "dark comedy"
+    },
+    {
+      "id": 10292,
+      "name": "gore"
+    },
+    {
+      "id": 12339,
+      "name": "slasher"
+    },
+    {
+      "id": 41410,
+      "name": "madness"
+    },
+    {
+      "id": 163227,
+      "name": "unicorn"
+    },
+    {
+      "id": 196003,
+      "name": "tv host"
+    },
+    {
+      "id": 221189,
+      "name": "suburban"
+    },
+    {
+      "id": 256183,
+      "name": "supernatural horror"
+    },
+    {
+      "id": 281237,
+      "name": "independent film"
+    },
+    {
+      "id": 338361,
+      "name": "missing children"
+    },
+    {
+      "id": 350422,
+      "name": "kids show"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 66351,
+  "watchlistCount": 317,
+  "favouriteCount": 100,
+  "shareCount": 64,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-13T11:32:20.189Z",
+  "updatedAt": "2026-10-13T11:32:51.710Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "e6e3e1c0-444c-4c9e-bff8-73ad64be9817",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 298410,
+      "name": "Keegan-Michael Key",
+      "character": "Buddy the Unicorn (voice)",
+      "profilePath": "/xmdzYXP9j87a43FSiL138nLesuS.jpg",
+      "order": 0
+    },
+    {
+      "id": "344dc38e-ecf8-4604-b77e-52408f7a6527",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 204392,
+      "name": "Cristin Milioti",
+      "character": "Grace",
+      "profilePath": "/aiOOWmej3qYSiR9cUs3lm5x5SkB.jpg",
+      "order": 1
+    },
+    {
+      "id": "b7413ca0-7d31-4fd8-a525-0c5702e4cd50",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 3484285,
+      "name": "Delaney Quinn",
+      "character": "Freddy",
+      "profilePath": "/byBPP7Zg4NKQEejOBme9PUdRAZp.jpg",
+      "order": 2
+    },
+    {
+      "id": "566ac1bd-f041-406a-be5d-afebb472f9ff",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 3173336,
+      "name": "Caleb Williams",
+      "character": "Wade",
+      "profilePath": "/6I6wWh2dDYziQhqncAT0isaDGoY.jpg",
+      "order": 3
+    },
+    {
+      "id": "924e687f-55ca-46b5-bd3d-00673bc2b9ee",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 4505121,
+      "name": "Madison Skyy Polan",
+      "character": "Hannah",
+      "profilePath": "/9O5EsUmfrr4uHvjFV9sJJFg900g.jpg",
+      "order": 4
+    },
+    {
+      "id": "e68d6632-2462-47a4-9fae-c0ab7b562620",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 4119575,
+      "name": "Tristan Borders",
+      "character": "Oliver",
+      "profilePath": "/sSXJnfhtw8CbFJKRwd3cMEdhFAq.jpg",
+      "order": 5
+    },
+    {
+      "id": "bd64308f-ab61-4b27-9e69-e3d7de929178",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 10872,
+      "name": "Patton Oswalt",
+      "character": "Strappy (voice)",
+      "profilePath": "/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg",
+      "order": 6
+    },
+    {
+      "id": "d9de3d58-939d-4416-8a22-b61634b36193",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 6436428,
+      "name": "Jimmica Collins",
+      "character": "Betty Bunny (voice)",
+      "profilePath": "/nWqwqhsLKj3bMjKNzdf38TpWg3v.jpg",
+      "order": 7
+    },
+    {
+      "id": "6dc180f2-2c9d-4220-ac2c-7449655b1dc6",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 89599,
+      "name": "Eric Bauza",
+      "character": "Mr. Mailbox / Worry Well / Couchy / Trashy / Pee Flower (voice)",
+      "profilePath": "/afOlsVPQxbtkom604MeCemjlwEV.jpg",
+      "order": 8
+    },
+    {
+      "id": "4399bc8c-684a-40fb-9580-b7bb9ee11586",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 17052,
+      "name": "Topher Grace",
+      "character": "Ben",
+      "profilePath": "/89sF57Br5lq8nrepS7HLzJ41QD1.jpg",
+      "order": 9
+    },
+    {
+      "id": "2c18d99e-94f6-40d5-9185-cceb5c284706",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 2140091,
+      "name": "Bryson JonSteele",
+      "character": "Derek",
+      "profilePath": "/feTFmvwffx7ZJGyUwHxZ0mf1AhJ.jpg",
+      "order": 10
+    },
+    {
+      "id": "b5e488ce-32b7-499b-b67d-0377509cb2fe",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 4966857,
+      "name": "Seamus Flynn",
+      "character": "Timothy",
+      "profilePath": "/hzndMFQqZah04xeV1Za5QU8CSXk.jpg",
+      "order": 11
+    },
+    {
+      "id": "390604a0-40ba-43e3-bac3-2bcd2ebadffa",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 2634434,
+      "name": "Luke Speakman",
+      "character": "Josh",
+      "profilePath": "/lTngUURRsuiguNGzubZZhjNB86r.jpg",
+      "order": 12
+    },
+    {
+      "id": "39b3eb78-cf85-4e3c-b2b7-e729f3f97ab1",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 2851330,
+      "name": "Bennie Taylor",
+      "character": "Mailman Miles",
+      "profilePath": "/dFGThwEI8aGjqMSLHZQJ80sjmrm.jpg",
+      "order": 13
+    },
+    {
+      "id": "d5517937-0a53-4761-99a9-7d96b103de3e",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 2025638,
+      "name": "Phuong Kubacki",
+      "character": "Nurse Nancy",
+      "profilePath": "/uUgZ9EhaUJaxWhHoqPBZp3mGAhz.jpg",
+      "order": 14
+    },
+    {
+      "id": "c574429d-6f8f-4377-8eb5-c17a3e0f1bd1",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 6277088,
+      "name": "Devon Hawkes Ludlow",
+      "character": "Charlie the Train (voice)",
+      "profilePath": "/qm6THY80trbeCDD3VtKMOj6lR8i.jpg",
+      "order": 15
+    },
+    {
+      "id": "416d1359-bb58-4665-8c05-51ef60dc90fa",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 335,
+      "name": "Michael Shannon",
+      "character": "Willie (voice)",
+      "profilePath": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg",
+      "order": 16
+    },
+    {
+      "id": "d69a62db-609a-417c-8106-3bad12ff0e32",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 15661,
+      "name": "Clint Howard",
+      "character": "George",
+      "profilePath": "/qC7AgKmcBFk76ojTYELeirw1viQ.jpg",
+      "order": 17
+    },
+    {
+      "id": "9c57bd23-0aeb-41d7-a327-46c227ee19ef",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 5955954,
+      "name": "Sergey Zhuravsky",
+      "character": "Buddy the Unicorn (suit)",
+      "profilePath": "/lHuBQY1GDuKWYhejOdmpTjKv9lO.jpg",
+      "order": 18
+    },
+    {
+      "id": "4c1d796b-28a9-4b35-b182-041261ce63bc",
+      "movieId": "703caa33-9a1a-4cbd-ba81-f4af326556b9",
+      "tmdbPersonId": 2578299,
+      "name": "Jonathan Yurco",
+      "character": "Dark Buddy (suit)",
+      "profilePath": "/4T2LCnQIbYV92sNiTljW4Zw98Lt.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

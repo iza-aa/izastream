@@ -1,0 +1,82 @@
+{
+  "slug": "the-oblivious-saint-cant-contain-her-power-2026",
+  "id": "0f7f6c51-1fd6-4c29-a242-1f304dd35de8",
+  "title": "The Oblivious Saint Can't Contain Her Power",
+  "overview": "Overshadowed by her saintly sister Flora, plain Carolina seizes a chance to be useful by agreeing to political marriage with a prince rumored to be cruel. But the prince is nothing as expected—he’s a gentleman, and Carolina feels valued for once in her life. As Carolina blossoms, she discovers a sense of self-worth and a mysterious power, while Flora’s perfect life back home starts to crumble.",
+  "tagline": null,
+  "posterPath": "/xrgC96oAFYSSjCysOg8oCAVzVSg.jpg",
+  "backdropPath": "/5JJNvKX3OEJ29If8RQTTaY45nFp.jpg",
+  "logoPath": "/b617eNOiLwlxsT4upL5V3MOqNlt.png",
+  "firstAirDate": "2026-06-30",
+  "voteAverage": "6.70",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "4c311691-8c00-40e4-b7c1-5c4518545e1d",
+      "tvSeriesId": "0f7f6c51-1fd6-4c29-a242-1f304dd35de8",
+      "tmdbPersonId": 1492982,
+      "name": "Rie Takahashi",
+      "character": "Carolina Sánchez (voice)",
+      "profilePath": "/aeB7z0cBTASdjKOjQriBAO6hYq4.jpg",
+      "order": 0
+    },
+    {
+      "id": "83026480-85c2-4791-a3a3-41a324bb213d",
+      "tvSeriesId": "0f7f6c51-1fd6-4c29-a242-1f304dd35de8",
+      "tmdbPersonId": 1319218,
+      "name": "Makoto Furukawa",
+      "character": "Edward Ruby Martínez (voice)",
+      "profilePath": "/inLmBZhrqXeE9wlViyK28ocKJSw.jpg",
+      "order": 1
+    },
+    {
+      "id": "6827923f-9a93-4e81-b83f-cc76967a87cc",
+      "tvSeriesId": "0f7f6c51-1fd6-4c29-a242-1f304dd35de8",
+      "tmdbPersonId": 1124536,
+      "name": "Haruka Shiraishi",
+      "character": "Flora Sánchez (voice)",
+      "profilePath": "/hrQxTVNGLi3jXC7v4kETArpA0dV.jpg",
+      "order": 2
+    }
+  ],
+  "seasons": [
+    {
+      "id": "a700783e-b0e1-4afb-bfc9-2f8fbdbc9090",
+      "tvSeriesId": "0f7f6c51-1fd6-4c29-a242-1f304dd35de8",
+      "tmdbId": 466258,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xrgC96oAFYSSjCysOg8oCAVzVSg.jpg",
+      "airDate": "2026-06-30",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-09-30T16:07:59.435Z",
+      "updatedAt": "2026-10-01T15:59:48.942Z"
+    }
+  ]
+}

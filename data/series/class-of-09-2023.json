@@ -1,0 +1,159 @@
+{
+  "slug": "class-of-09-2023",
+  "id": "5caebb34-3908-4afe-b132-d055b2b948e0",
+  "title": "Class of '09",
+  "overview": "Set in three distinct points in time, follow a class of FBI agents who grapple with immense changes as the U.S. criminal justice system is altered by artificial intelligence.",
+  "tagline": "Time changes everything.",
+  "posterPath": "/5eCGq50CMloT2a1bMDB8JPpGuf2.jpg",
+  "backdropPath": "/zhUA4iMufUZFaQmqGWXiwRUnld5.jpg",
+  "logoPath": "/d5RaxD8LSv08KzObMJJ1a11ySkN.png",
+  "firstAirDate": "2023-05-10",
+  "voteAverage": "7.07",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 8,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "8433bf5e-9f47-40be-823f-411b68929818",
+      "tmdbId": 80,
+      "name": "Crime",
+      "slug": "crime",
+      "createdAt": "2026-04-02T13:49:03.966Z"
+    },
+    {
+      "id": "b3d73ce4-6583-473c-a203-bf4871cf49ca",
+      "tmdbId": 9648,
+      "name": "Mystery",
+      "slug": "mystery",
+      "createdAt": "2026-04-02T13:49:05.757Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "d00ff4d8-eb4c-4dd2-a079-30d6011f3a5e",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbPersonId": 51072,
+      "name": "Kate Mara",
+      "character": "Ashley Poet",
+      "profilePath": "/xZYD8wYHMmN9dMMPiohnKEFoTGx.jpg",
+      "order": 0
+    },
+    {
+      "id": "e833a06a-af06-454b-8485-6a6f752f8ebd",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbPersonId": 226366,
+      "name": "Brian Tyree Henry",
+      "character": "Tayo Michaels",
+      "profilePath": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg",
+      "order": 1
+    },
+    {
+      "id": "06bdba55-dac8-4530-8b28-9352aff56541",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbPersonId": 1344374,
+      "name": "Sepideh Moafi",
+      "character": "Hour Nazari",
+      "profilePath": "/b5rwbpV8K5g5jP5ZVVtOXyweigF.jpg",
+      "order": 2
+    },
+    {
+      "id": "0a9b3ef4-3c7f-4e3f-a35e-9358b018216a",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbPersonId": 22541,
+      "name": "Brian J. Smith",
+      "character": "Daniel Lennix",
+      "profilePath": "/sAlWlK9mtX9BVGFybx7wQ9SSzTp.jpg",
+      "order": 3
+    },
+    {
+      "id": "687c4ed9-b8aa-4bd2-bf6e-605e9aacf90d",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbPersonId": 1224010,
+      "name": "Jon Jon Briones",
+      "character": "Gabriel",
+      "profilePath": "/rMLbpS7OgWcrDMKcJxrfk54Lm56.jpg",
+      "order": 4
+    },
+    {
+      "id": "54b81dd5-306d-4605-b5dc-8d6be74c6743",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbPersonId": 31649,
+      "name": "Brooke Smith",
+      "character": "Drew",
+      "profilePath": "/zD6SyVPGnrtnHvC0QtucEDxDTk5.jpg",
+      "order": 5
+    },
+    {
+      "id": "ae80ff81-0519-46e9-812b-df42b97d8779",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbPersonId": 1682679,
+      "name": "Rosalind Eleazar",
+      "character": "Dr. Vivienne McMann",
+      "profilePath": "/9Tb1rLSnyCfnZXYixfjWJuQJig9.jpg",
+      "order": 6
+    },
+    {
+      "id": "e2cdfe54-936f-4d20-a299-492e8d1bb28a",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbPersonId": 94791,
+      "name": "Jake McDorman",
+      "character": "Murphy",
+      "profilePath": "/zjAyeIH98VIO6udwdlzeGWtbTfv.jpg",
+      "order": 7
+    },
+    {
+      "id": "dcdf1ce1-903b-44bd-b930-2f46059a8f8f",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbPersonId": 1751166,
+      "name": "Isaiah Stratton",
+      "character": "Evans",
+      "profilePath": "/htzoTC2jDjY3oFOzI6jAk7lnstQ.jpg",
+      "order": 511
+    },
+    {
+      "id": "1c144dac-75db-4e29-a5ec-060c71cb6353",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbPersonId": 1757703,
+      "name": "Phil Armijo",
+      "character": "Riviera",
+      "profilePath": "/zjeNoTl56cFlUMoGjJDwMDAw71W.jpg",
+      "order": 522
+    }
+  ],
+  "seasons": [
+    {
+      "id": "f42b88ea-434e-4538-84d1-6d394b318f85",
+      "tvSeriesId": "5caebb34-3908-4afe-b132-d055b2b948e0",
+      "tmdbId": 199999,
+      "seasonNumber": 1,
+      "name": "Miniseries",
+      "overview": "",
+      "posterPath": "/k3k2BeKqAX5EuNol2ILoJjV38Tv.jpg",
+      "airDate": "2023-05-10",
+      "episodeCount": 8,
+      "isPublished": true,
+      "createdAt": "2026-08-17T04:15:02.381Z",
+      "updatedAt": "2026-08-17T04:18:17.347Z"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "slug": "merry-berry-love-2026",
+  "id": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+  "title": "Merry Berry Love",
+  "overview": "When star Korean spatial designer Lee Yubin loses everything, he heads off to a Japanese island. There, he meets Karin, a resilient strawberry farmer. Hailing from different worlds, their lives collide in a big misunderstanding. Buckle up for \"Merry Berry Love,\" a sweet and sour Korea-Japan rom-com.",
+  "tagline": "What grows when love is planted?",
+  "posterPath": "/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg",
+  "backdropPath": "/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+  "logoPath": "/3M9kWY5xcXED7kBKg3ucysbZvwp.png",
+  "firstAirDate": "2026-10-07",
+  "voteAverage": "0.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 5,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    },
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "f6a5108a-7cb2-45ec-b9bb-1c45b98bb331",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbPersonId": 1253391,
+      "name": "Ji Chang-wook",
+      "character": "Lee Yu-bin",
+      "profilePath": "/sBmHrO5Tn27Ot5hy0yAKniROmNb.jpg",
+      "order": 0
+    },
+    {
+      "id": "6e5873fa-af5c-4d7f-bc6c-38c376fd5170",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbPersonId": 1919754,
+      "name": "Mio Imada",
+      "character": "Shirahama Karin",
+      "profilePath": "/f7gPq6gv3LDrs3eN0FJY5hGpfyG.jpg",
+      "order": 1
+    },
+    {
+      "id": "a5071660-ebd0-41e2-91ab-e7f6034edfef",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbPersonId": 2176669,
+      "name": "Nam Yoon-su",
+      "character": "Park Ku-nam",
+      "profilePath": "/lPOTG0iwINk1N1w7N0Xv2ndKqm0.jpg",
+      "order": 2
+    },
+    {
+      "id": "06763abf-a4bf-4d0c-9a7b-3edb6f74d945",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbPersonId": 1875752,
+      "name": "Rinka Kumada",
+      "character": "Mizuno Mari",
+      "profilePath": "/1WkAsP86ZvE1QwS3sbUb7Rx84QF.jpg",
+      "order": 3
+    },
+    {
+      "id": "9f1c4515-f20c-4fe2-acc0-d6f345c9d623",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbPersonId": 2123796,
+      "name": "Jung Soon-won",
+      "character": "Kim Bong Su (Yu Bin’s friend)",
+      "profilePath": "/E80fMLgKBeOASTnHLEi4jSuCqo.jpg",
+      "order": 4
+    },
+    {
+      "id": "9817e19c-edbf-410f-ab2f-13be1ef8de01",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbPersonId": 1628180,
+      "name": "Kangnam",
+      "character": "Rage (Karin’s university classmate)",
+      "profilePath": "/shblOzUqimAh65WxzD8UKx7fMG5.jpg",
+      "order": 5
+    },
+    {
+      "id": "c18325c2-edc8-4116-97c6-622787164a39",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbPersonId": 552067,
+      "name": "Kim Tae-hun",
+      "character": "Lee Kyeong-soo",
+      "profilePath": "/8mTd6HpLDFK2cwiWhoyZO78A5n1.jpg",
+      "order": 6
+    },
+    {
+      "id": "23ed491d-b932-45e0-86ce-bda94fbdbd53",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbPersonId": 544090,
+      "name": "Kenta Satoi",
+      "character": "Kenichi Shirahama",
+      "profilePath": "/frDNCchC32sVbTqIa2pd7ica3UE.jpg",
+      "order": 7
+    },
+    {
+      "id": "79fcea53-bd20-4679-baf7-af4d4f335ef8",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbPersonId": 1390040,
+      "name": "Yasunori Danta",
+      "character": "Masaro Kurokawa",
+      "profilePath": "/ykRTDVb4i3buTJAZEE0Aac4RTTs.jpg",
+      "order": 8
+    },
+    {
+      "id": "80659fe2-3be4-4f3b-98d9-457bfcd04da2",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbPersonId": 6531547,
+      "name": "Gong Jae-kyung",
+      "character": "Hye-jin",
+      "profilePath": "/7A5f4ENCRjM7oZWQpRxKGiXs1XM.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "3d5d0ccd-e3c3-4fe9-9759-bf93f3b7b81d",
+      "tvSeriesId": "cc6accac-ae6d-49ce-9881-1931d5b4871c",
+      "tmdbId": 484669,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "After losing everything overnight, a once-successful Korean spatial designer Lee Yubin heads to a small, beautiful Japanese island. There, on Charo Island, he meets Shirahama Karin, a resilient farmer determined to grow strawberries despite battling her mysterious illness. Coming from two different worlds, the two find themselves tangled up in an unexpected misunderstanding. Meanwhile, another romance is brewing on the island between a pair of opposites. Park Kunam, a working holiday visitor, decides to stay after falling for Mizuno Mari, a tarot reader who ironically cannot predict her own love life. As they navigate their own romance, they become trusted helpers to Yubin and Karin.",
+      "posterPath": "/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+      "airDate": "2026-10-07",
+      "episodeCount": 10,
+      "isPublished": true,
+      "createdAt": "2026-10-07T19:08:28.469Z",
+      "updatedAt": "2026-11-11T17:38:17.799Z"
+    }
+  ]
+}

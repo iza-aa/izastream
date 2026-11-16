@@ -1,0 +1,136 @@
+{
+  "slug": "thunder-3-2026",
+  "id": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+  "title": "Thunder 3",
+  "overview": "Unremarkably ordinary middle schoolers, Pyontaro, Hiroshi and Tsubame, wander into an extraordinary adventure when Pyontaro's little sister goes missing.",
+  "tagline": null,
+  "posterPath": "/sAWjEgblLSXWHMKJCKC0UYjK5AN.jpg",
+  "backdropPath": "/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
+  "logoPath": "/hfzuwQDUaCOJGem0OBEPdvT8PcN.png",
+  "firstAirDate": "2026-07-09",
+  "voteAverage": "8.00",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 0,
+  "genres": [
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "e43c4dc1-b659-4c64-93f6-85cb02eb61f9",
+      "tmdbId": 14,
+      "name": "Fantasy",
+      "slug": "fantasy",
+      "createdAt": "2026-04-02T13:49:03.635Z"
+    },
+    {
+      "id": "ed7e3dfa-399d-47d1-9c6b-cea2d213a0cd",
+      "tmdbId": 878,
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "createdAt": "2026-04-02T13:49:02.560Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "a861d4f2-98ed-4a79-aa34-4a459eac35b8",
+      "tvSeriesId": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+      "tmdbPersonId": 2206133,
+      "name": "Sayumi Suzushiro",
+      "character": "Pyontaro (voice)",
+      "profilePath": "/7wEX0bXCs2djnp0dKsCqmMKZpZV.jpg",
+      "order": 0
+    },
+    {
+      "id": "6eb5be79-dd6b-434f-ac49-2fb62ab201d4",
+      "tvSeriesId": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+      "tmdbPersonId": 2492164,
+      "name": "Natsumi Kawaida",
+      "character": "Tsubame (voice)",
+      "profilePath": "/bdsKRWdB14DAAZzJnRjquWbqNYR.jpg",
+      "order": 1
+    },
+    {
+      "id": "f32b6d49-91bb-47d6-9251-1c15e41ff865",
+      "tvSeriesId": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+      "tmdbPersonId": 3518540,
+      "name": "Eri Akiyama",
+      "character": "Hiroshi (voice)",
+      "profilePath": "/tsHg9DFtmhBe5zQ96RzozXUPIDR.jpg",
+      "order": 2
+    },
+    {
+      "id": "c6379d41-cd2a-4864-8235-f4af2ba4f4c5",
+      "tvSeriesId": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+      "tmdbPersonId": 6361592,
+      "name": "Honoka Mitsubachi",
+      "character": "Futaba Tezuka (voice)",
+      "profilePath": null,
+      "order": 3
+    },
+    {
+      "id": "1e44e002-315f-4e78-9b49-3723ea55b1f1",
+      "tvSeriesId": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+      "tmdbPersonId": 2812912,
+      "name": "Shogo Sakata",
+      "character": "Doc (voice)",
+      "profilePath": "/fRRPNBz3OCNRdmLdUTdpq7dGqxM.jpg",
+      "order": 4
+    },
+    {
+      "id": "d2ff54cf-cfd2-4caf-a9c0-6e6f9aaa7375",
+      "tvSeriesId": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+      "tmdbPersonId": 2106489,
+      "name": "Taito Ban",
+      "character": "",
+      "profilePath": "/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg",
+      "order": 5
+    },
+    {
+      "id": "79ec6a2f-43ca-4378-9500-ab4cf259c9b3",
+      "tvSeriesId": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+      "tmdbPersonId": 1838364,
+      "name": "Yuuki Hirose",
+      "character": "",
+      "profilePath": "/nLkHDUioXgQtQ74thpY2PfzFx6V.jpg",
+      "order": 6
+    },
+    {
+      "id": "c0789da0-3470-45f2-ba3a-c6c735f3c7b3",
+      "tvSeriesId": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+      "tmdbPersonId": 1887410,
+      "name": "Ryoko Maekawa",
+      "character": "",
+      "profilePath": "/xhnUNtx8c8tBxJL3KknZEVElG7G.jpg",
+      "order": 7
+    },
+    {
+      "id": "424f6c42-9171-480c-acfb-39c0c851ca69",
+      "tvSeriesId": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+      "tmdbPersonId": 1966967,
+      "name": "Haruki Ishiya",
+      "character": "",
+      "profilePath": "/5bugNo9kjEpzotXLkvMZ2pJ212h.jpg",
+      "order": 8
+    }
+  ],
+  "seasons": [
+    {
+      "id": "52077c8d-1ff5-44f5-8fa7-309046fa2647",
+      "tvSeriesId": "a0d5e30f-e6bf-4b51-8320-d32486f6b3f8",
+      "tmdbId": 523745,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/8KMSzmV2A95FfLhTjlfSVwSg76n.jpg",
+      "airDate": "2026-07-09",
+      "episodeCount": 12,
+      "isPublished": true,
+      "createdAt": "2026-10-09T02:37:20.174Z",
+      "updatedAt": "2026-10-09T02:38:21.845Z"
+    }
+  ]
+}

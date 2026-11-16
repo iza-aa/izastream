@@ -1,0 +1,364 @@
+{
+  "slug": "barbie-the-pearl-princess-2014",
+  "id": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+  "tmdbId": 255718,
+  "imdbId": "tt3504064",
+  "title": "Barbie: The Pearl Princess",
+  "originalTitle": "Barbie: The Pearl Princess",
+  "overview": "Barbie plays Lumina, a mermaid girl with the power to change the color of pearls. Cheerful and creative, Lumina finds herself working in a mermaid salon customizing fabulous hairstyles. And when Lumina has the chance to attend the royal ball, her friends adorn her with a gown fit for a princess. At the ball, villains try to seize power over the kingdom, and Lumina finds within herself an unexpected power that proves she is much more than a hair stylist.",
+  "tagline": "A Glowing Undersea Adventure!",
+  "posterPath": "/zA4csIbIKzPOd6DwN5rKxHkVCu6.jpg",
+  "backdropPath": "/nNVoQqLRgbjUNXGSsToql7hRfQI.jpg",
+  "logoPath": "/QXXsSeMNloHprB5TV4AZqhpv9p.png",
+  "backdrops": [
+    "/nNVoQqLRgbjUNXGSsToql7hRfQI.jpg",
+    "/rzvXiTKiocxFRmjAEsqUlzpRPhB.jpg",
+    "/u6KYYlzghALQ6Wm0T5k8Xn6jOQf.jpg",
+    "/lXROQvao0xvO4Vvpr5c8egI38Fg.jpg",
+    "/uv1bdzsq8rKRMzBi42FrDt65k27.jpg"
+  ],
+  "releaseDate": "2014-02-15",
+  "runtime": 73,
+  "voteAverage": "7.00",
+  "popularity": null,
+  "popularityScore": 728,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=jv8FtZLDKuY",
+  "quality": "WEB-DL",
+  "director": "Ezekiel Norton",
+  "directorTmdbId": 176153,
+  "directorProfilePath": null,
+  "productionCompanies": [
+    {
+      "id": 6220,
+      "name": "Mattel",
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png"
+    },
+    {
+      "id": 102897,
+      "name": "Rainmaker Entertainment",
+      "logo_path": "/ackYRJXIse2uoLDawNVs1HzEJgm.png"
+    },
+    {
+      "id": 313652,
+      "name": "Barbie Entertainment",
+      "logo_path": null
+    },
+    {
+      "id": 33365,
+      "name": "Mattel Playground Productions",
+      "logo_path": "/c4W0J7BpMvWHGwuDnHz16KRGuuZ.png"
+    },
+    {
+      "id": 299272,
+      "name": "Universal Studios Home Entertainment",
+      "logo_path": null
+    }
+  ],
+  "keywords": [
+    {
+      "id": 7376,
+      "name": "princess"
+    },
+    {
+      "id": 2343,
+      "name": "magic"
+    },
+    {
+      "id": 5938,
+      "name": "mermaid"
+    },
+    {
+      "id": 10542,
+      "name": "based on toy"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 197430,
+      "name": "missing daughter"
+    },
+    {
+      "id": 278823,
+      "name": "3d animation"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 11501,
+  "watchlistCount": 65,
+  "favouriteCount": 45,
+  "shareCount": 7,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-10-11T17:08:17.049Z",
+  "updatedAt": "2026-10-11T17:08:27.050Z",
+  "genres": [
+    {
+      "id": "500601f2-01a2-44af-8d0a-7a524bbe18a4",
+      "tmdbId": 10751,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    },
+    {
+      "id": "6c74ae41-babb-4bb9-8d9a-3a8423d56ccf",
+      "tmdbId": 16,
+      "name": "Animation",
+      "slug": "animation",
+      "createdAt": "2026-04-02T13:49:02.920Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "98820d4c-a883-47db-9c2b-a57f5ed85334",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 74358,
+      "name": "Kelly Sheridan",
+      "character": "Lumina (voice)",
+      "profilePath": "/sxg2oRxwAEWd2Y8baJarjwC1XPA.jpg",
+      "order": 0
+    },
+    {
+      "id": "a157e6a6-bc96-47d1-a11c-5381e002e7ba",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 972599,
+      "name": "Katie Crown",
+      "character": "Kuda (voice)",
+      "profilePath": "/mpkqHBsRDs4EAbmWCD0xswicruI.jpg",
+      "order": 1
+    },
+    {
+      "id": "b53765e9-a5c0-4917-917c-be65befa9639",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 52284,
+      "name": "Mark Oliver",
+      "character": "King Nereus (voice)",
+      "profilePath": "/1JsuYa1mJARLdpQ9NEzT1ZNPmXI.jpg",
+      "order": 2
+    },
+    {
+      "id": "394cc11b-722b-4986-a90e-9d715c64eda0",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 1240646,
+      "name": "Rebecca Shoichet",
+      "character": "Queen Lorelei (voice)",
+      "profilePath": "/2VTrlND9ycbtTWGZsTnQg692sJI.jpg",
+      "order": 3
+    },
+    {
+      "id": "dd15cc40-b642-4d23-afb7-190ae6d4cb70",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 1606431,
+      "name": "Trish Pattendon",
+      "character": "Scylla (voice)",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "b6cdd43e-add4-438a-8e5b-c4a09b39c672",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 37431,
+      "name": "John Novak",
+      "character": "Caligo (voice)",
+      "profilePath": "/xh8EyWCDggvZkyAlNGsTvH6KarE.jpg",
+      "order": 5
+    },
+    {
+      "id": "fcceb3ea-b2dc-4675-95b1-221bee173357",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 1279941,
+      "name": "Simon Hill",
+      "character": "Fergis (voice)",
+      "profilePath": "/uCXgyNeYj3kG8dfTfZ7hdI6FZD1.jpg",
+      "order": 6
+    },
+    {
+      "id": "64c69e81-c1e8-490a-b101-84d8608cc37b",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 83424,
+      "name": "Peter New",
+      "character": "Murray (voice)",
+      "profilePath": "/bT71ieZH2qhgxLNTPyorMlVp3PN.jpg",
+      "order": 7
+    },
+    {
+      "id": "d5a43a49-309a-4274-8c5f-c633b3dba853",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 45923,
+      "name": "Kathleen Barr",
+      "character": "Madame Ruckus (voice)",
+      "profilePath": "/l7dk7Lki6dLfKVcPGrTq9aYWZj.jpg",
+      "order": 8
+    },
+    {
+      "id": "6a59f441-1dfa-4c49-8678-b9a39874e5a1",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 76828,
+      "name": "Patrick Gilmore",
+      "character": "Garth (voice)",
+      "profilePath": "/9jcnrVixk0KCIL4NB66ayMdGEfv.jpg",
+      "order": 9
+    },
+    {
+      "id": "05435024-b23f-497f-a1ba-278b8088873e",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 89548,
+      "name": "Louis Chirillo",
+      "character": "Wormwood (voice)",
+      "profilePath": "/baww87hN2rWzQLbRu9uM6aXlfbD.jpg",
+      "order": 10
+    },
+    {
+      "id": "36c84a1e-f5a4-4bb5-bc62-ea8423d9086a",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 1427574,
+      "name": "James Higuchi",
+      "character": "Spike (voice)",
+      "profilePath": "/9aeduCdGLX70QB7ralHk2YZdeRn.jpg",
+      "order": 11
+    },
+    {
+      "id": "d585b3ea-abb2-407e-bab2-fa69ca4a21e0",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 1018864,
+      "name": "MacKenzie Porter",
+      "character": "Cora (voice)",
+      "profilePath": "/20lWyzg86kWwetMLh0Nq9eTcvSz.jpg",
+      "order": 12
+    },
+    {
+      "id": "008d4ad6-4288-4530-97dc-27a557683caf",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 1427578,
+      "name": "Nicki Burke",
+      "character": "Sandrine (voice)",
+      "profilePath": "/rlxOW0taNi7Sv9dWfDcvCxPcO9U.jpg",
+      "order": 13
+    },
+    {
+      "id": "8ec55e53-bc7b-4ffb-95ab-db57f38d08d1",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 74360,
+      "name": "Tabitha St. Germain",
+      "character": "Purple Mer-Teen (voice)",
+      "profilePath": "/bscsV3Gg7bmaZvvcbyS1265QaVT.jpg",
+      "order": 14
+    },
+    {
+      "id": "4bd0e7dc-a167-4b45-bbe4-b842845f84de",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 1304599,
+      "name": "Brian Doe",
+      "character": "Delphin (voice)",
+      "profilePath": "/fvHUUrejySoFX43VPexhBXP4oRa.jpg",
+      "order": 15
+    },
+    {
+      "id": "17a415ef-a34c-4a83-a6f9-da3d599cd1db",
+      "movieId": "1ad3fc0b-4331-4759-b385-2fda7fe9ce03",
+      "tmdbPersonId": 1368270,
+      "name": "Jeff Evans-Todd",
+      "character": "Dolphin (voice)",
+      "profilePath": "/s6lfXnoUkqv6kwdiAmzOYXpJI0p.jpg",
+      "order": 16
+    }
+  ],
+  "requestedBy": {
+    "username": "hannsurbae",
+    "displayName": "Rays"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

@@ -1,0 +1,521 @@
+{
+  "slug": "the-piano-teacher-2001",
+  "id": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+  "tmdbId": 1791,
+  "imdbId": "tt0254686",
+  "title": "The Piano Teacher",
+  "originalTitle": "La Pianiste",
+  "overview": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+  "tagline": null,
+  "posterPath": "/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+  "backdropPath": "/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+  "logoPath": "/cAGtcRN0VNCdP6ygbM5QMWVcJnd.png",
+  "backdrops": [
+    "/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+    "/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
+    "/wmlle0ywlLjxhpW5TmnsLrjoI3X.jpg",
+    "/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg",
+    "/607iR8Cl1JPVPCZ8e0swZMZmm2g.jpg",
+    "/uoW2gaHL28IyCny0U4Kqh8vxV3M.jpg",
+    "/A9zrukef0Ey2sO1oms7fdpYyEuU.jpg",
+    "/rDzYWLTN9o1TvwOioL9j9seYEX0.jpg",
+    "/9GMmFfgfdcneHlORp0aNeYeA73a.jpg",
+    "/fbZbPb2GhKJQSTTt3QGoD36QiNo.jpg"
+  ],
+  "releaseDate": "2001-09-05",
+  "runtime": 131,
+  "voteAverage": "7.26",
+  "popularity": null,
+  "popularityScore": 1585,
+  "originalLanguage": "fr",
+  "country": "FR",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=Z-frdy3mYHo",
+  "quality": "BLU-RAY",
+  "director": "Michael Haneke",
+  "directorTmdbId": 6011,
+  "directorProfilePath": "/9wDbsPQ5lu9A04FJ1pVi9y1dRjn.jpg",
+  "productionCompanies": [
+    {
+      "id": 224,
+      "name": "Wega Film",
+      "logo_path": "/fCv129CE3olInpdEiOWcC5s2YbQ.png"
+    },
+    {
+      "id": 6274,
+      "name": "mk2 Films",
+      "logo_path": "/y9XuW4BcG1r7TK6ukFD2Y6oh8iX.png"
+    },
+    {
+      "id": 635,
+      "name": "Les Films Alain Sarde",
+      "logo_path": "/ikp5Hokscs88jMWSkM9dB98U3Ak.png"
+    },
+    {
+      "id": 94,
+      "name": "ARTE France Cinéma",
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png"
+    },
+    {
+      "id": 11731,
+      "name": "Bavaria Film International",
+      "logo_path": null
+    },
+    {
+      "id": 11389,
+      "name": "OFI",
+      "logo_path": "/eKVLElq1XAbcCcwnVj89G9EXRGB.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 6029,
+      "name": "concert"
+    },
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 2176,
+      "name": "music teacher"
+    },
+    {
+      "id": 2699,
+      "name": "fetish"
+    },
+    {
+      "id": 1640,
+      "name": "conservatory"
+    },
+    {
+      "id": 3260,
+      "name": "masochism"
+    },
+    {
+      "id": 4399,
+      "name": "victim"
+    },
+    {
+      "id": 3590,
+      "name": "piano lessons"
+    },
+    {
+      "id": 10508,
+      "name": "teacher"
+    },
+    {
+      "id": 9785,
+      "name": "perversion"
+    },
+    {
+      "id": 9957,
+      "name": "loneliness"
+    },
+    {
+      "id": 11322,
+      "name": "female protagonist"
+    },
+    {
+      "id": 14743,
+      "name": "pianist"
+    },
+    {
+      "id": 15319,
+      "name": "attraction"
+    },
+    {
+      "id": 18267,
+      "name": "vienna, austria"
+    },
+    {
+      "id": 18732,
+      "name": "sexual repression"
+    },
+    {
+      "id": 33513,
+      "name": "desire"
+    },
+    {
+      "id": 156771,
+      "name": "cutter"
+    },
+    {
+      "id": 157722,
+      "name": "domineering mother"
+    },
+    {
+      "id": 157791,
+      "name": "self mutilation"
+    },
+    {
+      "id": 157799,
+      "name": "older woman younger man relationship"
+    },
+    {
+      "id": 157800,
+      "name": "cutting"
+    },
+    {
+      "id": 158713,
+      "name": "bdsm"
+    },
+    {
+      "id": 164186,
+      "name": "character study"
+    },
+    {
+      "id": 178649,
+      "name": "voyeurism"
+    },
+    {
+      "id": 207691,
+      "name": "abuse"
+    },
+    {
+      "id": 210589,
+      "name": "searching for love"
+    },
+    {
+      "id": 222797,
+      "name": "repression"
+    },
+    {
+      "id": 233130,
+      "name": "self-harm"
+    },
+    {
+      "id": 240315,
+      "name": "mother daughter relationship"
+    },
+    {
+      "id": 266962,
+      "name": "disturbed individual"
+    },
+    {
+      "id": 272673,
+      "name": "sexual fetish"
+    },
+    {
+      "id": 273738,
+      "name": "piano recital"
+    },
+    {
+      "id": 282667,
+      "name": "age-gap relationship"
+    },
+    {
+      "id": 301117,
+      "name": "kink"
+    },
+    {
+      "id": 307949,
+      "name": "power dynamics"
+    },
+    {
+      "id": 325846,
+      "name": "sardonic"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 39606,
+  "watchlistCount": 104,
+  "favouriteCount": 19,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-09T05:59:31.614Z",
+  "updatedAt": "2026-09-09T05:59:40.149Z",
+  "genres": [
+    {
+      "id": "04cfaa3f-f98d-4cc1-9523-0f5612c24dd8",
+      "tmdbId": 10749,
+      "name": "Romance",
+      "slug": "romance",
+      "createdAt": "2026-04-02T13:49:05.132Z"
+    },
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "9453e408-5f11-4051-9468-ed4844c407e1",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 17882,
+      "name": "Isabelle Huppert",
+      "character": "Erika Kohut",
+      "profilePath": "/wGG9v1Uci3sfrbjt0bRXkLrTqjY.jpg",
+      "order": 0
+    },
+    {
+      "id": "e59bd9ad-53c9-45ca-a0b4-6ed027d08aaa",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 6014,
+      "name": "Annie Girardot",
+      "character": "Erika's Mother",
+      "profilePath": "/e9OM5HIjcpojNCMlQe1AWog50T6.jpg",
+      "order": 1
+    },
+    {
+      "id": "d0acbe98-9fda-4b70-9c33-8095424f84a0",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 5442,
+      "name": "Benoît Magimel",
+      "character": "Walter Klemmer",
+      "profilePath": "/pdXiN4doHkWmIF18mDg6pe0RtAv.jpg",
+      "order": 2
+    },
+    {
+      "id": "712157cb-584f-473d-a69b-bcc1b288c9a4",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 19123,
+      "name": "Susanne Lothar",
+      "character": "Mme Schober",
+      "profilePath": "/upmaxjzbYaFBJPnlKmlnXxK7Kia.jpg",
+      "order": 3
+    },
+    {
+      "id": "3efd4596-b908-4011-9fe4-3235cdff086d",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 6264,
+      "name": "Udo Samel",
+      "character": "Dr. George Blonskij",
+      "profilePath": "/9l15dhFSnE6i9hqplfECsJiomUl.jpg",
+      "order": 4
+    },
+    {
+      "id": "900ea29a-0218-4805-9c46-d930b8de9029",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 19122,
+      "name": "Anna Sigalevitch",
+      "character": "Anna Schober",
+      "profilePath": "/d3UmGfh5xW8DINohQDnCuNcmZjZ.jpg",
+      "order": 5
+    },
+    {
+      "id": "e0a43eaf-31b5-4470-9b0b-106099a16178",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 19124,
+      "name": "Cornelia Köndgen",
+      "character": "Mme Gerda Blonskij",
+      "profilePath": "/gqustNjwPUJTZdUwPrPh5TQKnMU.jpg",
+      "order": 6
+    },
+    {
+      "id": "fdbabc76-ab64-4db2-9178-8e52a094b0cf",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 1324138,
+      "name": "Thomas Weinhappel",
+      "character": "Baritone",
+      "profilePath": "/7QTlWVKbiNMGErmmfOoAqkXlkG5.jpg",
+      "order": 7
+    },
+    {
+      "id": "d386439d-e218-4013-b7d2-2bec599702e2",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 40526,
+      "name": "Georg Friedrich",
+      "character": "L'homme en voiture",
+      "profilePath": "/fAlqZkiBB50B6xL5UK3b65f9Ddh.jpg",
+      "order": 8
+    },
+    {
+      "id": "7934c83f-fc98-4995-9099-89e7e40ad85f",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 1324139,
+      "name": "Philipp Heiss",
+      "character": "Naprawnik",
+      "profilePath": "/wN2clVbDsg8U1xWIXn5tXYrAMVB.jpg",
+      "order": 9
+    },
+    {
+      "id": "b1c3ee31-6cbc-4f2d-a91f-1330921f7d30",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 1103919,
+      "name": "William Mang",
+      "character": "Un professeur",
+      "profilePath": "/bTbv8gEG1OqsXyuYzqt44rivHND.jpg",
+      "order": 10
+    },
+    {
+      "id": "b30a2fbe-f49a-48e4-b0b5-cc340b6bb5eb",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 1324140,
+      "name": "Rudolf Melichar",
+      "character": "Le directeur",
+      "profilePath": "/1RVLpEsELj7Do6CDAHUXT76V79N.jpg",
+      "order": 11
+    },
+    {
+      "id": "19720dd6-373d-4b23-8e5b-ab21f9ea41d8",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 48103,
+      "name": "Michael Schottenberg",
+      "character": "Un professeur",
+      "profilePath": "/rhigMoVMTGg6ovEpSEEBSRZvPfN.jpg",
+      "order": 12
+    },
+    {
+      "id": "0316aa32-2af4-4eed-8c5e-52a608929172",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 1324141,
+      "name": "Gabriele Schuchter",
+      "character": "Margot",
+      "profilePath": "/7k7hPYBSwebgVrC2nggQEnnoQ9N.jpg",
+      "order": 13
+    },
+    {
+      "id": "2fd0d43b-1b09-41ee-8f69-c9d52c066d48",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 141388,
+      "name": "Dieter Berner",
+      "character": "Le professeur qui chante",
+      "profilePath": "/6ILfskQ6R7SH6FEo7806FnoHPWy.jpg",
+      "order": 14
+    },
+    {
+      "id": "fd67c074-69a2-4ac4-a1b9-3deb0accf72a",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 1972852,
+      "name": "Volker Waldegg",
+      "character": "Teacher",
+      "profilePath": null,
+      "order": 15
+    },
+    {
+      "id": "8a505564-b20f-4abd-9dd4-c65ebab9dcf0",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 1972853,
+      "name": "Martina Resetarits",
+      "character": "Teacher",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "c258c560-c2a2-4ee3-a11b-347757b25b2f",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 1972854,
+      "name": "Annemarie Schleinzer",
+      "character": "Teacher",
+      "profilePath": null,
+      "order": 17
+    },
+    {
+      "id": "41c35c97-0b02-4749-b195-6639c109838d",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 1434515,
+      "name": "Karoline Zeisler",
+      "character": "Teacher",
+      "profilePath": "/kJkAqv5aQVdNj18nsJ07WqYkybp.jpg",
+      "order": 18
+    },
+    {
+      "id": "0804ab02-3049-4b0f-861d-7cd4f2dc5500",
+      "movieId": "2e22cf1b-c228-44ce-b993-71851d60ba16",
+      "tmdbPersonId": 146810,
+      "name": "Liliana Nelska",
+      "character": "Secretary",
+      "profilePath": "/yFn0iFLFURJN5NtxnVwVvdrvavM.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": {
+    "username": "cinemails",
+    "displayName": "ishq"
+  },
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

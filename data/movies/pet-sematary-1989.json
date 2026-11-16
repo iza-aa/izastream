@@ -1,0 +1,454 @@
+{
+  "slug": "pet-sematary-1989",
+  "id": "09c2d573-5120-4a69-9b31-490534196f92",
+  "tmdbId": 8913,
+  "imdbId": "tt0098084",
+  "title": "Pet Sematary",
+  "originalTitle": "Pet Sematary",
+  "overview": "After the Creed family's cat is accidentally killed, a friendly neighbor advises its burial in a mysterious nearby cemetery.",
+  "tagline": "Sometimes dead is better.",
+  "posterPath": "/8ZtH1V4rhrtP53ezlEWrCaMALXF.jpg",
+  "backdropPath": "/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg",
+  "logoPath": "/vsYxIcDgdrmg98FBQuFcK1F3oMq.png",
+  "backdrops": [
+    "/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg",
+    "/6G5C9XG7ceNGVNpAGWWaTioHpu5.jpg",
+    "/4VbxnYgzOTUJ6TXF6s6sF8JhUzM.jpg",
+    "/nddpCar1VUsaUKaoEtodsNBwtAr.jpg",
+    "/opC0gnJ8bvohMjNJeGHzNdIMttX.jpg",
+    "/3yoFETmp7bjGUjXBRcqv2E4otsm.jpg",
+    "/a70Px1ySIr8LHUJqhovj8Neap14.jpg",
+    "/uBw57joy8G6YbzosRZGswGt2TVc.jpg",
+    "/j7w22DsBz7QE15smG22qir60Hgo.jpg",
+    "/qPFrs31zgK3ywTgKUL2B4tMuCvm.jpg"
+  ],
+  "releaseDate": "1989-04-21",
+  "runtime": 103,
+  "voteAverage": "6.65",
+  "popularity": null,
+  "popularityScore": 38,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=JMao8sg4DPA",
+  "quality": "WEB-DL",
+  "director": "Mary Lambert",
+  "directorTmdbId": 56263,
+  "directorProfilePath": "/q8Fir0mq5t0iBbwjaERCvYPofzI.jpg",
+  "productionCompanies": [
+    {
+      "id": 4,
+      "name": "Paramount Pictures",
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 818,
+      "name": "based on novel or book"
+    },
+    {
+      "id": 3739,
+      "name": "funeral"
+    },
+    {
+      "id": 970,
+      "name": "parent child relationship"
+    },
+    {
+      "id": 1909,
+      "name": "coffin"
+    },
+    {
+      "id": 2551,
+      "name": "pet"
+    },
+    {
+      "id": 3335,
+      "name": "halloween"
+    },
+    {
+      "id": 3289,
+      "name": "villain"
+    },
+    {
+      "id": 6350,
+      "name": "head injury"
+    },
+    {
+      "id": 6506,
+      "name": "resurrection"
+    },
+    {
+      "id": 9720,
+      "name": "woods"
+    },
+    {
+      "id": 9872,
+      "name": "grief"
+    },
+    {
+      "id": 12377,
+      "name": "zombie"
+    },
+    {
+      "id": 18127,
+      "name": "new neighbor"
+    },
+    {
+      "id": 157488,
+      "name": "pet cemetery"
+    },
+    {
+      "id": 157490,
+      "name": "dead cat"
+    },
+    {
+      "id": 157492,
+      "name": "death of patient"
+    },
+    {
+      "id": 157495,
+      "name": "loss of pet"
+    },
+    {
+      "id": 157496,
+      "name": "dead lover"
+    },
+    {
+      "id": 162846,
+      "name": "ghost"
+    },
+    {
+      "id": 171247,
+      "name": "grave robbing"
+    },
+    {
+      "id": 173099,
+      "name": "indian burial ground"
+    },
+    {
+      "id": 187056,
+      "name": "woman director"
+    },
+    {
+      "id": 197582,
+      "name": "mysterious"
+    },
+    {
+      "id": 208152,
+      "name": "pets"
+    },
+    {
+      "id": 211659,
+      "name": "somber"
+    },
+    {
+      "id": 251667,
+      "name": "anxious"
+    },
+    {
+      "id": 256183,
+      "name": "supernatural horror"
+    },
+    {
+      "id": 325825,
+      "name": "horrified"
+    },
+    {
+      "id": 325839,
+      "name": "ominous"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 1564,
+  "watchlistCount": 13,
+  "favouriteCount": 3,
+  "shareCount": 0,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-10T05:14:20.371Z",
+  "updatedAt": "2026-09-10T05:14:47.579Z",
+  "genres": [
+    {
+      "id": "e8458e2a-894b-493e-90cb-0809cadace36",
+      "tmdbId": 27,
+      "name": "Horror",
+      "slug": "horror",
+      "createdAt": "2026-04-02T13:49:16.217Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "90cd8e77-8b90-4dd5-b77d-4da986de6851",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 56265,
+      "name": "Dale Midkiff",
+      "character": "Louis Creed",
+      "profilePath": "/5intcDI6ntzDD6VyRA3FSqXrBdK.jpg",
+      "order": 0
+    },
+    {
+      "id": "02c05ecb-0e67-46e2-bbcc-09255630c841",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 56266,
+      "name": "Fred Gwynne",
+      "character": "Jud Crandall",
+      "profilePath": "/nO5ufGwURxJ20zYnSgb6l4nYDQO.jpg",
+      "order": 1
+    },
+    {
+      "id": "cced7e2b-94d5-41a7-9e6f-112975972d8d",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 1743,
+      "name": "Denise Crosby",
+      "character": "Rachel Creed",
+      "profilePath": "/1Eoo8o3xRGflJ9kHxg1eFVwAwQa.jpg",
+      "order": 2
+    },
+    {
+      "id": "a5e6196c-bdb8-4fd7-a58a-1563a88cebae",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 56267,
+      "name": "Brad Greenquist",
+      "character": "Victor Pascow",
+      "profilePath": "/kbucYMeLCNUk03HuP9SxQajEBnI.jpg",
+      "order": 3
+    },
+    {
+      "id": "2732a369-3db9-438d-8057-3423f08ef8c7",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 13938,
+      "name": "Michael Lombard",
+      "character": "Irwin Goldman",
+      "profilePath": "/fgbBqKtLpw7PokhhTi24wOtrNGW.jpg",
+      "order": 4
+    },
+    {
+      "id": "476f38b8-5349-41a4-87c8-1bb05c038e24",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 8186,
+      "name": "Miko Hughes",
+      "character": "Gage Creed",
+      "profilePath": "/6oBM2RVDryymOi966ZkCNEDEsws.jpg",
+      "order": 5
+    },
+    {
+      "id": "526ca9d0-a5ed-4714-b056-898ec503a68c",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 175553,
+      "name": "Blaze Berdahl",
+      "character": "Ellie Creed",
+      "profilePath": "/lb8zPVqanj6XPmkZFYvBPI43pyW.jpg",
+      "order": 6
+    },
+    {
+      "id": "4d5075af-59b9-4ac4-abfe-babfdb8f9610",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 1913,
+      "name": "Susan Blommaert",
+      "character": "Missy Dandridge",
+      "profilePath": "/pAzu79y0zHGaPfZNsT6t2ywTfzs.jpg",
+      "order": 7
+    },
+    {
+      "id": "b14f1eef-ae55-4949-b6f8-5da47bab6bbf",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 1117928,
+      "name": "Mara Clark",
+      "character": "Marcy Charlton",
+      "profilePath": "/lo4k1PU5WdRF2zSiT0TKYNgrGyo.jpg",
+      "order": 8
+    },
+    {
+      "id": "5a2b4c39-95cf-44cd-bcc5-777ed9dc0e56",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 111710,
+      "name": "Kavi Raz",
+      "character": "Steve Masterton",
+      "profilePath": "/flAfF14URpJDi8r3luzKFRdGb42.jpg",
+      "order": 9
+    },
+    {
+      "id": "147038c3-5e43-42fa-a632-016b87e6dac1",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 115767,
+      "name": "Mary Louise Wilson",
+      "character": "Dory Goldman",
+      "profilePath": "/sCWT5ygDqoegJzcZTwt063Dyrsk.jpg",
+      "order": 10
+    },
+    {
+      "id": "9158e3b5-ceee-42f5-8eb7-6032ec42abb6",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 1117929,
+      "name": "Andrew Hubatsek",
+      "character": "Zelda",
+      "profilePath": "/6zJncoOCBo0xH8M2FOPDr6WPASB.jpg",
+      "order": 11
+    },
+    {
+      "id": "0fe05628-c5f7-4bbc-85d3-32d60c09610e",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 1117930,
+      "name": "Liz Davies",
+      "character": "Girl at Infirmary",
+      "profilePath": "/yHJA9EK1XTdsxaLSu4qE7dp2jEL.jpg",
+      "order": 12
+    },
+    {
+      "id": "469483f1-1773-462f-b7b7-d134f0bf29b5",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 1117931,
+      "name": "Kara Dalke",
+      "character": "Candystriper",
+      "profilePath": null,
+      "order": 13
+    },
+    {
+      "id": "31c1946e-611d-43ab-90ca-f8260fce1ea0",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 2939844,
+      "name": "Lisa Stathoplos",
+      "character": "Jud's Mother",
+      "profilePath": null,
+      "order": 14
+    },
+    {
+      "id": "9cf72a36-a0c6-4353-92f6-170f975bba72",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 3027,
+      "name": "Stephen King",
+      "character": "Minister",
+      "profilePath": "/7r5nEzNanuEhmxtpsKE1uCBU5Jd.jpg",
+      "order": 15
+    },
+    {
+      "id": "9d95f503-4d62-4cde-94af-f15cef23dd6a",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 2574549,
+      "name": "Elizabeth Ureneck",
+      "character": "Rachel as a Child",
+      "profilePath": null,
+      "order": 16
+    },
+    {
+      "id": "b6768221-e7e4-403f-aeb5-627f2421a607",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 95742,
+      "name": "Chuck Courtney",
+      "character": "Bill Baterman",
+      "profilePath": "/4mmxmvYqke9EXxiRuV2TJn2QJGd.jpg",
+      "order": 17
+    },
+    {
+      "id": "812747f0-706c-40bd-91a7-0138266ef6d2",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 91899,
+      "name": "Peter Stader",
+      "character": "Timmy Baterman",
+      "profilePath": null,
+      "order": 18
+    },
+    {
+      "id": "bdb1c27a-c0d4-448e-aff6-5dc6543f090b",
+      "movieId": "09c2d573-5120-4a69-9b31-490534196f92",
+      "tmdbPersonId": 27773,
+      "name": "Jonathan Brandis",
+      "character": "adr loop group (voice)",
+      "profilePath": "/fjUTC2SoSImb7qkJ5JUl0aQZDiK.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}

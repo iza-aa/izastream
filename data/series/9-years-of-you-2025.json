@@ -1,0 +1,131 @@
+{
+  "slug": "9-years-of-you-2025",
+  "id": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+  "title": "9 Years of You",
+  "overview": "Two longtime friends navigate their relationship to each other over the course of nine years as their feelings change and grow.",
+  "tagline": null,
+  "posterPath": "/7M6r2a4Y8pMXJGDdEGgXxLFgIEO.jpg",
+  "backdropPath": "/7us26Af97GxqPrAOkfGQIm6rjp2.jpg",
+  "logoPath": "/4KZ8gOfizsOhLQOSU1FDQnEEiNS.png",
+  "firstAirDate": "2025-06-09",
+  "voteAverage": "4.50",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 9,
+  "genres": [
+    {
+      "id": "53d79e6f-3df2-46cb-8a1b-5900e828b1d3",
+      "tmdbId": 18,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2026-04-02T13:49:03.324Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "c5b73a1f-f4c2-4a0f-acd8-8b476137128e",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbPersonId": 5466359,
+      "name": "Sanpetch Kunakorn",
+      "character": "'Ran' Pharan",
+      "profilePath": "/lniUbrtenY3Sv0NCh7EoENmQwbN.jpg",
+      "order": 0
+    },
+    {
+      "id": "e1836c23-e1bd-4b34-9412-31885cfdfad7",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbPersonId": 2131509,
+      "name": "Cherprang Areekul",
+      "character": "'Dao' Napdao",
+      "profilePath": "/8APcsSrzCYNE3cmn9xkHgfm7DRR.jpg",
+      "order": 1
+    },
+    {
+      "id": "ab6bbfce-3b00-4a98-b125-60503d1afe8b",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbPersonId": 4263599,
+      "name": "Jinnaphop Prattranasanti",
+      "character": "Zen",
+      "profilePath": "/9HiW2AGL43NX3tOvYKtI92F4PFn.jpg",
+      "order": 2
+    },
+    {
+      "id": "a0ddad2a-3c9b-4cac-8a52-e63ba079e42e",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbPersonId": 2602114,
+      "name": "Sawanya Paisarnpayak",
+      "character": "Ning",
+      "profilePath": "/f4VsAjndbkTWU1M55tWK8eqIMH0.jpg",
+      "order": 3
+    },
+    {
+      "id": "6097c56c-5428-41c1-aa98-6ba018941459",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbPersonId": 5499906,
+      "name": "Naphatphon Jansayasirikul",
+      "character": "Kae",
+      "profilePath": null,
+      "order": 4
+    },
+    {
+      "id": "45632245-3e30-453f-be0e-f1414fdde357",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbPersonId": 1013159,
+      "name": "Sopitnapa Chumpanee",
+      "character": "Mol",
+      "profilePath": "/5Umi9l5VfP0kJQCS8rrspOX8Lr4.jpg",
+      "order": 5
+    },
+    {
+      "id": "2bc02070-121d-4407-88bf-40798aff1128",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbPersonId": 1647824,
+      "name": "Sujira Arunpipat",
+      "character": "Samorn",
+      "profilePath": "/kWgTJc0IqYPd5EhKNXric3jnvkf.jpg",
+      "order": 6
+    },
+    {
+      "id": "aba39dae-3d25-46cd-b1b5-34761dd4fcab",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbPersonId": 1339307,
+      "name": "Vorarit Fuangarome",
+      "character": "Sak",
+      "profilePath": "/e50WvY6zGqSpvIpUPNdUkZIaOWO.jpg",
+      "order": 7
+    },
+    {
+      "id": "b780b922-380e-4a3f-8443-432438dc317f",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbPersonId": 1340823,
+      "name": "Duangdao Jarujinda",
+      "character": "Samai",
+      "profilePath": "/ZjoEby9ezDvnxcwHl1QyGA7nyX.jpg",
+      "order": 8
+    },
+    {
+      "id": "0ed557af-465a-4b9f-b3bf-bc52a1a275f2",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbPersonId": 2302264,
+      "name": "Lapassalan Jiravechsoontornkul",
+      "character": "Mira",
+      "profilePath": "/eCl3ThDiV94NWhuEGQxitqTqRzP.jpg",
+      "order": 9
+    }
+  ],
+  "seasons": [
+    {
+      "id": "3d97713e-e713-494b-b1dd-a461bf21df01",
+      "tvSeriesId": "414c1d3a-f94c-426c-af18-0f11fae4a7b8",
+      "tmdbId": 458370,
+      "seasonNumber": 1,
+      "name": "Season 1",
+      "overview": "",
+      "posterPath": "/xm1zfHJppmUHK1Liuz2XHVhCM6O.jpg",
+      "airDate": "2025-06-09",
+      "episodeCount": 9,
+      "isPublished": true,
+      "createdAt": "2026-08-20T18:03:56.402Z",
+      "updatedAt": "2026-08-20T18:07:33.070Z"
+    }
+  ]
+}

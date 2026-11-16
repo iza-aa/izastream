@@ -1,0 +1,347 @@
+{
+  "slug": "spa-weekend-2026",
+  "id": "ff246044-88ee-4149-9334-169cd0ecc396",
+  "tmdbId": 1341138,
+  "imdbId": "tt33305867",
+  "title": "Spa Weekend",
+  "originalTitle": "Spa Weekend",
+  "overview": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
+  "tagline": "Friendship is a real trip.",
+  "posterPath": "/i3I19SbOyz6AIl0cSYdyVJRucMr.jpg",
+  "backdropPath": "/8EMwicuj1TrkclMOvslFCQyRg6I.jpg",
+  "logoPath": "/nMb9B7NKkHKgppeOeO98a0GWX6Y.png",
+  "backdrops": [
+    "/hXHzJiIocjKIysuam5rLtkHOA2D.jpg",
+    "/8EMwicuj1TrkclMOvslFCQyRg6I.jpg",
+    "/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
+    "/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+    "/yRsIAwFLDd7QN3Nde0biOwdtDtr.jpg",
+    "/bbagA5hi2bHBimaecC4AzCGagWb.jpg",
+    "/6nluJ2EhHMI939vnU3H3F4B8OI5.jpg",
+    "/bE4lyNZP6iansK5EuzTaMhIrBvx.jpg",
+    "/iqSxSxRIL8vzlVFzOubAkiXnwun.jpg",
+    "/jFFCBC2QkrMUTvm1WOSRhMEm8xz.jpg"
+  ],
+  "releaseDate": "2026-08-20",
+  "runtime": 97,
+  "voteAverage": "6.60",
+  "popularity": null,
+  "popularityScore": 51,
+  "originalLanguage": "en",
+  "country": "US",
+  "status": "Released",
+  "trailerUrl": "https://www.youtube.com/watch?v=AhsA9ZqRAXQ",
+  "quality": "WEB-DL",
+  "director": "Jon Lucas",
+  "directorTmdbId": 52114,
+  "directorProfilePath": "/7MT62A1wIX6u4mjSimVDOcbRQ5s.jpg",
+  "productionCompanies": [
+    {
+      "id": 91921,
+      "name": "Suzanne Todd Productions",
+      "logo_path": null
+    },
+    {
+      "id": 22146,
+      "name": "Black Bear Pictures",
+      "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    }
+  ],
+  "keywords": [
+    {
+      "id": 5248,
+      "name": "female friendship"
+    }
+  ],
+  "importedBy": "451b0bd6-b9f8-43f9-b4b3-ecae60d42419",
+  "viewCount": 3399,
+  "watchlistCount": 21,
+  "favouriteCount": 4,
+  "shareCount": 2,
+  "isPublished": true,
+  "commentsDisabled": false,
+  "commentsDisabledByRole": null,
+  "commentsDisabledAt": null,
+  "createdAt": "2026-09-21T19:15:30.518Z",
+  "updatedAt": "2026-09-21T19:16:19.866Z",
+  "genres": [
+    {
+      "id": "dad99079-eaf7-4665-98a7-c96c6392cda8",
+      "tmdbId": 35,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2026-04-02T13:49:04.843Z"
+    }
+  ],
+  "cast": [
+    {
+      "id": "67a9239f-6ba7-4f33-b442-6d7b0dfcae07",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 41087,
+      "name": "Leslie Mann",
+      "character": "Jane",
+      "profilePath": "/gUOCQBjjjGnWkxjMOc1LmrC0U1k.jpg",
+      "order": 0
+    },
+    {
+      "id": "c309d76c-998d-431f-8187-e0f746e8affb",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 1475128,
+      "name": "Michelle Buteau",
+      "character": "Coco",
+      "profilePath": "/mgAH1JsATQXsQPwquuNJpqux4TO.jpg",
+      "order": 1
+    },
+    {
+      "id": "68c4c94b-b023-4cb4-a8b4-7d9fe294f426",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 1772,
+      "name": "Anna Faris",
+      "character": "Sophie",
+      "profilePath": "/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg",
+      "order": 2
+    },
+    {
+      "id": "40a8a7ea-3e14-4c3b-97dd-a994be795d80",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 52848,
+      "name": "Isla Fisher",
+      "character": "Mel",
+      "profilePath": "/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg",
+      "order": 3
+    },
+    {
+      "id": "cfa72400-c7bc-43ad-aa66-43ca500b8eda",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 1992160,
+      "name": "Adam Demos",
+      "character": "Kai",
+      "profilePath": "/cfeDhsrviNLG30e7cZOABqoKIQc.jpg",
+      "order": 4
+    },
+    {
+      "id": "b9982f0d-6ae9-414e-9398-9152968b259e",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 2300222,
+      "name": "Dominic Ona-Ariki",
+      "character": "Roger",
+      "profilePath": "/xGdtiWh06fVMAuVOUONcFVva2n9.jpg",
+      "order": 5
+    },
+    {
+      "id": "890d2096-bfb7-4a2b-8019-4e118da839ce",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 61779,
+      "name": "Erika Heynatz",
+      "character": "Shanti",
+      "profilePath": "/gfzEzRE2ScFSSOaNrSwrjHSQVnV.jpg",
+      "order": 6
+    },
+    {
+      "id": "4a7f5296-909f-4323-9eef-480b96a6899f",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 4414182,
+      "name": "Courtney Clarke",
+      "character": "Ayurveda",
+      "profilePath": "/zAerkipyeHkUwkR1mSL3iL35epr.jpg",
+      "order": 7
+    },
+    {
+      "id": "5d4ff469-41e1-4ef8-8b30-18482080ca7b",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 3472982,
+      "name": "Quinn Aune",
+      "character": "Young Mel",
+      "profilePath": "/hQcg9uijh53xs4YmNeE60K8JRML.jpg",
+      "order": 8
+    },
+    {
+      "id": "871a3a08-486c-441b-ba1e-77018cd5296d",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 3129167,
+      "name": "Sierra Rose",
+      "character": "Young Coco",
+      "profilePath": "/fqFA0nrvDD7MRtSitZJSpGIzUXj.jpg",
+      "order": 9
+    },
+    {
+      "id": "5a030833-340c-405d-a46d-ef420699cb2d",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 6199845,
+      "name": "Juliet Sargent",
+      "character": "Young Sophie",
+      "profilePath": "/2LWnvKbd73byld91Pz43zb107E2.jpg",
+      "order": 10
+    },
+    {
+      "id": "313688f5-bcfb-4c22-b561-d06a60ebe8be",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 6376030,
+      "name": "Everly Graves",
+      "character": "Young Jane",
+      "profilePath": "/igSTeCGuXGwrEnbdwedabg2KBZ2.jpg",
+      "order": 11
+    },
+    {
+      "id": "a754728e-008f-4950-acf7-bfb5a5c84e64",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 1908399,
+      "name": "Kate Lister",
+      "character": "Clare",
+      "profilePath": "/g49jOXcIhN9rkYDEZR7TWStSIzU.jpg",
+      "order": 12
+    },
+    {
+      "id": "7cc14022-69bb-4073-aeeb-9cf0f9111e13",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 1661479,
+      "name": "Yasmin Kassim",
+      "character": "Allison",
+      "profilePath": "/pv9ShbsTlCwmZAseUI4aud6CTkW.jpg",
+      "order": 13
+    },
+    {
+      "id": "74426c91-91cc-45f6-9417-18855ff8ec89",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 75129,
+      "name": "Damian Walshe-Howling",
+      "character": "Max",
+      "profilePath": "/dfuHl93W6JYbeWlPduT28dIt0EC.jpg",
+      "order": 14
+    },
+    {
+      "id": "0d55cb52-e615-4cb1-aa54-4ea9ca825a83",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 1193834,
+      "name": "Stephen Hunter",
+      "character": "Rick",
+      "profilePath": "/2B1lI5nwKPavixa0JBM0UFnSw4z.jpg",
+      "order": 15
+    },
+    {
+      "id": "810de10c-ff59-4c4f-9240-64f38c77db84",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 3115121,
+      "name": "Tim Appleton",
+      "character": "Police Officer",
+      "profilePath": "/sFb2yXk4lvKI2dpA0Wbt9ZSeYRb.jpg",
+      "order": 16
+    },
+    {
+      "id": "eeead5ef-bb0f-447a-a438-d6b00053ac24",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 2917828,
+      "name": "Peter Thurnwald",
+      "character": "Dylan",
+      "profilePath": "/vmeMihSCzE8W3Hgu31SnQi8gG0L.jpg",
+      "order": 17
+    },
+    {
+      "id": "77f308da-8579-4421-a8ef-e24385d89c96",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 2467788,
+      "name": "Chris Alosio",
+      "character": "Officer Byers",
+      "profilePath": "/abFg3zNpz6l8zhgt8ESlZvVX8Uh.jpg",
+      "order": 18
+    },
+    {
+      "id": "c47a63a8-cfd5-45be-b87c-1f943c74e396",
+      "movieId": "ff246044-88ee-4149-9334-169cd0ecc396",
+      "tmdbPersonId": 2199529,
+      "name": "Tim Ross",
+      "character": "Derek",
+      "profilePath": "/rTLL0oDbnw0ODpkLTobFxcWopWC.jpg",
+      "order": 19
+    }
+  ],
+  "requestedBy": null,
+  "collections": [],
+  "hasVideo": true,
+  "surfaceAds": [
+    {
+      "id": "aea67fba-d02a-4aa0-bc34-cd3b0fd6c618",
+      "name": "QQ188",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9OIWFX9v9UusJCLMY8_C45MtxQrXVocTfKTHdqMNGUpMYaCVgPzaErHrJjqOVMYtvypD_L1TwP38JtzVpVNpM85xgCyZ_LfHRmZbaA9NYh6z1OTF6wR-M-B36fn-CA9iStZPwJ6z4fnCjLGlM6sfSfJeOjxl9Avuh6YjvaWYt0WthabAblh3oKvIPiv7k/s1456/Gif-ADs-188_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX188",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "926f83bd-4272-4887-8a39-e9c9c1b54bb7",
+      "name": "QQ1X2",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhASW4mNkEoNvqL2gghL9anztiv_u1UVAyJqxmwqz1ssJlIrVmCseJm_5_R2sUOXrI0VYUHNZoVj-ted8kQ_LYsjkOsFf-xH4IB6E4FB4TaKlWroBVPlhz0jZ57itb2wltDGM8rUFGy8xp_e-TswqUYAVft4NPjsuRA7724f3QEZ3KnaMw4lASnJixawMnc/s1456/Gif-ADs-1X2_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX1x2",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cc26da83-d35f-40eb-81c2-678c1c5e4f15",
+      "name": "QQ808",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdv15g0rec7BwHwomWIe6OrX1VUr3raERKM7d5QRUsdtfIEvpojxHWDY8-pNy-JvDuI9iax0A0I64sweNEVyVTd37zbUxXnMvEljVRP0-sP57mKkukcYAGTJZ3YNLd6Y0Lc2uVlw8tGKDT13dgKsRLOWU5cDHy9qh2H_NxOiBrnRqJLYzovUhiDpwxjMu/s1456/Gif-ADs-808_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX808",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "301f25ed-a5b2-4735-b7c3-b9766f530c65",
+      "name": "QQ8889",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjejR2cUl0KpQSyHykdJMf9gnWmU-3UqAfIurd5wqR2tWaVNWy8Q9uGVXeiJ_btZx_coOm1M2RNvh25pJ3Lt2WKz1kUcYhjPgFkL6rUW2rIhQlWNNo8CBFM6aHsC7E8b6TqPn7i0mqI9XsbJTFul7WsjSfIObOcmIZcfrti7vL9Bit0G1hhEjpvEHPDuXNh/s1456/Gif-ADs-8889_Idlix.gif",
+      "targetUrl": "https://bit.ly/IDLIX8889",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "homepageAds": [
+    {
+      "id": "787b67a7-8673-4ab4-8c4a-344030e99be8",
+      "name": "QQ724",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BeeLsSxM_96K8Bh8w53E57fuVKXJg8dfm_SUl_hebLo-tEcMXJNN9kTvoZqWjSj3f83AkaPJwXvJrGWWLljfL2rc0QD37G5Eep68YiARiFIXQm6yZ3zYotbb9w0XpzLu5lea5Lh7LYgX-XP3Fqp38snFzgjoEEx8-Z9lxJfkbo93Nw/s1600/Gif-Ads_QQ724_728x90_kiri-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX724",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "9f3c9b34-26e8-428c-b573-f4d7873981d0",
+      "name": "QQ101",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VpjRn3hsBeXL4mjQQOPkYMnjs6TmL3S6Mku58tkCZ0OD4W0s26m_hbH6oSS3Yf6rhGdTjI4XNik31Gs_iQYtqptlhlZoKqqcQYxXtdSQGcFQRzPUQa-MCWvJa1i0h5K6zbc38q0r928fz9mKiIiwsqH-DHACM74cODHlMaZz0NHHnw/s1600/Gif-Ads_QQ101_728x90_kiri-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX101",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "a834efbf-7f50-41d2-9f52-f52570431919",
+      "name": "QQ828",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf821TfCfGP97BjTJ01DhR0damDoyiphbWTZWGTvFFvrquwj_MDDGfyOTN8ncgLM7ttH0ObTC2Kqr7fELEoOEjJD3vYFoFtYIAHxzqsrHLquA4P3S-zPNW2RcHnhinK7Nk1ojXPSkf8b8J9UfwLIbZhlwD4WxMR0PRvzbMgQbolVrj6w/s1600/Gif-Ads_QQ828_728x90_kiri-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX828",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "cbc6b2bc-38d2-48d8-86e4-3a5463e03060",
+      "name": "QQ888",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAzwmfzEYz7Mb0Iupvbq2ZxltYuH7BSwBoiO86wtvKpVRPc1n_kv89sBrYbIAyjRMDn66fl1jsvThOyGdWEEJ_WaVtqPxd87-TD5BGIgYyIqynFJkJm9fMnq9_F9tyPi1NuLG31eVEEacIuhsmruRG0A-XyYBPP_E41T1ZUqc1DRgPoA/s1600/Gif-Ads_QQ888BET_728x90_kanan-2.gif",
+      "targetUrl": "https://bit.ly/IDLIX888bet",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f918a74c-2287-4de2-8f1b-14b8cc2fb946",
+      "name": "QQ801",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2MolUFtRZWqdVqsHp0m4pxUkDX6k4UT4g_VyNuClp4O46JoDoF440McyWw1aZ7XfuK-r8BkliWuivWiSYZaLXED10fhz41ATwKdpHolQXwgCGah8ge0HOU3YmU30EKwx5alG9Ef_tM9hi3stEcyuMThsp8cTRiU7rPq3C23c-VVPpw/s1600/Gif-Ads_QQ801_728x90_kanan-1.gif",
+      "targetUrl": "https://bit.ly/IDLIX801",
+      "htmlContent": null,
+      "config": {}
+    },
+    {
+      "id": "f9bf7833-d67c-456a-b87b-390d64f09d35",
+      "name": "QQ882",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIqxWn0Q6CZFzrdk9lrxNY9o7LJDP8YgJMIOEwZ61vniM6glO3UI6IFcXhOZ4sjyecJBErb5XGawQi84kbXRwIqtUh9gJU8Frx_eLiCBtheJ6Wr9knA8FJj-S3ac7rmSjupBEvziDOwgWymO-H3i6x1Wd7xU_9jbOKGGK6EfZrhiHMfQ/s1600/Gif-Ads_QQ882_728x90_kanan-3.gif",
+      "targetUrl": "https://bit.ly/IDLIX882",
+      "htmlContent": null,
+      "config": {}
+    }
+  ],
+  "promoModals": [],
+  "shorts": []
+}
