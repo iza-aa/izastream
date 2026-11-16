@@ -32,3 +32,4 @@ evidence_bundle.json
 reports/
 src/
 analysis_*.json
+.env*
